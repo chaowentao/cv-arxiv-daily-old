@@ -75,31 +75,6 @@
 |**2021-12-07**|**Decision-based Black-box Attack Against Vision Transformers via Patch-wise Adversarial Removal**|Yucheng Shi et.al.|[2112.03492v1](http://arxiv.org/abs/2112.03492v1)|**[link](https://github.com/shiyuchengtju/par)**|
 |**2021-12-06**|**Scaling Up Influence Functions**|Andrea Schioppa et.al.|[2112.03052v1](http://arxiv.org/abs/2112.03052v1)|null|
 
-## Keypoint Detection
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2021-12-22**|**Looking Beyond Corners: Contrastive Learning of Visual Representations for Keypoint Detection and Description Extraction**|Henrique Siqueira et.al.|[2112.12002v1](http://arxiv.org/abs/2112.12002v1)|null|
-|**2021-12-19**|**Parallel Multi-Scale Networks with Deep Supervision for Hand Keypoint Detection**|Renjie Li et.al.|[2112.10275v1](http://arxiv.org/abs/2112.10275v1)|null|
-|**2021-12-19**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer et.al.|[2112.10258v1](http://arxiv.org/abs/2112.10258v1)|**[link](https://github.com/carluerjb/3d_sift_cuda)**|
-|**2021-12-16**|**Masked Feature Prediction for Self-Supervised Visual Pre-Training**|Chen Wei et.al.|[2112.09133v1](http://arxiv.org/abs/2112.09133v1)|null|
-|**2021-12-13**|**DenseGAP: Graph-Structured Dense Correspondence Learning with Anchor Points**|Zhengfei Kuang et.al.|[2112.06910v1](http://arxiv.org/abs/2112.06910v1)|null|
-|**2021-12-12**|**Few-shot Keypoint Detection with Uncertainty Learning for Unseen Species**|Changsheng Lu et.al.|[2112.06183v1](http://arxiv.org/abs/2112.06183v1)|null|
-|**2021-12-09**|**Few-Shot Keypoint Detection as Task Adaptation via Latent Embeddings**|Mel Vecerik et.al.|[2112.04910v2](http://arxiv.org/abs/2112.04910v2)|null|
-|**2021-12-06**|**ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction**|Xiaoming Zhao et.al.|[2112.02906v1](http://arxiv.org/abs/2112.02906v1)|**[link](https://github.com/Shiaoming/ALIKE)**|
-|**2021-11-25**|**Attend to Who You Are: Supervising Self-Attention for Keypoint Detection and Instance-Aware Association**|Sen Yang et.al.|[2111.12892v1](http://arxiv.org/abs/2111.12892v1)|**[link](https://github.com/yangsenius/ssa)**|
-|**2021-11-08**|**Template NeRF: Towards Modeling Dense Shape Correspondences from Category-Specific Object Images**|Jianfei Guo et.al.|[2111.04237v1](http://arxiv.org/abs/2111.04237v1)|null|
-|**2021-11-04**|**Voxel-based 3D Detection and Reconstruction of Multiple Objects from a Single Image**|Feng Liu et.al.|[2111.03098v1](http://arxiv.org/abs/2111.03098v1)|null|
-|**2021-11-01**|**Learning Event-based Spatio-Temporal Feature Descriptors via Local Synaptic Plasticity: A Biologically-realistic Perspective of Computer Vision**|Ali Safa et.al.|[2111.00791v2](http://arxiv.org/abs/2111.00791v2)|null|
-|**2021-10-30**|**Geometry-Aware Hierarchical Bayesian Learning on Manifolds**|Yonghui Fan et.al.|[2111.00184v1](http://arxiv.org/abs/2111.00184v1)|null|
-|**2021-10-26**|**CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration**|Hao Yu et.al.|[2110.14076v1](http://arxiv.org/abs/2110.14076v1)|**[link](https://github.com/haoyu94/coarse-to-fine-correspondences)**|
-|**2021-10-23**|**HWTool: Fully Automatic Mapping of an Extensible C++ Image Processing Language to Hardware**|James Hegarty et.al.|[2110.12106v1](http://arxiv.org/abs/2110.12106v1)|null|
-|**2021-10-18**|**Keypoint-Based Bimanual Shaping of Deformable Linear Objects under Environmental Constraints using Hierarchical Action Planning**|Shengzeng Huo et.al.|[2110.08962v1](http://arxiv.org/abs/2110.08962v1)|null|
-|**2021-10-11**|**High-order Tensor Pooling with Attention for Action Recognition**|Piotr Koniusz et.al.|[2110.05216v1](http://arxiv.org/abs/2110.05216v1)|null|
-|**2021-10-10**|**Digging Into Self-Supervised Learning of Feature Descriptors**|Iaroslav Melekhov et.al.|[2110.04773v1](http://arxiv.org/abs/2110.04773v1)|null|
-|**2021-10-04**|**BPFNet: A Unified Framework for Bimodal Palmprint Alignment and Fusion**|Zhaoqun Li et.al.|[2110.01179v2](http://arxiv.org/abs/2110.01179v2)|**[link](https://github.com/dxbdxx/bpfnet)**|
-|**2021-10-01**|**Machine learning aided noise filtration and signal classification for CREDO experiment**|Łukasz Bibrzycki et.al.|[2110.00297v1](http://arxiv.org/abs/2110.00297v1)|null|
-
 ## Human Pose Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
