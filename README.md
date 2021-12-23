@@ -147,3 +147,48 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
+## Image Generation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2021-12-16**|**High Fidelity Visualization of What Your Self-Supervised Representation Knows About**|Florian Bordes et.al.|[2112.09164v1](http://arxiv.org/abs/2112.09164v1)|null|
+|**2021-12-16**|**TAFIM: Targeted Adversarial Attacks against Facial Image Manipulations**|Shivangi Aneja et.al.|[2112.09151v1](http://arxiv.org/abs/2112.09151v1)|null|
+|**2021-12-16**|**MVSS-Net: Multi-View Multi-Scale Supervised Networks for Image Manipulation Detection**|Chengbo Dong et.al.|[2112.08935v1](http://arxiv.org/abs/2112.08935v1)|null|
+|**2021-12-13**|**Exploring Latent Dimensions of Crowd-sourced Creativity**|Umut Kocasari et.al.|[2112.06978v1](http://arxiv.org/abs/2112.06978v1)|**[link](https://github.com/catlab-team/latentcreative)**|
+|**2021-12-08**|**A Unified Architecture of Semantic Segmentation and Hierarchical Generative Adversarial Networks for Expression Manipulation**|Rumeysa Bodur et.al.|[2112.04603v1](http://arxiv.org/abs/2112.04603v1)|null|
+|**2021-12-01**|**HyperInverter: Improving StyleGAN Inversion via Hypernetwork**|Tan M. Dinh et.al.|[2112.00719v1](http://arxiv.org/abs/2112.00719v1)|null|
+|**2021-11-30**|**Sound-Guided Semantic Image Manipulation**|Seung Hyun Lee et.al.|[2112.00007v1](http://arxiv.org/abs/2112.00007v1)|null|
+|**2021-11-30**|**EdiBERT, a generative model for image editing**|Thibaut Issenhuth et.al.|[2111.15264v1](http://arxiv.org/abs/2111.15264v1)|**[link](https://github.com/edibert4imagemanipulation/edibert)**|
+|**2021-11-30**|**SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches**|Yu Zeng et.al.|[2111.15078v1](http://arxiv.org/abs/2111.15078v1)|null|
+|**2021-11-26**|**Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model**|Zipeng Xu et.al.|[2111.13333v1](http://arxiv.org/abs/2111.13333v1)|null|
+
+## Light Field
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2021-12-20**|**Thermalization of light's orbital angular momentum in nonlinear multimode waveguide systems**|Fan O. Wu et.al.|[2112.10841v1](http://arxiv.org/abs/2112.10841v1)|null|
+|**2021-12-20**|**Attosecond light field synthesis for electron motion control**|Husain Alqattan et.al.|[2112.10700v1](http://arxiv.org/abs/2112.10700v1)|null|
+|**2021-12-20**|**Tunable partial polarization beam splitter and optomechanically induced Faraday effect**|Xuan Mao et.al.|[2112.10473v1](http://arxiv.org/abs/2112.10473v1)|null|
+|**2021-12-18**|**Spontaneous decay induced quantum dynamics in Rydberg blockaded Λ-type atoms**|Chang Qiao et.al.|[2112.09900v1](http://arxiv.org/abs/2112.09900v1)|null|
+|**2021-12-17**|**Light Field Neural Rendering**|Mohammed Suhail et.al.|[2112.09687v1](http://arxiv.org/abs/2112.09687v1)|null|
+|**2021-12-16**|**Single-step transmission matrix retrieval for fast imaging through multi-mode fibers**|Daniele Ancora et.al.|[2112.09564v1](http://arxiv.org/abs/2112.09564v1)|null|
+|**2021-12-09**|**Polarization-dependent magnetic properties of periodically driven $α$-RuCl$_{3}$**|Naoya Arakawa et.al.|[2112.04690v1](http://arxiv.org/abs/2112.04690v1)|null|
+|**2021-12-08**|**SIRfyN: Single Image Relighting from your Neighbors**|D. A. Forsyth et.al.|[2112.04497v1](http://arxiv.org/abs/2112.04497v1)|null|
+|**2021-12-07**|**Self-healing and transformation characteristics of obstructed Hermite-Gaussian modes composed structured beams**|Suyi Zhao et.al.|[2112.03524v2](http://arxiv.org/abs/2112.03524v2)|null|
+|**2021-12-06**|**Role of Spin-Orbit Coupling in High-order Harmonic Generation Revealed by Super-Cycle Rydberg Trajectories**|Nicola Mayer et.al.|[2112.02981v1](http://arxiv.org/abs/2112.02981v1)|null|
+
+## Vision Transformer
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2021-12-21**|**Learned Queries for Efficient Local Attention**|Moab Arar et.al.|[2112.11435v1](http://arxiv.org/abs/2112.11435v1)|null|
+|**2021-12-21**|**MPViT: Multi-Path Vision Transformer for Dense Prediction**|Youngwan Lee et.al.|[2112.11010v1](http://arxiv.org/abs/2112.11010v1)|null|
+|**2021-12-20**|**Lite Vision Transformer with Enhanced Self-Attention**|Chenglin Yang et.al.|[2112.10809v1](http://arxiv.org/abs/2112.10809v1)|null|
+|**2021-12-17**|**A Simple Single-Scale Vision Transformer for Object Localization and Instance Segmentation**|Wuyang Chen et.al.|[2112.09747v1](http://arxiv.org/abs/2112.09747v1)|null|
+|**2021-12-17**|**Towards End-to-End Image Compression and Analysis with Transformers**|Yuanchao Bai et.al.|[2112.09300v1](http://arxiv.org/abs/2112.09300v1)|**[link](https://github.com/bychao100/towards-image-compression-and-analysis-with-transformers)**|
+|**2021-12-16**|**How to augment your ViTs? Consistency loss and StyleAug, a random style transfer augmentation**|Akash Umakantha et.al.|[2112.09260v1](http://arxiv.org/abs/2112.09260v1)|null|
+|**2021-12-15**|**SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation**|Junfeng Wu et.al.|[2112.08275v1](http://arxiv.org/abs/2112.08275v1)|**[link](https://github.com/wjf5203/SeqFormer)**|
+|**2021-12-15**|**Vision Transformer Based Video Hashing Retrieval for Tracing the Source of Fake Videos**|Pengfei Pei et.al.|[2112.08117v1](http://arxiv.org/abs/2112.08117v1)|**[link](https://github.com/lajlksdf/vtl)**|
+|**2021-12-14**|**AdaViT: Adaptive Tokens for Efficient Vision Transformer**|Hongxu Yin et.al.|[2112.07658v1](http://arxiv.org/abs/2112.07658v1)|null|
+|**2021-12-12**|**Improving Vision Transformers for Incremental Learning**|Pei Yu et.al.|[2112.06103v1](http://arxiv.org/abs/2112.06103v1)|null|
+
