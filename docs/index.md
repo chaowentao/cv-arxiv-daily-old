@@ -98,6 +98,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-22**|**Looking Beyond Corners: Contrastive Learning of Visual Representations for Keypoint Detection and Description Extraction**|Henrique Siqueira et.al.|[2112.12002v1](http://arxiv.org/abs/2112.12002v1)|null|
 |**2021-12-19**|**Parallel Multi-Scale Networks with Deep Supervision for Hand Keypoint Detection**|Renjie Li et.al.|[2112.10275v1](http://arxiv.org/abs/2112.10275v1)|null|
 |**2021-12-19**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer et.al.|[2112.10258v1](http://arxiv.org/abs/2112.10258v1)|**[link](https://github.com/carluerjb/3d_sift_cuda)**|
 |**2021-12-16**|**Masked Feature Prediction for Self-Supervised Visual Pre-Training**|Chen Wei et.al.|[2112.09133v1](http://arxiv.org/abs/2112.09133v1)|null|
@@ -115,7 +116,7 @@ layout: default
 |**2021-10-18**|**Keypoint-Based Bimanual Shaping of Deformable Linear Objects under Environmental Constraints using Hierarchical Action Planning**|Shengzeng Huo et.al.|[2110.08962v1](http://arxiv.org/abs/2110.08962v1)|null|
 |**2021-10-11**|**High-order Tensor Pooling with Attention for Action Recognition**|Piotr Koniusz et.al.|[2110.05216v1](http://arxiv.org/abs/2110.05216v1)|null|
 |**2021-10-10**|**Digging Into Self-Supervised Learning of Feature Descriptors**|Iaroslav Melekhov et.al.|[2110.04773v1](http://arxiv.org/abs/2110.04773v1)|null|
-|**2021-10-04**|**BPFNet: A Unified Framework for Bimodal Palmprint Alignment and Fusion**|Zhaoqun Li et.al.|[2110.01179v1](http://arxiv.org/abs/2110.01179v1)|**[link](https://github.com/dxbdxx/bpfnet)**|
+|**2021-10-04**|**BPFNet: A Unified Framework for Bimodal Palmprint Alignment and Fusion**|Zhaoqun Li et.al.|[2110.01179v2](http://arxiv.org/abs/2110.01179v2)|**[link](https://github.com/dxbdxx/bpfnet)**|
 |**2021-10-01**|**Machine learning aided noise filtration and signal classification for CREDO experiment**|Łukasz Bibrzycki et.al.|[2110.00297v1](http://arxiv.org/abs/2110.00297v1)|null|
 |**2021-09-28**|**PDC-Net+: Enhanced Probabilistic Dense Correspondence Network**|Prune Truong et.al.|[2109.13912v2](http://arxiv.org/abs/2109.13912v2)|**[link](https://github.com/PruneTruong/DenseMatching)**|
 |**2021-09-27**|**HarrisZ$^+$: Harris Corner Selection for Next-Gen Image Matching Pipelines**|Fabio Bellavia et.al.|[2109.12925v3](http://arxiv.org/abs/2109.12925v3)|null|
@@ -165,11 +166,22 @@ layout: default
 |**2021-11-30**|**EdiBERT, a generative model for image editing**|Thibaut Issenhuth et.al.|[2111.15264v1](http://arxiv.org/abs/2111.15264v1)|**[link](https://github.com/edibert4imagemanipulation/edibert)**|
 |**2021-11-30**|**SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches**|Yu Zeng et.al.|[2111.15078v1](http://arxiv.org/abs/2111.15078v1)|null|
 |**2021-11-26**|**Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model**|Zipeng Xu et.al.|[2111.13333v1](http://arxiv.org/abs/2111.13333v1)|null|
+|**2021-11-25**|**Attribute-specific Control Units in StyleGAN for Fine-grained Image Manipulation**|Rui Wang et.al.|[2111.13010v1](http://arxiv.org/abs/2111.13010v1)|**[link](https://github.com/budui/Control-Units-in-StyleGAN2)**|
+|**2021-11-24**|**Application of deep learning to camera trap data for ecologists in planning / engineering -- Can captivity imagery train a model which generalises to the wild?**|Ryan Curry et.al.|[2111.12805v1](http://arxiv.org/abs/2111.12805v1)|null|
+|**2021-11-24**|**Analysing Statistical methods for Automatic Detection of Image Forgery**|Umar Masud et.al.|[2111.12661v1](http://arxiv.org/abs/2111.12661v1)|**[link](https://github.com/umar07/Image_Forgery_Detection)**|
+|**2021-11-18**|**Simple but Effective: CLIP Embeddings for Embodied AI**|Apoorv Khandelwal et.al.|[2111.09888v1](http://arxiv.org/abs/2111.09888v1)|null|
+|**2021-11-12**|**Contrastive Feature Loss for Image Prediction**|Alex Andonian et.al.|[2111.06934v1](http://arxiv.org/abs/2111.06934v1)|**[link](https://github.com/alexandonian/contrastive-feature-loss)**|
+|**2021-11-05**|**Seamless Satellite-image Synthesis**|Jialin Zhu et.al.|[2111.03384v1](http://arxiv.org/abs/2111.03384v1)|**[link](https://github.com/misaliet/seamless-satellite-image-synthesis)**|
+|**2021-11-03**|**Beyond PRNU: Learning Robust Device-Specific Fingerprint for Source Camera Identification**|Manisha et.al.|[2111.02144v1](http://arxiv.org/abs/2111.02144v1)|null|
+|**2021-11-02**|**StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN**|Min Jin Chong et.al.|[2111.01619v1](http://arxiv.org/abs/2111.01619v1)|**[link](https://github.com/mchong6/SOAT)**|
+|**2021-11-01**|**MOST-GAN: 3D Morphable StyleGAN for Disentangled Face Image Manipulation**|Safa C. Medin et.al.|[2111.01048v1](http://arxiv.org/abs/2111.01048v1)|null|
+|**2021-10-30**|**Unpaired Learning for High Dynamic Range Image Tone Mapping**|Yael Vinker et.al.|[2111.00219v1](http://arxiv.org/abs/2111.00219v1)|null|
 
 ## Light Field
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-22**|**Quantitative phase imaging through an ultra-thin lensless fiber endoscope**|Jiawei Sun et.al.|[2112.12055v1](http://arxiv.org/abs/2112.12055v1)|null|
 |**2021-12-20**|**Thermalization of light's orbital angular momentum in nonlinear multimode waveguide systems**|Fan O. Wu et.al.|[2112.10841v1](http://arxiv.org/abs/2112.10841v1)|null|
 |**2021-12-20**|**Attosecond light field synthesis for electron motion control**|Husain Alqattan et.al.|[2112.10700v1](http://arxiv.org/abs/2112.10700v1)|null|
 |**2021-12-20**|**Tunable partial polarization beam splitter and optomechanically induced Faraday effect**|Xuan Mao et.al.|[2112.10473v1](http://arxiv.org/abs/2112.10473v1)|null|
@@ -180,11 +192,21 @@ layout: default
 |**2021-12-08**|**SIRfyN: Single Image Relighting from your Neighbors**|D. A. Forsyth et.al.|[2112.04497v1](http://arxiv.org/abs/2112.04497v1)|null|
 |**2021-12-07**|**Self-healing and transformation characteristics of obstructed Hermite-Gaussian modes composed structured beams**|Suyi Zhao et.al.|[2112.03524v2](http://arxiv.org/abs/2112.03524v2)|null|
 |**2021-12-06**|**Role of Spin-Orbit Coupling in High-order Harmonic Generation Revealed by Super-Cycle Rydberg Trajectories**|Nicola Mayer et.al.|[2112.02981v1](http://arxiv.org/abs/2112.02981v1)|null|
+|**2021-12-02**|**Learning Neural Light Fields with Ray-Space Embedding Networks**|Benjamin Attal et.al.|[2112.01523v2](http://arxiv.org/abs/2112.01523v2)|null|
+|**2021-12-02**|**Neural Point Light Fields**|Julian Ost et.al.|[2112.01473v2](http://arxiv.org/abs/2112.01473v2)|null|
+|**2021-12-01**|**Is Projection Mapping Natural? Towards Physical World Augmentation Consistent with Light Field Context**|Daisuke Iwai et.al.|[2112.00731v1](http://arxiv.org/abs/2112.00731v1)|null|
+|**2021-11-30**|**Light Field Implicit Representation for Flexible Resolution Reconstruction**|Paramanand Chandramouli et.al.|[2112.00185v1](http://arxiv.org/abs/2112.00185v1)|null|
+|**2021-11-30**|**Atomic real-space perspective of light-field-driven currents in graphene**|Yuya Morimoto et.al.|[2111.15305v1](http://arxiv.org/abs/2111.15305v1)|null|
+|**2021-11-25**|**Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations**|Mehdi S. M. Sajjadi et.al.|[2111.13152v2](http://arxiv.org/abs/2111.13152v2)|null|
+|**2021-11-24**|**Lensless multicore-fiber microendoscope for real-time tailored light field generation with phase encoder neural network (CoreNet)**|Jiawei Sun et.al.|[2111.12758v1](http://arxiv.org/abs/2111.12758v1)|null|
+|**2021-11-23**|**Many-body probes for quantum features of spacetime**|Hadrien Chevalier et.al.|[2111.12006v1](http://arxiv.org/abs/2111.12006v1)|null|
+|**2021-11-23**|**Unambiguous definition of handedness for locally-chiral light**|Ofer Neufeld et.al.|[2111.11928v1](http://arxiv.org/abs/2111.11928v1)|null|
 
 ## Vision Transformer
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-21**|**MIA-Former: Efficient and Robust Vision Transformers via Multi-grained Input-Adaptation**|Zhongzhi Yu et.al.|[2112.11542v1](http://arxiv.org/abs/2112.11542v1)|null|
 |**2021-12-21**|**Learned Queries for Efficient Local Attention**|Moab Arar et.al.|[2112.11435v1](http://arxiv.org/abs/2112.11435v1)|null|
 |**2021-12-21**|**MPViT: Multi-Path Vision Transformer for Dense Prediction**|Youngwan Lee et.al.|[2112.11010v1](http://arxiv.org/abs/2112.11010v1)|null|
 |**2021-12-20**|**Lite Vision Transformer with Enhanced Self-Attention**|Chenglin Yang et.al.|[2112.10809v1](http://arxiv.org/abs/2112.10809v1)|null|
@@ -195,4 +217,13 @@ layout: default
 |**2021-12-15**|**Vision Transformer Based Video Hashing Retrieval for Tracing the Source of Fake Videos**|Pengfei Pei et.al.|[2112.08117v1](http://arxiv.org/abs/2112.08117v1)|**[link](https://github.com/lajlksdf/vtl)**|
 |**2021-12-14**|**AdaViT: Adaptive Tokens for Efficient Vision Transformer**|Hongxu Yin et.al.|[2112.07658v1](http://arxiv.org/abs/2112.07658v1)|null|
 |**2021-12-12**|**Improving Vision Transformers for Incremental Learning**|Pei Yu et.al.|[2112.06103v1](http://arxiv.org/abs/2112.06103v1)|null|
+|**2021-12-10**|**Deep ViT Features as Dense Visual Descriptors**|Shir Amir et.al.|[2112.05814v1](http://arxiv.org/abs/2112.05814v1)|null|
+|**2021-12-10**|**Couplformer:Rethinking Vision Transformer with Coupling Attention Map**|Hai Lan et.al.|[2112.05425v1](http://arxiv.org/abs/2112.05425v1)|null|
+|**2021-12-09**|**Injecting Semantic Concepts into End-to-End Image Captioning**|Zhiyuan Fang et.al.|[2112.05230v1](http://arxiv.org/abs/2112.05230v1)|null|
+|**2021-12-09**|**Locally Shifted Attention With Early Global Integration**|Shelly Sheynin et.al.|[2112.05080v2](http://arxiv.org/abs/2112.05080v2)|**[link](https://github.com/shellysheynin/locally-sag-transformer)**|
+|**2021-12-09**|**PE-former: Pose Estimation Transformer**|Paschalis Panteleris et.al.|[2112.04981v1](http://arxiv.org/abs/2112.04981v1)|**[link](https://github.com/padeler/pe-former)**|
+|**2021-12-08**|**Transformaly -- Two (Feature Spaces) Are Better Than One**|Matan Jacob Cohen et.al.|[2112.04185v1](http://arxiv.org/abs/2112.04185v1)|null|
+|**2021-12-07**|**Bootstrapping ViTs: Towards Liberating Vision Transformers from Pre-training**|Haofei Zhang et.al.|[2112.03552v2](http://arxiv.org/abs/2112.03552v2)|null|
+|**2021-12-07**|**Decision-based Black-box Attack Against Vision Transformers via Patch-wise Adversarial Removal**|Yucheng Shi et.al.|[2112.03492v1](http://arxiv.org/abs/2112.03492v1)|**[link](https://github.com/shiyuchengtju/par)**|
+|**2021-12-06**|**Scaling Up Influence Functions**|Andrea Schioppa et.al.|[2112.03052v1](http://arxiv.org/abs/2112.03052v1)|null|
 
