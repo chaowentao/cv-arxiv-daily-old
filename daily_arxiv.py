@@ -182,11 +182,11 @@ if __name__ == "__main__":
     keywords["Image Generation"]      = "\"Text-to-Image\"OR\"Image Manipulation\""
     keywords["Light Field"]      = "\"Light Field\""
     keywords["Vision Transformer"]      = "\"Vision Transformer\""
-    keywords["SLAM"]                = "SLAM"
-    keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
-    keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\""
     keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
-    keywords["Image Matching"]      = "\"Image Matching\""
+#     keywords["SLAM"]                = "SLAM"
+#     keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
+#     keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\""
+#     keywords["Image Matching"]      = "\"Image Matching\""
     
 
     for topic,keyword in keywords.items():
@@ -194,7 +194,7 @@ if __name__ == "__main__":
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
 
-        data,data_web = get_daily_papers(topic, query = keyword, max_results = 10)
+        data,data_web = get_daily_papers(topic, query = keyword, max_results = 20)
         data_collector.append(data)
         data_collector_web.append(data_web)
 
