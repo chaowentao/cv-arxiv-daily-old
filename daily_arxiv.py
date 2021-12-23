@@ -182,7 +182,7 @@ if __name__ == "__main__":
     keywords["Image Generation"]      = "\"Text-to-Image\"OR\"Image Manipulation\""
     keywords["Light Field"]      = "\"Light Field\""
     keywords["Vision Transformer"]      = "\"Vision Transformer\""
-    keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
+    keywords["Human Pose Estimation"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\"OR\"Human Pose Estimation\""
 #     keywords["SLAM"]                = "SLAM"
 #     keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
 #     keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\""
