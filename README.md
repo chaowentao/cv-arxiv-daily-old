@@ -75,7 +75,7 @@
 |**2021-12-07**|**Decision-based Black-box Attack Against Vision Transformers via Patch-wise Adversarial Removal**|Yucheng Shi et.al.|[2112.03492v1](http://arxiv.org/abs/2112.03492v1)|**[link](https://github.com/shiyuchengtju/par)**|
 |**2021-12-06**|**Scaling Up Influence Functions**|Andrea Schioppa et.al.|[2112.03052v1](http://arxiv.org/abs/2112.03052v1)|null|
 
-## Keypoint Detection
+## Human Pose Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
