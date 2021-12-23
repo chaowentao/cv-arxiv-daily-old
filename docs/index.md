@@ -227,3 +227,28 @@ layout: default
 |**2021-12-07**|**Decision-based Black-box Attack Against Vision Transformers via Patch-wise Adversarial Removal**|Yucheng Shi et.al.|[2112.03492v1](http://arxiv.org/abs/2112.03492v1)|**[link](https://github.com/shiyuchengtju/par)**|
 |**2021-12-06**|**Scaling Up Influence Functions**|Andrea Schioppa et.al.|[2112.03052v1](http://arxiv.org/abs/2112.03052v1)|null|
 
+## Human Pose Estimation
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-22**|**Multi-modal 3D Human Pose Estimation with 2D Weak Supervision in Autonomous Driving**|Jingxiao Zheng et.al.|[2112.12141v1](http://arxiv.org/abs/2112.12141v1)|null|
+|**2021-12-22**|**Looking Beyond Corners: Contrastive Learning of Visual Representations for Keypoint Detection and Description Extraction**|Henrique Siqueira et.al.|[2112.12002v1](http://arxiv.org/abs/2112.12002v1)|null|
+|**2021-12-22**|**Bottom-up approaches for multi-person pose estimation and it's applications: A brief review**|Milan Kresović et.al.|[2112.11834v1](http://arxiv.org/abs/2112.11834v1)|null|
+|**2021-12-22**|**AdaptPose: Cross-Dataset Adaptation for 3D Human Pose Estimation by Learnable Motion Generation**|Mohsen Gholami et.al.|[2112.11593v1](http://arxiv.org/abs/2112.11593v1)|null|
+|**2021-12-21**|**PONet: Robust 3D Human Pose Estimation via Learning Orientations Only**|Jue Wang et.al.|[2112.11153v1](http://arxiv.org/abs/2112.11153v1)|null|
+|**2021-12-20**|**Model-based gait recognition using graph network on very large population database**|Zhihao Wang et.al.|[2112.10305v1](http://arxiv.org/abs/2112.10305v1)|null|
+|**2021-12-19**|**Parallel Multi-Scale Networks with Deep Supervision for Hand Keypoint Detection**|Renjie Li et.al.|[2112.10275v1](http://arxiv.org/abs/2112.10275v1)|null|
+|**2021-12-19**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer et.al.|[2112.10258v1](http://arxiv.org/abs/2112.10258v1)|**[link](https://github.com/carluerjb/3d_sift_cuda)**|
+|**2021-12-17**|**PeopleSansPeople: A Synthetic Data Generator for Human-Centric Computer Vision**|Salehe Erfanian Ebadi et.al.|[2112.09290v1](http://arxiv.org/abs/2112.09290v1)|null|
+|**2021-12-16**|**Masked Feature Prediction for Self-Supervised Visual Pre-Training**|Chen Wei et.al.|[2112.09133v1](http://arxiv.org/abs/2112.09133v1)|null|
+|**2021-12-14**|**ElePose: Unsupervised 3D Human Pose Estimation by Predicting Camera Elevation and Learning Normalizing Flows on 2D Poses**|Bastian Wandt et.al.|[2112.07088v1](http://arxiv.org/abs/2112.07088v1)|null|
+|**2021-12-13**|**DenseGAP: Graph-Structured Dense Correspondence Learning with Anchor Points**|Zhengfei Kuang et.al.|[2112.06910v1](http://arxiv.org/abs/2112.06910v1)|null|
+|**2021-12-12**|**Few-shot Keypoint Detection with Uncertainty Learning for Unseen Species**|Changsheng Lu et.al.|[2112.06183v1](http://arxiv.org/abs/2112.06183v1)|null|
+|**2021-12-09**|**Few-Shot Keypoint Detection as Task Adaptation via Latent Embeddings**|Mel Vecerik et.al.|[2112.04910v2](http://arxiv.org/abs/2112.04910v2)|null|
+|**2021-12-06**|**ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction**|Xiaoming Zhao et.al.|[2112.02906v1](http://arxiv.org/abs/2112.02906v1)|**[link](https://github.com/Shiaoming/ALIKE)**|
+|**2021-12-01**|**Camera Motion Agnostic 3D Human Pose Estimation**|Seong Hyun Kim et.al.|[2112.00343v1](http://arxiv.org/abs/2112.00343v1)|null|
+|**2021-11-30**|**In-Bed Human Pose Estimation from Unseen and Privacy-Preserving Image Domains**|Ting Cao et.al.|[2111.15124v1](http://arxiv.org/abs/2111.15124v1)|null|
+|**2021-11-30**|**Camera Distortion-aware 3D Human Pose Estimation in Video with Optimization-based Meta-Learning**|Hanbyel Cho et.al.|[2111.15056v2](http://arxiv.org/abs/2111.15056v2)|**[link](https://github.com/hanbyel0105/CamDistHumanPose3D)**|
+|**2021-11-25**|**Attend to Who You Are: Supervising Self-Attention for Keypoint Detection and Instance-Aware Association**|Sen Yang et.al.|[2111.12892v1](http://arxiv.org/abs/2111.12892v1)|**[link](https://github.com/yangsenius/ssa)**|
+|**2021-11-24**|**MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation**|Wenhao Li et.al.|[2111.12707v1](http://arxiv.org/abs/2111.12707v1)|**[link](https://github.com/Vegetebird/MHFormer)**|
+
