@@ -29,7 +29,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-12-22**|**Quantitative phase imaging through an ultra-thin lensless fiber endoscope**|Jiawei Sun et.al.|[2112.12055v1](http://arxiv.org/abs/2112.12055v1)|null|
+|**2021-12-22**|**Quantitative phase imaging through an ultra-thin lensless fiber endoscope**|Jiawei Sun et.al.|[2112.12055v2](http://arxiv.org/abs/2112.12055v2)|null|
 |**2021-12-20**|**Thermalization of light's orbital angular momentum in nonlinear multimode waveguide systems**|Fan O. Wu et.al.|[2112.10841v1](http://arxiv.org/abs/2112.10841v1)|null|
 |**2021-12-20**|**Attosecond light field synthesis for electron motion control**|Husain Alqattan et.al.|[2112.10700v1](http://arxiv.org/abs/2112.10700v1)|null|
 |**2021-12-20**|**Tunable partial polarization beam splitter and optomechanically induced Faraday effect**|Xuan Mao et.al.|[2112.10473v1](http://arxiv.org/abs/2112.10473v1)|null|
@@ -56,10 +56,10 @@
 |---|---|---|---|---|
 |**2021-12-23**|**ELSA: Enhanced Local Self-Attention for Vision Transformer**|Jingkai Zhou et.al.|[2112.12786v1](http://arxiv.org/abs/2112.12786v1)|null|
 |**2021-12-23**|**SLIP: Self-supervision meets Language-Image Pre-training**|Norman Mu et.al.|[2112.12750v1](http://arxiv.org/abs/2112.12750v1)|**[link](https://github.com/facebookresearch/slip)**|
-|**2021-12-23**|**LaTr: Layout-Aware Transformer for Scene-Text VQA**|Ali Furkan Biten et.al.|[2112.12494v1](http://arxiv.org/abs/2112.12494v1)|null|
+|**2021-12-23**|**LaTr: Layout-Aware Transformer for Scene-Text VQA**|Ali Furkan Biten et.al.|[2112.12494v2](http://arxiv.org/abs/2112.12494v2)|null|
 |**2021-12-21**|**MIA-Former: Efficient and Robust Vision Transformers via Multi-grained Input-Adaptation**|Zhongzhi Yu et.al.|[2112.11542v1](http://arxiv.org/abs/2112.11542v1)|null|
 |**2021-12-21**|**Learned Queries for Efficient Local Attention**|Moab Arar et.al.|[2112.11435v1](http://arxiv.org/abs/2112.11435v1)|null|
-|**2021-12-21**|**MPViT: Multi-Path Vision Transformer for Dense Prediction**|Youngwan Lee et.al.|[2112.11010v1](http://arxiv.org/abs/2112.11010v1)|null|
+|**2021-12-21**|**MPViT: Multi-Path Vision Transformer for Dense Prediction**|Youngwan Lee et.al.|[2112.11010v2](http://arxiv.org/abs/2112.11010v2)|null|
 |**2021-12-20**|**Lite Vision Transformer with Enhanced Self-Attention**|Chenglin Yang et.al.|[2112.10809v1](http://arxiv.org/abs/2112.10809v1)|null|
 |**2021-12-17**|**A Simple Single-Scale Vision Transformer for Object Localization and Instance Segmentation**|Wuyang Chen et.al.|[2112.09747v1](http://arxiv.org/abs/2112.09747v1)|null|
 |**2021-12-17**|**Towards End-to-End Image Compression and Analysis with Transformers**|Yuanchao Bai et.al.|[2112.09300v1](http://arxiv.org/abs/2112.09300v1)|**[link](https://github.com/bychao100/towards-image-compression-and-analysis-with-transformers)**|
