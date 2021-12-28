@@ -29,6 +29,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-24**|**Stimulated Rayleigh scattering and slow light generation in a periodically driven Dirac semimetal Cd$_3$As$_2$**|Yuta Murotani et.al.|[2112.13113v1](http://arxiv.org/abs/2112.13113v1)|null|
+|**2021-12-24**|**Effect of incoherent electron-hole pairs on high harmonic generation in atomically thin semiconductors**|Kohei Nagai et.al.|[2112.12951v1](http://arxiv.org/abs/2112.12951v1)|null|
 |**2021-12-22**|**Quantitative phase imaging through an ultra-thin lensless fiber endoscope**|Jiawei Sun et.al.|[2112.12055v2](http://arxiv.org/abs/2112.12055v2)|null|
 |**2021-12-20**|**Thermalization of light's orbital angular momentum in nonlinear multimode waveguide systems**|Fan O. Wu et.al.|[2112.10841v1](http://arxiv.org/abs/2112.10841v1)|null|
 |**2021-12-20**|**Attosecond light field synthesis for electron motion control**|Husain Alqattan et.al.|[2112.10700v1](http://arxiv.org/abs/2112.10700v1)|null|
@@ -54,6 +56,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-27**|**Learning Robust and Lightweight Model through Separable Structured Transformations**|Yanhui Huang et.al.|[2112.13551v1](http://arxiv.org/abs/2112.13551v1)|null|
+|**2021-12-27**|**ViR:the Vision Reservoir**|Bin Wang et.al.|[2112.13545v1](http://arxiv.org/abs/2112.13545v1)|null|
+|**2021-12-27**|**Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction**|Jing Zhang et.al.|[2112.13528v1](http://arxiv.org/abs/2112.13528v1)|null|
+|**2021-12-27**|**Vision Transformer for Small-Size Datasets**|Seung Hoon Lee et.al.|[2112.13492v1](http://arxiv.org/abs/2112.13492v1)|null|
+|**2021-12-24**|**SimViT: Exploring a Simple Vision Transformer with sliding windows**|Gang Li et.al.|[2112.13085v1](http://arxiv.org/abs/2112.13085v1)|null|
 |**2021-12-23**|**ELSA: Enhanced Local Self-Attention for Vision Transformer**|Jingkai Zhou et.al.|[2112.12786v1](http://arxiv.org/abs/2112.12786v1)|null|
 |**2021-12-23**|**SLIP: Self-supervision meets Language-Image Pre-training**|Norman Mu et.al.|[2112.12750v1](http://arxiv.org/abs/2112.12750v1)|**[link](https://github.com/facebookresearch/slip)**|
 |**2021-12-23**|**LaTr: Layout-Aware Transformer for Scene-Text VQA**|Ali Furkan Biten et.al.|[2112.12494v2](http://arxiv.org/abs/2112.12494v2)|null|
