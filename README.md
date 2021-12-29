@@ -1,4 +1,4 @@
-## Updated on 2021.12.28
+## Updated on 2021.12.29
 
 ## Image Generation
 
@@ -61,12 +61,12 @@
 |**2021-12-27**|**Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction**|Jing Zhang et.al.|[2112.13528v1](http://arxiv.org/abs/2112.13528v1)|null|
 |**2021-12-27**|**Vision Transformer for Small-Size Datasets**|Seung Hoon Lee et.al.|[2112.13492v1](http://arxiv.org/abs/2112.13492v1)|null|
 |**2021-12-24**|**SimViT: Exploring a Simple Vision Transformer with sliding windows**|Gang Li et.al.|[2112.13085v1](http://arxiv.org/abs/2112.13085v1)|null|
-|**2021-12-23**|**ELSA: Enhanced Local Self-Attention for Vision Transformer**|Jingkai Zhou et.al.|[2112.12786v1](http://arxiv.org/abs/2112.12786v1)|null|
+|**2021-12-23**|**ELSA: Enhanced Local Self-Attention for Vision Transformer**|Jingkai Zhou et.al.|[2112.12786v1](http://arxiv.org/abs/2112.12786v1)|**[link](https://github.com/damo-cv/elsa)**|
 |**2021-12-23**|**SLIP: Self-supervision meets Language-Image Pre-training**|Norman Mu et.al.|[2112.12750v1](http://arxiv.org/abs/2112.12750v1)|**[link](https://github.com/facebookresearch/slip)**|
 |**2021-12-23**|**LaTr: Layout-Aware Transformer for Scene-Text VQA**|Ali Furkan Biten et.al.|[2112.12494v2](http://arxiv.org/abs/2112.12494v2)|null|
 |**2021-12-21**|**MIA-Former: Efficient and Robust Vision Transformers via Multi-grained Input-Adaptation**|Zhongzhi Yu et.al.|[2112.11542v1](http://arxiv.org/abs/2112.11542v1)|null|
-|**2021-12-21**|**Learned Queries for Efficient Local Attention**|Moab Arar et.al.|[2112.11435v1](http://arxiv.org/abs/2112.11435v1)|null|
-|**2021-12-21**|**MPViT: Multi-Path Vision Transformer for Dense Prediction**|Youngwan Lee et.al.|[2112.11010v2](http://arxiv.org/abs/2112.11010v2)|null|
+|**2021-12-21**|**Learned Queries for Efficient Local Attention**|Moab Arar et.al.|[2112.11435v1](http://arxiv.org/abs/2112.11435v1)|**[link](https://github.com/moabarar/qna)**|
+|**2021-12-21**|**MPViT: Multi-Path Vision Transformer for Dense Prediction**|Youngwan Lee et.al.|[2112.11010v2](http://arxiv.org/abs/2112.11010v2)|**[link](https://github.com/youngwanLEE/MPViT)**|
 |**2021-12-20**|**Lite Vision Transformer with Enhanced Self-Attention**|Chenglin Yang et.al.|[2112.10809v1](http://arxiv.org/abs/2112.10809v1)|null|
 |**2021-12-17**|**A Simple Single-Scale Vision Transformer for Object Localization and Instance Segmentation**|Wuyang Chen et.al.|[2112.09747v1](http://arxiv.org/abs/2112.09747v1)|null|
 |**2021-12-17**|**Towards End-to-End Image Compression and Analysis with Transformers**|Yuanchao Bai et.al.|[2112.09300v1](http://arxiv.org/abs/2112.09300v1)|**[link](https://github.com/bychao100/towards-image-compression-and-analysis-with-transformers)**|
