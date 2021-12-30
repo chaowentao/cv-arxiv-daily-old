@@ -208,8 +208,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2021-12-27**|**Learning Robust and Lightweight Model through Separable Structured Transformations**|Yanhui Huang et.al.|[2112.13551v1](http://arxiv.org/abs/2112.13551v1)|null|
-|**2021-12-27**|**ViR:the Vision Reservoir**|Bin Wang et.al.|[2112.13545v1](http://arxiv.org/abs/2112.13545v1)|null|
+|**2021-12-27**|**Learning Robust and Lightweight Model through Separable Structured Transformations**|Xian Wei et.al.|[2112.13551v2](http://arxiv.org/abs/2112.13551v2)|null|
+|**2021-12-27**|**ViR:the Vision Reservoir**|Xian Wei et.al.|[2112.13545v2](http://arxiv.org/abs/2112.13545v2)|null|
 |**2021-12-27**|**Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction**|Jing Zhang et.al.|[2112.13528v1](http://arxiv.org/abs/2112.13528v1)|null|
 |**2021-12-27**|**Vision Transformer for Small-Size Datasets**|Seung Hoon Lee et.al.|[2112.13492v1](http://arxiv.org/abs/2112.13492v1)|null|
 |**2021-12-24**|**SimViT: Exploring a Simple Vision Transformer with sliding windows**|Gang Li et.al.|[2112.13085v1](http://arxiv.org/abs/2112.13085v1)|null|
