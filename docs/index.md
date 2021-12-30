@@ -346,3 +346,53 @@ layout: default
 |**2021-12-27**|**Experimental unsupervised learning of non-Hermitian knotted phases with solid-state spins**|Yefei Yu et.al.|[2112.13785v1](http://arxiv.org/abs/2112.13785v1)|null|
 |**2021-12-27**|**MSeg: A Composite Dataset for Multi-domain Semantic Segmentation**|John Lambert et.al.|[2112.13762v1](http://arxiv.org/abs/2112.13762v1)|null|
 
+## NeRF
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|null|
+|**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang et.al.|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|null|
+|**2021-12-23**|**DD-NeRF: Double-Diffusion Neural Radiance Field as a Generalizable Implicit Body Representation**|Guangming Yao et.al.|[2112.12390v1](http://arxiv.org/abs/2112.12390v1)|null|
+|**2021-12-20**|**3D-aware Image Synthesis via Learning Structural and Textural Representations**|Yinghao Xu et.al.|[2112.10759v1](http://arxiv.org/abs/2112.10759v1)|**[link](https://github.com/genforce/volumegan)**|
+|**2021-12-20**|**Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs**|Haithem Turki et.al.|[2112.10703v1](http://arxiv.org/abs/2112.10703v1)|**[link](https://github.com/cmusatyalab/mega-nerf)**|
+|**2021-12-19**|**HVTR: Hybrid Volumetric-Textural Rendering for Human Avatars**|Tao Hu et.al.|[2112.10203v1](http://arxiv.org/abs/2112.10203v1)|null|
+|**2021-12-16**|**Solving Inverse Problems with NerfGANs**|Giannis Daras et.al.|[2112.09061v1](http://arxiv.org/abs/2112.09061v1)|null|
+|**2021-12-16**|**GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation**|Yu Deng et.al.|[2112.08867v2](http://arxiv.org/abs/2112.08867v2)|null|
+|**2021-12-10**|**HeadNeRF: A Real-time NeRF-based Parametric Head Model**|Yang Hong et.al.|[2112.05637v2](http://arxiv.org/abs/2112.05637v2)|null|
+|**2021-12-10**|**CityNeRF: Building NeRF at City Scale**|Yuanbo Xiangli et.al.|[2112.05504v2](http://arxiv.org/abs/2112.05504v2)|null|
+|**2021-12-09**|**Neural Radiance Fields for Outdoor Scene Relighting**|Viktor Rudnev et.al.|[2112.05140v1](http://arxiv.org/abs/2112.05140v1)|null|
+|**2021-12-09**|**CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields**|Can Wang et.al.|[2112.05139v1](http://arxiv.org/abs/2112.05139v1)|null|
+|**2021-12-09**|**Learning Neural Implicit Functions as Object Representations for Robotic Manipulation**|Jung-Su Ha et.al.|[2112.04812v1](http://arxiv.org/abs/2112.04812v1)|null|
+|**2021-12-08**|**Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering**|Mingfei Chen et.al.|[2112.04312v1](http://arxiv.org/abs/2112.04312v1)|null|
+|**2021-12-07**|**Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields**|Dor Verbin et.al.|[2112.03907v1](http://arxiv.org/abs/2112.03907v1)|null|
+|**2021-12-07**|**CG-NeRF: Conditional Generative Neural Radiance Fields**|Kyungmin Jo et.al.|[2112.03517v1](http://arxiv.org/abs/2112.03517v1)|null|
+|**2021-12-06**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle et.al.|[2112.03288v1](http://arxiv.org/abs/2112.03288v1)|null|
+|**2021-12-06**|**HumanNeRF: Generalizable Neural Human Radiance Field from Sparse Inputs**|Fuqiang Zhao et.al.|[2112.02789v2](http://arxiv.org/abs/2112.02789v2)|null|
+|**2021-12-04**|**MoFaNeRF: Morphable Facial Neural Radiance Field**|Yiyu Zhuang et.al.|[2112.02308v1](http://arxiv.org/abs/2112.02308v1)|null|
+|**2021-12-03**|**NeRF-SR: High-Quality Neural Radiance Fields using Super-Sampling**|Chen Wang et.al.|[2112.01759v1](http://arxiv.org/abs/2112.01759v1)|null|
+
+## GAN
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-29**|**The canonicality of the integral models of RSZ Shimura varieties**|Yuta Nakayama et.al.|[2112.14558v1](http://arxiv.org/abs/2112.14558v1)|null|
+|**2021-12-29**|**Effects of the initial perturbations on the Rayleigh-Taylor-Kelvin-Helmholtz instability system**|Feng Chen et.al.|[2112.14534v1](http://arxiv.org/abs/2112.14534v1)|null|
+|**2021-12-29**|**Tunable electronic properties and band alignments of MoSi$_2$N$_4$/GaN and MoSi$_2$N$_4$/ZnO van der Waals heterostructures**|Jin Quan Ng et.al.|[2112.14526v1](http://arxiv.org/abs/2112.14526v1)|null|
+|**2021-12-29**|**Damping signatures at JUNO, a medium-baseline reactor neutrino oscillation experiment**|JUNO collaboration et.al.|[2112.14450v1](http://arxiv.org/abs/2112.14450v1)|null|
+|**2021-12-29**|**Overcoming Mode Collapse with Adaptive Multi Adversarial Training**|Karttikeya Mangalam et.al.|[2112.14406v1](http://arxiv.org/abs/2112.14406v1)|null|
+|**2021-12-28**|**FRIDA -- Generative Feature Replay for Incremental Domain Adaptation**|Sayan Rakshit et.al.|[2112.14316v1](http://arxiv.org/abs/2112.14316v1)|null|
+|**2021-12-28**|**Investigating Shifts in GAN Output-Distributions**|Ricard Durall et.al.|[2112.14061v1](http://arxiv.org/abs/2112.14061v1)|null|
+|**2021-12-28**|**LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation**|Shoya Matsumori et.al.|[2112.13985v1](http://arxiv.org/abs/2112.13985v1)|null|
+|**2021-12-27**|**Depth and Feature Learning are Provably Beneficial for Neural Network Discriminators**|Carles Domingo-Enrich et.al.|[2112.13867v1](http://arxiv.org/abs/2112.13867v1)|null|
+|**2021-12-27**|**Astronomical Image Colorization and upscaling with Generative Adversarial Networks**|Shreyas Kalvankar et.al.|[2112.13865v1](http://arxiv.org/abs/2112.13865v1)|null|
+|**2021-12-27**|**Generation of Synthetic Rat Brain MRI scans with a 3D Enhanced Alpha-GAN**|André Ferreira et.al.|[2112.13626v1](http://arxiv.org/abs/2112.13626v1)|null|
+|**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|null|
+|**2021-12-26**|**FRuDA: Framework for Distributed Adversarial Domain Adaptation**|Shaoduo Gan et.al.|[2112.13381v1](http://arxiv.org/abs/2112.13381v1)|null|
+|**2021-12-26**|**Itô-Taylor Sampling Scheme for Denoising Diffusion Probabilistic Models using Ideal Derivatives**|Hideyuki Tachibana et.al.|[2112.13339v1](http://arxiv.org/abs/2112.13339v1)|null|
+|**2021-12-25**|**DSRGAN: Detail Prior-Assisted Perceptual Single Image Super-Resolution via Generative Adversarial Networks**|Ziyang Liu et.al.|[2112.13191v1](http://arxiv.org/abs/2112.13191v1)|null|
+|**2021-12-24**|**Invertible Network for Unpaired Low-light Image Enhancement**|Jize Zhang et.al.|[2112.13107v1](http://arxiv.org/abs/2112.13107v1)|null|
+|**2021-12-24**|**Signatures of multi-band effects in high-harmonic generation in monolayer MoS$_2$**|Lun Yue et.al.|[2112.13032v1](http://arxiv.org/abs/2112.13032v1)|null|
+|**2021-12-24**|**US-GAN: On the importance of Ultimate Skip Connection for Facial Expression Synthesis**|Arbish Akram et.al.|[2112.13002v1](http://arxiv.org/abs/2112.13002v1)|null|
+|**2021-12-24**|**Cluster-guided Image Synthesis with Unconditional Models**|Markos Georgopoulos et.al.|[2112.12911v1](http://arxiv.org/abs/2112.12911v1)|null|
+|**2021-12-23**|**Self-Attention Generative Adversarial Network for Iterative Reconstruction of CT Images**|Ruiwen Xing et.al.|[2112.12810v1](http://arxiv.org/abs/2112.12810v1)|null|
+
