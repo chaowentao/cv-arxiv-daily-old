@@ -185,6 +185,7 @@ if __name__ == "__main__":
     keywords["Human Pose Estimation"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\"OR\"Human Pose Estimation\""
     keywords["Multimodal"] = "\"Multimodal\""
     keywords["NeRF"] = "\"NeRF\""
+    keywords["GAN"] = "\"GAN\""
     keywords["Domain Adaptation"] = "\"Domain Adaptation\""
     keywords["Self-training"] = "\"self-training\"OR\"Few Shot\"OR\"One Shot\"OR\"Zero Shot\"OR\"unsupervised\"OR\"semi-supervised\""
 #     keywords["SLAM"]                = "SLAM"
