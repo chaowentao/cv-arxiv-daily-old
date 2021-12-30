@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-28**|**LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation**|Shoya Matsumori et.al.|[2112.13985v1](http://arxiv.org/abs/2112.13985v1)|null|
 |**2021-12-16**|**High Fidelity Visualization of What Your Self-Supervised Representation Knows About**|Florian Bordes et.al.|[2112.09164v1](http://arxiv.org/abs/2112.09164v1)|null|
 |**2021-12-16**|**TAFIM: Targeted Adversarial Attacks against Facial Image Manipulations**|Shivangi Aneja et.al.|[2112.09151v1](http://arxiv.org/abs/2112.09151v1)|null|
 |**2021-12-16**|**MVSS-Net: Multi-View Multi-Scale Supervised Networks for Image Manipulation Detection**|Chengbo Dong et.al.|[2112.08935v1](http://arxiv.org/abs/2112.08935v1)|null|
@@ -29,6 +30,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-29**|**Propagation-invariant high-dimensional orbital angular momentum states**|Li-Wei Mao et.al.|[2112.14511v1](http://arxiv.org/abs/2112.14511v1)|null|
+|**2021-12-29**|**Nth-order nonlinear intensity fluctuation amplifier**|Shuanghao Zhang et.al.|[2112.14443v1](http://arxiv.org/abs/2112.14443v1)|null|
 |**2021-12-24**|**Stimulated Rayleigh scattering and slow light generation in a periodically driven Dirac semimetal Cd$_3$As$_2$**|Yuta Murotani et.al.|[2112.13113v1](http://arxiv.org/abs/2112.13113v1)|null|
 |**2021-12-24**|**Effect of incoherent electron-hole pairs on high harmonic generation in atomically thin semiconductors**|Kohei Nagai et.al.|[2112.12951v1](http://arxiv.org/abs/2112.12951v1)|null|
 |**2021-12-22**|**Quantitative phase imaging through an ultra-thin lensless fiber endoscope**|Jiawei Sun et.al.|[2112.12055v2](http://arxiv.org/abs/2112.12055v2)|null|
@@ -56,6 +59,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-28**|**APRIL: Finding the Achilles' Heel on Privacy for Vision Transformers**|Jiahao Lu et.al.|[2112.14087v1](http://arxiv.org/abs/2112.14087v1)|null|
+|**2021-12-28**|**Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention**|Sitong Wu et.al.|[2112.14000v1](http://arxiv.org/abs/2112.14000v1)|null|
+|**2021-12-27**|**SPViT: Enabling Faster Vision Transformers via Soft Token Pruning**|Zhenglun Kong et.al.|[2112.13890v1](http://arxiv.org/abs/2112.13890v1)|null|
 |**2021-12-27**|**Learning Robust and Lightweight Model through Separable Structured Transformations**|Xian Wei et.al.|[2112.13551v2](http://arxiv.org/abs/2112.13551v2)|null|
 |**2021-12-27**|**ViR:the Vision Reservoir**|Xian Wei et.al.|[2112.13545v2](http://arxiv.org/abs/2112.13545v2)|null|
 |**2021-12-27**|**Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction**|Jing Zhang et.al.|[2112.13528v1](http://arxiv.org/abs/2112.13528v1)|null|
@@ -89,6 +95,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-28**|**Skin feature point tracking using deep feature encodings**|Jose Ramon Chang et.al.|[2112.14159v1](http://arxiv.org/abs/2112.14159v1)|null|
 |**2021-12-23**|**Data-efficient learning for 3D mirror symmetry detection**|Yancong Lin et.al.|[2112.12579v1](http://arxiv.org/abs/2112.12579v1)|null|
 |**2021-12-22**|**Improved 2D Keypoint Detection in Out-of-Balance and Fall Situations -- combining input rotations and a kinematic model**|Michael Zwölfer et.al.|[2112.12193v1](http://arxiv.org/abs/2112.12193v1)|null|
 |**2021-12-22**|**Multi-modal 3D Human Pose Estimation with 2D Weak Supervision in Autonomous Driving**|Jingxiao Zheng et.al.|[2112.12141v1](http://arxiv.org/abs/2112.12141v1)|null|
@@ -111,4 +118,79 @@
 |**2021-11-30**|**Camera Distortion-aware 3D Human Pose Estimation in Video with Optimization-based Meta-Learning**|Hanbyel Cho et.al.|[2111.15056v2](http://arxiv.org/abs/2111.15056v2)|**[link](https://github.com/hanbyel0105/CamDistHumanPose3D)**|
 |**2021-11-25**|**Attend to Who You Are: Supervising Self-Attention for Keypoint Detection and Instance-Aware Association**|Sen Yang et.al.|[2111.12892v1](http://arxiv.org/abs/2111.12892v1)|**[link](https://github.com/yangsenius/ssa)**|
 |**2021-11-24**|**MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation**|Wenhao Li et.al.|[2111.12707v1](http://arxiv.org/abs/2111.12707v1)|**[link](https://github.com/Vegetebird/MHFormer)**|
+
+## Multimodal
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2021-12-29**|**Implementation of Convolutional Neural Network Architecture on 3D Multiparametric Magnetic Resonance Imaging for Prostate Cancer Diagnosis**|Ping-Chang Lin et.al.|[2112.14644v1](http://arxiv.org/abs/2112.14644v1)|null|
+|**2021-12-28**|**Multimodal perception for dexterous manipulation**|Guanqun Cao et.al.|[2112.14298v1](http://arxiv.org/abs/2112.14298v1)|null|
+|**2021-12-27**|**Some mathematical aspects of Anderson localization: boundary effect, multimodality, and bifurcation**|Chen Jia et.al.|[2112.13913v1](http://arxiv.org/abs/2112.13913v1)|null|
+|**2021-12-27**|**Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain?**|Sedigheh Eslami et.al.|[2112.13906v1](http://arxiv.org/abs/2112.13906v1)|null|
+|**2021-12-27**|**AU Dataset for Visuo-Haptic Object Recognition for Robots**|Lasse Emil R. Bonner et.al.|[2112.13761v1](http://arxiv.org/abs/2112.13761v1)|null|
+|**2021-12-27**|**Thermalization of orbital angular momentum beams in multimode optical fibers**|E. V. Podivilov et.al.|[2112.13696v1](http://arxiv.org/abs/2112.13696v1)|null|
+|**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|null|
+|**2021-12-26**|**Novel Dual-Channel Long Short-Term Memory Compressed Capsule Networks for Emotion Recognition**|Ismail Shahin et.al.|[2112.13350v1](http://arxiv.org/abs/2112.13350v1)|null|
+|**2021-12-24**|**Annealed Leap-Point Sampler for Multimodal Target Distributions**|Nicholas G. Tawn et.al.|[2112.12908v1](http://arxiv.org/abs/2112.12908v1)|null|
+|**2021-12-22**|**Understanding and Measuring Robustness of Multimodal Learning**|Nishant Vishwamitra et.al.|[2112.12792v2](http://arxiv.org/abs/2112.12792v2)|null|
+|**2021-12-23**|**LaTr: Layout-Aware Transformer for Scene-Text VQA**|Ali Furkan Biten et.al.|[2112.12494v2](http://arxiv.org/abs/2112.12494v2)|null|
+|**2021-12-22**|**Multimodal Personality Recognition using Cross-Attention Transformer and Behaviour Encoding**|Tanay Agrawal et.al.|[2112.12180v1](http://arxiv.org/abs/2112.12180v1)|null|
+|**2021-12-22**|**A simple way to incorporate loss when modelling multimode entangled state generation**|Colin Vendromin et.al.|[2112.12044v1](http://arxiv.org/abs/2112.12044v1)|null|
+|**2021-12-22**|**Multimodal Analysis of memes for sentiment extraction**|Nayan Varma Alluri et.al.|[2112.11850v1](http://arxiv.org/abs/2112.11850v1)|null|
+|**2021-12-22**|**Fusion of medical imaging and electronic health records with attention and multi-head machanisms**|Cheng Jiang et.al.|[2112.11710v1](http://arxiv.org/abs/2112.11710v1)|null|
+|**2021-12-21**|**Analysis of the spontaneous emission limited linewidth of an integrated III-V/SiN laser**|Weng W. Chow et.al.|[2112.11403v1](http://arxiv.org/abs/2112.11403v1)|null|
+|**2021-12-21**|**Extending CLIP for Category-to-image Retrieval in E-commerce**|Mariya Hendriksen et.al.|[2112.11294v1](http://arxiv.org/abs/2112.11294v1)|null|
+|**2021-12-20**|**Thermalization of light's orbital angular momentum in nonlinear multimode waveguide systems**|Fan O. Wu et.al.|[2112.10841v1](http://arxiv.org/abs/2112.10841v1)|null|
+|**2021-12-20**|**More Alike than Different: Quantifying Deviations of Brain Structure and Function in Major Depressive Disorder across Neuroimaging Modalities**|Nils R. Winter et.al.|[2112.10730v1](http://arxiv.org/abs/2112.10730v1)|null|
+|**2021-12-20**|**Tunable partial polarization beam splitter and optomechanically induced Faraday effect**|Xuan Mao et.al.|[2112.10473v1](http://arxiv.org/abs/2112.10473v1)|null|
+
+## Domain Adaptation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2021-12-28**|**FRIDA -- Generative Feature Replay for Incremental Domain Adaptation**|Sayan Rakshit et.al.|[2112.14316v1](http://arxiv.org/abs/2112.14316v1)|null|
+|**2021-12-28**|**DeepAdversaries: Examining the Robustness of Deep Learning Models for Galaxy Morphology Classification**|Aleksandra Ćiprijanović et.al.|[2112.14299v1](http://arxiv.org/abs/2112.14299v1)|null|
+|**2021-12-28**|**Unsupervised Domain Adaptation for Constraining Star Formation Histories**|Sankalp Gilda et.al.|[2112.14072v1](http://arxiv.org/abs/2112.14072v1)|null|
+|**2021-12-28**|**Delving into Probabilistic Uncertainty for Unsupervised Domain Adaptive Person Re-Identification**|Jian Han et.al.|[2112.14025v1](http://arxiv.org/abs/2112.14025v1)|null|
+|**2021-12-27**|**Meta-Learned Feature Critics for Domain Generalized Semantic Segmentation**|Zu-Yun Shiau et.al.|[2112.13538v1](http://arxiv.org/abs/2112.13538v1)|null|
+|**2021-12-26**|**FRuDA: Framework for Distributed Adversarial Domain Adaptation**|Shaoduo Gan et.al.|[2112.13381v1](http://arxiv.org/abs/2112.13381v1)|null|
+|**2021-12-24**|**Disentanglement by Cyclic Reconstruction**|David Bertoin et.al.|[2112.12980v1](http://arxiv.org/abs/2112.12980v1)|null|
+|**2021-12-24**|**A formal approach to good practices in Pseudo-Labeling for Unsupervised Domain Adaptive Re-Identification**|Fabian Dubourvieux et.al.|[2112.12887v2](http://arxiv.org/abs/2112.12887v2)|null|
+|**2021-12-23**|**Revisiting, Benchmarking and Exploring API Recommendation: How Far Are We?**|Yun Peng et.al.|[2112.12653v1](http://arxiv.org/abs/2112.12653v1)|null|
+|**2021-12-22**|**Domain Adaptation for Simulation-Based Dark Matter Searches Using Strong Gravitational Lensing**|Stephon Alexander et.al.|[2112.12121v1](http://arxiv.org/abs/2112.12121v1)|**[link](https://github.com/ML4SCI/DeepLense/tree/main/Domain_Adaptation_for_DeepLense_Marcos_Tidball)**|
+|**2021-12-22**|**Multi-Centroid Representation Network for Domain Adaptive Person Re-ID**|Yuhang Wu et.al.|[2112.11689v1](http://arxiv.org/abs/2112.11689v1)|null|
+|**2021-12-22**|**Domain Adaptation with Pre-trained Transformers for Query Focused Abstractive Text Summarization**|Md Tahmid Rahman Laskar et.al.|[2112.11670v1](http://arxiv.org/abs/2112.11670v1)|null|
+|**2021-12-21**|**Generalizable Cross-modality Medical Image Segmentation via Style Augmentation and Dual Normalization**|Ziqi Zhou et.al.|[2112.11177v1](http://arxiv.org/abs/2112.11177v1)|null|
+|**2021-12-21**|**Geometry-Aware Unsupervised Domain Adaptation**|You-Wei Luo et.al.|[2112.11041v1](http://arxiv.org/abs/2112.11041v1)|null|
+|**2021-12-21**|**Tree-informed Bayesian multi-source domain adaptation: cross-population probabilistic cause-of-death assignment using verbal autopsy**|Zhenke Wu et.al.|[2112.10978v1](http://arxiv.org/abs/2112.10978v1)|null|
+|**2021-12-20**|**SelFSR: Self-Conditioned Face Super-Resolution in the Wild via Flow Field Degradation Network**|Xianfang Zeng et.al.|[2112.10683v1](http://arxiv.org/abs/2112.10683v1)|null|
+|**2021-12-20**|**Reciprocal Normalization for Domain Adaptation**|Zhiyong Huang et.al.|[2112.10474v1](http://arxiv.org/abs/2112.10474v1)|null|
+|**2021-12-18**|**Tell me what you see: A zero-shot action recognition method based on natural language descriptions**|Valter Estevam et.al.|[2112.09976v1](http://arxiv.org/abs/2112.09976v1)|**[link](https://github.com/valterlej/zsarcap)**|
+|**2021-12-18**|**Pre-Training Transformers for Domain Adaptation**|Burhan Ul Tayyab et.al.|[2112.09965v1](http://arxiv.org/abs/2112.09965v1)|null|
+|**2021-12-17**|**ActKnow: Active External Knowledge Infusion Learning for Question Answering in Low Data Regime**|K. M. Annervaz et.al.|[2112.09423v1](http://arxiv.org/abs/2112.09423v1)|null|
+
+## Self-training
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2021-12-29**|**A Simple Baseline for Zero-shot Semantic Segmentation with Pre-trained Vision-language Model**|Mengde Xu et.al.|[2112.14757v1](http://arxiv.org/abs/2112.14757v1)|null|
+|**2021-12-29**|**Semantic Feature Extraction for Generalized Zero-shot Learning**|Junhan Kim et.al.|[2112.14478v1](http://arxiv.org/abs/2112.14478v1)|null|
+|**2021-12-28**|**FRIDA -- Generative Feature Replay for Incremental Domain Adaptation**|Sayan Rakshit et.al.|[2112.14316v1](http://arxiv.org/abs/2112.14316v1)|null|
+|**2021-12-28**|**Beta-VAE Reproducibility: Challenges and Extensions**|Miroslav Fil et.al.|[2112.14278v1](http://arxiv.org/abs/2112.14278v1)|null|
+|**2021-12-28**|**Enhanced Wi-Fi RTT Ranging: A Sensor-Aided Learning Approach**|Jeongsik Choi et.al.|[2112.14138v1](http://arxiv.org/abs/2112.14138v1)|null|
+|**2021-12-28**|**Unsupervised Domain Adaptation for Constraining Star Formation Histories**|Sankalp Gilda et.al.|[2112.14072v1](http://arxiv.org/abs/2112.14072v1)|null|
+|**2021-12-28**|**Delving into Probabilistic Uncertainty for Unsupervised Domain Adaptive Person Re-Identification**|Jian Han et.al.|[2112.14025v1](http://arxiv.org/abs/2112.14025v1)|null|
+|**2021-12-28**|**Recursive Least-Squares Estimator-Aided Online Learning for Visual Tracking**|Jin Gao et.al.|[2112.14016v1](http://arxiv.org/abs/2112.14016v1)|null|
+|**2021-12-28**|**To Supervise or Not: How to Effectively Learn Wireless Interference Management Models?**|Bingqing Song et.al.|[2112.14011v1](http://arxiv.org/abs/2112.14011v1)|null|
+|**2021-12-28**|**Multi-Band Wi-Fi Sensing with Matched Feature Granularity**|Jianyuan Yu et.al.|[2112.14006v1](http://arxiv.org/abs/2112.14006v1)|null|
+|**2021-12-28**|**Associative Adversarial Learning Based on Selective Attack**|Runqi Wang et.al.|[2112.13989v1](http://arxiv.org/abs/2112.13989v1)|null|
+|**2021-12-28**|**LINDA: Unsupervised Learning to Interpolate in Natural Language Processing**|Yekyung Kim et.al.|[2112.13969v1](http://arxiv.org/abs/2112.13969v1)|null|
+|**2021-12-28**|**Automatic morphological classification of galaxies: convolutional autoencoder and bagging-based multiclustering model**|C. C. Zhou et.al.|[2112.13957v1](http://arxiv.org/abs/2112.13957v1)|null|
+|**2021-12-27**|**SurFit: Learning to Fit Surfaces Improves Few Shot Learning on Point Clouds**|Gopal Sharma et.al.|[2112.13942v1](http://arxiv.org/abs/2112.13942v1)|null|
+|**2021-12-27**|**GPU-accelerated Faster Mean Shift with euclidean distance metrics**|Le You et.al.|[2112.13891v1](http://arxiv.org/abs/2112.13891v1)|null|
+|**2021-12-27**|**MedShift: identifying shift data for medical dataset curation**|Xiaoyuan Guo et.al.|[2112.13885v1](http://arxiv.org/abs/2112.13885v1)|null|
+|**2021-12-27**|**A Fistful of Words: Learning Transferable Visual Models from Bag-of-Words Supervision**|Ajinkya Tejankar et.al.|[2112.13884v1](http://arxiv.org/abs/2112.13884v1)|null|
+|**2021-12-27**|**What do Large Language Models Learn about Scripts?**|Abhilasha Sancheti et.al.|[2112.13834v1](http://arxiv.org/abs/2112.13834v1)|null|
+|**2021-12-27**|**Experimental unsupervised learning of non-Hermitian knotted phases with solid-state spins**|Yefei Yu et.al.|[2112.13785v1](http://arxiv.org/abs/2112.13785v1)|null|
+|**2021-12-27**|**MSeg: A Composite Dataset for Multi-domain Semantic Segmentation**|John Lambert et.al.|[2112.13762v1](http://arxiv.org/abs/2112.13762v1)|null|
 
