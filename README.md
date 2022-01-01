@@ -1,4 +1,4 @@
-## Updated on 2021.12.31
+## Updated on 2022.01.01
 
 ## Image Generation
 
@@ -65,7 +65,7 @@
 |**2021-12-27**|**Learning Robust and Lightweight Model through Separable Structured Transformations**|Xian Wei et.al.|[2112.13551v2](http://arxiv.org/abs/2112.13551v2)|null|
 |**2021-12-27**|**ViR:the Vision Reservoir**|Xian Wei et.al.|[2112.13545v2](http://arxiv.org/abs/2112.13545v2)|null|
 |**2021-12-27**|**Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction**|Jing Zhang et.al.|[2112.13528v1](http://arxiv.org/abs/2112.13528v1)|null|
-|**2021-12-27**|**Vision Transformer for Small-Size Datasets**|Seung Hoon Lee et.al.|[2112.13492v1](http://arxiv.org/abs/2112.13492v1)|null|
+|**2021-12-27**|**Vision Transformer for Small-Size Datasets**|Seung Hoon Lee et.al.|[2112.13492v1](http://arxiv.org/abs/2112.13492v1)|**[link](https://github.com/aanna0701/SPT_LSA_ViT)**|
 |**2021-12-24**|**SimViT: Exploring a Simple Vision Transformer with sliding windows**|Gang Li et.al.|[2112.13085v1](http://arxiv.org/abs/2112.13085v1)|null|
 |**2021-12-23**|**ELSA: Enhanced Local Self-Attention for Vision Transformer**|Jingkai Zhou et.al.|[2112.12786v1](http://arxiv.org/abs/2112.12786v1)|**[link](https://github.com/damo-cv/elsa)**|
 |**2021-12-23**|**SLIP: Self-supervision meets Language-Image Pre-training**|Norman Mu et.al.|[2112.12750v1](http://arxiv.org/abs/2112.12750v1)|**[link](https://github.com/facebookresearch/slip)**|
@@ -187,7 +187,7 @@
 |**2021-12-28**|**LINDA: Unsupervised Learning to Interpolate in Natural Language Processing**|Yekyung Kim et.al.|[2112.13969v1](http://arxiv.org/abs/2112.13969v1)|null|
 |**2021-12-28**|**Automatic morphological classification of galaxies: convolutional autoencoder and bagging-based multiclustering model**|C. C. Zhou et.al.|[2112.13957v1](http://arxiv.org/abs/2112.13957v1)|null|
 |**2021-12-27**|**SurFit: Learning to Fit Surfaces Improves Few Shot Learning on Point Clouds**|Gopal Sharma et.al.|[2112.13942v1](http://arxiv.org/abs/2112.13942v1)|null|
-|**2021-12-27**|**GPU-accelerated Faster Mean Shift with euclidean distance metrics**|Le You et.al.|[2112.13891v1](http://arxiv.org/abs/2112.13891v1)|null|
+|**2021-12-27**|**GPU-accelerated Faster Mean Shift with euclidean distance metrics**|Le You et.al.|[2112.13891v1](http://arxiv.org/abs/2112.13891v1)|**[link](https://github.com/masqm/Faster-Mean-Shift-Euc)**|
 |**2021-12-27**|**MedShift: identifying shift data for medical dataset curation**|Xiaoyuan Guo et.al.|[2112.13885v1](http://arxiv.org/abs/2112.13885v1)|null|
 |**2021-12-27**|**A Fistful of Words: Learning Transferable Visual Models from Bag-of-Words Supervision**|Ajinkya Tejankar et.al.|[2112.13884v1](http://arxiv.org/abs/2112.13884v1)|null|
 |**2021-12-27**|**What do Large Language Models Learn about Scripts?**|Abhilasha Sancheti et.al.|[2112.13834v1](http://arxiv.org/abs/2112.13834v1)|null|
