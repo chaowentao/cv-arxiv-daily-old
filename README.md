@@ -60,13 +60,13 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2021-12-28**|**APRIL: Finding the Achilles' Heel on Privacy for Vision Transformers**|Jiahao Lu et.al.|[2112.14087v1](http://arxiv.org/abs/2112.14087v1)|null|
-|**2021-12-28**|**Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention**|Sitong Wu et.al.|[2112.14000v1](http://arxiv.org/abs/2112.14000v1)|null|
+|**2021-12-28**|**Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention**|Sitong Wu et.al.|[2112.14000v1](http://arxiv.org/abs/2112.14000v1)|**[link](https://github.com/BR-IDL/PaddleViT)**|
 |**2021-12-27**|**SPViT: Enabling Faster Vision Transformers via Soft Token Pruning**|Zhenglun Kong et.al.|[2112.13890v1](http://arxiv.org/abs/2112.13890v1)|null|
 |**2021-12-27**|**Learning Robust and Lightweight Model through Separable Structured Transformations**|Xian Wei et.al.|[2112.13551v2](http://arxiv.org/abs/2112.13551v2)|null|
 |**2021-12-27**|**ViR:the Vision Reservoir**|Xian Wei et.al.|[2112.13545v2](http://arxiv.org/abs/2112.13545v2)|null|
 |**2021-12-27**|**Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction**|Jing Zhang et.al.|[2112.13528v1](http://arxiv.org/abs/2112.13528v1)|null|
 |**2021-12-27**|**Vision Transformer for Small-Size Datasets**|Seung Hoon Lee et.al.|[2112.13492v1](http://arxiv.org/abs/2112.13492v1)|**[link](https://github.com/aanna0701/SPT_LSA_ViT)**|
-|**2021-12-24**|**SimViT: Exploring a Simple Vision Transformer with sliding windows**|Gang Li et.al.|[2112.13085v1](http://arxiv.org/abs/2112.13085v1)|null|
+|**2021-12-24**|**SimViT: Exploring a Simple Vision Transformer with sliding windows**|Gang Li et.al.|[2112.13085v1](http://arxiv.org/abs/2112.13085v1)|**[link](https://github.com/ucasligang/simvit)**|
 |**2021-12-23**|**ELSA: Enhanced Local Self-Attention for Vision Transformer**|Jingkai Zhou et.al.|[2112.12786v1](http://arxiv.org/abs/2112.12786v1)|**[link](https://github.com/damo-cv/elsa)**|
 |**2021-12-23**|**SLIP: Self-supervision meets Language-Image Pre-training**|Norman Mu et.al.|[2112.12750v1](http://arxiv.org/abs/2112.12750v1)|**[link](https://github.com/facebookresearch/slip)**|
 |**2021-12-23**|**LaTr: Layout-Aware Transformer for Scene-Text VQA**|Ali Furkan Biten et.al.|[2112.12494v2](http://arxiv.org/abs/2112.12494v2)|null|
@@ -126,10 +126,10 @@
 |**2021-12-29**|**Implementation of Convolutional Neural Network Architecture on 3D Multiparametric Magnetic Resonance Imaging for Prostate Cancer Diagnosis**|Ping-Chang Lin et.al.|[2112.14644v1](http://arxiv.org/abs/2112.14644v1)|null|
 |**2021-12-28**|**Multimodal perception for dexterous manipulation**|Guanqun Cao et.al.|[2112.14298v1](http://arxiv.org/abs/2112.14298v1)|null|
 |**2021-12-27**|**Some mathematical aspects of Anderson localization: boundary effect, multimodality, and bifurcation**|Chen Jia et.al.|[2112.13913v1](http://arxiv.org/abs/2112.13913v1)|null|
-|**2021-12-27**|**Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain?**|Sedigheh Eslami et.al.|[2112.13906v1](http://arxiv.org/abs/2112.13906v1)|null|
+|**2021-12-27**|**Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain?**|Sedigheh Eslami et.al.|[2112.13906v1](http://arxiv.org/abs/2112.13906v1)|**[link](https://github.com/sarahesl/pubmedclip)**|
 |**2021-12-27**|**AU Dataset for Visuo-Haptic Object Recognition for Robots**|Lasse Emil R. Bonner et.al.|[2112.13761v1](http://arxiv.org/abs/2112.13761v1)|null|
 |**2021-12-27**|**Thermalization of orbital angular momentum beams in multimode optical fibers**|E. V. Podivilov et.al.|[2112.13696v1](http://arxiv.org/abs/2112.13696v1)|null|
-|**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|null|
+|**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|**[link](https://github.com/fnzhan/mise)**|
 |**2021-12-26**|**Novel Dual-Channel Long Short-Term Memory Compressed Capsule Networks for Emotion Recognition**|Ismail Shahin et.al.|[2112.13350v1](http://arxiv.org/abs/2112.13350v1)|null|
 |**2021-12-24**|**Annealed Leap-Point Sampler for Multimodal Target Distributions**|Nicholas G. Tawn et.al.|[2112.12908v1](http://arxiv.org/abs/2112.12908v1)|null|
 |**2021-12-22**|**Understanding and Measuring Robustness of Multimodal Learning**|Nishant Vishwamitra et.al.|[2112.12792v2](http://arxiv.org/abs/2112.12792v2)|null|
@@ -180,7 +180,7 @@
 |**2021-12-28**|**Enhanced Wi-Fi RTT Ranging: A Sensor-Aided Learning Approach**|Jeongsik Choi et.al.|[2112.14138v1](http://arxiv.org/abs/2112.14138v1)|null|
 |**2021-12-28**|**Unsupervised Domain Adaptation for Constraining Star Formation Histories**|Sankalp Gilda et.al.|[2112.14072v1](http://arxiv.org/abs/2112.14072v1)|null|
 |**2021-12-28**|**Delving into Probabilistic Uncertainty for Unsupervised Domain Adaptive Person Re-Identification**|Jian Han et.al.|[2112.14025v1](http://arxiv.org/abs/2112.14025v1)|null|
-|**2021-12-28**|**Recursive Least-Squares Estimator-Aided Online Learning for Visual Tracking**|Jin Gao et.al.|[2112.14016v1](http://arxiv.org/abs/2112.14016v1)|null|
+|**2021-12-28**|**Recursive Least-Squares Estimator-Aided Online Learning for Visual Tracking**|Jin Gao et.al.|[2112.14016v1](http://arxiv.org/abs/2112.14016v1)|**[link](https://github.com/amgao/rls-onlinetrack)**|
 |**2021-12-28**|**To Supervise or Not: How to Effectively Learn Wireless Interference Management Models?**|Bingqing Song et.al.|[2112.14011v1](http://arxiv.org/abs/2112.14011v1)|null|
 |**2021-12-28**|**Multi-Band Wi-Fi Sensing with Matched Feature Granularity**|Jianyuan Yu et.al.|[2112.14006v1](http://arxiv.org/abs/2112.14006v1)|null|
 |**2021-12-28**|**Associative Adversarial Learning Based on Selective Attack**|Runqi Wang et.al.|[2112.13989v1](http://arxiv.org/abs/2112.13989v1)|null|
@@ -192,13 +192,13 @@
 |**2021-12-27**|**A Fistful of Words: Learning Transferable Visual Models from Bag-of-Words Supervision**|Ajinkya Tejankar et.al.|[2112.13884v1](http://arxiv.org/abs/2112.13884v1)|null|
 |**2021-12-27**|**What do Large Language Models Learn about Scripts?**|Abhilasha Sancheti et.al.|[2112.13834v1](http://arxiv.org/abs/2112.13834v1)|null|
 |**2021-12-27**|**Experimental unsupervised learning of non-Hermitian knotted phases with solid-state spins**|Yefei Yu et.al.|[2112.13785v1](http://arxiv.org/abs/2112.13785v1)|null|
-|**2021-12-27**|**MSeg: A Composite Dataset for Multi-domain Semantic Segmentation**|John Lambert et.al.|[2112.13762v1](http://arxiv.org/abs/2112.13762v1)|null|
+|**2021-12-27**|**MSeg: A Composite Dataset for Multi-domain Semantic Segmentation**|John Lambert et.al.|[2112.13762v1](http://arxiv.org/abs/2112.13762v1)|**[link](https://github.com/mseg-dataset/mseg-semantic)**|
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|null|
+|**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|**[link](https://github.com/fnzhan/mise)**|
 |**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang et.al.|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|null|
 |**2021-12-23**|**DD-NeRF: Double-Diffusion Neural Radiance Field as a Generalizable Implicit Body Representation**|Guangming Yao et.al.|[2112.12390v1](http://arxiv.org/abs/2112.12390v1)|null|
 |**2021-12-20**|**3D-aware Image Synthesis via Learning Structural and Textural Representations**|Yinghao Xu et.al.|[2112.10759v1](http://arxiv.org/abs/2112.10759v1)|**[link](https://github.com/genforce/volumegan)**|
@@ -216,7 +216,7 @@
 |**2021-12-07**|**CG-NeRF: Conditional Generative Neural Radiance Fields**|Kyungmin Jo et.al.|[2112.03517v1](http://arxiv.org/abs/2112.03517v1)|null|
 |**2021-12-06**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle et.al.|[2112.03288v1](http://arxiv.org/abs/2112.03288v1)|null|
 |**2021-12-06**|**HumanNeRF: Generalizable Neural Human Radiance Field from Sparse Inputs**|Fuqiang Zhao et.al.|[2112.02789v2](http://arxiv.org/abs/2112.02789v2)|null|
-|**2021-12-04**|**MoFaNeRF: Morphable Facial Neural Radiance Field**|Yiyu Zhuang et.al.|[2112.02308v1](http://arxiv.org/abs/2112.02308v1)|null|
+|**2021-12-04**|**MoFaNeRF: Morphable Facial Neural Radiance Field**|Yiyu Zhuang et.al.|[2112.02308v1](http://arxiv.org/abs/2112.02308v1)|**[link](https://github.com/zhuhao-nju/mofanerf)**|
 |**2021-12-03**|**NeRF-SR: High-Quality Neural Radiance Fields using Super-Sampling**|Chen Wang et.al.|[2112.01759v1](http://arxiv.org/abs/2112.01759v1)|null|
 
 ## GAN
@@ -234,7 +234,7 @@
 |**2021-12-27**|**Depth and Feature Learning are Provably Beneficial for Neural Network Discriminators**|Carles Domingo-Enrich et.al.|[2112.13867v1](http://arxiv.org/abs/2112.13867v1)|null|
 |**2021-12-27**|**Astronomical Image Colorization and upscaling with Generative Adversarial Networks**|Shreyas Kalvankar et.al.|[2112.13865v1](http://arxiv.org/abs/2112.13865v1)|null|
 |**2021-12-27**|**Generation of Synthetic Rat Brain MRI scans with a 3D Enhanced Alpha-GAN**|André Ferreira et.al.|[2112.13626v1](http://arxiv.org/abs/2112.13626v1)|null|
-|**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|null|
+|**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|**[link](https://github.com/fnzhan/mise)**|
 |**2021-12-26**|**FRuDA: Framework for Distributed Adversarial Domain Adaptation**|Shaoduo Gan et.al.|[2112.13381v1](http://arxiv.org/abs/2112.13381v1)|null|
 |**2021-12-26**|**Itô-Taylor Sampling Scheme for Denoising Diffusion Probabilistic Models using Ideal Derivatives**|Hideyuki Tachibana et.al.|[2112.13339v1](http://arxiv.org/abs/2112.13339v1)|null|
 |**2021-12-25**|**DSRGAN: Detail Prior-Assisted Perceptual Single Image Super-Resolution via Generative Adversarial Networks**|Ziyang Liu et.al.|[2112.13191v1](http://arxiv.org/abs/2112.13191v1)|null|
