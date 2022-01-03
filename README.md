@@ -59,6 +59,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-30**|**Stochastic Layers in Vision Transformers**|Nikola Popovic et.al.|[2112.15111v1](http://arxiv.org/abs/2112.15111v1)|null|
 |**2021-12-28**|**APRIL: Finding the Achilles' Heel on Privacy for Vision Transformers**|Jiahao Lu et.al.|[2112.14087v1](http://arxiv.org/abs/2112.14087v1)|null|
 |**2021-12-28**|**Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention**|Sitong Wu et.al.|[2112.14000v1](http://arxiv.org/abs/2112.14000v1)|**[link](https://github.com/BR-IDL/PaddleViT)**|
 |**2021-12-27**|**SPViT: Enabling Faster Vision Transformers via Soft Token Pruning**|Zhenglun Kong et.al.|[2112.13890v1](http://arxiv.org/abs/2112.13890v1)|null|
@@ -123,6 +124,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-31**|**InverseMV: Composing Piano Scores with a Convolutional Video-Music Transformer**|Chin-Tung Lin et.al.|[2112.15320v1](http://arxiv.org/abs/2112.15320v1)|null|
+|**2021-12-30**|**An empirical user-study of text-based nonverbal annotation systems for human-human conversations**|Joshua Y. Kim et.al.|[2112.14928v1](http://arxiv.org/abs/2112.14928v1)|null|
 |**2021-12-29**|**Implementation of Convolutional Neural Network Architecture on 3D Multiparametric Magnetic Resonance Imaging for Prostate Cancer Diagnosis**|Ping-Chang Lin et.al.|[2112.14644v1](http://arxiv.org/abs/2112.14644v1)|null|
 |**2021-12-28**|**Multimodal perception for dexterous manipulation**|Guanqun Cao et.al.|[2112.14298v1](http://arxiv.org/abs/2112.14298v1)|null|
 |**2021-12-27**|**Some mathematical aspects of Anderson localization: boundary effect, multimodality, and bifurcation**|Chen Jia et.al.|[2112.13913v1](http://arxiv.org/abs/2112.13913v1)|null|
@@ -148,6 +151,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-31**|**An Unsupervised Domain Adaptation Model based on Dual-module Adversarial Training**|Yiju Yang et.al.|[2112.15555v1](http://arxiv.org/abs/2112.15555v1)|null|
+|**2021-12-31**|**Domain Adaptation with Category Attention Network for Deep Sentiment Analysis**|Dongbo Xi et.al.|[2112.15290v1](http://arxiv.org/abs/2112.15290v1)|null|
+|**2021-12-31**|**Data-Free Knowledge Transfer: A Survey**|Yuang Liu et.al.|[2112.15278v1](http://arxiv.org/abs/2112.15278v1)|null|
+|**2021-12-30**|**Deep Transfer-Learning for patient specific model re-calibration: Application to sEMG-Classification**|Stephan Johann Lehmler et.al.|[2112.15019v1](http://arxiv.org/abs/2112.15019v1)|null|
 |**2021-12-28**|**FRIDA -- Generative Feature Replay for Incremental Domain Adaptation**|Sayan Rakshit et.al.|[2112.14316v1](http://arxiv.org/abs/2112.14316v1)|null|
 |**2021-12-28**|**DeepAdversaries: Examining the Robustness of Deep Learning Models for Galaxy Morphology Classification**|Aleksandra Ćiprijanović et.al.|[2112.14299v1](http://arxiv.org/abs/2112.14299v1)|null|
 |**2021-12-28**|**Unsupervised Domain Adaptation for Constraining Star Formation Histories**|Sankalp Gilda et.al.|[2112.14072v1](http://arxiv.org/abs/2112.14072v1)|null|
@@ -173,6 +180,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-31**|**An Unsupervised Domain Adaptation Model based on Dual-module Adversarial Training**|Yiju Yang et.al.|[2112.15555v1](http://arxiv.org/abs/2112.15555v1)|null|
+|**2021-12-31**|**on the effectiveness of generative adversarial network on anomaly detection**|Laya Rafiee Sevyeri et.al.|[2112.15541v1](http://arxiv.org/abs/2112.15541v1)|null|
+|**2021-12-31**|**Predicting the Oxidation States of Mn ions in the Oxygen Evolving Complex of Photosystem II Using Supervised and Unsupervised Machine Learning**|Mohamed Ibrahim et.al.|[2112.15460v1](http://arxiv.org/abs/2112.15460v1)|null|
+|**2021-12-31**|**Representation Learning via Consistent Assignment of Views to Clusters**|Thalles Silva et.al.|[2112.15421v1](http://arxiv.org/abs/2112.15421v1)|null|
+|**2021-12-31**|**InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering**|Mijeong Kim et.al.|[2112.15399v1](http://arxiv.org/abs/2112.15399v1)|null|
+|**2021-12-31**|**Data-Free Knowledge Transfer: A Survey**|Yuang Liu et.al.|[2112.15278v1](http://arxiv.org/abs/2112.15278v1)|null|
+|**2021-12-30**|**On the Role of Neural Collapse in Transfer Learning**|Tomer Galanti et.al.|[2112.15121v1](http://arxiv.org/abs/2112.15121v1)|null|
+|**2021-12-30**|**Colour alignment for relative colour constancy via non-standard references**|Yunfeng Zhao et.al.|[2112.15106v1](http://arxiv.org/abs/2112.15106v1)|null|
+|**2021-12-30**|**Leveraging in-domain supervision for unsupervised image-to-image translation tasks via multi-stream generators**|Dvir Yerushalmi et.al.|[2112.15091v1](http://arxiv.org/abs/2112.15091v1)|null|
+|**2021-12-30**|**THE Benchmark: Transferable Representation Learning for Monocular Height Estimation**|Zhitong Xiong et.al.|[2112.14985v1](http://arxiv.org/abs/2112.14985v1)|null|
+|**2021-12-30**|**Contrastive Fine-grained Class Clustering via Generative Adversarial Networks**|Yunji Kim et.al.|[2112.14971v1](http://arxiv.org/abs/2112.14971v1)|null|
+|**2021-12-30**|**Few-shot Backdoor Defense Using Shapley Estimation**|Jiyang Guan et.al.|[2112.14889v1](http://arxiv.org/abs/2112.14889v1)|null|
+|**2021-12-29**|**UCoDe: Unified Community Detection with Graph Convolutional Networks**|Atefeh Moradan et.al.|[2112.14822v1](http://arxiv.org/abs/2112.14822v1)|null|
+|**2021-12-29**|**Learning Inception Attention for Image Synthesis and Image Recognition**|Jianghao Shen et.al.|[2112.14804v1](http://arxiv.org/abs/2112.14804v1)|null|
 |**2021-12-29**|**A Simple Baseline for Zero-shot Semantic Segmentation with Pre-trained Vision-language Model**|Mengde Xu et.al.|[2112.14757v1](http://arxiv.org/abs/2112.14757v1)|null|
 |**2021-12-29**|**Semantic Feature Extraction for Generalized Zero-shot Learning**|Junhan Kim et.al.|[2112.14478v1](http://arxiv.org/abs/2112.14478v1)|null|
 |**2021-12-28**|**FRIDA -- Generative Feature Replay for Incremental Domain Adaptation**|Sayan Rakshit et.al.|[2112.14316v1](http://arxiv.org/abs/2112.14316v1)|null|
@@ -198,6 +219,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-31**|**InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering**|Mijeong Kim et.al.|[2112.15399v1](http://arxiv.org/abs/2112.15399v1)|null|
 |**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|**[link](https://github.com/fnzhan/mise)**|
 |**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang et.al.|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|null|
 |**2021-12-23**|**DD-NeRF: Double-Diffusion Neural Radiance Field as a Generalizable Implicit Body Representation**|Guangming Yao et.al.|[2112.12390v1](http://arxiv.org/abs/2112.12390v1)|null|
@@ -223,6 +245,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-31**|**on the effectiveness of generative adversarial network on anomaly detection**|Laya Rafiee Sevyeri et.al.|[2112.15541v1](http://arxiv.org/abs/2112.15541v1)|null|
+|**2021-12-28**|**GANISP: a GAN-assisted Importance SPlitting Probability Estimator**|Malik Hassanaly et.al.|[2112.15444v1](http://arxiv.org/abs/2112.15444v1)|null|
+|**2021-12-30**|**Length-gauge optical matrix elements in WIEN2k**|Oleg Rubel et.al.|[2112.15195v1](http://arxiv.org/abs/2112.15195v1)|null|
+|**2021-12-30**|**Contrastive Fine-grained Class Clustering via Generative Adversarial Networks**|Yunji Kim et.al.|[2112.14971v1](http://arxiv.org/abs/2112.14971v1)|null|
+|**2021-12-30**|**A Novel Generator with Auxiliary Branch for Improving GAN Performance**|Seung Park et.al.|[2112.14968v1](http://arxiv.org/abs/2112.14968v1)|null|
+|**2021-12-30**|**On-Policy Robust Adaptive Discrete-Time Regulator for Passive Unidirectional System using Stochastic Hill-climbing Algorithm and Associated Search Element**|Mohsen Jafarzadeh et.al.|[2112.14901v1](http://arxiv.org/abs/2112.14901v1)|null|
+|**2021-12-29**|**Compositional Data Regression in Insurance with Exponential Family PCA**|Guojun Gan et.al.|[2112.14865v1](http://arxiv.org/abs/2112.14865v1)|null|
 |**2021-12-29**|**The canonicality of the integral models of RSZ Shimura varieties**|Yuta Nakayama et.al.|[2112.14558v1](http://arxiv.org/abs/2112.14558v1)|null|
 |**2021-12-29**|**Effects of the initial perturbations on the Rayleigh-Taylor-Kelvin-Helmholtz instability system**|Feng Chen et.al.|[2112.14534v1](http://arxiv.org/abs/2112.14534v1)|null|
 |**2021-12-29**|**Tunable electronic properties and band alignments of MoSi$_2$N$_4$/GaN and MoSi$_2$N$_4$/ZnO van der Waals heterostructures**|Jin Quan Ng et.al.|[2112.14526v1](http://arxiv.org/abs/2112.14526v1)|null|
