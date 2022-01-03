@@ -328,7 +328,7 @@ layout: default
 |**2021-12-29**|**A Simple Baseline for Zero-shot Semantic Segmentation with Pre-trained Vision-language Model**|Mengde Xu et.al.|[2112.14757v1](http://arxiv.org/abs/2112.14757v1)|null|
 |**2021-12-29**|**Semantic Feature Extraction for Generalized Zero-shot Learning**|Junhan Kim et.al.|[2112.14478v1](http://arxiv.org/abs/2112.14478v1)|null|
 |**2021-12-28**|**FRIDA -- Generative Feature Replay for Incremental Domain Adaptation**|Sayan Rakshit et.al.|[2112.14316v1](http://arxiv.org/abs/2112.14316v1)|null|
-|**2021-12-28**|**Beta-VAE Reproducibility: Challenges and Extensions**|Miroslav Fil et.al.|[2112.14278v1](http://arxiv.org/abs/2112.14278v1)|null|
+|**2021-12-28**|**Beta-VAE Reproducibility: Challenges and Extensions**|Miroslav Fil et.al.|[2112.14278v2](http://arxiv.org/abs/2112.14278v2)|null|
 |**2021-12-28**|**Enhanced Wi-Fi RTT Ranging: A Sensor-Aided Learning Approach**|Jeongsik Choi et.al.|[2112.14138v1](http://arxiv.org/abs/2112.14138v1)|null|
 |**2021-12-28**|**Unsupervised Domain Adaptation for Constraining Star Formation Histories**|Sankalp Gilda et.al.|[2112.14072v1](http://arxiv.org/abs/2112.14072v1)|null|
 |**2021-12-28**|**Delving into Probabilistic Uncertainty for Unsupervised Domain Adaptive Person Re-Identification**|Jian Han et.al.|[2112.14025v1](http://arxiv.org/abs/2112.14025v1)|null|
@@ -337,7 +337,7 @@ layout: default
 |**2021-12-28**|**Multi-Band Wi-Fi Sensing with Matched Feature Granularity**|Jianyuan Yu et.al.|[2112.14006v1](http://arxiv.org/abs/2112.14006v1)|null|
 |**2021-12-28**|**Associative Adversarial Learning Based on Selective Attack**|Runqi Wang et.al.|[2112.13989v1](http://arxiv.org/abs/2112.13989v1)|null|
 |**2021-12-28**|**LINDA: Unsupervised Learning to Interpolate in Natural Language Processing**|Yekyung Kim et.al.|[2112.13969v1](http://arxiv.org/abs/2112.13969v1)|null|
-|**2021-12-28**|**Automatic morphological classification of galaxies: convolutional autoencoder and bagging-based multiclustering model**|C. C. Zhou et.al.|[2112.13957v1](http://arxiv.org/abs/2112.13957v1)|null|
+|**2021-12-28**|**Automatic morphological classification of galaxies: convolutional autoencoder and bagging-based multiclustering model**|C. C. Zhou et.al.|[2112.13957v2](http://arxiv.org/abs/2112.13957v2)|null|
 |**2021-12-27**|**SurFit: Learning to Fit Surfaces Improves Few Shot Learning on Point Clouds**|Gopal Sharma et.al.|[2112.13942v1](http://arxiv.org/abs/2112.13942v1)|null|
 |**2021-12-27**|**GPU-accelerated Faster Mean Shift with euclidean distance metrics**|Le You et.al.|[2112.13891v1](http://arxiv.org/abs/2112.13891v1)|**[link](https://github.com/masqm/Faster-Mean-Shift-Euc)**|
 |**2021-12-27**|**MedShift: identifying shift data for medical dataset curation**|Xiaoyuan Guo et.al.|[2112.13885v1](http://arxiv.org/abs/2112.13885v1)|null|
