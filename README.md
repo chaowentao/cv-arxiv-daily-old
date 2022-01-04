@@ -30,6 +30,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-02**|**Detail-Preserving Transformer for Light Field Image Super-Resolution**|Shunzhou Wang et.al.|[2201.00346v1](http://arxiv.org/abs/2201.00346v1)|null|
 |**2021-12-29**|**Propagation-invariant high-dimensional orbital angular momentum states**|Li-Wei Mao et.al.|[2112.14511v1](http://arxiv.org/abs/2112.14511v1)|null|
 |**2021-12-29**|**Nth-order nonlinear intensity fluctuation amplifier**|Shuanghao Zhang et.al.|[2112.14443v1](http://arxiv.org/abs/2112.14443v1)|null|
 |**2021-12-24**|**Stimulated Rayleigh scattering and slow light generation in a periodically driven Dirac semimetal Cd$_3$As$_2$**|Yuta Murotani et.al.|[2112.13113v1](http://arxiv.org/abs/2112.13113v1)|null|
@@ -59,6 +60,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-03**|**Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space**|Arnav Chavan et.al.|[2201.00814v1](http://arxiv.org/abs/2201.00814v1)|null|
+|**2022-01-03**|**Vision Transformer with Deformable Attention**|Zhuofan Xia et.al.|[2201.00520v1](http://arxiv.org/abs/2201.00520v1)|null|
+|**2022-01-03**|**CaFT: Clustering and Filter on Tokens of Transformer for Weakly Supervised Object Localization**|Ming Li et.al.|[2201.00475v1](http://arxiv.org/abs/2201.00475v1)|null|
+|**2022-01-03**|**D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation**|Yixuan Wu et.al.|[2201.00462v1](http://arxiv.org/abs/2201.00462v1)|null|
+|**2022-01-02**|**Splicing ViT Features for Semantic Appearance Transfer**|Narek Tumanyan et.al.|[2201.00424v1](http://arxiv.org/abs/2201.00424v1)|null|
+|**2021-12-31**|**Multi-Dimensional Model Compression of Vision Transformer**|Zejiang Hou et.al.|[2201.00043v1](http://arxiv.org/abs/2201.00043v1)|null|
 |**2021-12-30**|**Stochastic Layers in Vision Transformers**|Nikola Popovic et.al.|[2112.15111v1](http://arxiv.org/abs/2112.15111v1)|null|
 |**2021-12-28**|**APRIL: Finding the Achilles' Heel on Privacy for Vision Transformers**|Jiahao Lu et.al.|[2112.14087v1](http://arxiv.org/abs/2112.14087v1)|null|
 |**2021-12-28**|**Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention**|Sitong Wu et.al.|[2112.14000v1](http://arxiv.org/abs/2112.14000v1)|**[link](https://github.com/BR-IDL/PaddleViT)**|
@@ -124,6 +131,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-03**|**Mitigating indistinguishability issues in photon pair sources by delayed-pump Intermodal Four Wave Mixing**|Massimo Borghi et.al.|[2201.00670v1](http://arxiv.org/abs/2201.00670v1)|null|
+|**2022-01-03**|**Generative adversarial network for super-resolution imaging through a fiber**|Wei Li et.al.|[2201.00601v1](http://arxiv.org/abs/2201.00601v1)|null|
+|**2022-01-03**|**Benchmark Functions for CEC 2022 Competition on Seeking Multiple Optima in Dynamic Environments**|Wenjian Luo et.al.|[2201.00523v1](http://arxiv.org/abs/2201.00523v1)|null|
+|**2022-01-01**|**Phonon condensation and cooling via nonlinear feedback**|Xu Zheng et.al.|[2201.00251v1](http://arxiv.org/abs/2201.00251v1)|null|
+|**2022-01-01**|**NOMA Computation Over Multi-Access Channels for Multimodal Sensing**|Michel Kulhandjian et.al.|[2201.00203v1](http://arxiv.org/abs/2201.00203v1)|null|
 |**2021-12-31**|**InverseMV: Composing Piano Scores with a Convolutional Video-Music Transformer**|Chin-Tung Lin et.al.|[2112.15320v1](http://arxiv.org/abs/2112.15320v1)|null|
 |**2021-12-30**|**An empirical user-study of text-based nonverbal annotation systems for human-human conversations**|Joshua Y. Kim et.al.|[2112.14928v1](http://arxiv.org/abs/2112.14928v1)|null|
 |**2021-12-29**|**Implementation of Convolutional Neural Network Architecture on 3D Multiparametric Magnetic Resonance Imaging for Prostate Cancer Diagnosis**|Ping-Chang Lin et.al.|[2112.14644v1](http://arxiv.org/abs/2112.14644v1)|null|
@@ -151,6 +163,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-31**|**Effect of Kinematics and Fluency in Adversarial Synthetic Data Generation for ASL Recognition with RF Sensors**|M. M. Rahman et.al.|[2201.00055v1](http://arxiv.org/abs/2201.00055v1)|null|
 |**2021-12-31**|**An Unsupervised Domain Adaptation Model based on Dual-module Adversarial Training**|Yiju Yang et.al.|[2112.15555v1](http://arxiv.org/abs/2112.15555v1)|null|
 |**2021-12-31**|**Domain Adaptation with Category Attention Network for Deep Sentiment Analysis**|Dongbo Xi et.al.|[2112.15290v1](http://arxiv.org/abs/2112.15290v1)|null|
 |**2021-12-31**|**Data-Free Knowledge Transfer: A Survey**|Yuang Liu et.al.|[2112.15278v1](http://arxiv.org/abs/2112.15278v1)|null|
@@ -180,6 +193,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-03**|**Machine learning approaches for localized lockdown during COVID-19: a case study analysis**|Sara Malvar et.al.|[2201.00715v1](http://arxiv.org/abs/2201.00715v1)|null|
+|**2022-01-03**|**Scalable semi-supervised dimensionality reduction with GPU-accelerated EmbedSOM**|Adam Šmelko et.al.|[2201.00701v1](http://arxiv.org/abs/2201.00701v1)|null|
+|**2022-01-03**|**Semantically Grounded Visual Embeddings for Zero-Shot Learning**|Shah Nawaz et.al.|[2201.00577v1](http://arxiv.org/abs/2201.00577v1)|null|
+|**2022-01-03**|**Zero-Shot Cost Models for Out-of-the-box Learned Cost Prediction**|Benjamin Hilprecht et.al.|[2201.00561v1](http://arxiv.org/abs/2201.00561v1)|null|
+|**2022-01-03**|**Adaptive Memory Networks with Self-supervised Learning for Unsupervised Anomaly Detection**|Yuxin Zhang et.al.|[2201.00464v1](http://arxiv.org/abs/2201.00464v1)|null|
+|**2022-01-02**|**ECOD: Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions**|Zheng Li et.al.|[2201.00382v1](http://arxiv.org/abs/2201.00382v1)|null|
+|**2022-01-02**|**Fair Data Representation for Machine Learning at the Pareto Frontier**|Shizhou Xu et.al.|[2201.00292v1](http://arxiv.org/abs/2201.00292v1)|null|
+|**2022-01-02**|**DF-SSmVEP: Dual Frequency Aggregated Steady-State Motion Visual Evoked Potential Design with Bifold Canonical Correlation Analysis**|Raika Karimi et.al.|[2201.00283v1](http://arxiv.org/abs/2201.00283v1)|null|
+|**2022-01-01**|**Operator Deep Q-Learning: Zero-Shot Reward Transferring in Reinforcement Learning**|Ziyang Tang et.al.|[2201.00236v1](http://arxiv.org/abs/2201.00236v1)|null|
+|**2022-01-01**|**Cross-Domain Deep Code Search with Few-Shot Meta Learning**|Yitian Chai et.al.|[2201.00150v1](http://arxiv.org/abs/2201.00150v1)|null|
+|**2022-01-01**|**Zero-shot Commonsense Question Answering with Cloze Translation and Consistency Optimization**|Zi-Yi Dou et.al.|[2201.00136v1](http://arxiv.org/abs/2201.00136v1)|null|
+|**2022-01-01**|**Robust Region Feature Synthesizer for Zero-Shot Object Detection**|Peiliang Huang et.al.|[2201.00103v1](http://arxiv.org/abs/2201.00103v1)|null|
+|**2021-12-31**|**Supervised versus unsupervised learning: approaching optimal memory retrieval in Hopfield networks**|Marco Benedetti et.al.|[2201.00032v1](http://arxiv.org/abs/2201.00032v1)|null|
 |**2021-12-31**|**An Unsupervised Domain Adaptation Model based on Dual-module Adversarial Training**|Yiju Yang et.al.|[2112.15555v1](http://arxiv.org/abs/2112.15555v1)|null|
 |**2021-12-31**|**on the effectiveness of generative adversarial network on anomaly detection**|Laya Rafiee Sevyeri et.al.|[2112.15541v1](http://arxiv.org/abs/2112.15541v1)|null|
 |**2021-12-31**|**Predicting the Oxidation States of Mn ions in the Oxygen Evolving Complex of Photosystem II Using Supervised and Unsupervised Machine Learning**|Mohamed Ibrahim et.al.|[2112.15460v1](http://arxiv.org/abs/2112.15460v1)|null|
@@ -245,6 +271,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-03**|**FaceQgen: Semi-Supervised Deep Learning for Face Image Quality Assessment**|Javier Hernandez-Ortega et.al.|[2201.00770v1](http://arxiv.org/abs/2201.00770v1)|null|
+|**2022-01-03**|**Deep-potential driven multiscale simulation of gallium nitride devices on boron arsenide cooling substrates**|Jing Wu et.al.|[2201.00516v1](http://arxiv.org/abs/2201.00516v1)|null|
+|**2022-01-02**|**IQDUBBING: Prosody modeling based on discrete self-supervised speech representation for expressive voice conversion**|Wendong Gan et.al.|[2201.00269v1](http://arxiv.org/abs/2201.00269v1)|null|
+|**2022-01-01**|**Temperature Effect on Charge-state Transition Levels of Defects in Semiconductors**|Shuang Qiao et.al.|[2201.00211v1](http://arxiv.org/abs/2201.00211v1)|null|
 |**2021-12-31**|**on the effectiveness of generative adversarial network on anomaly detection**|Laya Rafiee Sevyeri et.al.|[2112.15541v1](http://arxiv.org/abs/2112.15541v1)|null|
 |**2021-12-28**|**GANISP: a GAN-assisted Importance SPlitting Probability Estimator**|Malik Hassanaly et.al.|[2112.15444v1](http://arxiv.org/abs/2112.15444v1)|null|
 |**2021-12-30**|**Length-gauge optical matrix elements in WIEN2k**|Oleg Rubel et.al.|[2112.15195v1](http://arxiv.org/abs/2112.15195v1)|null|
