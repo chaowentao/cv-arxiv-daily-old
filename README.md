@@ -262,7 +262,7 @@
 |**2021-12-28**|**LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation**|Shoya Matsumori et.al.|[2112.13985v1](http://arxiv.org/abs/2112.13985v1)|null|
 |**2021-12-27**|**Depth and Feature Learning are Provably Beneficial for Neural Network Discriminators**|Carles Domingo-Enrich et.al.|[2112.13867v1](http://arxiv.org/abs/2112.13867v1)|null|
 |**2021-12-27**|**Astronomical Image Colorization and upscaling with Generative Adversarial Networks**|Shreyas Kalvankar et.al.|[2112.13865v1](http://arxiv.org/abs/2112.13865v1)|null|
-|**2021-12-27**|**Generation of Synthetic Rat Brain MRI scans with a 3D Enhanced Alpha-GAN**|André Ferreira et.al.|[2112.13626v1](http://arxiv.org/abs/2112.13626v1)|null|
+|**2021-12-27**|**Generation of Synthetic Rat Brain MRI scans with a 3D Enhanced Alpha-GAN**|André Ferreira et.al.|[2112.13626v2](http://arxiv.org/abs/2112.13626v2)|null|
 |**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|**[link](https://github.com/fnzhan/mise)**|
 |**2021-12-26**|**FRuDA: Framework for Distributed Adversarial Domain Adaptation**|Shaoduo Gan et.al.|[2112.13381v1](http://arxiv.org/abs/2112.13381v1)|null|
 |**2021-12-26**|**Itô-Taylor Sampling Scheme for Denoising Diffusion Probabilistic Models using Ideal Derivatives**|Hideyuki Tachibana et.al.|[2112.13339v1](http://arxiv.org/abs/2112.13339v1)|null|
