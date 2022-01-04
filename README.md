@@ -1,4 +1,4 @@
-## Updated on 2022.01.03
+## Updated on 2022.01.04
 
 ## Image Generation
 
@@ -194,7 +194,7 @@
 |**2021-12-30**|**Few-shot Backdoor Defense Using Shapley Estimation**|Jiyang Guan et.al.|[2112.14889v1](http://arxiv.org/abs/2112.14889v1)|null|
 |**2021-12-29**|**UCoDe: Unified Community Detection with Graph Convolutional Networks**|Atefeh Moradan et.al.|[2112.14822v1](http://arxiv.org/abs/2112.14822v1)|null|
 |**2021-12-29**|**Learning Inception Attention for Image Synthesis and Image Recognition**|Jianghao Shen et.al.|[2112.14804v1](http://arxiv.org/abs/2112.14804v1)|null|
-|**2021-12-29**|**A Simple Baseline for Zero-shot Semantic Segmentation with Pre-trained Vision-language Model**|Mengde Xu et.al.|[2112.14757v1](http://arxiv.org/abs/2112.14757v1)|null|
+|**2021-12-29**|**A Simple Baseline for Zero-shot Semantic Segmentation with Pre-trained Vision-language Model**|Mengde Xu et.al.|[2112.14757v1](http://arxiv.org/abs/2112.14757v1)|**[link](https://github.com/mendelxu/zsseg.baseline)**|
 |**2021-12-29**|**Semantic Feature Extraction for Generalized Zero-shot Learning**|Junhan Kim et.al.|[2112.14478v1](http://arxiv.org/abs/2112.14478v1)|null|
 |**2021-12-28**|**FRIDA -- Generative Feature Replay for Incremental Domain Adaptation**|Sayan Rakshit et.al.|[2112.14316v1](http://arxiv.org/abs/2112.14316v1)|null|
 |**2021-12-28**|**Beta-VAE Reproducibility: Challenges and Extensions**|Miroslav Fil et.al.|[2112.14278v2](http://arxiv.org/abs/2112.14278v2)|null|
@@ -256,7 +256,7 @@
 |**2021-12-29**|**Effects of the initial perturbations on the Rayleigh-Taylor-Kelvin-Helmholtz instability system**|Feng Chen et.al.|[2112.14534v1](http://arxiv.org/abs/2112.14534v1)|null|
 |**2021-12-29**|**Tunable electronic properties and band alignments of MoSi$_2$N$_4$/GaN and MoSi$_2$N$_4$/ZnO van der Waals heterostructures**|Jin Quan Ng et.al.|[2112.14526v1](http://arxiv.org/abs/2112.14526v1)|null|
 |**2021-12-29**|**Damping signatures at JUNO, a medium-baseline reactor neutrino oscillation experiment**|JUNO collaboration et.al.|[2112.14450v1](http://arxiv.org/abs/2112.14450v1)|null|
-|**2021-12-29**|**Overcoming Mode Collapse with Adaptive Multi Adversarial Training**|Karttikeya Mangalam et.al.|[2112.14406v1](http://arxiv.org/abs/2112.14406v1)|null|
+|**2021-12-29**|**Overcoming Mode Collapse with Adaptive Multi Adversarial Training**|Karttikeya Mangalam et.al.|[2112.14406v1](http://arxiv.org/abs/2112.14406v1)|**[link](https://github.com/gargrohin/amat)**|
 |**2021-12-28**|**FRIDA -- Generative Feature Replay for Incremental Domain Adaptation**|Sayan Rakshit et.al.|[2112.14316v1](http://arxiv.org/abs/2112.14316v1)|null|
 |**2021-12-28**|**Investigating Shifts in GAN Output-Distributions**|Ricard Durall et.al.|[2112.14061v1](http://arxiv.org/abs/2112.14061v1)|null|
 |**2021-12-28**|**LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation**|Shoya Matsumori et.al.|[2112.13985v1](http://arxiv.org/abs/2112.13985v1)|null|
