@@ -212,7 +212,7 @@
 |**2021-12-31**|**Representation Learning via Consistent Assignment of Views to Clusters**|Thalles Silva et.al.|[2112.15421v1](http://arxiv.org/abs/2112.15421v1)|null|
 |**2021-12-31**|**InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering**|Mijeong Kim et.al.|[2112.15399v1](http://arxiv.org/abs/2112.15399v1)|null|
 |**2021-12-31**|**Data-Free Knowledge Transfer: A Survey**|Yuang Liu et.al.|[2112.15278v1](http://arxiv.org/abs/2112.15278v1)|null|
-|**2021-12-30**|**On the Role of Neural Collapse in Transfer Learning**|Tomer Galanti et.al.|[2112.15121v1](http://arxiv.org/abs/2112.15121v1)|null|
+|**2021-12-30**|**On the Role of Neural Collapse in Transfer Learning**|Tomer Galanti et.al.|[2112.15121v2](http://arxiv.org/abs/2112.15121v2)|null|
 |**2021-12-30**|**Colour alignment for relative colour constancy via non-standard references**|Yunfeng Zhao et.al.|[2112.15106v1](http://arxiv.org/abs/2112.15106v1)|null|
 |**2021-12-30**|**Leveraging in-domain supervision for unsupervised image-to-image translation tasks via multi-stream generators**|Dvir Yerushalmi et.al.|[2112.15091v1](http://arxiv.org/abs/2112.15091v1)|null|
 |**2021-12-30**|**THE Benchmark: Transferable Representation Learning for Monocular Height Estimation**|Zhitong Xiong et.al.|[2112.14985v1](http://arxiv.org/abs/2112.14985v1)|null|
