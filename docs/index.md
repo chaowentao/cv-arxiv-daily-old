@@ -336,7 +336,7 @@ layout: default
 |**2021-12-26**|**FRuDA: Framework for Distributed Adversarial Domain Adaptation**|Shaoduo Gan et.al.|[2112.13381v1](http://arxiv.org/abs/2112.13381v1)|null|
 |**2021-12-24**|**Disentanglement by Cyclic Reconstruction**|David Bertoin et.al.|[2112.12980v1](http://arxiv.org/abs/2112.12980v1)|null|
 |**2021-12-24**|**A formal approach to good practices in Pseudo-Labeling for Unsupervised Domain Adaptive Re-Identification**|Fabian Dubourvieux et.al.|[2112.12887v2](http://arxiv.org/abs/2112.12887v2)|null|
-|**2021-12-23**|**Revisiting, Benchmarking and Exploring API Recommendation: How Far Are We?**|Yun Peng et.al.|[2112.12653v1](http://arxiv.org/abs/2112.12653v1)|null|
+|**2021-12-23**|**Revisiting, Benchmarking and Exploring API Recommendation: How Far Are We?**|Yun Peng et.al.|[2112.12653v1](http://arxiv.org/abs/2112.12653v1)|**[link](https://github.com/JohnnyPeng18/APIBench)**|
 |**2021-12-22**|**Domain Adaptation for Simulation-Based Dark Matter Searches Using Strong Gravitational Lensing**|Stephon Alexander et.al.|[2112.12121v1](http://arxiv.org/abs/2112.12121v1)|**[link](https://github.com/ML4SCI/DeepLense/tree/main/Domain_Adaptation_for_DeepLense_Marcos_Tidball)**|
 |**2021-12-22**|**Multi-Centroid Representation Network for Domain Adaptive Person Re-ID**|Yuhang Wu et.al.|[2112.11689v1](http://arxiv.org/abs/2112.11689v1)|null|
 |**2021-12-22**|**Domain Adaptation with Pre-trained Transformers for Query Focused Abstractive Text Summarization**|Md Tahmid Rahman Laskar et.al.|[2112.11670v1](http://arxiv.org/abs/2112.11670v1)|null|
@@ -364,7 +364,7 @@ layout: default
 |**2022-01-03**|**Zero-Shot Cost Models for Out-of-the-box Learned Cost Prediction**|Benjamin Hilprecht et.al.|[2201.00561v1](http://arxiv.org/abs/2201.00561v1)|null|
 |**2022-01-03**|**Adaptive Memory Networks with Self-supervised Learning for Unsupervised Anomaly Detection**|Yuxin Zhang et.al.|[2201.00464v1](http://arxiv.org/abs/2201.00464v1)|null|
 |**2022-01-02**|**ECOD: Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions**|Zheng Li et.al.|[2201.00382v1](http://arxiv.org/abs/2201.00382v1)|**[link](https://github.com/yzhao062/pyod)**|
-|**2022-01-02**|**Fair Data Representation for Machine Learning at the Pareto Frontier**|Shizhou Xu et.al.|[2201.00292v1](http://arxiv.org/abs/2201.00292v1)|null|
+|**2022-01-02**|**Fair Data Representation for Machine Learning at the Pareto Frontier**|Shizhou Xu et.al.|[2201.00292v1](http://arxiv.org/abs/2201.00292v1)|**[link](https://github.com/xushizhou/fair_data_representation)**|
 |**2022-01-02**|**DF-SSmVEP: Dual Frequency Aggregated Steady-State Motion Visual Evoked Potential Design with Bifold Canonical Correlation Analysis**|Raika Karimi et.al.|[2201.00283v1](http://arxiv.org/abs/2201.00283v1)|null|
 |**2022-01-01**|**Operator Deep Q-Learning: Zero-Shot Reward Transferring in Reinforcement Learning**|Ziyang Tang et.al.|[2201.00236v1](http://arxiv.org/abs/2201.00236v1)|null|
 |**2022-01-01**|**Cross-Domain Deep Code Search with Few-Shot Meta Learning**|Yitian Chai et.al.|[2201.00150v1](http://arxiv.org/abs/2201.00150v1)|null|
@@ -372,7 +372,7 @@ layout: default
 |**2022-01-01**|**Robust Region Feature Synthesizer for Zero-Shot Object Detection**|Peiliang Huang et.al.|[2201.00103v1](http://arxiv.org/abs/2201.00103v1)|null|
 |**2021-12-31**|**Supervised versus unsupervised learning: approaching optimal memory retrieval in Hopfield networks**|Marco Benedetti et.al.|[2201.00032v1](http://arxiv.org/abs/2201.00032v1)|null|
 |**2021-12-31**|**An Unsupervised Domain Adaptation Model based on Dual-module Adversarial Training**|Yiju Yang et.al.|[2112.15555v1](http://arxiv.org/abs/2112.15555v1)|null|
-|**2021-12-31**|**on the effectiveness of generative adversarial network on anomaly detection**|Laya Rafiee Sevyeri et.al.|[2112.15541v1](http://arxiv.org/abs/2112.15541v1)|null|
+|**2021-12-31**|**on the effectiveness of generative adversarial network on anomaly detection**|Laya Rafiee Sevyeri et.al.|[2112.15541v1](http://arxiv.org/abs/2112.15541v1)|**[link](https://github.com/layaars/unsupervised-anomaly-detection-with-a-gan-augmented-autoencoder)**|
 |**2021-12-31**|**Predicting the Oxidation States of Mn ions in the Oxygen Evolving Complex of Photosystem II Using Supervised and Unsupervised Machine Learning**|Mohamed Ibrahim et.al.|[2112.15460v1](http://arxiv.org/abs/2112.15460v1)|null|
 |**2021-12-31**|**Representation Learning via Consistent Assignment of Views to Clusters**|Thalles Silva et.al.|[2112.15421v1](http://arxiv.org/abs/2112.15421v1)|null|
 |**2021-12-31**|**InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering**|Mijeong Kim et.al.|[2112.15399v1](http://arxiv.org/abs/2112.15399v1)|null|
@@ -442,13 +442,13 @@ layout: default
 |**2022-01-03**|**Deep-potential driven multiscale simulation of gallium nitride devices on boron arsenide cooling substrates**|Jing Wu et.al.|[2201.00516v1](http://arxiv.org/abs/2201.00516v1)|null|
 |**2022-01-02**|**IQDUBBING: Prosody modeling based on discrete self-supervised speech representation for expressive voice conversion**|Wendong Gan et.al.|[2201.00269v1](http://arxiv.org/abs/2201.00269v1)|null|
 |**2022-01-01**|**Temperature Effect on Charge-state Transition Levels of Defects in Semiconductors**|Shuang Qiao et.al.|[2201.00211v1](http://arxiv.org/abs/2201.00211v1)|null|
-|**2021-12-31**|**on the effectiveness of generative adversarial network on anomaly detection**|Laya Rafiee Sevyeri et.al.|[2112.15541v1](http://arxiv.org/abs/2112.15541v1)|null|
+|**2021-12-31**|**on the effectiveness of generative adversarial network on anomaly detection**|Laya Rafiee Sevyeri et.al.|[2112.15541v1](http://arxiv.org/abs/2112.15541v1)|**[link](https://github.com/layaars/unsupervised-anomaly-detection-with-a-gan-augmented-autoencoder)**|
 |**2021-12-28**|**GANISP: a GAN-assisted Importance SPlitting Probability Estimator**|Malik Hassanaly et.al.|[2112.15444v1](http://arxiv.org/abs/2112.15444v1)|**[link](https://github.com/nrel/ganisp)**|
 |**2021-12-30**|**Length-gauge optical matrix elements in WIEN2k**|Oleg Rubel et.al.|[2112.15195v1](http://arxiv.org/abs/2112.15195v1)|null|
 |**2021-12-30**|**Contrastive Fine-grained Class Clustering via Generative Adversarial Networks**|Yunji Kim et.al.|[2112.14971v1](http://arxiv.org/abs/2112.14971v1)|**[link](https://github.com/naver-ai/c3-gan)**|
 |**2021-12-30**|**A Novel Generator with Auxiliary Branch for Improving GAN Performance**|Seung Park et.al.|[2112.14968v1](http://arxiv.org/abs/2112.14968v1)|null|
 |**2021-12-30**|**On-Policy Robust Adaptive Discrete-Time Regulator for Passive Unidirectional System using Stochastic Hill-climbing Algorithm and Associated Search Element**|Mohsen Jafarzadeh et.al.|[2112.14901v1](http://arxiv.org/abs/2112.14901v1)|null|
-|**2021-12-29**|**Compositional Data Regression in Insurance with Exponential Family PCA**|Guojun Gan et.al.|[2112.14865v1](http://arxiv.org/abs/2112.14865v1)|null|
+|**2021-12-29**|**Compositional Data Regression in Insurance with Exponential Family PCA**|Guojun Gan et.al.|[2112.14865v1](http://arxiv.org/abs/2112.14865v1)|**[link](https://github.com/sistm/CoDa-PCA)**|
 |**2021-12-29**|**The canonicality of the integral models of RSZ Shimura varieties**|Yuta Nakayama et.al.|[2112.14558v1](http://arxiv.org/abs/2112.14558v1)|null|
 |**2021-12-29**|**Effects of the initial perturbations on the Rayleigh-Taylor-Kelvin-Helmholtz instability system**|Feng Chen et.al.|[2112.14534v1](http://arxiv.org/abs/2112.14534v1)|null|
 |**2021-12-29**|**Tunable electronic properties and band alignments of MoSi$_2$N$_4$/GaN and MoSi$_2$N$_4$/ZnO van der Waals heterostructures**|Jin Quan Ng et.al.|[2112.14526v1](http://arxiv.org/abs/2112.14526v1)|null|
