@@ -30,6 +30,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-05**|**Measuring the non-separability of spatially disjoint vectorial fields**|Andrea Aiello et.al.|[2201.01456v1](http://arxiv.org/abs/2201.01456v1)|null|
 |**2022-01-04**|**3DVSR: 3D EPI Volume-based Approach for Angular and Spatial Light field Image Super-resolution**|Trung-Hieu Tran et.al.|[2201.01294v1](http://arxiv.org/abs/2201.01294v1)|null|
 |**2022-01-03**|**Multi-phase critical Higgs boson at colliders**|Katri Huitu et.al.|[2201.00824v1](http://arxiv.org/abs/2201.00824v1)|null|
 |**2022-01-02**|**Detail-Preserving Transformer for Light Field Image Super-Resolution**|Shunzhou Wang et.al.|[2201.00346v1](http://arxiv.org/abs/2201.00346v1)|null|
@@ -62,6 +63,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-05**|**Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale Representations via Large Window Attention**|Haotian Yan et.al.|[2201.01615v1](http://arxiv.org/abs/2201.01615v1)|**[link](https://github.com/yan-hao-tian/lawin)**|
 |**2022-01-04**|**Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images**|Ali Hatamizadeh et.al.|[2201.01266v1](http://arxiv.org/abs/2201.01266v1)|**[link](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR/BRATS21)**|
 |**2022-01-04**|**Short Range Correlation Transformer for Occluded Person Re-Identification**|Yunbin Zhao et.al.|[2201.01090v1](http://arxiv.org/abs/2201.01090v1)|null|
 |**2022-01-04**|**PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture**|Kai Han et.al.|[2201.00978v1](http://arxiv.org/abs/2201.00978v1)|**[link](https://github.com/huawei-noah/CV-backbones)**|
@@ -136,6 +138,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-05**|**Attention-based Dual Supervised Decoder for RGBD Semantic Segmentation**|Yang Zhang et.al.|[2201.01427v1](http://arxiv.org/abs/2201.01427v1)|null|
 |**2022-01-04**|**ExAID: A Multimodal Explanation Framework for Computer-Aided Diagnosis of Skin Lesions**|Adriano Lucieri et.al.|[2201.01249v1](http://arxiv.org/abs/2201.01249v1)|null|
 |**2022-01-03**|**Mitigating indistinguishability issues in photon pair sources by delayed-pump Intermodal Four Wave Mixing**|Massimo Borghi et.al.|[2201.00670v1](http://arxiv.org/abs/2201.00670v1)|null|
 |**2022-01-03**|**Generative adversarial network for super-resolution imaging through a fiber**|Wei Li et.al.|[2201.00601v1](http://arxiv.org/abs/2201.00601v1)|null|
@@ -169,6 +172,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-05**|**TableParser: Automatic Table Parsing with Weak Supervision from Spreadsheets**|Susie Xi Rao et.al.|[2201.01654v1](http://arxiv.org/abs/2201.01654v1)|**[link](https://github.com/ds3lab/tableparser)**|
+|**2022-01-05**|**Few-shot Domain Adaptation for IMU Denoising**|Feiyu Yao et.al.|[2201.01537v1](http://arxiv.org/abs/2201.01537v1)|null|
 |**2022-01-04**|**Aligning Domain-specific Distribution and Classifier for Cross-domain Classification from Multiple Sources**|Yongchun Zhu et.al.|[2201.01003v1](http://arxiv.org/abs/2201.01003v1)|**[link](https://github.com/easezyc/deep-transfer-learning)**|
 |**2022-01-04**|**Multi-Representation Adaptation Network for Cross-domain Image Classification**|Yongchun Zhu et.al.|[2201.01002v1](http://arxiv.org/abs/2201.01002v1)|**[link](https://github.com/easezyc/deep-transfer-learning)**|
 |**2021-12-31**|**Effect of Kinematics and Fluency in Adversarial Synthetic Data Generation for ASL Recognition with RF Sensors**|M. M. Rahman et.al.|[2201.00055v1](http://arxiv.org/abs/2201.00055v1)|null|
@@ -201,6 +206,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-05**|**Neural network reconstruction of the dense matter equation of state from neutron star observables**|Shriya Soma et.al.|[2201.01756v1](http://arxiv.org/abs/2201.01756v1)|null|
+|**2022-01-05**|**Clustering versus Statistical Analysis for SCA: when Machine Learning is Better**|Marcin Aftowicz et.al.|[2201.01717v1](http://arxiv.org/abs/2201.01717v1)|null|
+|**2022-01-05**|**Asymptotics of $\ell_2$ Regularized Network Embeddings**|Andrew Davison et.al.|[2201.01689v1](http://arxiv.org/abs/2201.01689v1)|null|
+|**2022-01-05**|**Few-shot Domain Adaptation for IMU Denoising**|Feiyu Yao et.al.|[2201.01537v1](http://arxiv.org/abs/2201.01537v1)|null|
+|**2022-01-05**|**Debiased Learning from Naturally Imbalanced Pseudo-Labels for Zero-Shot and Semi-Supervised Learning**|Xudong Wang et.al.|[2201.01490v1](http://arxiv.org/abs/2201.01490v1)|null|
+|**2022-01-05**|**Neural Network-Based Feature Extraction for Multi-Class Motor Imagery Classification**|Souvik Phadikar et.al.|[2201.01468v1](http://arxiv.org/abs/2201.01468v1)|null|
+|**2022-01-05**|**Self-Supervised Approach to Addressing Zero-Shot Learning Problem**|Ademola Okerinde et.al.|[2201.01391v1](http://arxiv.org/abs/2201.01391v1)|null|
+|**2022-01-04**|**Using Simulation Optimization to Improve Zero-shot Policy Transfer of Quadrotors**|Sven Gronauer et.al.|[2201.01369v1](http://arxiv.org/abs/2201.01369v1)|null|
+|**2022-01-04**|**Linear Variational State Space Filtering**|Daniel Pfrommer et.al.|[2201.01353v1](http://arxiv.org/abs/2201.01353v1)|**[link](https://github.com/pfrommerd/variational_state_space_models)**|
+|**2022-01-04**|**ZeroBERTo -- Leveraging Zero-Shot Text Classification by Topic Modeling**|Alexandre Alcoforado et.al.|[2201.01337v1](http://arxiv.org/abs/2201.01337v1)|null|
 |**2022-01-04**|**Online Multi-Object Tracking with Unsupervised Re-Identification Learning and Occlusion Estimation**|Qiankun Liu et.al.|[2201.01297v1](http://arxiv.org/abs/2201.01297v1)|null|
 |**2022-01-04**|**Towards Unsupervised Open World Semantic Segmentation**|Svenja Uhlemeyer et.al.|[2201.01073v1](http://arxiv.org/abs/2201.01073v1)|null|
 |**2022-01-04**|**Aligning Domain-specific Distribution and Classifier for Cross-domain Classification from Multiple Sources**|Yongchun Zhu et.al.|[2201.01003v1](http://arxiv.org/abs/2201.01003v1)|**[link](https://github.com/easezyc/deep-transfer-learning)**|
@@ -284,6 +299,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-05**|**Biphasic Face Photo-Sketch Synthesis via Semantic-Driven Generative Adversarial Network with Graph Representation Learning**|Xingqun Qi et.al.|[2201.01592v1](http://arxiv.org/abs/2201.01592v1)|null|
+|**2022-01-05**|**Culture-to-Culture Image Translation with Generative Adversarial Networks**|Giulia Zaino et.al.|[2201.01565v1](http://arxiv.org/abs/2201.01565v1)|null|
+|**2022-01-05**|**Single-shot multispectral quantitative phase imaging using deep neural network**|Sunil Bhatt et.al.|[2201.01517v1](http://arxiv.org/abs/2201.01517v1)|null|
+|**2022-01-05**|**Corrupting Data to Remove Deceptive Perturbation: Using Preprocessing Method to Improve System Robustness**|Hieu Le et.al.|[2201.01399v1](http://arxiv.org/abs/2201.01399v1)|null|
+|**2021-12-29**|**End-to-End Autoencoder Communications with Optimized Interference Suppression**|Kemal Davaslioglu et.al.|[2201.01388v1](http://arxiv.org/abs/2201.01388v1)|null|
 |**2022-01-04**|**What Hinders Perceptual Quality of PSNR-oriented Methods?**|Tianshuo Xu et.al.|[2201.01034v1](http://arxiv.org/abs/2201.01034v1)|null|
 |**2021-12-30**|**Runway Extraction and Improved Mapping from Space Imagery**|David A. Noever et.al.|[2201.00848v1](http://arxiv.org/abs/2201.00848v1)|null|
 |**2022-01-03**|**FaceQgen: Semi-Supervised Deep Learning for Face Image Quality Assessment**|Javier Hernandez-Ortega et.al.|[2201.00770v1](http://arxiv.org/abs/2201.00770v1)|**[link](https://github.com/uam-biometrics/faceqgen)**|
