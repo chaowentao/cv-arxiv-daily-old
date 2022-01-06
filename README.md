@@ -1,4 +1,4 @@
-## Updated on 2022.01.05
+## Updated on 2022.01.06
 
 ## Image Generation
 
@@ -62,7 +62,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-01-04**|**Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images**|Ali Hatamizadeh et.al.|[2201.01266v1](http://arxiv.org/abs/2201.01266v1)|null|
+|**2022-01-04**|**Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images**|Ali Hatamizadeh et.al.|[2201.01266v1](http://arxiv.org/abs/2201.01266v1)|**[link](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR/BRATS21)**|
 |**2022-01-04**|**Short Range Correlation Transformer for Occluded Person Re-Identification**|Yunbin Zhao et.al.|[2201.01090v1](http://arxiv.org/abs/2201.01090v1)|null|
 |**2022-01-04**|**PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture**|Kai Han et.al.|[2201.00978v1](http://arxiv.org/abs/2201.00978v1)|**[link](https://github.com/huawei-noah/CV-backbones)**|
 |**2022-01-03**|**Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space**|Arnav Chavan et.al.|[2201.00814v1](http://arxiv.org/abs/2201.00814v1)|null|
