@@ -30,6 +30,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-06**|**Cosmological constant problem on the horizon**|Hassan Firouzjahi et.al.|[2201.02016v1](http://arxiv.org/abs/2201.02016v1)|null|
+|**2022-01-06**|**Enantiodiscrimination of chiral molecules via quantum correlation function**|Fen Zou et.al.|[2201.01925v1](http://arxiv.org/abs/2201.01925v1)|null|
 |**2022-01-05**|**Measuring the non-separability of spatially disjoint vectorial fields**|Andrea Aiello et.al.|[2201.01456v1](http://arxiv.org/abs/2201.01456v1)|null|
 |**2022-01-04**|**3DVSR: 3D EPI Volume-based Approach for Angular and Spatial Light field Image Super-resolution**|Trung-Hieu Tran et.al.|[2201.01294v1](http://arxiv.org/abs/2201.01294v1)|null|
 |**2022-01-03**|**Multi-phase critical Higgs boson at colliders**|Katri Huitu et.al.|[2201.00824v1](http://arxiv.org/abs/2201.00824v1)|null|
@@ -63,6 +65,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-06**|**TransVPR: Transformer-based place recognition with multi-level attention aggregation**|Ruotong Wang et.al.|[2201.02001v1](http://arxiv.org/abs/2201.02001v1)|null|
 |**2022-01-05**|**Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale Representations via Large Window Attention**|Haotian Yan et.al.|[2201.01615v1](http://arxiv.org/abs/2201.01615v1)|**[link](https://github.com/yan-hao-tian/lawin)**|
 |**2022-01-04**|**Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images**|Ali Hatamizadeh et.al.|[2201.01266v1](http://arxiv.org/abs/2201.01266v1)|**[link](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR/BRATS21)**|
 |**2022-01-04**|**Short Range Correlation Transformer for Occluded Person Re-Identification**|Yunbin Zhao et.al.|[2201.01090v1](http://arxiv.org/abs/2201.01090v1)|null|
@@ -138,6 +141,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-05**|**Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction**|Bowen Shi et.al.|[2201.02184v1](http://arxiv.org/abs/2201.02184v1)|**[link](https://github.com/facebookresearch/av_hubert)**|
+|**2022-01-06**|**A Kuramoto Network in a Single Nonlinear Microelectromechanical Device**|Samer Houri et.al.|[2201.01913v1](http://arxiv.org/abs/2201.01913v1)|null|
+|**2022-01-05**|**Multiple Sclerosis Lesions Segmentation using Attention-Based CNNs in FLAIR Images**|Mehdi SadeghiBakhi et.al.|[2201.01832v1](http://arxiv.org/abs/2201.01832v1)|null|
 |**2022-01-05**|**Attention-based Dual Supervised Decoder for RGBD Semantic Segmentation**|Yang Zhang et.al.|[2201.01427v1](http://arxiv.org/abs/2201.01427v1)|null|
 |**2022-01-04**|**ExAID: A Multimodal Explanation Framework for Computer-Aided Diagnosis of Skin Lesions**|Adriano Lucieri et.al.|[2201.01249v1](http://arxiv.org/abs/2201.01249v1)|null|
 |**2022-01-03**|**Mitigating indistinguishability issues in photon pair sources by delayed-pump Intermodal Four Wave Mixing**|Massimo Borghi et.al.|[2201.00670v1](http://arxiv.org/abs/2201.00670v1)|null|
@@ -172,6 +178,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-06**|**Enhancing Egocentric 3D Pose Estimation with Third Person Views**|Ameya Dhamanaskar et.al.|[2201.02017v1](http://arxiv.org/abs/2201.02017v1)|null|
+|**2022-01-06**|**Decompose to Adapt: Cross-domain Object Detection via Feature Disentanglement**|Dongnan Liu et.al.|[2201.01929v1](http://arxiv.org/abs/2201.01929v1)|null|
+|**2022-01-05**|**Revisiting Deep Subspace Alignment for Unsupervised Domain Adaptation**|Kowshik Thopalli et.al.|[2201.01806v1](http://arxiv.org/abs/2201.01806v1)|null|
 |**2022-01-05**|**TableParser: Automatic Table Parsing with Weak Supervision from Spreadsheets**|Susie Xi Rao et.al.|[2201.01654v1](http://arxiv.org/abs/2201.01654v1)|**[link](https://github.com/ds3lab/tableparser)**|
 |**2022-01-05**|**Few-shot Domain Adaptation for IMU Denoising**|Feiyu Yao et.al.|[2201.01537v1](http://arxiv.org/abs/2201.01537v1)|null|
 |**2022-01-04**|**Aligning Domain-specific Distribution and Classifier for Cross-domain Classification from Multiple Sources**|Yongchun Zhu et.al.|[2201.01003v1](http://arxiv.org/abs/2201.01003v1)|**[link](https://github.com/easezyc/deep-transfer-learning)**|
@@ -206,6 +215,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-06**|**Density-of-states similarity descriptor for unsupervised learning from materials data**|Martin Kuban et.al.|[2201.02187v1](http://arxiv.org/abs/2201.02187v1)|null|
+|**2022-01-06**|**The dynamics of representation learning in shallow, non-linear autoencoders**|Maria Refinetti et.al.|[2201.02115v1](http://arxiv.org/abs/2201.02115v1)|**[link](https://github.com/mariaref/nonlinearshallowae)**|
+|**2022-01-06**|**EM-driven unsupervised learning for efficient motion segmentation**|Etienne Meunier et.al.|[2201.02074v1](http://arxiv.org/abs/2201.02074v1)|null|
+|**2022-01-06**|**A Unified Framework for Attention-Based Few-Shot Object Detection**|Pierre Le Jeune et.al.|[2201.02052v1](http://arxiv.org/abs/2201.02052v1)|null|
+|**2022-01-06**|**Fortunately, Discourse Markers Can Enhance Language Models for Sentiment Analysis**|Liat Ein-Dor et.al.|[2201.02026v1](http://arxiv.org/abs/2201.02026v1)|**[link](https://github.com/ibm/tslm-discourse-markers)**|
+|**2022-01-06**|**Self-Training Vision Language BERTs with a Unified Conditional Model**|Xiaofeng Yang et.al.|[2201.02010v1](http://arxiv.org/abs/2201.02010v1)|null|
+|**2022-01-06**|**Balancing Generalization and Specialization in Zero-shot Learning**|Yun Li et.al.|[2201.01961v1](http://arxiv.org/abs/2201.01961v1)|null|
+|**2022-01-06**|**Decompose to Adapt: Cross-domain Object Detection via Feature Disentanglement**|Dongnan Liu et.al.|[2201.01929v1](http://arxiv.org/abs/2201.01929v1)|null|
+|**2022-01-06**|**Contrastive Neighborhood Alignment**|Pengkai Zhu et.al.|[2201.01922v1](http://arxiv.org/abs/2201.01922v1)|null|
+|**2022-01-05**|**Multi-Grid Redundant Bounding Box Annotation for Accurate Object Detection**|Solomon Negussie Tesema et.al.|[2201.01857v1](http://arxiv.org/abs/2201.01857v1)|null|
+|**2022-01-05**|**Learning Semantic Ambiguities for Zero-Shot Learning**|Celina Hanouti et.al.|[2201.01823v1](http://arxiv.org/abs/2201.01823v1)|null|
+|**2022-01-05**|**Revisiting Deep Subspace Alignment for Unsupervised Domain Adaptation**|Kowshik Thopalli et.al.|[2201.01806v1](http://arxiv.org/abs/2201.01806v1)|null|
 |**2022-01-05**|**Neural network reconstruction of the dense matter equation of state from neutron star observables**|Shriya Soma et.al.|[2201.01756v1](http://arxiv.org/abs/2201.01756v1)|null|
 |**2022-01-05**|**Clustering versus Statistical Analysis for SCA: when Machine Learning is Better**|Marcin Aftowicz et.al.|[2201.01717v1](http://arxiv.org/abs/2201.01717v1)|null|
 |**2022-01-05**|**Asymptotics of $\ell_2$ Regularized Network Embeddings**|Andrew Davison et.al.|[2201.01689v1](http://arxiv.org/abs/2201.01689v1)|**[link](https://github.com/aday651/embed-reg)**|
@@ -299,6 +320,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-06**|**Realistic Full-Body Anonymization with Surface-Guided GANs**|Håkon Hukkelås et.al.|[2201.02193v1](http://arxiv.org/abs/2201.02193v1)|null|
+|**2022-01-06**|**Admissible Policy Teaching through Reward Design**|Kiarash Banihashem et.al.|[2201.02185v1](http://arxiv.org/abs/2201.02185v1)|null|
 |**2022-01-05**|**Biphasic Face Photo-Sketch Synthesis via Semantic-Driven Generative Adversarial Network with Graph Representation Learning**|Xingqun Qi et.al.|[2201.01592v1](http://arxiv.org/abs/2201.01592v1)|null|
 |**2022-01-05**|**Culture-to-Culture Image Translation with Generative Adversarial Networks**|Giulia Zaino et.al.|[2201.01565v1](http://arxiv.org/abs/2201.01565v1)|null|
 |**2022-01-05**|**Single-shot multispectral quantitative phase imaging using deep neural network**|Sunil Bhatt et.al.|[2201.01517v1](http://arxiv.org/abs/2201.01517v1)|null|
