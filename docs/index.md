@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.01.06
+## Updated on 2022.01.07
 
 ## SLAM
 
@@ -156,7 +156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2021-12-28**|**LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation**|Shoya Matsumori et.al.|[2112.13985v1](http://arxiv.org/abs/2112.13985v1)|null|
+|**2021-12-28**|**LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation**|Shoya Matsumori et.al.|[2112.13985v1](http://arxiv.org/abs/2112.13985v1)|**[link](https://github.com/smatsumori/lattegan)**|
 |**2021-12-16**|**High Fidelity Visualization of What Your Self-Supervised Representation Knows About**|Florian Bordes et.al.|[2112.09164v1](http://arxiv.org/abs/2112.09164v1)|null|
 |**2021-12-16**|**TAFIM: Targeted Adversarial Attacks against Facial Image Manipulations**|Shivangi Aneja et.al.|[2112.09151v1](http://arxiv.org/abs/2112.09151v1)|null|
 |**2021-12-16**|**MVSS-Net: Multi-View Multi-Scale Supervised Networks for Image Manipulation Detection**|Chengbo Dong et.al.|[2112.08935v1](http://arxiv.org/abs/2112.08935v1)|null|
@@ -223,7 +223,7 @@ layout: default
 |**2022-01-03**|**Vision Transformer with Deformable Attention**|Zhuofan Xia et.al.|[2201.00520v1](http://arxiv.org/abs/2201.00520v1)|null|
 |**2022-01-03**|**CaFT: Clustering and Filter on Tokens of Transformer for Weakly Supervised Object Localization**|Ming Li et.al.|[2201.00475v1](http://arxiv.org/abs/2201.00475v1)|null|
 |**2022-01-03**|**D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation**|Yixuan Wu et.al.|[2201.00462v1](http://arxiv.org/abs/2201.00462v1)|null|
-|**2022-01-02**|**Splicing ViT Features for Semantic Appearance Transfer**|Narek Tumanyan et.al.|[2201.00424v1](http://arxiv.org/abs/2201.00424v1)|null|
+|**2022-01-02**|**Splicing ViT Features for Semantic Appearance Transfer**|Narek Tumanyan et.al.|[2201.00424v1](http://arxiv.org/abs/2201.00424v1)|**[link](https://github.com/omerbt/Splice)**|
 |**2021-12-31**|**Multi-Dimensional Model Compression of Vision Transformer**|Zejiang Hou et.al.|[2201.00043v1](http://arxiv.org/abs/2201.00043v1)|null|
 |**2021-12-30**|**Stochastic Layers in Vision Transformers**|Nikola Popovic et.al.|[2112.15111v1](http://arxiv.org/abs/2112.15111v1)|null|
 |**2021-12-28**|**APRIL: Finding the Achilles' Heel on Privacy for Vision Transformers**|Jiahao Lu et.al.|[2112.14087v1](http://arxiv.org/abs/2112.14087v1)|null|
@@ -334,7 +334,7 @@ layout: default
 |**2021-12-31**|**Data-Free Knowledge Transfer: A Survey**|Yuang Liu et.al.|[2112.15278v1](http://arxiv.org/abs/2112.15278v1)|null|
 |**2021-12-30**|**Deep Transfer-Learning for patient specific model re-calibration: Application to sEMG-Classification**|Stephan Johann Lehmler et.al.|[2112.15019v1](http://arxiv.org/abs/2112.15019v1)|null|
 |**2021-12-28**|**FRIDA -- Generative Feature Replay for Incremental Domain Adaptation**|Sayan Rakshit et.al.|[2112.14316v1](http://arxiv.org/abs/2112.14316v1)|null|
-|**2021-12-28**|**DeepAdversaries: Examining the Robustness of Deep Learning Models for Galaxy Morphology Classification**|Aleksandra Ćiprijanović et.al.|[2112.14299v1](http://arxiv.org/abs/2112.14299v1)|null|
+|**2021-12-28**|**DeepAdversaries: Examining the Robustness of Deep Learning Models for Galaxy Morphology Classification**|Aleksandra Ćiprijanović et.al.|[2112.14299v1](http://arxiv.org/abs/2112.14299v1)|**[link](https://github.com/AleksCipri/DeepAdversaries)**|
 |**2021-12-28**|**Unsupervised Domain Adaptation for Constraining Star Formation Histories**|Sankalp Gilda et.al.|[2112.14072v1](http://arxiv.org/abs/2112.14072v1)|null|
 |**2021-12-28**|**Delving into Probabilistic Uncertainty for Unsupervised Domain Adaptive Person Re-Identification**|Jian Han et.al.|[2112.14025v1](http://arxiv.org/abs/2112.14025v1)|null|
 |**2021-12-27**|**Meta-Learned Feature Critics for Domain Generalized Semantic Segmentation**|Zu-Yun Shiau et.al.|[2112.13538v1](http://arxiv.org/abs/2112.13538v1)|null|
@@ -360,7 +360,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-01-05**|**Neural network reconstruction of the dense matter equation of state from neutron star observables**|Shriya Soma et.al.|[2201.01756v1](http://arxiv.org/abs/2201.01756v1)|null|
 |**2022-01-05**|**Clustering versus Statistical Analysis for SCA: when Machine Learning is Better**|Marcin Aftowicz et.al.|[2201.01717v1](http://arxiv.org/abs/2201.01717v1)|null|
-|**2022-01-05**|**Asymptotics of $\ell_2$ Regularized Network Embeddings**|Andrew Davison et.al.|[2201.01689v1](http://arxiv.org/abs/2201.01689v1)|null|
+|**2022-01-05**|**Asymptotics of $\ell_2$ Regularized Network Embeddings**|Andrew Davison et.al.|[2201.01689v1](http://arxiv.org/abs/2201.01689v1)|**[link](https://github.com/aday651/embed-reg)**|
 |**2022-01-05**|**Few-shot Domain Adaptation for IMU Denoising**|Feiyu Yao et.al.|[2201.01537v1](http://arxiv.org/abs/2201.01537v1)|null|
 |**2022-01-05**|**Debiased Learning from Naturally Imbalanced Pseudo-Labels for Zero-Shot and Semi-Supervised Learning**|Xudong Wang et.al.|[2201.01490v1](http://arxiv.org/abs/2201.01490v1)|null|
 |**2022-01-05**|**Neural Network-Based Feature Extraction for Multi-Class Motor Imagery Classification**|Souvik Phadikar et.al.|[2201.01468v1](http://arxiv.org/abs/2201.01468v1)|null|
