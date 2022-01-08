@@ -331,7 +331,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-01-06**|**Enhancing Egocentric 3D Pose Estimation with Third Person Views**|Ameya Dhamanaskar et.al.|[2201.02017v1](http://arxiv.org/abs/2201.02017v1)|null|
-|**2022-01-06**|**Decompose to Adapt: Cross-domain Object Detection via Feature Disentanglement**|Dongnan Liu et.al.|[2201.01929v1](http://arxiv.org/abs/2201.01929v1)|null|
+|**2022-01-06**|**Decompose to Adapt: Cross-domain Object Detection via Feature Disentanglement**|Dongnan Liu et.al.|[2201.01929v1](http://arxiv.org/abs/2201.01929v1)|**[link](https://github.com/dliu5812/ddf)**|
 |**2022-01-05**|**Revisiting Deep Subspace Alignment for Unsupervised Domain Adaptation**|Kowshik Thopalli et.al.|[2201.01806v1](http://arxiv.org/abs/2201.01806v1)|null|
 |**2022-01-05**|**TableParser: Automatic Table Parsing with Weak Supervision from Spreadsheets**|Susie Xi Rao et.al.|[2201.01654v1](http://arxiv.org/abs/2201.01654v1)|**[link](https://github.com/ds3lab/tableparser)**|
 |**2022-01-05**|**Few-shot Domain Adaptation for IMU Denoising**|Feiyu Yao et.al.|[2201.01537v1](http://arxiv.org/abs/2201.01537v1)|null|
@@ -367,14 +367,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-01-06**|**Density-of-states similarity descriptor for unsupervised learning from materials data**|Martin Kuban et.al.|[2201.02187v1](http://arxiv.org/abs/2201.02187v1)|null|
+|**2022-01-06**|**Density-of-states similarity descriptor for unsupervised learning from materials data**|Martin Kuban et.al.|[2201.02187v1](http://arxiv.org/abs/2201.02187v1)|**[link](https://github.com/kubanmar/similarity_threshold_clusterer)**|
 |**2022-01-06**|**The dynamics of representation learning in shallow, non-linear autoencoders**|Maria Refinetti et.al.|[2201.02115v1](http://arxiv.org/abs/2201.02115v1)|**[link](https://github.com/mariaref/nonlinearshallowae)**|
 |**2022-01-06**|**EM-driven unsupervised learning for efficient motion segmentation**|Etienne Meunier et.al.|[2201.02074v1](http://arxiv.org/abs/2201.02074v1)|null|
 |**2022-01-06**|**A Unified Framework for Attention-Based Few-Shot Object Detection**|Pierre Le Jeune et.al.|[2201.02052v1](http://arxiv.org/abs/2201.02052v1)|null|
 |**2022-01-06**|**Fortunately, Discourse Markers Can Enhance Language Models for Sentiment Analysis**|Liat Ein-Dor et.al.|[2201.02026v1](http://arxiv.org/abs/2201.02026v1)|**[link](https://github.com/ibm/tslm-discourse-markers)**|
 |**2022-01-06**|**Self-Training Vision Language BERTs with a Unified Conditional Model**|Xiaofeng Yang et.al.|[2201.02010v1](http://arxiv.org/abs/2201.02010v1)|null|
 |**2022-01-06**|**Balancing Generalization and Specialization in Zero-shot Learning**|Yun Li et.al.|[2201.01961v1](http://arxiv.org/abs/2201.01961v1)|null|
-|**2022-01-06**|**Decompose to Adapt: Cross-domain Object Detection via Feature Disentanglement**|Dongnan Liu et.al.|[2201.01929v1](http://arxiv.org/abs/2201.01929v1)|null|
+|**2022-01-06**|**Decompose to Adapt: Cross-domain Object Detection via Feature Disentanglement**|Dongnan Liu et.al.|[2201.01929v1](http://arxiv.org/abs/2201.01929v1)|**[link](https://github.com/dliu5812/ddf)**|
 |**2022-01-06**|**Contrastive Neighborhood Alignment**|Pengkai Zhu et.al.|[2201.01922v1](http://arxiv.org/abs/2201.01922v1)|null|
 |**2022-01-05**|**Multi-Grid Redundant Bounding Box Annotation for Accurate Object Detection**|Solomon Negussie Tesema et.al.|[2201.01857v1](http://arxiv.org/abs/2201.01857v1)|null|
 |**2022-01-05**|**Learning Semantic Ambiguities for Zero-Shot Learning**|Celina Hanouti et.al.|[2201.01823v1](http://arxiv.org/abs/2201.01823v1)|null|
