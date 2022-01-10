@@ -65,6 +65,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-07**|**Generalized Category Discovery**|Sagar Vaze et.al.|[2201.02609v1](http://arxiv.org/abs/2201.02609v1)|**[link](https://github.com/sgvaze/generalized-category-discovery)**|
 |**2022-01-06**|**TransVPR: Transformer-based place recognition with multi-level attention aggregation**|Ruotong Wang et.al.|[2201.02001v1](http://arxiv.org/abs/2201.02001v1)|null|
 |**2022-01-05**|**Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale Representations via Large Window Attention**|Haotian Yan et.al.|[2201.01615v1](http://arxiv.org/abs/2201.01615v1)|**[link](https://github.com/yan-hao-tian/lawin)**|
 |**2022-01-04**|**Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images**|Ali Hatamizadeh et.al.|[2201.01266v1](http://arxiv.org/abs/2201.01266v1)|**[link](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR/BRATS21)**|
@@ -113,6 +114,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-06**|**A Keypoint Detection and Description Network Based on the Vessel Structure for Multi-Modal Retinal Image Registration**|Aline Sindel et.al.|[2201.02242v1](http://arxiv.org/abs/2201.02242v1)|null|
 |**2021-12-28**|**Skin feature point tracking using deep feature encodings**|Jose Ramon Chang et.al.|[2112.14159v1](http://arxiv.org/abs/2112.14159v1)|null|
 |**2021-12-23**|**Data-efficient learning for 3D mirror symmetry detection**|Yancong Lin et.al.|[2112.12579v1](http://arxiv.org/abs/2112.12579v1)|null|
 |**2021-12-22**|**Improved 2D Keypoint Detection in Out-of-Balance and Fall Situations -- combining input rotations and a kinematic model**|Michael Zwölfer et.al.|[2112.12193v1](http://arxiv.org/abs/2112.12193v1)|null|
@@ -141,6 +143,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-07**|**Video Summarization Based on Video-text Representation**|Li Haopeng et.al.|[2201.02494v1](http://arxiv.org/abs/2201.02494v1)|null|
+|**2022-01-06**|**A unified software/hardware scalable architecture for brain-inspired computing based on self-organizing neural models**|Artem R. Muliukov et.al.|[2201.02262v1](http://arxiv.org/abs/2201.02262v1)|null|
 |**2022-01-05**|**Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction**|Bowen Shi et.al.|[2201.02184v1](http://arxiv.org/abs/2201.02184v1)|**[link](https://github.com/facebookresearch/av_hubert)**|
 |**2022-01-06**|**A Kuramoto Network in a Single Nonlinear Microelectromechanical Device**|Samer Houri et.al.|[2201.01913v1](http://arxiv.org/abs/2201.01913v1)|null|
 |**2022-01-05**|**Multiple Sclerosis Lesions Segmentation using Attention-Based CNNs in FLAIR Images**|Mehdi SadeghiBakhi et.al.|[2201.01832v1](http://arxiv.org/abs/2201.01832v1)|null|
@@ -178,6 +182,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-07**|**Leveraging Scale-Invariance and Uncertainity with Self-Supervised Domain Adaptation for Semantic Segmentation of Foggy Scenes**|Javed Iqbal et.al.|[2201.02588v1](http://arxiv.org/abs/2201.02588v1)|null|
+|**2022-01-07**|**Deep Domain Adversarial Adaptation for Photon-efficient Imaging Based on Spatiotemporal Inception Network**|Yiwei Chen et.al.|[2201.02475v1](http://arxiv.org/abs/2201.02475v1)|**[link](https://github.com/ewellchen/stin)**|
 |**2022-01-06**|**Enhancing Egocentric 3D Pose Estimation with Third Person Views**|Ameya Dhamanaskar et.al.|[2201.02017v2](http://arxiv.org/abs/2201.02017v2)|null|
 |**2022-01-06**|**Decompose to Adapt: Cross-domain Object Detection via Feature Disentanglement**|Dongnan Liu et.al.|[2201.01929v1](http://arxiv.org/abs/2201.01929v1)|**[link](https://github.com/dliu5812/ddf)**|
 |**2022-01-05**|**Revisiting Deep Subspace Alignment for Unsupervised Domain Adaptation**|Kowshik Thopalli et.al.|[2201.01806v1](http://arxiv.org/abs/2201.01806v1)|null|
@@ -215,6 +221,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-07**|**Leveraging Scale-Invariance and Uncertainity with Self-Supervised Domain Adaptation for Semantic Segmentation of Foggy Scenes**|Javed Iqbal et.al.|[2201.02588v1](http://arxiv.org/abs/2201.02588v1)|null|
+|**2022-01-07**|**MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs**|Qiaoyu Tan et.al.|[2201.02534v1](http://arxiv.org/abs/2201.02534v1)|null|
+|**2022-01-07**|**Bayesian Neural Networks for Reversible Steganography**|Ching-Chun Chang et.al.|[2201.02478v1](http://arxiv.org/abs/2201.02478v1)|null|
+|**2022-01-07**|**k-Center Clustering with Outliers in Sliding Windows**|Paolo Pellizzoni et.al.|[2201.02448v1](http://arxiv.org/abs/2201.02448v1)|**[link](https://github.com/paolopellizzoni/outliersslidingwindows)**|
+|**2022-01-07**|**Applications of Signature Methods to Market Anomaly Detection**|Erdinc Akyildirim et.al.|[2201.02441v1](http://arxiv.org/abs/2201.02441v1)|null|
+|**2022-01-07**|**An Unsupervised Masking Objective for Abstractive Multi-Document News Summarization**|Nikolai Vogler et.al.|[2201.02321v1](http://arxiv.org/abs/2201.02321v1)|null|
+|**2022-01-07**|**Budget-aware Few-shot Learning via Graph Convolutional Network**|Shipeng Yan et.al.|[2201.02304v1](http://arxiv.org/abs/2201.02304v1)|null|
+|**2022-01-06**|**A unified software/hardware scalable architecture for brain-inspired computing based on self-organizing neural models**|Artem R. Muliukov et.al.|[2201.02262v1](http://arxiv.org/abs/2201.02262v1)|null|
+|**2022-01-06**|**3D Intracranial Aneurysm Classification and Segmentation via Unsupervised Dual-branch Learning**|Di Shao et.al.|[2201.02198v1](http://arxiv.org/abs/2201.02198v1)|null|
 |**2022-01-06**|**Density-of-states similarity descriptor for unsupervised learning from materials data**|Martin Kuban et.al.|[2201.02187v1](http://arxiv.org/abs/2201.02187v1)|**[link](https://github.com/kubanmar/similarity_threshold_clusterer)**|
 |**2022-01-06**|**The dynamics of representation learning in shallow, non-linear autoencoders**|Maria Refinetti et.al.|[2201.02115v1](http://arxiv.org/abs/2201.02115v1)|**[link](https://github.com/mariaref/nonlinearshallowae)**|
 |**2022-01-06**|**EM-driven unsupervised learning for efficient motion segmentation**|Etienne Meunier et.al.|[2201.02074v1](http://arxiv.org/abs/2201.02074v1)|null|
@@ -320,6 +335,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-07**|**Deep Generative Framework for Interactive 3D Terrain Authoring and Manipulation**|Shanthika Naik et.al.|[2201.02369v1](http://arxiv.org/abs/2201.02369v1)|null|
 |**2022-01-06**|**Realistic Full-Body Anonymization with Surface-Guided GANs**|Håkon Hukkelås et.al.|[2201.02193v1](http://arxiv.org/abs/2201.02193v1)|null|
 |**2022-01-06**|**Admissible Policy Teaching through Reward Design**|Kiarash Banihashem et.al.|[2201.02185v1](http://arxiv.org/abs/2201.02185v1)|null|
 |**2022-01-05**|**Biphasic Face Photo-Sketch Synthesis via Semantic-Driven Generative Adversarial Network with Graph Representation Learning**|Xingqun Qi et.al.|[2201.01592v1](http://arxiv.org/abs/2201.01592v1)|null|
