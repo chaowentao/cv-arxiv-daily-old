@@ -178,7 +178,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-01-06**|**Enhancing Egocentric 3D Pose Estimation with Third Person Views**|Ameya Dhamanaskar et.al.|[2201.02017v1](http://arxiv.org/abs/2201.02017v1)|null|
+|**2022-01-06**|**Enhancing Egocentric 3D Pose Estimation with Third Person Views**|Ameya Dhamanaskar et.al.|[2201.02017v2](http://arxiv.org/abs/2201.02017v2)|null|
 |**2022-01-06**|**Decompose to Adapt: Cross-domain Object Detection via Feature Disentanglement**|Dongnan Liu et.al.|[2201.01929v1](http://arxiv.org/abs/2201.01929v1)|**[link](https://github.com/dliu5812/ddf)**|
 |**2022-01-05**|**Revisiting Deep Subspace Alignment for Unsupervised Domain Adaptation**|Kowshik Thopalli et.al.|[2201.01806v1](http://arxiv.org/abs/2201.01806v1)|null|
 |**2022-01-05**|**TableParser: Automatic Table Parsing with Weak Supervision from Spreadsheets**|Susie Xi Rao et.al.|[2201.01654v1](http://arxiv.org/abs/2201.01654v1)|**[link](https://github.com/ds3lab/tableparser)**|
