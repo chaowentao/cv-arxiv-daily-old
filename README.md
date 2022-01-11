@@ -74,7 +74,7 @@
 |**2022-01-03**|**Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space**|Arnav Chavan et.al.|[2201.00814v1](http://arxiv.org/abs/2201.00814v1)|null|
 |**2022-01-03**|**Vision Transformer with Deformable Attention**|Zhuofan Xia et.al.|[2201.00520v1](http://arxiv.org/abs/2201.00520v1)|null|
 |**2022-01-03**|**CaFT: Clustering and Filter on Tokens of Transformer for Weakly Supervised Object Localization**|Ming Li et.al.|[2201.00475v1](http://arxiv.org/abs/2201.00475v1)|null|
-|**2022-01-03**|**D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation**|Yixuan Wu et.al.|[2201.00462v1](http://arxiv.org/abs/2201.00462v1)|null|
+|**2022-01-03**|**D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation**|Yixuan Wu et.al.|[2201.00462v2](http://arxiv.org/abs/2201.00462v2)|null|
 |**2022-01-02**|**Splicing ViT Features for Semantic Appearance Transfer**|Narek Tumanyan et.al.|[2201.00424v1](http://arxiv.org/abs/2201.00424v1)|**[link](https://github.com/omerbt/Splice)**|
 |**2021-12-31**|**Multi-Dimensional Model Compression of Vision Transformer**|Zejiang Hou et.al.|[2201.00043v1](http://arxiv.org/abs/2201.00043v1)|null|
 |**2021-12-30**|**Stochastic Layers in Vision Transformers**|Nikola Popovic et.al.|[2112.15111v1](http://arxiv.org/abs/2112.15111v1)|null|
@@ -143,7 +143,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-01-07**|**Video Summarization Based on Video-text Representation**|Li Haopeng et.al.|[2201.02494v1](http://arxiv.org/abs/2201.02494v1)|null|
+|**2022-01-07**|**Video Summarization Based on Video-text Modelling**|Li Haopeng et.al.|[2201.02494v2](http://arxiv.org/abs/2201.02494v2)|null|
 |**2022-01-06**|**A unified software/hardware scalable architecture for brain-inspired computing based on self-organizing neural models**|Artem R. Muliukov et.al.|[2201.02262v1](http://arxiv.org/abs/2201.02262v1)|null|
 |**2022-01-05**|**Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction**|Bowen Shi et.al.|[2201.02184v1](http://arxiv.org/abs/2201.02184v1)|**[link](https://github.com/facebookresearch/av_hubert)**|
 |**2022-01-06**|**A Kuramoto Network in a Single Nonlinear Microelectromechanical Device**|Samer Houri et.al.|[2201.01913v1](http://arxiv.org/abs/2201.01913v1)|null|
