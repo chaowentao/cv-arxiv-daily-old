@@ -31,6 +31,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-11**|**Static-field ionization model of He-like ions for diagnostics of light field intensity**|Erik Lötstedt et.al.|[2201.03840v1](http://arxiv.org/abs/2201.03840v1)|null|
 |**2022-01-06**|**Cosmological constant problem on the horizon**|Hassan Firouzjahi et.al.|[2201.02016v1](http://arxiv.org/abs/2201.02016v1)|null|
 |**2022-01-06**|**Enantiodiscrimination of chiral molecules via quantum correlation function**|Fen Zou et.al.|[2201.01925v1](http://arxiv.org/abs/2201.01925v1)|null|
 |**2022-01-05**|**Measuring the non-separability of spatially disjoint vectorial fields**|Andrea Aiello et.al.|[2201.01456v1](http://arxiv.org/abs/2201.01456v1)|null|
@@ -118,6 +119,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-10**|**Reproducing BowNet: Learning Representations by Predicting Bags of Visual Words**|Harry Nguyen et.al.|[2201.03556v1](http://arxiv.org/abs/2201.03556v1)|**[link](https://github.com/StoneY1/Reproducing-BowNet)**|
 |**2022-01-10**|**TFS Recognition: Investigating MPH]{Thai Finger Spelling Recognition: Investigating MediaPipe Hands Potentials**|Jinnavat Sanalohit et.al.|[2201.03170v1](http://arxiv.org/abs/2201.03170v1)|null|
 |**2022-01-06**|**A Keypoint Detection and Description Network Based on the Vessel Structure for Multi-Modal Retinal Image Registration**|Aline Sindel et.al.|[2201.02242v1](http://arxiv.org/abs/2201.02242v1)|null|
 |**2021-12-28**|**Skin feature point tracking using deep feature encodings**|Jose Ramon Chang et.al.|[2112.14159v1](http://arxiv.org/abs/2112.14159v1)|null|
@@ -148,6 +150,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-11**|**Quantum Limits on Mode Parameter Estimation**|Manuel Gessner et.al.|[2201.04050v1](http://arxiv.org/abs/2201.04050v1)|null|
+|**2022-01-10**|**Multimodal Representations Learning Based on Mutual Information Maximization and Minimization and Identity Embedding for Multimodal Sentiment Analysis**|Jiahao Zheng et.al.|[2201.03969v1](http://arxiv.org/abs/2201.03969v1)|null|
+|**2022-01-11**|**CI-AVSR: A Cantonese Audio-Visual Speech Dataset for In-car Command Recognition**|Wenliang Dai et.al.|[2201.03804v1](http://arxiv.org/abs/2201.03804v1)|null|
+|**2022-01-10**|**Cross-Modality Sub-Image Retrieval using Contrastive Multimodal Image Representations**|Eva Breznik et.al.|[2201.03597v1](http://arxiv.org/abs/2201.03597v1)|**[link](https://github.com/mida-group/crossmodal_imgretrieval)**|
+|**2022-01-09**|**Study of decoherence of a superposition of macroscopic quantum states by means the consideration of a multimode state of a Schrodinger cat**|D. V. Fastovets et.al.|[2201.03553v1](http://arxiv.org/abs/2201.03553v1)|null|
 |**2022-01-08**|**A Comprehensive Empirical Study of Vision-Language Pre-trained Model for Supervised Cross-Modal Retrieval**|Zhixiong Zeng et.al.|[2201.02772v1](http://arxiv.org/abs/2201.02772v1)|**[link](https://github.com/zhixiongz/clip4cmr)**|
 |**2022-01-07**|**MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound**|Rowan Zellers et.al.|[2201.02639v1](http://arxiv.org/abs/2201.02639v1)|null|
 |**2022-01-07**|**Video Summarization Based on Video-text Modelling**|Li Haopeng et.al.|[2201.02494v2](http://arxiv.org/abs/2201.02494v2)|null|
@@ -189,6 +196,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-11**|**DANNTe: a case study of a turbo-machinery sensor virtualization under domain shift**|Luca Strazzera et.al.|[2201.03850v1](http://arxiv.org/abs/2201.03850v1)|null|
+|**2022-01-11**|**Unsupervised Domain Adaptive Person Re-id with Local-enhance and Prototype Dictionary Learning**|Haopeng Hou et.al.|[2201.03803v1](http://arxiv.org/abs/2201.03803v1)|null|
+|**2022-01-10**|**A Likelihood Ratio based Domain Adaptation Method for E2E Models**|Chhavi Choudhury et.al.|[2201.03655v1](http://arxiv.org/abs/2201.03655v1)|null|
+|**2022-01-06**|**CausalKG: Causal Knowledge Graph Explainability using interventional and counterfactual reasoning**|Utkarshani Jaimini et.al.|[2201.03647v1](http://arxiv.org/abs/2201.03647v1)|null|
 |**2022-01-09**|**Preserving Domain Private Representation via Mutual Information Maximization**|Jiahong Chen et.al.|[2201.03102v1](http://arxiv.org/abs/2201.03102v1)|null|
 |**2022-01-09**|**Learning class prototypes from Synthetic InSAR with Vision Transformers**|Nikolaos Ioannis Bountos et.al.|[2201.03016v1](http://arxiv.org/abs/2201.03016v1)|null|
 |**2022-01-08**|**CrossMoDA 2021 challenge: Benchmark of Cross-Modality Domain Adaptation techniques for Vestibular Schwnannoma and Cochlea Segmentation**|Reuben Dorent et.al.|[2201.02831v1](http://arxiv.org/abs/2201.02831v1)|null|
@@ -231,6 +242,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-11**|**MobilePhys: Personalized Mobile Camera-Based Contactless Physiological Sensing**|Xin Liu et.al.|[2201.04039v1](http://arxiv.org/abs/2201.04039v1)|null|
+|**2022-01-11**|**Feature Extraction Framework based on Contrastive Learning with Adaptive Positive and Negative Samples**|Hongjie Zhang et.al.|[2201.03942v1](http://arxiv.org/abs/2201.03942v1)|null|
+|**2022-01-11**|**Combining Learning-based Locomotion Policy with Model-based Manipulation for Legged Mobile Manipulators**|Yuntao Ma et.al.|[2201.03871v1](http://arxiv.org/abs/2201.03871v1)|null|
+|**2022-01-11**|**MR-SVS: Singing Voice Synthesis with Multi-Reference Encoder**|Shoutong Wang et.al.|[2201.03864v1](http://arxiv.org/abs/2201.03864v1)|null|
+|**2022-01-11**|**DANNTe: a case study of a turbo-machinery sensor virtualization under domain shift**|Luca Strazzera et.al.|[2201.03850v1](http://arxiv.org/abs/2201.03850v1)|null|
+|**2022-01-11**|**Unsupervised Domain Adaptive Person Re-id with Local-enhance and Prototype Dictionary Learning**|Haopeng Hou et.al.|[2201.03803v1](http://arxiv.org/abs/2201.03803v1)|null|
+|**2022-01-10**|**Continuous-Time Probabilistic Models for Longitudinal Electronic Health Records**|Alan D. Kaplan et.al.|[2201.03675v1](http://arxiv.org/abs/2201.03675v1)|null|
+|**2022-01-10**|**Towards Group Robustness in the presence of Partial Group Labels**|Vishnu Suresh Lokhande et.al.|[2201.03668v1](http://arxiv.org/abs/2201.03668v1)|null|
+|**2022-01-10**|**Reproducing BowNet: Learning Representations by Predicting Bags of Visual Words**|Harry Nguyen et.al.|[2201.03556v1](http://arxiv.org/abs/2201.03556v1)|**[link](https://github.com/StoneY1/Reproducing-BowNet)**|
 |**2022-01-10**|**Language-driven Semantic Segmentation**|Boyi Li et.al.|[2201.03546v1](http://arxiv.org/abs/2201.03546v1)|**[link](https://github.com/isl-org/lang-seg)**|
 |**2022-01-07**|**Probabilistic spatial clustering based on the Self Discipline Learning (SDL) model of autonomous learning**|Zecang Cu et.al.|[2201.03449v1](http://arxiv.org/abs/2201.03449v1)|null|
 |**2022-01-10**|**Bounded Space Differentially Private Quantiles**|Daniel Alabi et.al.|[2201.03380v1](http://arxiv.org/abs/2201.03380v1)|null|
@@ -364,6 +384,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-11**|**Electrically pumped blue laser diodes with nanoporous bottom cladding**|Marta Sawicka et.al.|[2201.03939v1](http://arxiv.org/abs/2201.03939v1)|null|
+|**2022-01-11**|**Low temperature 2D GaN growth on Si (111) 7x7 assisted by hypethermal nitrogen ions**|Jaroslav Maniš et.al.|[2201.03929v1](http://arxiv.org/abs/2201.03929v1)|null|
+|**2022-01-11**|**A Parameter Space Exploration of High Resolution Numerically Evolved Early Type Galaxies Including AGN Feedback and Accurate Dynamical Treatment of Stellar Orbits**|Luca Ciotti et.al.|[2201.03909v1](http://arxiv.org/abs/2201.03909v1)|null|
+|**2022-01-11**|**Spectral Thermal Spreading Resistance of Wide Bandgap Semiconductors in Ballistic-Diffusive Regime**|Yang Shen et.al.|[2201.03788v1](http://arxiv.org/abs/2201.03788v1)|null|
+|**2022-01-10**|**Rare-earth defects in GaN: A systematic investigation of the lanthanide series**|Khang Hoang et.al.|[2201.03651v1](http://arxiv.org/abs/2201.03651v1)|null|
+|**2022-01-10**|**Cross-Modality Sub-Image Retrieval using Contrastive Multimodal Image Representations**|Eva Breznik et.al.|[2201.03597v1](http://arxiv.org/abs/2201.03597v1)|**[link](https://github.com/mida-group/crossmodal_imgretrieval)**|
+|**2022-01-10**|**A pair of Sub-Neptunes transiting the bright K-dwarf TOI-1064 characterised with CHEOPS**|Thomas G. Wilson et.al.|[2201.03570v1](http://arxiv.org/abs/2201.03570v1)|null|
+|**2022-01-09**|**A multi-scale sampling method for accurate and robust deep neural network to predict combustion chemical kinetics**|Tianhan Zhang et.al.|[2201.03549v1](http://arxiv.org/abs/2201.03549v1)|null|
 |**2022-01-10**|**Observation of the decay $ Λ_b^0\rightarrow Λ_c^+τ^-\overlineν_τ$**|LHCb collaboration et.al.|[2201.03497v1](http://arxiv.org/abs/2201.03497v1)|null|
 |**2022-01-10**|**GMFIM: A Generative Mask-guided Facial Image Manipulation Model for Privacy Preservation**|Mohammad Hossein Khojaste et.al.|[2201.03353v1](http://arxiv.org/abs/2201.03353v1)|null|
 |**2022-01-10**|**IoTGAN: GAN Powered Camouflage Against Machine Learning Based IoT Device Identification**|Tao Hou et.al.|[2201.03281v1](http://arxiv.org/abs/2201.03281v1)|null|
