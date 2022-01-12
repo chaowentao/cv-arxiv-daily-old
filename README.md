@@ -206,7 +206,7 @@
 |**2021-12-31**|**Domain Adaptation with Category Attention Network for Deep Sentiment Analysis**|Dongbo Xi et.al.|[2112.15290v1](http://arxiv.org/abs/2112.15290v1)|null|
 |**2021-12-31**|**Data-Free Knowledge Transfer: A Survey**|Yuang Liu et.al.|[2112.15278v1](http://arxiv.org/abs/2112.15278v1)|null|
 |**2021-12-30**|**Deep Transfer-Learning for patient specific model re-calibration: Application to sEMG-Classification**|Stephan Johann Lehmler et.al.|[2112.15019v1](http://arxiv.org/abs/2112.15019v1)|null|
-|**2021-12-28**|**FRIDA -- Generative Feature Replay for Incremental Domain Adaptation**|Sayan Rakshit et.al.|[2112.14316v1](http://arxiv.org/abs/2112.14316v1)|null|
+|**2021-12-28**|**FRIDA -- Generative Feature Replay for Incremental Domain Adaptation**|Sayan Rakshit et.al.|[2112.14316v2](http://arxiv.org/abs/2112.14316v2)|null|
 |**2021-12-28**|**DeepAdversaries: Examining the Robustness of Deep Learning Models for Galaxy Morphology Classification**|Aleksandra Ćiprijanović et.al.|[2112.14299v1](http://arxiv.org/abs/2112.14299v1)|**[link](https://github.com/AleksCipri/DeepAdversaries)**|
 |**2021-12-28**|**Unsupervised Domain Adaptation for Constraining Star Formation Histories**|Sankalp Gilda et.al.|[2112.14072v1](http://arxiv.org/abs/2112.14072v1)|null|
 |**2021-12-28**|**Delving into Probabilistic Uncertainty for Unsupervised Domain Adaptive Person Re-Identification**|Jian Han et.al.|[2112.14025v1](http://arxiv.org/abs/2112.14025v1)|null|
@@ -240,9 +240,9 @@
 |**2022-01-10**|**Information-Theoretic Bias Reduction via Causal View of Spurious Correlation**|Seonguk Seo et.al.|[2201.03121v1](http://arxiv.org/abs/2201.03121v1)|null|
 |**2022-01-09**|**Preserving Domain Private Representation via Mutual Information Maximization**|Jiahong Chen et.al.|[2201.03102v1](http://arxiv.org/abs/2201.03102v1)|null|
 |**2022-01-09**|**Semantics-driven Attentive Few-shot Learning over Clean and Noisy Samples**|Orhun Buğra Baran et.al.|[2201.03043v1](http://arxiv.org/abs/2201.03043v1)|null|
-|**2022-01-09**|**Zero-Shot and Few-Shot Classification of Biomedical Articles in Context of the COVID-19 Pandemic**|Simon Lupart et.al.|[2201.03017v1](http://arxiv.org/abs/2201.03017v1)|null|
+|**2022-01-09**|**Zero-Shot and Few-Shot Classification of Biomedical Articles in Context of the COVID-19 Pandemic**|Simon Lupart et.al.|[2201.03017v2](http://arxiv.org/abs/2201.03017v2)|null|
 |**2022-01-09**|**Resolving Camera Position for a Practical Application of Gaze Estimation on Edge Devices**|Linh Van Ma et.al.|[2201.02946v1](http://arxiv.org/abs/2201.02946v1)|**[link](https://github.com/linh-gist/gazeestimationtx2)**|
-|**2022-01-08**|**Deep Generative Modeling for Volume Reconstruction in Cryo-Electron Microscop**|Claire Donnat et.al.|[2201.02867v1](http://arxiv.org/abs/2201.02867v1)|null|
+|**2022-01-08**|**Deep Generative Modeling for Volume Reconstruction in Cryo-Electron Microscopy**|Claire Donnat et.al.|[2201.02867v2](http://arxiv.org/abs/2201.02867v2)|null|
 |**2022-01-08**|**Self-aligned Spatial Feature Extraction Network for UAV Vehicle Re-identification**|Aihuan Yao et.al.|[2201.02836v1](http://arxiv.org/abs/2201.02836v1)|null|
 |**2022-01-08**|**CrossMoDA 2021 challenge: Benchmark of Cross-Modality Domain Adaptation techniques for Vestibular Schwnannoma and Cochlea Segmentation**|Reuben Dorent et.al.|[2201.02831v1](http://arxiv.org/abs/2201.02831v1)|null|
 |**2022-01-08**|**RARA: Zero-shot Sim2Real Visual Navigation with Following Foreground Cues**|Klaas Kelchtermans et.al.|[2201.02798v1](http://arxiv.org/abs/2201.02798v1)|**[link](https://github.com/kkelchte/fgbg)**|
