@@ -553,7 +553,7 @@ layout: default
 |**2022-01-10**|**Differentially Private Generative Adversarial Networks with Model Inversion**|Dongjie Chen et.al.|[2201.03139v1](http://arxiv.org/abs/2201.03139v1)|null|
 |**2022-01-08**|**Optimal 1-Wasserstein Distance for WGANs**|Arthur Stéphanovitch et.al.|[2201.02824v1](http://arxiv.org/abs/2201.02824v1)|null|
 |**2022-01-08**|**Counteracting Dark Web Text-Based CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence**|Ning Zhang et.al.|[2201.02799v1](http://arxiv.org/abs/2201.02799v1)|null|
-|**2022-01-07**|**Improved Input Reprogramming for GAN Conditioning**|Tuan Dinh et.al.|[2201.02692v1](http://arxiv.org/abs/2201.02692v1)|**[link](https://github.com/uw-madison-lee-lab/inrep)**|
+|**2022-01-07**|**Improved Input Reprogramming for GAN Conditioning**|Tuan Dinh et.al.|[2201.02692v2](http://arxiv.org/abs/2201.02692v2)|**[link](https://github.com/uw-madison-lee-lab/inrep)**|
 |**2022-01-07**|**Microdosing: Knowledge Distillation for GAN based Compression**|Leonhard Helminger et.al.|[2201.02624v1](http://arxiv.org/abs/2201.02624v1)|null|
 |**2022-01-07**|**Deep Generative Framework for Interactive 3D Terrain Authoring and Manipulation**|Shanthika Naik et.al.|[2201.02369v1](http://arxiv.org/abs/2201.02369v1)|null|
 |**2022-01-06**|**Realistic Full-Body Anonymization with Surface-Guided GANs**|Håkon Hukkelås et.al.|[2201.02193v1](http://arxiv.org/abs/2201.02193v1)|**[link](https://github.com/hukkelas/full_body_anonymization)**|
