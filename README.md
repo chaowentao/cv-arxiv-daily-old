@@ -150,6 +150,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-12**|**Multi-task Joint Strategies of Self-supervised Representation Learning on Biomedical Networks for Drug Discovery**|Xiaoqi Wang et.al.|[2201.04437v1](http://arxiv.org/abs/2201.04437v1)|null|
+|**2022-01-12**|**Robust Contrastive Learning against Noisy Views**|Ching-Yao Chuang et.al.|[2201.04309v1](http://arxiv.org/abs/2201.04309v1)|**[link](https://github.com/chingyaoc/rince)**|
+|**2022-01-12**|**Predicting Terrorist Attacks in the United States using Localized News Data**|Steven J. Krieg et.al.|[2201.04292v1](http://arxiv.org/abs/2201.04292v1)|null|
 |**2022-01-11**|**Quantum Limits on Mode Parameter Estimation**|Manuel Gessner et.al.|[2201.04050v1](http://arxiv.org/abs/2201.04050v1)|null|
 |**2022-01-10**|**Multimodal Representations Learning Based on Mutual Information Maximization and Minimization and Identity Embedding for Multimodal Sentiment Analysis**|Jiahao Zheng et.al.|[2201.03969v1](http://arxiv.org/abs/2201.03969v1)|null|
 |**2022-01-11**|**CI-AVSR: A Cantonese Audio-Visual Speech Dataset for In-car Command Recognition**|Wenliang Dai et.al.|[2201.03804v1](http://arxiv.org/abs/2201.03804v1)|null|
@@ -196,6 +199,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-12**|**Depth Estimation from Single-shot Monocular Endoscope Image Using Image Domain Adaptation And Edge-Aware Depth Estimation**|Masahiro Oda et.al.|[2201.04485v1](http://arxiv.org/abs/2201.04485v1)|null|
 |**2022-01-11**|**DANNTe: a case study of a turbo-machinery sensor virtualization under domain shift**|Luca Strazzera et.al.|[2201.03850v1](http://arxiv.org/abs/2201.03850v1)|null|
 |**2022-01-11**|**Unsupervised Domain Adaptive Person Re-id with Local-enhance and Prototype Dictionary Learning**|Haopeng Hou et.al.|[2201.03803v1](http://arxiv.org/abs/2201.03803v1)|null|
 |**2022-01-10**|**A Likelihood Ratio based Domain Adaptation Method for E2E Models**|Chhavi Choudhury et.al.|[2201.03655v1](http://arxiv.org/abs/2201.03655v1)|null|
@@ -242,6 +246,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-12**|**GraphVAMPNet, using graph neural networks and variational approach to markov processes for dynamical modeling of biomolecules**|Mahdi Ghorbani et.al.|[2201.04609v1](http://arxiv.org/abs/2201.04609v1)|null|
+|**2022-01-12**|**PromptBERT: Improving BERT Sentence Embeddings with Prompts**|Ting Jiang et.al.|[2201.04337v1](http://arxiv.org/abs/2201.04337v1)|null|
+|**2022-01-11**|**HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning**|Andrey Zhmoginov et.al.|[2201.04182v1](http://arxiv.org/abs/2201.04182v1)|null|
 |**2022-01-11**|**MobilePhys: Personalized Mobile Camera-Based Contactless Physiological Sensing**|Xin Liu et.al.|[2201.04039v1](http://arxiv.org/abs/2201.04039v1)|null|
 |**2022-01-11**|**Feature Extraction Framework based on Contrastive Learning with Adaptive Positive and Negative Samples**|Hongjie Zhang et.al.|[2201.03942v1](http://arxiv.org/abs/2201.03942v1)|null|
 |**2022-01-11**|**Combining Learning-based Locomotion Policy with Model-based Manipulation for Legged Mobile Manipulators**|Yuntao Ma et.al.|[2201.03871v1](http://arxiv.org/abs/2201.03871v1)|null|
@@ -384,6 +391,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-12**|**Evolutionary Optimization for Proactive and Dynamic Computing Resource Allocation in Open Radio Access Network**|Gan Ruan et.al.|[2201.04361v1](http://arxiv.org/abs/2201.04361v1)|null|
+|**2022-01-12**|**Ridge polariton laser: different from a semiconductor edge-emitting laser**|H Souissi et.al.|[2201.04348v1](http://arxiv.org/abs/2201.04348v1)|null|
 |**2022-01-11**|**Electrically pumped blue laser diodes with nanoporous bottom cladding**|Marta Sawicka et.al.|[2201.03939v1](http://arxiv.org/abs/2201.03939v1)|null|
 |**2022-01-11**|**Low temperature 2D GaN growth on Si (111) 7x7 assisted by hypethermal nitrogen ions**|Jaroslav Maniš et.al.|[2201.03929v1](http://arxiv.org/abs/2201.03929v1)|null|
 |**2022-01-11**|**A Parameter Space Exploration of High Resolution Numerically Evolved Early Type Galaxies Including AGN Feedback and Accurate Dynamical Treatment of Stellar Orbits**|Luca Ciotti et.al.|[2201.03909v1](http://arxiv.org/abs/2201.03909v1)|null|
