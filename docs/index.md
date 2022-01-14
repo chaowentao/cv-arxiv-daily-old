@@ -553,7 +553,7 @@ layout: default
 |**2022-01-10**|**Cross-Modality Sub-Image Retrieval using Contrastive Multimodal Image Representations**|Eva Breznik et.al.|[2201.03597v1](http://arxiv.org/abs/2201.03597v1)|**[link](https://github.com/mida-group/crossmodal_imgretrieval)**|
 |**2022-01-10**|**A pair of Sub-Neptunes transiting the bright K-dwarf TOI-1064 characterised with CHEOPS**|Thomas G. Wilson et.al.|[2201.03570v1](http://arxiv.org/abs/2201.03570v1)|null|
 |**2022-01-09**|**A multi-scale sampling method for accurate and robust deep neural network to predict combustion chemical kinetics**|Tianhan Zhang et.al.|[2201.03549v1](http://arxiv.org/abs/2201.03549v1)|null|
-|**2022-01-10**|**Observation of the decay $ Λ_b^0\rightarrow Λ_c^+τ^-\overlineν_τ$**|LHCb collaboration et.al.|[2201.03497v1](http://arxiv.org/abs/2201.03497v1)|null|
+|**2022-01-10**|**Observation of the decay $ Λ_b^0\rightarrow Λ_c^+τ^-\overlineν_τ$**|LHCb collaboration et.al.|[2201.03497v2](http://arxiv.org/abs/2201.03497v2)|null|
 |**2022-01-10**|**GMFIM: A Generative Mask-guided Facial Image Manipulation Model for Privacy Preservation**|Mohammad Hossein Khojaste et.al.|[2201.03353v1](http://arxiv.org/abs/2201.03353v1)|null|
 |**2022-01-10**|**IoTGAN: GAN Powered Camouflage Against Machine Learning Based IoT Device Identification**|Tao Hou et.al.|[2201.03281v1](http://arxiv.org/abs/2201.03281v1)|null|
 |**2022-01-10**|**Evidence of localization effect on photoelectron transport induced by alloy disorder in nitride semiconductor compounds**|Mylène Sauty et.al.|[2201.03278v1](http://arxiv.org/abs/2201.03278v1)|null|
