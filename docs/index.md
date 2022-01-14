@@ -219,6 +219,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-13**|**Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?**|Nenad Tomasev et.al.|[2201.05119v1](http://arxiv.org/abs/2201.05119v1)|null|
+|**2022-01-12**|**Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning**|Kunchang Li et.al.|[2201.04676v1](http://arxiv.org/abs/2201.04676v1)|**[link](https://github.com/sense-x/uniformer)**|
 |**2022-01-10**|**A ConvNet for the 2020s**|Zhuang Liu et.al.|[2201.03545v1](http://arxiv.org/abs/2201.03545v1)|**[link](https://github.com/facebookresearch/ConvNeXt)**|
 |**2022-01-09**|**Learning class prototypes from Synthetic InSAR with Vision Transformers**|Nikolaos Ioannis Bountos et.al.|[2201.03016v1](http://arxiv.org/abs/2201.03016v1)|null|
 |**2022-01-08**|**QuadTree Attention for Vision Transformers**|Shitao Tang et.al.|[2201.02767v1](http://arxiv.org/abs/2201.02767v1)|null|
@@ -302,6 +304,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-12**|**Toddler-Guidance Learning: Impacts of Critical Period on Multimodal AI Agents**|Junseok Park et.al.|[2201.04990v1](http://arxiv.org/abs/2201.04990v1)|null|
+|**2022-01-12**|**Deep Learning on Multimodal Sensor Data at the Wireless Edge for Vehicular Network**|Batool Salehi et.al.|[2201.04712v1](http://arxiv.org/abs/2201.04712v1)|null|
 |**2022-01-12**|**Multi-task Joint Strategies of Self-supervised Representation Learning on Biomedical Networks for Drug Discovery**|Xiaoqi Wang et.al.|[2201.04437v1](http://arxiv.org/abs/2201.04437v1)|null|
 |**2022-01-12**|**Robust Contrastive Learning against Noisy Views**|Ching-Yao Chuang et.al.|[2201.04309v1](http://arxiv.org/abs/2201.04309v1)|**[link](https://github.com/chingyaoc/rince)**|
 |**2022-01-12**|**Predicting Terrorist Attacks in the United States using Localized News Data**|Steven J. Krieg et.al.|[2201.04292v1](http://arxiv.org/abs/2201.04292v1)|null|
@@ -351,6 +355,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-13**|**Self-semantic contour adaptation for cross modality brain tumor segmentation**|Xiaofeng Liu et.al.|[2201.05022v1](http://arxiv.org/abs/2201.05022v1)|null|
+|**2022-01-13**|**Unsupervised Domain Adaptation for Cross-Modality Retinal Vessel Segmentation via Disentangling Representation Style Transfer and Collaborative Consistency Learning**|Linkai Peng et.al.|[2201.04812v1](http://arxiv.org/abs/2201.04812v1)|**[link](https://github.com/lkpengcs/dcda)**|
 |**2022-01-12**|**Depth Estimation from Single-shot Monocular Endoscope Image Using Image Domain Adaptation And Edge-Aware Depth Estimation**|Masahiro Oda et.al.|[2201.04485v1](http://arxiv.org/abs/2201.04485v1)|null|
 |**2022-01-11**|**DANNTe: a case study of a turbo-machinery sensor virtualization under domain shift**|Luca Strazzera et.al.|[2201.03850v1](http://arxiv.org/abs/2201.03850v1)|null|
 |**2022-01-11**|**Unsupervised Domain Adaptive Person Re-id with Local-enhance and Prototype Dictionary Learning**|Haopeng Hou et.al.|[2201.03803v1](http://arxiv.org/abs/2201.03803v1)|null|
@@ -398,6 +404,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-13**|**Beyond Simple Meta-Learning: Multi-Purpose Models for Multi-Domain, Active and Continual Few-Shot Learning**|Peyman Bateni et.al.|[2201.05151v1](http://arxiv.org/abs/2201.05151v1)|null|
+|**2022-01-13**|**CLIP-Event: Connecting Text and Images with Event Structures**|Manling Li et.al.|[2201.05078v1](http://arxiv.org/abs/2201.05078v1)|null|
+|**2022-01-13**|**Self-semantic contour adaptation for cross modality brain tumor segmentation**|Xiaofeng Liu et.al.|[2201.05022v1](http://arxiv.org/abs/2201.05022v1)|null|
+|**2022-01-13**|**MetaDance: Few-shot Dancing Video Retargeting via Temporal-aware Meta-learning**|Yuying Ge et.al.|[2201.04851v1](http://arxiv.org/abs/2201.04851v1)|null|
+|**2022-01-13**|**BridgeFormer: Bridging Video-text Retrieval with Multiple Choice Questions**|Yuying Ge et.al.|[2201.04850v1](http://arxiv.org/abs/2201.04850v1)|null|
+|**2022-01-13**|**Unsupervised Domain Adaptation for Cross-Modality Retinal Vessel Segmentation via Disentangling Representation Style Transfer and Collaborative Consistency Learning**|Linkai Peng et.al.|[2201.04812v1](http://arxiv.org/abs/2201.04812v1)|**[link](https://github.com/lkpengcs/dcda)**|
+|**2022-01-13**|**Conditional Variational Autoencoder with Balanced Pre-training for Generative Adversarial Networks**|Yuchong Yao et.al.|[2201.04809v1](http://arxiv.org/abs/2201.04809v1)|null|
+|**2022-01-13**|**Forecast-based Multi-aspect Framework for Multivariate Time-series Anomaly Detection**|Lan Wang et.al.|[2201.04792v1](http://arxiv.org/abs/2201.04792v1)|null|
+|**2022-01-13**|**Roadside Lidar Vehicle Detection and Tracking Using Range And Intensity Background Subtraction**|Tianya Zhang et.al.|[2201.04756v1](http://arxiv.org/abs/2201.04756v1)|null|
 |**2022-01-12**|**GraphVAMPNet, using graph neural networks and variational approach to markov processes for dynamical modeling of biomolecules**|Mahdi Ghorbani et.al.|[2201.04609v1](http://arxiv.org/abs/2201.04609v1)|null|
 |**2022-01-12**|**PromptBERT: Improving BERT Sentence Embeddings with Prompts**|Ting Jiang et.al.|[2201.04337v1](http://arxiv.org/abs/2201.04337v1)|**[link](https://github.com/kongds/prompt-bert)**|
 |**2022-01-11**|**HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning**|Andrey Zhmoginov et.al.|[2201.04182v1](http://arxiv.org/abs/2201.04182v1)|null|
@@ -543,6 +558,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-13**|**Switchable and unswitchable bulk photovoltaic effect in two-dimensional interlayer-sliding ferroelectrics**|Rui-Chun Xiao et.al.|[2201.04980v1](http://arxiv.org/abs/2201.04980v1)|null|
+|**2022-01-13**|**The Effectiveness of Time Stretching for Enhancing Dysarthric Speech for Improved Dysarthric Speech Recognition**|Luke Prananta et.al.|[2201.04908v1](http://arxiv.org/abs/2201.04908v1)|null|
+|**2022-01-13**|**VoLux-GAN: A Generative Model for 3D Face Synthesis with HDRI Relighting**|Feitong Tan et.al.|[2201.04873v1](http://arxiv.org/abs/2201.04873v1)|null|
+|**2022-01-13**|**Conditional Variational Autoencoder with Balanced Pre-training for Generative Adversarial Networks**|Yuchong Yao et.al.|[2201.04809v1](http://arxiv.org/abs/2201.04809v1)|null|
+|**2022-01-13**|**CFNet: Learning Correlation Functions for One-Stage Panoptic Segmentation**|Yifeng Chen et.al.|[2201.04796v1](http://arxiv.org/abs/2201.04796v1)|null|
+|**2022-01-12**|**Adversarially Robust Classification by Conditional Generative Model Inversion**|Mitra Alirezaei et.al.|[2201.04733v1](http://arxiv.org/abs/2201.04733v1)|null|
+|**2022-01-12**|**BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations**|Daiqing Li et.al.|[2201.04684v1](http://arxiv.org/abs/2201.04684v1)|null|
 |**2022-01-12**|**Evolutionary Optimization for Proactive and Dynamic Computing Resource Allocation in Open Radio Access Network**|Gan Ruan et.al.|[2201.04361v1](http://arxiv.org/abs/2201.04361v1)|null|
 |**2022-01-12**|**Ridge polariton laser: different from a semiconductor edge-emitting laser**|H Souissi et.al.|[2201.04348v1](http://arxiv.org/abs/2201.04348v1)|null|
 |**2022-01-11**|**Electrically pumped blue laser diodes with nanoporous bottom cladding**|Marta Sawicka et.al.|[2201.03939v1](http://arxiv.org/abs/2201.03939v1)|null|
