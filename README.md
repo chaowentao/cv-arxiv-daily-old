@@ -1,4 +1,4 @@
-## Updated on 2022.01.15
+## Updated on 2022.01.16
 
 ## Image Generation
 
@@ -37,7 +37,7 @@
 |**2022-01-05**|**Measuring the non-separability of spatially disjoint vectorial fields**|Andrea Aiello et.al.|[2201.01456v1](http://arxiv.org/abs/2201.01456v1)|null|
 |**2022-01-04**|**3DVSR: 3D EPI Volume-based Approach for Angular and Spatial Light field Image Super-resolution**|Trung-Hieu Tran et.al.|[2201.01294v1](http://arxiv.org/abs/2201.01294v1)|null|
 |**2022-01-03**|**Multi-phase critical Higgs boson at colliders**|Katri Huitu et.al.|[2201.00824v1](http://arxiv.org/abs/2201.00824v1)|null|
-|**2022-01-02**|**Detail-Preserving Transformer for Light Field Image Super-Resolution**|Shunzhou Wang et.al.|[2201.00346v1](http://arxiv.org/abs/2201.00346v1)|null|
+|**2022-01-02**|**Detail-Preserving Transformer for Light Field Image Super-Resolution**|Shunzhou Wang et.al.|[2201.00346v1](http://arxiv.org/abs/2201.00346v1)|**[link](https://github.com/bitszwang/dpt)**|
 |**2021-12-29**|**Propagation-invariant high-dimensional orbital angular momentum states**|Li-Wei Mao et.al.|[2112.14511v1](http://arxiv.org/abs/2112.14511v1)|null|
 |**2021-12-29**|**Nth-order nonlinear intensity fluctuation amplifier**|Shuanghao Zhang et.al.|[2112.14443v1](http://arxiv.org/abs/2112.14443v1)|null|
 |**2021-12-24**|**Stimulated Rayleigh scattering and slow light generation in a periodically driven Dirac semimetal Cd$_3$As$_2$**|Yuta Murotani et.al.|[2112.13113v1](http://arxiv.org/abs/2112.13113v1)|null|
@@ -69,7 +69,7 @@
 |---|---|---|---|---|
 |**2022-01-13**|**Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?**|Nenad Tomasev et.al.|[2201.05119v1](http://arxiv.org/abs/2201.05119v1)|null|
 |**2022-01-12**|**Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning**|Kunchang Li et.al.|[2201.04676v1](http://arxiv.org/abs/2201.04676v1)|**[link](https://github.com/sense-x/uniformer)**|
-|**2022-01-10**|**A ConvNet for the 2020s**|Zhuang Liu et.al.|[2201.03545v1](http://arxiv.org/abs/2201.03545v1)|**[link](https://github.com/facebookresearch/ConvNeXt)**|
+|**2022-01-10**|**A ConvNet for the 2020s**|Zhuang Liu et.al.|[2201.03545v1](http://arxiv.org/abs/2201.03545v1)|**[link](https://github.com/rwightman/pytorch-image-models)**|
 |**2022-01-09**|**Learning class prototypes from Synthetic InSAR with Vision Transformers**|Nikolaos Ioannis Bountos et.al.|[2201.03016v1](http://arxiv.org/abs/2201.03016v1)|null|
 |**2022-01-08**|**QuadTree Attention for Vision Transformers**|Shitao Tang et.al.|[2201.02767v1](http://arxiv.org/abs/2201.02767v1)|null|
 |**2022-01-07**|**Generalized Category Discovery**|Sagar Vaze et.al.|[2201.02609v1](http://arxiv.org/abs/2201.02609v1)|**[link](https://github.com/sgvaze/generalized-category-discovery)**|
@@ -169,7 +169,7 @@
 |**2022-01-05**|**Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction**|Bowen Shi et.al.|[2201.02184v1](http://arxiv.org/abs/2201.02184v1)|**[link](https://github.com/facebookresearch/av_hubert)**|
 |**2022-01-06**|**A Kuramoto Network in a Single Nonlinear Microelectromechanical Device**|Samer Houri et.al.|[2201.01913v1](http://arxiv.org/abs/2201.01913v1)|null|
 |**2022-01-05**|**Multiple Sclerosis Lesions Segmentation using Attention-Based CNNs in FLAIR Images**|Mehdi SadeghiBakhi et.al.|[2201.01832v1](http://arxiv.org/abs/2201.01832v1)|null|
-|**2022-01-05**|**Attention-based Dual Supervised Decoder for RGBD Semantic Segmentation**|Yang Zhang et.al.|[2201.01427v1](http://arxiv.org/abs/2201.01427v1)|null|
+|**2022-01-05**|**Attention-based Dual Supervised Decoder for RGBD Semantic Segmentation**|Yang Zhang et.al.|[2201.01427v1](http://arxiv.org/abs/2201.01427v1)|**[link](https://github.com/Yangzhangcst/RGBD-semantic-segmentation)**|
 |**2022-01-04**|**ExAID: A Multimodal Explanation Framework for Computer-Aided Diagnosis of Skin Lesions**|Adriano Lucieri et.al.|[2201.01249v1](http://arxiv.org/abs/2201.01249v1)|null|
 |**2022-01-03**|**Mitigating indistinguishability issues in photon pair sources by delayed-pump Intermodal Four Wave Mixing**|Massimo Borghi et.al.|[2201.00670v1](http://arxiv.org/abs/2201.00670v1)|null|
 |**2022-01-03**|**Generative adversarial network for super-resolution imaging through a fiber**|Wei Li et.al.|[2201.00601v1](http://arxiv.org/abs/2201.00601v1)|null|
@@ -252,7 +252,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-01-13**|**Beyond Simple Meta-Learning: Multi-Purpose Models for Multi-Domain, Active and Continual Few-Shot Learning**|Peyman Bateni et.al.|[2201.05151v1](http://arxiv.org/abs/2201.05151v1)|null|
+|**2022-01-13**|**Beyond Simple Meta-Learning: Multi-Purpose Models for Multi-Domain, Active and Continual Few-Shot Learning**|Peyman Bateni et.al.|[2201.05151v1](http://arxiv.org/abs/2201.05151v1)|**[link](https://github.com/plai-group/simple-cnaps)**|
 |**2022-01-13**|**CLIP-Event: Connecting Text and Images with Event Structures**|Manling Li et.al.|[2201.05078v1](http://arxiv.org/abs/2201.05078v1)|null|
 |**2022-01-13**|**Self-semantic contour adaptation for cross modality brain tumor segmentation**|Xiaofeng Liu et.al.|[2201.05022v1](http://arxiv.org/abs/2201.05022v1)|null|
 |**2022-01-13**|**MetaDance: Few-shot Dancing Video Retargeting via Temporal-aware Meta-learning**|Yuying Ge et.al.|[2201.04851v1](http://arxiv.org/abs/2201.04851v1)|null|
