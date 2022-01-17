@@ -156,7 +156,7 @@
 |**2022-01-12**|**Deep Learning on Multimodal Sensor Data at the Wireless Edge for Vehicular Network**|Batool Salehi et.al.|[2201.04712v1](http://arxiv.org/abs/2201.04712v1)|null|
 |**2022-01-12**|**Multi-task Joint Strategies of Self-supervised Representation Learning on Biomedical Networks for Drug Discovery**|Xiaoqi Wang et.al.|[2201.04437v1](http://arxiv.org/abs/2201.04437v1)|null|
 |**2022-01-12**|**Robust Contrastive Learning against Noisy Views**|Ching-Yao Chuang et.al.|[2201.04309v1](http://arxiv.org/abs/2201.04309v1)|**[link](https://github.com/chingyaoc/rince)**|
-|**2022-01-12**|**Predicting Terrorist Attacks in the United States using Localized News Data**|Steven J. Krieg et.al.|[2201.04292v1](http://arxiv.org/abs/2201.04292v1)|null|
+|**2022-01-12**|**Predicting Terrorist Attacks in the United States using Localized News Data**|Steven J. Krieg et.al.|[2201.04292v2](http://arxiv.org/abs/2201.04292v2)|null|
 |**2022-01-11**|**Quantum Limits on Mode Parameter Estimation**|Manuel Gessner et.al.|[2201.04050v1](http://arxiv.org/abs/2201.04050v1)|null|
 |**2022-01-10**|**Multimodal Representations Learning Based on Mutual Information Maximization and Minimization and Identity Embedding for Multimodal Sentiment Analysis**|Jiahao Zheng et.al.|[2201.03969v1](http://arxiv.org/abs/2201.03969v1)|null|
 |**2022-01-11**|**CI-AVSR: A Cantonese Audio-Visual Speech Dataset for In-car Command Recognition**|Wenliang Dai et.al.|[2201.03804v1](http://arxiv.org/abs/2201.03804v1)|null|
