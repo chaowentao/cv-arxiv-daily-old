@@ -219,6 +219,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-14**|**MMNet: Muscle motion-guided network for micro-expression recognition**|Hanting Li et.al.|[2201.05297v1](http://arxiv.org/abs/2201.05297v1)|null|
 |**2022-01-13**|**Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?**|Nenad Tomasev et.al.|[2201.05119v1](http://arxiv.org/abs/2201.05119v1)|null|
 |**2022-01-12**|**Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning**|Kunchang Li et.al.|[2201.04676v1](http://arxiv.org/abs/2201.04676v1)|**[link](https://github.com/sense-x/uniformer)**|
 |**2022-01-10**|**A ConvNet for the 2020s**|Zhuang Liu et.al.|[2201.03545v1](http://arxiv.org/abs/2201.03545v1)|**[link](https://github.com/rwightman/pytorch-image-models)**|
@@ -304,6 +305,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-14**|**Multimodal registration of FISH and nanoSIMS images using convolutional neural network models**|Xiaojia He et.al.|[2201.05545v1](http://arxiv.org/abs/2201.05545v1)|null|
+|**2022-01-13**|**Multimodal Anti-Reflective Coatings for Perfecting Anomalous Reflection from Arbitrary Periodic Structures**|Sherman W. Marcus et.al.|[2201.05471v1](http://arxiv.org/abs/2201.05471v1)|null|
 |**2022-01-12**|**Toddler-Guidance Learning: Impacts of Critical Period on Multimodal AI Agents**|Junseok Park et.al.|[2201.04990v1](http://arxiv.org/abs/2201.04990v1)|null|
 |**2022-01-12**|**Deep Learning on Multimodal Sensor Data at the Wireless Edge for Vehicular Network**|Batool Salehi et.al.|[2201.04712v1](http://arxiv.org/abs/2201.04712v1)|null|
 |**2022-01-12**|**Multi-task Joint Strategies of Self-supervised Representation Learning on Biomedical Networks for Drug Discovery**|Xiaoqi Wang et.al.|[2201.04437v1](http://arxiv.org/abs/2201.04437v1)|null|
@@ -355,6 +358,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-14**|**HYLDA: End-to-end Hybrid Learning Domain Adaptation for LiDAR Semantic Segmentation**|Eduardo R. Corral-Soto et.al.|[2201.05585v1](http://arxiv.org/abs/2201.05585v1)|null|
+|**2022-01-14**|**Domain-shift adaptation via linear transformations**|Roberto Vega et.al.|[2201.05282v1](http://arxiv.org/abs/2201.05282v1)|null|
 |**2022-01-13**|**Self-semantic contour adaptation for cross modality brain tumor segmentation**|Xiaofeng Liu et.al.|[2201.05022v1](http://arxiv.org/abs/2201.05022v1)|null|
 |**2022-01-13**|**Unsupervised Domain Adaptation for Cross-Modality Retinal Vessel Segmentation via Disentangling Representation Style Transfer and Collaborative Consistency Learning**|Linkai Peng et.al.|[2201.04812v1](http://arxiv.org/abs/2201.04812v1)|**[link](https://github.com/lkpengcs/dcda)**|
 |**2022-01-12**|**Depth Estimation from Single-shot Monocular Endoscope Image Using Image Domain Adaptation And Edge-Aware Depth Estimation**|Masahiro Oda et.al.|[2201.04485v1](http://arxiv.org/abs/2201.04485v1)|null|
@@ -404,6 +409,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-14**|**HYLDA: End-to-end Hybrid Learning Domain Adaptation for LiDAR Semantic Segmentation**|Eduardo R. Corral-Soto et.al.|[2201.05585v1](http://arxiv.org/abs/2201.05585v1)|null|
+|**2022-01-14**|**Unsupervised Sparse Unmixing of Atmospheric Trace Gases from Hyperspectral Satellite Data**|Nicomino Fiscante et.al.|[2201.05577v1](http://arxiv.org/abs/2201.05577v1)|null|
+|**2022-01-14**|**ViT2Hash: Unsupervised Information-Preserving Hashing**|Qinkang Gong et.al.|[2201.05541v1](http://arxiv.org/abs/2201.05541v1)|null|
+|**2022-01-14**|**Anomalous Sound Detection using Spectral-Temporal Information Fusion**|Youde Liu et.al.|[2201.05510v1](http://arxiv.org/abs/2201.05510v1)|null|
+|**2022-01-14**|**HardBoost: Boosting Zero-Shot Learning with Hard Classes**|Bo Liu et.al.|[2201.05479v1](http://arxiv.org/abs/2201.05479v1)|null|
+|**2022-01-14**|**Eliciting Knowledge from Pretrained Language Models for Prototypical Prompt Verbalizer**|Yinyi Wei et.al.|[2201.05411v1](http://arxiv.org/abs/2201.05411v1)|**[link](https://github.com/ydongd/prototypical-prompt-verbalizer)**|
+|**2022-01-14**|**CyberSpec: Intelligent Behavioral Fingerprinting to Detect Attacks on Crowdsensing Spectrum Sensors**|Alberto Huertas Celdrán et.al.|[2201.05410v1](http://arxiv.org/abs/2201.05410v1)|null|
+|**2022-01-14**|**Systematic analysis reveals key microRNAs as diagnostic and prognostic factors in progressive stages of lung cancer**|Dietrich Kong et.al.|[2201.05408v1](http://arxiv.org/abs/2201.05408v1)|null|
+|**2022-01-14**|**Training Free Graph Neural Networks for Graph Matching**|Zhiyuan Liu et.al.|[2201.05349v1](http://arxiv.org/abs/2201.05349v1)|**[link](https://github.com/acharkq/training-free-graph-matching)**|
+|**2022-01-14**|**CommonsenseQA 2.0: Exposing the Limits of AI through Gamification**|Alon Talmor et.al.|[2201.05320v1](http://arxiv.org/abs/2201.05320v1)|null|
+|**2022-01-14**|**A Novel Skeleton-Based Human Activity Discovery Technique Using Particle Swarm Optimization with Gaussian Mutation**|Parham Hadikhani et.al.|[2201.05314v1](http://arxiv.org/abs/2201.05314v1)|**[link](https://github.com/parhamhadikhani/human-activity-discovery-hpgmk)**|
+|**2022-01-14**|**Unsupervised Temporal Video Grounding with Deep Semantic Clustering**|Daizong Liu et.al.|[2201.05307v1](http://arxiv.org/abs/2201.05307v1)|null|
+|**2022-01-14**|**Domain-shift adaptation via linear transformations**|Roberto Vega et.al.|[2201.05282v1](http://arxiv.org/abs/2201.05282v1)|null|
+|**2022-01-13**|**How I learned to stop worrying and love the curse of dimensionality: an appraisal of cluster validation in high-dimensional spaces**|Brian A. Powell et.al.|[2201.05214v1](http://arxiv.org/abs/2201.05214v1)|null|
+|**2022-01-13**|**Making a (Counterfactual) Difference One Rationale at a Time**|Mitchell Plyler et.al.|[2201.05177v1](http://arxiv.org/abs/2201.05177v1)|**[link](https://github.com/mlplyler/cfs_for_rationales)**|
 |**2022-01-13**|**Beyond Simple Meta-Learning: Multi-Purpose Models for Multi-Domain, Active and Continual Few-Shot Learning**|Peyman Bateni et.al.|[2201.05151v1](http://arxiv.org/abs/2201.05151v1)|**[link](https://github.com/plai-group/simple-cnaps)**|
 |**2022-01-13**|**CLIP-Event: Connecting Text and Images with Event Structures**|Manling Li et.al.|[2201.05078v1](http://arxiv.org/abs/2201.05078v1)|null|
 |**2022-01-13**|**Self-semantic contour adaptation for cross modality brain tumor segmentation**|Xiaofeng Liu et.al.|[2201.05022v1](http://arxiv.org/abs/2201.05022v1)|null|
@@ -558,6 +578,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-14**|**Contrastive Laplacian Eigenmaps**|Hao Zhu et.al.|[2201.05493v1](http://arxiv.org/abs/2201.05493v1)|**[link](https://github.com/allenhaozhu/coles)**|
+|**2022-01-14**|**Anomalous amplitude modes and thinning-induced loss of crystallinity in the kagome metal CsV$_3$Sb$_5$**|Gan Liu et.al.|[2201.05330v1](http://arxiv.org/abs/2201.05330v1)|null|
+|**2022-01-13**|**A new proof of the Gan--Loh--Sudakov conjecture**|Ting-Wei Chao et.al.|[2201.05181v1](http://arxiv.org/abs/2201.05181v1)|null|
 |**2022-01-13**|**Switchable and unswitchable bulk photovoltaic effect in two-dimensional interlayer-sliding ferroelectrics**|Rui-Chun Xiao et.al.|[2201.04980v1](http://arxiv.org/abs/2201.04980v1)|null|
 |**2022-01-13**|**The Effectiveness of Time Stretching for Enhancing Dysarthric Speech for Improved Dysarthric Speech Recognition**|Luke Prananta et.al.|[2201.04908v1](http://arxiv.org/abs/2201.04908v1)|null|
 |**2022-01-13**|**VoLux-GAN: A Generative Model for 3D Face Synthesis with HDRI Relighting**|Feitong Tan et.al.|[2201.04873v1](http://arxiv.org/abs/2201.04873v1)|null|
