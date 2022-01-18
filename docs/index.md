@@ -359,7 +359,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-01-14**|**HYLDA: End-to-end Hybrid Learning Domain Adaptation for LiDAR Semantic Segmentation**|Eduardo R. Corral-Soto et.al.|[2201.05585v1](http://arxiv.org/abs/2201.05585v1)|null|
-|**2022-01-14**|**Domain-shift adaptation via linear transformations**|Roberto Vega et.al.|[2201.05282v1](http://arxiv.org/abs/2201.05282v1)|null|
+|**2022-01-14**|**Domain-shift adaptation via linear transformations**|Roberto Vega et.al.|[2201.05282v1](http://arxiv.org/abs/2201.05282v1)|**[link](https://github.com/rvegaml/da_linear)**|
 |**2022-01-13**|**Self-semantic contour adaptation for cross modality brain tumor segmentation**|Xiaofeng Liu et.al.|[2201.05022v1](http://arxiv.org/abs/2201.05022v1)|null|
 |**2022-01-13**|**Unsupervised Domain Adaptation for Cross-Modality Retinal Vessel Segmentation via Disentangling Representation Style Transfer and Collaborative Consistency Learning**|Linkai Peng et.al.|[2201.04812v1](http://arxiv.org/abs/2201.04812v1)|**[link](https://github.com/lkpengcs/dcda)**|
 |**2022-01-12**|**Depth Estimation from Single-shot Monocular Endoscope Image Using Image Domain Adaptation And Edge-Aware Depth Estimation**|Masahiro Oda et.al.|[2201.04485v1](http://arxiv.org/abs/2201.04485v1)|null|
@@ -421,7 +421,7 @@ layout: default
 |**2022-01-14**|**CommonsenseQA 2.0: Exposing the Limits of AI through Gamification**|Alon Talmor et.al.|[2201.05320v1](http://arxiv.org/abs/2201.05320v1)|null|
 |**2022-01-14**|**A Novel Skeleton-Based Human Activity Discovery Technique Using Particle Swarm Optimization with Gaussian Mutation**|Parham Hadikhani et.al.|[2201.05314v1](http://arxiv.org/abs/2201.05314v1)|**[link](https://github.com/parhamhadikhani/human-activity-discovery-hpgmk)**|
 |**2022-01-14**|**Unsupervised Temporal Video Grounding with Deep Semantic Clustering**|Daizong Liu et.al.|[2201.05307v1](http://arxiv.org/abs/2201.05307v1)|null|
-|**2022-01-14**|**Domain-shift adaptation via linear transformations**|Roberto Vega et.al.|[2201.05282v1](http://arxiv.org/abs/2201.05282v1)|null|
+|**2022-01-14**|**Domain-shift adaptation via linear transformations**|Roberto Vega et.al.|[2201.05282v1](http://arxiv.org/abs/2201.05282v1)|**[link](https://github.com/rvegaml/da_linear)**|
 |**2022-01-13**|**How I learned to stop worrying and love the curse of dimensionality: an appraisal of cluster validation in high-dimensional spaces**|Brian A. Powell et.al.|[2201.05214v1](http://arxiv.org/abs/2201.05214v1)|null|
 |**2022-01-13**|**Making a (Counterfactual) Difference One Rationale at a Time**|Mitchell Plyler et.al.|[2201.05177v1](http://arxiv.org/abs/2201.05177v1)|**[link](https://github.com/mlplyler/cfs_for_rationales)**|
 |**2022-01-13**|**Beyond Simple Meta-Learning: Multi-Purpose Models for Multi-Domain, Active and Continual Few-Shot Learning**|Peyman Bateni et.al.|[2201.05151v1](http://arxiv.org/abs/2201.05151v1)|**[link](https://github.com/plai-group/simple-cnaps)**|
