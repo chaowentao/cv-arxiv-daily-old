@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.01.18
+## Updated on 2022.01.19
 
 ## SLAM
 
@@ -222,7 +222,7 @@ layout: default
 |**2022-01-14**|**MMNet: Muscle motion-guided network for micro-expression recognition**|Hanting Li et.al.|[2201.05297v1](http://arxiv.org/abs/2201.05297v1)|null|
 |**2022-01-13**|**Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?**|Nenad Tomasev et.al.|[2201.05119v1](http://arxiv.org/abs/2201.05119v1)|null|
 |**2022-01-12**|**Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning**|Kunchang Li et.al.|[2201.04676v1](http://arxiv.org/abs/2201.04676v1)|**[link](https://github.com/sense-x/uniformer)**|
-|**2022-01-10**|**A ConvNet for the 2020s**|Zhuang Liu et.al.|[2201.03545v1](http://arxiv.org/abs/2201.03545v1)|**[link](https://github.com/rwightman/pytorch-image-models)**|
+|**2022-01-10**|**A ConvNet for the 2020s**|Zhuang Liu et.al.|[2201.03545v1](http://arxiv.org/abs/2201.03545v1)|**[link](https://github.com/facebookresearch/ConvNeXt)**|
 |**2022-01-09**|**Learning class prototypes from Synthetic InSAR with Vision Transformers**|Nikolaos Ioannis Bountos et.al.|[2201.03016v1](http://arxiv.org/abs/2201.03016v1)|null|
 |**2022-01-08**|**QuadTree Attention for Vision Transformers**|Shitao Tang et.al.|[2201.02767v1](http://arxiv.org/abs/2201.02767v1)|null|
 |**2022-01-07**|**Generalized Category Discovery**|Sagar Vaze et.al.|[2201.02609v1](http://arxiv.org/abs/2201.02609v1)|**[link](https://github.com/sgvaze/generalized-category-discovery)**|
