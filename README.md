@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-15**|**Learning Hierarchical Graph Representation for Image Manipulation Detection**|Wenyan Pan et.al.|[2201.05730v1](http://arxiv.org/abs/2201.05730v1)|null|
 |**2022-01-10**|**GMFIM: A Generative Mask-guided Facial Image Manipulation Model for Privacy Preservation**|Mohammad Hossein Khojaste et.al.|[2201.03353v1](http://arxiv.org/abs/2201.03353v1)|null|
 |**2021-12-28**|**LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation**|Shoya Matsumori et.al.|[2112.13985v1](http://arxiv.org/abs/2112.13985v1)|**[link](https://github.com/smatsumori/lattegan)**|
 |**2021-12-16**|**High Fidelity Visualization of What Your Self-Supervised Representation Knows About**|Florian Bordes et.al.|[2112.09164v1](http://arxiv.org/abs/2112.09164v1)|null|
@@ -31,6 +32,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-17**|**Topological photonic crystals: physics, designs and applications**|Guo-Jing Tang et.al.|[2201.06294v1](http://arxiv.org/abs/2201.06294v1)|null|
 |**2022-01-11**|**Static-field ionization model of He-like ions for diagnostics of light field intensity**|Erik Lötstedt et.al.|[2201.03840v1](http://arxiv.org/abs/2201.03840v1)|null|
 |**2022-01-06**|**Cosmological constant problem on the horizon**|Hassan Firouzjahi et.al.|[2201.02016v1](http://arxiv.org/abs/2201.02016v1)|null|
 |**2022-01-06**|**Enantiodiscrimination of chiral molecules via quantum correlation function**|Fen Zou et.al.|[2201.01925v1](http://arxiv.org/abs/2201.01925v1)|null|
@@ -67,6 +69,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-18**|**RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training**|Luya Wang et.al.|[2201.06857v1](http://arxiv.org/abs/2201.06857v1)|null|
+|**2022-01-17**|**VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer**|Mengshu Sun et.al.|[2201.06618v1](http://arxiv.org/abs/2201.06618v1)|null|
+|**2022-01-17**|**SwinUNet3D -- A Hierarchical Architecture for Deep Traffic Prediction using Shifted Window Transformers**|Alabi Bojesomo et.al.|[2201.06390v1](http://arxiv.org/abs/2201.06390v1)|**[link](https://github.com/bojesomo/Traffic4Cast2021-SwinUNet3D)**|
+|**2022-01-17**|**RestoreFormer: High-Quality Blind Face Restoration From Undegraded Key-Value Pairs**|Zhouxia Wang et.al.|[2201.06374v1](http://arxiv.org/abs/2201.06374v1)|null|
+|**2022-01-17**|**Automatic Segmentation of Head and Neck Tumor: How Powerful Transformers Are?**|Ikboljon Sobirov et.al.|[2201.06251v1](http://arxiv.org/abs/2201.06251v1)|null|
+|**2022-01-16**|**Is it Possible to Predict MGMT Promoter Methylation from Brain Tumor MRI Scans using Deep Learning Models?**|Numan Saeed et.al.|[2201.06086v1](http://arxiv.org/abs/2201.06086v1)|null|
+|**2022-01-15**|**ViTBIS: Vision Transformer for Biomedical Image Segmentation**|Abhinav Sagar et.al.|[2201.05920v1](http://arxiv.org/abs/2201.05920v1)|null|
+|**2022-01-15**|**Domain Adaptation via Bidirectional Cross-Attention Transformer**|Xiyu Wang et.al.|[2201.05887v1](http://arxiv.org/abs/2201.05887v1)|null|
 |**2022-01-14**|**MMNet: Muscle motion-guided network for micro-expression recognition**|Hanting Li et.al.|[2201.05297v1](http://arxiv.org/abs/2201.05297v1)|null|
 |**2022-01-13**|**Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?**|Nenad Tomasev et.al.|[2201.05119v1](http://arxiv.org/abs/2201.05119v1)|null|
 |**2022-01-12**|**Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning**|Kunchang Li et.al.|[2201.04676v1](http://arxiv.org/abs/2201.04676v1)|**[link](https://github.com/sense-x/uniformer)**|
@@ -122,6 +132,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-16**|**Cross-Centroid Ripple Pattern for Facial Expression Recognition**|Monu Verma et.al.|[2201.05958v1](http://arxiv.org/abs/2201.05958v1)|null|
 |**2022-01-10**|**Reproducing BowNet: Learning Representations by Predicting Bags of Visual Words**|Harry Nguyen et.al.|[2201.03556v2](http://arxiv.org/abs/2201.03556v2)|**[link](https://github.com/StoneY1/Reproducing-BowNet)**|
 |**2022-01-10**|**TFS Recognition: Investigating MPH]{Thai Finger Spelling Recognition: Investigating MediaPipe Hands Potentials**|Jinnavat Sanalohit et.al.|[2201.03170v1](http://arxiv.org/abs/2201.03170v1)|null|
 |**2022-01-06**|**A Keypoint Detection and Description Network Based on the Vessel Structure for Multi-Modal Retinal Image Registration**|Aline Sindel et.al.|[2201.02242v1](http://arxiv.org/abs/2201.02242v1)|null|
@@ -153,6 +164,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-18**|**Unsupervised Multimodal Word Discovery based on Double Articulation Analysis with Co-occurrence cues**|Akira Taniguchi et.al.|[2201.06786v1](http://arxiv.org/abs/2201.06786v1)|null|
+|**2022-01-18**|**Label Dependent Attention Model for Disease Risk Prediction Using Multimodal Electronic Health Records**|Shuai Niu et.al.|[2201.06779v1](http://arxiv.org/abs/2201.06779v1)|null|
+|**2022-01-17**|**A Brief Survey of Machine Learning Methods for Emotion Prediction using Physiological Data**|Maryam Khalid et.al.|[2201.06610v1](http://arxiv.org/abs/2201.06610v1)|null|
+|**2022-01-17**|**QuGIT: a numerical toolbox for Gaussian quantum states**|Igor Brandão et.al.|[2201.06368v1](http://arxiv.org/abs/2201.06368v1)|null|
+|**2022-01-17**|**Group Gated Fusion on Attention-based Bidirectional Alignment for Multimodal Emotion Recognition**|Pengfei Liu et.al.|[2201.06309v1](http://arxiv.org/abs/2201.06309v1)|**[link](https://github.com/ppfliu/emotion-recognition)**|
+|**2022-01-17**|**Learning-based multiplexed transmission of scattered twisted light through a kilometer-scale standard multimode fiber**|Yifan Liu et.al.|[2201.06263v1](http://arxiv.org/abs/2201.06263v1)|null|
+|**2022-01-16**|**Hardware Implementation of Multimodal Biometric using Fingerprint and Iris**|Tariq M Khan et.al.|[2201.05996v1](http://arxiv.org/abs/2201.05996v1)|null|
 |**2022-01-14**|**Multimodal registration of FISH and nanoSIMS images using convolutional neural network models**|Xiaojia He et.al.|[2201.05545v1](http://arxiv.org/abs/2201.05545v1)|null|
 |**2022-01-13**|**Multimodal Anti-Reflective Coatings for Perfecting Anomalous Reflection from Arbitrary Periodic Structures**|Sherman W. Marcus et.al.|[2201.05471v1](http://arxiv.org/abs/2201.05471v1)|null|
 |**2022-01-12**|**Toddler-Guidance Learning: Impacts of Critical Period on Multimodal AI Agents**|Junseok Park et.al.|[2201.04990v1](http://arxiv.org/abs/2201.04990v1)|null|
@@ -206,6 +224,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-18**|**Continual Coarse-to-Fine Domain Adaptation in Semantic Segmentation**|Donald Shenaj et.al.|[2201.06974v1](http://arxiv.org/abs/2201.06974v1)|null|
+|**2022-01-18**|**Knowledge Sharing via Domain Adaptation in Customs Fraud Detection**|Sungwon Park et.al.|[2201.06759v1](http://arxiv.org/abs/2201.06759v1)|null|
+|**2022-01-17**|**BDA-SketRet: Bi-Level Domain Adaptation for Zero-Shot SBIR**|Ushasi Chaudhuri et.al.|[2201.06570v1](http://arxiv.org/abs/2201.06570v1)|null|
+|**2022-01-16**|**Robust Scatterer Number Density Segmentation of Ultrasound Images**|Ali K. Z. Tehrani et.al.|[2201.06143v1](http://arxiv.org/abs/2201.06143v1)|null|
+|**2022-01-16**|**GearNet: Stepwise Dual Learning for Weakly Supervised Domain Adaptation**|Renchunzi Xie et.al.|[2201.06001v1](http://arxiv.org/abs/2201.06001v1)|**[link](https://github.com/Renchunzi-Xie/GearNet)**|
+|**2022-01-16**|**Multi-Sparse-Domain Collaborative Recommendation via Enhanced Comprehensive Aspect Preference Learning**|Xiaoyun Zhao et.al.|[2201.05973v1](http://arxiv.org/abs/2201.05973v1)|null|
+|**2022-01-15**|**Domain Adaptation via Bidirectional Cross-Attention Transformer**|Xiyu Wang et.al.|[2201.05887v1](http://arxiv.org/abs/2201.05887v1)|null|
+|**2022-01-15**|**Transferability in Deep Learning: A Survey**|Junguang Jiang et.al.|[2201.05867v1](http://arxiv.org/abs/2201.05867v1)|**[link](https://github.com/thuml/Transfer-Learning-Library)**|
+|**2022-01-15**|**Moses: Efficient Exploitation of Cross-device Transferable Features for Tensor Program Optimization**|Zhihe Zhao et.al.|[2201.05752v1](http://arxiv.org/abs/2201.05752v1)|null|
+|**2022-01-15**|**Deep Optimal Transport on SPD Manifolds for Domain Adaptation**|Ce Ju et.al.|[2201.05745v1](http://arxiv.org/abs/2201.05745v1)|null|
+|**2022-01-14**|**Cost-Effective Training in Low-Resource Neural Machine Translation**|Sai Koneru et.al.|[2201.05700v1](http://arxiv.org/abs/2201.05700v1)|null|
 |**2022-01-14**|**HYLDA: End-to-end Hybrid Learning Domain Adaptation for LiDAR Semantic Segmentation**|Eduardo R. Corral-Soto et.al.|[2201.05585v1](http://arxiv.org/abs/2201.05585v1)|null|
 |**2022-01-14**|**Domain-shift adaptation via linear transformations**|Roberto Vega et.al.|[2201.05282v1](http://arxiv.org/abs/2201.05282v1)|**[link](https://github.com/rvegaml/da_linear)**|
 |**2022-01-13**|**Self-semantic contour adaptation for cross modality brain tumor segmentation**|Xiaofeng Liu et.al.|[2201.05022v1](http://arxiv.org/abs/2201.05022v1)|null|
@@ -257,6 +286,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-18**|**Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**|Wenlong Huang et.al.|[2201.07207v1](http://arxiv.org/abs/2201.07207v1)|null|
+|**2022-01-18**|**Unsupervised detection of decoupled subspaces: many-body scars and beyond**|Tomasz Szołdra et.al.|[2201.07151v1](http://arxiv.org/abs/2201.07151v1)|null|
+|**2022-01-18**|**Instance-aware Prompt Learning for Language Understanding and Generation**|Feihu Jin et.al.|[2201.07126v1](http://arxiv.org/abs/2201.07126v1)|null|
+|**2022-01-18**|**WATCH: Wasserstein Change Point Detection for High-Dimensional Time Series Data**|Kamil Faber et.al.|[2201.07125v1](http://arxiv.org/abs/2201.07125v1)|null|
+|**2022-01-18**|**Adversarial vulnerability of powerful near out-of-distribution detection**|Stanislav Fort et.al.|[2201.07012v1](http://arxiv.org/abs/2201.07012v1)|**[link](https://github.com/stanislavfort/adversaries_to_ood_detection)**|
+|**2022-01-18**|**ZeroPrompt: Scaling Prompt-Based Pretraining to 1,000 Tasks Improves Zero-Shot Generalization**|Hanwei Xu et.al.|[2201.06910v1](http://arxiv.org/abs/2201.06910v1)|null|
+|**2022-01-18**|**Unsupervised Multimodal Word Discovery based on Double Articulation Analysis with Co-occurrence cues**|Akira Taniguchi et.al.|[2201.06786v1](http://arxiv.org/abs/2201.06786v1)|null|
+|**2022-01-18**|**When Facial Expression Recognition Meets Few-Shot Learning: A Joint and Alternate Learning Framework**|Xinyi Zou et.al.|[2201.06781v1](http://arxiv.org/abs/2201.06781v1)|null|
+|**2022-01-18**|**TaxoCom: Topic Taxonomy Completion with Hierarchical Discovery of Novel Topic Clusters**|Dongha Lee et.al.|[2201.06771v1](http://arxiv.org/abs/2201.06771v1)|null|
+|**2022-01-18**|**Online Time Series Anomaly Detection with State Space Gaussian Processes**|Christian Bock et.al.|[2201.06763v1](http://arxiv.org/abs/2201.06763v1)|null|
+|**2022-01-18**|**ProposalCLIP: Unsupervised Open-Category Object Proposal Generation via Exploiting CLIP Cues**|Hengcan Shi et.al.|[2201.06696v1](http://arxiv.org/abs/2201.06696v1)|null|
+|**2022-01-17**|**Who supervises the supervisor? Model monitoring in production using deep feature embeddings with applications to workpiece inspection**|Michael Banf et.al.|[2201.06599v1](http://arxiv.org/abs/2201.06599v1)|null|
+|**2022-01-17**|**BDA-SketRet: Bi-Level Domain Adaptation for Zero-Shot SBIR**|Ushasi Chaudhuri et.al.|[2201.06570v1](http://arxiv.org/abs/2201.06570v1)|null|
+|**2022-01-17**|**Hyperspectral nanoscale mapping of hybrid perovskite photophysics at the single grain level**|Ethan J. Taylor et.al.|[2201.06546v1](http://arxiv.org/abs/2201.06546v1)|null|
+|**2022-01-17**|**Self-Supervised Anomaly Detection by Self-Distillation and Negative Sampling**|Nima Rafiee et.al.|[2201.06378v1](http://arxiv.org/abs/2201.06378v1)|null|
+|**2022-01-17**|**Towards Unsupervised Deep Graph Structure Learning**|Yixin Liu et.al.|[2201.06367v1](http://arxiv.org/abs/2201.06367v1)|**[link](https://github.com/grand-lab/sublime)**|
+|**2022-01-17**|**Few-shot image segmentation for cross-institution male pelvic organs using registration-assisted prototypical learning**|Yiwen Li et.al.|[2201.06358v1](http://arxiv.org/abs/2201.06358v1)|null|
+|**2022-01-17**|**Disentangled Latent Transformer for Interpretable Monocular Height Estimation**|Zhitong Xiong Sining Chen et.al.|[2201.06357v1](http://arxiv.org/abs/2201.06357v1)|null|
+|**2022-01-17**|**ExpertNet: A Symbiosis of Classification and Clustering**|Shivin Srivastava et.al.|[2201.06344v1](http://arxiv.org/abs/2201.06344v1)|null|
+|**2022-01-17**|**Universal Coded Distributed Computing For MapReduce Frameworks**|Yuhan Wang et.al.|[2201.06300v1](http://arxiv.org/abs/2201.06300v1)|null|
 |**2022-01-14**|**HYLDA: End-to-end Hybrid Learning Domain Adaptation for LiDAR Semantic Segmentation**|Eduardo R. Corral-Soto et.al.|[2201.05585v1](http://arxiv.org/abs/2201.05585v1)|null|
 |**2022-01-14**|**Unsupervised Sparse Unmixing of Atmospheric Trace Gases from Hyperspectral Satellite Data**|Nicomino Fiscante et.al.|[2201.05577v1](http://arxiv.org/abs/2201.05577v1)|null|
 |**2022-01-14**|**ViT2Hash: Unsupervised Information-Preserving Hashing**|Qinkang Gong et.al.|[2201.05541v1](http://arxiv.org/abs/2201.05541v1)|null|
@@ -426,6 +475,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-18**|**Minimax Optimality (Probably) Doesn't Imply Distribution Learning for GANs**|Sitan Chen et.al.|[2201.07206v1](http://arxiv.org/abs/2201.07206v1)|null|
+|**2022-01-14**|**TCR-GAN: Predicting tropical cyclone passive microwave rainfall using infrared imagery via generative adversarial networks**|Fan Meng et.al.|[2201.07000v1](http://arxiv.org/abs/2201.07000v1)|null|
+|**2022-01-18**|**Autoencoding Video Latents for Adversarial Video Generation**|Sai Hemanth Kasaraneni et.al.|[2201.06888v1](http://arxiv.org/abs/2201.06888v1)|null|
+|**2022-01-18**|**Hardware-Efficient Deconvolution-Based GAN for Edge Computing**|Azzam Alhussain et.al.|[2201.06878v1](http://arxiv.org/abs/2201.06878v1)|null|
+|**2022-01-17**|**Collapse by Conditioning: Training Class-conditional GANs with Limited Data**|Mohamad Shahbazi et.al.|[2201.06578v1](http://arxiv.org/abs/2201.06578v1)|**[link](https://github.com/mshahbazi72/transitional-cgan)**|
+|**2022-01-17**|**SigGAN : Adversarial Model for Learning Signed Relationships in Networks**|Roshni Chakraborty et.al.|[2201.06437v1](http://arxiv.org/abs/2201.06437v1)|null|
+|**2022-01-17**|**GRB 211227A as a peculiar long gamma-ray burst from compact star merger**|Hou-Jun Lü et.al.|[2201.06395v1](http://arxiv.org/abs/2201.06395v1)|null|
+|**2022-01-17**|**Dual Perceptual Loss for Single Image Super-Resolution Using ESRGAN**|Jie Song et.al.|[2201.06383v1](http://arxiv.org/abs/2201.06383v1)|null|
+|**2022-01-17**|**Can We Find Neurons that Cause Unrealistic Images in Deep Generative Networks?**|Hwanil Choi et.al.|[2201.06346v1](http://arxiv.org/abs/2201.06346v1)|**[link](https://github.com/hichoe95/Artifact-Detection-and-Sequential-Ablation)**|
+|**2022-01-15**|**The Properties of doping ZrCo**|Gan Ren et.al.|[2201.05805v1](http://arxiv.org/abs/2201.05805v1)|null|
+|**2022-01-15**|**The effective hydrodynamic radius is not a constant**|Gan Ren et.al.|[2201.05804v1](http://arxiv.org/abs/2201.05804v1)|null|
+|**2022-01-14**|**Disentanglement enables cross-domain Hippocampus Segmentation**|John Kalkhof et.al.|[2201.05650v1](http://arxiv.org/abs/2201.05650v1)|null|
 |**2022-01-14**|**Contrastive Laplacian Eigenmaps**|Hao Zhu et.al.|[2201.05493v1](http://arxiv.org/abs/2201.05493v1)|**[link](https://github.com/allenhaozhu/coles)**|
 |**2022-01-14**|**Anomalous amplitude modes and thinning-induced loss of crystallinity in the kagome metal CsV$_3$Sb$_5$**|Gan Liu et.al.|[2201.05330v1](http://arxiv.org/abs/2201.05330v1)|null|
 |**2022-01-13**|**A new proof of the Gan--Loh--Sudakov conjecture**|Ting-Wei Chao et.al.|[2201.05181v1](http://arxiv.org/abs/2201.05181v1)|null|
