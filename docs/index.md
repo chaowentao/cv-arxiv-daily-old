@@ -274,7 +274,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-01-10**|**Reproducing BowNet: Learning Representations by Predicting Bags of Visual Words**|Harry Nguyen et.al.|[2201.03556v1](http://arxiv.org/abs/2201.03556v1)|**[link](https://github.com/StoneY1/Reproducing-BowNet)**|
+|**2022-01-10**|**Reproducing BowNet: Learning Representations by Predicting Bags of Visual Words**|Harry Nguyen et.al.|[2201.03556v2](http://arxiv.org/abs/2201.03556v2)|**[link](https://github.com/StoneY1/Reproducing-BowNet)**|
 |**2022-01-10**|**TFS Recognition: Investigating MPH]{Thai Finger Spelling Recognition: Investigating MediaPipe Hands Potentials**|Jinnavat Sanalohit et.al.|[2201.03170v1](http://arxiv.org/abs/2201.03170v1)|null|
 |**2022-01-06**|**A Keypoint Detection and Description Network Based on the Vessel Structure for Multi-Modal Retinal Image Registration**|Aline Sindel et.al.|[2201.02242v1](http://arxiv.org/abs/2201.02242v1)|null|
 |**2021-12-28**|**Skin feature point tracking using deep feature encodings**|Jose Ramon Chang et.al.|[2112.14159v1](http://arxiv.org/abs/2112.14159v1)|null|
@@ -361,7 +361,7 @@ layout: default
 |**2022-01-14**|**HYLDA: End-to-end Hybrid Learning Domain Adaptation for LiDAR Semantic Segmentation**|Eduardo R. Corral-Soto et.al.|[2201.05585v1](http://arxiv.org/abs/2201.05585v1)|null|
 |**2022-01-14**|**Domain-shift adaptation via linear transformations**|Roberto Vega et.al.|[2201.05282v1](http://arxiv.org/abs/2201.05282v1)|**[link](https://github.com/rvegaml/da_linear)**|
 |**2022-01-13**|**Self-semantic contour adaptation for cross modality brain tumor segmentation**|Xiaofeng Liu et.al.|[2201.05022v1](http://arxiv.org/abs/2201.05022v1)|null|
-|**2022-01-13**|**Unsupervised Domain Adaptation for Cross-Modality Retinal Vessel Segmentation via Disentangling Representation Style Transfer and Collaborative Consistency Learning**|Linkai Peng et.al.|[2201.04812v1](http://arxiv.org/abs/2201.04812v1)|**[link](https://github.com/lkpengcs/dcda)**|
+|**2022-01-13**|**Unsupervised Domain Adaptation for Cross-Modality Retinal Vessel Segmentation via Disentangling Representation Style Transfer and Collaborative Consistency Learning**|Linkai Peng et.al.|[2201.04812v2](http://arxiv.org/abs/2201.04812v2)|**[link](https://github.com/lkpengcs/dcda)**|
 |**2022-01-12**|**Depth Estimation from Single-shot Monocular Endoscope Image Using Image Domain Adaptation And Edge-Aware Depth Estimation**|Masahiro Oda et.al.|[2201.04485v1](http://arxiv.org/abs/2201.04485v1)|null|
 |**2022-01-11**|**DANNTe: a case study of a turbo-machinery sensor virtualization under domain shift**|Luca Strazzera et.al.|[2201.03850v1](http://arxiv.org/abs/2201.03850v1)|null|
 |**2022-01-11**|**Unsupervised Domain Adaptive Person Re-id with Local-enhance and Prototype Dictionary Learning**|Haopeng Hou et.al.|[2201.03803v1](http://arxiv.org/abs/2201.03803v1)|null|
@@ -370,7 +370,7 @@ layout: default
 |**2022-01-09**|**Preserving Domain Private Representation via Mutual Information Maximization**|Jiahong Chen et.al.|[2201.03102v1](http://arxiv.org/abs/2201.03102v1)|null|
 |**2022-01-09**|**Learning class prototypes from Synthetic InSAR with Vision Transformers**|Nikolaos Ioannis Bountos et.al.|[2201.03016v1](http://arxiv.org/abs/2201.03016v1)|null|
 |**2022-01-08**|**CrossMoDA 2021 challenge: Benchmark of Cross-Modality Domain Adaptation techniques for Vestibular Schwnannoma and Cochlea Segmentation**|Reuben Dorent et.al.|[2201.02831v1](http://arxiv.org/abs/2201.02831v1)|null|
-|**2022-01-07**|**Leveraging Scale-Invariance and Uncertainity with Self-Supervised Domain Adaptation for Semantic Segmentation of Foggy Scenes**|Javed Iqbal et.al.|[2201.02588v1](http://arxiv.org/abs/2201.02588v1)|null|
+|**2022-01-07**|**Combining Scale-Invariance and Uncertainty for Self-Supervised Domain Adaptation of Foggy Scenes Segmentation**|Javed Iqbal et.al.|[2201.02588v2](http://arxiv.org/abs/2201.02588v2)|null|
 |**2022-01-07**|**Deep Domain Adversarial Adaptation for Photon-efficient Imaging Based on Spatiotemporal Inception Network**|Yiwei Chen et.al.|[2201.02475v1](http://arxiv.org/abs/2201.02475v1)|**[link](https://github.com/ewellchen/stin)**|
 |**2022-01-06**|**Enhancing Egocentric 3D Pose Estimation with Third Person Views**|Ameya Dhamanaskar et.al.|[2201.02017v2](http://arxiv.org/abs/2201.02017v2)|null|
 |**2022-01-06**|**Decompose to Adapt: Cross-domain Object Detection via Feature Disentanglement**|Dongnan Liu et.al.|[2201.01929v1](http://arxiv.org/abs/2201.01929v1)|**[link](https://github.com/dliu5812/ddf)**|
@@ -555,7 +555,7 @@ layout: default
 |**2021-12-31**|**InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering**|Mijeong Kim et.al.|[2112.15399v1](http://arxiv.org/abs/2112.15399v1)|null|
 |**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|**[link](https://github.com/fnzhan/mise)**|
 |**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang et.al.|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|null|
-|**2021-12-23**|**DD-NeRF: Double-Diffusion Neural Radiance Field as a Generalizable Implicit Body Representation**|Guangming Yao et.al.|[2112.12390v1](http://arxiv.org/abs/2112.12390v1)|null|
+|**2021-12-23**|**Learning Implicit Body Representations from Double Diffusion Based Neural Radiance Fields**|Guangming Yao et.al.|[2112.12390v2](http://arxiv.org/abs/2112.12390v2)|null|
 |**2021-12-20**|**3D-aware Image Synthesis via Learning Structural and Textural Representations**|Yinghao Xu et.al.|[2112.10759v1](http://arxiv.org/abs/2112.10759v1)|**[link](https://github.com/genforce/volumegan)**|
 |**2021-12-20**|**Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs**|Haithem Turki et.al.|[2112.10703v1](http://arxiv.org/abs/2112.10703v1)|**[link](https://github.com/cmusatyalab/mega-nerf)**|
 |**2021-12-19**|**HVTR: Hybrid Volumetric-Textural Rendering for Human Avatars**|Tao Hu et.al.|[2112.10203v1](http://arxiv.org/abs/2112.10203v1)|null|
