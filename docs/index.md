@@ -221,7 +221,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-01-18**|**RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training**|Luya Wang et.al.|[2201.06857v1](http://arxiv.org/abs/2201.06857v1)|null|
+|**2022-01-18**|**RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training**|Luya Wang et.al.|[2201.06857v2](http://arxiv.org/abs/2201.06857v2)|null|
 |**2022-01-17**|**VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer**|Mengshu Sun et.al.|[2201.06618v1](http://arxiv.org/abs/2201.06618v1)|null|
 |**2022-01-17**|**SwinUNet3D -- A Hierarchical Architecture for Deep Traffic Prediction using Shifted Window Transformers**|Alabi Bojesomo et.al.|[2201.06390v1](http://arxiv.org/abs/2201.06390v1)|**[link](https://github.com/bojesomo/Traffic4Cast2021-SwinUNet3D)**|
 |**2022-01-17**|**RestoreFormer: High-Quality Blind Face Restoration From Undegraded Key-Value Pairs**|Zhouxia Wang et.al.|[2201.06374v1](http://arxiv.org/abs/2201.06374v1)|null|
@@ -319,7 +319,7 @@ layout: default
 |**2022-01-18**|**Unsupervised Multimodal Word Discovery based on Double Articulation Analysis with Co-occurrence cues**|Akira Taniguchi et.al.|[2201.06786v1](http://arxiv.org/abs/2201.06786v1)|null|
 |**2022-01-18**|**Label Dependent Attention Model for Disease Risk Prediction Using Multimodal Electronic Health Records**|Shuai Niu et.al.|[2201.06779v1](http://arxiv.org/abs/2201.06779v1)|null|
 |**2022-01-17**|**A Brief Survey of Machine Learning Methods for Emotion Prediction using Physiological Data**|Maryam Khalid et.al.|[2201.06610v1](http://arxiv.org/abs/2201.06610v1)|null|
-|**2022-01-17**|**QuGIT: a numerical toolbox for Gaussian quantum states**|Igor Brandão et.al.|[2201.06368v1](http://arxiv.org/abs/2201.06368v1)|null|
+|**2022-01-17**|**QuGIT: a numerical toolbox for Gaussian quantum states**|Igor Brandão et.al.|[2201.06368v1](http://arxiv.org/abs/2201.06368v1)|**[link](https://github.com/igorbrandao42/quantum-gaussian-information-toolbox)**|
 |**2022-01-17**|**Group Gated Fusion on Attention-based Bidirectional Alignment for Multimodal Emotion Recognition**|Pengfei Liu et.al.|[2201.06309v1](http://arxiv.org/abs/2201.06309v1)|**[link](https://github.com/ppfliu/emotion-recognition)**|
 |**2022-01-17**|**Learning-based multiplexed transmission of scattered twisted light through a kilometer-scale standard multimode fiber**|Yifan Liu et.al.|[2201.06263v1](http://arxiv.org/abs/2201.06263v1)|null|
 |**2022-01-16**|**Hardware Implementation of Multimodal Biometric using Fingerprint and Iris**|Tariq M Khan et.al.|[2201.05996v1](http://arxiv.org/abs/2201.05996v1)|null|
