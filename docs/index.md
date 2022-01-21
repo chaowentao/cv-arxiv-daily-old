@@ -399,7 +399,7 @@ layout: default
 |**2022-01-14**|**HYLDA: End-to-end Hybrid Learning Domain Adaptation for LiDAR Semantic Segmentation**|Eduardo R. Corral-Soto et.al.|[2201.05585v1](http://arxiv.org/abs/2201.05585v1)|null|
 |**2022-01-14**|**Domain-shift adaptation via linear transformations**|Roberto Vega et.al.|[2201.05282v1](http://arxiv.org/abs/2201.05282v1)|**[link](https://github.com/rvegaml/da_linear)**|
 |**2022-01-13**|**Self-semantic contour adaptation for cross modality brain tumor segmentation**|Xiaofeng Liu et.al.|[2201.05022v1](http://arxiv.org/abs/2201.05022v1)|null|
-|**2022-01-13**|**Unsupervised Domain Adaptation for Cross-Modality Retinal Vessel Segmentation via Disentangling Representation Style Transfer and Collaborative Consistency Learning**|Linkai Peng et.al.|[2201.04812v2](http://arxiv.org/abs/2201.04812v2)|**[link](https://github.com/lkpengcs/dcda)**|
+|**2022-01-13**|**Unsupervised Domain Adaptation for Cross-Modality Retinal Vessel Segmentation via Disentangling Representation Style Transfer and Collaborative Consistency Learning**|Linkai Peng et.al.|[2201.04812v3](http://arxiv.org/abs/2201.04812v3)|**[link](https://github.com/lkpengcs/dcda)**|
 |**2022-01-12**|**Depth Estimation from Single-shot Monocular Endoscope Image Using Image Domain Adaptation And Edge-Aware Depth Estimation**|Masahiro Oda et.al.|[2201.04485v1](http://arxiv.org/abs/2201.04485v1)|null|
 |**2022-01-11**|**DANNTe: a case study of a turbo-machinery sensor virtualization under domain shift**|Luca Strazzera et.al.|[2201.03850v1](http://arxiv.org/abs/2201.03850v1)|null|
 |**2022-01-11**|**Unsupervised Domain Adaptive Person Re-id with Local-enhance and Prototype Dictionary Learning**|Haopeng Hou et.al.|[2201.03803v1](http://arxiv.org/abs/2201.03803v1)|null|
@@ -463,7 +463,7 @@ layout: default
 |**2022-01-18**|**ZeroPrompt: Scaling Prompt-Based Pretraining to 1,000 Tasks Improves Zero-Shot Generalization**|Hanwei Xu et.al.|[2201.06910v1](http://arxiv.org/abs/2201.06910v1)|null|
 |**2022-01-18**|**Unsupervised Multimodal Word Discovery based on Double Articulation Analysis with Co-occurrence cues**|Akira Taniguchi et.al.|[2201.06786v1](http://arxiv.org/abs/2201.06786v1)|null|
 |**2022-01-18**|**When Facial Expression Recognition Meets Few-Shot Learning: A Joint and Alternate Learning Framework**|Xinyi Zou et.al.|[2201.06781v1](http://arxiv.org/abs/2201.06781v1)|null|
-|**2022-01-18**|**TaxoCom: Topic Taxonomy Completion with Hierarchical Discovery of Novel Topic Clusters**|Dongha Lee et.al.|[2201.06771v1](http://arxiv.org/abs/2201.06771v1)|null|
+|**2022-01-18**|**TaxoCom: Topic Taxonomy Completion with Hierarchical Discovery of Novel Topic Clusters**|Dongha Lee et.al.|[2201.06771v2](http://arxiv.org/abs/2201.06771v2)|null|
 |**2022-01-18**|**Online Time Series Anomaly Detection with State Space Gaussian Processes**|Christian Bock et.al.|[2201.06763v1](http://arxiv.org/abs/2201.06763v1)|null|
 |**2022-01-18**|**ProposalCLIP: Unsupervised Open-Category Object Proposal Generation via Exploiting CLIP Cues**|Hengcan Shi et.al.|[2201.06696v1](http://arxiv.org/abs/2201.06696v1)|null|
 |**2022-01-17**|**Who supervises the supervisor? Model monitoring in production using deep feature embeddings with applications to workpiece inspection**|Michael Banf et.al.|[2201.06599v1](http://arxiv.org/abs/2201.06599v1)|null|
@@ -656,7 +656,7 @@ layout: default
 |**2022-01-17**|**SigGAN : Adversarial Model for Learning Signed Relationships in Networks**|Roshni Chakraborty et.al.|[2201.06437v1](http://arxiv.org/abs/2201.06437v1)|null|
 |**2022-01-17**|**GRB 211227A as a peculiar long gamma-ray burst from compact star merger**|Hou-Jun Lü et.al.|[2201.06395v1](http://arxiv.org/abs/2201.06395v1)|null|
 |**2022-01-17**|**Dual Perceptual Loss for Single Image Super-Resolution Using ESRGAN**|Jie Song et.al.|[2201.06383v1](http://arxiv.org/abs/2201.06383v1)|null|
-|**2022-01-17**|**Can We Find Neurons that Cause Unrealistic Images in Deep Generative Networks?**|Hwanil Choi et.al.|[2201.06346v1](http://arxiv.org/abs/2201.06346v1)|**[link](https://github.com/hichoe95/Artifact-Detection-and-Sequential-Ablation)**|
+|**2022-01-17**|**Can We Find Neurons that Cause Unrealistic Images in Deep Generative Networks?**|Hwanil Choi et.al.|[2201.06346v2](http://arxiv.org/abs/2201.06346v2)|**[link](https://github.com/hichoe95/Artifact-Detection-and-Sequential-Ablation)**|
 |**2022-01-15**|**The Properties of doping ZrCo**|Gan Ren et.al.|[2201.05805v1](http://arxiv.org/abs/2201.05805v1)|null|
 |**2022-01-15**|**The effective hydrodynamic radius is not a constant**|Gan Ren et.al.|[2201.05804v1](http://arxiv.org/abs/2201.05804v1)|null|
 |**2022-01-14**|**Disentanglement enables cross-domain Hippocampus Segmentation**|John Kalkhof et.al.|[2201.05650v1](http://arxiv.org/abs/2201.05650v1)|null|
