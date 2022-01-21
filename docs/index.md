@@ -156,6 +156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-19**|**Enhanced deep-tissue photoacoustics by using microcomposites made of RF-metamaterials and soft polymers: double- and triple-resonance phenomena**|Ricardo Martín Abraham-Ekeroth et.al.|[2201.07851v1](http://arxiv.org/abs/2201.07851v1)|null|
 |**2022-01-15**|**Learning Hierarchical Graph Representation for Image Manipulation Detection**|Wenyan Pan et.al.|[2201.05730v1](http://arxiv.org/abs/2201.05730v1)|null|
 |**2022-01-10**|**GMFIM: A Generative Mask-guided Facial Image Manipulation Model for Privacy Preservation**|Mohammad Hossein Khojaste et.al.|[2201.03353v1](http://arxiv.org/abs/2201.03353v1)|null|
 |**2021-12-28**|**LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation**|Shoya Matsumori et.al.|[2112.13985v1](http://arxiv.org/abs/2112.13985v1)|**[link](https://github.com/smatsumori/lattegan)**|
@@ -184,6 +185,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-20**|**Real-time Rendering for Integral Imaging Light Field Displays Based on a Voxel-Pixel Lookup Table**|Quanzhen Wan et.al.|[2201.08266v1](http://arxiv.org/abs/2201.08266v1)|null|
 |**2022-01-19**|**Reconfigurable optical logic operations through scattering media with wavefront shaping**|Zhipeng Yu et.al.|[2201.07432v1](http://arxiv.org/abs/2201.07432v1)|null|
 |**2022-01-17**|**Topological photonic crystals: physics, designs and applications**|Guo-Jing Tang et.al.|[2201.06294v1](http://arxiv.org/abs/2201.06294v1)|null|
 |**2022-01-11**|**Static-field ionization model of He-like ions for diagnostics of light field intensity**|Erik Lötstedt et.al.|[2201.03840v1](http://arxiv.org/abs/2201.03840v1)|null|
@@ -222,6 +224,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-20**|**MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition**|Chao-Yuan Wu et.al.|[2201.08383v1](http://arxiv.org/abs/2201.08383v1)|null|
+|**2022-01-20**|**TerViT: An Efficient Ternary Vision Transformer**|Sheng Xu et.al.|[2201.08050v1](http://arxiv.org/abs/2201.08050v1)|null|
 |**2022-01-19**|**Q-ViT: Fully Differentiable Quantization for Vision Transformer**|Zhexin Li et.al.|[2201.07703v1](http://arxiv.org/abs/2201.07703v1)|null|
 |**2022-01-18**|**RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training**|Luya Wang et.al.|[2201.06857v2](http://arxiv.org/abs/2201.06857v2)|null|
 |**2022-01-17**|**VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer**|Mengshu Sun et.al.|[2201.06618v1](http://arxiv.org/abs/2201.06618v1)|null|
@@ -286,6 +290,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-20**|**Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision**|Jian Wang et.al.|[2201.07929v1](http://arxiv.org/abs/2201.07929v1)|null|
 |**2022-01-19**|**Poseur: Direct Human Pose Regression with Transformers**|Weian Mao et.al.|[2201.07412v1](http://arxiv.org/abs/2201.07412v1)|null|
 |**2022-01-19**|**Swin-Pose: Swin Transformer Based Human Pose Estimation**|Zinan Xiong et.al.|[2201.07384v1](http://arxiv.org/abs/2201.07384v1)|null|
 |**2022-01-16**|**Cross-Centroid Ripple Pattern for Facial Expression Recognition**|Monu Verma et.al.|[2201.05958v1](http://arxiv.org/abs/2201.05958v1)|null|
@@ -320,6 +325,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-20**|**End-to-end Generative Pretraining for Multimodal Video Captioning**|Paul Hongsuck Seo et.al.|[2201.08264v1](http://arxiv.org/abs/2201.08264v1)|null|
+|**2022-01-18**|**Packaging-enhanced optical fiber-chip interconnect with enlarged grating coupler and multimode fiber**|Chao Wang et.al.|[2201.08248v1](http://arxiv.org/abs/2201.08248v1)|null|
+|**2022-01-20**|**The Elements of Temporal Sentence Grounding in Videos: A Survey and Future Directions**|Hao Zhang et.al.|[2201.08071v1](http://arxiv.org/abs/2201.08071v1)|null|
+|**2022-01-20**|**VISA: An Ambiguous Subtitles Dataset for Visual Scene-Aware Machine Translation**|Yihang Li et.al.|[2201.08054v1](http://arxiv.org/abs/2201.08054v1)|null|
 |**2022-01-19**|**Coupled Support Tensor Machine Classification for Multimodal Neuroimaging Data**|Li Peide et.al.|[2201.07683v1](http://arxiv.org/abs/2201.07683v1)|null|
 |**2022-01-19**|**CM3: A Causal Masked Multimodal Model of the Internet**|Armen Aghajanyan et.al.|[2201.07520v1](http://arxiv.org/abs/2201.07520v1)|null|
 |**2022-01-19**|**TriCoLo: Trimodal Contrastive Loss for Fine-grained Text to Shape Retrieval**|Yue Ruan et.al.|[2201.07366v1](http://arxiv.org/abs/2201.07366v1)|null|
@@ -447,6 +456,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-20**|**Revisiting Weakly Supervised Pre-Training of Visual Perception Models**|Mannat Singh et.al.|[2201.08371v1](http://arxiv.org/abs/2201.08371v1)|**[link](https://github.com/facebookresearch/SWAG)**|
+|**2022-01-20**|**Dynamically Tagged Groups of Metal-Poor Stars II. The Radial Velocity Experiment Data Release 6**|Derek Shank et.al.|[2201.08337v1](http://arxiv.org/abs/2201.08337v1)|null|
+|**2022-01-20**|**Cross-Domain Few-Shot Graph Classification**|Kaveh Hassani et.al.|[2201.08265v1](http://arxiv.org/abs/2201.08265v1)|null|
+|**2022-01-20**|**Exploiting Meta-Cognitive Features for a Machine-Learning-Based One-Shot Group-Decision Aggregation**|Hilla Shinitzky et.al.|[2201.08247v1](http://arxiv.org/abs/2201.08247v1)|null|
+|**2022-01-20**|**WPPNets: Unsupervised CNN Training with Wasserstein Patch Priors for Image Superresolution**|Fabian Altekrüger et.al.|[2201.08157v1](http://arxiv.org/abs/2201.08157v1)|**[link](https://github.com/fabianaltekrueger/wppnets)**|
+|**2022-01-20**|**Deep Unsupervised Contrastive Hashing for Large-Scale Cross-Modal Text-Image Retrieval in Remote Sensing**|Georgii Mikriukov et.al.|[2201.08125v1](http://arxiv.org/abs/2201.08125v1)|null|
+|**2022-01-20**|**CELESTIAL: Classification Enabled via Labelless Embeddings with Self-supervised Telescope Image Analysis Learning**|Suhas Kotha et.al.|[2201.08001v1](http://arxiv.org/abs/2201.08001v1)|null|
+|**2022-01-20**|**Unsupervised Graph Poisoning Attack via Contrastive Loss Back-propagation**|Sixiao Zhang et.al.|[2201.07986v1](http://arxiv.org/abs/2201.07986v1)|null|
+|**2022-01-19**|**Unsupervised Personalization of an Emotion Recognition System: The Unique Properties of the Externalization of Valence in Speech**|Kusha Sridhar et.al.|[2201.07876v1](http://arxiv.org/abs/2201.07876v1)|null|
 |**2022-01-19**|**Coupled Support Tensor Machine Classification for Multimodal Neuroimaging Data**|Li Peide et.al.|[2201.07683v1](http://arxiv.org/abs/2201.07683v1)|null|
 |**2022-01-19**|**CM3: A Causal Masked Multimodal Model of the Internet**|Armen Aghajanyan et.al.|[2201.07520v1](http://arxiv.org/abs/2201.07520v1)|null|
 |**2022-01-19**|**Can't Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders**|Zeyang Sha et.al.|[2201.07513v1](http://arxiv.org/abs/2201.07513v1)|null|
@@ -645,6 +663,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-20**|**Stitch it in Time: GAN-Based Facial Editing of Real Videos**|Rotem Tzaban et.al.|[2201.08361v1](http://arxiv.org/abs/2201.08361v1)|null|
+|**2022-01-20**|**GAN-based Matrix Factorization for Recommender Systems**|Ervin Dervishaj et.al.|[2201.08042v1](http://arxiv.org/abs/2201.08042v1)|null|
+|**2022-01-20**|**Three-dimensional analyses of an aspherical coronal mass ejection and its driven shock**|Beili Ying et.al.|[2201.08019v1](http://arxiv.org/abs/2201.08019v1)|null|
+|**2022-01-20**|**On the Existence of Fast Modes in Compressible Magnetohydrodynamic Turbulence**|Zhaoming Gan et.al.|[2201.07965v1](http://arxiv.org/abs/2201.07965v1)|null|
 |**2022-01-19**|**A Survey on Training Challenges in Generative Adversarial Networks for Biomedical Image Analysis**|Muhammad Muneeb Saad et.al.|[2201.07646v1](http://arxiv.org/abs/2201.07646v1)|null|
 |**2022-01-19**|**CM3: A Causal Masked Multimodal Model of the Internet**|Armen Aghajanyan et.al.|[2201.07520v1](http://arxiv.org/abs/2201.07520v1)|null|
 |**2022-01-19**|**Variational Autoencoder Generative Adversarial Network for Synthetic Data Generation in Smart Home**|Mina Razghandi et.al.|[2201.07387v1](http://arxiv.org/abs/2201.07387v1)|null|
