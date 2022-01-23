@@ -755,3 +755,28 @@ layout: default
 |**2021-12-24**|**Cluster-guided Image Synthesis with Unconditional Models**|Markos Georgopoulos et.al.|[2112.12911v1](http://arxiv.org/abs/2112.12911v1)|null|
 |**2021-12-23**|**Self-Attention Generative Adversarial Network for Iterative Reconstruction of CT Images**|Ruiwen Xing et.al.|[2112.12810v1](http://arxiv.org/abs/2112.12810v1)|null|
 
+## Gait Recognition
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-13**|**RealGait: Gait Recognition for Person Re-Identification**|Shaoxiong Zhang et.al.|[2201.04806v1](http://arxiv.org/abs/2201.04806v1)|null|
+|**2022-01-10**|**Gait Recognition Based on Deep Learning: A Survey**|Claudio Filipi Gonçalves dos Santos et.al.|[2201.03323v1](http://arxiv.org/abs/2201.03323v1)|null|
+|**2021-12-20**|**Model-based gait recognition using graph network on very large population database**|Zhihao Wang et.al.|[2112.10305v1](http://arxiv.org/abs/2112.10305v1)|null|
+|**2021-12-10**|**Seq-Masks: Bridging the gap between appearance and gait modeling for video-based person re-identification**|Zhigang Chang et.al.|[2112.05626v1](http://arxiv.org/abs/2112.05626v1)|null|
+|**2021-11-24**|**Attention-based Dual-stream Vision Transformer for Radar Gait Recognition**|Shiliang Chen et.al.|[2111.12290v1](http://arxiv.org/abs/2111.12290v1)|null|
+|**2021-11-12**|**Robust Analytics for Video-Based Gait Biometrics**|Ebenezer R. H. P. Isaac et.al.|[2111.06670v1](http://arxiv.org/abs/2111.06670v1)|null|
+|**2021-10-26**|**Learning Rich Features for Gait Recognition by Integrating Skeletons and Silhouettes**|Yunjie Peng et.al.|[2110.13408v1](http://arxiv.org/abs/2110.13408v1)|null|
+|**2021-10-18**|**BGaitR-Net: Occluded Gait Sequence reconstructionwith temporally constrained model for gait recognition**|Somnath Sendhil Kumara et.al.|[2110.09564v1](http://arxiv.org/abs/2110.09564v1)|null|
+|**2021-08-12**|**Silhouette based View embeddings for Gait Recognition under Multiple Views**|Tianrui Chai et.al.|[2108.05524v1](http://arxiv.org/abs/2108.05524v1)|**[link](https://github.com/ctrasd/gait-view)**|
+|**2021-07-19**|**A Benchmark for Gait Recognition under Occlusion Collected by Multi-Kinect SDAS**|Na Li et.al.|[2107.08990v1](http://arxiv.org/abs/2107.08990v1)|null|
+|**2021-06-21**|**The Arm-Swing Is Discriminative in Video Gait Recognition for Athlete Re-Identification**|Yapkan Choi et.al.|[2106.11280v1](http://arxiv.org/abs/2106.11280v1)|null|
+|**2021-05-30**|**VersatileGait: A Large-Scale Synthetic Gait Dataset Towards in-the-Wild Simulation**|Pengyi Zhang et.al.|[2105.14421v2](http://arxiv.org/abs/2105.14421v2)|null|
+|**2021-05-12**|**WildGait: Learning Gait Representations from Raw Surveillance Streams**|Adrian Cosma et.al.|[2105.05528v5](http://arxiv.org/abs/2105.05528v5)|null|
+|**2021-04-23**|**Sequential convolutional network for behavioral pattern extraction in gait recognition**|Xinnan Ding et.al.|[2104.11473v1](http://arxiv.org/abs/2104.11473v1)|null|
+|**2021-03-29**|**Cloth-Changing Person Re-identification from A Single Image with Gait Prediction and Regularization**|Xin Jin et.al.|[2103.15537v3](http://arxiv.org/abs/2103.15537v3)|**[link](https://github.com/jinx-USTC/GI-ReID)**|
+|**2021-03-27**|**SelfGait: A Spatiotemporal Representation Learning Method for Self-supervised Gait Recognition**|Yiqun Liu et.al.|[2103.14811v1](http://arxiv.org/abs/2103.14811v1)|**[link](https://github.com/EchoItLiu/SelfGait)**|
+|**2021-02-18**|**Deep Gait Recognition: A Survey**|Alireza Sepas-Moghaddam et.al.|[2102.09546v1](http://arxiv.org/abs/2102.09546v1)|null|
+|**2021-02-09**|**TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recognition**|Jinkai Zheng et.al.|[2102.04621v1](http://arxiv.org/abs/2102.04621v1)|**[link](https://github.com/JinkaiZheng/TraND)**|
+|**2021-02-05**|**GaitSet: Cross-view Gait Recognition through Utilizing Gait as a Deep Set**|Hanqing Chao et.al.|[2102.03247v1](http://arxiv.org/abs/2102.03247v1)|**[link](https://github.com/AbnerHqC/GaitSet)**|
+|**2021-01-27**|**GaitGraph: Graph Convolutional Network for Skeleton-Based Gait Recognition**|Torben Teepe et.al.|[2101.11228v2](http://arxiv.org/abs/2101.11228v2)|**[link](https://github.com/tteepe/GaitGraph)**|
+
