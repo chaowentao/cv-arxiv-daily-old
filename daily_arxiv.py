@@ -183,6 +183,7 @@ if __name__ == "__main__":
     keywords["Light Field"]      = "\"Light Field\""
     keywords["Vision Transformer"]      = "\"Vision Transformer\""
     keywords["Human Pose Estimation"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\"OR\"Human Pose Estimation\""
+    keywords["Gait Recognition"] = "\"Gait Recognition\""
     keywords["Multimodal"] = "\"Multimodal\""
     keywords["NeRF"] = "\"NeRF\""
     keywords["GAN"] = "\"GAN\""
