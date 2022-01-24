@@ -225,7 +225,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-01-20**|**MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition**|Chao-Yuan Wu et.al.|[2201.08383v1](http://arxiv.org/abs/2201.08383v1)|null|
-|**2022-01-20**|**TerViT: An Efficient Ternary Vision Transformer**|Sheng Xu et.al.|[2201.08050v1](http://arxiv.org/abs/2201.08050v1)|null|
+|**2022-01-20**|**TerViT: An Efficient Ternary Vision Transformer**|Sheng Xu et.al.|[2201.08050v2](http://arxiv.org/abs/2201.08050v2)|null|
 |**2022-01-19**|**Q-ViT: Fully Differentiable Quantization for Vision Transformer**|Zhexin Li et.al.|[2201.07703v1](http://arxiv.org/abs/2201.07703v1)|null|
 |**2022-01-18**|**RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training**|Luya Wang et.al.|[2201.06857v2](http://arxiv.org/abs/2201.06857v2)|null|
 |**2022-01-17**|**VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer**|Mengshu Sun et.al.|[2201.06618v1](http://arxiv.org/abs/2201.06618v1)|null|
@@ -328,7 +328,7 @@ layout: default
 |**2022-01-20**|**End-to-end Generative Pretraining for Multimodal Video Captioning**|Paul Hongsuck Seo et.al.|[2201.08264v1](http://arxiv.org/abs/2201.08264v1)|null|
 |**2022-01-18**|**Packaging-enhanced optical fiber-chip interconnect with enlarged grating coupler and multimode fiber**|Chao Wang et.al.|[2201.08248v1](http://arxiv.org/abs/2201.08248v1)|null|
 |**2022-01-20**|**The Elements of Temporal Sentence Grounding in Videos: A Survey and Future Directions**|Hao Zhang et.al.|[2201.08071v1](http://arxiv.org/abs/2201.08071v1)|null|
-|**2022-01-20**|**VISA: An Ambiguous Subtitles Dataset for Visual Scene-Aware Machine Translation**|Yihang Li et.al.|[2201.08054v1](http://arxiv.org/abs/2201.08054v1)|null|
+|**2022-01-20**|**VISA: An Ambiguous Subtitles Dataset for Visual Scene-Aware Machine Translation**|Yihang Li et.al.|[2201.08054v2](http://arxiv.org/abs/2201.08054v2)|null|
 |**2022-01-19**|**Coupled Support Tensor Machine Classification for Multimodal Neuroimaging Data**|Li Peide et.al.|[2201.07683v1](http://arxiv.org/abs/2201.07683v1)|null|
 |**2022-01-19**|**CM3: A Causal Masked Multimodal Model of the Internet**|Armen Aghajanyan et.al.|[2201.07520v1](http://arxiv.org/abs/2201.07520v1)|null|
 |**2022-01-19**|**TriCoLo: Trimodal Contrastive Loss for Fine-grained Text to Shape Retrieval**|Yue Ruan et.al.|[2201.07366v1](http://arxiv.org/abs/2201.07366v1)|null|
@@ -663,7 +663,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-01-20**|**Stitch it in Time: GAN-Based Facial Editing of Real Videos**|Rotem Tzaban et.al.|[2201.08361v1](http://arxiv.org/abs/2201.08361v1)|null|
+|**2022-01-20**|**Stitch it in Time: GAN-Based Facial Editing of Real Videos**|Rotem Tzaban et.al.|[2201.08361v2](http://arxiv.org/abs/2201.08361v2)|null|
 |**2022-01-20**|**GAN-based Matrix Factorization for Recommender Systems**|Ervin Dervishaj et.al.|[2201.08042v1](http://arxiv.org/abs/2201.08042v1)|**[link](https://github.com/edervishaj/ganmf)**|
 |**2022-01-20**|**Three-dimensional analyses of an aspherical coronal mass ejection and its driven shock**|Beili Ying et.al.|[2201.08019v1](http://arxiv.org/abs/2201.08019v1)|null|
 |**2022-01-20**|**On the Existence of Fast Modes in Compressible Magnetohydrodynamic Turbulence**|Zhaoming Gan et.al.|[2201.07965v1](http://arxiv.org/abs/2201.07965v1)|null|
