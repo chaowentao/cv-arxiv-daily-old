@@ -185,6 +185,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-21**|**Properties of electron lenses produced by ponderomotive potential with Bessel and Laguerre-Gaussian beams**|Yuuki Uesugi et.al.|[2201.08523v1](http://arxiv.org/abs/2201.08523v1)|null|
 |**2022-01-20**|**Real-time Rendering for Integral Imaging Light Field Displays Based on a Voxel-Pixel Lookup Table**|Quanzhen Wan et.al.|[2201.08266v1](http://arxiv.org/abs/2201.08266v1)|null|
 |**2022-01-19**|**Reconfigurable optical logic operations through scattering media with wavefront shaping**|Zhipeng Yu et.al.|[2201.07432v1](http://arxiv.org/abs/2201.07432v1)|null|
 |**2022-01-17**|**Topological photonic crystals: physics, designs and applications**|Guo-Jing Tang et.al.|[2201.06294v1](http://arxiv.org/abs/2201.06294v1)|null|
@@ -224,6 +225,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-21**|**A Comprehensive Study of Vision Transformers on Dense Prediction Tasks**|Kishaan Jeeveswaran et.al.|[2201.08683v1](http://arxiv.org/abs/2201.08683v1)|null|
+|**2022-01-21**|**Fast Differentiable Matrix Square Root**|Yue Song et.al.|[2201.08663v1](http://arxiv.org/abs/2201.08663v1)|**[link](https://github.com/kingjamessong/fastdifferentiablematsqrt)**|
 |**2022-01-20**|**MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition**|Chao-Yuan Wu et.al.|[2201.08383v1](http://arxiv.org/abs/2201.08383v1)|null|
 |**2022-01-20**|**TerViT: An Efficient Ternary Vision Transformer**|Sheng Xu et.al.|[2201.08050v2](http://arxiv.org/abs/2201.08050v2)|null|
 |**2022-01-19**|**Q-ViT: Fully Differentiable Quantization for Vision Transformer**|Zhexin Li et.al.|[2201.07703v1](http://arxiv.org/abs/2201.07703v1)|null|
@@ -325,6 +328,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-21**|**Inferring Brain Dynamics via Multimodal Joint Graph Representation EEG-fMRI**|Jalal Mirakhorli et.al.|[2201.08747v1](http://arxiv.org/abs/2201.08747v1)|null|
+|**2022-01-21**|**Hold On and Swipe: A Touch-Movement Based Continuous Authentication Schema based on Machine Learning**|Rushit Dave et.al.|[2201.08564v1](http://arxiv.org/abs/2201.08564v1)|null|
+|**2022-01-21**|**Understanding and Detecting Hateful Content using Contrastive Learning**|Felipe González-Pizarro et.al.|[2201.08387v1](http://arxiv.org/abs/2201.08387v1)|null|
 |**2022-01-20**|**End-to-end Generative Pretraining for Multimodal Video Captioning**|Paul Hongsuck Seo et.al.|[2201.08264v1](http://arxiv.org/abs/2201.08264v1)|null|
 |**2022-01-18**|**Packaging-enhanced optical fiber-chip interconnect with enlarged grating coupler and multimode fiber**|Chao Wang et.al.|[2201.08248v1](http://arxiv.org/abs/2201.08248v1)|null|
 |**2022-01-20**|**The Elements of Temporal Sentence Grounding in Videos: A Survey and Future Directions**|Hao Zhang et.al.|[2201.08071v1](http://arxiv.org/abs/2201.08071v1)|null|
@@ -392,6 +398,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-20**|**Deep Attention-Based Supernovae Classification of Multi-Band Light-Curves**|Óscar Pimentel et.al.|[2201.08482v1](http://arxiv.org/abs/2201.08482v1)|null|
 |**2022-01-19**|**Superpixel Pre-Segmentation of HER2 Slides for Efficient Annotation**|Mathias Öttl et.al.|[2201.07572v1](http://arxiv.org/abs/2201.07572v1)|null|
 |**2022-01-18**|**A Privacy-Preserving Unsupervised Domain Adaptation Framework for Clinical Text Analysis**|Qiyuan An et.al.|[2201.07317v1](http://arxiv.org/abs/2201.07317v1)|null|
 |**2022-01-18**|**Continual Coarse-to-Fine Domain Adaptation in Semantic Segmentation**|Donald Shenaj et.al.|[2201.06974v1](http://arxiv.org/abs/2201.06974v1)|null|
@@ -456,6 +463,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-21**|**Structural properties and classification of variable stars: A study through unsupervised machine learning techniques**|Suman Paul et.al.|[2201.08755v1](http://arxiv.org/abs/2201.08755v1)|null|
+|**2022-01-21**|**Dual Contrastive Learning: Text Classification via Label-Aware Data Augmentation**|Qianben Chen et.al.|[2201.08702v1](http://arxiv.org/abs/2201.08702v1)|**[link](https://github.com/hiyouga/dual-contrastive-learning)**|
+|**2022-01-21**|**Distance-Ratio-Based Formulation for Metric Learning**|Hyeongji Kim et.al.|[2201.08676v1](http://arxiv.org/abs/2201.08676v1)|**[link](https://github.com/hjk92g/dr_formulation_ml)**|
+|**2022-01-21**|**Gender Bias in Text: Labeled Datasets and Lexicons**|Jad Doughman et.al.|[2201.08675v1](http://arxiv.org/abs/2201.08675v1)|null|
+|**2022-01-21**|**Tensor-based Basis Function Learning for Three-dimensional Sound Speed Fields**|Lei Cheng et.al.|[2201.08583v1](http://arxiv.org/abs/2201.08583v1)|null|
+|**2022-01-21**|**Robust Unsupervised Graph Representation Learning via Mutual Information Maximization**|Jihong Wang et.al.|[2201.08557v1](http://arxiv.org/abs/2201.08557v1)|null|
+|**2022-01-20**|**Classic Graph Structural Features Outperform Factorization-Based Graph Embedding Methods on Community Labeling**|Andrew Stolman et.al.|[2201.08481v1](http://arxiv.org/abs/2201.08481v1)|null|
+|**2022-01-20**|**Transfer Learning Approaches for Building Cross-Language Dense Retrieval Models**|Suraj Nair et.al.|[2201.08471v1](http://arxiv.org/abs/2201.08471v1)|null|
+|**2022-01-20**|**DROPO: Sim-to-Real Transfer with Offline Domain Randomization**|Gabriele Tiboni et.al.|[2201.08434v1](http://arxiv.org/abs/2201.08434v1)|**[link](https://github.com/gabrieletiboni/dropo)**|
 |**2022-01-20**|**Revisiting Weakly Supervised Pre-Training of Visual Perception Models**|Mannat Singh et.al.|[2201.08371v1](http://arxiv.org/abs/2201.08371v1)|**[link](https://github.com/facebookresearch/SWAG)**|
 |**2022-01-20**|**Dynamically Tagged Groups of Metal-Poor Stars II. The Radial Velocity Experiment Data Release 6**|Derek Shank et.al.|[2201.08337v1](http://arxiv.org/abs/2201.08337v1)|null|
 |**2022-01-20**|**Cross-Domain Few-Shot Graph Classification**|Kaveh Hassani et.al.|[2201.08265v1](http://arxiv.org/abs/2201.08265v1)|**[link](https://github.com/kavehhassani/metagrl)**|
@@ -636,6 +652,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v1](http://arxiv.org/abs/2201.08845v1)|null|
 |**2022-01-19**|**Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation**|Xian Liu et.al.|[2201.07786v1](http://arxiv.org/abs/2201.07786v1)|null|
 |**2021-12-31**|**InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering**|Mijeong Kim et.al.|[2112.15399v1](http://arxiv.org/abs/2112.15399v1)|null|
 |**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|**[link](https://github.com/fnzhan/mise)**|
@@ -663,7 +680,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-01-20**|**Stitch it in Time: GAN-Based Facial Editing of Real Videos**|Rotem Tzaban et.al.|[2201.08361v2](http://arxiv.org/abs/2201.08361v2)|null|
+|**2022-01-21**|**Evaluating Generalization in Classical and Quantum Generative Models**|Kaitlin Gili et.al.|[2201.08770v1](http://arxiv.org/abs/2201.08770v1)|null|
+|**2022-01-20**|**Stitch it in Time: GAN-Based Facial Editing of Real Videos**|Rotem Tzaban et.al.|[2201.08361v2](http://arxiv.org/abs/2201.08361v2)|**[link](https://github.com/rotemtzaban/STIT)**|
 |**2022-01-20**|**GAN-based Matrix Factorization for Recommender Systems**|Ervin Dervishaj et.al.|[2201.08042v1](http://arxiv.org/abs/2201.08042v1)|**[link](https://github.com/edervishaj/ganmf)**|
 |**2022-01-20**|**Three-dimensional analyses of an aspherical coronal mass ejection and its driven shock**|Beili Ying et.al.|[2201.08019v1](http://arxiv.org/abs/2201.08019v1)|null|
 |**2022-01-20**|**On the Existence of Fast Modes in Compressible Magnetohydrodynamic Turbulence**|Zhaoming Gan et.al.|[2201.07965v1](http://arxiv.org/abs/2201.07965v1)|null|
