@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.01.24
+## Updated on 2022.01.25
 
 ## SLAM
 
@@ -338,7 +338,7 @@ layout: default
 |**2022-01-19**|**Coupled Support Tensor Machine Classification for Multimodal Neuroimaging Data**|Li Peide et.al.|[2201.07683v1](http://arxiv.org/abs/2201.07683v1)|null|
 |**2022-01-19**|**CM3: A Causal Masked Multimodal Model of the Internet**|Armen Aghajanyan et.al.|[2201.07520v1](http://arxiv.org/abs/2201.07520v1)|null|
 |**2022-01-19**|**TriCoLo: Trimodal Contrastive Loss for Fine-grained Text to Shape Retrieval**|Yue Ruan et.al.|[2201.07366v1](http://arxiv.org/abs/2201.07366v1)|null|
-|**2022-01-18**|**Unsupervised Multimodal Word Discovery based on Double Articulation Analysis with Co-occurrence cues**|Akira Taniguchi et.al.|[2201.06786v1](http://arxiv.org/abs/2201.06786v1)|null|
+|**2022-01-18**|**Unsupervised Multimodal Word Discovery based on Double Articulation Analysis with Co-occurrence cues**|Akira Taniguchi et.al.|[2201.06786v1](http://arxiv.org/abs/2201.06786v1)|**[link](https://github.com/a-taniguchi/npb-daa-mlda)**|
 |**2022-01-18**|**Label Dependent Attention Model for Disease Risk Prediction Using Multimodal Electronic Health Records**|Shuai Niu et.al.|[2201.06779v1](http://arxiv.org/abs/2201.06779v1)|null|
 |**2022-01-17**|**A Brief Survey of Machine Learning Methods for Emotion Prediction using Physiological Data**|Maryam Khalid et.al.|[2201.06610v1](http://arxiv.org/abs/2201.06610v1)|null|
 |**2022-01-17**|**QuGIT: a numerical toolbox for Gaussian quantum states**|Igor Brandão et.al.|[2201.06368v1](http://arxiv.org/abs/2201.06368v1)|**[link](https://github.com/igorbrandao42/quantum-gaussian-information-toolbox)**|
@@ -469,7 +469,7 @@ layout: default
 |**2022-01-21**|**Gender Bias in Text: Labeled Datasets and Lexicons**|Jad Doughman et.al.|[2201.08675v1](http://arxiv.org/abs/2201.08675v1)|null|
 |**2022-01-21**|**Tensor-based Basis Function Learning for Three-dimensional Sound Speed Fields**|Lei Cheng et.al.|[2201.08583v1](http://arxiv.org/abs/2201.08583v1)|null|
 |**2022-01-21**|**Robust Unsupervised Graph Representation Learning via Mutual Information Maximization**|Jihong Wang et.al.|[2201.08557v1](http://arxiv.org/abs/2201.08557v1)|null|
-|**2022-01-20**|**Classic Graph Structural Features Outperform Factorization-Based Graph Embedding Methods on Community Labeling**|Andrew Stolman et.al.|[2201.08481v1](http://arxiv.org/abs/2201.08481v1)|null|
+|**2022-01-20**|**Classic Graph Structural Features Outperform Factorization-Based Graph Embedding Methods on Community Labeling**|Andrew Stolman et.al.|[2201.08481v1](http://arxiv.org/abs/2201.08481v1)|**[link](https://github.com/astolman/snlpy)**|
 |**2022-01-20**|**Transfer Learning Approaches for Building Cross-Language Dense Retrieval Models**|Suraj Nair et.al.|[2201.08471v1](http://arxiv.org/abs/2201.08471v1)|null|
 |**2022-01-20**|**DROPO: Sim-to-Real Transfer with Offline Domain Randomization**|Gabriele Tiboni et.al.|[2201.08434v1](http://arxiv.org/abs/2201.08434v1)|**[link](https://github.com/gabrieletiboni/dropo)**|
 |**2022-01-20**|**Revisiting Weakly Supervised Pre-Training of Visual Perception Models**|Mannat Singh et.al.|[2201.08371v1](http://arxiv.org/abs/2201.08371v1)|**[link](https://github.com/facebookresearch/SWAG)**|
