@@ -1,4 +1,4 @@
-## Updated on 2022.01.25
+## Updated on 2022.01.26
 
 ## Image Generation
 
@@ -187,7 +187,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-01-24**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia et.al.|[2201.09862v1](http://arxiv.org/abs/2201.09862v1)|null|
+|**2022-01-24**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia et.al.|[2201.09862v1](http://arxiv.org/abs/2201.09862v1)|**[link](https://github.com/amazon-research/multimodal-neuralslam)**|
 |**2022-01-24**|**MMLatch: Bottom-up Top-down Fusion for Multimodal Sentiment Analysis**|Georgios Paraskevopoulos et.al.|[2201.09828v1](http://arxiv.org/abs/2201.09828v1)|null|
 |**2022-01-24**|**Towards a Real-time Measure of the Perception of Anthropomorphism in Human-robot Interaction**|Maria Tsfasman et.al.|[2201.09595v1](http://arxiv.org/abs/2201.09595v1)|null|
 |**2022-01-24**|**A Knowledge Graph Embeddings based Approach for Author Name Disambiguation using Literals**|Cristian Santini et.al.|[2201.09555v1](http://arxiv.org/abs/2201.09555v1)|**[link](https://github.com/sntcristian/and-kge)**|
@@ -329,7 +329,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-01-24**|**Learning Graph Augmentations to Learn Graph Representations**|Kaveh Hassani et.al.|[2201.09830v1](http://arxiv.org/abs/2201.09830v1)|null|
-|**2022-01-24**|**EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients**|Yassir Bendou et.al.|[2201.09699v1](http://arxiv.org/abs/2201.09699v1)|null|
+|**2022-01-24**|**EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients**|Yassir Bendou et.al.|[2201.09699v1](http://arxiv.org/abs/2201.09699v1)|**[link](https://github.com/ybendou/easy)**|
 |**2022-01-24**|**Unsupervised Audio Source Separation Using Differentiable Parametric Source Models**|Kilian Schulze-Forster et.al.|[2201.09592v1](http://arxiv.org/abs/2201.09592v1)|**[link](https://github.com/schufo/umss)**|
 |**2022-01-24**|**Cobol2Vec: Learning Representations of Cobol code**|Ankit Kulshrestha et.al.|[2201.09448v1](http://arxiv.org/abs/2201.09448v1)|null|
 |**2022-01-24**|**Cross-Domain Document Layout Analysis via Unsupervised Document Style Guide**|Xingjiao Wu et.al.|[2201.09407v1](http://arxiv.org/abs/2201.09407v1)|null|
@@ -346,7 +346,7 @@
 |**2022-01-22**|**FedMed-GAN: Federated Multi-Modal Unsupervised Brain Image Synthesis**|Guoyang Xie et.al.|[2201.08953v1](http://arxiv.org/abs/2201.08953v1)|null|
 |**2022-01-22**|**Visual Representation Learning with Self-Supervised Attention for Low-Label High-data Regime**|Prarthana Bhattacharyya et.al.|[2201.08951v1](http://arxiv.org/abs/2201.08951v1)|**[link](https://github.com/AutoVision-cloud/SSL-ViT-lowlabel-highdata)**|
 |**2022-01-21**|**Description-Driven Task-Oriented Dialog Modeling**|Jeffrey Zhao et.al.|[2201.08904v1](http://arxiv.org/abs/2201.08904v1)|null|
-|**2022-01-21**|**Environment Generation for Zero-Shot Compositional Reinforcement Learning**|Izzeddin Gur et.al.|[2201.08896v1](http://arxiv.org/abs/2201.08896v1)|null|
+|**2022-01-21**|**Environment Generation for Zero-Shot Compositional Reinforcement Learning**|Izzeddin Gur et.al.|[2201.08896v1](http://arxiv.org/abs/2201.08896v1)|**[link](https://github.com/google-research/google-research)**|
 |**2022-01-21**|**Structural properties and classification of variable stars: A study through unsupervised machine learning techniques**|Suman Paul et.al.|[2201.08755v1](http://arxiv.org/abs/2201.08755v1)|null|
 |**2022-01-21**|**Dual Contrastive Learning: Text Classification via Label-Aware Data Augmentation**|Qianben Chen et.al.|[2201.08702v1](http://arxiv.org/abs/2201.08702v1)|**[link](https://github.com/hiyouga/dual-contrastive-learning)**|
 |**2022-01-21**|**Distance-Ratio-Based Formulation for Metric Learning**|Hyeongji Kim et.al.|[2201.08676v1](http://arxiv.org/abs/2201.08676v1)|**[link](https://github.com/hjk92g/dr_formulation_ml)**|
