@@ -422,7 +422,7 @@ layout: default
 |**2022-01-18**|**Knowledge Sharing via Domain Adaptation in Customs Fraud Detection**|Sungwon Park et.al.|[2201.06759v1](http://arxiv.org/abs/2201.06759v1)|null|
 |**2022-01-17**|**BDA-SketRet: Bi-Level Domain Adaptation for Zero-Shot SBIR**|Ushasi Chaudhuri et.al.|[2201.06570v1](http://arxiv.org/abs/2201.06570v1)|null|
 |**2022-01-16**|**Robust Scatterer Number Density Segmentation of Ultrasound Images**|Ali K. Z. Tehrani et.al.|[2201.06143v1](http://arxiv.org/abs/2201.06143v1)|null|
-|**2022-01-16**|**GearNet: Stepwise Dual Learning for Weakly Supervised Domain Adaptation**|Renchunzi Xie et.al.|[2201.06001v1](http://arxiv.org/abs/2201.06001v1)|**[link](https://github.com/Renchunzi-Xie/GearNet)**|
+|**2022-01-16**|**GearNet: Stepwise Dual Learning for Weakly Supervised Domain Adaptation**|Renchunzi Xie et.al.|[2201.06001v2](http://arxiv.org/abs/2201.06001v2)|**[link](https://github.com/Renchunzi-Xie/GearNet)**|
 |**2022-01-16**|**Multi-Sparse-Domain Collaborative Recommendation via Enhanced Comprehensive Aspect Preference Learning**|Xiaoyun Zhao et.al.|[2201.05973v1](http://arxiv.org/abs/2201.05973v1)|null|
 |**2022-01-15**|**Domain Adaptation via Bidirectional Cross-Attention Transformer**|Xiyu Wang et.al.|[2201.05887v1](http://arxiv.org/abs/2201.05887v1)|null|
 |**2022-01-15**|**Transferability in Deep Learning: A Survey**|Junguang Jiang et.al.|[2201.05867v1](http://arxiv.org/abs/2201.05867v1)|**[link](https://github.com/thuml/Transfer-Learning-Library)**|
@@ -726,7 +726,7 @@ layout: default
 |**2022-01-23**|**Generative Adversarial Network Applications in Creating a Meta-Universe**|Soheyla Amirian et.al.|[2201.09152v1](http://arxiv.org/abs/2201.09152v1)|null|
 |**2022-01-22**|**Investigating the Potential of Auxiliary-Classifier GANs for Image Classification in Low Data Regimes**|Amil Dravid et.al.|[2201.09120v1](http://arxiv.org/abs/2201.09120v1)|null|
 |**2022-01-22**|**FedMed-GAN: Federated Multi-Modal Unsupervised Brain Image Synthesis**|Guoyang Xie et.al.|[2201.08953v1](http://arxiv.org/abs/2201.08953v1)|null|
-|**2022-01-22**|**DCNGAN: A Deformable Convolutional-Based GAN with QP Adaptation for Perceptual Quality Enhancement of Compressed Video**|Saiping Zhang et.al.|[2201.08944v1](http://arxiv.org/abs/2201.08944v1)|null|
+|**2022-01-22**|**DCNGAN: A Deformable Convolutional-Based GAN with QP Adaptation for Perceptual Quality Enhancement of Compressed Video**|Saiping Zhang et.al.|[2201.08944v2](http://arxiv.org/abs/2201.08944v2)|null|
 |**2022-01-22**|**Adaptive DropBlock Enhanced Generative Adversarial Networks for Hyperspectral Image Classification**|Junjie Wang et.al.|[2201.08938v1](http://arxiv.org/abs/2201.08938v1)|**[link](https://github.com/summitgao/hc_adgan)**|
 |**2022-01-21**|**Evaluating Generalization in Classical and Quantum Generative Models**|Kaitlin Gili et.al.|[2201.08770v1](http://arxiv.org/abs/2201.08770v1)|null|
 |**2022-01-20**|**Stitch it in Time: GAN-Based Facial Editing of Real Videos**|Rotem Tzaban et.al.|[2201.08361v2](http://arxiv.org/abs/2201.08361v2)|**[link](https://github.com/rotemtzaban/STIT)**|
