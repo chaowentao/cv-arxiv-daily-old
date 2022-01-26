@@ -80,6 +80,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-25**|**Convolutional Xformers for Vision**|Pranav Jeevan et.al.|[2201.10271v1](http://arxiv.org/abs/2201.10271v1)|**[link](https://github.com/pranavphoenix/cxv)**|
+|**2022-01-25**|**DocEnTr: An End-to-End Document Image Enhancement Transformer**|Mohamed Ali Souibgui et.al.|[2201.10252v1](http://arxiv.org/abs/2201.10252v1)|null|
+|**2022-01-25**|**ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals**|Mansooreh Montazerin et.al.|[2201.10060v1](http://arxiv.org/abs/2201.10060v1)|null|
 |**2022-01-24**|**Patches Are All You Need?**|Asher Trockman et.al.|[2201.09792v1](http://arxiv.org/abs/2201.09792v1)|**[link](https://github.com/locuslab/convmixer)**|
 |**2022-01-24**|**UniFormer: Unifying Convolution and Self-attention for Visual Recognition**|Kunchang Li et.al.|[2201.09450v1](http://arxiv.org/abs/2201.09450v1)|**[link](https://github.com/sense-x/uniformer)**|
 |**2022-01-24**|**Improving Chest X-Ray Report Generation by Leveraging Warm-Starting**|Aaron Nicolson et.al.|[2201.09405v1](http://arxiv.org/abs/2201.09405v1)|**[link](https://github.com/aehrc/cvt2distilgpt2)**|
@@ -187,6 +190,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-25**|**Mutual information neural estimation for unsupervised multi-modal registration of brain images**|Gerard Snaauw et.al.|[2201.10305v1](http://arxiv.org/abs/2201.10305v1)|null|
+|**2022-01-25**|**Multi-channel Attentive Graph Convolutional Network With Sentiment Fusion For Multimodal Sentiment Analysis**|Luwei Xiao et.al.|[2201.10274v1](http://arxiv.org/abs/2201.10274v1)|null|
+|**2022-01-25**|**Two heads are better than one: Enhancing medical representations by pre-training over structured and unstructured electronic health records**|Sicen Liu et.al.|[2201.10113v1](http://arxiv.org/abs/2201.10113v1)|null|
+|**2022-01-25**|**LP-UIT: A Multimodal Framework for Link Prediction in Social Networks**|Huizi Wu et.al.|[2201.10108v1](http://arxiv.org/abs/2201.10108v1)|null|
 |**2022-01-24**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia et.al.|[2201.09862v1](http://arxiv.org/abs/2201.09862v1)|**[link](https://github.com/amazon-research/multimodal-neuralslam)**|
 |**2022-01-24**|**MMLatch: Bottom-up Top-down Fusion for Multimodal Sentiment Analysis**|Georgios Paraskevopoulos et.al.|[2201.09828v1](http://arxiv.org/abs/2201.09828v1)|null|
 |**2022-01-24**|**Towards a Real-time Measure of the Perception of Anthropomorphism in Human-robot Interaction**|Maria Tsfasman et.al.|[2201.09595v1](http://arxiv.org/abs/2201.09595v1)|null|
@@ -263,6 +270,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-25**|**Feature Diversity Learning with Sample Dropout for Unsupervised Domain Adaptive Person Re-identification**|Chunren Tang et.al.|[2201.10212v1](http://arxiv.org/abs/2201.10212v1)|null|
+|**2022-01-24**|**The Enforced Transfer: A Novel Domain Adaptation Algorithm**|Ye Gao et.al.|[2201.10001v1](http://arxiv.org/abs/2201.10001v1)|null|
 |**2022-01-20**|**Deep Attention-Based Supernovae Classification of Multi-Band Light-Curves**|Óscar Pimentel et.al.|[2201.08482v1](http://arxiv.org/abs/2201.08482v1)|null|
 |**2022-01-19**|**Superpixel Pre-Segmentation of HER2 Slides for Efficient Annotation**|Mathias Öttl et.al.|[2201.07572v1](http://arxiv.org/abs/2201.07572v1)|null|
 |**2022-01-18**|**A Privacy-Preserving Unsupervised Domain Adaptation Framework for Clinical Text Analysis**|Qiyuan An et.al.|[2201.07317v1](http://arxiv.org/abs/2201.07317v1)|null|
@@ -328,6 +337,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-25**|**Zero-Shot Long-Form Voice Cloning with Dynamic Convolution Attention**|Artem Gorodetskii et.al.|[2201.10375v1](http://arxiv.org/abs/2201.10375v1)|null|
+|**2022-01-25**|**Little Help Makes a Big Difference: Leveraging Active Learning to Improve Unsupervised Time Series Anomaly Detection**|Hamza Bodor et.al.|[2201.10323v1](http://arxiv.org/abs/2201.10323v1)|null|
+|**2022-01-25**|**Using unsupervised machine learning to quantify physical activity from accelerometry in a diverse and rapidly changing population**|Christopher B Thornton et.al.|[2201.10322v1](http://arxiv.org/abs/2201.10322v1)|null|
+|**2022-01-25**|**Mutual information neural estimation for unsupervised multi-modal registration of brain images**|Gerard Snaauw et.al.|[2201.10305v1](http://arxiv.org/abs/2201.10305v1)|null|
+|**2022-01-25**|**Feature Diversity Learning with Sample Dropout for Unsupervised Domain Adaptive Person Re-identification**|Chunren Tang et.al.|[2201.10212v1](http://arxiv.org/abs/2201.10212v1)|null|
+|**2022-01-25**|**Universal Generative Modeling for Calibration-free Parallel Mr Imaging**|Wanqing Zhu et.al.|[2201.10210v1](http://arxiv.org/abs/2201.10210v1)|null|
+|**2022-01-25**|**Zero-Shot Sketch Based Image Retrieval using Graph Transformer**|Sumrit Gupta et.al.|[2201.10185v1](http://arxiv.org/abs/2201.10185v1)|null|
+|**2022-01-25**|**Unsupervised Image Fusion Method based on Feature Mutual Mapping**|Dongyu Rao et.al.|[2201.10152v1](http://arxiv.org/abs/2201.10152v1)|null|
+|**2022-01-25**|**MonLAD: Money Laundering Agents Detection in Transaction Streams**|Xiaobing Sun et.al.|[2201.10051v1](http://arxiv.org/abs/2201.10051v1)|null|
+|**2022-01-25**|**Self-supervised Point Cloud Registration with Deep Versatile Descriptors**|Dongrui Liu et.al.|[2201.10034v1](http://arxiv.org/abs/2201.10034v1)|null|
+|**2022-01-24**|**Text and Code Embeddings by Contrastive Pre-Training**|Arvind Neelakantan et.al.|[2201.10005v1](http://arxiv.org/abs/2201.10005v1)|null|
+|**2022-01-24**|**DRAWNAPART: A Device Identification Technique based on Remote GPU Fingerprinting**|Tomer Laor et.al.|[2201.09956v1](http://arxiv.org/abs/2201.09956v1)|null|
 |**2022-01-24**|**Learning Graph Augmentations to Learn Graph Representations**|Kaveh Hassani et.al.|[2201.09830v1](http://arxiv.org/abs/2201.09830v1)|null|
 |**2022-01-24**|**EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients**|Yassir Bendou et.al.|[2201.09699v1](http://arxiv.org/abs/2201.09699v1)|**[link](https://github.com/ybendou/easy)**|
 |**2022-01-24**|**Unsupervised Audio Source Separation Using Differentiable Parametric Source Models**|Kilian Schulze-Forster et.al.|[2201.09592v1](http://arxiv.org/abs/2201.09592v1)|**[link](https://github.com/schufo/umss)**|
@@ -564,6 +585,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-25**|**GIU-GANs: Global Information Utilization for Generative Adversarial Networks**|Yongqi Tian et.al.|[2201.10471v1](http://arxiv.org/abs/2201.10471v1)|null|
+|**2022-01-25**|**Rayleigh EigenDirections (REDs): GAN latent space traversals for multidimensional features**|Guha Balakrishnan et.al.|[2201.10423v1](http://arxiv.org/abs/2201.10423v1)|null|
+|**2022-01-25**|**Addressing the Intra-class Mode Collapse Problem using Adaptive Input Image Normalization in GAN-based X-ray Images**|Muhammad Muneeb Saad et.al.|[2201.10324v1](http://arxiv.org/abs/2201.10324v1)|null|
+|**2022-01-25**|**Search for the decay $B^0\toφμ^+μ^-$**|LHCb collaboration et.al.|[2201.10167v1](http://arxiv.org/abs/2201.10167v1)|null|
+|**2022-01-25**|**Improving Adversarial Waveform Generation based Singing Voice Conversion with Harmonic Signals**|Haohan Guo et.al.|[2201.10130v1](http://arxiv.org/abs/2201.10130v1)|null|
+|**2022-01-24**|**Attacks and Defenses for Free-Riders in Multi-Discriminator GAN**|Zilong Zhao et.al.|[2201.09967v1](http://arxiv.org/abs/2201.09967v1)|null|
 |**2022-01-24**|**RePaint: Inpainting using Denoising Diffusion Probabilistic Models**|Andreas Lugmayr et.al.|[2201.09865v1](http://arxiv.org/abs/2201.09865v1)|null|
 |**2022-01-24**|**Which Style Makes Me Attractive? Interpretable Control Discovery and Counterfactual Explanation on StyleGAN**|Bo Li et.al.|[2201.09689v1](http://arxiv.org/abs/2201.09689v1)|**[link](https://github.com/prclibo/ice)**|
 |**2022-01-24**|**Multiscale Generative Models: Improving Performance of a Generative Model Using Feedback from Other Dependent Generative Models**|Changyu Chen et.al.|[2201.09644v1](http://arxiv.org/abs/2201.09644v1)|**[link](https://github.com/cameron-chen/mgm)**|
