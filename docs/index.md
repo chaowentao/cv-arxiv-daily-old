@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.01.26
+## Updated on 2022.01.27
 
 ## SLAM
 
@@ -233,7 +233,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-01-25**|**Convolutional Xformers for Vision**|Pranav Jeevan et.al.|[2201.10271v1](http://arxiv.org/abs/2201.10271v1)|**[link](https://github.com/pranavphoenix/cxv)**|
-|**2022-01-25**|**DocEnTr: An End-to-End Document Image Enhancement Transformer**|Mohamed Ali Souibgui et.al.|[2201.10252v1](http://arxiv.org/abs/2201.10252v1)|null|
+|**2022-01-25**|**DocEnTr: An End-to-End Document Image Enhancement Transformer**|Mohamed Ali Souibgui et.al.|[2201.10252v1](http://arxiv.org/abs/2201.10252v1)|**[link](https://github.com/dali92002/docentr)**|
 |**2022-01-25**|**ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals**|Mansooreh Montazerin et.al.|[2201.10060v1](http://arxiv.org/abs/2201.10060v1)|null|
 |**2022-01-24**|**Patches Are All You Need?**|Asher Trockman et.al.|[2201.09792v1](http://arxiv.org/abs/2201.09792v1)|**[link](https://github.com/locuslab/convmixer)**|
 |**2022-01-24**|**UniFormer: Unifying Convolution and Self-attention for Visual Recognition**|Kunchang Li et.al.|[2201.09450v1](http://arxiv.org/abs/2201.09450v1)|**[link](https://github.com/sense-x/uniformer)**|
