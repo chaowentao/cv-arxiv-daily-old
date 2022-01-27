@@ -80,6 +80,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-26**|**When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism**|Guangting Wang et.al.|[2201.10801v1](http://arxiv.org/abs/2201.10801v1)|**[link](https://github.com/microsoft/SPACH)**|
+|**2022-01-26**|**Training Vision Transformers with Only 2040 Images**|Yun-Hao Cao et.al.|[2201.10728v1](http://arxiv.org/abs/2201.10728v1)|null|
 |**2022-01-25**|**Convolutional Xformers for Vision**|Pranav Jeevan et.al.|[2201.10271v1](http://arxiv.org/abs/2201.10271v1)|**[link](https://github.com/pranavphoenix/cxv)**|
 |**2022-01-25**|**DocEnTr: An End-to-End Document Image Enhancement Transformer**|Mohamed Ali Souibgui et.al.|[2201.10252v1](http://arxiv.org/abs/2201.10252v1)|**[link](https://github.com/dali92002/docentr)**|
 |**2022-01-25**|**ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals**|Mansooreh Montazerin et.al.|[2201.10060v1](http://arxiv.org/abs/2201.10060v1)|null|
@@ -190,6 +192,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-26**|**Self-attention fusion for audiovisual emotion recognition with incomplete data**|Kateryna Chumachenko et.al.|[2201.11095v1](http://arxiv.org/abs/2201.11095v1)|null|
+|**2022-01-26**|**Role of collective information in networks of quantum operating agents**|V. I. Yukalov et.al.|[2201.11008v1](http://arxiv.org/abs/2201.11008v1)|null|
+|**2022-01-26**|**Visualizing the diversity of representations learned by Bayesian neural networks**|Dennis Grinwald et.al.|[2201.10859v1](http://arxiv.org/abs/2201.10859v1)|null|
 |**2022-01-25**|**Mutual information neural estimation for unsupervised multi-modal registration of brain images**|Gerard Snaauw et.al.|[2201.10305v1](http://arxiv.org/abs/2201.10305v1)|null|
 |**2022-01-25**|**Multi-channel Attentive Graph Convolutional Network With Sentiment Fusion For Multimodal Sentiment Analysis**|Luwei Xiao et.al.|[2201.10274v1](http://arxiv.org/abs/2201.10274v1)|null|
 |**2022-01-25**|**Two heads are better than one: Enhancing medical representations by pre-training over structured and unstructured electronic health records**|Sicen Liu et.al.|[2201.10113v1](http://arxiv.org/abs/2201.10113v1)|null|
@@ -270,6 +275,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-25**|**Unsupervised Domain Adaptation for Vestibular Schwannoma and Cochlea Segmentation via Semi-supervised Learning and Label Fusion**|Han Liu et.al.|[2201.10647v1](http://arxiv.org/abs/2201.10647v1)|null|
 |**2022-01-25**|**Feature Diversity Learning with Sample Dropout for Unsupervised Domain Adaptive Person Re-identification**|Chunren Tang et.al.|[2201.10212v1](http://arxiv.org/abs/2201.10212v1)|null|
 |**2022-01-24**|**The Enforced Transfer: A Novel Domain Adaptation Algorithm**|Ye Gao et.al.|[2201.10001v1](http://arxiv.org/abs/2201.10001v1)|null|
 |**2022-01-20**|**Deep Attention-Based Supernovae Classification of Multi-Band Light-Curves**|Óscar Pimentel et.al.|[2201.08482v1](http://arxiv.org/abs/2201.08482v1)|null|
@@ -337,6 +343,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-26**|**One shot PACS: Patient specific Anatomic Context and Shape prior aware recurrent registration-segmentation of longitudinal thoracic cone beam CTs**|Jue Jiang et.al.|[2201.11000v1](http://arxiv.org/abs/2201.11000v1)|null|
+|**2022-01-26**|**How Robust are Discriminatively Trained Zero-Shot Learning Models?**|Mehmet Kerim Yucel et.al.|[2201.10972v1](http://arxiv.org/abs/2201.10972v1)|**[link](https://github.com/MKYucel/zero_shot_corruption_benchmarks)**|
+|**2022-01-26**|**CodeRetriever: Unimodal and Bimodal Contrastive Learning**|Xiaonan Li et.al.|[2201.10866v1](http://arxiv.org/abs/2201.10866v1)|null|
+|**2022-01-26**|**Learning Multiple Probabilistic Degradation Generators for Unsupervised Real World Image Super Resolution**|Sangyun Lee et.al.|[2201.10747v1](http://arxiv.org/abs/2201.10747v1)|null|
+|**2022-01-26**|**Anomaly Detection via Reverse Distillation from One-Class Embedding**|Hanqiu Deng et.al.|[2201.10703v1](http://arxiv.org/abs/2201.10703v1)|null|
+|**2022-01-25**|**Unsupervised Domain Adaptation for Vestibular Schwannoma and Cochlea Segmentation via Semi-supervised Learning and Label Fusion**|Han Liu et.al.|[2201.10647v1](http://arxiv.org/abs/2201.10647v1)|null|
+|**2022-01-25**|**DOM-LM: Learning Generalizable Representations for HTML Documents**|Xiang Deng et.al.|[2201.10608v1](http://arxiv.org/abs/2201.10608v1)|null|
+|**2022-01-25**|**DebtFree: Minimizing Labeling Cost in Self-Admitted Technical Debt Identification using Semi-Supervised Learning**|Huy Tu et.al.|[2201.10592v1](http://arxiv.org/abs/2201.10592v1)|null|
+|**2022-01-25**|**Convex Polytope Modelling for Unsupervised Derivation of Semantic Structure for Data-efficient Natural Language Understanding**|Jingyan Zhou et.al.|[2201.10588v1](http://arxiv.org/abs/2201.10588v1)|null|
+|**2022-01-25**|**Out-of-Domain Semantics to the Rescue! Zero-Shot Hybrid Retrieval Models**|Tao Chen et.al.|[2201.10582v1](http://arxiv.org/abs/2201.10582v1)|null|
 |**2022-01-25**|**Zero-Shot Long-Form Voice Cloning with Dynamic Convolution Attention**|Artem Gorodetskii et.al.|[2201.10375v2](http://arxiv.org/abs/2201.10375v2)|null|
 |**2022-01-25**|**Little Help Makes a Big Difference: Leveraging Active Learning to Improve Unsupervised Time Series Anomaly Detection**|Hamza Bodor et.al.|[2201.10323v1](http://arxiv.org/abs/2201.10323v1)|null|
 |**2022-01-25**|**Using unsupervised machine learning to quantify physical activity from accelerometry in a diverse and rapidly changing population**|Christopher B Thornton et.al.|[2201.10322v1](http://arxiv.org/abs/2201.10322v1)|null|
@@ -585,6 +601,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-26**|**Learning Multiple Probabilistic Degradation Generators for Unsupervised Real World Image Super Resolution**|Sangyun Lee et.al.|[2201.10747v1](http://arxiv.org/abs/2201.10747v1)|null|
+|**2022-01-26**|**Image Generation with Self Pixel-wise Normalization**|Yoon-Jae Yeo et.al.|[2201.10725v1](http://arxiv.org/abs/2201.10725v1)|null|
+|**2022-01-26**|**Sparsity Regularization For Cold-Start Recommendation**|Aksheshkumar Ajaykumar Shah et.al.|[2201.10711v1](http://arxiv.org/abs/2201.10711v1)|null|
 |**2022-01-25**|**GIU-GANs: Global Information Utilization for Generative Adversarial Networks**|Yongqi Tian et.al.|[2201.10471v1](http://arxiv.org/abs/2201.10471v1)|null|
 |**2022-01-25**|**Rayleigh EigenDirections (REDs): GAN latent space traversals for multidimensional features**|Guha Balakrishnan et.al.|[2201.10423v1](http://arxiv.org/abs/2201.10423v1)|null|
 |**2022-01-25**|**Addressing the Intra-class Mode Collapse Problem using Adaptive Input Image Normalization in GAN-based X-ray Images**|Muhammad Muneeb Saad et.al.|[2201.10324v1](http://arxiv.org/abs/2201.10324v1)|null|
