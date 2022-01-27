@@ -36,12 +36,12 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-01-24**|**Deep Decoding of $\ell_\infty$-coded Light Field Images**|Muhammad Umair Mukati et.al.|[2201.09834v1](http://arxiv.org/abs/2201.09834v1)|null|
-|**2022-01-17**|**Real-time computer-generated light field displays by pre-storing the invariable voxel-pixel mapping**|Quanzhen Wan et.al.|[2201.09658v1](http://arxiv.org/abs/2201.09658v1)|null|
+|**2022-01-17**|**Real-time computer-generated light field displays by pre-storing the invariable voxel-pixel mapping**|Quanzhen Wan et.al.|[2201.09658v2](http://arxiv.org/abs/2201.09658v2)|null|
 |**2022-01-23**|**Metasurface-dressed two-dimensional on-chip waveguide for free-space light field manipulation**|Yimin Ding et.al.|[2201.09347v1](http://arxiv.org/abs/2201.09347v1)|null|
 |**2022-01-22**|**Content-aware Warping for View Synthesis**|Mantang Guo et.al.|[2201.09023v1](http://arxiv.org/abs/2201.09023v1)|null|
 |**2022-01-21**|**Dynamical friction of black holes in ultralight dark matter**|Rodrigo Vicente et.al.|[2201.08854v1](http://arxiv.org/abs/2201.08854v1)|null|
 |**2022-01-21**|**Properties of electron lenses produced by ponderomotive potential with Bessel and Laguerre-Gaussian beams**|Yuuki Uesugi et.al.|[2201.08523v1](http://arxiv.org/abs/2201.08523v1)|null|
-|**2022-01-20**|**Real-time Rendering for Integral Imaging Light Field Displays Based on a Voxel-Pixel Lookup Table**|Quanzhen Wan et.al.|[2201.08266v1](http://arxiv.org/abs/2201.08266v1)|null|
+|**2022-01-20**|**Real-time Rendering for Integral Imaging Light Field Displays Based on a Voxel-Pixel Lookup Table**|Quanzhen Wan et.al.|[2201.08266v2](http://arxiv.org/abs/2201.08266v2)|null|
 |**2022-01-19**|**Reconfigurable optical logic operations through scattering media with wavefront shaping**|Zhipeng Yu et.al.|[2201.07432v1](http://arxiv.org/abs/2201.07432v1)|null|
 |**2022-01-17**|**Topological photonic crystals: physics, designs and applications**|Guo-Jing Tang et.al.|[2201.06294v1](http://arxiv.org/abs/2201.06294v1)|null|
 |**2022-01-11**|**Static-field ionization model of He-like ions for diagnostics of light field intensity**|Erik Lötstedt et.al.|[2201.03840v1](http://arxiv.org/abs/2201.03840v1)|null|
@@ -337,7 +337,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-01-25**|**Zero-Shot Long-Form Voice Cloning with Dynamic Convolution Attention**|Artem Gorodetskii et.al.|[2201.10375v1](http://arxiv.org/abs/2201.10375v1)|null|
+|**2022-01-25**|**Zero-Shot Long-Form Voice Cloning with Dynamic Convolution Attention**|Artem Gorodetskii et.al.|[2201.10375v2](http://arxiv.org/abs/2201.10375v2)|null|
 |**2022-01-25**|**Little Help Makes a Big Difference: Leveraging Active Learning to Improve Unsupervised Time Series Anomaly Detection**|Hamza Bodor et.al.|[2201.10323v1](http://arxiv.org/abs/2201.10323v1)|null|
 |**2022-01-25**|**Using unsupervised machine learning to quantify physical activity from accelerometry in a diverse and rapidly changing population**|Christopher B Thornton et.al.|[2201.10322v1](http://arxiv.org/abs/2201.10322v1)|null|
 |**2022-01-25**|**Mutual information neural estimation for unsupervised multi-modal registration of brain images**|Gerard Snaauw et.al.|[2201.10305v1](http://arxiv.org/abs/2201.10305v1)|null|
