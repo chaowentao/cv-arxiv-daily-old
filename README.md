@@ -80,6 +80,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-27**|**Vision Checklist: Towards Testable Error Analysis of Image Models to Help System Designers Interrogate Model Capabilities**|Xin Du et.al.|[2201.11674v1](http://arxiv.org/abs/2201.11674v1)|null|
 |**2022-01-26**|**When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism**|Guangting Wang et.al.|[2201.10801v1](http://arxiv.org/abs/2201.10801v1)|**[link](https://github.com/microsoft/SPACH)**|
 |**2022-01-26**|**Training Vision Transformers with Only 2040 Images**|Yun-Hao Cao et.al.|[2201.10728v1](http://arxiv.org/abs/2201.10728v1)|null|
 |**2022-01-25**|**Convolutional Xformers for Vision**|Pranav Jeevan et.al.|[2201.10271v1](http://arxiv.org/abs/2201.10271v1)|**[link](https://github.com/pranavphoenix/cxv)**|
@@ -192,6 +193,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-27**|**IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages**|Emanuele Bugliarello et.al.|[2201.11732v1](http://arxiv.org/abs/2201.11732v1)|null|
+|**2022-01-27**|**Parallel black-box optimization of expensive high-dimensional multimodal functions via magnitude**|Steve Huntsman et.al.|[2201.11677v1](http://arxiv.org/abs/2201.11677v1)|null|
+|**2022-01-26**|**Team Yao at Factify 2022: Utilizing Pre-trained Models and Co-attention Networks for Multi-Modal Fact Verification**|Wei-Yao Wang et.al.|[2201.11664v1](http://arxiv.org/abs/2201.11664v1)|**[link](https://github.com/wywywang/multi-modal-fact-verification-2021)**|
+|**2022-01-27**|**Deep Video Prior for Video Consistency and Propagation**|Chenyang Lei et.al.|[2201.11632v1](http://arxiv.org/abs/2201.11632v1)|**[link](https://github.com/ChenyangLEI/deep-video-prior)**|
+|**2022-01-27**|**On the Role of Multi-Objective Optimization to the Transit Network Design Problem**|Vasco D. Silva et.al.|[2201.11616v1](http://arxiv.org/abs/2201.11616v1)|null|
+|**2022-01-27**|**A thermodynamic description of the near- and far-field intensity patterns emerging from multimode nonlinear waveguide arrays**|Mahmoud A. Selim et.al.|[2201.11559v1](http://arxiv.org/abs/2201.11559v1)|null|
+|**2022-01-27**|**Enabling Radio Sensing for Multimodal Intelligent Transportation Systems: From Virtual Testing to Immersive Testbeds**|Paul Schwarzbach et.al.|[2201.11382v1](http://arxiv.org/abs/2201.11382v1)|null|
+|**2022-01-27**|**Entanglement-enhanced test proposal for local Lorentz-symmetry violation via spinor atoms**|Min Zhuang et.al.|[2201.11366v1](http://arxiv.org/abs/2201.11366v1)|null|
+|**2022-01-26**|**Artificial Emotional Intelligence in Socially Assistive Robots for Older Adults: A Pilot Study**|Hojjat Abdollahi et.al.|[2201.11167v1](http://arxiv.org/abs/2201.11167v1)|null|
 |**2022-01-26**|**Self-attention fusion for audiovisual emotion recognition with incomplete data**|Kateryna Chumachenko et.al.|[2201.11095v1](http://arxiv.org/abs/2201.11095v1)|null|
 |**2022-01-26**|**Role of collective information in networks of quantum operating agents**|V. I. Yukalov et.al.|[2201.11008v1](http://arxiv.org/abs/2201.11008v1)|null|
 |**2022-01-26**|**Visualizing the diversity of representations learned by Bayesian neural networks**|Dennis Grinwald et.al.|[2201.10859v1](http://arxiv.org/abs/2201.10859v1)|null|
@@ -275,6 +285,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-27**|**ResiDualGAN: Resize-Residual DualGAN for Cross-Domain Remote Sensing Images Semantic Segmentation**|Yang Zhao et.al.|[2201.11523v1](http://arxiv.org/abs/2201.11523v1)|null|
+|**2022-01-27**|**Controlling Directions Orthogonal to a Classifier**|Yilun Xu et.al.|[2201.11259v1](http://arxiv.org/abs/2201.11259v1)|**[link](https://github.com/newbeeer/orthogonal_classifier)**|
 |**2022-01-25**|**Unsupervised Domain Adaptation for Vestibular Schwannoma and Cochlea Segmentation via Semi-supervised Learning and Label Fusion**|Han Liu et.al.|[2201.10647v1](http://arxiv.org/abs/2201.10647v1)|null|
 |**2022-01-25**|**Feature Diversity Learning with Sample Dropout for Unsupervised Domain Adaptive Person Re-identification**|Chunren Tang et.al.|[2201.10212v1](http://arxiv.org/abs/2201.10212v1)|null|
 |**2022-01-24**|**The Enforced Transfer: A Novel Domain Adaptation Algorithm**|Ye Gao et.al.|[2201.10001v1](http://arxiv.org/abs/2201.10001v1)|null|
@@ -343,6 +355,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-27**|**Ranking Info Noise Contrastive Estimation: Boosting Contrastive Learning via Ranked Positives**|David T. Hoffmann et.al.|[2201.11736v1](http://arxiv.org/abs/2201.11736v1)|null|
+|**2022-01-27**|**IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages**|Emanuele Bugliarello et.al.|[2201.11732v1](http://arxiv.org/abs/2201.11732v1)|null|
+|**2022-01-27**|**Superconductivity in black phosphorus and the role of dynamical screening**|Viktor Christiansson et.al.|[2201.11686v1](http://arxiv.org/abs/2201.11686v1)|null|
+|**2022-01-27**|**Unsupervised Change Detection using DRE-CUSUM**|Sudarshan Adiga et.al.|[2201.11678v1](http://arxiv.org/abs/2201.11678v1)|null|
+|**2022-01-27**|**Grad2Task: Improved Few-shot Text Classification Using Gradients for Task Representation**|Jixuan Wang et.al.|[2201.11576v1](http://arxiv.org/abs/2201.11576v1)|**[link](https://github.com/jixuan-wang/grad2task)**|
+|**2022-01-27**|**ResiDualGAN: Resize-Residual DualGAN for Cross-Domain Remote Sensing Images Semantic Segmentation**|Yang Zhao et.al.|[2201.11523v1](http://arxiv.org/abs/2201.11523v1)|null|
+|**2022-01-27**|**Anomaly Detection in Retinal Images using Multi-Scale Deep Feature Sparse Coding**|Sourya Dipta Das et.al.|[2201.11506v1](http://arxiv.org/abs/2201.11506v1)|null|
+|**2022-01-27**|**Edge effects in radial porosity profiles from CT measurements and melt pool signal intensities for laser powder bed fusion**|Jorrit Voigt et.al.|[2201.11483v1](http://arxiv.org/abs/2201.11483v1)|null|
+|**2022-01-27**|**Multiple-antenna Placement Delivery Array for Cache-aided MISO Systems**|Ting Yang et.al.|[2201.11462v1](http://arxiv.org/abs/2201.11462v1)|null|
+|**2022-01-27**|**Pan More Gold from the Sand: Refining Open-domain Dialogue Training with Noisy Self-Retrieval Generation**|Yihe Wang et.al.|[2201.11367v1](http://arxiv.org/abs/2201.11367v1)|null|
+|**2022-01-27**|**Few-shot Transfer Learning for Holographic Image Reconstruction using a Recurrent Neural Network**|Luzhe Huang et.al.|[2201.11333v1](http://arxiv.org/abs/2201.11333v1)|null|
+|**2022-01-27**|**Ontology-enhanced Prompt-tuning for Few-shot Learning**|Hongbin Ye et.al.|[2201.11332v1](http://arxiv.org/abs/2201.11332v1)|null|
+|**2022-01-27**|**Learning How to Translate North Korean through South Korean**|Hwichan Kim et.al.|[2201.11258v1](http://arxiv.org/abs/2201.11258v1)|null|
+|**2022-01-26**|**Synchromesh: Reliable code generation from pre-trained language models**|Gabriel Poesia et.al.|[2201.11227v1](http://arxiv.org/abs/2201.11227v1)|null|
+|**2022-01-26**|**DNNFuser: Generative Pre-Trained Transformer as a Generalized Mapper for Layer Fusion in DNN Accelerators**|Sheng-Chun Kao et.al.|[2201.11218v1](http://arxiv.org/abs/2201.11218v1)|null|
+|**2022-01-26**|**Discovering Phonetic Inventories with Crosslingual Automatic Speech Recognition**|Piotr Żelasko et.al.|[2201.11207v1](http://arxiv.org/abs/2201.11207v1)|null|
+|**2022-01-26**|**AI-Aided Mapping of the Structure-Composition-Conductivity Relationships of Glass-Ceramic Lithium Thiophosphate Electrolytes**|Haoyue Guo et.al.|[2201.11203v1](http://arxiv.org/abs/2201.11203v1)|null|
+|**2022-01-26**|**Tackling data scarcity in speech translation using zero-shot multilingual machine translation techniques**|Tu Anh Dinh et.al.|[2201.11172v1](http://arxiv.org/abs/2201.11172v1)|**[link](https://github.com/tuanh23/multimodalst)**|
+|**2022-01-26**|**Constant-time one-shot testing of large-scale graph states**|Hayata Yamasaki et.al.|[2201.11127v1](http://arxiv.org/abs/2201.11127v1)|null|
 |**2022-01-26**|**One shot PACS: Patient specific Anatomic Context and Shape prior aware recurrent registration-segmentation of longitudinal thoracic cone beam CTs**|Jue Jiang et.al.|[2201.11000v1](http://arxiv.org/abs/2201.11000v1)|null|
 |**2022-01-26**|**How Robust are Discriminatively Trained Zero-Shot Learning Models?**|Mehmet Kerim Yucel et.al.|[2201.10972v2](http://arxiv.org/abs/2201.10972v2)|**[link](https://github.com/MKYucel/zero_shot_corruption_benchmarks)**|
 |**2022-01-26**|**CodeRetriever: Unimodal and Bimodal Contrastive Learning**|Xiaonan Li et.al.|[2201.10866v1](http://arxiv.org/abs/2201.10866v1)|null|
@@ -601,6 +632,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-27**|**Generative Adversarial Exploration for Reinforcement Learning**|Weijun Hong et.al.|[2201.11685v1](http://arxiv.org/abs/2201.11685v1)|null|
+|**2022-01-27**|**FinGAN: Generative Adversarial Network for Analytical Customer Relationship Management in Banking and Insurance**|Prateek Kate et.al.|[2201.11486v1](http://arxiv.org/abs/2201.11486v1)|null|
+|**2022-01-27**|**Effective Shortcut Technique for GAN**|Seung Park et.al.|[2201.11351v1](http://arxiv.org/abs/2201.11351v1)|null|
+|**2022-01-26**|**Generative Trees: Adversarial and Copycat**|Richard Nock et.al.|[2201.11205v1](http://arxiv.org/abs/2201.11205v1)|null|
 |**2022-01-26**|**Learning Multiple Probabilistic Degradation Generators for Unsupervised Real World Image Super Resolution**|Sangyun Lee et.al.|[2201.10747v1](http://arxiv.org/abs/2201.10747v1)|null|
 |**2022-01-26**|**Image Generation with Self Pixel-wise Normalization**|Yoon-Jae Yeo et.al.|[2201.10725v1](http://arxiv.org/abs/2201.10725v1)|null|
 |**2022-01-26**|**Sparsity Regularization For Cold-Start Recommendation**|Aksheshkumar Ajaykumar Shah et.al.|[2201.10711v2](http://arxiv.org/abs/2201.10711v2)|null|
