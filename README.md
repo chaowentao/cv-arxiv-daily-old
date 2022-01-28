@@ -344,7 +344,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-01-26**|**One shot PACS: Patient specific Anatomic Context and Shape prior aware recurrent registration-segmentation of longitudinal thoracic cone beam CTs**|Jue Jiang et.al.|[2201.11000v1](http://arxiv.org/abs/2201.11000v1)|null|
-|**2022-01-26**|**How Robust are Discriminatively Trained Zero-Shot Learning Models?**|Mehmet Kerim Yucel et.al.|[2201.10972v1](http://arxiv.org/abs/2201.10972v1)|**[link](https://github.com/MKYucel/zero_shot_corruption_benchmarks)**|
+|**2022-01-26**|**How Robust are Discriminatively Trained Zero-Shot Learning Models?**|Mehmet Kerim Yucel et.al.|[2201.10972v2](http://arxiv.org/abs/2201.10972v2)|**[link](https://github.com/MKYucel/zero_shot_corruption_benchmarks)**|
 |**2022-01-26**|**CodeRetriever: Unimodal and Bimodal Contrastive Learning**|Xiaonan Li et.al.|[2201.10866v1](http://arxiv.org/abs/2201.10866v1)|null|
 |**2022-01-26**|**Learning Multiple Probabilistic Degradation Generators for Unsupervised Real World Image Super Resolution**|Sangyun Lee et.al.|[2201.10747v1](http://arxiv.org/abs/2201.10747v1)|null|
 |**2022-01-26**|**Anomaly Detection via Reverse Distillation from One-Class Embedding**|Hanqiu Deng et.al.|[2201.10703v1](http://arxiv.org/abs/2201.10703v1)|null|
@@ -603,7 +603,7 @@
 |---|---|---|---|---|
 |**2022-01-26**|**Learning Multiple Probabilistic Degradation Generators for Unsupervised Real World Image Super Resolution**|Sangyun Lee et.al.|[2201.10747v1](http://arxiv.org/abs/2201.10747v1)|null|
 |**2022-01-26**|**Image Generation with Self Pixel-wise Normalization**|Yoon-Jae Yeo et.al.|[2201.10725v1](http://arxiv.org/abs/2201.10725v1)|null|
-|**2022-01-26**|**Sparsity Regularization For Cold-Start Recommendation**|Aksheshkumar Ajaykumar Shah et.al.|[2201.10711v1](http://arxiv.org/abs/2201.10711v1)|null|
+|**2022-01-26**|**Sparsity Regularization For Cold-Start Recommendation**|Aksheshkumar Ajaykumar Shah et.al.|[2201.10711v2](http://arxiv.org/abs/2201.10711v2)|null|
 |**2022-01-25**|**GIU-GANs: Global Information Utilization for Generative Adversarial Networks**|Yongqi Tian et.al.|[2201.10471v1](http://arxiv.org/abs/2201.10471v1)|null|
 |**2022-01-25**|**Rayleigh EigenDirections (REDs): GAN latent space traversals for multidimensional features**|Guha Balakrishnan et.al.|[2201.10423v1](http://arxiv.org/abs/2201.10423v1)|null|
 |**2022-01-25**|**Addressing the Intra-class Mode Collapse Problem using Adaptive Input Image Normalization in GAN-based X-ray Images**|Muhammad Muneeb Saad et.al.|[2201.10324v1](http://arxiv.org/abs/2201.10324v1)|null|
