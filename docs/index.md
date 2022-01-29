@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.01.28
+## Updated on 2022.01.29
 
 ## SLAM
 
@@ -507,7 +507,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-01-27**|**Ranking Info Noise Contrastive Estimation: Boosting Contrastive Learning via Ranked Positives**|David T. Hoffmann et.al.|[2201.11736v1](http://arxiv.org/abs/2201.11736v1)|null|
+|**2022-01-27**|**Ranking Info Noise Contrastive Estimation: Boosting Contrastive Learning via Ranked Positives**|David T. Hoffmann et.al.|[2201.11736v1](http://arxiv.org/abs/2201.11736v1)|**[link](https://github.com/boschresearch/rince)**|
 |**2022-01-27**|**IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages**|Emanuele Bugliarello et.al.|[2201.11732v1](http://arxiv.org/abs/2201.11732v1)|null|
 |**2022-01-27**|**Superconductivity in black phosphorus and the role of dynamical screening**|Viktor Christiansson et.al.|[2201.11686v1](http://arxiv.org/abs/2201.11686v1)|null|
 |**2022-01-27**|**Unsupervised Change Detection using DRE-CUSUM**|Sudarshan Adiga et.al.|[2201.11678v1](http://arxiv.org/abs/2201.11678v1)|null|
