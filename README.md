@@ -1,4 +1,4 @@
-## Updated on 2022.01.29
+## Updated on 2022.01.30
 
 ## Image Generation
 
@@ -91,7 +91,7 @@
 |**2022-01-24**|**Improving Chest X-Ray Report Generation by Leveraging Warm-Starting**|Aaron Nicolson et.al.|[2201.09405v1](http://arxiv.org/abs/2201.09405v1)|**[link](https://github.com/aehrc/cvt2distilgpt2)**|
 |**2022-01-22**|**Visual Representation Learning with Self-Supervised Attention for Low-Label High-data Regime**|Prarthana Bhattacharyya et.al.|[2201.08951v1](http://arxiv.org/abs/2201.08951v1)|**[link](https://github.com/AutoVision-cloud/SSL-ViT-lowlabel-highdata)**|
 |**2022-01-21**|**A Comprehensive Study of Vision Transformers on Dense Prediction Tasks**|Kishaan Jeeveswaran et.al.|[2201.08683v1](http://arxiv.org/abs/2201.08683v1)|null|
-|**2022-01-21**|**Fast Differentiable Matrix Square Root**|Yue Song et.al.|[2201.08663v1](http://arxiv.org/abs/2201.08663v1)|**[link](https://github.com/kingjamessong/fastdifferentiablematsqrt)**|
+|**2022-01-21**|**Fast Differentiable Matrix Square Root**|Yue Song et.al.|[2201.08663v1](http://arxiv.org/abs/2201.08663v1)|**[link](https://github.com/KingJamesSong/DifferentiableSVD)**|
 |**2022-01-20**|**MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition**|Chao-Yuan Wu et.al.|[2201.08383v1](http://arxiv.org/abs/2201.08383v1)|null|
 |**2022-01-20**|**TerViT: An Efficient Ternary Vision Transformer**|Sheng Xu et.al.|[2201.08050v2](http://arxiv.org/abs/2201.08050v2)|null|
 |**2022-01-19**|**Q-ViT: Fully Differentiable Quantization for Vision Transformer**|Zhexin Li et.al.|[2201.07703v1](http://arxiv.org/abs/2201.07703v1)|null|
