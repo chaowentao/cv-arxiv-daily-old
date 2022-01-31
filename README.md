@@ -80,7 +80,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-01-27**|**Vision Checklist: Towards Testable Error Analysis of Image Models to Help System Designers Interrogate Model Capabilities**|Xin Du et.al.|[2201.11674v1](http://arxiv.org/abs/2201.11674v1)|null|
+|**2022-01-27**|**Vision Checklist: Towards Testable Error Analysis of Image Models to Help System Designers Interrogate Model Capabilities**|Xin Du et.al.|[2201.11674v2](http://arxiv.org/abs/2201.11674v2)|null|
 |**2022-01-26**|**When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism**|Guangting Wang et.al.|[2201.10801v1](http://arxiv.org/abs/2201.10801v1)|**[link](https://github.com/microsoft/SPACH)**|
 |**2022-01-26**|**Training Vision Transformers with Only 2040 Images**|Yun-Hao Cao et.al.|[2201.10728v1](http://arxiv.org/abs/2201.10728v1)|null|
 |**2022-01-25**|**Convolutional Xformers for Vision**|Pranav Jeevan et.al.|[2201.10271v1](http://arxiv.org/abs/2201.10271v1)|**[link](https://github.com/pranavphoenix/cxv)**|
@@ -199,7 +199,7 @@
 |**2022-01-27**|**Deep Video Prior for Video Consistency and Propagation**|Chenyang Lei et.al.|[2201.11632v1](http://arxiv.org/abs/2201.11632v1)|**[link](https://github.com/ChenyangLEI/deep-video-prior)**|
 |**2022-01-27**|**On the Role of Multi-Objective Optimization to the Transit Network Design Problem**|Vasco D. Silva et.al.|[2201.11616v1](http://arxiv.org/abs/2201.11616v1)|null|
 |**2022-01-27**|**A thermodynamic description of the near- and far-field intensity patterns emerging from multimode nonlinear waveguide arrays**|Mahmoud A. Selim et.al.|[2201.11559v1](http://arxiv.org/abs/2201.11559v1)|null|
-|**2022-01-27**|**Enabling Radio Sensing for Multimodal Intelligent Transportation Systems: From Virtual Testing to Immersive Testbeds**|Paul Schwarzbach et.al.|[2201.11382v1](http://arxiv.org/abs/2201.11382v1)|null|
+|**2022-01-27**|**Enabling Radio Sensing for Multimodal Intelligent Transportation Systems: From Virtual Testing to Immersive Testbeds**|Paul Schwarzbach et.al.|[2201.11382v2](http://arxiv.org/abs/2201.11382v2)|null|
 |**2022-01-27**|**Entanglement-enhanced test proposal for local Lorentz-symmetry violation via spinor atoms**|Min Zhuang et.al.|[2201.11366v1](http://arxiv.org/abs/2201.11366v1)|null|
 |**2022-01-26**|**Artificial Emotional Intelligence in Socially Assistive Robots for Older Adults: A Pilot Study**|Hojjat Abdollahi et.al.|[2201.11167v1](http://arxiv.org/abs/2201.11167v1)|null|
 |**2022-01-26**|**Self-attention fusion for audiovisual emotion recognition with incomplete data**|Kateryna Chumachenko et.al.|[2201.11095v1](http://arxiv.org/abs/2201.11095v1)|null|
@@ -370,7 +370,7 @@
 |**2022-01-27**|**Learning How to Translate North Korean through South Korean**|Hwichan Kim et.al.|[2201.11258v1](http://arxiv.org/abs/2201.11258v1)|null|
 |**2022-01-26**|**Synchromesh: Reliable code generation from pre-trained language models**|Gabriel Poesia et.al.|[2201.11227v1](http://arxiv.org/abs/2201.11227v1)|null|
 |**2022-01-26**|**DNNFuser: Generative Pre-Trained Transformer as a Generalized Mapper for Layer Fusion in DNN Accelerators**|Sheng-Chun Kao et.al.|[2201.11218v1](http://arxiv.org/abs/2201.11218v1)|null|
-|**2022-01-26**|**Discovering Phonetic Inventories with Crosslingual Automatic Speech Recognition**|Piotr Żelasko et.al.|[2201.11207v1](http://arxiv.org/abs/2201.11207v1)|null|
+|**2022-01-26**|**Discovering Phonetic Inventories with Crosslingual Automatic Speech Recognition**|Piotr Żelasko et.al.|[2201.11207v2](http://arxiv.org/abs/2201.11207v2)|null|
 |**2022-01-26**|**AI-Aided Mapping of the Structure-Composition-Conductivity Relationships of Glass-Ceramic Lithium Thiophosphate Electrolytes**|Haoyue Guo et.al.|[2201.11203v1](http://arxiv.org/abs/2201.11203v1)|null|
 |**2022-01-26**|**Tackling data scarcity in speech translation using zero-shot multilingual machine translation techniques**|Tu Anh Dinh et.al.|[2201.11172v1](http://arxiv.org/abs/2201.11172v1)|**[link](https://github.com/tuanh23/multimodalst)**|
 |**2022-01-26**|**Constant-time one-shot testing of large-scale graph states**|Hayata Yamasaki et.al.|[2201.11127v1](http://arxiv.org/abs/2201.11127v1)|null|
@@ -638,7 +638,7 @@
 |**2022-01-26**|**Generative Trees: Adversarial and Copycat**|Richard Nock et.al.|[2201.11205v1](http://arxiv.org/abs/2201.11205v1)|null|
 |**2022-01-26**|**Learning Multiple Probabilistic Degradation Generators for Unsupervised Real World Image Super Resolution**|Sangyun Lee et.al.|[2201.10747v1](http://arxiv.org/abs/2201.10747v1)|null|
 |**2022-01-26**|**Image Generation with Self Pixel-wise Normalization**|Yoon-Jae Yeo et.al.|[2201.10725v1](http://arxiv.org/abs/2201.10725v1)|null|
-|**2022-01-26**|**Sparsity Regularization For Cold-Start Recommendation**|Aksheshkumar Ajaykumar Shah et.al.|[2201.10711v2](http://arxiv.org/abs/2201.10711v2)|null|
+|**2022-01-26**|**Sparsity Regularization For Cold-Start Recommendation**|Aksheshkumar Ajaykumar Shah et.al.|[2201.10711v3](http://arxiv.org/abs/2201.10711v3)|null|
 |**2022-01-25**|**GIU-GANs: Global Information Utilization for Generative Adversarial Networks**|Yongqi Tian et.al.|[2201.10471v1](http://arxiv.org/abs/2201.10471v1)|null|
 |**2022-01-25**|**Rayleigh EigenDirections (REDs): GAN latent space traversals for multidimensional features**|Guha Balakrishnan et.al.|[2201.10423v1](http://arxiv.org/abs/2201.10423v1)|null|
 |**2022-01-25**|**Addressing the Intra-class Mode Collapse Problem using Adaptive Input Image Normalization in GAN-based X-ray Images**|Muhammad Muneeb Saad et.al.|[2201.10324v1](http://arxiv.org/abs/2201.10324v1)|null|
