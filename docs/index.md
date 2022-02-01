@@ -235,7 +235,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-01-28**|**O-ViT: Orthogonal Vision Transformer**|Yanhong Fei et.al.|[2201.12133v1](http://arxiv.org/abs/2201.12133v1)|null|
 |**2022-01-28**|**DynaMixer: A Vision MLP Architecture with Dynamic Mixing**|Ziyu Wang et.al.|[2201.12083v1](http://arxiv.org/abs/2201.12083v1)|null|
-|**2022-01-27**|**Vision Checklist: Towards Testable Error Analysis of Image Models to Help System Designers Interrogate Model Capabilities**|Xin Du et.al.|[2201.11674v2](http://arxiv.org/abs/2201.11674v2)|null|
+|**2022-01-27**|**Vision Checklist: Towards Testable Error Analysis of Image Models to Help System Designers Interrogate Model Capabilities**|Xin Du et.al.|[2201.11674v3](http://arxiv.org/abs/2201.11674v3)|null|
 |**2022-01-26**|**When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism**|Guangting Wang et.al.|[2201.10801v1](http://arxiv.org/abs/2201.10801v1)|**[link](https://github.com/microsoft/SPACH)**|
 |**2022-01-26**|**Training Vision Transformers with Only 2040 Images**|Yun-Hao Cao et.al.|[2201.10728v1](http://arxiv.org/abs/2201.10728v1)|null|
 |**2022-01-25**|**Convolutional Xformers for Vision**|Pranav Jeevan et.al.|[2201.10271v1](http://arxiv.org/abs/2201.10271v1)|**[link](https://github.com/pranavphoenix/cxv)**|
@@ -244,7 +244,7 @@ layout: default
 |**2022-01-24**|**Patches Are All You Need?**|Asher Trockman et.al.|[2201.09792v1](http://arxiv.org/abs/2201.09792v1)|**[link](https://github.com/locuslab/convmixer)**|
 |**2022-01-24**|**UniFormer: Unifying Convolution and Self-attention for Visual Recognition**|Kunchang Li et.al.|[2201.09450v1](http://arxiv.org/abs/2201.09450v1)|null|
 |**2022-01-24**|**Improving Chest X-Ray Report Generation by Leveraging Warm-Starting**|Aaron Nicolson et.al.|[2201.09405v1](http://arxiv.org/abs/2201.09405v1)|**[link](https://github.com/aehrc/cvt2distilgpt2)**|
-|**2022-01-22**|**Visual Representation Learning with Self-Supervised Attention for Low-Label High-data Regime**|Prarthana Bhattacharyya et.al.|[2201.08951v1](http://arxiv.org/abs/2201.08951v1)|**[link](https://github.com/AutoVision-cloud/SSL-ViT-lowlabel-highdata)**|
+|**2022-01-22**|**Visual Representation Learning with Self-Supervised Attention for Low-Label High-data Regime**|Prarthana Bhattacharyya et.al.|[2201.08951v2](http://arxiv.org/abs/2201.08951v2)|**[link](https://github.com/AutoVision-cloud/SSL-ViT-lowlabel-highdata)**|
 |**2022-01-21**|**A Comprehensive Study of Vision Transformers on Dense Prediction Tasks**|Kishaan Jeeveswaran et.al.|[2201.08683v1](http://arxiv.org/abs/2201.08683v1)|null|
 |**2022-01-21**|**Fast Differentiable Matrix Square Root**|Yue Song et.al.|[2201.08663v1](http://arxiv.org/abs/2201.08663v1)|**[link](https://github.com/KingJamesSong/DifferentiableSVD)**|
 |**2022-01-20**|**MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition**|Chao-Yuan Wu et.al.|[2201.08383v1](http://arxiv.org/abs/2201.08383v1)|null|
@@ -516,14 +516,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-01-28**|**Adversarial Concept Erasure in Kernel Space**|Shauli Ravfogel et.al.|[2201.12191v1](http://arxiv.org/abs/2201.12191v1)|null|
-|**2022-01-28**|**Unsupervised Single-shot Depth Estimation using Perceptual Reconstruction**|Christoph Angermann et.al.|[2201.12170v1](http://arxiv.org/abs/2201.12170v1)|**[link](https://github.com/anger-man/unsupervised-depth-estimation)**|
-|**2022-01-28**|**Sampling Theorems for Learning from Incomplete Measurements**|Julián Tachella et.al.|[2201.12151v1](http://arxiv.org/abs/2201.12151v1)|null|
+|**2022-01-28**|**Unsupervised Single-shot Depth Estimation using Perceptual Reconstruction**|Christoph Angermann et.al.|[2201.12170v2](http://arxiv.org/abs/2201.12170v2)|**[link](https://github.com/anger-man/unsupervised-depth-estimation)**|
+|**2022-01-28**|**Sampling Theorems for Learning from Incomplete Measurements**|Julián Tachella et.al.|[2201.12151v2](http://arxiv.org/abs/2201.12151v2)|null|
 |**2022-01-28**|**Thermodynamic Criterion of Transmitting Classical Information**|Chung-Yun Hsieh et.al.|[2201.12110v1](http://arxiv.org/abs/2201.12110v1)|null|
 |**2022-01-28**|**PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings**|Qiyu Wu et.al.|[2201.12093v1](http://arxiv.org/abs/2201.12093v1)|null|
 |**2022-01-28**|**BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**|Junnan Li et.al.|[2201.12086v1](http://arxiv.org/abs/2201.12086v1)|**[link](https://github.com/salesforce/blip)**|
 |**2022-01-28**|**Unfolding a blurred image**|Kuldeep Purohit et.al.|[2201.12010v1](http://arxiv.org/abs/2201.12010v1)|null|
 |**2022-01-28**|**Hybrid Contrastive Learning with Cluster Ensemble for Unsupervised Person Re-identification**|He Sun et.al.|[2201.11995v1](http://arxiv.org/abs/2201.11995v1)|null|
-|**2022-01-28**|**Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model**|Shaden Smith et.al.|[2201.11990v1](http://arxiv.org/abs/2201.11990v1)|null|
+|**2022-01-28**|**Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model**|Shaden Smith et.al.|[2201.11990v2](http://arxiv.org/abs/2201.11990v2)|null|
 |**2022-01-28**|**Transfering Hierarchical Structure with Dual Meta Imitation Learning**|Chongkai Gao et.al.|[2201.11981v1](http://arxiv.org/abs/2201.11981v1)|null|
 |**2022-01-28**|**Shuffle Augmentation of Features from Unlabeled Data for Unsupervised Domain Adaptation**|Changwei Xu et.al.|[2201.11963v1](http://arxiv.org/abs/2201.11963v1)|null|
 |**2022-01-28**|**Multiple-Source Domain Adaptation via Coordinated Domain Encoders and Paired Classifiers**|Payam Karisani et.al.|[2201.11870v1](http://arxiv.org/abs/2201.11870v1)|null|
@@ -796,7 +796,7 @@ layout: default
 |**2021-12-10**|**CityNeRF: Building NeRF at City Scale**|Yuanbo Xiangli et.al.|[2112.05504v2](http://arxiv.org/abs/2112.05504v2)|null|
 |**2021-12-09**|**Neural Radiance Fields for Outdoor Scene Relighting**|Viktor Rudnev et.al.|[2112.05140v1](http://arxiv.org/abs/2112.05140v1)|null|
 |**2021-12-09**|**CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields**|Can Wang et.al.|[2112.05139v1](http://arxiv.org/abs/2112.05139v1)|null|
-|**2021-12-09**|**Learning Neural Implicit Functions as Object Representations for Robotic Manipulation**|Jung-Su Ha et.al.|[2112.04812v1](http://arxiv.org/abs/2112.04812v1)|null|
+|**2021-12-09**|**Deep Visual Constraints: Neural Implicit Models for Manipulation Planning from Visual Input**|Jung-Su Ha et.al.|[2112.04812v2](http://arxiv.org/abs/2112.04812v2)|null|
 |**2021-12-08**|**Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering**|Mingfei Chen et.al.|[2112.04312v1](http://arxiv.org/abs/2112.04312v1)|null|
 |**2021-12-07**|**Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields**|Dor Verbin et.al.|[2112.03907v1](http://arxiv.org/abs/2112.03907v1)|null|
 |**2021-12-07**|**CG-NeRF: Conditional Generative Neural Radiance Fields**|Kyungmin Jo et.al.|[2112.03517v1](http://arxiv.org/abs/2112.03517v1)|null|
