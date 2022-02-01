@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-31**|**Crowd-powered Face Manipulation Detection: Fusing Human Examiner Decisions**|Christian Rathgeb et.al.|[2201.13084v1](http://arxiv.org/abs/2201.13084v1)|null|
 |**2022-01-28**|**Psychophysical Evaluation of Human Performance in Detecting Digital Face Image Manipulations**|Robert Nichols et.al.|[2201.12084v1](http://arxiv.org/abs/2201.12084v1)|null|
 |**2022-01-24**|**Feature transforms for image data augmentation**|Loris Nanni et.al.|[2201.09700v1](http://arxiv.org/abs/2201.09700v1)|**[link](https://github.com/lorisnanni/feature-transforms-for-image-data-augmentation)**|
 |**2022-01-24**|**Which Style Makes Me Attractive? Interpretable Control Discovery and Counterfactual Explanation on StyleGAN**|Bo Li et.al.|[2201.09689v1](http://arxiv.org/abs/2201.09689v1)|**[link](https://github.com/prclibo/ice)**|
@@ -36,6 +37,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-29**|**Light field Rectification based on relative pose estimation**|Xiao Huo et.al.|[2201.12533v1](http://arxiv.org/abs/2201.12533v1)|null|
 |**2022-01-24**|**Deep Decoding of $\ell_\infty$-coded Light Field Images**|Muhammad Umair Mukati et.al.|[2201.09834v1](http://arxiv.org/abs/2201.09834v1)|null|
 |**2022-01-17**|**Real-time computer-generated light field displays by pre-storing the invariable voxel-pixel mapping**|Quanzhen Wan et.al.|[2201.09658v2](http://arxiv.org/abs/2201.09658v2)|null|
 |**2022-01-23**|**Metasurface-dressed two-dimensional on-chip waveguide for free-space light field manipulation**|Yimin Ding et.al.|[2201.09347v1](http://arxiv.org/abs/2201.09347v1)|null|
@@ -81,6 +83,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-31**|**Adversarial Masking for Self-Supervised Learning**|Yuge Shi et.al.|[2201.13100v1](http://arxiv.org/abs/2201.13100v1)|null|
+|**2022-01-31**|**BOAT: Bilateral Local Attention Vision Transformer**|Tan Yu et.al.|[2201.13027v1](http://arxiv.org/abs/2201.13027v1)|null|
+|**2022-01-31**|**Plug-In Inversion: Model-Agnostic Inversion for Vision with Data Augmentations**|Amin Ghiasi et.al.|[2201.12961v1](http://arxiv.org/abs/2201.12961v1)|**[link](https://github.com/youranonymousefriend/plugininversion)**|
+|**2022-01-30**|**Aggregating Global Features into Local Vision Transformer**|Krushi Patel et.al.|[2201.12903v1](http://arxiv.org/abs/2201.12903v1)|**[link](https://github.com/krushi1992/moa-transformer)**|
+|**2022-01-29**|**Fast Differentiable Matrix Square Root and Inverse Square Root**|Yue Song et.al.|[2201.12543v1](http://arxiv.org/abs/2201.12543v1)|**[link](https://github.com/kingjamessong/fastdifferentiablematsqrt)**|
 |**2022-01-28**|**O-ViT: Orthogonal Vision Transformer**|Yanhong Fei et.al.|[2201.12133v1](http://arxiv.org/abs/2201.12133v1)|null|
 |**2022-01-28**|**DynaMixer: A Vision MLP Architecture with Dynamic Mixing**|Ziyu Wang et.al.|[2201.12083v1](http://arxiv.org/abs/2201.12083v1)|null|
 |**2022-01-27**|**Vision Checklist: Towards Testable Error Analysis of Image Models to Help System Designers Interrogate Model Capabilities**|Xin Du et.al.|[2201.11674v3](http://arxiv.org/abs/2201.11674v3)|null|
@@ -196,10 +203,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-30**|**Multimodal Maximum Entropy Dynamic Games**|Oswin So et.al.|[2201.12925v1](http://arxiv.org/abs/2201.12925v1)|null|
+|**2022-01-30**|**A Dataset for Medical Instructional Video Classification and Question Answering**|Deepak Gupta et.al.|[2201.12888v1](http://arxiv.org/abs/2201.12888v1)|**[link](https://github.com/deepaknlp/medvidqacl)**|
+|**2022-01-29**|**Chaotic Diffusion of Dissipative Solitons: From Anti-Persistent Random Walk to Hidden Markov Models**|Tony Albers et.al.|[2201.12471v1](http://arxiv.org/abs/2201.12471v1)|null|
 |**2022-01-28**|**Encoding qubits in multimode grid states**|Baptiste Royer et.al.|[2201.12337v1](http://arxiv.org/abs/2201.12337v1)|null|
 |**2022-01-28**|**Regionalized optimization**|Grégoire Sergeant-Perthuis et.al.|[2201.11876v1](http://arxiv.org/abs/2201.11876v1)|null|
 |**2022-01-27**|**Pressure Eye: In-bed Contact Pressure Estimation via Contact-less Imaging**|Shuangjun Liu et.al.|[2201.11828v1](http://arxiv.org/abs/2201.11828v1)|**[link](https://github.com/ostadabbas/pressureeye)**|
-|**2022-01-27**|**IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages**|Emanuele Bugliarello et.al.|[2201.11732v1](http://arxiv.org/abs/2201.11732v1)|null|
+|**2022-01-27**|**IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages**|Emanuele Bugliarello et.al.|[2201.11732v1](http://arxiv.org/abs/2201.11732v1)|**[link](https://github.com/e-bug/iglue)**|
 |**2022-01-27**|**Parallel black-box optimization of expensive high-dimensional multimodal functions via magnitude**|Steve Huntsman et.al.|[2201.11677v1](http://arxiv.org/abs/2201.11677v1)|null|
 |**2022-01-26**|**Team Yao at Factify 2022: Utilizing Pre-trained Models and Co-attention Networks for Multi-Modal Fact Verification**|Wei-Yao Wang et.al.|[2201.11664v1](http://arxiv.org/abs/2201.11664v1)|**[link](https://github.com/wywywang/multi-modal-fact-verification-2021)**|
 |**2022-01-27**|**Deep Video Prior for Video Consistency and Propagation**|Chenyang Lei et.al.|[2201.11632v1](http://arxiv.org/abs/2201.11632v1)|**[link](https://github.com/ChenyangLEI/deep-video-prior)**|
@@ -291,6 +301,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-29**|**A Simple Information-Based Approach to Unsupervised Domain-Adaptive Aspect-Based Sentiment Analysis**|Xiang Chen et.al.|[2201.12549v1](http://arxiv.org/abs/2201.12549v1)|**[link](https://github.com/casparswift/da_mim)**|
+|**2022-01-28**|**Few-shot Unsupervised Domain Adaptation for Multi-modal Cardiac Image Segmentation**|Mingxuan Gu et.al.|[2201.12386v1](http://arxiv.org/abs/2201.12386v1)|null|
 |**2022-01-28**|**Shuffle Augmentation of Features from Unlabeled Data for Unsupervised Domain Adaptation**|Changwei Xu et.al.|[2201.11963v1](http://arxiv.org/abs/2201.11963v1)|null|
 |**2022-01-28**|**Multiple-Source Domain Adaptation via Coordinated Domain Encoders and Paired Classifiers**|Payam Karisani et.al.|[2201.11870v1](http://arxiv.org/abs/2201.11870v1)|null|
 |**2022-01-27**|**ResiDualGAN: Resize-Residual DualGAN for Cross-Domain Remote Sensing Images Semantic Segmentation**|Yang Zhao et.al.|[2201.11523v1](http://arxiv.org/abs/2201.11523v1)|null|
@@ -363,6 +375,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-31**|**Constrained Density Matching and Modeling for Cross-lingual Alignment of Contextualized Representations**|Wei Zhao et.al.|[2201.13429v1](http://arxiv.org/abs/2201.13429v1)|null|
+|**2022-01-31**|**Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning**|Denis Yarats et.al.|[2201.13425v1](http://arxiv.org/abs/2201.13425v1)|null|
+|**2022-01-31**|**Spectral image clustering on dual-energy CT scans using functional regression mixtures**|Segolene Brivet et.al.|[2201.13398v1](http://arxiv.org/abs/2201.13398v1)|**[link](https://github.com/segobrivet/dect_clustering)**|
+|**2022-01-31**|**Physics-informed neural networks for non-Newtonian fluid thermo-mechanical problems: an application to rubber calendering process**|Thi Nguyen Khoa Nguyen et.al.|[2201.13389v1](http://arxiv.org/abs/2201.13389v1)|null|
+|**2022-01-31**|**Compositional Multi-Object Reinforcement Learning with Linear Relation Networks**|Davide Mambelli et.al.|[2201.13388v1](http://arxiv.org/abs/2201.13388v1)|null|
+|**2022-01-31**|**Learning to Hash Naturally Sorts**|Yuming Shen et.al.|[2201.13322v1](http://arxiv.org/abs/2201.13322v1)|null|
+|**2022-01-31**|**StRegA: Unsupervised Anomaly Detection in Brain MRIs using a Compact Context-encoding Variational Autoencoder**|Soumick Chatterjee et.al.|[2201.13271v1](http://arxiv.org/abs/2201.13271v1)|null|
+|**2022-01-31**|**Compactness Score: A Fast Filter Method for Unsupervised Feature Selection**|Peican Zhu et.al.|[2201.13194v1](http://arxiv.org/abs/2201.13194v1)|null|
+|**2022-01-31**|**Few-Shot Backdoor Attacks on Visual Object Tracking**|Yiming Li et.al.|[2201.13178v1](http://arxiv.org/abs/2201.13178v1)|**[link](https://github.com/hxzhong1997/fsba)**|
+|**2022-01-31**|**Assessment of DeepONet for reliability analysis of stochastic nonlinear dynamical systems**|Shailesh Garg et.al.|[2201.13145v1](http://arxiv.org/abs/2201.13145v1)|null|
+|**2022-01-31**|**SPDY: Accurate Pruning with Speedup Guarantees**|Elias Frantar et.al.|[2201.13096v1](http://arxiv.org/abs/2201.13096v1)|null|
+|**2022-01-31**|**Unsupervised Anomaly Detection in 3D Brain MRI using Deep Learning with Multi-Task Brain Age Prediction**|Marcel Bengs et.al.|[2201.13081v1](http://arxiv.org/abs/2201.13081v1)|null|
+|**2022-01-31**|**Learning Robust Representation through Graph Adversarial Contrastive Learning**|Jiayan Guo et.al.|[2201.13025v1](http://arxiv.org/abs/2201.13025v1)|null|
+|**2022-01-30**|**PLATINUM: Semi-Supervised Model Agnostic Meta-Learning using Submodular Mutual Information**|Changbin Li et.al.|[2201.12928v1](http://arxiv.org/abs/2201.12928v1)|null|
+|**2022-01-30**|**Cryptocurrency Valuation: An Explainable AI Approach**|Yulin Liu et.al.|[2201.12893v1](http://arxiv.org/abs/2201.12893v1)|null|
+|**2022-01-30**|**RIM-Net: Recursive Implicit Fields for Unsupervised Learning of Hierarchical Shape Structures**|Chengjie Niu et.al.|[2201.12763v1](http://arxiv.org/abs/2201.12763v1)|null|
+|**2022-01-29**|**Learning to Coordinate with Humans using Action Features**|Mingwei Ma et.al.|[2201.12658v1](http://arxiv.org/abs/2201.12658v1)|null|
+|**2022-01-29**|**Few-Shot Transfer Learning for Device-Free Fingerprinting Indoor Localization**|Bing-Jia Chen et.al.|[2201.12656v1](http://arxiv.org/abs/2201.12656v1)|null|
+|**2022-01-29**|**Fluctuation mechanism and reconstruction of impact parameter distributions with two-observables for intermediate energy heavy ion collisions**|Li Li et.al.|[2201.12586v1](http://arxiv.org/abs/2201.12586v1)|null|
+|**2022-01-29**|**A Simple Information-Based Approach to Unsupervised Domain-Adaptive Aspect-Based Sentiment Analysis**|Xiang Chen et.al.|[2201.12549v1](http://arxiv.org/abs/2201.12549v1)|**[link](https://github.com/casparswift/da_mim)**|
 |**2022-01-28**|**Adversarial Concept Erasure in Kernel Space**|Shauli Ravfogel et.al.|[2201.12191v1](http://arxiv.org/abs/2201.12191v1)|null|
 |**2022-01-28**|**Unsupervised Single-shot Depth Estimation using Perceptual Reconstruction**|Christoph Angermann et.al.|[2201.12170v2](http://arxiv.org/abs/2201.12170v2)|**[link](https://github.com/anger-man/unsupervised-depth-estimation)**|
 |**2022-01-28**|**Sampling Theorems for Learning from Incomplete Measurements**|Julián Tachella et.al.|[2201.12151v2](http://arxiv.org/abs/2201.12151v2)|null|
@@ -657,6 +689,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-31**|**Constrained Density Matching and Modeling for Cross-lingual Alignment of Contextualized Representations**|Wei Zhao et.al.|[2201.13429v1](http://arxiv.org/abs/2201.13429v1)|null|
+|**2022-01-31**|**UQGAN: A Unified Model for Uncertainty Quantification of Deep Classifiers trained via Conditional GANs**|Philipp Oberdiek et.al.|[2201.13279v1](http://arxiv.org/abs/2201.13279v1)|null|
+|**2022-01-31**|**GADoT: GAN-based Adversarial Training for Robust DDoS Attack Detection**|Maged Abdelaty et.al.|[2201.13102v1](http://arxiv.org/abs/2201.13102v1)|null|
+|**2022-01-31**|**PostGAN: A GAN-Based Post-Processor to Enhance the Quality of Coded Speech**|Srikanth Korse et.al.|[2201.13093v1](http://arxiv.org/abs/2201.13093v1)|null|
+|**2022-01-31**|**On the Robustness of Quality Measures for GANs**|Motasem Alfarra et.al.|[2201.13019v1](http://arxiv.org/abs/2201.13019v1)|null|
+|**2022-01-29**|**Validation of 13 Hot and Potentially Terrestrial TESS Planets**|Steven Giacalone et.al.|[2201.12661v1](http://arxiv.org/abs/2201.12661v1)|null|
+|**2022-01-29**|**FedMed-ATL: Misaligned Unpaired Brain Image Synthesis via Affine Transform Loss**|Guoyang Xie et.al.|[2201.12589v1](http://arxiv.org/abs/2201.12589v1)|**[link](https://github.com/fedmed-meta/fedmed-atl)**|
 |**2022-01-28**|**Generative Cooperative Networks for Natural Language Generation**|Sylvain Lamprier et.al.|[2201.12320v1](http://arxiv.org/abs/2201.12320v1)|null|
 |**2022-01-28**|**A Unified Analysis of Variational Inequality Methods:Variance Reduction, Sampling, Quantization andCoordinate Descent**|A. Beznosikov et.al.|[2201.12206v1](http://arxiv.org/abs/2201.12206v1)|null|
 |**2022-01-28**|**Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks**|Lukas Struppek et.al.|[2201.12179v1](http://arxiv.org/abs/2201.12179v1)|**[link](https://github.com/LukasStruppek/Plug-and-Play-Attacks)**|
