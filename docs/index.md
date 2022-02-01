@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.01.31
+## Updated on 2022.02.01
 
 ## SLAM
 
@@ -530,7 +530,7 @@ layout: default
 |**2022-01-27**|**Graph-based Algorithm Unfolding for Energy-aware Power Allocation in Wireless Networks**|Boning Li et.al.|[2201.11799v1](http://arxiv.org/abs/2201.11799v1)|null|
 |**2022-01-27**|**Denoising Diffusion Restoration Models**|Bahjat Kawar et.al.|[2201.11793v1](http://arxiv.org/abs/2201.11793v1)|**[link](https://github.com/bahjat-kawar/ddrm)**|
 |**2022-01-27**|**The Effect of Diversity in Meta-Learning**|Ramnath Kumar et.al.|[2201.11775v1](http://arxiv.org/abs/2201.11775v1)|**[link](https://github.com/RamnathKumar181/Task-Diversity-meta-learning)**|
-|**2022-01-27**|**Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model**|Dewei Hu et.al.|[2201.11760v1](http://arxiv.org/abs/2201.11760v1)|null|
+|**2022-01-27**|**Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model**|Dewei Hu et.al.|[2201.11760v1](http://arxiv.org/abs/2201.11760v1)|**[link](https://github.com/deweihu/oct_ddpm)**|
 |**2022-01-27**|**Ranking Info Noise Contrastive Estimation: Boosting Contrastive Learning via Ranked Positives**|David T. Hoffmann et.al.|[2201.11736v1](http://arxiv.org/abs/2201.11736v1)|**[link](https://github.com/boschresearch/rince)**|
 |**2022-01-27**|**IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages**|Emanuele Bugliarello et.al.|[2201.11732v1](http://arxiv.org/abs/2201.11732v1)|null|
 |**2022-01-27**|**Superconductivity in black phosphorus and the role of dynamical screening**|Viktor Christiansson et.al.|[2201.11686v1](http://arxiv.org/abs/2201.11686v1)|null|
@@ -812,7 +812,7 @@ layout: default
 |**2022-01-28**|**Generative Cooperative Networks for Natural Language Generation**|Sylvain Lamprier et.al.|[2201.12320v1](http://arxiv.org/abs/2201.12320v1)|null|
 |**2022-01-28**|**A Unified Analysis of Variational Inequality Methods:Variance Reduction, Sampling, Quantization andCoordinate Descent**|A. Beznosikov et.al.|[2201.12206v1](http://arxiv.org/abs/2201.12206v1)|null|
 |**2022-01-28**|**Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks**|Lukas Struppek et.al.|[2201.12179v1](http://arxiv.org/abs/2201.12179v1)|**[link](https://github.com/LukasStruppek/Plug-and-Play-Attacks)**|
-|**2022-01-28**|**Designing quantum many-body matter with conditional generative adversarial networks**|Rouven Koch et.al.|[2201.12127v1](http://arxiv.org/abs/2201.12127v1)|null|
+|**2022-01-28**|**Designing quantum many-body matter with conditional generative adversarial networks**|Rouven Koch et.al.|[2201.12127v1](http://arxiv.org/abs/2201.12127v1)|**[link](https://github.com/rouven-koch/designing-quantum-many-body-matter-with-conditional-generative-adversarial-networks)**|
 |**2022-01-28**|**Detection of fake faces in videos**|M. Shamanth et.al.|[2201.12051v1](http://arxiv.org/abs/2201.12051v1)|null|
 |**2022-01-28**|**Image Superresolution using Scale-Recurrent Dense Network**|Kuldeep Purohit et.al.|[2201.11998v1](http://arxiv.org/abs/2201.11998v1)|null|
 |**2022-01-28**|**Using Constant Learning Rate of Two Time-Scale Update Rule for Training Generative Adversarial Networks**|Naoki Sato et.al.|[2201.11989v1](http://arxiv.org/abs/2201.11989v1)|null|
