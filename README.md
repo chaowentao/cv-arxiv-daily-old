@@ -699,7 +699,7 @@
 |**2022-01-28**|**Generative Cooperative Networks for Natural Language Generation**|Sylvain Lamprier et.al.|[2201.12320v1](http://arxiv.org/abs/2201.12320v1)|null|
 |**2022-01-28**|**A Unified Analysis of Variational Inequality Methods:Variance Reduction, Sampling, Quantization andCoordinate Descent**|A. Beznosikov et.al.|[2201.12206v1](http://arxiv.org/abs/2201.12206v1)|null|
 |**2022-01-28**|**Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks**|Lukas Struppek et.al.|[2201.12179v1](http://arxiv.org/abs/2201.12179v1)|**[link](https://github.com/LukasStruppek/Plug-and-Play-Attacks)**|
-|**2022-01-28**|**Designing quantum many-body matter with conditional generative adversarial networks**|Rouven Koch et.al.|[2201.12127v1](http://arxiv.org/abs/2201.12127v1)|**[link](https://github.com/rouven-koch/designing-quantum-many-body-matter-with-conditional-generative-adversarial-networks)**|
+|**2022-01-28**|**Designing quantum many-body matter with conditional generative adversarial networks**|Rouven Koch et.al.|[2201.12127v2](http://arxiv.org/abs/2201.12127v2)|**[link](https://github.com/rouven-koch/designing-quantum-many-body-matter-with-conditional-generative-adversarial-networks)**|
 |**2022-01-28**|**Detection of fake faces in videos**|M. Shamanth et.al.|[2201.12051v1](http://arxiv.org/abs/2201.12051v1)|null|
 |**2022-01-28**|**Image Superresolution using Scale-Recurrent Dense Network**|Kuldeep Purohit et.al.|[2201.11998v1](http://arxiv.org/abs/2201.11998v1)|null|
 |**2022-01-28**|**Using Constant Learning Rate of Two Time-Scale Update Rule for Training Generative Adversarial Networks**|Naoki Sato et.al.|[2201.11989v1](http://arxiv.org/abs/2201.11989v1)|null|
