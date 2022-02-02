@@ -37,6 +37,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-01**|**Observation of Light-Induced Dipole-Dipole Forces in Ultracold Atomic Gases**|Mira Maiwöger et.al.|[2202.00562v1](http://arxiv.org/abs/2202.00562v1)|null|
 |**2022-01-29**|**Light field Rectification based on relative pose estimation**|Xiao Huo et.al.|[2201.12533v1](http://arxiv.org/abs/2201.12533v1)|null|
 |**2022-01-24**|**Deep Decoding of $\ell_\infty$-coded Light Field Images**|Muhammad Umair Mukati et.al.|[2201.09834v1](http://arxiv.org/abs/2201.09834v1)|null|
 |**2022-01-17**|**Real-time computer-generated light field displays by pre-storing the invariable voxel-pixel mapping**|Quanzhen Wan et.al.|[2201.09658v2](http://arxiv.org/abs/2201.09658v2)|null|
@@ -83,6 +84,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-01**|**Is the Performance of My Deep Network Too Good to Be True? A Direct Approach to Estimating the Bayes Error in Binary Classification**|Takashi Ishida et.al.|[2202.00395v1](http://arxiv.org/abs/2202.00395v1)|null|
+|**2022-01-31**|**Query Efficient Decision Based Sparse Attacks Against Black-Box Deep Learning Models**|Viet Quoc Vo et.al.|[2202.00091v1](http://arxiv.org/abs/2202.00091v1)|null|
 |**2022-01-31**|**Adversarial Masking for Self-Supervised Learning**|Yuge Shi et.al.|[2201.13100v1](http://arxiv.org/abs/2201.13100v1)|null|
 |**2022-01-31**|**BOAT: Bilateral Local Attention Vision Transformer**|Tan Yu et.al.|[2201.13027v1](http://arxiv.org/abs/2201.13027v1)|null|
 |**2022-01-31**|**Plug-In Inversion: Model-Agnostic Inversion for Vision with Data Augmentations**|Amin Ghiasi et.al.|[2201.12961v1](http://arxiv.org/abs/2201.12961v1)|**[link](https://github.com/youranonymousefriend/plugininversion)**|
@@ -168,6 +171,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-01**|**Sim2Real Object-Centric Keypoint Detection and Description**|Chengliang Zhong et.al.|[2202.00448v1](http://arxiv.org/abs/2202.00448v1)|null|
 |**2022-01-20**|**Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision**|Jian Wang et.al.|[2201.07929v1](http://arxiv.org/abs/2201.07929v1)|null|
 |**2022-01-19**|**Poseur: Direct Human Pose Regression with Transformers**|Weian Mao et.al.|[2201.07412v1](http://arxiv.org/abs/2201.07412v1)|null|
 |**2022-01-19**|**Swin-Pose: Swin Transformer Based Human Pose Estimation**|Zinan Xiong et.al.|[2201.07384v1](http://arxiv.org/abs/2201.07384v1)|null|
@@ -203,6 +207,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-01**|**Experimental demonstration of Gaussian boson sampling with displacement**|G. S. Thekkadath et.al.|[2202.00634v1](http://arxiv.org/abs/2202.00634v1)|null|
 |**2022-01-30**|**Multimodal Maximum Entropy Dynamic Games**|Oswin So et.al.|[2201.12925v1](http://arxiv.org/abs/2201.12925v1)|null|
 |**2022-01-30**|**A Dataset for Medical Instructional Video Classification and Question Answering**|Deepak Gupta et.al.|[2201.12888v1](http://arxiv.org/abs/2201.12888v1)|**[link](https://github.com/deepaknlp/medvidqacl)**|
 |**2022-01-29**|**Chaotic Diffusion of Dissipative Solitons: From Anti-Persistent Random Walk to Hidden Markov Models**|Tony Albers et.al.|[2201.12471v1](http://arxiv.org/abs/2201.12471v1)|null|
@@ -301,6 +306,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-31**|**An Adaptive sampling and domain learning strategy for multivariate function approximation on unknown domains**|Ben Adcock et.al.|[2202.00144v1](http://arxiv.org/abs/2202.00144v1)|null|
 |**2022-01-29**|**A Simple Information-Based Approach to Unsupervised Domain-Adaptive Aspect-Based Sentiment Analysis**|Xiang Chen et.al.|[2201.12549v1](http://arxiv.org/abs/2201.12549v1)|**[link](https://github.com/casparswift/da_mim)**|
 |**2022-01-28**|**Few-shot Unsupervised Domain Adaptation for Multi-modal Cardiac Image Segmentation**|Mingxuan Gu et.al.|[2201.12386v1](http://arxiv.org/abs/2201.12386v1)|null|
 |**2022-01-28**|**Shuffle Augmentation of Features from Unlabeled Data for Unsupervised Domain Adaptation**|Changwei Xu et.al.|[2201.11963v1](http://arxiv.org/abs/2201.11963v1)|null|
@@ -375,6 +381,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-01**|**Machine learning approach to study quantum phases of a frustrated one dimensional spin-1/2 system**|Sk Saniur Rahaman et.al.|[2202.00564v1](http://arxiv.org/abs/2202.00564v1)|null|
+|**2022-02-01**|**Examining Scaling and Transfer of Language Model Architectures for Machine Translation**|Biao Zhang et.al.|[2202.00528v1](http://arxiv.org/abs/2202.00528v1)|null|
+|**2022-02-01**|**Towards a Theoretical Understanding of Word and Relation Representation**|Carl Allen et.al.|[2202.00486v1](http://arxiv.org/abs/2202.00486v1)|null|
+|**2022-02-01**|**Dimensionality Reduction Meets Message Passing for Graph Node Embeddings**|Krzysztof Sadowski et.al.|[2202.00408v1](http://arxiv.org/abs/2202.00408v1)|**[link](https://github.com/ksadowski13/PCAPass)**|
+|**2022-02-01**|**Filtered-CoPhy: Unsupervised Learning of Counterfactual Physics in Pixel Space**|Steeven Janny et.al.|[2202.00368v1](http://arxiv.org/abs/2202.00368v1)|null|
+|**2022-02-01**|**XAlign: Cross-lingual Fact-to-Text Alignment and Generation for Low-Resource Languages**|Tushar Abhishek et.al.|[2202.00291v1](http://arxiv.org/abs/2202.00291v1)|null|
+|**2022-02-01**|**Graph-based Neural Acceleration for Nonnegative Matrix Factorization**|Jens Sjölund et.al.|[2202.00264v1](http://arxiv.org/abs/2202.00264v1)|null|
+|**2022-02-01**|**CLA-NeRF: Category-Level Articulated Neural Radiance Field**|Wei-Cheng Tseng et.al.|[2202.00181v1](http://arxiv.org/abs/2202.00181v1)|null|
+|**2022-02-01**|**CIC: Contrastive Intrinsic Control for Unsupervised Skill Discovery**|Michael Laskin et.al.|[2202.00161v1](http://arxiv.org/abs/2202.00161v1)|null|
+|**2022-01-31**|**Studying the Robustness of Anti-adversarial Federated Learning Models Detecting Cyberattacks in IoT Spectrum Sensors**|Pedro Miguel Sánchez Sánchez et.al.|[2202.00137v1](http://arxiv.org/abs/2202.00137v1)|null|
+|**2022-01-31**|**Implicit Concept Drift Detection for Multi-label Data Streams**|Ege Berkay Gulcan et.al.|[2202.00070v1](http://arxiv.org/abs/2202.00070v1)|null|
+|**2022-01-31**|**Deep-Disaster: Unsupervised Disaster Detection and Localization Using Visual Data**|Soroor Shekarizadeh et.al.|[2202.00050v1](http://arxiv.org/abs/2202.00050v1)|**[link](https://github.com/soroorsh/deep-disaster)**|
+|**2022-01-31**|**Finding Directions in GAN's Latent Space for Neural Face Reenactment**|Stella Bounareli et.al.|[2202.00046v1](http://arxiv.org/abs/2202.00046v1)|null|
 |**2022-01-31**|**Constrained Density Matching and Modeling for Cross-lingual Alignment of Contextualized Representations**|Wei Zhao et.al.|[2201.13429v1](http://arxiv.org/abs/2201.13429v1)|null|
 |**2022-01-31**|**Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning**|Denis Yarats et.al.|[2201.13425v1](http://arxiv.org/abs/2201.13425v1)|null|
 |**2022-01-31**|**Spectral image clustering on dual-energy CT scans using functional regression mixtures**|Segolene Brivet et.al.|[2201.13398v1](http://arxiv.org/abs/2201.13398v1)|**[link](https://github.com/segobrivet/dect_clustering)**|
@@ -660,6 +679,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-01**|**CLA-NeRF: Category-Level Articulated Neural Radiance Field**|Wei-Cheng Tseng et.al.|[2202.00181v1](http://arxiv.org/abs/2202.00181v1)|null|
 |**2022-01-28**|**From data to functa: Your data point is a function and you should treat it like one**|Emilien Dupont et.al.|[2201.12204v1](http://arxiv.org/abs/2201.12204v1)|null|
 |**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v1](http://arxiv.org/abs/2201.08845v1)|null|
 |**2022-01-19**|**Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation**|Xian Liu et.al.|[2201.07786v1](http://arxiv.org/abs/2201.07786v1)|null|
@@ -689,6 +709,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-29**|**Blind ECG Restoration by Operational Cycle-GANs**|Serkan Kiranyaz et.al.|[2202.00589v1](http://arxiv.org/abs/2202.00589v1)|null|
+|**2022-02-01**|**Progressive Distillation for Fast Sampling of Diffusion Models**|Tim Salimans et.al.|[2202.00512v1](http://arxiv.org/abs/2202.00512v1)|null|
+|**2022-02-01**|**StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets**|Axel Sauer et.al.|[2202.00273v1](http://arxiv.org/abs/2202.00273v1)|null|
+|**2022-02-01**|**GNNRank: Learning Global Rankings from Pairwise Comparisons via Directed Graph Neural Networks**|Yixuan He et.al.|[2202.00211v1](http://arxiv.org/abs/2202.00211v1)|null|
+|**2022-01-31**|**Deep-Disaster: Unsupervised Disaster Detection and Localization Using Visual Data**|Soroor Shekarizadeh et.al.|[2202.00050v1](http://arxiv.org/abs/2202.00050v1)|**[link](https://github.com/soroorsh/deep-disaster)**|
+|**2022-01-31**|**Finding Directions in GAN's Latent Space for Neural Face Reenactment**|Stella Bounareli et.al.|[2202.00046v1](http://arxiv.org/abs/2202.00046v1)|null|
+|**2022-01-31**|**A Possible Alignment Between the Orbits of Planetary Systems and their Visual Binary Companions**|Sam Christian et.al.|[2202.00042v1](http://arxiv.org/abs/2202.00042v1)|null|
 |**2022-01-31**|**Constrained Density Matching and Modeling for Cross-lingual Alignment of Contextualized Representations**|Wei Zhao et.al.|[2201.13429v1](http://arxiv.org/abs/2201.13429v1)|null|
 |**2022-01-31**|**UQGAN: A Unified Model for Uncertainty Quantification of Deep Classifiers trained via Conditional GANs**|Philipp Oberdiek et.al.|[2201.13279v1](http://arxiv.org/abs/2201.13279v1)|null|
 |**2022-01-31**|**GADoT: GAN-based Adversarial Training for Robust DDoS Attack Detection**|Maged Abdelaty et.al.|[2201.13102v1](http://arxiv.org/abs/2201.13102v1)|null|
