@@ -208,7 +208,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-02-01**|**Experimental demonstration of Gaussian boson sampling with displacement**|G. S. Thekkadath et.al.|[2202.00634v1](http://arxiv.org/abs/2202.00634v1)|null|
-|**2022-01-30**|**Multimodal Maximum Entropy Dynamic Games**|Oswin So et.al.|[2201.12925v1](http://arxiv.org/abs/2201.12925v1)|null|
+|**2022-01-30**|**Multimodal Maximum Entropy Dynamic Games**|Oswin So et.al.|[2201.12925v2](http://arxiv.org/abs/2201.12925v2)|null|
 |**2022-01-30**|**A Dataset for Medical Instructional Video Classification and Question Answering**|Deepak Gupta et.al.|[2201.12888v1](http://arxiv.org/abs/2201.12888v1)|**[link](https://github.com/deepaknlp/medvidqacl)**|
 |**2022-01-29**|**Chaotic Diffusion of Dissipative Solitons: From Anti-Persistent Random Walk to Hidden Markov Models**|Tony Albers et.al.|[2201.12471v1](http://arxiv.org/abs/2201.12471v1)|null|
 |**2022-01-28**|**Encoding qubits in multimode grid states**|Baptiste Royer et.al.|[2201.12337v1](http://arxiv.org/abs/2201.12337v1)|null|
@@ -382,9 +382,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-02-01**|**Machine learning approach to study quantum phases of a frustrated one dimensional spin-1/2 system**|Sk Saniur Rahaman et.al.|[2202.00564v1](http://arxiv.org/abs/2202.00564v1)|null|
-|**2022-02-01**|**Examining Scaling and Transfer of Language Model Architectures for Machine Translation**|Biao Zhang et.al.|[2202.00528v1](http://arxiv.org/abs/2202.00528v1)|null|
+|**2022-02-01**|**Examining Scaling and Transfer of Language Model Architectures for Machine Translation**|Biao Zhang et.al.|[2202.00528v2](http://arxiv.org/abs/2202.00528v2)|null|
 |**2022-02-01**|**Towards a Theoretical Understanding of Word and Relation Representation**|Carl Allen et.al.|[2202.00486v1](http://arxiv.org/abs/2202.00486v1)|null|
-|**2022-02-01**|**Dimensionality Reduction Meets Message Passing for Graph Node Embeddings**|Krzysztof Sadowski et.al.|[2202.00408v1](http://arxiv.org/abs/2202.00408v1)|**[link](https://github.com/ksadowski13/PCAPass)**|
+|**2022-02-01**|**Dimensionality Reduction Meets Message Passing for Graph Node Embeddings**|Krzysztof Sadowski et.al.|[2202.00408v2](http://arxiv.org/abs/2202.00408v2)|**[link](https://github.com/ksadowski13/PCAPass)**|
 |**2022-02-01**|**Filtered-CoPhy: Unsupervised Learning of Counterfactual Physics in Pixel Space**|Steeven Janny et.al.|[2202.00368v1](http://arxiv.org/abs/2202.00368v1)|null|
 |**2022-02-01**|**XAlign: Cross-lingual Fact-to-Text Alignment and Generation for Low-Resource Languages**|Tushar Abhishek et.al.|[2202.00291v1](http://arxiv.org/abs/2202.00291v1)|null|
 |**2022-02-01**|**Graph-based Neural Acceleration for Nonnegative Matrix Factorization**|Jens Sjölund et.al.|[2202.00264v1](http://arxiv.org/abs/2202.00264v1)|null|
@@ -725,7 +725,7 @@
 |**2022-01-29**|**FedMed-ATL: Misaligned Unpaired Brain Image Synthesis via Affine Transform Loss**|Guoyang Xie et.al.|[2201.12589v1](http://arxiv.org/abs/2201.12589v1)|**[link](https://github.com/fedmed-meta/fedmed-atl)**|
 |**2022-01-28**|**Generative Cooperative Networks for Natural Language Generation**|Sylvain Lamprier et.al.|[2201.12320v1](http://arxiv.org/abs/2201.12320v1)|null|
 |**2022-01-28**|**A Unified Analysis of Variational Inequality Methods:Variance Reduction, Sampling, Quantization andCoordinate Descent**|A. Beznosikov et.al.|[2201.12206v1](http://arxiv.org/abs/2201.12206v1)|null|
-|**2022-01-28**|**Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks**|Lukas Struppek et.al.|[2201.12179v1](http://arxiv.org/abs/2201.12179v1)|**[link](https://github.com/LukasStruppek/Plug-and-Play-Attacks)**|
+|**2022-01-28**|**Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks**|Lukas Struppek et.al.|[2201.12179v2](http://arxiv.org/abs/2201.12179v2)|**[link](https://github.com/LukasStruppek/Plug-and-Play-Attacks)**|
 |**2022-01-28**|**Designing quantum many-body matter with conditional generative adversarial networks**|Rouven Koch et.al.|[2201.12127v2](http://arxiv.org/abs/2201.12127v2)|**[link](https://github.com/rouven-koch/designing-quantum-many-body-matter-with-conditional-generative-adversarial-networks)**|
 |**2022-01-28**|**Detection of fake faces in videos**|M. Shamanth et.al.|[2201.12051v1](http://arxiv.org/abs/2201.12051v1)|null|
 |**2022-01-28**|**Image Superresolution using Scale-Recurrent Dense Network**|Kuldeep Purohit et.al.|[2201.11998v1](http://arxiv.org/abs/2201.11998v1)|null|
