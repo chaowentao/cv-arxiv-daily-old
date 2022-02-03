@@ -156,6 +156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-02**|**Finding Biological Plausibility for Adversarially Robust Features via Metameric Tasks**|Anne Harrington et.al.|[2202.00838v1](http://arxiv.org/abs/2202.00838v1)|**[link](https://github.com/anneharrington/adversarially-robust-periphery)**|
 |**2022-01-31**|**Crowd-powered Face Manipulation Detection: Fusing Human Examiner Decisions**|Christian Rathgeb et.al.|[2201.13084v1](http://arxiv.org/abs/2201.13084v1)|null|
 |**2022-01-28**|**Psychophysical Evaluation of Human Performance in Detecting Digital Face Image Manipulations**|Robert Nichols et.al.|[2201.12084v1](http://arxiv.org/abs/2201.12084v1)|null|
 |**2022-01-24**|**Feature transforms for image data augmentation**|Loris Nanni et.al.|[2201.09700v1](http://arxiv.org/abs/2201.09700v1)|**[link](https://github.com/lorisnanni/feature-transforms-for-image-data-augmentation)**|
@@ -189,6 +190,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-02**|**Extension -- Adaptive Sampling with Implicit Radiance Field**|Yuchi Huo et.al.|[2202.00855v1](http://arxiv.org/abs/2202.00855v1)|null|
 |**2022-02-01**|**Observation of Light-Induced Dipole-Dipole Forces in Ultracold Atomic Gases**|Mira Maiwöger et.al.|[2202.00562v1](http://arxiv.org/abs/2202.00562v1)|null|
 |**2022-01-29**|**Light field Rectification based on relative pose estimation**|Xiao Huo et.al.|[2201.12533v1](http://arxiv.org/abs/2201.12533v1)|null|
 |**2022-01-24**|**Deep Decoding of $\ell_\infty$-coded Light Field Images**|Muhammad Umair Mukati et.al.|[2201.09834v1](http://arxiv.org/abs/2201.09834v1)|null|
@@ -236,6 +238,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-01**|**Security Evaluation of Block-based Image Encryption for Vision Transformer against Jigsaw Puzzle Solver Attack**|Tatsuya Chuman et.al.|[2202.00806v1](http://arxiv.org/abs/2202.00806v1)|null|
+|**2022-02-01**|**Improving Sample Efficiency of Value Based Models Using Attention and Vision Transformers**|Amir Ardalan Kalantari et.al.|[2202.00710v1](http://arxiv.org/abs/2202.00710v1)|null|
 |**2022-02-01**|**Is the Performance of My Deep Network Too Good to Be True? A Direct Approach to Estimating the Bayes Error in Binary Classification**|Takashi Ishida et.al.|[2202.00395v1](http://arxiv.org/abs/2202.00395v1)|null|
 |**2022-01-31**|**Query Efficient Decision Based Sparse Attacks Against Black-Box Deep Learning Models**|Viet Quoc Vo et.al.|[2202.00091v1](http://arxiv.org/abs/2202.00091v1)|null|
 |**2022-01-31**|**Adversarial Masking for Self-Supervised Learning**|Yuge Shi et.al.|[2201.13100v1](http://arxiv.org/abs/2201.13100v1)|null|
@@ -323,6 +327,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-01**|**ADG-Pose: Automated Dataset Generation for Real-World Human Pose Estimation**|Ghazal Alinezhad Noghre et.al.|[2202.00753v1](http://arxiv.org/abs/2202.00753v1)|null|
 |**2022-02-01**|**Sim2Real Object-Centric Keypoint Detection and Description**|Chengliang Zhong et.al.|[2202.00448v1](http://arxiv.org/abs/2202.00448v1)|null|
 |**2022-01-20**|**Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision**|Jian Wang et.al.|[2201.07929v1](http://arxiv.org/abs/2201.07929v1)|null|
 |**2022-01-19**|**Poseur: Direct Human Pose Regression with Transformers**|Weian Mao et.al.|[2201.07412v1](http://arxiv.org/abs/2201.07412v1)|null|
@@ -359,6 +364,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-02**|**The slurk Interaction Server Framework: Better Data for Better Dialog Models**|Jana Götze et.al.|[2202.01155v1](http://arxiv.org/abs/2202.01155v1)|null|
+|**2022-02-02**|**Interpretability for Multimodal Emotion Recognition using Concept Activation Vectors**|Ashish Ramayee Asokan et.al.|[2202.01072v1](http://arxiv.org/abs/2202.01072v1)|null|
+|**2022-02-01**|**Too much information: CDCL solvers need to forget and perform restarts**|Tom Krüger et.al.|[2202.01030v1](http://arxiv.org/abs/2202.01030v1)|null|
+|**2022-02-02**|**Normalise for Fairness: A Simple Normalisation Technique for Fairness in Regression Machine Learning Problems**|Mostafa M. Mohamed et.al.|[2202.00993v1](http://arxiv.org/abs/2202.00993v1)|null|
 |**2022-02-01**|**Experimental demonstration of Gaussian boson sampling with displacement**|G. S. Thekkadath et.al.|[2202.00634v1](http://arxiv.org/abs/2202.00634v1)|null|
 |**2022-01-30**|**Multimodal Maximum Entropy Dynamic Games**|Oswin So et.al.|[2201.12925v2](http://arxiv.org/abs/2201.12925v2)|null|
 |**2022-01-30**|**A Dataset for Medical Instructional Video Classification and Question Answering**|Deepak Gupta et.al.|[2201.12888v1](http://arxiv.org/abs/2201.12888v1)|**[link](https://github.com/deepaknlp/medvidqacl)**|
@@ -458,6 +467,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-02**|**The CORAL++ Algorithm for Unsupervised Domain Adaptation of Speaker Recogntion**|Rongjin Li et.al.|[2202.01092v1](http://arxiv.org/abs/2202.01092v1)|null|
+|**2022-02-01**|**On the Benefits of Selectivity in Pseudo-Labeling for Unsupervised Multi-Source-Free Domain Adaptation**|Maohao Shen et.al.|[2202.00796v1](http://arxiv.org/abs/2202.00796v1)|null|
 |**2022-01-31**|**An Adaptive sampling and domain learning strategy for multivariate function approximation on unknown domains**|Ben Adcock et.al.|[2202.00144v1](http://arxiv.org/abs/2202.00144v1)|null|
 |**2022-01-29**|**A Simple Information-Based Approach to Unsupervised Domain-Adaptive Aspect-Based Sentiment Analysis**|Xiang Chen et.al.|[2201.12549v1](http://arxiv.org/abs/2201.12549v1)|**[link](https://github.com/casparswift/da_mim)**|
 |**2022-01-28**|**Few-shot Unsupervised Domain Adaptation for Multi-modal Cardiac Image Segmentation**|Mingxuan Gu et.al.|[2201.12386v1](http://arxiv.org/abs/2201.12386v1)|null|
@@ -533,6 +544,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-02**|**Smoothed Embeddings for Certified Few-Shot Learning**|Mikhail Pautov et.al.|[2202.01186v1](http://arxiv.org/abs/2202.01186v1)|null|
+|**2022-02-02**|**Pop Quiz! Can a Large Language Model Help With Reverse Engineering?**|Hammond Pearce et.al.|[2202.01142v1](http://arxiv.org/abs/2202.01142v1)|null|
+|**2022-02-02**|**The CORAL++ Algorithm for Unsupervised Domain Adaptation of Speaker Recogntion**|Rongjin Li et.al.|[2202.01092v1](http://arxiv.org/abs/2202.01092v1)|null|
+|**2022-02-02**|**Dictionary learning for clustering on hyperspectral images**|Joshua Bruton et.al.|[2202.00990v1](http://arxiv.org/abs/2202.00990v1)|**[link](https://github.com/JoshuaDBruton/SparseCoefficientClustering)**|
+|**2022-02-02**|**Posterior temperature optimized Bayesian models for inverse problems in medical imaging**|Max-Heinrich Laves et.al.|[2202.00986v1](http://arxiv.org/abs/2202.00986v1)|**[link](https://github.com/cardio-ai/mfvi-dip-mia)**|
+|**2022-02-02**|**Lipschitz-constrained Unsupervised Skill Discovery**|Seohong Park et.al.|[2202.00914v1](http://arxiv.org/abs/2202.00914v1)|null|
+|**2022-02-02**|**VIRDO: Visio-tactile Implicit Representations of Deformable Objects**|Youngsun Wi et.al.|[2202.00868v1](http://arxiv.org/abs/2202.00868v1)|null|
+|**2022-02-02**|**Co-training Improves Prompt-based Learning for Large Language Models**|Hunter Lang et.al.|[2202.00828v1](http://arxiv.org/abs/2202.00828v1)|null|
+|**2022-02-01**|**Imaging based on Compton scattering: model-uncertainty and data-driven reconstruction methods**|Janek Gödeke et.al.|[2202.00810v1](http://arxiv.org/abs/2202.00810v1)|null|
+|**2022-02-01**|**A Semi-Supervised Deep Clustering Pipeline for Mining Intentions From Texts**|Xinyu Chen et.al.|[2202.00802v1](http://arxiv.org/abs/2202.00802v1)|null|
+|**2022-02-01**|**On the Benefits of Selectivity in Pseudo-Labeling for Unsupervised Multi-Source-Free Domain Adaptation**|Maohao Shen et.al.|[2202.00796v1](http://arxiv.org/abs/2202.00796v1)|null|
+|**2022-02-01**|**Mars Terrain Segmentation with Less Labels**|Edwin Goh et.al.|[2202.00791v1](http://arxiv.org/abs/2202.00791v1)|null|
+|**2022-02-01**|**ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition**|Yash Jain et.al.|[2202.00758v1](http://arxiv.org/abs/2202.00758v1)|null|
 |**2022-02-01**|**Machine learning approach to study quantum phases of a frustrated one dimensional spin-1/2 system**|Sk Saniur Rahaman et.al.|[2202.00564v1](http://arxiv.org/abs/2202.00564v1)|null|
 |**2022-02-01**|**Examining Scaling and Transfer of Language Model Architectures for Machine Translation**|Biao Zhang et.al.|[2202.00528v2](http://arxiv.org/abs/2202.00528v2)|null|
 |**2022-02-01**|**Towards a Theoretical Understanding of Word and Relation Representation**|Carl Allen et.al.|[2202.00486v1](http://arxiv.org/abs/2202.00486v1)|null|
@@ -861,6 +885,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-02**|**Structure-preserving GANs**|Jeremiah Birrell et.al.|[2202.01129v1](http://arxiv.org/abs/2202.01129v1)|null|
+|**2022-02-02**|**Unpaired Image Super-Resolution with Optimal Transport Maps**|Milena Gazdieva et.al.|[2202.01116v1](http://arxiv.org/abs/2202.01116v1)|null|
+|**2022-02-02**|**MD-GAN with multi-particle input: the machine learning of long-time molecular behavior from short-time MD data**|Ryo Kawada et.al.|[2202.00995v1](http://arxiv.org/abs/2202.00995v1)|null|
+|**2022-02-02**|**Discovery and mass measurement of the hot, transiting, Earth-sized planet GJ 3929 b**|J. Kemmer et.al.|[2202.00970v1](http://arxiv.org/abs/2202.00970v1)|null|
+|**2022-02-02**|**cardiGAN: A Generative Adversarial Network Model for Design and Discovery of Multi Principal Element Alloys**|Z. Li et.al.|[2202.00966v1](http://arxiv.org/abs/2202.00966v1)|null|
 |**2022-01-29**|**Blind ECG Restoration by Operational Cycle-GANs**|Serkan Kiranyaz et.al.|[2202.00589v1](http://arxiv.org/abs/2202.00589v1)|null|
 |**2022-02-01**|**Progressive Distillation for Fast Sampling of Diffusion Models**|Tim Salimans et.al.|[2202.00512v1](http://arxiv.org/abs/2202.00512v1)|null|
 |**2022-02-01**|**StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets**|Axel Sauer et.al.|[2202.00273v1](http://arxiv.org/abs/2202.00273v1)|null|
