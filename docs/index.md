@@ -328,7 +328,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-02-01**|**ADG-Pose: Automated Dataset Generation for Real-World Human Pose Estimation**|Ghazal Alinezhad Noghre et.al.|[2202.00753v1](http://arxiv.org/abs/2202.00753v1)|null|
-|**2022-02-01**|**Sim2Real Object-Centric Keypoint Detection and Description**|Chengliang Zhong et.al.|[2202.00448v1](http://arxiv.org/abs/2202.00448v1)|null|
+|**2022-02-01**|**Sim2Real Object-Centric Keypoint Detection and Description**|Chengliang Zhong et.al.|[2202.00448v2](http://arxiv.org/abs/2202.00448v2)|null|
 |**2022-01-20**|**Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision**|Jian Wang et.al.|[2201.07929v1](http://arxiv.org/abs/2201.07929v1)|null|
 |**2022-01-19**|**Poseur: Direct Human Pose Regression with Transformers**|Weian Mao et.al.|[2201.07412v1](http://arxiv.org/abs/2201.07412v1)|null|
 |**2022-01-19**|**Swin-Pose: Swin Transformer Based Human Pose Estimation**|Zinan Xiong et.al.|[2201.07384v1](http://arxiv.org/abs/2201.07384v1)|null|
