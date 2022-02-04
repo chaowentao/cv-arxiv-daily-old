@@ -1,4 +1,4 @@
-## Updated on 2022.02.03
+## Updated on 2022.02.04
 
 ## Image Generation
 
@@ -317,7 +317,7 @@
 |---|---|---|---|---|
 |**2022-02-02**|**The CORAL++ Algorithm for Unsupervised Domain Adaptation of Speaker Recogntion**|Rongjin Li et.al.|[2202.01092v1](http://arxiv.org/abs/2202.01092v1)|null|
 |**2022-02-01**|**On the Benefits of Selectivity in Pseudo-Labeling for Unsupervised Multi-Source-Free Domain Adaptation**|Maohao Shen et.al.|[2202.00796v1](http://arxiv.org/abs/2202.00796v1)|null|
-|**2022-01-31**|**An Adaptive sampling and domain learning strategy for multivariate function approximation on unknown domains**|Ben Adcock et.al.|[2202.00144v1](http://arxiv.org/abs/2202.00144v1)|null|
+|**2022-01-31**|**An Adaptive sampling and domain learning strategy for multivariate function approximation on unknown domains**|Ben Adcock et.al.|[2202.00144v1](http://arxiv.org/abs/2202.00144v1)|**[link](https://github.com/jmcardenas/adaptive-sampling-and-domain-learning)**|
 |**2022-01-29**|**A Simple Information-Based Approach to Unsupervised Domain-Adaptive Aspect-Based Sentiment Analysis**|Xiang Chen et.al.|[2201.12549v1](http://arxiv.org/abs/2201.12549v1)|**[link](https://github.com/casparswift/da_mim)**|
 |**2022-01-28**|**Few-shot Unsupervised Domain Adaptation for Multi-modal Cardiac Image Segmentation**|Mingxuan Gu et.al.|[2201.12386v1](http://arxiv.org/abs/2201.12386v1)|null|
 |**2022-01-28**|**Shuffle Augmentation of Features from Unlabeled Data for Unsupervised Domain Adaptation**|Changwei Xu et.al.|[2201.11963v1](http://arxiv.org/abs/2201.11963v1)|null|
