@@ -364,6 +364,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-03**|**Bus Factor In Practice**|Elgun Jabrayilzade et.al.|[2202.01523v1](http://arxiv.org/abs/2202.01523v1)|null|
+|**2022-02-03**|**Network resilience in the aging brain**|Tao Liu et.al.|[2202.01516v1](http://arxiv.org/abs/2202.01516v1)|null|
+|**2022-02-03**|**Sensing the Breath: A Multimodal Singing Tutoring Interface with Breath Guidance**|Ziyue Piao et.al.|[2202.01439v1](http://arxiv.org/abs/2202.01439v1)|null|
+|**2022-02-03**|**mSLAM: Massively multilingual joint pre-training for speech and text**|Ankur Bapna et.al.|[2202.01374v1](http://arxiv.org/abs/2202.01374v1)|null|
 |**2022-02-02**|**The slurk Interaction Server Framework: Better Data for Better Dialog Models**|Jana Götze et.al.|[2202.01155v1](http://arxiv.org/abs/2202.01155v1)|null|
 |**2022-02-02**|**Interpretability for Multimodal Emotion Recognition using Concept Activation Vectors**|Ashish Ramayee Asokan et.al.|[2202.01072v1](http://arxiv.org/abs/2202.01072v1)|null|
 |**2022-02-01**|**Too much information: CDCL solvers need to forget and perform restarts**|Tom Krüger et.al.|[2202.01030v1](http://arxiv.org/abs/2202.01030v1)|null|
@@ -544,6 +548,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-03**|**Graph Coloring with Physics-Inspired Graph Neural Networks**|Martin J. A. Schuetz et.al.|[2202.01606v1](http://arxiv.org/abs/2202.01606v1)|null|
+|**2022-02-03**|**PARCEL: Physics-based unsupervised contrastive representation learning for parallel MR imaging**|Shanshan Wang et.al.|[2202.01494v1](http://arxiv.org/abs/2202.01494v1)|null|
+|**2022-02-03**|**Boosting Monocular Depth Estimation with Sparse Guided Points**|Guangkai Xu et.al.|[2202.01470v1](http://arxiv.org/abs/2202.01470v1)|null|
+|**2022-02-03**|**Concept Bottleneck Model with Additional Unsupervised Concepts**|Yoshihide Sawada et.al.|[2202.01459v1](http://arxiv.org/abs/2202.01459v1)|null|
+|**2022-02-03**|**mSLAM: Massively multilingual joint pre-training for speech and text**|Ankur Bapna et.al.|[2202.01374v1](http://arxiv.org/abs/2202.01374v1)|null|
+|**2022-02-02**|**Imitation Learning by Estimating Expertise of Demonstrators**|Mark Beliaev et.al.|[2202.01288v1](http://arxiv.org/abs/2202.01288v1)|null|
 |**2022-02-02**|**Smoothed Embeddings for Certified Few-Shot Learning**|Mikhail Pautov et.al.|[2202.01186v1](http://arxiv.org/abs/2202.01186v1)|null|
 |**2022-02-02**|**Pop Quiz! Can a Large Language Model Help With Reverse Engineering?**|Hammond Pearce et.al.|[2202.01142v1](http://arxiv.org/abs/2202.01142v1)|null|
 |**2022-02-02**|**The CORAL++ Algorithm for Unsupervised Domain Adaptation of Speaker Recogntion**|Rongjin Li et.al.|[2202.01092v1](http://arxiv.org/abs/2202.01092v1)|null|
@@ -885,13 +895,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-03**|**Single photon emission and recombination dynamics in self-assembled GaN/AlN quantum dots**|Johann Stachurski et.al.|[2202.01663v1](http://arxiv.org/abs/2202.01663v1)|null|
+|**2022-02-02**|**Training a Bidirectional GAN-based One-Class Classifier for Network Intrusion Detection**|Wen Xu et.al.|[2202.01332v1](http://arxiv.org/abs/2202.01332v1)|null|
+|**2022-02-02**|**Robust Estimation for Nonparametric Families via Generative Adversarial Networks**|Banghua Zhu et.al.|[2202.01269v1](http://arxiv.org/abs/2202.01269v1)|null|
 |**2022-02-02**|**Structure-preserving GANs**|Jeremiah Birrell et.al.|[2202.01129v1](http://arxiv.org/abs/2202.01129v1)|null|
 |**2022-02-02**|**Unpaired Image Super-Resolution with Optimal Transport Maps**|Milena Gazdieva et.al.|[2202.01116v1](http://arxiv.org/abs/2202.01116v1)|null|
 |**2022-02-02**|**MD-GAN with multi-particle input: the machine learning of long-time molecular behavior from short-time MD data**|Ryo Kawada et.al.|[2202.00995v1](http://arxiv.org/abs/2202.00995v1)|null|
 |**2022-02-02**|**Discovery and mass measurement of the hot, transiting, Earth-sized planet GJ 3929 b**|J. Kemmer et.al.|[2202.00970v1](http://arxiv.org/abs/2202.00970v1)|null|
 |**2022-02-02**|**cardiGAN: A Generative Adversarial Network Model for Design and Discovery of Multi Principal Element Alloys**|Z. Li et.al.|[2202.00966v1](http://arxiv.org/abs/2202.00966v1)|null|
 |**2022-01-29**|**Blind ECG Restoration by Operational Cycle-GANs**|Serkan Kiranyaz et.al.|[2202.00589v1](http://arxiv.org/abs/2202.00589v1)|null|
-|**2022-02-01**|**Progressive Distillation for Fast Sampling of Diffusion Models**|Tim Salimans et.al.|[2202.00512v1](http://arxiv.org/abs/2202.00512v1)|null|
+|**2022-02-01**|**Progressive Distillation for Fast Sampling of Diffusion Models**|Tim Salimans et.al.|[2202.00512v1](http://arxiv.org/abs/2202.00512v1)|**[link](https://github.com/google-research/google-research/tree/master/diffusion_distillation)**|
 |**2022-02-01**|**StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets**|Axel Sauer et.al.|[2202.00273v1](http://arxiv.org/abs/2202.00273v1)|null|
 |**2022-02-01**|**GNNRank: Learning Global Rankings from Pairwise Comparisons via Directed Graph Neural Networks**|Yixuan He et.al.|[2202.00211v1](http://arxiv.org/abs/2202.00211v1)|null|
 |**2022-01-31**|**Deep-Disaster: Unsupervised Disaster Detection and Localization Using Visual Data**|Soroor Shekarizadeh et.al.|[2202.00050v1](http://arxiv.org/abs/2202.00050v1)|**[link](https://github.com/soroorsh/deep-disaster)**|
