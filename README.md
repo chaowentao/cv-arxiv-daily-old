@@ -4,7 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-02**|**Finding Biological Plausibility for Adversarially Robust Features via Metameric Tasks**|Anne Harrington et.al.|[2202.00838v1](http://arxiv.org/abs/2202.00838v1)|**[link](https://github.com/anneharrington/adversarially-robust-periphery)**|
+|**2022-02-02**|**Finding Biological Plausibility for Adversarially Robust Features via Metameric Tasks**|Anne Harrington et.al.|[2202.00838v2](http://arxiv.org/abs/2202.00838v2)|**[link](https://github.com/anneharrington/adversarially-robust-periphery)**|
 |**2022-01-31**|**Crowd-powered Face Manipulation Detection: Fusing Human Examiner Decisions**|Christian Rathgeb et.al.|[2201.13084v1](http://arxiv.org/abs/2201.13084v1)|null|
 |**2022-01-28**|**Psychophysical Evaluation of Human Performance in Detecting Digital Face Image Manipulations**|Robert Nichols et.al.|[2201.12084v1](http://arxiv.org/abs/2201.12084v1)|null|
 |**2022-01-24**|**Feature transforms for image data augmentation**|Loris Nanni et.al.|[2201.09700v1](http://arxiv.org/abs/2201.09700v1)|**[link](https://github.com/lorisnanni/feature-transforms-for-image-data-augmentation)**|
@@ -20,7 +20,7 @@
 |**2021-12-08**|**A Unified Architecture of Semantic Segmentation and Hierarchical Generative Adversarial Networks for Expression Manipulation**|Rumeysa Bodur et.al.|[2112.04603v1](http://arxiv.org/abs/2112.04603v1)|null|
 |**2021-12-01**|**HyperInverter: Improving StyleGAN Inversion via Hypernetwork**|Tan M. Dinh et.al.|[2112.00719v1](http://arxiv.org/abs/2112.00719v1)|null|
 |**2021-11-30**|**Sound-Guided Semantic Image Manipulation**|Seung Hyun Lee et.al.|[2112.00007v1](http://arxiv.org/abs/2112.00007v1)|null|
-|**2021-11-30**|**EdiBERT, a generative model for image editing**|Thibaut Issenhuth et.al.|[2111.15264v1](http://arxiv.org/abs/2111.15264v1)|**[link](https://github.com/edibert4imagemanipulation/edibert)**|
+|**2021-11-30**|**EdiBERT, a generative model for image editing**|Thibaut Issenhuth et.al.|[2111.15264v2](http://arxiv.org/abs/2111.15264v2)|**[link](https://github.com/edibert4imagemanipulation/edibert)**|
 |**2021-11-30**|**SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches**|Yu Zeng et.al.|[2111.15078v1](http://arxiv.org/abs/2111.15078v1)|null|
 |**2021-11-26**|**Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model**|Zipeng Xu et.al.|[2111.13333v1](http://arxiv.org/abs/2111.13333v1)|null|
 |**2021-11-25**|**Attribute-specific Control Units in StyleGAN for Fine-grained Image Manipulation**|Rui Wang et.al.|[2111.13010v1](http://arxiv.org/abs/2111.13010v1)|**[link](https://github.com/budui/Control-Units-in-StyleGAN2)**|
@@ -38,7 +38,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-02**|**Extension -- Adaptive Sampling with Implicit Radiance Field**|Yuchi Huo et.al.|[2202.00855v1](http://arxiv.org/abs/2202.00855v1)|null|
+|**2022-02-02**|**Extension -- Adaptive Sampling with Implicit Radiance Field**|Yuchi Huo et.al.|[2202.00855v2](http://arxiv.org/abs/2202.00855v2)|null|
 |**2022-02-01**|**Observation of Light-Induced Dipole-Dipole Forces in Ultracold Atomic Gases**|Mira Maiwöger et.al.|[2202.00562v1](http://arxiv.org/abs/2202.00562v1)|null|
 |**2022-01-29**|**Light field Rectification based on relative pose estimation**|Xiao Huo et.al.|[2201.12533v1](http://arxiv.org/abs/2201.12533v1)|null|
 |**2022-01-24**|**Deep Decoding of $\ell_\infty$-coded Light Field Images**|Muhammad Umair Mukati et.al.|[2201.09834v1](http://arxiv.org/abs/2201.09834v1)|null|
@@ -729,7 +729,7 @@
 |**2021-12-10**|**HeadNeRF: A Real-time NeRF-based Parametric Head Model**|Yang Hong et.al.|[2112.05637v2](http://arxiv.org/abs/2112.05637v2)|null|
 |**2021-12-10**|**CityNeRF: Building NeRF at City Scale**|Yuanbo Xiangli et.al.|[2112.05504v2](http://arxiv.org/abs/2112.05504v2)|null|
 |**2021-12-09**|**Neural Radiance Fields for Outdoor Scene Relighting**|Viktor Rudnev et.al.|[2112.05140v1](http://arxiv.org/abs/2112.05140v1)|null|
-|**2021-12-09**|**CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields**|Can Wang et.al.|[2112.05139v1](http://arxiv.org/abs/2112.05139v1)|null|
+|**2021-12-09**|**CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields**|Can Wang et.al.|[2112.05139v2](http://arxiv.org/abs/2112.05139v2)|null|
 |**2021-12-09**|**Deep Visual Constraints: Neural Implicit Models for Manipulation Planning from Visual Input**|Jung-Su Ha et.al.|[2112.04812v2](http://arxiv.org/abs/2112.04812v2)|null|
 |**2021-12-08**|**Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering**|Mingfei Chen et.al.|[2112.04312v1](http://arxiv.org/abs/2112.04312v1)|null|
 |**2021-12-07**|**Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields**|Dor Verbin et.al.|[2112.03907v1](http://arxiv.org/abs/2112.03907v1)|null|
