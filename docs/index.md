@@ -238,6 +238,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-04**|**Image-to-Image MLP-mixer for Image Reconstruction**|Youssef Mansour et.al.|[2202.02018v1](http://arxiv.org/abs/2202.02018v1)|null|
+|**2022-01-29**|**Research on Patch Attentive Neural Process**|Xiaohan Yu et.al.|[2202.01884v1](http://arxiv.org/abs/2202.01884v1)|null|
+|**2022-02-03**|**Brain Cancer Survival Prediction on Treatment-na ive MRI using Deep Anchor Attention Learning with Vision Transformer**|Xuan Xu et.al.|[2202.01857v1](http://arxiv.org/abs/2202.01857v1)|null|
 |**2022-02-01**|**Security Evaluation of Block-based Image Encryption for Vision Transformer against Jigsaw Puzzle Solver Attack**|Tatsuya Chuman et.al.|[2202.00806v1](http://arxiv.org/abs/2202.00806v1)|null|
 |**2022-02-01**|**Improving Sample Efficiency of Value Based Models Using Attention and Vision Transformers**|Amir Ardalan Kalantari et.al.|[2202.00710v1](http://arxiv.org/abs/2202.00710v1)|null|
 |**2022-02-01**|**Is the Performance of My Deep Network Too Good to Be True? A Direct Approach to Estimating the Bayes Error in Binary Classification**|Takashi Ishida et.al.|[2202.00395v1](http://arxiv.org/abs/2202.00395v1)|null|
@@ -364,6 +367,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-04**|**COIL: Constrained Optimization in Learned Latent Space -- Learning Representations for Valid Solutions**|Peter J Bentley et.al.|[2202.02163v1](http://arxiv.org/abs/2202.02163v1)|null|
+|**2022-02-04**|**Engineering multifunctionality at oxide interfaces by multimode coupling**|Monirul Shaikh et.al.|[2202.02027v1](http://arxiv.org/abs/2202.02027v1)|null|
 |**2022-02-03**|**Bus Factor In Practice**|Elgun Jabrayilzade et.al.|[2202.01523v1](http://arxiv.org/abs/2202.01523v1)|null|
 |**2022-02-03**|**Network resilience in the aging brain**|Tao Liu et.al.|[2202.01516v1](http://arxiv.org/abs/2202.01516v1)|null|
 |**2022-02-03**|**Sensing the Breath: A Multimodal Singing Tutoring Interface with Breath Guidance**|Ziyue Piao et.al.|[2202.01439v1](http://arxiv.org/abs/2202.01439v1)|null|
@@ -471,6 +476,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-03**|**Practical Imitation Learning in the Real World via Task Consistency Loss**|Mohi Khansari et.al.|[2202.01862v1](http://arxiv.org/abs/2202.01862v1)|null|
+|**2022-02-03**|**Cross-Platform Difference in Facebook and Text Messages Language Use: Illustrated by Depression Diagnosis**|Tingting Liu et.al.|[2202.01802v1](http://arxiv.org/abs/2202.01802v1)|null|
 |**2022-02-02**|**The CORAL++ Algorithm for Unsupervised Domain Adaptation of Speaker Recogntion**|Rongjin Li et.al.|[2202.01092v1](http://arxiv.org/abs/2202.01092v1)|null|
 |**2022-02-01**|**On the Benefits of Selectivity in Pseudo-Labeling for Unsupervised Multi-Source-Free Domain Adaptation**|Maohao Shen et.al.|[2202.00796v1](http://arxiv.org/abs/2202.00796v1)|null|
 |**2022-01-31**|**An Adaptive sampling and domain learning strategy for multivariate function approximation on unknown domains**|Ben Adcock et.al.|[2202.00144v1](http://arxiv.org/abs/2202.00144v1)|**[link](https://github.com/jmcardenas/adaptive-sampling-and-domain-learning)**|
@@ -548,6 +555,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-04**|**Pre-Trained Neural Language Models for Automatic Mobile App User Feedback Answer Generation**|Yue Cao et.al.|[2202.02294v1](http://arxiv.org/abs/2202.02294v1)|null|
+|**2022-02-04**|**Quality Assessment of Low Light Restored Images: A Subjective Study and an Unsupervised Model**|Vignesh Kannan et.al.|[2202.02277v1](http://arxiv.org/abs/2202.02277v1)|null|
+|**2022-02-04**|**BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning**|Eric Jang et.al.|[2202.02005v1](http://arxiv.org/abs/2202.02005v1)|null|
+|**2022-02-04**|**The devil is in the labels: Semantic segmentation from sentences**|Wei Yin et.al.|[2202.02002v1](http://arxiv.org/abs/2202.02002v1)|null|
+|**2022-02-04**|**Introducing Block-Toeplitz Covariance Matrices to Remaster Linear Discriminant Analysis for Event-related Potential Brain-computer Interfaces**|Jan Sosulski et.al.|[2202.02001v1](http://arxiv.org/abs/2202.02001v1)|null|
+|**2022-02-04**|**Unsupervised Learning Based Hybrid Beamforming with Low-Resolution Phase Shifters for MU-MIMO Systems**|Chia-Ho Kuo et.al.|[2202.01946v1](http://arxiv.org/abs/2202.01946v1)|null|
+|**2022-02-04**|**Learning Representation from Neural Fisher Kernel with Low-rank Approximation**|Ruixiang Zhang et.al.|[2202.01944v1](http://arxiv.org/abs/2202.01944v1)|null|
+|**2022-02-04**|**Zero-Shot Aspect-Based Sentiment Analysis**|Lei Shu et.al.|[2202.01924v1](http://arxiv.org/abs/2202.01924v1)|null|
 |**2022-02-03**|**Graph Coloring with Physics-Inspired Graph Neural Networks**|Martin J. A. Schuetz et.al.|[2202.01606v1](http://arxiv.org/abs/2202.01606v1)|null|
 |**2022-02-03**|**PARCEL: Physics-based unsupervised contrastive representation learning for parallel MR imaging**|Shanshan Wang et.al.|[2202.01494v1](http://arxiv.org/abs/2202.01494v1)|null|
 |**2022-02-03**|**Boosting Monocular Depth Estimation with Sparse Guided Points**|Guangkai Xu et.al.|[2202.01470v1](http://arxiv.org/abs/2202.01470v1)|null|
@@ -895,6 +910,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-04**|**EcoFlow: Efficient Convolutional Dataflows for Low-Power Neural Network Accelerators**|Lois Orosa et.al.|[2202.02310v1](http://arxiv.org/abs/2202.02310v1)|null|
+|**2022-02-04**|**Feature-Style Encoder for Style-Based GAN Inversion**|Xu Yao et.al.|[2202.02183v1](http://arxiv.org/abs/2202.02183v1)|**[link](https://github.com/interdigitalinc/featurestyleencoder)**|
+|**2022-02-03**|**Practical Imitation Learning in the Real World via Task Consistency Loss**|Mohi Khansari et.al.|[2202.01862v1](http://arxiv.org/abs/2202.01862v1)|null|
 |**2022-02-03**|**Single photon emission and recombination dynamics in self-assembled GaN/AlN quantum dots**|Johann Stachurski et.al.|[2202.01663v1](http://arxiv.org/abs/2202.01663v1)|null|
 |**2022-02-02**|**Training a Bidirectional GAN-based One-Class Classifier for Network Intrusion Detection**|Wen Xu et.al.|[2202.01332v1](http://arxiv.org/abs/2202.01332v1)|null|
 |**2022-02-02**|**Robust Estimation for Nonparametric Families via Generative Adversarial Networks**|Banghua Zhu et.al.|[2202.01269v1](http://arxiv.org/abs/2202.01269v1)|null|
