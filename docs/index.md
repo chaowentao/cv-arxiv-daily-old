@@ -367,7 +367,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-02-04**|**COIL: Constrained Optimization in Learned Latent Space -- Learning Representations for Valid Solutions**|Peter J Bentley et.al.|[2202.02163v1](http://arxiv.org/abs/2202.02163v1)|null|
+|**2022-02-04**|**COIL: Constrained Optimization in Learned Latent Space -- Learning Representations for Valid Solutions**|Peter J Bentley et.al.|[2202.02163v2](http://arxiv.org/abs/2202.02163v2)|null|
 |**2022-02-04**|**Engineering multifunctionality at oxide interfaces by multimode coupling**|Monirul Shaikh et.al.|[2202.02027v1](http://arxiv.org/abs/2202.02027v1)|null|
 |**2022-02-03**|**Bus Factor In Practice**|Elgun Jabrayilzade et.al.|[2202.01523v1](http://arxiv.org/abs/2202.01523v1)|null|
 |**2022-02-03**|**Network resilience in the aging brain**|Tao Liu et.al.|[2202.01516v1](http://arxiv.org/abs/2202.01516v1)|null|
@@ -381,7 +381,7 @@ layout: default
 |**2022-01-30**|**Multimodal Maximum Entropy Dynamic Games**|Oswin So et.al.|[2201.12925v2](http://arxiv.org/abs/2201.12925v2)|null|
 |**2022-01-30**|**A Dataset for Medical Instructional Video Classification and Question Answering**|Deepak Gupta et.al.|[2201.12888v1](http://arxiv.org/abs/2201.12888v1)|**[link](https://github.com/deepaknlp/medvidqacl)**|
 |**2022-01-29**|**Chaotic Diffusion of Dissipative Solitons: From Anti-Persistent Random Walk to Hidden Markov Models**|Tony Albers et.al.|[2201.12471v1](http://arxiv.org/abs/2201.12471v1)|null|
-|**2022-01-28**|**Encoding qubits in multimode grid states**|Baptiste Royer et.al.|[2201.12337v1](http://arxiv.org/abs/2201.12337v1)|null|
+|**2022-01-28**|**Encoding qubits in multimode grid states**|Baptiste Royer et.al.|[2201.12337v2](http://arxiv.org/abs/2201.12337v2)|null|
 |**2022-01-28**|**Regionalized optimization**|Grégoire Sergeant-Perthuis et.al.|[2201.11876v1](http://arxiv.org/abs/2201.11876v1)|null|
 |**2022-01-27**|**Pressure Eye: In-bed Contact Pressure Estimation via Contact-less Imaging**|Shuangjun Liu et.al.|[2201.11828v1](http://arxiv.org/abs/2201.11828v1)|**[link](https://github.com/ostadabbas/pressureeye)**|
 |**2022-01-27**|**IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages**|Emanuele Bugliarello et.al.|[2201.11732v1](http://arxiv.org/abs/2201.11732v1)|**[link](https://github.com/e-bug/iglue)**|
@@ -490,7 +490,7 @@ layout: default
 |**2022-01-25**|**Unsupervised Domain Adaptation for Vestibular Schwannoma and Cochlea Segmentation via Semi-supervised Learning and Label Fusion**|Han Liu et.al.|[2201.10647v1](http://arxiv.org/abs/2201.10647v1)|null|
 |**2022-01-25**|**Feature Diversity Learning with Sample Dropout for Unsupervised Domain Adaptive Person Re-identification**|Chunren Tang et.al.|[2201.10212v1](http://arxiv.org/abs/2201.10212v1)|null|
 |**2022-01-24**|**The Enforced Transfer: A Novel Domain Adaptation Algorithm**|Ye Gao et.al.|[2201.10001v1](http://arxiv.org/abs/2201.10001v1)|null|
-|**2022-01-20**|**Deep Attention-Based Supernovae Classification of Multi-Band Light-Curves**|Óscar Pimentel et.al.|[2201.08482v1](http://arxiv.org/abs/2201.08482v1)|null|
+|**2022-01-20**|**Deep Attention-Based Supernovae Classification of Multi-Band Light-Curves**|Óscar Pimentel et.al.|[2201.08482v2](http://arxiv.org/abs/2201.08482v2)|null|
 |**2022-01-19**|**Superpixel Pre-Segmentation of HER2 Slides for Efficient Annotation**|Mathias Öttl et.al.|[2201.07572v1](http://arxiv.org/abs/2201.07572v1)|null|
 |**2022-01-18**|**A Privacy-Preserving Unsupervised Domain Adaptation Framework for Clinical Text Analysis**|Qiyuan An et.al.|[2201.07317v1](http://arxiv.org/abs/2201.07317v1)|null|
 |**2022-01-18**|**Continual Coarse-to-Fine Domain Adaptation in Semantic Segmentation**|Donald Shenaj et.al.|[2201.06974v1](http://arxiv.org/abs/2201.06974v1)|null|
