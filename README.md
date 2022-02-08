@@ -38,6 +38,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-07**|**Quantum States of a Two-Level Atom trapped in a Helical Optical Tube**|V. E. Lembessis et.al.|[2202.03042v1](http://arxiv.org/abs/2202.03042v1)|null|
+|**2022-02-05**|**Complex-amplitude Fourier single-pixel imaging via coherent structured illumination**|Ya-Nan Zhao et.al.|[2202.02527v1](http://arxiv.org/abs/2202.02527v1)|null|
 |**2022-02-02**|**Extension -- Adaptive Sampling with Implicit Radiance Field**|Yuchi Huo et.al.|[2202.00855v2](http://arxiv.org/abs/2202.00855v2)|null|
 |**2022-02-01**|**Observation of Light-Induced Dipole-Dipole Forces in Ultracold Atomic Gases**|Mira Maiwöger et.al.|[2202.00562v1](http://arxiv.org/abs/2202.00562v1)|null|
 |**2022-01-29**|**Light field Rectification based on relative pose estimation**|Xiao Huo et.al.|[2201.12533v1](http://arxiv.org/abs/2201.12533v1)|null|
@@ -86,6 +88,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-07**|**Recent Trends in 2D Object Detection and Applications in Video Event Recognition**|Prithwish Jana et.al.|[2202.03206v1](http://arxiv.org/abs/2202.03206v1)|null|
+|**2022-02-07**|**Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics**|Arnav Varma et.al.|[2202.03131v1](http://arxiv.org/abs/2202.03131v1)|null|
+|**2022-02-06**|**GLPanoDepth: Global-to-Local Panoramic Depth Estimation**|Jiayang Bai et.al.|[2202.02796v1](http://arxiv.org/abs/2202.02796v1)|null|
 |**2022-02-04**|**Image-to-Image MLP-mixer for Image Reconstruction**|Youssef Mansour et.al.|[2202.02018v1](http://arxiv.org/abs/2202.02018v1)|null|
 |**2022-01-29**|**Research on Patch Attentive Neural Process**|Xiaohan Yu et.al.|[2202.01884v1](http://arxiv.org/abs/2202.01884v1)|null|
 |**2022-02-03**|**Brain Cancer Survival Prediction on Treatment-na ive MRI using Deep Anchor Attention Learning with Vision Transformer**|Xuan Xu et.al.|[2202.01857v1](http://arxiv.org/abs/2202.01857v1)|null|
@@ -178,6 +183,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-05**|**A survey of top-down approaches for human pose estimation**|Thong Duy Nguyen et.al.|[2202.02656v1](http://arxiv.org/abs/2202.02656v1)|null|
 |**2022-02-01**|**ADG-Pose: Automated Dataset Generation for Real-World Human Pose Estimation**|Ghazal Alinezhad Noghre et.al.|[2202.00753v1](http://arxiv.org/abs/2202.00753v1)|null|
 |**2022-02-01**|**Sim2Real Object-Centric Keypoint Detection and Description**|Chengliang Zhong et.al.|[2202.00448v2](http://arxiv.org/abs/2202.00448v2)|null|
 |**2022-01-20**|**Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision**|Jian Wang et.al.|[2201.07929v1](http://arxiv.org/abs/2201.07929v1)|null|
@@ -215,6 +221,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-07**|**GMC -- Geometric Multimodal Contrastive Representation Learning**|Petra Poklukar et.al.|[2202.03390v1](http://arxiv.org/abs/2202.03390v1)|null|
+|**2022-02-07**|**CZU-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and 10 wearable inertial sensors**|Xin Chao et.al.|[2202.03283v1](http://arxiv.org/abs/2202.03283v1)|null|
+|**2022-02-02**|**Human Activity Recognition Using Tools of Convolutional Neural Networks: A State of the Art Review, Data Sets, Challenges and Future Prospects**|Md. Milon Islam et.al.|[2202.03274v1](http://arxiv.org/abs/2202.03274v1)|null|
+|**2022-02-07**|**Unsupervised physics-informed disentanglement of multimodal data for high-throughput scientific discovery**|Nathaniel Trask et.al.|[2202.03242v1](http://arxiv.org/abs/2202.03242v1)|null|
+|**2022-02-03**|**Optical skin: Sensor-integration-free multimodal flexible sensing**|Sho Shimadera et.al.|[2202.03189v1](http://arxiv.org/abs/2202.03189v1)|null|
+|**2022-02-07**|**Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework**|Peng Wang et.al.|[2202.03052v1](http://arxiv.org/abs/2202.03052v1)|**[link](https://github.com/ofa-sys/ofa)**|
+|**2022-02-07**|**Mental Stress Detection using Data from Wearable and Non-wearable Sensors: A Review**|Aamir Arsalan et.al.|[2202.03033v1](http://arxiv.org/abs/2202.03033v1)|null|
+|**2022-02-07**|**Dark Matter in Galaxy Clusters: a Parametric Strong Lensing Approach**|Marceau Limousin et.al.|[2202.02992v1](http://arxiv.org/abs/2202.02992v1)|null|
 |**2022-02-04**|**COIL: Constrained Optimization in Learned Latent Space -- Learning Representations for Valid Solutions**|Peter J Bentley et.al.|[2202.02163v2](http://arxiv.org/abs/2202.02163v2)|null|
 |**2022-02-04**|**Engineering multifunctionality at oxide interfaces by multimode coupling**|Monirul Shaikh et.al.|[2202.02027v1](http://arxiv.org/abs/2202.02027v1)|null|
 |**2022-02-03**|**Bus Factor In Practice**|Elgun Jabrayilzade et.al.|[2202.01523v1](http://arxiv.org/abs/2202.01523v1)|null|
@@ -324,6 +338,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-07**|**Message Passing Neural PDE Solvers**|Johannes Brandstetter et.al.|[2202.03376v1](http://arxiv.org/abs/2202.03376v1)|null|
+|**2022-02-06**|**Low-confidence Samples Matter for Domain Adaptation**|Yixin Zhang et.al.|[2202.02802v1](http://arxiv.org/abs/2202.02802v1)|**[link](https://github.com/zhyx12/mixlrco)**|
+|**2022-02-06**|**Simulation-to-Reality domain adaptation for offline 3D object annotation on pointclouds with correlation alignment**|Weishuang Zhang et.al.|[2202.02666v1](http://arxiv.org/abs/2202.02666v1)|null|
+|**2022-02-04**|**Malleable Agents for Re-Configurable Robotic Manipulators**|Athindran Ramesh Kumar et.al.|[2202.02395v1](http://arxiv.org/abs/2202.02395v1)|null|
 |**2022-02-03**|**Practical Imitation Learning in the Real World via Task Consistency Loss**|Mohi Khansari et.al.|[2202.01862v1](http://arxiv.org/abs/2202.01862v1)|null|
 |**2022-02-03**|**Cross-Platform Difference in Facebook and Text Messages Language Use: Illustrated by Depression Diagnosis**|Tingting Liu et.al.|[2202.01802v1](http://arxiv.org/abs/2202.01802v1)|null|
 |**2022-02-02**|**The CORAL++ Algorithm for Unsupervised Domain Adaptation of Speaker Recogntion**|Rongjin Li et.al.|[2202.01092v1](http://arxiv.org/abs/2202.01092v1)|null|
@@ -403,6 +421,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-07**|**Cedille: A large autoregressive French language model**|Martin Müller et.al.|[2202.03371v1](http://arxiv.org/abs/2202.03371v1)|null|
+|**2022-02-07**|**Red Teaming Language Models with Language Models**|Ethan Perez et.al.|[2202.03286v1](http://arxiv.org/abs/2202.03286v1)|null|
+|**2022-02-07**|**Crafting Better Contrastive Views for Siamese Representation Learning**|Xiangyu Peng et.al.|[2202.03278v1](http://arxiv.org/abs/2202.03278v1)|**[link](https://github.com/xyupeng/contrastivecrop)**|
+|**2022-02-07**|**Unsupervised physics-informed disentanglement of multimodal data for high-throughput scientific discovery**|Nathaniel Trask et.al.|[2202.03242v1](http://arxiv.org/abs/2202.03242v1)|null|
+|**2022-02-07**|**Reasoning for Complex Data through Ensemble-based Self-Supervised Learning**|Gabriel Bertocco et.al.|[2202.03126v1](http://arxiv.org/abs/2202.03126v1)|null|
+|**2022-02-07**|**To Tune or Not To Tune? Zero-shot Models for Legal Case Entailment**|Guilherme Moraes Rosa et.al.|[2202.03120v1](http://arxiv.org/abs/2202.03120v1)|**[link](https://github.com/neuralmind-ai/coliee)**|
+|**2022-02-07**|**Unsupervised Long-Term Person Re-Identification with Clothes Change**|Mingkun Li et.al.|[2202.03087v1](http://arxiv.org/abs/2202.03087v1)|null|
+|**2022-02-07**|**A new face swap method for image and video domains: a technical report**|Daniil Chesakov et.al.|[2202.03046v1](http://arxiv.org/abs/2202.03046v1)|null|
+|**2022-02-07**|**Automatic defect segmentation by unsupervised anomaly learning**|Nati Ofir et.al.|[2202.02998v1](http://arxiv.org/abs/2202.02998v1)|null|
+|**2022-02-07**|**Comparison and Combination of Sentence Embeddings Derived from Different Supervision Signals**|Hayato Tsukagoshi et.al.|[2202.02990v1](http://arxiv.org/abs/2202.02990v1)|null|
+|**2022-02-07**|**Graph Self-supervised Learning with Accurate Discrepancy Learning**|Dongki Kim et.al.|[2202.02989v1](http://arxiv.org/abs/2202.02989v1)|null|
+|**2022-02-07**|**User Satisfaction Estimation with Sequential Dialogue Act Modeling in Goal-oriented Conversational Systems**|Yang Deng et.al.|[2202.02912v1](http://arxiv.org/abs/2202.02912v1)|null|
+|**2022-02-07**|**Identification of topological phases using classically-optimized variational quantum eigensolver**|Ken N. Okada et.al.|[2202.02909v1](http://arxiv.org/abs/2202.02909v1)|null|
+|**2022-02-06**|**CheXstray: Real-time Multi-Modal Data Concordance for Drift Detection in Medical Imaging AI**|Arjun Soin et.al.|[2202.02833v1](http://arxiv.org/abs/2202.02833v1)|null|
+|**2022-02-06**|**Low-confidence Samples Matter for Domain Adaptation**|Yixin Zhang et.al.|[2202.02802v1](http://arxiv.org/abs/2202.02802v1)|**[link](https://github.com/zhyx12/mixlrco)**|
+|**2022-02-06**|**Multi-domain Unsupervised Image-to-Image Translation with Appearance Adaptive Convolution**|Somi Jeong et.al.|[2202.02779v1](http://arxiv.org/abs/2202.02779v1)|null|
+|**2022-02-06**|**Bandwidth-Constrained Distributed Quickest Change Detection in Heterogeneous Sensor Networks: Anonymous vs Non-Anonymous Settings**|Wen-Hsuan Li et.al.|[2202.02697v1](http://arxiv.org/abs/2202.02697v1)|null|
+|**2022-02-05**|**Exemplar-Based Contrastive Self-Supervised Learning with Few-Shot Class Incremental Learning**|Daniel T. Chang et.al.|[2202.02601v1](http://arxiv.org/abs/2202.02601v1)|null|
+|**2022-02-05**|**LST: Lexicon-Guided Self-Training for Few-Shot Text Classification**|Hazel Kim et.al.|[2202.02566v1](http://arxiv.org/abs/2202.02566v1)|null|
+|**2022-02-05**|**Unsupervised Learning on 3D Point Clouds by Clustering and Contrasting**|Guofeng Mei et.al.|[2202.02543v1](http://arxiv.org/abs/2202.02543v1)|null|
 |**2022-02-04**|**Pre-Trained Neural Language Models for Automatic Mobile App User Feedback Answer Generation**|Yue Cao et.al.|[2202.02294v1](http://arxiv.org/abs/2202.02294v1)|null|
 |**2022-02-04**|**Quality Assessment of Low Light Restored Images: A Subjective Study and an Unsupervised Model**|Vignesh Kannan et.al.|[2202.02277v1](http://arxiv.org/abs/2202.02277v1)|null|
 |**2022-02-04**|**BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning**|Eric Jang et.al.|[2202.02005v1](http://arxiv.org/abs/2202.02005v1)|null|
@@ -758,6 +796,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-07**|**FrePGAN: Robust Deepfake Detection Using Frequency-level Perturbations**|Yonghyun Jeong et.al.|[2202.03347v1](http://arxiv.org/abs/2202.03347v1)|null|
+|**2022-02-07**|**A new face swap method for image and video domains: a technical report**|Daniil Chesakov et.al.|[2202.03046v1](http://arxiv.org/abs/2202.03046v1)|null|
+|**2022-02-07**|**Algorithms that get old : the case of generative algorithms**|Gabriel Turinici et.al.|[2202.03008v1](http://arxiv.org/abs/2202.03008v1)|null|
+|**2022-02-07**|**Rates of convergence for nonparametric estimation of singular distributions using generative adversarial networks**|Minwoo Chae et.al.|[2202.02890v1](http://arxiv.org/abs/2202.02890v1)|null|
+|**2022-02-06**|**FEAT: Face Editing with Attention**|Xianxu Hou et.al.|[2202.02713v1](http://arxiv.org/abs/2202.02713v1)|null|
+|**2022-02-06**|**TTS-GAN: A Transformer-based Time-Series Generative Adversarial Network**|Xiaomin Li et.al.|[2202.02691v1](http://arxiv.org/abs/2202.02691v1)|**[link](https://github.com/imics-lab/tts-gan)**|
 |**2022-02-04**|**EcoFlow: Efficient Convolutional Dataflows for Low-Power Neural Network Accelerators**|Lois Orosa et.al.|[2202.02310v1](http://arxiv.org/abs/2202.02310v1)|null|
 |**2022-02-04**|**Feature-Style Encoder for Style-Based GAN Inversion**|Xu Yao et.al.|[2202.02183v1](http://arxiv.org/abs/2202.02183v1)|**[link](https://github.com/interdigitalinc/featurestyleencoder)**|
 |**2022-02-03**|**Practical Imitation Learning in the Real World via Task Consistency Loss**|Mohi Khansari et.al.|[2202.01862v1](http://arxiv.org/abs/2202.01862v1)|null|
