@@ -40,7 +40,7 @@
 |---|---|---|---|---|
 |**2022-02-07**|**Quantum States of a Two-Level Atom trapped in a Helical Optical Tube**|V. E. Lembessis et.al.|[2202.03042v1](http://arxiv.org/abs/2202.03042v1)|null|
 |**2022-02-05**|**Complex-amplitude Fourier single-pixel imaging via coherent structured illumination**|Ya-Nan Zhao et.al.|[2202.02527v1](http://arxiv.org/abs/2202.02527v1)|null|
-|**2022-02-02**|**Extension -- Adaptive Sampling with Implicit Radiance Field**|Yuchi Huo et.al.|[2202.00855v2](http://arxiv.org/abs/2202.00855v2)|null|
+|**2022-02-02**|**Extension: Adaptive Sampling with Implicit Radiance Field**|Yuchi Huo et.al.|[2202.00855v3](http://arxiv.org/abs/2202.00855v3)|null|
 |**2022-02-01**|**Observation of Light-Induced Dipole-Dipole Forces in Ultracold Atomic Gases**|Mira Maiwöger et.al.|[2202.00562v1](http://arxiv.org/abs/2202.00562v1)|null|
 |**2022-01-29**|**Light field Rectification based on relative pose estimation**|Xiao Huo et.al.|[2201.12533v1](http://arxiv.org/abs/2201.12533v1)|null|
 |**2022-01-24**|**Deep Decoding of $\ell_\infty$-coded Light Field Images**|Muhammad Umair Mukati et.al.|[2201.09834v1](http://arxiv.org/abs/2201.09834v1)|null|
@@ -90,7 +90,7 @@
 |---|---|---|---|---|
 |**2022-02-07**|**Recent Trends in 2D Object Detection and Applications in Video Event Recognition**|Prithwish Jana et.al.|[2202.03206v1](http://arxiv.org/abs/2202.03206v1)|null|
 |**2022-02-07**|**Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics**|Arnav Varma et.al.|[2202.03131v1](http://arxiv.org/abs/2202.03131v1)|null|
-|**2022-02-06**|**GLPanoDepth: Global-to-Local Panoramic Depth Estimation**|Jiayang Bai et.al.|[2202.02796v1](http://arxiv.org/abs/2202.02796v1)|null|
+|**2022-02-06**|**GLPanoDepth: Global-to-Local Panoramic Depth Estimation**|Jiayang Bai et.al.|[2202.02796v2](http://arxiv.org/abs/2202.02796v2)|null|
 |**2022-02-04**|**Image-to-Image MLP-mixer for Image Reconstruction**|Youssef Mansour et.al.|[2202.02018v1](http://arxiv.org/abs/2202.02018v1)|null|
 |**2022-01-29**|**Research on Patch Attentive Neural Process**|Xiaohan Yu et.al.|[2202.01884v1](http://arxiv.org/abs/2202.01884v1)|null|
 |**2022-02-03**|**Brain Cancer Survival Prediction on Treatment-na ive MRI using Deep Anchor Attention Learning with Vision Transformer**|Xuan Xu et.al.|[2202.01857v1](http://arxiv.org/abs/2202.01857v1)|null|
@@ -221,7 +221,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-07**|**GMC -- Geometric Multimodal Contrastive Representation Learning**|Petra Poklukar et.al.|[2202.03390v1](http://arxiv.org/abs/2202.03390v1)|null|
+|**2022-02-07**|**GMC -- Geometric Multimodal Contrastive Representation Learning**|Petra Poklukar et.al.|[2202.03390v2](http://arxiv.org/abs/2202.03390v2)|null|
 |**2022-02-07**|**CZU-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and 10 wearable inertial sensors**|Xin Chao et.al.|[2202.03283v1](http://arxiv.org/abs/2202.03283v1)|**[link](https://github.com/yujmo/czu_mhad)**|
 |**2022-02-02**|**Human Activity Recognition Using Tools of Convolutional Neural Networks: A State of the Art Review, Data Sets, Challenges and Future Prospects**|Md. Milon Islam et.al.|[2202.03274v1](http://arxiv.org/abs/2202.03274v1)|null|
 |**2022-02-07**|**Unsupervised physics-informed disentanglement of multimodal data for high-throughput scientific discovery**|Nathaniel Trask et.al.|[2202.03242v1](http://arxiv.org/abs/2202.03242v1)|null|
@@ -427,7 +427,7 @@
 |**2022-02-07**|**Unsupervised physics-informed disentanglement of multimodal data for high-throughput scientific discovery**|Nathaniel Trask et.al.|[2202.03242v1](http://arxiv.org/abs/2202.03242v1)|null|
 |**2022-02-07**|**Reasoning for Complex Data through Ensemble-based Self-Supervised Learning**|Gabriel Bertocco et.al.|[2202.03126v1](http://arxiv.org/abs/2202.03126v1)|null|
 |**2022-02-07**|**To Tune or Not To Tune? Zero-shot Models for Legal Case Entailment**|Guilherme Moraes Rosa et.al.|[2202.03120v1](http://arxiv.org/abs/2202.03120v1)|**[link](https://github.com/neuralmind-ai/coliee)**|
-|**2022-02-07**|**Unsupervised Long-Term Person Re-Identification with Clothes Change**|Mingkun Li et.al.|[2202.03087v1](http://arxiv.org/abs/2202.03087v1)|null|
+|**2022-02-07**|**Unsupervised Long-Term Person Re-Identification with Clothes Change**|Mingkun Li et.al.|[2202.03087v2](http://arxiv.org/abs/2202.03087v2)|null|
 |**2022-02-07**|**A new face swap method for image and video domains: a technical report**|Daniil Chesakov et.al.|[2202.03046v1](http://arxiv.org/abs/2202.03046v1)|null|
 |**2022-02-07**|**Automatic defect segmentation by unsupervised anomaly learning**|Nati Ofir et.al.|[2202.02998v1](http://arxiv.org/abs/2202.02998v1)|null|
 |**2022-02-07**|**Comparison and Combination of Sentence Embeddings Derived from Different Supervision Signals**|Hayato Tsukagoshi et.al.|[2202.02990v1](http://arxiv.org/abs/2202.02990v1)|null|
