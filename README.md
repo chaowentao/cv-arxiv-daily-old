@@ -221,6 +221,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-08**|**DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers**|Jaemin Cho et.al.|[2202.04053v1](http://arxiv.org/abs/2202.04053v1)|**[link](https://github.com/j-min/dalleval)**|
+|**2022-02-08**|**Social-DualCVAE: Multimodal Trajectory Forecasting Based on Social Interactions Pattern Aware and Dual Conditional Variational Auto-Encoder**|Jiashi Gao et.al.|[2202.03954v1](http://arxiv.org/abs/2202.03954v1)|null|
+|**2022-02-07**|**Speech Emotion Recognition using Self-Supervised Features**|Edmilson Morais et.al.|[2202.03896v1](http://arxiv.org/abs/2202.03896v1)|null|
+|**2022-02-07**|**Integration of Clinical, Biological, and Computational Perspectives to Support Cerebral Autoregulatory Informed Clinical Decision Making Decomposing Cerebral Autoregulation using Mechanistic Timescales to Support Clinical Decision-Making**|J. K. Briggs et.al.|[2202.03886v1](http://arxiv.org/abs/2202.03886v1)|null|
+|**2022-02-08**|**Addressing Data Scarcity in Multimodal User State Recognition by Combining Semi-Supervised and Supervised Learning**|Hendric Voß et.al.|[2202.03775v1](http://arxiv.org/abs/2202.03775v1)|null|
+|**2022-02-08**|**CALM: Contrastive Aligned Audio-Language Multirate and Multimodal Representations**|Vin Sachidananda et.al.|[2202.03587v1](http://arxiv.org/abs/2202.03587v1)|null|
+|**2022-02-07**|**Targeted-BEHRT: Deep learning for observational causal inference on longitudinal electronic health records**|Shishir Rao et.al.|[2202.03487v1](http://arxiv.org/abs/2202.03487v1)|null|
 |**2022-02-07**|**GMC -- Geometric Multimodal Contrastive Representation Learning**|Petra Poklukar et.al.|[2202.03390v2](http://arxiv.org/abs/2202.03390v2)|null|
 |**2022-02-07**|**CZU-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and 10 wearable inertial sensors**|Xin Chao et.al.|[2202.03283v1](http://arxiv.org/abs/2202.03283v1)|**[link](https://github.com/yujmo/czu_mhad)**|
 |**2022-02-02**|**Human Activity Recognition Using Tools of Convolutional Neural Networks: A State of the Art Review, Data Sets, Challenges and Future Prospects**|Md. Milon Islam et.al.|[2202.03274v1](http://arxiv.org/abs/2202.03274v1)|null|
@@ -338,6 +345,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-08**|**Domain Adversarial Spatial-Temporal Network: A Transferable Framework for Short-term Traffic Forecasting across Cities**|Yihong Tang et.al.|[2202.03630v1](http://arxiv.org/abs/2202.03630v1)|null|
+|**2022-02-08**|**Graph-Relational Domain Adaptation**|Zihao Xu et.al.|[2202.03628v1](http://arxiv.org/abs/2202.03628v1)|**[link](https://github.com/wang-ml-lab/grda)**|
+|**2022-02-07**|**Structured Time Series Prediction without Structural Prior**|Darko Drakulic et.al.|[2202.03539v1](http://arxiv.org/abs/2202.03539v1)|null|
+|**2022-02-07**|**Integrated Multiscale Domain Adaptive YOLO**|Mazin Hnewa et.al.|[2202.03527v1](http://arxiv.org/abs/2202.03527v1)|null|
 |**2022-02-07**|**Message Passing Neural PDE Solvers**|Johannes Brandstetter et.al.|[2202.03376v1](http://arxiv.org/abs/2202.03376v1)|null|
 |**2022-02-06**|**Low-confidence Samples Matter for Domain Adaptation**|Yixin Zhang et.al.|[2202.02802v1](http://arxiv.org/abs/2202.02802v1)|**[link](https://github.com/zhyx12/mixlrco)**|
 |**2022-02-06**|**Simulation-to-Reality domain adaptation for offline 3D object annotation on pointclouds with correlation alignment**|Weishuang Zhang et.al.|[2202.02666v1](http://arxiv.org/abs/2202.02666v1)|null|
@@ -421,6 +432,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-08**|**Time Series Anomaly Detection by Cumulative Radon Features**|Yedid Hoshen et.al.|[2202.04067v1](http://arxiv.org/abs/2202.04067v1)|**[link](https://github.com/yedidh/radonomaly)**|
+|**2022-02-08**|**Unsupervised Bayesian classification for models with scalar and functional covariates**|Nancy L. Garcia et.al.|[2202.04037v1](http://arxiv.org/abs/2202.04037v1)|null|
+|**2022-02-08**|**Learning Sinkhorn divergences for supervised change point detection**|Nauman Ahad et.al.|[2202.04000v1](http://arxiv.org/abs/2202.04000v1)|null|
+|**2022-02-08**|**Social-DualCVAE: Multimodal Trajectory Forecasting Based on Social Interactions Pattern Aware and Dual Conditional Variational Auto-Encoder**|Jiashi Gao et.al.|[2202.03954v1](http://arxiv.org/abs/2202.03954v1)|null|
+|**2022-02-08**|**Unsupervised Source Separation via Self-Supervised Training**|Ertuğ Karamatlı et.al.|[2202.03875v1](http://arxiv.org/abs/2202.03875v1)|null|
+|**2022-02-08**|**Unsupervised topological learning approach of crystal nucleation in pure Tantalum**|Sébastien Becker et.al.|[2202.03767v1](http://arxiv.org/abs/2202.03767v1)|null|
+|**2022-02-08**|**What's Cracking? A Review and Analysis of Deep Learning Methods for Structural Crack Segmentation, Detection and Quantification**|Jacob König et.al.|[2202.03714v1](http://arxiv.org/abs/2202.03714v1)|null|
+|**2022-02-08**|**DURableVS: Data-efficient Unsupervised Recalibrating Visual Servoing via online learning in a structured generative model**|Nishad Gothoskar et.al.|[2202.03697v1](http://arxiv.org/abs/2202.03697v1)|null|
+|**2022-02-08**|**Trained Model in Supervised Deep Learning is a Conditional Risk Minimizer**|Yutong Xie et.al.|[2202.03674v1](http://arxiv.org/abs/2202.03674v1)|null|
+|**2022-02-08**|**MOST-Net: A Memory Oriented Style Transfer Network for Face Sketch Synthesis**|Fan Ji et.al.|[2202.03596v1](http://arxiv.org/abs/2202.03596v1)|null|
+|**2022-02-07**|**MAML and ANIL Provably Learn Representations**|Liam Collins et.al.|[2202.03483v1](http://arxiv.org/abs/2202.03483v1)|null|
+|**2022-02-07**|**Scanning disk rings and winds in CO at 0.01-10 au: a high-resolution $M$-band spectroscopy survey with IRTF-iSHELL**|Andrea Banzatti et.al.|[2202.03438v1](http://arxiv.org/abs/2202.03438v1)|null|
 |**2022-02-07**|**Cedille: A large autoregressive French language model**|Martin Müller et.al.|[2202.03371v1](http://arxiv.org/abs/2202.03371v1)|null|
 |**2022-02-07**|**Red Teaming Language Models with Language Models**|Ethan Perez et.al.|[2202.03286v1](http://arxiv.org/abs/2202.03286v1)|null|
 |**2022-02-07**|**Crafting Better Contrastive Views for Siamese Representation Learning**|Xiangyu Peng et.al.|[2202.03278v1](http://arxiv.org/abs/2202.03278v1)|**[link](https://github.com/xyupeng/contrastivecrop)**|
@@ -796,6 +819,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-08**|**Study of charmonium and charmonium-like contributions in $B^+ \rightarrow J/ψηK^+$ decays**|LHCb collaboration et.al.|[2202.04045v1](http://arxiv.org/abs/2202.04045v1)|null|
+|**2022-02-08**|**Self-Conditioned Generative Adversarial Networks for Image Editing**|Yunzhe Liu et.al.|[2202.04040v1](http://arxiv.org/abs/2202.04040v1)|null|
+|**2022-02-08**|**Edge-based fever screening system over private 5G**|Murugan Sankaradas et.al.|[2202.03917v1](http://arxiv.org/abs/2202.03917v1)|null|
+|**2022-02-08**|**Invertible Tabular GANs: Killing Two Birds with OneStone for Tabular Data Synthesis**|Jaehoon Lee et.al.|[2202.03636v1](http://arxiv.org/abs/2202.03636v1)|null|
+|**2022-02-07**|**Modeling of V graded In(x)Ga(1-x)N solar cells: comparison of strained and relaxed features**|Mirsaeid Sarollahi et.al.|[2202.03510v1](http://arxiv.org/abs/2202.03510v1)|null|
 |**2022-02-07**|**FrePGAN: Robust Deepfake Detection Using Frequency-level Perturbations**|Yonghyun Jeong et.al.|[2202.03347v1](http://arxiv.org/abs/2202.03347v1)|null|
 |**2022-02-07**|**A new face swap method for image and video domains: a technical report**|Daniil Chesakov et.al.|[2202.03046v1](http://arxiv.org/abs/2202.03046v1)|null|
 |**2022-02-07**|**Algorithms that get old : the case of generative algorithms**|Gabriel Turinici et.al.|[2202.03008v1](http://arxiv.org/abs/2202.03008v1)|null|
