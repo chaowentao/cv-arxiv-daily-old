@@ -1,4 +1,4 @@
-## Updated on 2022.02.08
+## Updated on 2022.02.09
 
 ## Image Generation
 
@@ -222,7 +222,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-02-07**|**GMC -- Geometric Multimodal Contrastive Representation Learning**|Petra Poklukar et.al.|[2202.03390v1](http://arxiv.org/abs/2202.03390v1)|null|
-|**2022-02-07**|**CZU-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and 10 wearable inertial sensors**|Xin Chao et.al.|[2202.03283v1](http://arxiv.org/abs/2202.03283v1)|null|
+|**2022-02-07**|**CZU-MHAD: A multimodal dataset for human action recognition utilizing a depth camera and 10 wearable inertial sensors**|Xin Chao et.al.|[2202.03283v1](http://arxiv.org/abs/2202.03283v1)|**[link](https://github.com/yujmo/czu_mhad)**|
 |**2022-02-02**|**Human Activity Recognition Using Tools of Convolutional Neural Networks: A State of the Art Review, Data Sets, Challenges and Future Prospects**|Md. Milon Islam et.al.|[2202.03274v1](http://arxiv.org/abs/2202.03274v1)|null|
 |**2022-02-07**|**Unsupervised physics-informed disentanglement of multimodal data for high-throughput scientific discovery**|Nathaniel Trask et.al.|[2202.03242v1](http://arxiv.org/abs/2202.03242v1)|null|
 |**2022-02-03**|**Optical skin: Sensor-integration-free multimodal flexible sensing**|Sho Shimadera et.al.|[2202.03189v1](http://arxiv.org/abs/2202.03189v1)|null|
