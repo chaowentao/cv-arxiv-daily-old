@@ -156,6 +156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-08**|**MaskGIT: Masked Generative Image Transformer**|Huiwen Chang et.al.|[2202.04200v1](http://arxiv.org/abs/2202.04200v1)|null|
 |**2022-02-02**|**Finding Biological Plausibility for Adversarially Robust Features via Metameric Tasks**|Anne Harrington et.al.|[2202.00838v2](http://arxiv.org/abs/2202.00838v2)|**[link](https://github.com/anneharrington/adversarially-robust-periphery)**|
 |**2022-01-31**|**Crowd-powered Face Manipulation Detection: Fusing Human Examiner Decisions**|Christian Rathgeb et.al.|[2201.13084v1](http://arxiv.org/abs/2201.13084v1)|null|
 |**2022-01-28**|**Psychophysical Evaluation of Human Performance in Detecting Digital Face Image Manipulations**|Robert Nichols et.al.|[2201.12084v1](http://arxiv.org/abs/2201.12084v1)|null|
@@ -190,6 +191,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-09**|**Quantum Multicritical Behavior for Coupled Optical Cavities with Driven Laser Fields**|Yutao Hu et.al.|[2202.04389v1](http://arxiv.org/abs/2202.04389v1)|null|
 |**2022-02-07**|**Quantum States of a Two-Level Atom trapped in a Helical Optical Tube**|V. E. Lembessis et.al.|[2202.03042v1](http://arxiv.org/abs/2202.03042v1)|null|
 |**2022-02-05**|**Complex-amplitude Fourier single-pixel imaging via coherent structured illumination**|Ya-Nan Zhao et.al.|[2202.02527v1](http://arxiv.org/abs/2202.02527v1)|null|
 |**2022-02-02**|**Extension: Adaptive Sampling with Implicit Radiance Field**|Yuchi Huo et.al.|[2202.00855v3](http://arxiv.org/abs/2202.00855v3)|null|
@@ -335,6 +337,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-09**|**Motion-Aware Transformer For Occluded Person Re-identification**|Mi Zhou et.al.|[2202.04243v1](http://arxiv.org/abs/2202.04243v1)|null|
 |**2022-02-05**|**A survey of top-down approaches for human pose estimation**|Thong Duy Nguyen et.al.|[2202.02656v1](http://arxiv.org/abs/2202.02656v1)|null|
 |**2022-02-01**|**ADG-Pose: Automated Dataset Generation for Real-World Human Pose Estimation**|Ghazal Alinezhad Noghre et.al.|[2202.00753v1](http://arxiv.org/abs/2202.00753v1)|null|
 |**2022-02-01**|**Sim2Real Object-Centric Keypoint Detection and Description**|Chengliang Zhong et.al.|[2202.00448v2](http://arxiv.org/abs/2202.00448v2)|null|
@@ -373,6 +376,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-09**|**New hard benchmark functions for global optimization**|Abdesslem Layeb et.al.|[2202.04606v1](http://arxiv.org/abs/2202.04606v1)|null|
+|**2022-02-09**|**A Multimodal Canonical-Correlated Graph Neural Network for Energy-Efficient Speech Enhancement**|Leandro Aparecido Passos et.al.|[2202.04528v1](http://arxiv.org/abs/2202.04528v1)|null|
+|**2022-02-09**|**Deep Feature Rotation for Multimodal Image Style Transfer**|Son Truong Nguyen et.al.|[2202.04426v1](http://arxiv.org/abs/2202.04426v1)|**[link](https://github.com/sonnguyen129/deep-feature-rotation)**|
+|**2022-02-09**|**TinyM$^2$Net: A Flexible System Algorithm Co-designed Multimodal Learning Framework for Tiny Devices**|Hasib-Al Rashid et.al.|[2202.04303v1](http://arxiv.org/abs/2202.04303v1)|null|
+|**2022-02-09**|**MMLN: Leveraging Domain Knowledge for Multimodal Diagnosis**|Haodi Zhang et.al.|[2202.04266v1](http://arxiv.org/abs/2202.04266v1)|null|
 |**2022-02-08**|**DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers**|Jaemin Cho et.al.|[2202.04053v1](http://arxiv.org/abs/2202.04053v1)|**[link](https://github.com/j-min/dalleval)**|
 |**2022-02-08**|**Social-DualCVAE: Multimodal Trajectory Forecasting Based on Social Interactions Pattern Aware and Dual Conditional Variational Auto-Encoder**|Jiashi Gao et.al.|[2202.03954v1](http://arxiv.org/abs/2202.03954v1)|null|
 |**2022-02-07**|**Speech Emotion Recognition using Self-Supervised Features**|Edmilson Morais et.al.|[2202.03896v1](http://arxiv.org/abs/2202.03896v1)|null|
@@ -497,6 +505,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-09**|**Cost-effective Framework for Gradual Domain Adaptation with Multifidelity**|Shogo Sagawa et.al.|[2202.04359v1](http://arxiv.org/abs/2202.04359v1)|**[link](https://github.com/ssgw320/gdamf)**|
+|**2022-02-09**|**Amplitude Spectrum Transformation for Open Compound Domain Adaptive Semantic Segmentation**|Jogendra Nath Kundu et.al.|[2202.04287v1](http://arxiv.org/abs/2202.04287v1)|null|
+|**2022-02-08**|**Exploring the Limits of Domain-Adaptive Training for Detoxifying Large-Scale Language Models**|Boxin Wang et.al.|[2202.04173v1](http://arxiv.org/abs/2202.04173v1)|null|
 |**2022-02-08**|**Domain Adversarial Spatial-Temporal Network: A Transferable Framework for Short-term Traffic Forecasting across Cities**|Yihong Tang et.al.|[2202.03630v1](http://arxiv.org/abs/2202.03630v1)|**[link](https://github.com/yihongt/dastnet)**|
 |**2022-02-08**|**Graph-Relational Domain Adaptation**|Zihao Xu et.al.|[2202.03628v1](http://arxiv.org/abs/2202.03628v1)|**[link](https://github.com/wang-ml-lab/grda)**|
 |**2022-02-07**|**Structured Time Series Prediction without Structural Prior**|Darko Drakulic et.al.|[2202.03539v1](http://arxiv.org/abs/2202.03539v1)|null|
@@ -584,6 +595,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-09**|**Point-Level Region Contrast for Object Detection Pre-Training**|Yutong Bai et.al.|[2202.04639v1](http://arxiv.org/abs/2202.04639v1)|null|
+|**2022-02-09**|**Reducing Redundancy in the Bottleneck Representation of the Autoencoders**|Firas Laakom et.al.|[2202.04629v1](http://arxiv.org/abs/2202.04629v1)|null|
+|**2022-02-09**|**Soft Robots Learn to Crawl: Jointly Optimizing Design and Control with Sim-to-Real Transfer**|Charles Schaff et.al.|[2202.04575v1](http://arxiv.org/abs/2202.04575v1)|null|
+|**2022-02-09**|**Generating Training Data with Language Models: Towards Zero-Shot Language Understanding**|Yu Meng et.al.|[2202.04538v1](http://arxiv.org/abs/2202.04538v1)|**[link](https://github.com/yumeng5/supergen)**|
+|**2022-02-09**|**Leveraging Experience in Lifelong Multi-Agent Pathfinding**|Nitzan Madar et.al.|[2202.04382v1](http://arxiv.org/abs/2202.04382v1)|null|
+|**2022-02-09**|**ARIBA: Towards Accurate and Robust Identification of Backdoor Attacks in Federated Learning**|Yuxi Mi et.al.|[2202.04311v1](http://arxiv.org/abs/2202.04311v1)|null|
+|**2022-02-09**|**Can Open Domain Question Answering Systems Answer Visual Knowledge Questions?**|Jiawen Zhang et.al.|[2202.04306v1](http://arxiv.org/abs/2202.04306v1)|null|
+|**2022-02-09**|**GenAD: General Representations of Multivariate Time Seriesfor Anomaly Detection**|Xiaolei Hua et.al.|[2202.04250v1](http://arxiv.org/abs/2202.04250v1)|null|
+|**2022-02-08**|**TransformNet: Self-supervised representation learning through predicting geometric transformations**|Sayed Hashim et.al.|[2202.04181v1](http://arxiv.org/abs/2202.04181v1)|null|
+|**2022-02-08**|**Police Text Analysis: Topic Modeling and Spatial Relative Density Estimation**|Sarah Huestis-Mitchell et.al.|[2202.04176v1](http://arxiv.org/abs/2202.04176v1)|null|
+|**2022-02-08**|**Inferring Strategies from Observations in Long Iterated Prisoner's Dilemma Experiments**|Eladio Montero-Porras et.al.|[2202.04171v1](http://arxiv.org/abs/2202.04171v1)|null|
+|**2022-02-08**|**Face2PPG: An unsupervised pipeline for blood volume pulse extraction from faces**|Constantino Álvarez Casado et.al.|[2202.04101v1](http://arxiv.org/abs/2202.04101v1)|null|
 |**2022-02-08**|**Time Series Anomaly Detection by Cumulative Radon Features**|Yedid Hoshen et.al.|[2202.04067v1](http://arxiv.org/abs/2202.04067v1)|**[link](https://github.com/yedidh/radonomaly)**|
 |**2022-02-08**|**Unsupervised Bayesian classification for models with scalar and functional covariates**|Nancy L. Garcia et.al.|[2202.04037v1](http://arxiv.org/abs/2202.04037v1)|null|
 |**2022-02-08**|**Learning Sinkhorn divergences for supervised change point detection**|Nauman Ahad et.al.|[2202.04000v2](http://arxiv.org/abs/2202.04000v2)|null|
@@ -971,6 +994,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-09**|**The decision problem for perfect matchings in dense hypergraphs**|Luyining Gan et.al.|[2202.04246v1](http://arxiv.org/abs/2202.04246v1)|null|
+|**2022-02-09**|**Fault Detection and Diagnosis with Imbalanced and Noisy Data: A Hybrid Framework for Rotating Machinery**|Masoud Jalayer et.al.|[2202.04212v1](http://arxiv.org/abs/2202.04212v1)|null|
 |**2022-02-08**|**Study of charmonium and charmonium-like contributions in $B^+ \rightarrow J/ψηK^+$ decays**|LHCb collaboration et.al.|[2202.04045v1](http://arxiv.org/abs/2202.04045v1)|null|
 |**2022-02-08**|**Self-Conditioned Generative Adversarial Networks for Image Editing**|Yunzhe Liu et.al.|[2202.04040v1](http://arxiv.org/abs/2202.04040v1)|null|
 |**2022-02-08**|**Edge-based fever screening system over private 5G**|Murugan Sankaradas et.al.|[2202.03917v1](http://arxiv.org/abs/2202.03917v1)|null|
