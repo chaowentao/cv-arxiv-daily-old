@@ -586,7 +586,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-02-08**|**Time Series Anomaly Detection by Cumulative Radon Features**|Yedid Hoshen et.al.|[2202.04067v1](http://arxiv.org/abs/2202.04067v1)|**[link](https://github.com/yedidh/radonomaly)**|
 |**2022-02-08**|**Unsupervised Bayesian classification for models with scalar and functional covariates**|Nancy L. Garcia et.al.|[2202.04037v1](http://arxiv.org/abs/2202.04037v1)|null|
-|**2022-02-08**|**Learning Sinkhorn divergences for supervised change point detection**|Nauman Ahad et.al.|[2202.04000v1](http://arxiv.org/abs/2202.04000v1)|null|
+|**2022-02-08**|**Learning Sinkhorn divergences for supervised change point detection**|Nauman Ahad et.al.|[2202.04000v2](http://arxiv.org/abs/2202.04000v2)|null|
 |**2022-02-08**|**Social-DualCVAE: Multimodal Trajectory Forecasting Based on Social Interactions Pattern Aware and Dual Conditional Variational Auto-Encoder**|Jiashi Gao et.al.|[2202.03954v1](http://arxiv.org/abs/2202.03954v1)|null|
 |**2022-02-08**|**Unsupervised Source Separation via Self-Supervised Training**|Ertuğ Karamatlı et.al.|[2202.03875v1](http://arxiv.org/abs/2202.03875v1)|**[link](https://github.com/ertug/mixcycle)**|
 |**2022-02-08**|**Unsupervised topological learning approach of crystal nucleation in pure Tantalum**|Sébastien Becker et.al.|[2202.03767v1](http://arxiv.org/abs/2202.03767v1)|null|
@@ -600,7 +600,7 @@ layout: default
 |**2022-02-07**|**Red Teaming Language Models with Language Models**|Ethan Perez et.al.|[2202.03286v1](http://arxiv.org/abs/2202.03286v1)|null|
 |**2022-02-07**|**Crafting Better Contrastive Views for Siamese Representation Learning**|Xiangyu Peng et.al.|[2202.03278v1](http://arxiv.org/abs/2202.03278v1)|**[link](https://github.com/xyupeng/contrastivecrop)**|
 |**2022-02-07**|**Unsupervised physics-informed disentanglement of multimodal data for high-throughput scientific discovery**|Nathaniel Trask et.al.|[2202.03242v1](http://arxiv.org/abs/2202.03242v1)|null|
-|**2022-02-07**|**Reasoning for Complex Data through Ensemble-based Self-Supervised Learning**|Gabriel Bertocco et.al.|[2202.03126v1](http://arxiv.org/abs/2202.03126v1)|null|
+|**2022-02-07**|**Reasoning for Complex Data through Ensemble-based Self-Supervised Learning**|Gabriel Bertocco et.al.|[2202.03126v2](http://arxiv.org/abs/2202.03126v2)|null|
 |**2022-02-07**|**To Tune or Not To Tune? Zero-shot Models for Legal Case Entailment**|Guilherme Moraes Rosa et.al.|[2202.03120v1](http://arxiv.org/abs/2202.03120v1)|**[link](https://github.com/neuralmind-ai/coliee)**|
 |**2022-02-07**|**Unsupervised Long-Term Person Re-Identification with Clothes Change**|Mingkun Li et.al.|[2202.03087v2](http://arxiv.org/abs/2202.03087v2)|null|
 |**2022-02-07**|**A new face swap method for image and video domains: a technical report**|Daniil Chesakov et.al.|[2202.03046v1](http://arxiv.org/abs/2202.03046v1)|null|
