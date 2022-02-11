@@ -224,6 +224,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-10**|**Two-colour spectrally multimode integrated SU(1,1) interferometer**|Alessandro Ferreri et.al.|[2202.05025v1](http://arxiv.org/abs/2202.05025v1)|null|
+|**2022-02-10**|**Optical superradiance of a pair of color centers in an integrated silicon-carbide-on-insulator microresonator**|Daniil M. Lukin et.al.|[2202.04845v1](http://arxiv.org/abs/2202.04845v1)|null|
 |**2022-02-09**|**New hard benchmark functions for global optimization**|Abdesslem Layeb et.al.|[2202.04606v1](http://arxiv.org/abs/2202.04606v1)|null|
 |**2022-02-09**|**A Multimodal Canonical-Correlated Graph Neural Network for Energy-Efficient Speech Enhancement**|Leandro Aparecido Passos et.al.|[2202.04528v1](http://arxiv.org/abs/2202.04528v1)|null|
 |**2022-02-09**|**Deep Feature Rotation for Multimodal Image Style Transfer**|Son Truong Nguyen et.al.|[2202.04426v1](http://arxiv.org/abs/2202.04426v1)|**[link](https://github.com/sonnguyen129/deep-feature-rotation)**|
@@ -443,6 +445,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-10**|**Zero Shot Learning for Predicting Energy Usage of Buildings in Sustainable Design**|Arun Zachariah et.al.|[2202.05206v1](http://arxiv.org/abs/2202.05206v1)|null|
+|**2022-02-10**|**InPars: Data Augmentation for Information Retrieval using Large Language Models**|Luiz Bonifacio et.al.|[2202.05144v1](http://arxiv.org/abs/2202.05144v1)|null|
+|**2022-02-10**|**Deep Learning for Computational Cytology: A Survey**|Hao Jiang et.al.|[2202.05126v1](http://arxiv.org/abs/2202.05126v1)|null|
+|**2022-02-10**|**Two-Stage Deep Anomaly Detection with Heterogeneous Time Series Data**|Kyeong-Joong Jeong et.al.|[2202.05093v1](http://arxiv.org/abs/2202.05093v1)|null|
+|**2022-02-10**|**Barwise Compression Schemes for Audio-Based Music Structure Analysis**|Axel Marmoret et.al.|[2202.04981v1](http://arxiv.org/abs/2202.04981v1)|null|
+|**2022-02-10**|**Discovering plasticity models without stress data**|Moritz Flaschel et.al.|[2202.04916v1](http://arxiv.org/abs/2202.04916v1)|null|
+|**2022-02-10**|**Distilling Hypernymy Relations from Language Models: On the Effectiveness of Zero-Shot Taxonomy Induction**|Devansh Jain et.al.|[2202.04876v1](http://arxiv.org/abs/2202.04876v1)|null|
+|**2022-02-10**|**Bias-Eliminated Semantic Refinement for Any-Shot Learning**|Liangjun Feng et.al.|[2202.04827v1](http://arxiv.org/abs/2202.04827v1)|**[link](https://github.com/liangjunfeng/srwgan)**|
+|**2022-02-10**|**AdaPrompt: Adaptive Model Training for Prompt-based NLP**|Yulong Chen et.al.|[2202.04824v1](http://arxiv.org/abs/2202.04824v1)|null|
+|**2022-02-09**|**SHAS: Approaching optimal Segmentation for End-to-End Speech Translation**|Ioannis Tsiamas et.al.|[2202.04774v1](http://arxiv.org/abs/2202.04774v1)|null|
+|**2022-02-09**|**A Coupled CP Decomposition for Principal Components Analysis of Symmetric Networks**|Michael Weylandt et.al.|[2202.04719v1](http://arxiv.org/abs/2202.04719v1)|null|
+|**2022-02-09**|**Can Humans Do Less-Than-One-Shot Learning?**|Maya Malaviya et.al.|[2202.04670v1](http://arxiv.org/abs/2202.04670v1)|null|
+|**2022-02-09**|**A survey of unsupervised learning methods for high-dimensional uncertainty quantification in black-box-type problems**|Katiana Kontolati et.al.|[2202.04648v1](http://arxiv.org/abs/2202.04648v1)|null|
+|**2022-02-09**|**Multi-modal unsupervised brain image registration using edge maps**|Vasiliki Sideri-Lampretsa et.al.|[2202.04647v1](http://arxiv.org/abs/2202.04647v1)|null|
 |**2022-02-09**|**Point-Level Region Contrast for Object Detection Pre-Training**|Yutong Bai et.al.|[2202.04639v1](http://arxiv.org/abs/2202.04639v1)|null|
 |**2022-02-09**|**Reducing Redundancy in the Bottleneck Representation of the Autoencoders**|Firas Laakom et.al.|[2202.04629v1](http://arxiv.org/abs/2202.04629v1)|null|
 |**2022-02-09**|**Soft Robots Learn to Crawl: Jointly Optimizing Design and Control with Sim-to-Real Transfer**|Charles Schaff et.al.|[2202.04575v1](http://arxiv.org/abs/2202.04575v1)|null|
@@ -812,6 +828,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-10**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263v1](http://arxiv.org/abs/2202.05263v1)|null|
 |**2022-02-01**|**CLA-NeRF: Category-Level Articulated Neural Radiance Field**|Wei-Cheng Tseng et.al.|[2202.00181v1](http://arxiv.org/abs/2202.00181v1)|null|
 |**2022-01-28**|**From data to functa: Your data point is a function and you should treat it like one**|Emilien Dupont et.al.|[2201.12204v1](http://arxiv.org/abs/2201.12204v1)|null|
 |**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v1](http://arxiv.org/abs/2201.08845v1)|null|
@@ -842,6 +859,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-08**|**Efficacy of Transformer Networks for Classification of Raw EEG Data**|Gourav Siddhad et.al.|[2202.05170v1](http://arxiv.org/abs/2202.05170v1)|null|
+|**2022-02-10**|**A non-local gradient based approach of infinity Laplacian with $Γ$-convergence**|Weiye Gan et.al.|[2202.04927v1](http://arxiv.org/abs/2202.04927v1)|null|
+|**2022-02-10**|**GeV $γ$-ray Emission of Compact Steep-Spectrum Source 4C +39.23B**|Ying Gu et.al.|[2202.04852v1](http://arxiv.org/abs/2202.04852v1)|null|
 |**2022-02-09**|**The decision problem for perfect matchings in dense hypergraphs**|Luyining Gan et.al.|[2202.04246v1](http://arxiv.org/abs/2202.04246v1)|null|
 |**2022-02-09**|**Fault Detection and Diagnosis with Imbalanced and Noisy Data: A Hybrid Framework for Rotating Machinery**|Masoud Jalayer et.al.|[2202.04212v1](http://arxiv.org/abs/2202.04212v1)|null|
 |**2022-02-08**|**Study of charmonium and charmonium-like contributions in $B^+ \rightarrow J/ψηK^+$ decays**|LHCb collaboration et.al.|[2202.04045v1](http://arxiv.org/abs/2202.04045v1)|null|
