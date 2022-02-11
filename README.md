@@ -185,7 +185,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-09**|**Motion-Aware Transformer For Occluded Person Re-identification**|Mi Zhou et.al.|[2202.04243v1](http://arxiv.org/abs/2202.04243v1)|null|
+|**2022-02-09**|**Motion-Aware Transformer For Occluded Person Re-identification**|Mi Zhou et.al.|[2202.04243v2](http://arxiv.org/abs/2202.04243v2)|null|
 |**2022-02-05**|**A survey of top-down approaches for human pose estimation**|Thong Duy Nguyen et.al.|[2202.02656v1](http://arxiv.org/abs/2202.02656v1)|null|
 |**2022-02-01**|**ADG-Pose: Automated Dataset Generation for Real-World Human Pose Estimation**|Ghazal Alinezhad Noghre et.al.|[2202.00753v1](http://arxiv.org/abs/2202.00753v1)|null|
 |**2022-02-01**|**Sim2Real Object-Centric Keypoint Detection and Description**|Chengliang Zhong et.al.|[2202.00448v2](http://arxiv.org/abs/2202.00448v2)|null|
@@ -365,7 +365,7 @@
 |**2022-02-06**|**Simulation-to-Reality domain adaptation for offline 3D object annotation on pointclouds with correlation alignment**|Weishuang Zhang et.al.|[2202.02666v1](http://arxiv.org/abs/2202.02666v1)|null|
 |**2022-02-04**|**Malleable Agents for Re-Configurable Robotic Manipulators**|Athindran Ramesh Kumar et.al.|[2202.02395v1](http://arxiv.org/abs/2202.02395v1)|null|
 |**2022-02-03**|**Practical Imitation Learning in the Real World via Task Consistency Loss**|Mohi Khansari et.al.|[2202.01862v1](http://arxiv.org/abs/2202.01862v1)|null|
-|**2022-02-03**|**Cross-Platform Difference in Facebook and Text Messages Language Use: Illustrated by Depression Diagnosis**|Tingting Liu et.al.|[2202.01802v1](http://arxiv.org/abs/2202.01802v1)|null|
+|**2022-02-03**|**Cross-Platform Difference in Facebook and Text Messages Language Use: Illustrated by Depression Diagnosis**|Tingting Liu et.al.|[2202.01802v2](http://arxiv.org/abs/2202.01802v2)|null|
 |**2022-02-02**|**The CORAL++ Algorithm for Unsupervised Domain Adaptation of Speaker Recogntion**|Rongjin Li et.al.|[2202.01092v1](http://arxiv.org/abs/2202.01092v1)|null|
 |**2022-02-01**|**On the Benefits of Selectivity in Pseudo-Labeling for Unsupervised Multi-Source-Free Domain Adaptation**|Maohao Shen et.al.|[2202.00796v1](http://arxiv.org/abs/2202.00796v1)|null|
 |**2022-01-31**|**An Adaptive sampling and domain learning strategy for multivariate function approximation on unknown domains**|Ben Adcock et.al.|[2202.00144v1](http://arxiv.org/abs/2202.00144v1)|**[link](https://github.com/jmcardenas/adaptive-sampling-and-domain-learning)**|
@@ -457,7 +457,7 @@
 |**2022-02-08**|**Face2PPG: An unsupervised pipeline for blood volume pulse extraction from faces**|Constantino Álvarez Casado et.al.|[2202.04101v1](http://arxiv.org/abs/2202.04101v1)|null|
 |**2022-02-08**|**Time Series Anomaly Detection by Cumulative Radon Features**|Yedid Hoshen et.al.|[2202.04067v1](http://arxiv.org/abs/2202.04067v1)|**[link](https://github.com/yedidh/radonomaly)**|
 |**2022-02-08**|**Unsupervised Bayesian classification for models with scalar and functional covariates**|Nancy L. Garcia et.al.|[2202.04037v1](http://arxiv.org/abs/2202.04037v1)|null|
-|**2022-02-08**|**Learning Sinkhorn divergences for supervised change point detection**|Nauman Ahad et.al.|[2202.04000v2](http://arxiv.org/abs/2202.04000v2)|null|
+|**2022-02-08**|**Learning Sinkhorn divergences for supervised change point detection**|Nauman Ahad et.al.|[2202.04000v3](http://arxiv.org/abs/2202.04000v3)|null|
 |**2022-02-08**|**Social-DualCVAE: Multimodal Trajectory Forecasting Based on Social Interactions Pattern Aware and Dual Conditional Variational Auto-Encoder**|Jiashi Gao et.al.|[2202.03954v1](http://arxiv.org/abs/2202.03954v1)|null|
 |**2022-02-08**|**Unsupervised Source Separation via Self-Supervised Training**|Ertuğ Karamatlı et.al.|[2202.03875v1](http://arxiv.org/abs/2202.03875v1)|**[link](https://github.com/ertug/mixcycle)**|
 |**2022-02-08**|**Unsupervised topological learning approach of crystal nucleation in pure Tantalum**|Sébastien Becker et.al.|[2202.03767v1](http://arxiv.org/abs/2202.03767v1)|null|
