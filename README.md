@@ -454,7 +454,7 @@
 |**2022-02-10**|**Distilling Hypernymy Relations from Language Models: On the Effectiveness of Zero-Shot Taxonomy Induction**|Devansh Jain et.al.|[2202.04876v1](http://arxiv.org/abs/2202.04876v1)|null|
 |**2022-02-10**|**Bias-Eliminated Semantic Refinement for Any-Shot Learning**|Liangjun Feng et.al.|[2202.04827v1](http://arxiv.org/abs/2202.04827v1)|**[link](https://github.com/liangjunfeng/srwgan)**|
 |**2022-02-10**|**AdaPrompt: Adaptive Model Training for Prompt-based NLP**|Yulong Chen et.al.|[2202.04824v1](http://arxiv.org/abs/2202.04824v1)|null|
-|**2022-02-09**|**SHAS: Approaching optimal Segmentation for End-to-End Speech Translation**|Ioannis Tsiamas et.al.|[2202.04774v1](http://arxiv.org/abs/2202.04774v1)|null|
+|**2022-02-09**|**SHAS: Approaching optimal Segmentation for End-to-End Speech Translation**|Ioannis Tsiamas et.al.|[2202.04774v1](http://arxiv.org/abs/2202.04774v1)|**[link](https://github.com/mt-upc/shas)**|
 |**2022-02-09**|**A Coupled CP Decomposition for Principal Components Analysis of Symmetric Networks**|Michael Weylandt et.al.|[2202.04719v1](http://arxiv.org/abs/2202.04719v1)|null|
 |**2022-02-09**|**Can Humans Do Less-Than-One-Shot Learning?**|Maya Malaviya et.al.|[2202.04670v1](http://arxiv.org/abs/2202.04670v1)|null|
 |**2022-02-09**|**A survey of unsupervised learning methods for high-dimensional uncertainty quantification in black-box-type problems**|Katiana Kontolati et.al.|[2202.04648v1](http://arxiv.org/abs/2202.04648v1)|null|
