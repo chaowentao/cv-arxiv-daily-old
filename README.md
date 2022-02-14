@@ -361,7 +361,7 @@
 |**2022-02-08**|**Domain Adversarial Spatial-Temporal Network: A Transferable Framework for Short-term Traffic Forecasting across Cities**|Yihong Tang et.al.|[2202.03630v1](http://arxiv.org/abs/2202.03630v1)|**[link](https://github.com/yihongt/dastnet)**|
 |**2022-02-08**|**Graph-Relational Domain Adaptation**|Zihao Xu et.al.|[2202.03628v1](http://arxiv.org/abs/2202.03628v1)|**[link](https://github.com/wang-ml-lab/grda)**|
 |**2022-02-07**|**Structured Time Series Prediction without Structural Prior**|Darko Drakulic et.al.|[2202.03539v1](http://arxiv.org/abs/2202.03539v1)|null|
-|**2022-02-07**|**Integrated Multiscale Domain Adaptive YOLO**|Mazin Hnewa et.al.|[2202.03527v1](http://arxiv.org/abs/2202.03527v1)|null|
+|**2022-02-07**|**Integrated Multiscale Domain Adaptive YOLO**|Mazin Hnewa et.al.|[2202.03527v2](http://arxiv.org/abs/2202.03527v2)|null|
 |**2022-02-07**|**Message Passing Neural PDE Solvers**|Johannes Brandstetter et.al.|[2202.03376v1](http://arxiv.org/abs/2202.03376v1)|null|
 |**2022-02-06**|**Low-confidence Samples Matter for Domain Adaptation**|Yixin Zhang et.al.|[2202.02802v1](http://arxiv.org/abs/2202.02802v1)|**[link](https://github.com/zhyx12/mixlrco)**|
 |**2022-02-06**|**Simulation-to-Reality domain adaptation for offline 3D object annotation on pointclouds with correlation alignment**|Weishuang Zhang et.al.|[2202.02666v1](http://arxiv.org/abs/2202.02666v1)|null|
