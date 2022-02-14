@@ -39,6 +39,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-11**|**Light-pulse atom interferometry with entangled atom-optical elements**|Tobias Aßmann et.al.|[2202.05763v1](http://arxiv.org/abs/2202.05763v1)|null|
 |**2022-02-09**|**Quantum Multicritical Behavior for Coupled Optical Cavities with Driven Laser Fields**|Yutao Hu et.al.|[2202.04389v1](http://arxiv.org/abs/2202.04389v1)|null|
 |**2022-02-07**|**Quantum States of a Two-Level Atom trapped in a Helical Optical Tube**|V. E. Lembessis et.al.|[2202.03042v1](http://arxiv.org/abs/2202.03042v1)|null|
 |**2022-02-05**|**Complex-amplitude Fourier single-pixel imaging via coherent structured illumination**|Ya-Nan Zhao et.al.|[2202.02527v1](http://arxiv.org/abs/2202.02527v1)|null|
@@ -90,6 +91,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-11**|**Investigating Power laws in Deep Representation Learning**|Arna Ghosh et.al.|[2202.05808v1](http://arxiv.org/abs/2202.05808v1)|null|
+|**2022-02-11**|**Entroformer: A Transformer-based Entropy Model for Learned Image Compression**|Yichen Qian et.al.|[2202.05492v1](http://arxiv.org/abs/2202.05492v1)|**[link](https://github.com/mx54039q/entroformer)**|
 |**2022-02-07**|**Recent Trends in 2D Object Detection and Applications in Video Event Recognition**|Prithwish Jana et.al.|[2202.03206v1](http://arxiv.org/abs/2202.03206v1)|null|
 |**2022-02-07**|**Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics**|Arnav Varma et.al.|[2202.03131v1](http://arxiv.org/abs/2202.03131v1)|null|
 |**2022-02-06**|**GLPanoDepth: Global-to-Local Panoramic Depth Estimation**|Jiayang Bai et.al.|[2202.02796v2](http://arxiv.org/abs/2202.02796v2)|null|
@@ -224,6 +227,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-11**|**A Novel Chaos-based Light-weight Image Encryption Scheme for Multi-modal Hearing Aids**|Awais Aziz Shah et.al.|[2202.05662v1](http://arxiv.org/abs/2202.05662v1)|null|
 |**2022-02-10**|**Two-colour spectrally multimode integrated SU(1,1) interferometer**|Alessandro Ferreri et.al.|[2202.05025v1](http://arxiv.org/abs/2202.05025v1)|null|
 |**2022-02-10**|**Optical superradiance of a pair of color centers in an integrated silicon-carbide-on-insulator microresonator**|Daniil M. Lukin et.al.|[2202.04845v1](http://arxiv.org/abs/2202.04845v1)|null|
 |**2022-02-09**|**New hard benchmark functions for global optimization**|Abdesslem Layeb et.al.|[2202.04606v1](http://arxiv.org/abs/2202.04606v1)|null|
@@ -355,6 +359,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-11**|**Positive-Unlabeled Domain Adaptation**|Jonas Sonntag et.al.|[2202.05695v1](http://arxiv.org/abs/2202.05695v1)|null|
+|**2022-02-10**|**Domain Adversarial Training: A Game Perspective**|David Acuna et.al.|[2202.05352v1](http://arxiv.org/abs/2202.05352v1)|null|
 |**2022-02-09**|**Cost-effective Framework for Gradual Domain Adaptation with Multifidelity**|Shogo Sagawa et.al.|[2202.04359v1](http://arxiv.org/abs/2202.04359v1)|**[link](https://github.com/ssgw320/gdamf)**|
 |**2022-02-09**|**Amplitude Spectrum Transformation for Open Compound Domain Adaptive Semantic Segmentation**|Jogendra Nath Kundu et.al.|[2202.04287v1](http://arxiv.org/abs/2202.04287v1)|null|
 |**2022-02-08**|**Exploring the Limits of Domain-Adaptive Training for Detoxifying Large-Scale Language Models**|Boxin Wang et.al.|[2202.04173v1](http://arxiv.org/abs/2202.04173v1)|null|
@@ -445,6 +451,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-11**|**A Modern Self-Referential Weight Matrix That Learns to Modify Itself**|Kazuki Irie et.al.|[2202.05780v1](http://arxiv.org/abs/2202.05780v1)|**[link](https://github.com/idsia/modern-srwm)**|
+|**2022-02-11**|**Cross Domain Few-Shot Learning via Meta Adversarial Training**|Jirui Qi et.al.|[2202.05713v1](http://arxiv.org/abs/2202.05713v1)|null|
+|**2022-02-11**|**Measurement disturbance tradeoffs in three-qubit unsupervised quantum classification**|Hector Spencer-Wood et.al.|[2202.05584v1](http://arxiv.org/abs/2202.05584v1)|null|
+|**2022-02-11**|**Similarity learning for wells based on logging data**|Evgenia Romanenkova et.al.|[2202.05583v1](http://arxiv.org/abs/2202.05583v1)|null|
+|**2022-02-11**|**Hybridization of Capsule and LSTM Networks for unsupervised anomaly detection on multivariate data**|Ayman Elhalwagy et.al.|[2202.05538v1](http://arxiv.org/abs/2202.05538v1)|null|
+|**2022-02-11**|**From Unsupervised to Few-shot Graph Anomaly Detection: A Multi-scale Contrastive Learning Approach**|Yu Zheng et.al.|[2202.05525v1](http://arxiv.org/abs/2202.05525v1)|null|
+|**2022-02-11**|**Unsupervised HDR Imaging: What Can Be Learned from a Single 8-bit Video?**|Francesco Banterle et.al.|[2202.05522v1](http://arxiv.org/abs/2202.05522v1)|null|
+|**2022-02-11**|**WAD-CMSN: Wasserstein Distance based Cross-Modal Semantic Network for Zero-Shot Sketch-Based Image Retrieval**|Guanglong Xu et.al.|[2202.05465v1](http://arxiv.org/abs/2202.05465v1)|null|
+|**2022-02-10**|**Dynamic Background Subtraction by Generative Neural Networks**|Fateme Bahri et.al.|[2202.05336v1](http://arxiv.org/abs/2202.05336v1)|**[link](https://github.com/fatemebahri/dbsgen)**|
+|**2022-02-10**|**Factored World Models for Zero-Shot Generalization in Robotic Manipulation**|Ondrej Biza et.al.|[2202.05333v1](http://arxiv.org/abs/2202.05333v1)|null|
 |**2022-02-10**|**Zero Shot Learning for Predicting Energy Usage of Buildings in Sustainable Design**|Arun Zachariah et.al.|[2202.05206v1](http://arxiv.org/abs/2202.05206v1)|null|
 |**2022-02-10**|**InPars: Data Augmentation for Information Retrieval using Large Language Models**|Luiz Bonifacio et.al.|[2202.05144v1](http://arxiv.org/abs/2202.05144v1)|null|
 |**2022-02-10**|**Deep Learning for Computational Cytology: A Survey**|Hao Jiang et.al.|[2202.05126v1](http://arxiv.org/abs/2202.05126v1)|null|
@@ -859,6 +875,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-11**|**Learning Fast Samplers for Diffusion Models by Differentiating Through Sample Quality**|Daniel Watson et.al.|[2202.05830v1](http://arxiv.org/abs/2202.05830v1)|null|
+|**2022-02-11**|**Meta-learning with GANs for anomaly detection, with deployment in high-speed rail inspection system**|Haoyang Cao et.al.|[2202.05795v1](http://arxiv.org/abs/2202.05795v1)|null|
+|**2022-02-11**|**Observation of the doubly charmed baryon decay $\it{Ξ_{cc}^{++}\to Ξ_{c}^{'+}π^{+}}$**|LHCb collaboration et.al.|[2202.05648v1](http://arxiv.org/abs/2202.05648v1)|null|
+|**2022-02-11**|**A Wasserstein GAN for Joint Learning of Inpainting and its Spatial Optimisation**|Pascal Peter et.al.|[2202.05623v1](http://arxiv.org/abs/2202.05623v1)|null|
+|**2022-02-10**|**Learning the Pedestrian-Vehicle Interaction for Pedestrian Trajectory Prediction**|Chi Zhang et.al.|[2202.05334v1](http://arxiv.org/abs/2202.05334v1)|null|
 |**2022-02-08**|**Efficacy of Transformer Networks for Classification of Raw EEG Data**|Gourav Siddhad et.al.|[2202.05170v1](http://arxiv.org/abs/2202.05170v1)|null|
 |**2022-02-10**|**A non-local gradient based approach of infinity Laplacian with $Γ$-convergence**|Weiye Gan et.al.|[2202.04927v1](http://arxiv.org/abs/2202.04927v1)|null|
 |**2022-02-10**|**GeV $γ$-ray Emission of Compact Steep-Spectrum Source 4C +39.23B**|Ying Gu et.al.|[2202.04852v1](http://arxiv.org/abs/2202.04852v1)|null|
