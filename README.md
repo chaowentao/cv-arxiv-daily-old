@@ -232,6 +232,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-15**|**Delving Deeper into Cross-lingual Visual Question Answering**|Chen Liu et.al.|[2202.07630v1](http://arxiv.org/abs/2202.07630v1)|null|
+|**2022-02-11**|**On the Complementarity of Images and Text for the Expression of Emotions in Social Media**|Anna Khlyzova et.al.|[2202.07427v1](http://arxiv.org/abs/2202.07427v1)|null|
+|**2022-02-12**|**DeepPAMM: Deep Piecewise Exponential Additive Mixed Models for Complex Hazard Structures in Survival Analysis**|Philipp Kopper et.al.|[2202.07423v1](http://arxiv.org/abs/2202.07423v1)|null|
+|**2022-02-15**|**Multimodal Driver Referencing: A Comparison of Pointing to Objects Inside and Outside the Vehicle**|Abdul Rafey Aftab et.al.|[2202.07360v1](http://arxiv.org/abs/2202.07360v1)|null|
+|**2022-02-15**|**ViNTER: Image Narrative Generation with Emotion-Arc-Aware Transformer**|Kohei Uehara et.al.|[2202.07305v1](http://arxiv.org/abs/2202.07305v1)|null|
+|**2022-02-15**|**CommerceMM: Large-Scale Commerce MultiModal Representation Learning with Omni Retrieval**|Licheng Yu et.al.|[2202.07247v1](http://arxiv.org/abs/2202.07247v1)|null|
+|**2022-02-14**|**A Survey of Cross-Modality Brain Image Synthesis**|Guoyang Xie et.al.|[2202.06997v1](http://arxiv.org/abs/2202.06997v1)|null|
+|**2022-02-14**|**Deterministic Photon Sorting in Waveguide QED Systems**|Fan Yang et.al.|[2202.06992v1](http://arxiv.org/abs/2202.06992v1)|null|
 |**2022-02-14**|**Close-up and Whispering: An Understanding of Multimodal and Parasocial Interactions in YouTube ASMR videos**|Shuo Niu et.al.|[2202.06839v1](http://arxiv.org/abs/2202.06839v1)|null|
 |**2022-02-14**|**Convolutional Neural Network with Convolutional Block Attention Module for Finger Vein Recognition**|Zhongxia Zhang et.al.|[2202.06673v1](http://arxiv.org/abs/2202.06673v1)|null|
 |**2022-02-14**|**UnScenE: Toward Unsupervised Scenario Extraction for Automated Driving Systems from Urban Naturalistic Road Traffic Data**|Nico Weber et.al.|[2202.06608v1](http://arxiv.org/abs/2202.06608v1)|null|
@@ -371,6 +379,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-15**|**Sim-to-Real Domain Adaptation for Lane Detection and Classification in Autonomous Driving**|Chuqing Hu et.al.|[2202.07133v1](http://arxiv.org/abs/2202.07133v1)|null|
 |**2022-02-14**|**Domain Adaptation via Prompt Learning**|Chunjiang Ge et.al.|[2202.06687v1](http://arxiv.org/abs/2202.06687v1)|null|
 |**2022-02-14**|**KNIFE: Kernelized-Neural Differential Entropy Estimation**|Georg Pichler et.al.|[2202.06618v1](http://arxiv.org/abs/2202.06618v1)|**[link](https://github.com/g-pichler/knife)**|
 |**2022-02-14**|**A Novel Transfer Learning Framework with Prototypical Representation based Pairwise Learning for Cross-Subject Cross-Session EEG-Based Emotion Recognition**|Rushuang Zhou et.al.|[2202.06509v1](http://arxiv.org/abs/2202.06509v1)|null|
@@ -471,6 +480,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-15**|**Delving Deeper into Cross-lingual Visual Question Answering**|Chen Liu et.al.|[2202.07630v1](http://arxiv.org/abs/2202.07630v1)|null|
+|**2022-02-15**|**PILED: An Identify-and-Localize Framework for Few-Shot Event Detection**|Sha Li et.al.|[2202.07615v1](http://arxiv.org/abs/2202.07615v1)|null|
+|**2022-02-15**|**Unsupervised Learning of Group Invariant and Equivariant Representations**|Robin Winter et.al.|[2202.07559v1](http://arxiv.org/abs/2202.07559v1)|null|
+|**2022-02-15**|**Texture Aware Autoencoder Pre-training And Pairwise Learning Refinement For Improved Iris Recognition**|Manashi Chakraborty et.al.|[2202.07499v1](http://arxiv.org/abs/2202.07499v1)|null|
+|**2022-02-15**|**Deep-QPP: A Pairwise Interaction-based Deep Learning Model for Supervised Query Performance Prediction**|Suchana Datta et.al.|[2202.07376v1](http://arxiv.org/abs/2202.07376v1)|null|
+|**2022-02-15**|**Zero-Shot Assistance in Novel Decision Problems**|Sebastiaan De Peuter et.al.|[2202.07364v1](http://arxiv.org/abs/2202.07364v1)|**[link](https://github.com/aaltopml/zero-shot-assistance-in-novel-decision-problems)**|
+|**2022-02-15**|**HAA4D: Few-Shot Human Atomic Action Recognition via 3D Spatio-Temporal Skeletal Alignment**|Mu-Ruei Tseng et.al.|[2202.07308v1](http://arxiv.org/abs/2202.07308v1)|null|
+|**2022-02-15**|**Disentangling Domain and Content**|Dan Andrei Iliescu et.al.|[2202.07285v1](http://arxiv.org/abs/2202.07285v1)|null|
+|**2022-02-15**|**Enhancing Cross-lingual Prompting with Mask Token Augmentation**|Meng Zhou et.al.|[2202.07255v1](http://arxiv.org/abs/2202.07255v1)|null|
+|**2022-02-15**|**Few-shot semantic segmentation via mask aggregation**|Wei Ao et.al.|[2202.07231v1](http://arxiv.org/abs/2202.07231v1)|**[link](https://github.com/tinyaway/manet)**|
+|**2022-02-15**|**Impact of Pretraining Term Frequencies on Few-Shot Reasoning**|Yasaman Razeghi et.al.|[2202.07206v1](http://arxiv.org/abs/2202.07206v1)|null|
+|**2022-02-15**|**Unsupervised word-level prosody tagging for controllable speech synthesis**|Yiwei Guo et.al.|[2202.07200v1](http://arxiv.org/abs/2202.07200v1)|null|
+|**2022-02-15**|**Improving Human Sperm Head Morphology Classification with Unsupervised Anatomical Feature Distillation**|Yejia Zhang et.al.|[2202.07191v1](http://arxiv.org/abs/2202.07191v1)|null|
+|**2022-02-15**|**Sim-to-Real Domain Adaptation for Lane Detection and Classification in Autonomous Driving**|Chuqing Hu et.al.|[2202.07133v1](http://arxiv.org/abs/2202.07133v1)|null|
+|**2022-02-14**|**Handcrafted Histological Transformer (H2T): Unsupervised Representation of Whole Slide Images**|Quoc Dang Vu et.al.|[2202.07001v1](http://arxiv.org/abs/2202.07001v1)|null|
+|**2022-02-14**|**A Survey of Cross-Modality Brain Image Synthesis**|Guoyang Xie et.al.|[2202.06997v1](http://arxiv.org/abs/2202.06997v1)|null|
+|**2022-02-14**|**Transformer Memory as a Differentiable Search Index**|Yi Tay et.al.|[2202.06991v1](http://arxiv.org/abs/2202.06991v1)|null|
 |**2022-02-14**|**A Generic Self-Supervised Framework of Learning Invariant Discriminative Features**|Foivos Ntelemis et.al.|[2202.06914v1](http://arxiv.org/abs/2202.06914v1)|null|
 |**2022-02-14**|**COLA: COarse LAbel pre-training for 3D semantic segmentation of sparse LiDAR datasets**|Jules Sanchez et.al.|[2202.06884v1](http://arxiv.org/abs/2202.06884v1)|null|
 |**2022-02-14**|**Physics-Informed Deep Monte Carlo Quantile Regression method for Interval Multilevel Bayesian Network-based Satellite Heat Reliability Analysis**|Xiaohu Zheng et.al.|[2202.06860v1](http://arxiv.org/abs/2202.06860v1)|null|
@@ -916,6 +942,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-14**|**Understanding DDPM Latent Codes Through Optimal Transport**|Valentin Khrulkov et.al.|[2202.07477v1](http://arxiv.org/abs/2202.07477v1)|null|
+|**2022-02-15**|**Spin orbital reorientation transitions induced by magnetic field**|Dariusz Sztenkiel et.al.|[2202.07443v1](http://arxiv.org/abs/2202.07443v1)|null|
+|**2022-02-15**|**High-frequency traveling-wave phononic cavity with sub-micron wavelength**|Xin-Biao Xu et.al.|[2202.07217v1](http://arxiv.org/abs/2202.07217v1)|null|
+|**2022-02-15**|**GAN-generated Faces Detection: A Survey and New Perspectives**|Xin Wang et.al.|[2202.07145v1](http://arxiv.org/abs/2202.07145v1)|null|
+|**2022-02-14**|**Fast and accurate dose predictions for novel radiotherapy treatments in heterogeneous phantoms using conditional 3D-UNet generative adversarial networks**|Florian Mentzel et.al.|[2202.07077v1](http://arxiv.org/abs/2202.07077v1)|null|
+|**2022-02-14**|**Artificial Intelligence-Based Smart Grid Vulnerabilities and Potential Solutions for Fake-Normal Attacks: A Short Review**|J. D. Ndibwile et.al.|[2202.07050v1](http://arxiv.org/abs/2202.07050v1)|null|
 |**2022-02-14**|**Adiabatic conversion between gigahertz quasi-Rayleigh and quasi-Love modes for phononic integrated circuits**|Bao-Zhen Wang et.al.|[2202.06770v1](http://arxiv.org/abs/2202.06770v1)|null|
 |**2022-02-14**|**Enhanced light collection from a gallium nitride color center using a near index-matched solid immersion lens**|S. G. Bishop et.al.|[2202.06754v1](http://arxiv.org/abs/2202.06754v1)|null|
 |**2022-02-10**|**Graph-GAN: A spatial-temporal neural network for short-term passenger flow prediction in urban rail transit systems**|Hua Li et.al.|[2202.06727v1](http://arxiv.org/abs/2202.06727v1)|null|
