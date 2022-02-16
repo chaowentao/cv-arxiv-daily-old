@@ -200,12 +200,12 @@ layout: default
 |**2022-02-01**|**Observation of Light-Induced Dipole-Dipole Forces in Ultracold Atomic Gases**|Mira Maiwöger et.al.|[2202.00562v1](http://arxiv.org/abs/2202.00562v1)|null|
 |**2022-01-29**|**Light field Rectification based on relative pose estimation**|Xiao Huo et.al.|[2201.12533v1](http://arxiv.org/abs/2201.12533v1)|null|
 |**2022-01-24**|**Deep Decoding of $\ell_\infty$-coded Light Field Images**|Muhammad Umair Mukati et.al.|[2201.09834v1](http://arxiv.org/abs/2201.09834v1)|null|
-|**2022-01-17**|**Real-time computer-generated light field displays by pre-storing the invariable voxel-pixel mapping**|Quanzhen Wan et.al.|[2201.09658v2](http://arxiv.org/abs/2201.09658v2)|null|
+|**2022-01-17**|**Real-Time Computer-Generated EIA for Light Field Display by Pre-Calculating and Pre-Storing the Invariable Voxel-Pixel Mapping**|Quanzhen Wan et.al.|[2201.09658v3](http://arxiv.org/abs/2201.09658v3)|null|
 |**2022-01-23**|**Metasurface-dressed two-dimensional on-chip waveguide for free-space light field manipulation**|Yimin Ding et.al.|[2201.09347v1](http://arxiv.org/abs/2201.09347v1)|null|
 |**2022-01-22**|**Content-aware Warping for View Synthesis**|Mantang Guo et.al.|[2201.09023v1](http://arxiv.org/abs/2201.09023v1)|null|
 |**2022-01-21**|**Dynamical friction of black holes in ultralight dark matter**|Rodrigo Vicente et.al.|[2201.08854v1](http://arxiv.org/abs/2201.08854v1)|null|
 |**2022-01-21**|**Properties of electron lenses produced by ponderomotive potential with Bessel and Laguerre-Gaussian beams**|Yuuki Uesugi et.al.|[2201.08523v1](http://arxiv.org/abs/2201.08523v1)|null|
-|**2022-01-20**|**Real-time Rendering for Integral Imaging Light Field Displays Based on a Voxel-Pixel Lookup Table**|Quanzhen Wan et.al.|[2201.08266v2](http://arxiv.org/abs/2201.08266v2)|null|
+|**2022-01-20**|**A Real-Time Rendering Method for Light Field Display**|Quanzhen Wan et.al.|[2201.08266v3](http://arxiv.org/abs/2201.08266v3)|null|
 |**2022-01-19**|**Reconfigurable optical logic operations through scattering media with wavefront shaping**|Zhipeng Yu et.al.|[2201.07432v1](http://arxiv.org/abs/2201.07432v1)|null|
 |**2022-01-17**|**Topological photonic crystals: physics, designs and applications**|Guo-Jing Tang et.al.|[2201.06294v1](http://arxiv.org/abs/2201.06294v1)|null|
 |**2022-01-11**|**Static-field ionization model of He-like ions for diagnostics of light field intensity**|Erik Lötstedt et.al.|[2201.03840v1](http://arxiv.org/abs/2201.03840v1)|null|
@@ -526,7 +526,7 @@ layout: default
 |**2022-02-14**|**Domain Adaptation via Prompt Learning**|Chunjiang Ge et.al.|[2202.06687v1](http://arxiv.org/abs/2202.06687v1)|null|
 |**2022-02-14**|**KNIFE: Kernelized-Neural Differential Entropy Estimation**|Georg Pichler et.al.|[2202.06618v1](http://arxiv.org/abs/2202.06618v1)|**[link](https://github.com/g-pichler/knife)**|
 |**2022-02-14**|**A Novel Transfer Learning Framework with Prototypical Representation based Pairwise Learning for Cross-Subject Cross-Session EEG-Based Emotion Recognition**|Rushuang Zhou et.al.|[2202.06509v1](http://arxiv.org/abs/2202.06509v1)|null|
-|**2022-02-14**|**ADeADA: Adaptive Density-aware Active Domain Adaptationfor Semantic Segmentation**|Tsung-Han Wu et.al.|[2202.06484v1](http://arxiv.org/abs/2202.06484v1)|null|
+|**2022-02-14**|**ADeADA: Adaptive Density-aware Active Domain Adaptation for Semantic Segmentation**|Tsung-Han Wu et.al.|[2202.06484v2](http://arxiv.org/abs/2202.06484v2)|null|
 |**2022-02-13**|**Metric Learning-enhanced Optimal Transport for Biochemical Regression Domain Adaptation**|Fang Wu et.al.|[2202.06208v1](http://arxiv.org/abs/2202.06208v1)|null|
 |**2022-02-13**|**Source-Free Progressive Graph Learning for Open-Set Domain Adaptation**|Yadan Luo et.al.|[2202.06174v1](http://arxiv.org/abs/2202.06174v1)|**[link](https://github.com/luoyadan/sf-pgl)**|
 |**2022-02-12**|**Robust alignment of cross-session recordings of neural population activity by behaviour via unsupervised domain adaptation**|Justin Jude et.al.|[2202.06159v1](http://arxiv.org/abs/2202.06159v1)|null|
@@ -1072,7 +1072,7 @@ layout: default
 |**2022-02-14**|**Enhanced light collection from a gallium nitride color center using a near index-matched solid immersion lens**|S. G. Bishop et.al.|[2202.06754v1](http://arxiv.org/abs/2202.06754v1)|null|
 |**2022-02-10**|**Graph-GAN: A spatial-temporal neural network for short-term passenger flow prediction in urban rail transit systems**|Hua Li et.al.|[2202.06727v1](http://arxiv.org/abs/2202.06727v1)|null|
 |**2022-02-14**|**A Novel Transfer Learning Framework with Prototypical Representation based Pairwise Learning for Cross-Subject Cross-Session EEG-Based Emotion Recognition**|Rushuang Zhou et.al.|[2202.06509v1](http://arxiv.org/abs/2202.06509v1)|null|
-|**2022-02-13**|**Diverse facial inpainting guided by exemplars**|Wanglong Lu et.al.|[2202.06358v1](http://arxiv.org/abs/2202.06358v1)|null|
+|**2022-02-13**|**Diverse facial inpainting guided by exemplars**|Wanglong Lu et.al.|[2202.06358v2](http://arxiv.org/abs/2202.06358v2)|null|
 |**2022-02-13**|**FairStyle: Debiasing StyleGAN2 with Style Channel Manipulations**|Cemre Karakas et.al.|[2202.06240v1](http://arxiv.org/abs/2202.06240v1)|null|
 |**2022-02-12**|**Text and Image Guided 3D Avatar Generation and Manipulation**|Zehranaz Canfes et.al.|[2202.06079v1](http://arxiv.org/abs/2202.06079v1)|null|
 |**2022-02-12**|**Fun Selfie Filters in Face Recognition: Impact Assessment and Removal**|Cristian Botezatu et.al.|[2202.06022v1](http://arxiv.org/abs/2202.06022v1)|null|
