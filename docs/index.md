@@ -244,8 +244,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-16**|**Not All Patches are What You Need: Expediting Vision Transformers via Token Reorganizations**|Youwei Liang et.al.|[2202.07800v1](http://arxiv.org/abs/2202.07800v1)|**[link](https://github.com/youweiliang/evit)**|
 |**2022-02-14**|**How Do Vision Transformers Work?**|Namuk Park et.al.|[2202.06709v1](http://arxiv.org/abs/2202.06709v1)|**[link](https://github.com/xxxnell/how-do-vits-work)**|
-|**2022-02-14**|**Mixing and Shifting: Exploiting Global and Local Dependencies in Vision MLPs**|Huangjie Zheng et.al.|[2202.06510v1](http://arxiv.org/abs/2202.06510v1)|null|
+|**2022-02-14**|**Mixing and Shifting: Exploiting Global and Local Dependencies in Vision MLPs**|Huangjie Zheng et.al.|[2202.06510v1](http://arxiv.org/abs/2202.06510v1)|**[link](https://github.com/jegzheng/ms-mlp)**|
 |**2022-02-13**|**AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation**|Sangjoon Park et.al.|[2202.06431v1](http://arxiv.org/abs/2202.06431v1)|null|
 |**2022-02-13**|**BViT: Broad Attention based Vision Transformer**|Nannan Li et.al.|[2202.06268v1](http://arxiv.org/abs/2202.06268v1)|null|
 |**2022-02-11**|**Investigating Power laws in Deep Representation Learning**|Arna Ghosh et.al.|[2202.05808v1](http://arxiv.org/abs/2202.05808v1)|null|
@@ -384,6 +385,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-16**|**XFBoost: Improving Text Generation with Controllable Decoders**|Xiangyu Peng et.al.|[2202.08124v1](http://arxiv.org/abs/2202.08124v1)|null|
+|**2022-02-15**|**The Design and Analysis of a Mobility Game**|Ioannis Vasileios Chremos et.al.|[2202.07691v1](http://arxiv.org/abs/2202.07691v1)|null|
 |**2022-02-15**|**Delving Deeper into Cross-lingual Visual Question Answering**|Chen Liu et.al.|[2202.07630v1](http://arxiv.org/abs/2202.07630v1)|null|
 |**2022-02-11**|**On the Complementarity of Images and Text for the Expression of Emotions in Social Media**|Anna Khlyzova et.al.|[2202.07427v1](http://arxiv.org/abs/2202.07427v1)|null|
 |**2022-02-12**|**DeepPAMM: Deep Piecewise Exponential Additive Mixed Models for Complex Hazard Structures in Survival Analysis**|Philipp Kopper et.al.|[2202.07423v1](http://arxiv.org/abs/2202.07423v1)|null|
@@ -531,6 +534,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-16**|**Domain Adaptive Fake News Detection via Reinforcement Learning**|Ahmadreza Mosallanezhad et.al.|[2202.08159v1](http://arxiv.org/abs/2202.08159v1)|null|
+|**2022-02-15**|**Beyond Deterministic Translation for Unsupervised Domain Adaptation**|Eleni Chiou et.al.|[2202.07778v1](http://arxiv.org/abs/2202.07778v1)|null|
 |**2022-02-15**|**Sim-to-Real Domain Adaptation for Lane Detection and Classification in Autonomous Driving**|Chuqing Hu et.al.|[2202.07133v1](http://arxiv.org/abs/2202.07133v1)|null|
 |**2022-02-14**|**Domain Adaptation via Prompt Learning**|Chunjiang Ge et.al.|[2202.06687v1](http://arxiv.org/abs/2202.06687v1)|null|
 |**2022-02-14**|**KNIFE: Kernelized-Neural Differential Entropy Estimation**|Georg Pichler et.al.|[2202.06618v1](http://arxiv.org/abs/2202.06618v1)|**[link](https://github.com/g-pichler/knife)**|
@@ -632,6 +637,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-16**|**Distributed k-Means with Outliers in General Metrics**|Enrico Dandolo et.al.|[2202.08173v1](http://arxiv.org/abs/2202.08173v1)|null|
+|**2022-02-16**|**Classifying Galaxy Morphologies with Few-Shot Learning**|Zhirui Zhang et.al.|[2202.08172v1](http://arxiv.org/abs/2202.08172v1)|null|
+|**2022-02-16**|**Voice Filter: Few-shot text-to-speech speaker adaptation using voice conversion as a post-processing module**|Adam Gabryś et.al.|[2202.08164v1](http://arxiv.org/abs/2202.08164v1)|null|
+|**2022-02-15**|**Self-Supervised Class-Cognizant Few-Shot Classification**|Ojas Kishore Shirekar et.al.|[2202.08149v1](http://arxiv.org/abs/2202.08149v1)|**[link](https://github.com/ojss/c3lr)**|
+|**2022-02-16**|**FUN-SIS: a Fully UNsupervised approach for Surgical Instrument Segmentation**|Luca Sestini et.al.|[2202.08141v1](http://arxiv.org/abs/2202.08141v1)|null|
+|**2022-02-16**|**ADIMA: Abuse Detection In Multilingual Audio**|Vikram Gupta et.al.|[2202.07991v1](http://arxiv.org/abs/2202.07991v1)|null|
+|**2022-02-16**|**Self-Organizing Maps for Exploration of Partially Observed Data and Imputation of Missing Values**|Sara Rejeb et.al.|[2202.07963v1](http://arxiv.org/abs/2202.07963v1)|null|
+|**2022-02-16**|**Clustering Enabled Few-Shot Load Forecasting**|Qiyuan Wang et.al.|[2202.07939v1](http://arxiv.org/abs/2202.07939v1)|null|
+|**2022-02-16**|**Comparison of Supervised and Unsupervised Anomaly Detection in Belle II Pixel Detector Data**|Katharina Dort et.al.|[2202.07935v1](http://arxiv.org/abs/2202.07935v1)|null|
+|**2022-02-16**|**ZeroGen: Efficient Zero-shot Learning via Dataset Generation**|Jiacheng Ye et.al.|[2202.07922v1](http://arxiv.org/abs/2202.07922v1)|null|
+|**2022-02-16**|**Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series**|Enyan Dai et.al.|[2202.07857v1](http://arxiv.org/abs/2202.07857v1)|**[link](https://github.com/enyandai/ganf)**|
+|**2022-02-16**|**PCRP: Unsupervised Point Cloud Object Retrieval and Pose Estimation**|Pranav Kadam et.al.|[2202.07843v1](http://arxiv.org/abs/2202.07843v1)|null|
+|**2022-02-16**|**Heterogeneous Graph Learning for Explainable Recommendation over Academic Networks**|Xiangtai Chen et.al.|[2202.07832v1](http://arxiv.org/abs/2202.07832v1)|null|
+|**2022-02-15**|**Beyond Deterministic Translation for Unsupervised Domain Adaptation**|Eleni Chiou et.al.|[2202.07778v1](http://arxiv.org/abs/2202.07778v1)|null|
+|**2022-02-15**|**Deep Learning-Assisted Co-registration of Full-Spectral Autofluorescence Lifetime Microscopic Images with H&E-Stained Histology Images**|Qiang Wang et.al.|[2202.07755v1](http://arxiv.org/abs/2202.07755v1)|null|
 |**2022-02-15**|**Delving Deeper into Cross-lingual Visual Question Answering**|Chen Liu et.al.|[2202.07630v1](http://arxiv.org/abs/2202.07630v1)|null|
 |**2022-02-15**|**PILED: An Identify-and-Localize Framework for Few-Shot Event Detection**|Sha Li et.al.|[2202.07615v1](http://arxiv.org/abs/2202.07615v1)|null|
 |**2022-02-15**|**Unsupervised Learning of Group Invariant and Equivariant Representations**|Robin Winter et.al.|[2202.07559v1](http://arxiv.org/abs/2202.07559v1)|null|
@@ -1094,6 +1114,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-16**|**Solution-processed van der Waals heterojunction as the damage-free gate contact for high performance GaN HEMTs**|Chuanju Wang et.al.|[2202.08243v1](http://arxiv.org/abs/2202.08243v1)|null|
+|**2022-02-16**|**Bias in Automated Image Colorization: Metrics and Error Types**|Frank Stapel et.al.|[2202.08143v1](http://arxiv.org/abs/2202.08143v1)|**[link](https://github.com/weersproductions/colorization-bias)**|
+|**2022-02-16**|**GAN Estimation of Lipschitz Optimal Transport Maps**|Alberto González-Sanz et.al.|[2202.07965v1](http://arxiv.org/abs/2202.07965v1)|null|
+|**2022-02-16**|**CycleGAN for Undamaged-to-Damaged Domain Translation for Structural Health Monitoring and Damage Detection**|Furkan Luleci et.al.|[2202.07831v1](http://arxiv.org/abs/2202.07831v1)|null|
+|**2022-02-16**|**RNGDet: Road Network Graph Detection by Transformer in Aerial Images**|Zhenhua Xu et.al.|[2202.07824v1](http://arxiv.org/abs/2202.07824v1)|null|
+|**2022-02-16**|**Applying adversarial networks to increase the data efficiency and reliability of Self-Driving Cars**|Aakash Kumar et.al.|[2202.07815v1](http://arxiv.org/abs/2202.07815v1)|null|
+|**2022-02-16**|**Generative Adversarial Network-Driven Detection of Adversarial Tasks in Mobile Crowdsensing**|Zhiyan Chen et.al.|[2202.07802v1](http://arxiv.org/abs/2202.07802v1)|null|
+|**2022-02-15**|**The efficacy and generalizability of conditional GANs for posterior inference in physics-based inverse problems**|Deep Ray et.al.|[2202.07773v1](http://arxiv.org/abs/2202.07773v1)|null|
 |**2022-02-14**|**Understanding DDPM Latent Codes Through Optimal Transport**|Valentin Khrulkov et.al.|[2202.07477v1](http://arxiv.org/abs/2202.07477v1)|null|
 |**2022-02-15**|**Spin orbital reorientation transitions induced by magnetic field**|Dariusz Sztenkiel et.al.|[2202.07443v1](http://arxiv.org/abs/2202.07443v1)|null|
 |**2022-02-15**|**High-frequency traveling-wave phononic cavity with sub-micron wavelength**|Xin-Biao Xu et.al.|[2202.07217v1](http://arxiv.org/abs/2202.07217v1)|null|
