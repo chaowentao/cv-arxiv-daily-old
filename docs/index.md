@@ -390,9 +390,9 @@ layout: default
 |**2022-02-15**|**Multimodal Driver Referencing: A Comparison of Pointing to Objects Inside and Outside the Vehicle**|Abdul Rafey Aftab et.al.|[2202.07360v1](http://arxiv.org/abs/2202.07360v1)|null|
 |**2022-02-15**|**ViNTER: Image Narrative Generation with Emotion-Arc-Aware Transformer**|Kohei Uehara et.al.|[2202.07305v1](http://arxiv.org/abs/2202.07305v1)|null|
 |**2022-02-15**|**CommerceMM: Large-Scale Commerce MultiModal Representation Learning with Omni Retrieval**|Licheng Yu et.al.|[2202.07247v1](http://arxiv.org/abs/2202.07247v1)|null|
-|**2022-02-14**|**A Survey of Cross-Modality Brain Image Synthesis**|Guoyang Xie et.al.|[2202.06997v1](http://arxiv.org/abs/2202.06997v1)|null|
+|**2022-02-14**|**A Survey of Cross-Modality Brain Image Synthesis**|Guoyang Xie et.al.|[2202.06997v2](http://arxiv.org/abs/2202.06997v2)|null|
 |**2022-02-14**|**Deterministic Photon Sorting in Waveguide QED Systems**|Fan Yang et.al.|[2202.06992v1](http://arxiv.org/abs/2202.06992v1)|null|
-|**2022-02-14**|**Close-up and Whispering: An Understanding of Multimodal and Parasocial Interactions in YouTube ASMR videos**|Shuo Niu et.al.|[2202.06839v1](http://arxiv.org/abs/2202.06839v1)|null|
+|**2022-02-14**|**Close-up and Whispering: An Understanding of Multimodal and Parasocial Interactions in YouTube ASMR videos**|Shuo Niu et.al.|[2202.06839v2](http://arxiv.org/abs/2202.06839v2)|null|
 |**2022-02-14**|**Convolutional Neural Network with Convolutional Block Attention Module for Finger Vein Recognition**|Zhongxia Zhang et.al.|[2202.06673v1](http://arxiv.org/abs/2202.06673v1)|null|
 |**2022-02-14**|**UnScenE: Toward Unsupervised Scenario Extraction for Automated Driving Systems from Urban Naturalistic Road Traffic Data**|Nico Weber et.al.|[2202.06608v1](http://arxiv.org/abs/2202.06608v1)|null|
 |**2022-02-14**|**EMGSE: Acoustic/EMG Fusion for Multimodal Speech Enhancement**|Kuan-Chen Wang et.al.|[2202.06507v1](http://arxiv.org/abs/2202.06507v1)|null|
@@ -536,9 +536,9 @@ layout: default
 |**2022-02-14**|**KNIFE: Kernelized-Neural Differential Entropy Estimation**|Georg Pichler et.al.|[2202.06618v1](http://arxiv.org/abs/2202.06618v1)|**[link](https://github.com/g-pichler/knife)**|
 |**2022-02-14**|**A Novel Transfer Learning Framework with Prototypical Representation based Pairwise Learning for Cross-Subject Cross-Session EEG-Based Emotion Recognition**|Rushuang Zhou et.al.|[2202.06509v1](http://arxiv.org/abs/2202.06509v1)|null|
 |**2022-02-14**|**ADeADA: Adaptive Density-aware Active Domain Adaptation for Semantic Segmentation**|Tsung-Han Wu et.al.|[2202.06484v2](http://arxiv.org/abs/2202.06484v2)|null|
-|**2022-02-13**|**Metric Learning-enhanced Optimal Transport for Biochemical Regression Domain Adaptation**|Fang Wu et.al.|[2202.06208v1](http://arxiv.org/abs/2202.06208v1)|null|
+|**2022-02-13**|**Metric Learning-enhanced Optimal Transport for Biochemical Regression Domain Adaptation**|Fang Wu et.al.|[2202.06208v2](http://arxiv.org/abs/2202.06208v2)|null|
 |**2022-02-13**|**Source-Free Progressive Graph Learning for Open-Set Domain Adaptation**|Yadan Luo et.al.|[2202.06174v1](http://arxiv.org/abs/2202.06174v1)|**[link](https://github.com/luoyadan/sf-pgl)**|
-|**2022-02-12**|**Robust alignment of cross-session recordings of neural population activity by behaviour via unsupervised domain adaptation**|Justin Jude et.al.|[2202.06159v1](http://arxiv.org/abs/2202.06159v1)|null|
+|**2022-02-12**|**Robust alignment of cross-session recordings of neural population activity by behaviour via unsupervised domain adaptation**|Justin Jude et.al.|[2202.06159v2](http://arxiv.org/abs/2202.06159v2)|null|
 |**2022-02-12**|**Domain-Invariant Proposals based on a Balanced Domain Classifier for Object Detection**|Zhize Wu et.al.|[2202.05941v1](http://arxiv.org/abs/2202.05941v1)|null|
 |**2022-02-11**|**Positive-Unlabeled Domain Adaptation**|Jonas Sonntag et.al.|[2202.05695v1](http://arxiv.org/abs/2202.05695v1)|null|
 |**2022-02-10**|**Domain Adversarial Training: A Game Perspective**|David Acuna et.al.|[2202.05352v1](http://arxiv.org/abs/2202.05352v1)|null|
@@ -643,12 +643,12 @@ layout: default
 |**2022-02-15**|**Enhancing Cross-lingual Prompting with Mask Token Augmentation**|Meng Zhou et.al.|[2202.07255v1](http://arxiv.org/abs/2202.07255v1)|null|
 |**2022-02-15**|**Few-shot semantic segmentation via mask aggregation**|Wei Ao et.al.|[2202.07231v1](http://arxiv.org/abs/2202.07231v1)|**[link](https://github.com/tinyaway/manet)**|
 |**2022-02-15**|**Impact of Pretraining Term Frequencies on Few-Shot Reasoning**|Yasaman Razeghi et.al.|[2202.07206v1](http://arxiv.org/abs/2202.07206v1)|null|
-|**2022-02-15**|**Unsupervised word-level prosody tagging for controllable speech synthesis**|Yiwei Guo et.al.|[2202.07200v1](http://arxiv.org/abs/2202.07200v1)|null|
+|**2022-02-15**|**Unsupervised word-level prosody tagging for controllable speech synthesis**|Yiwei Guo et.al.|[2202.07200v2](http://arxiv.org/abs/2202.07200v2)|null|
 |**2022-02-15**|**Improving Human Sperm Head Morphology Classification with Unsupervised Anatomical Feature Distillation**|Yejia Zhang et.al.|[2202.07191v1](http://arxiv.org/abs/2202.07191v1)|null|
 |**2022-02-15**|**Sim-to-Real Domain Adaptation for Lane Detection and Classification in Autonomous Driving**|Chuqing Hu et.al.|[2202.07133v1](http://arxiv.org/abs/2202.07133v1)|null|
 |**2022-02-14**|**Handcrafted Histological Transformer (H2T): Unsupervised Representation of Whole Slide Images**|Quoc Dang Vu et.al.|[2202.07001v1](http://arxiv.org/abs/2202.07001v1)|null|
-|**2022-02-14**|**A Survey of Cross-Modality Brain Image Synthesis**|Guoyang Xie et.al.|[2202.06997v1](http://arxiv.org/abs/2202.06997v1)|null|
-|**2022-02-14**|**Transformer Memory as a Differentiable Search Index**|Yi Tay et.al.|[2202.06991v1](http://arxiv.org/abs/2202.06991v1)|null|
+|**2022-02-14**|**A Survey of Cross-Modality Brain Image Synthesis**|Guoyang Xie et.al.|[2202.06997v2](http://arxiv.org/abs/2202.06997v2)|null|
+|**2022-02-14**|**Transformer Memory as a Differentiable Search Index**|Yi Tay et.al.|[2202.06991v2](http://arxiv.org/abs/2202.06991v2)|null|
 |**2022-02-14**|**A Generic Self-Supervised Framework of Learning Invariant Discriminative Features**|Foivos Ntelemis et.al.|[2202.06914v1](http://arxiv.org/abs/2202.06914v1)|null|
 |**2022-02-14**|**COLA: COarse LAbel pre-training for 3D semantic segmentation of sparse LiDAR datasets**|Jules Sanchez et.al.|[2202.06884v1](http://arxiv.org/abs/2202.06884v1)|null|
 |**2022-02-14**|**Physics-Informed Deep Monte Carlo Quantile Regression method for Interval Multilevel Bayesian Network-based Satellite Heat Reliability Analysis**|Xiaohu Zheng et.al.|[2202.06860v1](http://arxiv.org/abs/2202.06860v1)|null|
@@ -1098,7 +1098,7 @@ layout: default
 |**2022-02-15**|**Spin orbital reorientation transitions induced by magnetic field**|Dariusz Sztenkiel et.al.|[2202.07443v1](http://arxiv.org/abs/2202.07443v1)|null|
 |**2022-02-15**|**High-frequency traveling-wave phononic cavity with sub-micron wavelength**|Xin-Biao Xu et.al.|[2202.07217v1](http://arxiv.org/abs/2202.07217v1)|null|
 |**2022-02-15**|**GAN-generated Faces Detection: A Survey and New Perspectives**|Xin Wang et.al.|[2202.07145v1](http://arxiv.org/abs/2202.07145v1)|null|
-|**2022-02-14**|**Fast and accurate dose predictions for novel radiotherapy treatments in heterogeneous phantoms using conditional 3D-UNet generative adversarial networks**|Florian Mentzel et.al.|[2202.07077v1](http://arxiv.org/abs/2202.07077v1)|null|
+|**2022-02-14**|**Fast and accurate dose predictions for novel radiotherapy treatments in heterogeneous phantoms using conditional 3D-UNet generative adversarial networks**|Florian Mentzel et.al.|[2202.07077v2](http://arxiv.org/abs/2202.07077v2)|null|
 |**2022-02-14**|**Artificial Intelligence-Based Smart Grid Vulnerabilities and Potential Solutions for Fake-Normal Attacks: A Short Review**|J. D. Ndibwile et.al.|[2202.07050v1](http://arxiv.org/abs/2202.07050v1)|null|
 |**2022-02-14**|**Adiabatic conversion between gigahertz quasi-Rayleigh and quasi-Love modes for phononic integrated circuits**|Bao-Zhen Wang et.al.|[2202.06770v1](http://arxiv.org/abs/2202.06770v1)|null|
 |**2022-02-14**|**Enhanced light collection from a gallium nitride color center using a near index-matched solid immersion lens**|S. G. Bishop et.al.|[2202.06754v1](http://arxiv.org/abs/2202.06754v1)|null|
