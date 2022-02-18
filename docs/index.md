@@ -638,7 +638,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-02-16**|**Distributed k-Means with Outliers in General Metrics**|Enrico Dandolo et.al.|[2202.08173v1](http://arxiv.org/abs/2202.08173v1)|null|
-|**2022-02-16**|**Classifying Galaxy Morphologies with Few-Shot Learning**|Zhirui Zhang et.al.|[2202.08172v1](http://arxiv.org/abs/2202.08172v1)|null|
+|**2022-02-16**|**Classifying Galaxy Morphologies with Few-Shot Learning**|Zhirui Zhang et.al.|[2202.08172v2](http://arxiv.org/abs/2202.08172v2)|null|
 |**2022-02-16**|**Voice Filter: Few-shot text-to-speech speaker adaptation using voice conversion as a post-processing module**|Adam Gabryś et.al.|[2202.08164v1](http://arxiv.org/abs/2202.08164v1)|null|
 |**2022-02-15**|**Self-Supervised Class-Cognizant Few-Shot Classification**|Ojas Kishore Shirekar et.al.|[2202.08149v1](http://arxiv.org/abs/2202.08149v1)|**[link](https://github.com/ojss/c3lr)**|
 |**2022-02-16**|**FUN-SIS: a Fully UNsupervised approach for Surgical Instrument Segmentation**|Luca Sestini et.al.|[2202.08141v1](http://arxiv.org/abs/2202.08141v1)|null|
