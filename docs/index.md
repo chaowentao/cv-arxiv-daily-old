@@ -244,6 +244,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-17**|**A hybrid 2-stage vision transformer for AI-assisted 5 class pathologic diagnosis of gastric endoscopic biopsies**|Yujin Oh et.al.|[2202.08510v1](http://arxiv.org/abs/2202.08510v1)|null|
 |**2022-02-16**|**Not All Patches are What You Need: Expediting Vision Transformers via Token Reorganizations**|Youwei Liang et.al.|[2202.07800v1](http://arxiv.org/abs/2202.07800v1)|**[link](https://github.com/youweiliang/evit)**|
 |**2022-02-14**|**How Do Vision Transformers Work?**|Namuk Park et.al.|[2202.06709v1](http://arxiv.org/abs/2202.06709v1)|**[link](https://github.com/xxxnell/how-do-vits-work)**|
 |**2022-02-14**|**Mixing and Shifting: Exploiting Global and Local Dependencies in Vision MLPs**|Huangjie Zheng et.al.|[2202.06510v1](http://arxiv.org/abs/2202.06510v1)|**[link](https://github.com/jegzheng/ms-mlp)**|
@@ -385,6 +386,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-17**|**Multimodal interference and bound in the continuum modes in indirectly-patterned hyperbolic cavities**|Hanan Herzig Sheinfux et.al.|[2202.08611v1](http://arxiv.org/abs/2202.08611v1)|null|
+|**2022-02-17**|**Feels Bad Man: Dissecting Automated Hateful Meme Detection Through the Lens of Facebook's Challenge**|Catherine Jennifer et.al.|[2202.08492v1](http://arxiv.org/abs/2202.08492v1)|null|
 |**2022-02-16**|**XFBoost: Improving Text Generation with Controllable Decoders**|Xiangyu Peng et.al.|[2202.08124v1](http://arxiv.org/abs/2202.08124v1)|null|
 |**2022-02-15**|**The Design and Analysis of a Mobility Game**|Ioannis Vasileios Chremos et.al.|[2202.07691v1](http://arxiv.org/abs/2202.07691v1)|null|
 |**2022-02-15**|**Delving Deeper into Cross-lingual Visual Question Answering**|Chen Liu et.al.|[2202.07630v1](http://arxiv.org/abs/2202.07630v1)|null|
@@ -534,6 +537,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-17**|**Domain Adaptation for Underwater Image Enhancement via Content and Style Separation**|Yu-Wei Chen et.al.|[2202.08537v1](http://arxiv.org/abs/2202.08537v1)|null|
 |**2022-02-16**|**Domain Adaptive Fake News Detection via Reinforcement Learning**|Ahmadreza Mosallanezhad et.al.|[2202.08159v1](http://arxiv.org/abs/2202.08159v1)|null|
 |**2022-02-15**|**Beyond Deterministic Translation for Unsupervised Domain Adaptation**|Eleni Chiou et.al.|[2202.07778v1](http://arxiv.org/abs/2202.07778v1)|null|
 |**2022-02-15**|**Sim-to-Real Domain Adaptation for Lane Detection and Classification in Autonomous Driving**|Chuqing Hu et.al.|[2202.07133v1](http://arxiv.org/abs/2202.07133v1)|null|
@@ -637,6 +641,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-17**|**Multi-Channel Speech Denoising for Machine Ears**|Cong Han et.al.|[2202.08793v1](http://arxiv.org/abs/2202.08793v1)|null|
+|**2022-02-17**|**Detecting and Learning the Unknown in Semantic Segmentation**|Robin Chan et.al.|[2202.08700v1](http://arxiv.org/abs/2202.08700v1)|null|
+|**2022-02-17**|**Synthetic data for unsupervised polyp segmentation**|Enric Moreu et.al.|[2202.08680v1](http://arxiv.org/abs/2202.08680v1)|**[link](https://github.com/enric1994/synth-colon)**|
+|**2022-02-17**|**Semantically Proportional Patchmix for Few-Shot Learning**|Jingquan Wang et.al.|[2202.08647v1](http://arxiv.org/abs/2202.08647v1)|null|
+|**2022-02-17**|**Survey on Self-supervised Representation Learning Using Image Transformations**|Muhammad Ali et.al.|[2202.08514v1](http://arxiv.org/abs/2202.08514v1)|null|
+|**2022-02-17**|**Early exclusion leads to cyclical cooperation in repeated group interactions**|Linjie Liu et.al.|[2202.08503v1](http://arxiv.org/abs/2202.08503v1)|null|
+|**2022-02-17**|**Structural and Semantic Contrastive Learning for Self-supervised Node Representation Learning**|Kaize Ding et.al.|[2202.08480v1](http://arxiv.org/abs/2202.08480v1)|null|
+|**2022-02-17**|**Neural Marionette: Unsupervised Learning of Motion Skeleton and Latent Dynamics from Volumetric Video**|Jinseok Bae et.al.|[2202.08418v1](http://arxiv.org/abs/2202.08418v1)|null|
+|**2022-02-16**|**Anomalib: A Deep Learning Library for Anomaly Detection**|Samet Akcay et.al.|[2202.08341v1](http://arxiv.org/abs/2202.08341v1)|null|
+|**2022-02-16**|**Open-Ended Reinforcement Learning with Neural Reward Functions**|Robert Meier et.al.|[2202.08266v1](http://arxiv.org/abs/2202.08266v1)|null|
 |**2022-02-16**|**Distributed k-Means with Outliers in General Metrics**|Enrico Dandolo et.al.|[2202.08173v1](http://arxiv.org/abs/2202.08173v1)|null|
 |**2022-02-16**|**Classifying Galaxy Morphologies with Few-Shot Learning**|Zhirui Zhang et.al.|[2202.08172v2](http://arxiv.org/abs/2202.08172v2)|null|
 |**2022-02-16**|**Voice Filter: Few-shot text-to-speech speaker adaptation using voice conversion as a post-processing module**|Adam Gabryś et.al.|[2202.08164v1](http://arxiv.org/abs/2202.08164v1)|null|
@@ -646,7 +660,7 @@ layout: default
 |**2022-02-16**|**Self-Organizing Maps for Exploration of Partially Observed Data and Imputation of Missing Values**|Sara Rejeb et.al.|[2202.07963v1](http://arxiv.org/abs/2202.07963v1)|null|
 |**2022-02-16**|**Clustering Enabled Few-Shot Load Forecasting**|Qiyuan Wang et.al.|[2202.07939v1](http://arxiv.org/abs/2202.07939v1)|null|
 |**2022-02-16**|**Comparison of Supervised and Unsupervised Anomaly Detection in Belle II Pixel Detector Data**|Katharina Dort et.al.|[2202.07935v1](http://arxiv.org/abs/2202.07935v1)|null|
-|**2022-02-16**|**ZeroGen: Efficient Zero-shot Learning via Dataset Generation**|Jiacheng Ye et.al.|[2202.07922v1](http://arxiv.org/abs/2202.07922v1)|null|
+|**2022-02-16**|**ZeroGen: Efficient Zero-shot Learning via Dataset Generation**|Jiacheng Ye et.al.|[2202.07922v1](http://arxiv.org/abs/2202.07922v1)|**[link](https://github.com/jiacheng-ye/zerogen)**|
 |**2022-02-16**|**Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series**|Enyan Dai et.al.|[2202.07857v1](http://arxiv.org/abs/2202.07857v1)|**[link](https://github.com/enyandai/ganf)**|
 |**2022-02-16**|**PCRP: Unsupervised Point Cloud Object Retrieval and Pose Estimation**|Pranav Kadam et.al.|[2202.07843v1](http://arxiv.org/abs/2202.07843v1)|null|
 |**2022-02-16**|**Heterogeneous Graph Learning for Explainable Recommendation over Academic Networks**|Xiangtai Chen et.al.|[2202.07832v1](http://arxiv.org/abs/2202.07832v1)|null|
@@ -1082,6 +1096,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-17**|**Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time**|Liao Wang et.al.|[2202.08614v1](http://arxiv.org/abs/2202.08614v1)|null|
 |**2022-02-12**|**NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing**|Jiakai Zhang et.al.|[2202.06088v1](http://arxiv.org/abs/2202.06088v1)|null|
 |**2022-02-10**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263v1](http://arxiv.org/abs/2202.05263v1)|null|
 |**2022-02-01**|**CLA-NeRF: Category-Level Articulated Neural Radiance Field**|Wei-Cheng Tseng et.al.|[2202.00181v1](http://arxiv.org/abs/2202.00181v1)|null|
@@ -1114,6 +1129,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-17**|**3D-Aware Indoor Scene Synthesis with Depth Priors**|Zifan Shi et.al.|[2202.08553v1](http://arxiv.org/abs/2202.08553v1)|null|
+|**2022-02-17**|**Point Cloud Generation with Continuous Conditioning**|Larissa T. Triess et.al.|[2202.08526v1](http://arxiv.org/abs/2202.08526v1)|null|
 |**2022-02-16**|**Solution-processed van der Waals heterojunction as the damage-free gate contact for high performance GaN HEMTs**|Chuanju Wang et.al.|[2202.08243v1](http://arxiv.org/abs/2202.08243v1)|null|
 |**2022-02-16**|**Bias in Automated Image Colorization: Metrics and Error Types**|Frank Stapel et.al.|[2202.08143v1](http://arxiv.org/abs/2202.08143v1)|**[link](https://github.com/weersproductions/colorization-bias)**|
 |**2022-02-16**|**GAN Estimation of Lipschitz Optimal Transport Maps**|Alberto González-Sanz et.al.|[2202.07965v1](http://arxiv.org/abs/2202.07965v1)|null|
