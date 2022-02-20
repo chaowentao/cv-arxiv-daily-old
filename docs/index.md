@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.02.19
+## Updated on 2022.02.20
 
 ## SLAM
 
@@ -1105,7 +1105,7 @@ layout: default
 |**2022-01-19**|**Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation**|Xian Liu et.al.|[2201.07786v1](http://arxiv.org/abs/2201.07786v1)|null|
 |**2021-12-31**|**InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering**|Mijeong Kim et.al.|[2112.15399v1](http://arxiv.org/abs/2112.15399v1)|null|
 |**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|**[link](https://github.com/fnzhan/mise)**|
-|**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang et.al.|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|null|
+|**2021-12-23**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang et.al.|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|**[link](https://github.com/facebookresearch/banmo)**|
 |**2021-12-23**|**Learning Implicit Body Representations from Double Diffusion Based Neural Radiance Fields**|Guangming Yao et.al.|[2112.12390v2](http://arxiv.org/abs/2112.12390v2)|null|
 |**2021-12-20**|**3D-aware Image Synthesis via Learning Structural and Textural Representations**|Yinghao Xu et.al.|[2112.10759v1](http://arxiv.org/abs/2112.10759v1)|**[link](https://github.com/genforce/volumegan)**|
 |**2021-12-20**|**Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs**|Haithem Turki et.al.|[2112.10703v1](http://arxiv.org/abs/2112.10703v1)|**[link](https://github.com/cmusatyalab/mega-nerf)**|
