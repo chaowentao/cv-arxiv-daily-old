@@ -195,6 +195,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-18**|**Towards Simple and Accurate Human Pose Estimation with Stair Network**|Chenru Jiang et.al.|[2202.09115v1](http://arxiv.org/abs/2202.09115v1)|null|
 |**2022-02-09**|**Motion-Aware Transformer For Occluded Person Re-identification**|Mi Zhou et.al.|[2202.04243v2](http://arxiv.org/abs/2202.04243v2)|null|
 |**2022-02-05**|**A survey of top-down approaches for human pose estimation**|Thong Duy Nguyen et.al.|[2202.02656v1](http://arxiv.org/abs/2202.02656v1)|null|
 |**2022-02-01**|**ADG-Pose: Automated Dataset Generation for Real-World Human Pose Estimation**|Ghazal Alinezhad Noghre et.al.|[2202.00753v1](http://arxiv.org/abs/2202.00753v1)|null|
@@ -234,6 +235,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-18**|**A Review on Methods and Applications in Multimodal Deep Learning**|Jabeen Summaira et.al.|[2202.09195v1](http://arxiv.org/abs/2202.09195v1)|null|
+|**2022-02-18**|**AMS_ADRN at SemEval-2022 Task 5: A Suitable Image-text Multimodal Joint Modeling Method for Multi-task Misogyny Identification**|Da Li et.al.|[2202.09099v1](http://arxiv.org/abs/2202.09099v1)|null|
+|**2022-02-16**|**Multimodal Emotion Recognition using Transfer Learning from Speaker Recognition and BERT-based models**|Sarala Padi et.al.|[2202.08974v1](http://arxiv.org/abs/2202.08974v1)|null|
+|**2022-02-17**|**On Guiding Visual Attention with Language Specification**|Suzanne Petryk et.al.|[2202.08926v1](http://arxiv.org/abs/2202.08926v1)|null|
 |**2022-02-17**|**Multimodal interference and bound in the continuum modes in indirectly-patterned hyperbolic cavities**|Hanan Herzig Sheinfux et.al.|[2202.08611v1](http://arxiv.org/abs/2202.08611v1)|null|
 |**2022-02-17**|**Feels Bad Man: Dissecting Automated Hateful Meme Detection Through the Lens of Facebook's Challenge**|Catherine Jennifer et.al.|[2202.08492v1](http://arxiv.org/abs/2202.08492v1)|null|
 |**2022-02-16**|**XFBoost: Improving Text Generation with Controllable Decoders**|Xiangyu Peng et.al.|[2202.08124v1](http://arxiv.org/abs/2202.08124v1)|null|
@@ -385,6 +390,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-18**|**Exploring Adversarially Robust Training for Unsupervised Domain Adaptation**|Shao-Yuan Lo et.al.|[2202.09300v1](http://arxiv.org/abs/2202.09300v1)|null|
+|**2022-02-18**|**Domain Adaptation of low-resource Target-Domain models using well-trained ASR Conformer Models**|Vrunda N. Sukhadia et.al.|[2202.09167v1](http://arxiv.org/abs/2202.09167v1)|null|
+|**2022-02-18**|**Echo-aware Adaptation of Sound Event Localization and Detection in Unknown Environments**|Masahiro Yasuda et.al.|[2202.09121v1](http://arxiv.org/abs/2202.09121v1)|null|
+|**2022-02-18**|**REFUGE2 Challenge: Treasure for Multi-Domain Learning in Glaucoma Assessment**|Huihui Fang et.al.|[2202.08994v1](http://arxiv.org/abs/2202.08994v1)|null|
+|**2022-02-17**|**RemixIT: Continual self-training of speech enhancement models via bootstrapped remixing**|Efthymios Tzinis et.al.|[2202.08862v1](http://arxiv.org/abs/2202.08862v1)|null|
 |**2022-02-17**|**Domain Adaptation for Underwater Image Enhancement via Content and Style Separation**|Yu-Wei Chen et.al.|[2202.08537v1](http://arxiv.org/abs/2202.08537v1)|null|
 |**2022-02-16**|**Domain Adaptive Fake News Detection via Reinforcement Learning**|Ahmadreza Mosallanezhad et.al.|[2202.08159v1](http://arxiv.org/abs/2202.08159v1)|null|
 |**2022-02-15**|**Beyond Deterministic Translation for Unsupervised Domain Adaptation**|Eleni Chiou et.al.|[2202.07778v1](http://arxiv.org/abs/2202.07778v1)|null|
@@ -489,6 +499,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-18**|**Unsupervised Multiple-Object Tracking with a Dynamical Variational Autoencoder**|Xiaoyu Lin et.al.|[2202.09315v1](http://arxiv.org/abs/2202.09315v1)|null|
+|**2022-02-18**|**Exploring Adversarially Robust Training for Unsupervised Domain Adaptation**|Shao-Yuan Lo et.al.|[2202.09300v1](http://arxiv.org/abs/2202.09300v1)|null|
+|**2022-02-18**|**Unsupervised and supervised learning of interacting topological phases from single-particle correlation functions**|Simone Tibaldi et.al.|[2202.09281v1](http://arxiv.org/abs/2202.09281v1)|null|
+|**2022-02-18**|**Autoencoding Low-Resolution MRI for Semantically Smooth Interpolation of Anisotropic MRI**|Jörg Sander et.al.|[2202.09258v1](http://arxiv.org/abs/2202.09258v1)|null|
+|**2022-02-18**|**Linearization and Identification of Multiple-Attractors Dynamical System through Laplacian Eigenmaps**|Bernardo Fichera et.al.|[2202.09171v1](http://arxiv.org/abs/2202.09171v1)|null|
+|**2022-02-18**|**Towards better understanding and better generalization of few-shot classification in histology images with contrastive learning**|Jiawei Yang et.al.|[2202.09059v1](http://arxiv.org/abs/2202.09059v1)|**[link](https://github.com/TencentAILabHealthcare/Few-shot-WSI)**|
+|**2022-02-18**|**Graph Auto-Encoder Via Neighborhood Wasserstein Reconstruction**|Mingyue Tang et.al.|[2202.09025v1](http://arxiv.org/abs/2202.09025v1)|**[link](https://github.com/mtang724/nwr-gae)**|
+|**2022-02-18**|**How Well Do Self-Supervised Methods Perform in Cross-Domain Few-Shot Learning?**|Yiyi Zhang et.al.|[2202.09014v1](http://arxiv.org/abs/2202.09014v1)|null|
+|**2022-02-18**|**KINet: Keypoint Interaction Networks for Unsupervised Forward Modeling**|Alireza Rezazadeh et.al.|[2202.09006v1](http://arxiv.org/abs/2202.09006v1)|null|
+|**2022-02-17**|**SGPT: GPT Sentence Embeddings for Semantic Search**|Niklas Muennighoff et.al.|[2202.08904v1](http://arxiv.org/abs/2202.08904v1)|**[link](https://github.com/muennighoff/sgpt)**|
+|**2022-02-17**|**A recommender system for automatic picking of subsurface formation tops**|Jesse R. Pisel et.al.|[2202.08869v1](http://arxiv.org/abs/2202.08869v1)|**[link](https://github.com/jessepisel/matrixfactorization)**|
+|**2022-02-17**|**Exploring X-ray variability with unsupervised machine learning I. Self-organizing maps applied to XMM-Newton data**|Miloš Kovačević et.al.|[2202.08868v1](http://arxiv.org/abs/2202.08868v1)|null|
+|**2022-02-17**|**RemixIT: Continual self-training of speech enhancement models via bootstrapped remixing**|Efthymios Tzinis et.al.|[2202.08862v1](http://arxiv.org/abs/2202.08862v1)|null|
 |**2022-02-17**|**Multi-Channel Speech Denoising for Machine Ears**|Cong Han et.al.|[2202.08793v1](http://arxiv.org/abs/2202.08793v1)|null|
 |**2022-02-17**|**Detecting and Learning the Unknown in Semantic Segmentation**|Robin Chan et.al.|[2202.08700v1](http://arxiv.org/abs/2202.08700v1)|null|
 |**2022-02-17**|**Synthetic data for unsupervised polyp segmentation**|Enric Moreu et.al.|[2202.08680v1](http://arxiv.org/abs/2202.08680v1)|**[link](https://github.com/enric1994/synth-colon)**|
@@ -977,6 +1000,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-18**|**Space4HGNN: A Novel, Modularized and Reproducible Platform to Evaluate Heterogeneous Graph Neural Network**|Tianyu Zhao et.al.|[2202.09177v1](http://arxiv.org/abs/2202.09177v1)|null|
+|**2022-02-18**|**PerFED-GAN: Personalized Federated Learning via Generative Adversarial Networks**|Xingjian Cao et.al.|[2202.09155v1](http://arxiv.org/abs/2202.09155v1)|null|
+|**2022-02-18**|**Measurement of the charm mixing parameter $y_{CP} - y_{CP}^{Kπ}$ using two-body $D^0$ meson decays**|LHCb collaboration et.al.|[2202.09106v1](http://arxiv.org/abs/2202.09106v1)|null|
+|**2022-02-17**|**When, Why, and Which Pretrained GANs Are Useful?**|Timofey Grigoryev et.al.|[2202.08937v1](http://arxiv.org/abs/2202.08937v1)|**[link](https://github.com/yandex-research/gan-transfer)**|
 |**2022-02-17**|**3D-Aware Indoor Scene Synthesis with Depth Priors**|Zifan Shi et.al.|[2202.08553v2](http://arxiv.org/abs/2202.08553v2)|null|
 |**2022-02-17**|**Point Cloud Generation with Continuous Conditioning**|Larissa T. Triess et.al.|[2202.08526v1](http://arxiv.org/abs/2202.08526v1)|null|
 |**2022-02-16**|**Solution-processed van der Waals heterojunction as the damage-free gate contact for high performance GaN HEMTs**|Chuanju Wang et.al.|[2202.08243v1](http://arxiv.org/abs/2202.08243v1)|null|
