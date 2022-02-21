@@ -499,7 +499,7 @@
 |**2022-02-17**|**Neural Marionette: Unsupervised Learning of Motion Skeleton and Latent Dynamics from Volumetric Video**|Jinseok Bae et.al.|[2202.08418v1](http://arxiv.org/abs/2202.08418v1)|null|
 |**2022-02-16**|**Anomalib: A Deep Learning Library for Anomaly Detection**|Samet Akcay et.al.|[2202.08341v1](http://arxiv.org/abs/2202.08341v1)|**[link](https://github.com/openvinotoolkit/anomalib)**|
 |**2022-02-16**|**Open-Ended Reinforcement Learning with Neural Reward Functions**|Robert Meier et.al.|[2202.08266v1](http://arxiv.org/abs/2202.08266v1)|null|
-|**2022-02-16**|**Distributed k-Means with Outliers in General Metrics**|Enrico Dandolo et.al.|[2202.08173v1](http://arxiv.org/abs/2202.08173v1)|null|
+|**2022-02-16**|**Distributed k-Means with Outliers in General Metrics**|Enrico Dandolo et.al.|[2202.08173v2](http://arxiv.org/abs/2202.08173v2)|null|
 |**2022-02-16**|**Classifying Galaxy Morphologies with Few-Shot Learning**|Zhirui Zhang et.al.|[2202.08172v2](http://arxiv.org/abs/2202.08172v2)|null|
 |**2022-02-16**|**Voice Filter: Few-shot text-to-speech speaker adaptation using voice conversion as a post-processing module**|Adam Gabryś et.al.|[2202.08164v1](http://arxiv.org/abs/2202.08164v1)|null|
 |**2022-02-15**|**Self-Supervised Class-Cognizant Few-Shot Classification**|Ojas Kishore Shirekar et.al.|[2202.08149v1](http://arxiv.org/abs/2202.08149v1)|**[link](https://github.com/ojss/c3lr)**|
@@ -977,7 +977,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-17**|**3D-Aware Indoor Scene Synthesis with Depth Priors**|Zifan Shi et.al.|[2202.08553v1](http://arxiv.org/abs/2202.08553v1)|null|
+|**2022-02-17**|**3D-Aware Indoor Scene Synthesis with Depth Priors**|Zifan Shi et.al.|[2202.08553v2](http://arxiv.org/abs/2202.08553v2)|null|
 |**2022-02-17**|**Point Cloud Generation with Continuous Conditioning**|Larissa T. Triess et.al.|[2202.08526v1](http://arxiv.org/abs/2202.08526v1)|null|
 |**2022-02-16**|**Solution-processed van der Waals heterojunction as the damage-free gate contact for high performance GaN HEMTs**|Chuanju Wang et.al.|[2202.08243v1](http://arxiv.org/abs/2202.08243v1)|null|
 |**2022-02-16**|**Bias in Automated Image Colorization: Metrics and Error Types**|Frank Stapel et.al.|[2202.08143v1](http://arxiv.org/abs/2202.08143v1)|**[link](https://github.com/weersproductions/colorization-bias)**|
