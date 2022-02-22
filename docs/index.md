@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.02.21
+## Updated on 2022.02.22
 
 ## SLAM
 
@@ -1124,7 +1124,7 @@ layout: default
 |**2022-02-10**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263v1](http://arxiv.org/abs/2202.05263v1)|null|
 |**2022-02-01**|**CLA-NeRF: Category-Level Articulated Neural Radiance Field**|Wei-Cheng Tseng et.al.|[2202.00181v1](http://arxiv.org/abs/2202.00181v1)|null|
 |**2022-01-28**|**From data to functa: Your data point is a function and you should treat it like one**|Emilien Dupont et.al.|[2201.12204v1](http://arxiv.org/abs/2201.12204v1)|null|
-|**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v1](http://arxiv.org/abs/2201.08845v1)|null|
+|**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v1](http://arxiv.org/abs/2201.08845v1)|**[link](https://github.com/Xharlie/pointnerf)**|
 |**2022-01-19**|**Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation**|Xian Liu et.al.|[2201.07786v1](http://arxiv.org/abs/2201.07786v1)|null|
 |**2021-12-31**|**InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering**|Mijeong Kim et.al.|[2112.15399v1](http://arxiv.org/abs/2112.15399v1)|null|
 |**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|**[link](https://github.com/fnzhan/mise)**|
@@ -1155,7 +1155,7 @@ layout: default
 |**2022-02-18**|**Space4HGNN: A Novel, Modularized and Reproducible Platform to Evaluate Heterogeneous Graph Neural Network**|Tianyu Zhao et.al.|[2202.09177v1](http://arxiv.org/abs/2202.09177v1)|null|
 |**2022-02-18**|**PerFED-GAN: Personalized Federated Learning via Generative Adversarial Networks**|Xingjian Cao et.al.|[2202.09155v1](http://arxiv.org/abs/2202.09155v1)|null|
 |**2022-02-18**|**Measurement of the charm mixing parameter $y_{CP} - y_{CP}^{Kπ}$ using two-body $D^0$ meson decays**|LHCb collaboration et.al.|[2202.09106v1](http://arxiv.org/abs/2202.09106v1)|null|
-|**2022-02-17**|**When, Why, and Which Pretrained GANs Are Useful?**|Timofey Grigoryev et.al.|[2202.08937v1](http://arxiv.org/abs/2202.08937v1)|**[link](https://github.com/yandex-research/gan-transfer)**|
+|**2022-02-17**|**When, Why, and Which Pretrained GANs Are Useful?**|Timofey Grigoryev et.al.|[2202.08937v1](http://arxiv.org/abs/2202.08937v1)|null|
 |**2022-02-17**|**3D-Aware Indoor Scene Synthesis with Depth Priors**|Zifan Shi et.al.|[2202.08553v2](http://arxiv.org/abs/2202.08553v2)|null|
 |**2022-02-17**|**Point Cloud Generation with Continuous Conditioning**|Larissa T. Triess et.al.|[2202.08526v1](http://arxiv.org/abs/2202.08526v1)|null|
 |**2022-02-16**|**Solution-processed van der Waals heterojunction as the damage-free gate contact for high performance GaN HEMTs**|Chuanju Wang et.al.|[2202.08243v1](http://arxiv.org/abs/2202.08243v1)|null|
