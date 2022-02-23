@@ -409,7 +409,7 @@
 |**2022-02-18**|**Domain Adaptation of low-resource Target-Domain models using well-trained ASR Conformer Models**|Vrunda N. Sukhadia et.al.|[2202.09167v1](http://arxiv.org/abs/2202.09167v1)|null|
 |**2022-02-18**|**Echo-aware Adaptation of Sound Event Localization and Detection in Unknown Environments**|Masahiro Yasuda et.al.|[2202.09121v1](http://arxiv.org/abs/2202.09121v1)|**[link](https://github.com/nttrd-mdlab/seld-foa-meir)**|
 |**2022-02-18**|**REFUGE2 Challenge: Treasure for Multi-Domain Learning in Glaucoma Assessment**|Huihui Fang et.al.|[2202.08994v1](http://arxiv.org/abs/2202.08994v1)|null|
-|**2022-02-17**|**RemixIT: Continual self-training of speech enhancement models via bootstrapped remixing**|Efthymios Tzinis et.al.|[2202.08862v1](http://arxiv.org/abs/2202.08862v1)|null|
+|**2022-02-17**|**RemixIT: Continual self-training of speech enhancement models via bootstrapped remixing**|Efthymios Tzinis et.al.|[2202.08862v2](http://arxiv.org/abs/2202.08862v2)|null|
 |**2022-02-17**|**Domain Adaptation for Underwater Image Enhancement via Content and Style Separation**|Yu-Wei Chen et.al.|[2202.08537v1](http://arxiv.org/abs/2202.08537v1)|null|
 |**2022-02-16**|**Domain Adaptive Fake News Detection via Reinforcement Learning**|Ahmadreza Mosallanezhad et.al.|[2202.08159v1](http://arxiv.org/abs/2202.08159v1)|null|
 |**2022-02-15**|**Beyond Deterministic Translation for Unsupervised Domain Adaptation**|Eleni Chiou et.al.|[2202.07778v1](http://arxiv.org/abs/2202.07778v1)|null|
@@ -543,10 +543,10 @@
 |**2022-02-18**|**Graph Auto-Encoder Via Neighborhood Wasserstein Reconstruction**|Mingyue Tang et.al.|[2202.09025v1](http://arxiv.org/abs/2202.09025v1)|**[link](https://github.com/mtang724/nwr-gae)**|
 |**2022-02-18**|**How Well Do Self-Supervised Methods Perform in Cross-Domain Few-Shot Learning?**|Yiyi Zhang et.al.|[2202.09014v1](http://arxiv.org/abs/2202.09014v1)|null|
 |**2022-02-18**|**KINet: Keypoint Interaction Networks for Unsupervised Forward Modeling**|Alireza Rezazadeh et.al.|[2202.09006v1](http://arxiv.org/abs/2202.09006v1)|null|
-|**2022-02-17**|**SGPT: GPT Sentence Embeddings for Semantic Search**|Niklas Muennighoff et.al.|[2202.08904v1](http://arxiv.org/abs/2202.08904v1)|**[link](https://github.com/muennighoff/sgpt)**|
+|**2022-02-17**|**SGPT: GPT Sentence Embeddings for Semantic Search**|Niklas Muennighoff et.al.|[2202.08904v2](http://arxiv.org/abs/2202.08904v2)|**[link](https://github.com/muennighoff/sgpt)**|
 |**2022-02-17**|**A recommender system for automatic picking of subsurface formation tops**|Jesse R. Pisel et.al.|[2202.08869v1](http://arxiv.org/abs/2202.08869v1)|**[link](https://github.com/jessepisel/matrixfactorization)**|
 |**2022-02-17**|**Exploring X-ray variability with unsupervised machine learning I. Self-organizing maps applied to XMM-Newton data**|Miloš Kovačević et.al.|[2202.08868v1](http://arxiv.org/abs/2202.08868v1)|null|
-|**2022-02-17**|**RemixIT: Continual self-training of speech enhancement models via bootstrapped remixing**|Efthymios Tzinis et.al.|[2202.08862v1](http://arxiv.org/abs/2202.08862v1)|null|
+|**2022-02-17**|**RemixIT: Continual self-training of speech enhancement models via bootstrapped remixing**|Efthymios Tzinis et.al.|[2202.08862v2](http://arxiv.org/abs/2202.08862v2)|null|
 |**2022-02-17**|**Multi-Channel Speech Denoising for Machine Ears**|Cong Han et.al.|[2202.08793v1](http://arxiv.org/abs/2202.08793v1)|null|
 |**2022-02-17**|**Detecting and Learning the Unknown in Semantic Segmentation**|Robin Chan et.al.|[2202.08700v1](http://arxiv.org/abs/2202.08700v1)|null|
 |**2022-02-17**|**Synthetic data for unsupervised polyp segmentation**|Enric Moreu et.al.|[2202.08680v1](http://arxiv.org/abs/2202.08680v1)|**[link](https://github.com/enric1994/synth-colon)**|
@@ -1002,7 +1002,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-17**|**Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time**|Liao Wang et.al.|[2202.08614v1](http://arxiv.org/abs/2202.08614v1)|null|
+|**2022-02-17**|**Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time**|Liao Wang et.al.|[2202.08614v2](http://arxiv.org/abs/2202.08614v2)|null|
 |**2022-02-12**|**NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing**|Jiakai Zhang et.al.|[2202.06088v1](http://arxiv.org/abs/2202.06088v1)|null|
 |**2022-02-10**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263v1](http://arxiv.org/abs/2202.05263v1)|null|
 |**2022-02-01**|**CLA-NeRF: Category-Level Articulated Neural Radiance Field**|Wei-Cheng Tseng et.al.|[2202.00181v1](http://arxiv.org/abs/2202.00181v1)|null|
