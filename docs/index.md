@@ -191,6 +191,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-22**|**SADN: Learned Light Field Image Compression with Spatial-Angular Decorrelation**|Kedeng Tong et.al.|[2202.10837v1](http://arxiv.org/abs/2202.10837v1)|null|
+|**2022-02-22**|**Disentangling Light Fields for Super-Resolution and Disparity Estimation**|Yingqian Wang et.al.|[2202.10603v1](http://arxiv.org/abs/2202.10603v1)|null|
 |**2022-02-13**|**A Local Area Quantum Teleportation Network Based on an Array of Electrically Activated Graphene Waveguide**|Muhammad Asjad et.al.|[2202.06332v1](http://arxiv.org/abs/2202.06332v1)|null|
 |**2022-02-11**|**Light-pulse atom interferometry with entangled atom-optical elements**|Tobias Aßmann et.al.|[2202.05763v1](http://arxiv.org/abs/2202.05763v1)|null|
 |**2022-02-09**|**Quantum Multicritical Behavior for Coupled Optical Cavities with Driven Laser Fields**|Yutao Hu et.al.|[2202.04389v1](http://arxiv.org/abs/2202.04389v1)|null|
@@ -244,6 +246,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-22**|**GroupViT: Semantic Segmentation Emerges from Text Supervision**|Jiarui Xu et.al.|[2202.11094v1](http://arxiv.org/abs/2202.11094v1)|null|
+|**2022-02-18**|**Unleashing the Power of Transformer for Graphs**|Lingbing Guo et.al.|[2202.10581v1](http://arxiv.org/abs/2202.10581v1)|null|
 |**2022-02-21**|**Rethinking the Zigzag Flattening for Image Reading**|Qingsong Zhao et.al.|[2202.10240v1](http://arxiv.org/abs/2202.10240v1)|null|
 |**2022-02-21**|**ViTAEv2: Vision Transformer Advanced by Exploring Inductive Bias for Image Recognition and Beyond**|Qiming Zhang et.al.|[2202.10108v1](http://arxiv.org/abs/2202.10108v1)|**[link](https://github.com/Annbless/ViTAE)**|
 |**2022-02-20**|**Visual Attention Network**|Meng-Hao Guo et.al.|[2202.09741v1](http://arxiv.org/abs/2202.09741v1)|**[link](https://github.com/Visual-Attention-Network/VAN-Classification)**|
@@ -350,6 +354,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-22**|**Privacy-Preserving In-Bed Pose Monitoring: A Fusion and Reconstruction Study**|Thisun Dayarathna et.al.|[2202.10704v1](http://arxiv.org/abs/2202.10704v1)|null|
 |**2022-02-18**|**Towards Simple and Accurate Human Pose Estimation with Stair Network**|Chenru Jiang et.al.|[2202.09115v1](http://arxiv.org/abs/2202.09115v1)|null|
 |**2022-02-09**|**Motion-Aware Transformer For Occluded Person Re-identification**|Mi Zhou et.al.|[2202.04243v2](http://arxiv.org/abs/2202.04243v2)|null|
 |**2022-02-05**|**A survey of top-down approaches for human pose estimation**|Thong Duy Nguyen et.al.|[2202.02656v1](http://arxiv.org/abs/2202.02656v1)|null|
@@ -390,6 +395,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-18**|**A Survey of Vision-Language Pre-Trained Models**|Yifan Du et.al.|[2202.10936v1](http://arxiv.org/abs/2202.10936v1)|null|
+|**2022-02-21**|**Nanomechanical Design Strategy for Single-Mode Optomechanical Measurement**|Giada La Gala et.al.|[2202.10917v1](http://arxiv.org/abs/2202.10917v1)|null|
+|**2022-02-22**|**Multiview Scattering Scanning Imaging Confocal Microscopy through a Multimode Fiber**|Sakshi Singh et.al.|[2202.10644v1](http://arxiv.org/abs/2202.10644v1)|null|
+|**2022-02-19**|**A Novel Anomaly Detection Method for Multimodal WSN Data Flow via a Dynamic Graph Neural Network**|Qinghao Zhang et.al.|[2202.10454v1](http://arxiv.org/abs/2202.10454v1)|null|
+|**2022-02-19**|**Predicting emotion from music videos: exploring the relative contribution of visual and auditory information to affective responses**|Phoebe Chua et.al.|[2202.10453v1](http://arxiv.org/abs/2202.10453v1)|null|
 |**2022-02-21**|**Gaussian quantum metrology for mode-encoded parameters: general theory and imaging applications**|Giacomo Sorelli et.al.|[2202.10355v1](http://arxiv.org/abs/2202.10355v1)|null|
 |**2022-02-21**|**Reducing the Gibbs effect in multimodal medical imaging by the Fake Nodes Approach**|Davide Poggiali et.al.|[2202.10325v1](http://arxiv.org/abs/2202.10325v1)|**[link](https://github.com/pog87/fakeresampling3d)**|
 |**2022-02-21**|**Audio Visual Scene-Aware Dialog Generation with Transformer-based Video Representations**|Yoshihiro Yamazaki et.al.|[2202.09979v1](http://arxiv.org/abs/2202.09979v1)|null|
@@ -552,6 +562,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-18**|**EF-Train: Enable Efficient On-device CNN Training on FPGA Through Data Reshaping for Online Adaptation or Personalization**|Yue Tang et.al.|[2202.10935v1](http://arxiv.org/abs/2202.10935v1)|null|
+|**2022-02-22**|**Deep learning based domain adaptation for mitochondria segmentation on EM volumes**|Daniel Franco-Barranco et.al.|[2202.10773v1](http://arxiv.org/abs/2202.10773v1)|**[link](https://github.com/danifranco/em_domain_adaptation)**|
+|**2022-02-22**|**Multi-Source Unsupervised Domain Adaptation via Pseudo Target Domain**|Ren Chuan-Xian et.al.|[2202.10725v1](http://arxiv.org/abs/2202.10725v1)|null|
 |**2022-02-21**|**Domain Adaptation in Neural Machine Translation using a Qualia-Enriched FrameNet**|Alexandre Diniz Costa et.al.|[2202.10287v1](http://arxiv.org/abs/2202.10287v1)|null|
 |**2022-02-21**|**Domain-Augmented Domain Adaptation**|Qiuhao Zeng et.al.|[2202.10000v1](http://arxiv.org/abs/2202.10000v1)|null|
 |**2022-02-20**|**Enhancing Affective Representations of Music-Induced EEG through Multimodal Supervision and latent Domain Adaptation**|Kleanthis Avramidis et.al.|[2202.09750v1](http://arxiv.org/abs/2202.09750v1)|**[link](https://github.com/klean2050/eeg_crossmodal)**|
@@ -666,6 +679,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-22**|**GroupViT: Semantic Segmentation Emerges from Text Supervision**|Jiarui Xu et.al.|[2202.11094v1](http://arxiv.org/abs/2202.11094v1)|null|
+|**2022-02-22**|**One-shot Scene Graph Generation**|Yuyu Guo et.al.|[2202.10824v1](http://arxiv.org/abs/2202.10824v1)|null|
+|**2022-02-22**|**RuCLIP -- new models and experiments: a technical report**|Alex Shonenkov et.al.|[2202.10784v1](http://arxiv.org/abs/2202.10784v1)|null|
+|**2022-02-22**|**Deep learning based domain adaptation for mitochondria segmentation on EM volumes**|Daniel Franco-Barranco et.al.|[2202.10773v1](http://arxiv.org/abs/2202.10773v1)|**[link](https://github.com/danifranco/em_domain_adaptation)**|
+|**2022-02-22**|**Transporters with Visual Foresight for Solving Unseen Rearrangement Tasks**|Hongtao Wu et.al.|[2202.10765v1](http://arxiv.org/abs/2202.10765v1)|null|
+|**2022-02-22**|**Multi-Source Unsupervised Domain Adaptation via Pseudo Target Domain**|Ren Chuan-Xian et.al.|[2202.10725v1](http://arxiv.org/abs/2202.10725v1)|null|
+|**2022-02-22**|**nnSpeech: Speaker-Guided Conditional Variational Autoencoder for Zero-shot Multi-speaker Text-to-Speech**|Botao Zhao et.al.|[2202.10712v1](http://arxiv.org/abs/2202.10712v1)|null|
+|**2022-02-22**|**It Takes Four to Tango: Multiagent Selfplay for Automatic Curriculum Generation**|Yuqing Du et.al.|[2202.10608v1](http://arxiv.org/abs/2202.10608v1)|null|
 |**2022-02-21**|**Characterization of Supernovae Based on the Spectral-Temporal Energy Distribution: Possible two SN Ib Subtypes**|Ofek Bengyat et.al.|[2202.10300v1](http://arxiv.org/abs/2202.10300v1)|null|
 |**2022-02-21**|**Strong Converse for Privacy Amplification against Quantum Side Information**|Yu-Chen Shen et.al.|[2202.10263v1](http://arxiv.org/abs/2202.10263v1)|null|
 |**2022-02-21**|**Simplified Learning of CAD Features Leveraging a Deep Residual Autoencoder**|Raoul Schönhof et.al.|[2202.10099v1](http://arxiv.org/abs/2202.10099v1)|**[link](https://github.com/raoulushpc/deep_residual_voxel_autoencoder)**|
@@ -1187,6 +1208,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-22**|**Generating Synthetic Mobility Networks with Generative Adversarial Networks**|Giovanni Mauro et.al.|[2202.11028v1](http://arxiv.org/abs/2202.11028v1)|null|
+|**2022-02-22**|**Wavebender GAN: An architecture for phonetically meaningful speech manipulation**|Gustavo Teodoro Döhler Beck et.al.|[2202.10973v1](http://arxiv.org/abs/2202.10973v1)|null|
+|**2022-02-22**|**A Solomonic Solution to Ownership Disputes: An Application to Blockchain Front-Running**|Joshua S. Gans et.al.|[2202.10950v1](http://arxiv.org/abs/2202.10950v1)|null|
+|**2022-02-22**|**Social Computational Design Method for Generating Product Shapes with GAN and Transformer Models**|Maolin Yang et.al.|[2202.10774v1](http://arxiv.org/abs/2202.10774v1)|null|
+|**2022-02-22**|**On the Effectiveness of Adversarial Training against Backdoor Attacks**|Yinghua Gao et.al.|[2202.10627v1](http://arxiv.org/abs/2202.10627v1)|null|
+|**2022-02-21**|**Hierarchical Deep Generative Models for Design Under Free-Form Geometric Uncertainty**|Wei et.al.|[2202.10558v1](http://arxiv.org/abs/2202.10558v1)|null|
 |**2022-02-21**|**MIST GAN: Modality Imputation Using Style Transfer for MRI**|Jaya Chandra Raju et.al.|[2202.10396v1](http://arxiv.org/abs/2202.10396v1)|null|
 |**2022-02-21**|**ALGAN: Anomaly Detection by Generating Pseudo Anomalous Data via Latent Variables**|Hironori Murase et.al.|[2202.10281v1](http://arxiv.org/abs/2202.10281v1)|null|
 |**2022-02-21**|**Diamond Volume, Mahler Measure and Some $\mathbb{Z}^2$-periodic Links**|Hong-Chuan Gan et.al.|[2202.10218v1](http://arxiv.org/abs/2202.10218v1)|null|
@@ -1404,6 +1431,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-22**|**A Two-Branch Neural Network for Gait Recognition**|Likai Wang et.al.|[2202.10645v1](http://arxiv.org/abs/2202.10645v1)|null|
 |**2022-01-13**|**RealGait: Gait Recognition for Person Re-Identification**|Shaoxiong Zhang et.al.|[2201.04806v1](http://arxiv.org/abs/2201.04806v1)|null|
 |**2022-01-10**|**Gait Recognition Based on Deep Learning: A Survey**|Claudio Filipi Gonçalves dos Santos et.al.|[2201.03323v1](http://arxiv.org/abs/2201.03323v1)|null|
 |**2021-12-20**|**Model-based gait recognition using graph network on very large population database**|Zhihao Wang et.al.|[2112.10305v1](http://arxiv.org/abs/2112.10305v1)|null|
