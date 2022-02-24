@@ -94,6 +94,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-23**|**Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis**|Shouchang Guo et.al.|[2202.11703v1](http://arxiv.org/abs/2202.11703v1)|null|
 |**2022-02-22**|**GroupViT: Semantic Segmentation Emerges from Text Supervision**|Jiarui Xu et.al.|[2202.11094v1](http://arxiv.org/abs/2202.11094v1)|null|
 |**2022-02-18**|**Unleashing the Power of Transformer for Graphs**|Lingbing Guo et.al.|[2202.10581v1](http://arxiv.org/abs/2202.10581v1)|null|
 |**2022-02-21**|**Rethinking the Zigzag Flattening for Image Reading**|Qingsong Zhao et.al.|[2202.10240v1](http://arxiv.org/abs/2202.10240v1)|null|
@@ -243,6 +244,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-23**|**MuMiN: A Large-Scale Multilingual Multimodal Fact-Checked Misinformation Social Network Dataset**|Dan Saattrup Nielsen et.al.|[2202.11684v1](http://arxiv.org/abs/2202.11684v1)|null|
+|**2022-02-21**|**GIFT: Graph-guIded Feature Transfer for Cold-Start Video Click-Through Rate Prediction**|Sihao Hu et.al.|[2202.11525v1](http://arxiv.org/abs/2202.11525v1)|**[link](https://github.com/bayi-hu/gift-graph-guided-feature-transfer-network)**|
+|**2022-02-23**|**MITI: SLAM Benchmark for Laparoscopic Surgery**|Regine Hartwig et.al.|[2202.11496v1](http://arxiv.org/abs/2202.11496v1)|null|
+|**2022-02-23**|**Continual learning-based probabilistic slow feature analysis for multimode dynamic process monitoring**|Jingxin Zhang et.al.|[2202.11295v1](http://arxiv.org/abs/2202.11295v1)|null|
 |**2022-02-18**|**A Survey of Vision-Language Pre-Trained Models**|Yifan Du et.al.|[2202.10936v1](http://arxiv.org/abs/2202.10936v1)|null|
 |**2022-02-21**|**Nanomechanical Design Strategy for Single-Mode Optomechanical Measurement**|Giada La Gala et.al.|[2202.10917v1](http://arxiv.org/abs/2202.10917v1)|null|
 |**2022-02-22**|**Multiview Scattering Scanning Imaging Confocal Microscopy through a Multimode Fiber**|Sakshi Singh et.al.|[2202.10644v1](http://arxiv.org/abs/2202.10644v1)|null|
@@ -410,6 +415,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-23**|**Augmentation based unsupervised domain adaptation**|Mauricio Orbes-Arteaga et.al.|[2202.11486v1](http://arxiv.org/abs/2202.11486v1)|null|
 |**2022-02-18**|**EF-Train: Enable Efficient On-device CNN Training on FPGA Through Data Reshaping for Online Adaptation or Personalization**|Yue Tang et.al.|[2202.10935v1](http://arxiv.org/abs/2202.10935v1)|null|
 |**2022-02-22**|**Deep learning based domain adaptation for mitochondria segmentation on EM volumes**|Daniel Franco-Barranco et.al.|[2202.10773v1](http://arxiv.org/abs/2202.10773v1)|**[link](https://github.com/danifranco/em_domain_adaptation)**|
 |**2022-02-22**|**Multi-Source Unsupervised Domain Adaptation via Pseudo Target Domain**|Ren Chuan-Xian et.al.|[2202.10725v1](http://arxiv.org/abs/2202.10725v1)|null|
@@ -527,6 +533,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-23**|**Super-resolution GANs of randomly-seeded fields**|Alejandro Güemes et.al.|[2202.11701v1](http://arxiv.org/abs/2202.11701v1)|null|
+|**2022-02-23**|**Anomaly Detection in 3D Point Clouds using Deep Geometric Descriptors**|Paul Bergmann et.al.|[2202.11660v1](http://arxiv.org/abs/2202.11660v1)|null|
+|**2022-02-23**|**Optimal Second-Order Rates for Quantum Soft Covering and Privacy Amplification**|Yu-Chen Shen et.al.|[2202.11590v1](http://arxiv.org/abs/2202.11590v1)|null|
+|**2022-02-23**|**Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut**|Yangtao Wang et.al.|[2202.11539v1](http://arxiv.org/abs/2202.11539v1)|null|
+|**2022-02-23**|**Inference of Affordances and Active Motor Control in Simulated Agents**|Fedor Scholz et.al.|[2202.11532v1](http://arxiv.org/abs/2202.11532v1)|null|
+|**2022-02-23**|**Augmentation based unsupervised domain adaptation**|Mauricio Orbes-Arteaga et.al.|[2202.11486v1](http://arxiv.org/abs/2202.11486v1)|null|
+|**2022-02-23**|**Zero-shot Cross-lingual Transfer of Prompt-based Tuning with a Unified Multilingual Prompt**|Lianzhe Huang et.al.|[2202.11451v1](http://arxiv.org/abs/2202.11451v1)|null|
+|**2022-02-23**|**ProFormer: Learning Data-efficient Representations of Body Movement with Prototype-based Feature Augmentation and Visual Transformers**|Kunyu Peng et.al.|[2202.11423v1](http://arxiv.org/abs/2202.11423v1)|**[link](https://github.com/kpeng9510/proformer)**|
+|**2022-02-23**|**Absolute Zero-Shot Learning**|Rui Gao et.al.|[2202.11319v1](http://arxiv.org/abs/2202.11319v1)|null|
+|**2022-02-23**|**Reliable Inlier Evaluation for Unsupervised Point Cloud Registration**|Yaqi Shen et.al.|[2202.11292v1](http://arxiv.org/abs/2202.11292v1)|null|
+|**2022-02-22**|**Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning**|Hao He et.al.|[2202.11202v1](http://arxiv.org/abs/2202.11202v1)|null|
 |**2022-02-22**|**GroupViT: Semantic Segmentation Emerges from Text Supervision**|Jiarui Xu et.al.|[2202.11094v1](http://arxiv.org/abs/2202.11094v1)|null|
 |**2022-02-22**|**One-shot Scene Graph Generation**|Yuyu Guo et.al.|[2202.10824v1](http://arxiv.org/abs/2202.10824v1)|**[link](https://github.com/gyy8426/os-sgg)**|
 |**2022-02-22**|**RuCLIP -- new models and experiments: a technical report**|Alex Shonenkov et.al.|[2202.10784v1](http://arxiv.org/abs/2202.10784v1)|null|
@@ -1056,6 +1073,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-23**|**Super-resolution GANs of randomly-seeded fields**|Alejandro Güemes et.al.|[2202.11701v1](http://arxiv.org/abs/2202.11701v1)|null|
+|**2022-02-23**|**SLOGAN: Handwriting Style Synthesis for Arbitrary-Length and Out-of-Vocabulary Text**|Canjie Luo et.al.|[2202.11456v1](http://arxiv.org/abs/2202.11456v1)|null|
+|**2022-02-23**|**Multi-scale Sparse Representation-Based Shadow Inpainting for Retinal OCT Images**|Yaoqi Tang et.al.|[2202.11377v1](http://arxiv.org/abs/2202.11377v1)|null|
 |**2022-02-22**|**Generating Synthetic Mobility Networks with Generative Adversarial Networks**|Giovanni Mauro et.al.|[2202.11028v1](http://arxiv.org/abs/2202.11028v1)|null|
 |**2022-02-22**|**Wavebender GAN: An architecture for phonetically meaningful speech manipulation**|Gustavo Teodoro Döhler Beck et.al.|[2202.10973v1](http://arxiv.org/abs/2202.10973v1)|null|
 |**2022-02-22**|**A Solomonic Solution to Ownership Disputes: An Application to Blockchain Front-Running**|Joshua S. Gans et.al.|[2202.10950v1](http://arxiv.org/abs/2202.10950v1)|null|
