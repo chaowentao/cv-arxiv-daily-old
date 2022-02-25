@@ -427,7 +427,7 @@
 |**2022-02-18**|**Exploring Adversarially Robust Training for Unsupervised Domain Adaptation**|Shao-Yuan Lo et.al.|[2202.09300v1](http://arxiv.org/abs/2202.09300v1)|null|
 |**2022-02-18**|**Domain Adaptation of low-resource Target-Domain models using well-trained ASR Conformer Models**|Vrunda N. Sukhadia et.al.|[2202.09167v1](http://arxiv.org/abs/2202.09167v1)|null|
 |**2022-02-18**|**Echo-aware Adaptation of Sound Event Localization and Detection in Unknown Environments**|Masahiro Yasuda et.al.|[2202.09121v1](http://arxiv.org/abs/2202.09121v1)|**[link](https://github.com/nttrd-mdlab/seld-foa-meir)**|
-|**2022-02-18**|**REFUGE2 Challenge: Treasure for Multi-Domain Learning in Glaucoma Assessment**|Huihui Fang et.al.|[2202.08994v1](http://arxiv.org/abs/2202.08994v1)|null|
+|**2022-02-18**|**REFUGE2 Challenge: Treasure for Multi-Domain Learning in Glaucoma Assessment**|Huihui Fang et.al.|[2202.08994v2](http://arxiv.org/abs/2202.08994v2)|null|
 |**2022-02-17**|**RemixIT: Continual self-training of speech enhancement models via bootstrapped remixing**|Efthymios Tzinis et.al.|[2202.08862v2](http://arxiv.org/abs/2202.08862v2)|null|
 |**2022-02-17**|**Domain Adaptation for Underwater Image Enhancement via Content and Style Separation**|Yu-Wei Chen et.al.|[2202.08537v1](http://arxiv.org/abs/2202.08537v1)|null|
 |**2022-02-16**|**Domain Adaptive Fake News Detection via Reinforcement Learning**|Ahmadreza Mosallanezhad et.al.|[2202.08159v1](http://arxiv.org/abs/2202.08159v1)|null|
