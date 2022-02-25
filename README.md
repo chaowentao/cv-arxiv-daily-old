@@ -94,6 +94,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-24**|**Learning to Merge Tokens in Vision Transformers**|Cedric Renggli et.al.|[2202.12015v1](http://arxiv.org/abs/2202.12015v1)|null|
+|**2022-02-24**|**Auto-scaling Vision Transformers without Training**|Wuyang Chen et.al.|[2202.11921v1](http://arxiv.org/abs/2202.11921v1)|null|
 |**2022-02-23**|**Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis**|Shouchang Guo et.al.|[2202.11703v1](http://arxiv.org/abs/2202.11703v1)|null|
 |**2022-02-22**|**GroupViT: Semantic Segmentation Emerges from Text Supervision**|Jiarui Xu et.al.|[2202.11094v1](http://arxiv.org/abs/2202.11094v1)|null|
 |**2022-02-18**|**Unleashing the Power of Transformer for Graphs**|Lingbing Guo et.al.|[2202.10581v1](http://arxiv.org/abs/2202.10581v1)|null|
@@ -244,7 +246,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-02-23**|**MuMiN: A Large-Scale Multilingual Multimodal Fact-Checked Misinformation Social Network Dataset**|Dan Saattrup Nielsen et.al.|[2202.11684v1](http://arxiv.org/abs/2202.11684v1)|null|
+|**2022-02-24**|**A Perceptual Measure for Evaluating the Resynthesis of Automatic Music Transcriptions**|Federico Simonetta et.al.|[2202.12257v1](http://arxiv.org/abs/2202.12257v1)|null|
+|**2022-02-24**|**Scalable single-mode Berkeley Surface Emitting Lasers**|Rushin Contractor et.al.|[2202.12145v1](http://arxiv.org/abs/2202.12145v1)|null|
+|**2022-02-24**|**Multi-Modal Legged Locomotion Framework with Automated Residual Reinforcement Learning**|Chen Yu et.al.|[2202.12033v1](http://arxiv.org/abs/2202.12033v1)|null|
+|**2022-02-24**|**On Learning Mixture Models with Sparse Parameters**|Arya Mazumdar et.al.|[2202.11940v1](http://arxiv.org/abs/2202.11940v1)|null|
+|**2022-02-23**|**MuMiN: A Large-Scale Multilingual Multimodal Fact-Checked Misinformation Social Network Dataset**|Dan Saattrup Nielsen et.al.|[2202.11684v1](http://arxiv.org/abs/2202.11684v1)|**[link](https://github.com/MuMiN-dataset/mumin-build)**|
 |**2022-02-21**|**GIFT: Graph-guIded Feature Transfer for Cold-Start Video Click-Through Rate Prediction**|Sihao Hu et.al.|[2202.11525v1](http://arxiv.org/abs/2202.11525v1)|**[link](https://github.com/bayi-hu/gift-graph-guided-feature-transfer-network)**|
 |**2022-02-23**|**MITI: SLAM Benchmark for Laparoscopic Surgery**|Regine Hartwig et.al.|[2202.11496v1](http://arxiv.org/abs/2202.11496v1)|null|
 |**2022-02-23**|**Continual learning-based probabilistic slow feature analysis for multimode dynamic process monitoring**|Jingxin Zhang et.al.|[2202.11295v1](http://arxiv.org/abs/2202.11295v1)|null|
@@ -415,6 +421,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-24**|**Attentive Temporal Pooling for Conformer-based Streaming Language Identification in Long-form Speech**|Quan Wang et.al.|[2202.12163v1](http://arxiv.org/abs/2202.12163v1)|null|
+|**2022-02-24**|**Temporal Convolution Domain Adaptation Learning for Crops Growth Prediction**|Shengzhe Wang et.al.|[2202.12120v1](http://arxiv.org/abs/2202.12120v1)|null|
+|**2022-02-24**|**SMILE: Sequence-to-Sequence Domain Adaption with Minimizing Latent Entropy for Text Image Recognition**|Yen-Cheng Chang et.al.|[2202.11949v1](http://arxiv.org/abs/2202.11949v1)|null|
 |**2022-02-23**|**Augmentation based unsupervised domain adaptation**|Mauricio Orbes-Arteaga et.al.|[2202.11486v1](http://arxiv.org/abs/2202.11486v1)|null|
 |**2022-02-18**|**EF-Train: Enable Efficient On-device CNN Training on FPGA Through Data Reshaping for Online Adaptation or Personalization**|Yue Tang et.al.|[2202.10935v1](http://arxiv.org/abs/2202.10935v1)|null|
 |**2022-02-22**|**Deep learning based domain adaptation for mitochondria segmentation on EM volumes**|Daniel Franco-Barranco et.al.|[2202.10773v1](http://arxiv.org/abs/2202.10773v1)|**[link](https://github.com/danifranco/em_domain_adaptation)**|
@@ -533,6 +542,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-24**|**FreeSOLO: Learning to Segment Objects without Annotations**|Xinlong Wang et.al.|[2202.12181v1](http://arxiv.org/abs/2202.12181v1)|null|
+|**2022-02-24**|**A novel unsupervised covid lung lesion segmentation based on the lung tissue identification**|Faeze Gholamian Khah et.al.|[2202.12148v1](http://arxiv.org/abs/2202.12148v1)|null|
+|**2022-02-24**|**Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction**|Yubo Ma et.al.|[2202.12109v1](http://arxiv.org/abs/2202.12109v1)|null|
+|**2022-02-24**|**A Transformer-based Network for Deformable Medical Image Registration**|Yibo Wang et.al.|[2202.12104v1](http://arxiv.org/abs/2202.12104v1)|null|
+|**2022-02-24**|**Self-Training: A Survey**|Massih-Reza Amini et.al.|[2202.12040v1](http://arxiv.org/abs/2202.12040v1)|null|
+|**2022-02-24**|**Fully Self-Supervised Learning for Semantic Segmentation**|Yuan Wang et.al.|[2202.11981v1](http://arxiv.org/abs/2202.11981v1)|null|
+|**2022-02-24**|**Large Scale Passenger Detection with Smartphone/Bus Implicit Interaction and Multisensory Unsupervised Cause-effect Learning**|Valentino Servizi et.al.|[2202.11962v1](http://arxiv.org/abs/2202.11962v1)|null|
+|**2022-02-24**|**SMILE: Sequence-to-Sequence Domain Adaption with Minimizing Latent Entropy for Text Image Recognition**|Yen-Cheng Chang et.al.|[2202.11949v1](http://arxiv.org/abs/2202.11949v1)|null|
+|**2022-02-24**|**Domain Disentangled Generative Adversarial Network for Zero-Shot Sketch-Based 3D Shape Retrieval**|Rui Xu et.al.|[2202.11948v1](http://arxiv.org/abs/2202.11948v1)|null|
+|**2022-02-24**|**Word Segmentation on Discovered Phone Units with Dynamic Programming and Self-Supervised Scoring**|Herman Kamper et.al.|[2202.11929v1](http://arxiv.org/abs/2202.11929v1)|null|
+|**2022-02-24**|**Machine Learning for Intrusion Detection in Industrial Control Systems: Applications, Challenges, and Recommendations**|Muhammad Azmi Umer et.al.|[2202.11917v1](http://arxiv.org/abs/2202.11917v1)|null|
+|**2022-02-23**|**When do GANs replicate? On the choice of dataset size**|Qianli Feng et.al.|[2202.11765v1](http://arxiv.org/abs/2202.11765v1)|**[link](https://github.com/chenqiguo/gan_replication)**|
 |**2022-02-23**|**Super-resolution GANs of randomly-seeded fields**|Alejandro Güemes et.al.|[2202.11701v1](http://arxiv.org/abs/2202.11701v1)|null|
 |**2022-02-23**|**Anomaly Detection in 3D Point Clouds using Deep Geometric Descriptors**|Paul Bergmann et.al.|[2202.11660v1](http://arxiv.org/abs/2202.11660v1)|null|
 |**2022-02-23**|**Optimal Second-Order Rates for Quantum Soft Covering and Privacy Amplification**|Yu-Chen Shen et.al.|[2202.11590v1](http://arxiv.org/abs/2202.11590v1)|null|
@@ -1040,6 +1061,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-24**|**Learning Multi-Object Dynamics with Compositional Neural Radiance Fields**|Danny Driess et.al.|[2202.11855v1](http://arxiv.org/abs/2202.11855v1)|null|
 |**2022-02-17**|**Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time**|Liao Wang et.al.|[2202.08614v2](http://arxiv.org/abs/2202.08614v2)|null|
 |**2022-02-12**|**NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing**|Jiakai Zhang et.al.|[2202.06088v1](http://arxiv.org/abs/2202.06088v1)|null|
 |**2022-02-10**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263v1](http://arxiv.org/abs/2202.05263v1)|null|
@@ -1073,6 +1095,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-24**|**Transformers in Medical Image Analysis: A Review**|Kelei He et.al.|[2202.12165v1](http://arxiv.org/abs/2202.12165v1)|null|
+|**2022-02-24**|**Assessing generalisability of deep learning-based polyp detection and segmentation methods through a computer vision challenge**|Sharib Ali et.al.|[2202.12031v1](http://arxiv.org/abs/2202.12031v1)|null|
+|**2022-02-24**|**Domain Disentangled Generative Adversarial Network for Zero-Shot Sketch-Based 3D Shape Retrieval**|Rui Xu et.al.|[2202.11948v1](http://arxiv.org/abs/2202.11948v1)|null|
+|**2022-02-24**|**No-Regret Learning in Games is Turing Complete**|Gabriel P. Andrade et.al.|[2202.11871v1](http://arxiv.org/abs/2202.11871v1)|null|
+|**2022-02-23**|**Near Perfect GAN Inversion**|Qianli Feng et.al.|[2202.11833v1](http://arxiv.org/abs/2202.11833v1)|null|
+|**2022-02-23**|**Art Creation with Multi-Conditional StyleGANs**|Konstantin Dobler et.al.|[2202.11777v1](http://arxiv.org/abs/2202.11777v1)|null|
+|**2022-02-23**|**Discovering Multiple and Diverse Directions for Cognitive Image Properties**|Umut Kocasari et.al.|[2202.11772v1](http://arxiv.org/abs/2202.11772v1)|null|
+|**2022-02-23**|**When do GANs replicate? On the choice of dataset size**|Qianli Feng et.al.|[2202.11765v1](http://arxiv.org/abs/2202.11765v1)|**[link](https://github.com/chenqiguo/gan_replication)**|
 |**2022-02-23**|**Super-resolution GANs of randomly-seeded fields**|Alejandro Güemes et.al.|[2202.11701v1](http://arxiv.org/abs/2202.11701v1)|null|
 |**2022-02-23**|**SLOGAN: Handwriting Style Synthesis for Arbitrary-Length and Out-of-Vocabulary Text**|Canjie Luo et.al.|[2202.11456v1](http://arxiv.org/abs/2202.11456v1)|null|
 |**2022-02-23**|**Multi-scale Sparse Representation-Based Shadow Inpainting for Retinal OCT Images**|Yaoqi Tang et.al.|[2202.11377v1](http://arxiv.org/abs/2202.11377v1)|null|
