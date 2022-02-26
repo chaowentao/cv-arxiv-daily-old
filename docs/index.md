@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.02.25
+## Updated on 2022.02.26
 
 ## SLAM
 
@@ -247,7 +247,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-02-24**|**Learning to Merge Tokens in Vision Transformers**|Cedric Renggli et.al.|[2202.12015v1](http://arxiv.org/abs/2202.12015v1)|null|
-|**2022-02-24**|**Auto-scaling Vision Transformers without Training**|Wuyang Chen et.al.|[2202.11921v1](http://arxiv.org/abs/2202.11921v1)|null|
+|**2022-02-24**|**Auto-scaling Vision Transformers without Training**|Wuyang Chen et.al.|[2202.11921v1](http://arxiv.org/abs/2202.11921v1)|**[link](https://github.com/vita-group/asvit)**|
 |**2022-02-23**|**Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis**|Shouchang Guo et.al.|[2202.11703v1](http://arxiv.org/abs/2202.11703v1)|null|
 |**2022-02-22**|**GroupViT: Semantic Segmentation Emerges from Text Supervision**|Jiarui Xu et.al.|[2202.11094v1](http://arxiv.org/abs/2202.11094v1)|null|
 |**2022-02-18**|**Unleashing the Power of Transformer for Graphs**|Lingbing Guo et.al.|[2202.10581v1](http://arxiv.org/abs/2202.10581v1)|null|
@@ -575,7 +575,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-02-24**|**Attentive Temporal Pooling for Conformer-based Streaming Language Identification in Long-form Speech**|Quan Wang et.al.|[2202.12163v1](http://arxiv.org/abs/2202.12163v1)|null|
 |**2022-02-24**|**Temporal Convolution Domain Adaptation Learning for Crops Growth Prediction**|Shengzhe Wang et.al.|[2202.12120v1](http://arxiv.org/abs/2202.12120v1)|null|
-|**2022-02-24**|**SMILE: Sequence-to-Sequence Domain Adaption with Minimizing Latent Entropy for Text Image Recognition**|Yen-Cheng Chang et.al.|[2202.11949v1](http://arxiv.org/abs/2202.11949v1)|null|
+|**2022-02-24**|**SMILE: Sequence-to-Sequence Domain Adaption with Minimizing Latent Entropy for Text Image Recognition**|Yen-Cheng Chang et.al.|[2202.11949v1](http://arxiv.org/abs/2202.11949v1)|**[link](https://github.com/timtimchang/smile)**|
 |**2022-02-23**|**Augmentation based unsupervised domain adaptation**|Mauricio Orbes-Arteaga et.al.|[2202.11486v1](http://arxiv.org/abs/2202.11486v1)|null|
 |**2022-02-18**|**EF-Train: Enable Efficient On-device CNN Training on FPGA Through Data Reshaping for Online Adaptation or Personalization**|Yue Tang et.al.|[2202.10935v1](http://arxiv.org/abs/2202.10935v1)|null|
 |**2022-02-22**|**Deep learning based domain adaptation for mitochondria segmentation on EM volumes**|Daniel Franco-Barranco et.al.|[2202.10773v1](http://arxiv.org/abs/2202.10773v1)|**[link](https://github.com/danifranco/em_domain_adaptation)**|
@@ -701,7 +701,7 @@ layout: default
 |**2022-02-24**|**Self-Training: A Survey**|Massih-Reza Amini et.al.|[2202.12040v1](http://arxiv.org/abs/2202.12040v1)|null|
 |**2022-02-24**|**Fully Self-Supervised Learning for Semantic Segmentation**|Yuan Wang et.al.|[2202.11981v1](http://arxiv.org/abs/2202.11981v1)|null|
 |**2022-02-24**|**Large Scale Passenger Detection with Smartphone/Bus Implicit Interaction and Multisensory Unsupervised Cause-effect Learning**|Valentino Servizi et.al.|[2202.11962v1](http://arxiv.org/abs/2202.11962v1)|null|
-|**2022-02-24**|**SMILE: Sequence-to-Sequence Domain Adaption with Minimizing Latent Entropy for Text Image Recognition**|Yen-Cheng Chang et.al.|[2202.11949v1](http://arxiv.org/abs/2202.11949v1)|null|
+|**2022-02-24**|**SMILE: Sequence-to-Sequence Domain Adaption with Minimizing Latent Entropy for Text Image Recognition**|Yen-Cheng Chang et.al.|[2202.11949v1](http://arxiv.org/abs/2202.11949v1)|**[link](https://github.com/timtimchang/smile)**|
 |**2022-02-24**|**Domain Disentangled Generative Adversarial Network for Zero-Shot Sketch-Based 3D Shape Retrieval**|Rui Xu et.al.|[2202.11948v1](http://arxiv.org/abs/2202.11948v1)|null|
 |**2022-02-24**|**Word Segmentation on Discovered Phone Units with Dynamic Programming and Self-Supervised Scoring**|Herman Kamper et.al.|[2202.11929v1](http://arxiv.org/abs/2202.11929v1)|null|
 |**2022-02-24**|**Machine Learning for Intrusion Detection in Industrial Control Systems: Applications, Challenges, and Recommendations**|Muhammad Azmi Umer et.al.|[2202.11917v1](http://arxiv.org/abs/2202.11917v1)|null|
