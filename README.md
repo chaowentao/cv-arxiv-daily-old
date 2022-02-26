@@ -551,7 +551,7 @@
 |**2022-02-24**|**Large Scale Passenger Detection with Smartphone/Bus Implicit Interaction and Multisensory Unsupervised Cause-effect Learning**|Valentino Servizi et.al.|[2202.11962v1](http://arxiv.org/abs/2202.11962v1)|null|
 |**2022-02-24**|**SMILE: Sequence-to-Sequence Domain Adaption with Minimizing Latent Entropy for Text Image Recognition**|Yen-Cheng Chang et.al.|[2202.11949v1](http://arxiv.org/abs/2202.11949v1)|**[link](https://github.com/timtimchang/smile)**|
 |**2022-02-24**|**Domain Disentangled Generative Adversarial Network for Zero-Shot Sketch-Based 3D Shape Retrieval**|Rui Xu et.al.|[2202.11948v1](http://arxiv.org/abs/2202.11948v1)|null|
-|**2022-02-24**|**Word Segmentation on Discovered Phone Units with Dynamic Programming and Self-Supervised Scoring**|Herman Kamper et.al.|[2202.11929v1](http://arxiv.org/abs/2202.11929v1)|null|
+|**2022-02-24**|**Word Segmentation on Discovered Phone Units with Dynamic Programming and Self-Supervised Scoring**|Herman Kamper et.al.|[2202.11929v1](http://arxiv.org/abs/2202.11929v1)|**[link](https://github.com/kamperh/dpdp_aernn)**|
 |**2022-02-24**|**Machine Learning for Intrusion Detection in Industrial Control Systems: Applications, Challenges, and Recommendations**|Muhammad Azmi Umer et.al.|[2202.11917v1](http://arxiv.org/abs/2202.11917v1)|null|
 |**2022-02-23**|**When do GANs replicate? On the choice of dataset size**|Qianli Feng et.al.|[2202.11765v1](http://arxiv.org/abs/2202.11765v1)|**[link](https://github.com/chenqiguo/gan_replication)**|
 |**2022-02-23**|**Super-resolution GANs of randomly-seeded fields**|Alejandro Güemes et.al.|[2202.11701v1](http://arxiv.org/abs/2202.11701v1)|null|
