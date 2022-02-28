@@ -94,6 +94,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-12**|**Benchmark Assessment for DeepSpeed Optimization Library**|Gongbo Liang et.al.|[2202.12831v1](http://arxiv.org/abs/2202.12831v1)|null|
 |**2022-02-24**|**Learning to Merge Tokens in Vision Transformers**|Cedric Renggli et.al.|[2202.12015v1](http://arxiv.org/abs/2202.12015v1)|null|
 |**2022-02-24**|**Auto-scaling Vision Transformers without Training**|Wuyang Chen et.al.|[2202.11921v1](http://arxiv.org/abs/2202.11921v1)|**[link](https://github.com/vita-group/asvit)**|
 |**2022-02-23**|**Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis**|Shouchang Guo et.al.|[2202.11703v1](http://arxiv.org/abs/2202.11703v1)|null|
@@ -246,6 +247,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-25**|**Hybrid Robotic Grasping with a Soft Multimodal Gripper and a Deep Multistage Learning Scheme**|Fukang Liu et.al.|[2202.12796v1](http://arxiv.org/abs/2202.12796v1)|null|
+|**2022-02-25**|**Towards Safe, Real-Time Systems: Stereo vs Images and LiDAR for 3D Object Detection**|Matthew Levine et.al.|[2202.12773v1](http://arxiv.org/abs/2202.12773v1)|null|
+|**2022-02-25**|**An Ensemble Approach for Patient Prognosis of Head and Neck Tumor Using Multimodal Data**|Numan Saeed et.al.|[2202.12537v1](http://arxiv.org/abs/2202.12537v1)|null|
+|**2022-02-25**|**GAME-ON: Graph Attention Network based Multimodal Fusion for Fake News Detection**|Mudit Dhawan et.al.|[2202.12478v1](http://arxiv.org/abs/2202.12478v1)|null|
+|**2022-02-25**|**Prediction of Depression Severity Based on the Prosodic and Semantic Features with Bidirectional LSTM and Time Distributed CNN**|Kaining Mao et.al.|[2202.12456v1](http://arxiv.org/abs/2202.12456v1)|null|
+|**2022-02-24**|**Multimode capacity of atomic-frequency comb quantum memories**|Antonio Ortu et.al.|[2202.12383v1](http://arxiv.org/abs/2202.12383v1)|null|
+|**2022-02-24**|**Bayesian Deep Learning for Graphs**|Federico Errica et.al.|[2202.12348v1](http://arxiv.org/abs/2202.12348v1)|null|
 |**2022-02-24**|**A Perceptual Measure for Evaluating the Resynthesis of Automatic Music Transcriptions**|Federico Simonetta et.al.|[2202.12257v1](http://arxiv.org/abs/2202.12257v1)|null|
 |**2022-02-24**|**Scalable single-mode Berkeley Surface Emitting Lasers**|Rushin Contractor et.al.|[2202.12145v1](http://arxiv.org/abs/2202.12145v1)|null|
 |**2022-02-24**|**Multi-Modal Legged Locomotion Framework with Automated Residual Reinforcement Learning**|Chen Yu et.al.|[2202.12033v1](http://arxiv.org/abs/2202.12033v1)|null|
@@ -421,6 +429,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-25**|**Domain Adaptation: the Key Enabler of Neural Network Equalizers in Coherent Optical Systems**|Pedro J. Freire et.al.|[2202.12689v1](http://arxiv.org/abs/2202.12689v1)|null|
+|**2022-02-24**|**DoCoGen: Domain Counterfactual Generation for Low Resource Domain Adaptation**|Nitay Calderon et.al.|[2202.12350v1](http://arxiv.org/abs/2202.12350v1)|null|
 |**2022-02-24**|**Attentive Temporal Pooling for Conformer-based Streaming Language Identification in Long-form Speech**|Quan Wang et.al.|[2202.12163v1](http://arxiv.org/abs/2202.12163v1)|null|
 |**2022-02-24**|**Temporal Convolution Domain Adaptation Learning for Crops Growth Prediction**|Shengzhe Wang et.al.|[2202.12120v1](http://arxiv.org/abs/2202.12120v1)|null|
 |**2022-02-24**|**SMILE: Sequence-to-Sequence Domain Adaption with Minimizing Latent Entropy for Text Image Recognition**|Yen-Cheng Chang et.al.|[2202.11949v1](http://arxiv.org/abs/2202.11949v1)|**[link](https://github.com/timtimchang/smile)**|
@@ -542,6 +552,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-25**|**Data refinement for fully unsupervised visual inspection using pre-trained networks**|Antoine Cordier et.al.|[2202.12759v1](http://arxiv.org/abs/2202.12759v1)|null|
+|**2022-02-24**|**Ask2Mask: Guided Data Selection for Masked Speech Modeling**|Murali Karthick Baskar et.al.|[2202.12719v1](http://arxiv.org/abs/2202.12719v1)|null|
+|**2022-02-25**|**From Biological Synapses to Intelligent Robots**|Birgitta Dresp-Langley et.al.|[2202.12660v1](http://arxiv.org/abs/2202.12660v1)|null|
+|**2022-02-25**|**Bayesian autoencoders with uncertainty quantification: Towards trustworthy anomaly detection**|Bang Xiang Yong et.al.|[2202.12653v1](http://arxiv.org/abs/2202.12653v1)|null|
+|**2022-02-25**|**Do autoencoders need a bottleneck for anomaly detection?**|Bang Xiang Yong et.al.|[2202.12637v1](http://arxiv.org/abs/2202.12637v1)|**[link](https://github.com/google/neural-tangents)**|
+|**2022-02-25**|**Deep Dirichlet uncertainty for unsupervised out-of-distribution detection of eye fundus photographs in glaucoma screening**|Teresa Araújo et.al.|[2202.12634v1](http://arxiv.org/abs/2202.12634v1)|null|
+|**2022-02-25**|**An exploration of the performances achievable by combining unsupervised background subtraction algorithms**|Sébastien Piérard et.al.|[2202.12563v1](http://arxiv.org/abs/2202.12563v1)|null|
+|**2022-02-25**|**TeachAugment: Data Augmentation Optimization Using Teacher Knowledge**|Teppei Suzuki et.al.|[2202.12513v1](http://arxiv.org/abs/2202.12513v1)|null|
+|**2022-02-25**|**Structure-aware Unsupervised Tagged-to-Cine MRI Synthesis with Self Disentanglement**|Xiaofeng Liu et.al.|[2202.12474v1](http://arxiv.org/abs/2202.12474v1)|null|
+|**2022-02-25**|**On distinguishability distillation and dilution exponents**|Mark M. Wilde et.al.|[2202.12433v1](http://arxiv.org/abs/2202.12433v1)|null|
+|**2022-02-24**|**The rise of the lottery heroes: why zero-shot pruning is hard**|Enzo Tartaglione et.al.|[2202.12400v1](http://arxiv.org/abs/2202.12400v1)|null|
+|**2022-02-24**|**DoCoGen: Domain Counterfactual Generation for Low Resource Domain Adaptation**|Nitay Calderon et.al.|[2202.12350v1](http://arxiv.org/abs/2202.12350v1)|null|
+|**2022-02-24**|**openFEAT: Improving Speaker Identification by Open-set Few-shot Embedding Adaptation with Transformer**|Kishan K C et.al.|[2202.12349v1](http://arxiv.org/abs/2202.12349v1)|null|
+|**2022-02-24**|**Bayesian Deep Learning for Graphs**|Federico Errica et.al.|[2202.12348v1](http://arxiv.org/abs/2202.12348v1)|null|
+|**2022-02-24**|**Retriever: Learning Content-Style Representation as a Token-Level Bipartite Graph**|Dacheng Yin et.al.|[2202.12307v1](http://arxiv.org/abs/2202.12307v1)|null|
 |**2022-02-24**|**FreeSOLO: Learning to Segment Objects without Annotations**|Xinlong Wang et.al.|[2202.12181v1](http://arxiv.org/abs/2202.12181v1)|null|
 |**2022-02-24**|**A novel unsupervised covid lung lesion segmentation based on the lung tissue identification**|Faeze Gholamian Khah et.al.|[2202.12148v1](http://arxiv.org/abs/2202.12148v1)|null|
 |**2022-02-24**|**Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction**|Yubo Ma et.al.|[2202.12109v1](http://arxiv.org/abs/2202.12109v1)|null|
@@ -1095,6 +1120,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-25**|**Deep learning-assisted imaging through stationary scattering media**|Siddharth Rawat et.al.|[2202.12806v1](http://arxiv.org/abs/2202.12806v1)|null|
+|**2022-02-25**|**Reconstruction of Perceived Images from fMRI Patterns and Semantic Brain Exploration using Instance-Conditioned GANs**|Furkan Ozcelik et.al.|[2202.12692v1](http://arxiv.org/abs/2202.12692v1)|null|
+|**2022-02-24**|**Time Efficient Training of Progressive Generative Adversarial Network using Depthwise Separable Convolution and Super Resolution Generative Adversarial Network**|Atharva Karwande et.al.|[2202.12337v1](http://arxiv.org/abs/2202.12337v1)|null|
 |**2022-02-24**|**Transformers in Medical Image Analysis: A Review**|Kelei He et.al.|[2202.12165v1](http://arxiv.org/abs/2202.12165v1)|null|
 |**2022-02-24**|**Assessing generalisability of deep learning-based polyp detection and segmentation methods through a computer vision challenge**|Sharib Ali et.al.|[2202.12031v1](http://arxiv.org/abs/2202.12031v1)|null|
 |**2022-02-24**|**Domain Disentangled Generative Adversarial Network for Zero-Shot Sketch-Based 3D Shape Retrieval**|Rui Xu et.al.|[2202.11948v1](http://arxiv.org/abs/2202.11948v1)|null|
