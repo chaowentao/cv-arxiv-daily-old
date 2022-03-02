@@ -415,7 +415,7 @@ layout: default
 |**2022-02-25**|**Hybrid Robotic Grasping with a Soft Multimodal Gripper and a Deep Multistage Learning Scheme**|Fukang Liu et.al.|[2202.12796v2](http://arxiv.org/abs/2202.12796v2)|null|
 |**2022-02-25**|**Towards Safe, Real-Time Systems: Stereo vs Images and LiDAR for 3D Object Detection**|Matthew Levine et.al.|[2202.12773v1](http://arxiv.org/abs/2202.12773v1)|null|
 |**2022-02-25**|**An Ensemble Approach for Patient Prognosis of Head and Neck Tumor Using Multimodal Data**|Numan Saeed et.al.|[2202.12537v1](http://arxiv.org/abs/2202.12537v1)|**[link](https://github.com/numanai/biomedia-hecktor2021)**|
-|**2022-02-25**|**GAME-ON: Graph Attention Network based Multimodal Fusion for Fake News Detection**|Mudit Dhawan et.al.|[2202.12478v1](http://arxiv.org/abs/2202.12478v1)|null|
+|**2022-02-25**|**GAME-ON: Graph Attention Network based Multimodal Fusion for Fake News Detection**|Mudit Dhawan et.al.|[2202.12478v2](http://arxiv.org/abs/2202.12478v2)|null|
 |**2022-02-25**|**Prediction of Depression Severity Based on the Prosodic and Semantic Features with Bidirectional LSTM and Time Distributed CNN**|Kaining Mao et.al.|[2202.12456v1](http://arxiv.org/abs/2202.12456v1)|null|
 |**2022-02-24**|**Multimode capacity of atomic-frequency comb quantum memories**|Antonio Ortu et.al.|[2202.12383v1](http://arxiv.org/abs/2202.12383v1)|null|
 |**2022-02-24**|**Bayesian Deep Learning for Graphs**|Federico Errica et.al.|[2202.12348v1](http://arxiv.org/abs/2202.12348v1)|null|
@@ -726,10 +726,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-02-28**|**Unsupervised machine learning correlations in EoS of neutron stars**|Ronaldo V. Lobato et.al.|[2202.13940v1](http://arxiv.org/abs/2202.13940v1)|null|
 |**2022-02-28**|**Machine Learning Wavefunction**|Stefano Battaglia et.al.|[2202.13916v1](http://arxiv.org/abs/2202.13916v1)|**[link](https://github.com/stefabat/mlwavefunction)**|
-|**2022-02-28**|**Combining Modular Skills in Multitask Learning**|Edoardo M. Ponti et.al.|[2202.13914v1](http://arxiv.org/abs/2202.13914v1)|null|
+|**2022-02-28**|**Combining Modular Skills in Multitask Learning**|Edoardo M. Ponti et.al.|[2202.13914v2](http://arxiv.org/abs/2202.13914v2)|null|
 |**2022-02-28**|**Data-driven simulation of Fisher-Kolmogorov tumor growth models using Dynamic Mode Decomposition**|Alex Viguerie et.al.|[2202.13860v1](http://arxiv.org/abs/2202.13860v1)|null|
 |**2022-02-28**|**OUR-GAN: One-shot Ultra-high-Resolution Generative Adversarial Networks**|Donghwee Yoon et.al.|[2202.13799v1](http://arxiv.org/abs/2202.13799v1)|null|
-|**2022-02-28**|**Towards Robust Stacked Capsule Autoencoder with Hybrid Adversarial Training**|Jiazhu Dai et.al.|[2202.13755v1](http://arxiv.org/abs/2202.13755v1)|**[link](https://github.com/frostbitexsw/scae_defense)**|
+|**2022-02-28**|**Towards Robust Stacked Capsule Autoencoder with Hybrid Adversarial Training**|Jiazhu Dai et.al.|[2202.13755v2](http://arxiv.org/abs/2202.13755v2)|**[link](https://github.com/frostbitexsw/scae_defense)**|
 |**2022-02-28**|**Cross-Lingual Text Classification with Multilingual Distillation and Zero-Shot-Aware Training**|Ziqing Yang et.al.|[2202.13654v1](http://arxiv.org/abs/2202.13654v1)|null|
 |**2022-02-28**|**GausSetExpander: A Simple Approach for Entity Set Expansion**|Aïssatou Diallo et.al.|[2202.13649v1](http://arxiv.org/abs/2202.13649v1)|null|
 |**2022-02-28**|**Prepare for Trouble and Make it Double. Supervised and Unsupervised Stacking for AnomalyBased Intrusion Detection**|Tommaso Zoppi et.al.|[2202.13611v1](http://arxiv.org/abs/2202.13611v1)|null|
@@ -738,7 +738,7 @@ layout: default
 |**2022-02-28**|**ESW Edge-Weights : Ensemble Stochastic Watershed Edge-Weights for Hyperspectral Image Classification**|Rohan Agarwal et.al.|[2202.13502v1](http://arxiv.org/abs/2202.13502v1)|null|
 |**2022-02-27**|**Interpretable Concept-based Prototypical Networks for Few-Shot Learning**|Mohammad Reza Zarei et.al.|[2202.13474v1](http://arxiv.org/abs/2202.13474v1)|null|
 |**2022-02-27**|**UCTopic: Unsupervised Contrastive Learning for Phrase Representations and Topic Mining**|Jiacheng Li et.al.|[2202.13469v1](http://arxiv.org/abs/2202.13469v1)|null|
-|**2022-02-27**|**The Art of Manipulation: Threat of Multi-Step Manipulative Attacks in Security Games**|Thanh H. Nguyen et.al.|[2202.13424v1](http://arxiv.org/abs/2202.13424v1)|null|
+|**2022-02-27**|**The Art of Manipulation: Threat of Multi-Step Manipulative Attacks in Security Games**|Thanh H. Nguyen et.al.|[2202.13424v2](http://arxiv.org/abs/2202.13424v2)|null|
 |**2022-02-27**|**Variational Autoencoder with Disentanglement Priors for Low-Resource Task-Specific Natural Language Generation**|Zhuang Li et.al.|[2202.13363v1](http://arxiv.org/abs/2202.13363v1)|null|
 |**2022-02-27**|**Attention-based Cross-Layer Domain Alignment for Unsupervised Domain Adaptation**|Xu Ma et.al.|[2202.13310v1](http://arxiv.org/abs/2202.13310v1)|null|
 |**2022-02-27**|**Controllable Natural Language Generation with Contrastive Prefixes**|Jing Qian et.al.|[2202.13257v1](http://arxiv.org/abs/2202.13257v1)|null|
