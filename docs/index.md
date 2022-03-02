@@ -156,6 +156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-28**|**Effectiveness of Delivered Information Trade Study**|Matthew Ciolino et.al.|[2203.00116v1](http://arxiv.org/abs/2203.00116v1)|null|
 |**2022-02-08**|**MaskGIT: Masked Generative Image Transformer**|Huiwen Chang et.al.|[2202.04200v1](http://arxiv.org/abs/2202.04200v1)|null|
 |**2022-02-02**|**Finding Biological Plausibility for Adversarially Robust Features via Metameric Tasks**|Anne Harrington et.al.|[2202.00838v2](http://arxiv.org/abs/2202.00838v2)|**[link](https://github.com/anneharrington/adversarially-robust-periphery)**|
 |**2022-01-31**|**Crowd-powered Face Manipulation Detection: Fusing Human Examiner Decisions**|Christian Rathgeb et.al.|[2201.13084v1](http://arxiv.org/abs/2201.13084v1)|null|
@@ -247,6 +248,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-01**|**Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology**|Richard J. Chen et.al.|[2203.00585v1](http://arxiv.org/abs/2203.00585v1)|**[link](https://github.com/richarizardd/self-supervised-vit-path)**|
+|**2022-02-28**|**Spatio-temporal Vision Transformer for Super-resolution Microscopy**|Charles N. Christensen et.al.|[2203.00030v1](http://arxiv.org/abs/2203.00030v1)|**[link](https://github.com/charlesnchr/vsr-sim)**|
 |**2022-02-28**|**DropIT: Dropping Intermediate Tensors for Memory-Efficient DNN Training**|Joya Chen et.al.|[2202.13808v1](http://arxiv.org/abs/2202.13808v1)|**[link](https://github.com/ChenJoya/dropit)**|
 |**2022-02-28**|**CTformer: Convolution-free Token2Token Dilated Vision Transformer for Low-dose CT Denoising**|Dayang Wang et.al.|[2202.13517v1](http://arxiv.org/abs/2202.13517v1)|**[link](https://github.com/wdayang/ctformer)**|
 |**2022-02-12**|**Benchmark Assessment for DeepSpeed Optimization Library**|Gongbo Liang et.al.|[2202.12831v1](http://arxiv.org/abs/2202.12831v1)|null|
@@ -403,6 +406,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-01**|**Advancing an Interdisciplinary Science of Conversation: Insights from a Large Multimodal Corpus of Human Speech**|Andrew Reece et.al.|[2203.00674v1](http://arxiv.org/abs/2203.00674v1)|null|
+|**2022-03-01**|**Active particles driven by competing spatially dependent self-propulsion and external force**|Lorenzo Caprini et.al.|[2203.00603v1](http://arxiv.org/abs/2203.00603v1)|null|
+|**2022-03-01**|**Dual Embodied-Symbolic Concept Representations for Deep Learning**|Daniel T. Chang et.al.|[2203.00600v1](http://arxiv.org/abs/2203.00600v1)|null|
+|**2022-03-01**|**Sentiment Word Aware Multimodal Refinement for Multimodal Sentiment Analysis with ASR Errors**|Yang Wu et.al.|[2203.00257v1](http://arxiv.org/abs/2203.00257v1)|**[link](https://github.com/albertwy/SWRM)**|
+|**2022-03-01**|**Robots Autonomously Detecting People: A Multimodal Deep Contrastive Learning Method Robust to Intraclass Variations**|Angus Fung et.al.|[2203.00187v1](http://arxiv.org/abs/2203.00187v1)|null|
 |**2022-02-28**|**MSCTD: A Multimodal Sentiment Chat Translation Dataset**|Yunlong Liang et.al.|[2202.13645v1](http://arxiv.org/abs/2202.13645v1)|null|
 |**2022-02-28**|**The Golden Circle: Creating Socio-technical Alignment in Content Moderation**|Abhishek Gupta et.al.|[2202.13500v1](http://arxiv.org/abs/2202.13500v1)|null|
 |**2022-02-27**|**A Multimodal German Dataset for Automatic Lip Reading Systems and Transfer Learning**|Gerald Schwiebert et.al.|[2202.13403v1](http://arxiv.org/abs/2202.13403v1)|null|
@@ -594,6 +602,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-01**|**Global-Local Regularization Via Distributional Robustness**|Hoang Phan et.al.|[2203.00553v1](http://arxiv.org/abs/2203.00553v1)|null|
+|**2022-03-01**|**Embodied Active Domain Adaptation for Semantic Segmentation via Informative Path Planning**|René Zurbrügg et.al.|[2203.00549v1](http://arxiv.org/abs/2203.00549v1)|null|
+|**2022-03-01**|**Bridge the Gap between Supervised and Unsupervised Learning for Fine-Grained Classification**|Jiabao Wang et.al.|[2203.00441v1](http://arxiv.org/abs/2203.00441v1)|null|
 |**2022-02-24**|**Towards Unsupervised Domain Adaptation via Domain-Transformer**|Ren Chuan-Xian et.al.|[2202.13777v1](http://arxiv.org/abs/2202.13777v1)|null|
 |**2022-02-27**|**Causal Domain Adaptation with Copula Entropy based Conditional Independence Test**|Jian Ma et.al.|[2202.13482v1](http://arxiv.org/abs/2202.13482v1)|**[link](https://github.com/majianthu/cda)**|
 |**2022-02-27**|**A Simple but Effective Pluggable Entity Lookup Table for Pre-trained Language Models**|Deming Ye et.al.|[2202.13392v1](http://arxiv.org/abs/2202.13392v1)|**[link](https://github.com/thunlp/pelt)**|
@@ -724,6 +735,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-01**|**CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding**|Mohamed Afham et.al.|[2203.00680v1](http://arxiv.org/abs/2203.00680v1)|**[link](https://github.com/mohamedafham/crosspoint)**|
+|**2022-03-01**|**Dual Embodied-Symbolic Concept Representations for Deep Learning**|Daniel T. Chang et.al.|[2203.00600v1](http://arxiv.org/abs/2203.00600v1)|null|
+|**2022-03-01**|**Towards a unified view of unsupervised non-local methods for image denoising: the NL-Ridge approach**|Sébastien Herbreteau et.al.|[2203.00570v1](http://arxiv.org/abs/2203.00570v1)|null|
+|**2022-03-01**|**Topological Data Analysis for Word Sense Disambiguation**|Michael Rawson et.al.|[2203.00565v1](http://arxiv.org/abs/2203.00565v1)|null|
+|**2022-03-01**|**Experimental identification of the second-order non-Hermitian skin effect with physics-graph-informed machine learning**|Ce Shang et.al.|[2203.00484v1](http://arxiv.org/abs/2203.00484v1)|null|
+|**2022-03-01**|**Bridge the Gap between Supervised and Unsupervised Learning for Fine-Grained Classification**|Jiabao Wang et.al.|[2203.00441v1](http://arxiv.org/abs/2203.00441v1)|null|
+|**2022-03-01**|**Scan-specific Self-supervised Bayesian Deep Non-linear Inversion for Undersampled MRI Reconstruction**|Andrew P. Leynes et.al.|[2203.00361v1](http://arxiv.org/abs/2203.00361v1)|null|
+|**2022-03-01**|**Fast-R2D2: A Pretrained Recursive Neural Network based on Pruned CKY for Grammar Induction and Text Representation**|Xiang Hu et.al.|[2203.00281v1](http://arxiv.org/abs/2203.00281v1)|**[link](https://github.com/alipay/StructuredLM_RTDT)**|
+|**2022-03-01**|**Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection**|Yufei Liang et.al.|[2203.00259v1](http://arxiv.org/abs/2203.00259v1)|null|
+|**2022-03-01**|**FIRL: Fast Imitation and Policy Reuse Learning**|Yiwen Chen et.al.|[2203.00251v1](http://arxiv.org/abs/2203.00251v1)|**[link](https://github.com/yiwc/firl)**|
+|**2022-03-01**|**Unsupervised Vision-and-Language Pre-training via Retrieval-based Multi-Granular Alignment**|Mingyang Zhou et.al.|[2203.00242v1](http://arxiv.org/abs/2203.00242v1)|null|
+|**2022-03-01**|**Robots Autonomously Detecting People: A Multimodal Deep Contrastive Learning Method Robust to Intraclass Variations**|Angus Fung et.al.|[2203.00187v1](http://arxiv.org/abs/2203.00187v1)|null|
+|**2022-03-01**|**ACTIVE:Augmentation-Free Graph Contrastive Learning for Partial Multi-View Clustering**|Yiming Wang et.al.|[2203.00186v1](http://arxiv.org/abs/2203.00186v1)|null|
+|**2022-02-28**|**Structure Extraction in Task-Oriented Dialogues with Slot Clustering**|Liang Qiu et.al.|[2203.00073v1](http://arxiv.org/abs/2203.00073v1)|null|
+|**2022-02-28**|**Multi-modal Alignment using Representation Codebook**|Jiali Duan et.al.|[2203.00048v1](http://arxiv.org/abs/2203.00048v1)|null|
+|**2022-02-28**|**Voxelmorph++ Going beyond the cranial vault with keypoint supervision and multi-channel instance optimisation**|Mattias P. Heinrich et.al.|[2203.00046v1](http://arxiv.org/abs/2203.00046v1)|null|
 |**2022-02-28**|**Unsupervised machine learning correlations in EoS of neutron stars**|Ronaldo V. Lobato et.al.|[2202.13940v1](http://arxiv.org/abs/2202.13940v1)|null|
 |**2022-02-28**|**Machine Learning Wavefunction**|Stefano Battaglia et.al.|[2202.13916v1](http://arxiv.org/abs/2202.13916v1)|**[link](https://github.com/stefabat/mlwavefunction)**|
 |**2022-02-28**|**Combining Modular Skills in Multitask Learning**|Edoardo M. Ponti et.al.|[2202.13914v2](http://arxiv.org/abs/2202.13914v2)|null|
@@ -1313,6 +1340,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-01**|**Generative Adversarial Networks**|Gilad Cohen et.al.|[2203.00667v1](http://arxiv.org/abs/2203.00667v1)|null|
+|**2022-03-01**|**Towards Creativity Characterization of Generative Models via Group-based Subset Scanning**|Celia Cintas et.al.|[2203.00523v1](http://arxiv.org/abs/2203.00523v1)|null|
+|**2022-03-01**|**Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection**|Yufei Liang et.al.|[2203.00259v1](http://arxiv.org/abs/2203.00259v1)|null|
+|**2022-03-01**|**Nuclear Segmentation and Classification Model with Imbalanced Classes for CoNiC Challenge**|Jijun Cheng et.al.|[2203.00171v1](http://arxiv.org/abs/2203.00171v1)|null|
+|**2022-02-28**|**Learning Cross-Video Neural Representations for High-Quality Frame Interpolation**|Wentao Shangguan et.al.|[2203.00137v1](http://arxiv.org/abs/2203.00137v1)|null|
+|**2022-02-28**|**MRI-GAN: A Generalized Approach to Detect DeepFakes using Perceptual Image Assessment**|Pratikkumar Prajapati et.al.|[2203.00108v1](http://arxiv.org/abs/2203.00108v1)|**[link](https://github.com/pratikpv/mri_gan_deepfake)**|
+|**2022-02-28**|**Local and Global GANs with Semantic-Aware Upsampling for Image Generation**|Hao Tang et.al.|[2203.00047v1](http://arxiv.org/abs/2203.00047v1)|**[link](https://github.com/Ha0Tang/LGGAN)**|
 |**2022-02-28**|**State-of-the-Art in the Architecture, Methods and Applications of StyleGAN**|Amit H. Bermano et.al.|[2202.14020v1](http://arxiv.org/abs/2202.14020v1)|null|
 |**2022-02-28**|**Deepfake Network Architecture Attribution**|Tianyun Yang et.al.|[2202.13843v1](http://arxiv.org/abs/2202.13843v1)|**[link](https://github.com/ictmcg/dna-det)**|
 |**2022-02-28**|**OUR-GAN: One-shot Ultra-high-Resolution Generative Adversarial Networks**|Donghwee Yoon et.al.|[2202.13799v1](http://arxiv.org/abs/2202.13799v1)|null|
