@@ -40,6 +40,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**Impurity States and Indirect Exchange Interaction in Irradiated Graphene**|Modi Ke et.al.|[2203.00805v1](http://arxiv.org/abs/2203.00805v1)|null|
 |**2022-02-28**|**Phase separation and multistability of two-component Bose-Einstein condensate in an optical cavity**|Abid Ali et.al.|[2202.13609v1](http://arxiv.org/abs/2202.13609v1)|null|
 |**2022-02-22**|**SADN: Learned Light Field Image Compression with Spatial-Angular Decorrelation**|Kedeng Tong et.al.|[2202.10837v1](http://arxiv.org/abs/2202.10837v1)|null|
 |**2022-02-22**|**Disentangling Light Fields for Super-Resolution and Disparity Estimation**|Yingqian Wang et.al.|[2202.10603v1](http://arxiv.org/abs/2202.10603v1)|null|
@@ -96,6 +97,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions**|Rui-Yang Ju et.al.|[2203.00960v1](http://arxiv.org/abs/2203.00960v1)|null|
 |**2022-03-01**|**Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology**|Richard J. Chen et.al.|[2203.00585v1](http://arxiv.org/abs/2203.00585v1)|null|
 |**2022-02-28**|**Spatio-temporal Vision Transformer for Super-resolution Microscopy**|Charles N. Christensen et.al.|[2203.00030v1](http://arxiv.org/abs/2203.00030v1)|**[link](https://github.com/charlesnchr/vsr-sim)**|
 |**2022-02-28**|**DropIT: Dropping Intermediate Tensors for Memory-Efficient DNN Training**|Joya Chen et.al.|[2202.13808v1](http://arxiv.org/abs/2202.13808v1)|**[link](https://github.com/ChenJoya/dropit)**|
@@ -212,6 +214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video**|Jinlu Zhang et.al.|[2203.00859v1](http://arxiv.org/abs/2203.00859v1)|null|
 |**2022-02-26**|**Relational Surrogate Loss Learning**|Tao Huang et.al.|[2202.13197v1](http://arxiv.org/abs/2202.13197v1)|**[link](https://github.com/hunto/reloss)**|
 |**2022-02-22**|**Privacy-Preserving In-Bed Pose Monitoring: A Fusion and Reconstruction Study**|Thisun Dayarathna et.al.|[2202.10704v1](http://arxiv.org/abs/2202.10704v1)|null|
 |**2022-02-18**|**Towards Simple and Accurate Human Pose Estimation with Stair Network**|Chenru Jiang et.al.|[2202.09115v1](http://arxiv.org/abs/2202.09115v1)|null|
@@ -254,6 +257,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**HighMMT: Towards Modality and Task Generalization for High-Modality Representation Learning**|Paul Pu Liang et.al.|[2203.01311v1](http://arxiv.org/abs/2203.01311v1)|null|
+|**2022-03-02**|**InsertionNet 2.0: Minimal Contact Multi-Step Insertion Using Multimodal Multiview Sensory Input**|Oren Spector et.al.|[2203.01153v1](http://arxiv.org/abs/2203.01153v1)|null|
+|**2022-03-02**|**Driver State Modeling through Latent Variable State Space Framework in the Wild**|Arash Tavakoli et.al.|[2203.00834v1](http://arxiv.org/abs/2203.00834v1)|null|
 |**2022-03-01**|**Advancing an Interdisciplinary Science of Conversation: Insights from a Large Multimodal Corpus of Human Speech**|Andrew Reece et.al.|[2203.00674v1](http://arxiv.org/abs/2203.00674v1)|null|
 |**2022-03-01**|**Active particles driven by competing spatially dependent self-propulsion and external force**|Lorenzo Caprini et.al.|[2203.00603v1](http://arxiv.org/abs/2203.00603v1)|null|
 |**2022-03-01**|**Dual Embodied-Symbolic Concept Representations for Deep Learning**|Daniel T. Chang et.al.|[2203.00600v1](http://arxiv.org/abs/2203.00600v1)|null|
@@ -450,6 +456,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**Continual BatchNorm Adaptation (CBNA) for Semantic Segmentation**|Marvin Klingner et.al.|[2203.01074v1](http://arxiv.org/abs/2203.01074v1)|null|
+|**2022-03-01**|**Low-Cost On-device Partial Domain Adaptation (LoCO-PDA): Enabling efficient CNN retraining on edge devices**|Aditya Rajagopal et.al.|[2203.00772v1](http://arxiv.org/abs/2203.00772v1)|null|
 |**2022-03-01**|**Global-Local Regularization Via Distributional Robustness**|Hoang Phan et.al.|[2203.00553v1](http://arxiv.org/abs/2203.00553v1)|null|
 |**2022-03-01**|**Embodied Active Domain Adaptation for Semantic Segmentation via Informative Path Planning**|René Zurbrügg et.al.|[2203.00549v1](http://arxiv.org/abs/2203.00549v1)|null|
 |**2022-03-01**|**Bridge the Gap between Supervised and Unsupervised Learning for Fine-Grained Classification**|Jiabao Wang et.al.|[2203.00441v1](http://arxiv.org/abs/2203.00441v1)|null|
@@ -583,6 +591,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**Deep-SWIM: A few-shot learning approach to classify Solar WInd Magnetic field structures**|Hala Lamdouar et.al.|[2203.01184v1](http://arxiv.org/abs/2203.01184v1)|null|
+|**2022-03-02**|**InsertionNet 2.0: Minimal Contact Multi-Step Insertion Using Multimodal Multiview Sensory Input**|Oren Spector et.al.|[2203.01153v1](http://arxiv.org/abs/2203.01153v1)|null|
+|**2022-03-02**|**Continual BatchNorm Adaptation (CBNA) for Semantic Segmentation**|Marvin Klingner et.al.|[2203.01074v1](http://arxiv.org/abs/2203.01074v1)|null|
+|**2022-03-02**|**Unsupervised Anomaly Detection from Time-of-Flight Depth Images**|Pascal Schneider et.al.|[2203.01052v1](http://arxiv.org/abs/2203.01052v1)|null|
+|**2022-03-02**|**CD-GAN: a robust fusion-based generative adversarial network for unsupervised change detection between heterogeneous images**|Jin-Ju Wang et.al.|[2203.00948v1](http://arxiv.org/abs/2203.00948v1)|null|
+|**2022-03-02**|**Weakly Supervised Correspondence Learning**|Zihan Wang et.al.|[2203.00904v1](http://arxiv.org/abs/2203.00904v1)|null|
+|**2022-03-02**|**Do Prompts Solve NLP Tasks Using Natural Language?**|Sen Yang et.al.|[2203.00902v1](http://arxiv.org/abs/2203.00902v1)|null|
+|**2022-03-01**|**Attend, Memorize and Generate: Towards Faithful Table-to-Text Generation in Few Shots**|Wenting Zhao et.al.|[2203.00732v1](http://arxiv.org/abs/2203.00732v1)|**[link](https://github.com/wentinghome/amg)**|
+|**2022-03-01**|**Learning Robust Real-Time Cultural Transmission without Human Data**|Cultural General Intelligence Team et.al.|[2203.00715v1](http://arxiv.org/abs/2203.00715v1)|null|
 |**2022-03-01**|**CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding**|Mohamed Afham et.al.|[2203.00680v2](http://arxiv.org/abs/2203.00680v2)|**[link](https://github.com/mohamedafham/crosspoint)**|
 |**2022-03-01**|**Dual Embodied-Symbolic Concept Representations for Deep Learning**|Daniel T. Chang et.al.|[2203.00600v1](http://arxiv.org/abs/2203.00600v1)|null|
 |**2022-03-01**|**Towards a unified view of unsupervised non-local methods for image denoising: the NL-Ridge approach**|Sébastien Herbreteau et.al.|[2203.00570v1](http://arxiv.org/abs/2203.00570v1)|**[link](https://github.com/sherbret/nl-ridge)**|
@@ -1188,6 +1205,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-02**|**Generating gravitational waveform libraries of exotic compact binaries with deep learning**|Felipe F. Freitas et.al.|[2203.01267v1](http://arxiv.org/abs/2203.01267v1)|null|
+|**2022-03-02**|**On the application of generative adversarial networks for nonlinear modal analysis**|G. Tsialiamanis et.al.|[2203.01229v1](http://arxiv.org/abs/2203.01229v1)|null|
+|**2022-03-02**|**The Optimal Noise in Noise-Contrastive Learning Is Not What You Think**|Omar Chehab et.al.|[2203.01110v1](http://arxiv.org/abs/2203.01110v1)|null|
+|**2022-03-02**|**A Multi-Scale Time-Frequency Spectrogram Discriminator for GAN-based Non-Autoregressive TTS**|Haohan Guo et.al.|[2203.01080v1](http://arxiv.org/abs/2203.01080v1)|null|
+|**2022-03-02**|**Enhanced Decentralized Autonomous Aerial Swarm with Group Planning**|Jialiang Hou et.al.|[2203.01069v1](http://arxiv.org/abs/2203.01069v1)|null|
+|**2022-03-02**|**Discriminating Against Unrealistic Interpolations in Generative Adversarial Networks**|Henning Petzka et.al.|[2203.01035v1](http://arxiv.org/abs/2203.01035v1)|**[link](https://github.com/petzkahe/progan_geodesics)**|
+|**2022-03-01**|**3D Skeleton-based Human Motion Prediction with Manifold-Aware GAN**|Baptiste Chopin et.al.|[2203.00736v1](http://arxiv.org/abs/2203.00736v1)|null|
 |**2022-03-01**|**Generative Adversarial Networks**|Gilad Cohen et.al.|[2203.00667v1](http://arxiv.org/abs/2203.00667v1)|null|
 |**2022-03-01**|**Towards Creativity Characterization of Generative Models via Group-based Subset Scanning**|Celia Cintas et.al.|[2203.00523v1](http://arxiv.org/abs/2203.00523v1)|null|
 |**2022-03-01**|**Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection**|Yufei Liang et.al.|[2203.00259v1](http://arxiv.org/abs/2203.00259v1)|null|
