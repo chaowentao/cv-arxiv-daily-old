@@ -583,7 +583,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-01**|**CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding**|Mohamed Afham et.al.|[2203.00680v1](http://arxiv.org/abs/2203.00680v1)|**[link](https://github.com/mohamedafham/crosspoint)**|
+|**2022-03-01**|**CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding**|Mohamed Afham et.al.|[2203.00680v2](http://arxiv.org/abs/2203.00680v2)|**[link](https://github.com/mohamedafham/crosspoint)**|
 |**2022-03-01**|**Dual Embodied-Symbolic Concept Representations for Deep Learning**|Daniel T. Chang et.al.|[2203.00600v1](http://arxiv.org/abs/2203.00600v1)|null|
 |**2022-03-01**|**Towards a unified view of unsupervised non-local methods for image denoising: the NL-Ridge approach**|Sébastien Herbreteau et.al.|[2203.00570v1](http://arxiv.org/abs/2203.00570v1)|**[link](https://github.com/sherbret/nl-ridge)**|
 |**2022-03-01**|**Topological Data Analysis for Word Sense Disambiguation**|Michael Rawson et.al.|[2203.00565v1](http://arxiv.org/abs/2203.00565v1)|null|
