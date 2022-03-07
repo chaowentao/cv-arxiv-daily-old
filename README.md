@@ -266,9 +266,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-03-03**|**Graph Neural Networks for Multimodal Single-Cell Data Integration**|Hongzhi Wen et.al.|[2203.01884v1](http://arxiv.org/abs/2203.01884v1)|**[link](https://github.com/openproblems-bio/neurips2021_multimodal_topmethods)**|
-|**2022-03-03**|**20-Mode Universal Quantum Photonic Processor**|Caterina Taballione et.al.|[2203.01801v1](http://arxiv.org/abs/2203.01801v1)|null|
+|**2022-03-03**|**20-Mode Universal Quantum Photonic Processor**|Caterina Taballione et.al.|[2203.01801v2](http://arxiv.org/abs/2203.01801v2)|null|
 |**2022-03-02**|**Recent, rapid advancement in visual question answering architecture**|Venkat Kodali et.al.|[2203.01322v1](http://arxiv.org/abs/2203.01322v1)|null|
-|**2022-03-02**|**HighMMT: Towards Modality and Task Generalization for High-Modality Representation Learning**|Paul Pu Liang et.al.|[2203.01311v1](http://arxiv.org/abs/2203.01311v1)|**[link](https://github.com/pliang279/highmmt)**|
+|**2022-03-02**|**HighMMT: Towards Modality and Task Generalization for High-Modality Representation Learning**|Paul Pu Liang et.al.|[2203.01311v2](http://arxiv.org/abs/2203.01311v2)|**[link](https://github.com/pliang279/highmmt)**|
 |**2022-03-02**|**InsertionNet 2.0: Minimal Contact Multi-Step Insertion Using Multimodal Multiview Sensory Input**|Oren Spector et.al.|[2203.01153v1](http://arxiv.org/abs/2203.01153v1)|null|
 |**2022-03-02**|**Driver State Modeling through Latent Variable State Space Framework in the Wild**|Arash Tavakoli et.al.|[2203.00834v1](http://arxiv.org/abs/2203.00834v1)|null|
 |**2022-03-01**|**Advancing an Interdisciplinary Science of Conversation: Insights from a Large Multimodal Corpus of Human Speech**|Andrew Reece et.al.|[2203.00674v1](http://arxiv.org/abs/2203.00674v1)|null|
@@ -614,13 +614,13 @@
 |**2022-03-03**|**Robustness and Adaptation to Hidden Factors of Variation**|William Paul et.al.|[2203.01864v1](http://arxiv.org/abs/2203.01864v1)|null|
 |**2022-03-03**|**NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields**|Shanyan Guan et.al.|[2203.01762v1](http://arxiv.org/abs/2203.01762v1)|null|
 |**2022-03-03**|**Vertical Federated Principal Component Analysis and Its Kernel Extension on Feature-wise Distributed Data**|Yiu-ming Cheung et.al.|[2203.01752v1](http://arxiv.org/abs/2203.01752v1)|**[link](https://github.com/juyongjiang/vfedpca-vfedakpca)**|
-|**2022-03-03**|**Relative distance matters for one-shot landmark detection**|Qingsong Yao et.al.|[2203.01687v1](http://arxiv.org/abs/2203.01687v1)|null|
+|**2022-03-03**|**Relative distance matters for one-shot landmark detection**|Qingsong Yao et.al.|[2203.01687v2](http://arxiv.org/abs/2203.01687v2)|null|
 |**2022-03-03**|**Statistical visualisation for tidy and geospatial data in R via kernel smoothing methods in the eks package**|Tarn Duong et.al.|[2203.01686v1](http://arxiv.org/abs/2203.01686v1)|null|
 |**2022-03-03**|**Bridging the Source-to-target Gap for Cross-domain Person Re-Identification with Intermediate Domains**|Yongxing Dai et.al.|[2203.01682v1](http://arxiv.org/abs/2203.01682v1)|null|
 |**2022-03-03**|**Constrained unsupervised anomaly segmentation**|Julio Silva-Rodríguez et.al.|[2203.01671v1](http://arxiv.org/abs/2203.01671v1)|**[link](https://github.com/jusiro/constrained_anomaly_segmentation)**|
 |**2022-03-03**|**Graph Representation Learning Beyond Node and Homophily**|You Li et.al.|[2203.01564v1](http://arxiv.org/abs/2203.01564v1)|**[link](https://github.com/syvail/PairE-Graph-Representation-Learning-Beyond-Node-and-Homophily)**|
 |**2022-03-03**|**Dialogue Summaries as Dialogue States (DS2), Template-Guided Summarization for Few-shot Dialogue State Tracking**|Jamin Shin et.al.|[2203.01552v1](http://arxiv.org/abs/2203.01552v1)|**[link](https://github.com/jshin49/ds2)**|
-|**2022-03-03**|**QaNER: Prompting Question Answering Models for Few-shot Named Entity Recognition**|Andy T. Liu et.al.|[2203.01543v1](http://arxiv.org/abs/2203.01543v1)|null|
+|**2022-03-03**|**QaNER: Prompting Question Answering Models for Few-shot Named Entity Recognition**|Andy T. Liu et.al.|[2203.01543v2](http://arxiv.org/abs/2203.01543v2)|null|
 |**2022-03-03**|**BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning**|Zhi Hou et.al.|[2203.01522v1](http://arxiv.org/abs/2203.01522v1)|**[link](https://github.com/zhihou7/batchformer)**|
 |**2022-03-03**|**MetaDT: Meta Decision Tree for Interpretable Few-Shot Learning**|Baoquan Zhang et.al.|[2203.01482v1](http://arxiv.org/abs/2203.01482v1)|null|
 |**2022-03-02**|**Bending Reality: Distortion-aware Transformers for Adapting to Panoramic Semantic Segmentation**|Jiaming Zhang et.al.|[2203.01452v1](http://arxiv.org/abs/2203.01452v1)|**[link](https://github.com/jamycheung/trans4pass)**|
@@ -1209,11 +1209,11 @@
 |**2022-03-03**|**NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**|Lin Yen-Chen et.al.|[2203.01913v1](http://arxiv.org/abs/2203.01913v1)|null|
 |**2022-03-01**|**ICARUS: A Lightweight Neural Plenoptic Rendering Architecture**|Chaolin Rao et.al.|[2203.01414v1](http://arxiv.org/abs/2203.01414v1)|null|
 |**2022-02-26**|**Pix2NeRF: Unsupervised Conditional $π$-GAN for Single Image to Neural Radiance Fields Translation**|Shengqu Cai et.al.|[2202.13162v1](http://arxiv.org/abs/2202.13162v1)|null|
-|**2022-02-24**|**Learning Multi-Object Dynamics with Compositional Neural Radiance Fields**|Danny Driess et.al.|[2202.11855v1](http://arxiv.org/abs/2202.11855v1)|null|
+|**2022-02-24**|**Learning Multi-Object Dynamics with Compositional Neural Radiance Fields**|Danny Driess et.al.|[2202.11855v2](http://arxiv.org/abs/2202.11855v2)|null|
 |**2022-02-17**|**Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time**|Liao Wang et.al.|[2202.08614v2](http://arxiv.org/abs/2202.08614v2)|null|
 |**2022-02-12**|**NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing**|Jiakai Zhang et.al.|[2202.06088v1](http://arxiv.org/abs/2202.06088v1)|null|
 |**2022-02-10**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263v1](http://arxiv.org/abs/2202.05263v1)|null|
-|**2022-02-01**|**CLA-NeRF: Category-Level Articulated Neural Radiance Field**|Wei-Cheng Tseng et.al.|[2202.00181v2](http://arxiv.org/abs/2202.00181v2)|null|
+|**2022-02-01**|**CLA-NeRF: Category-Level Articulated Neural Radiance Field**|Wei-Cheng Tseng et.al.|[2202.00181v3](http://arxiv.org/abs/2202.00181v3)|null|
 |**2022-01-28**|**From data to functa: Your data point is a function and you should treat it like one**|Emilien Dupont et.al.|[2201.12204v1](http://arxiv.org/abs/2201.12204v1)|null|
 |**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v1](http://arxiv.org/abs/2201.08845v1)|**[link](https://github.com/Xharlie/pointnerf)**|
 |**2022-01-19**|**Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation**|Xian Liu et.al.|[2201.07786v1](http://arxiv.org/abs/2201.07786v1)|null|
