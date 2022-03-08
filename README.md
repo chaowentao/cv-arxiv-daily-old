@@ -500,7 +500,7 @@
 |**2022-02-26**|**Unsupervised Domain Adaptive Salient Object Detection Through Uncertainty-Aware Pseudo-Label Learning**|Pengxiang Yan et.al.|[2202.13170v1](http://arxiv.org/abs/2202.13170v1)|**[link](https://github.com/kinpzz/udasod-upl)**|
 |**2022-02-22**|**Assessing the State of Self-Supervised Human Activity Recognition using Wearables**|Harish Haresamudram et.al.|[2202.12938v1](http://arxiv.org/abs/2202.12938v1)|null|
 |**2022-02-25**|**Domain Adaptation: the Key Enabler of Neural Network Equalizers in Coherent Optical Systems**|Pedro J. Freire et.al.|[2202.12689v1](http://arxiv.org/abs/2202.12689v1)|null|
-|**2022-02-24**|**DoCoGen: Domain Counterfactual Generation for Low Resource Domain Adaptation**|Nitay Calderon et.al.|[2202.12350v1](http://arxiv.org/abs/2202.12350v1)|**[link](https://github.com/nitaytech/docogen)**|
+|**2022-02-24**|**DoCoGen: Domain Counterfactual Generation for Low Resource Domain Adaptation**|Nitay Calderon et.al.|[2202.12350v2](http://arxiv.org/abs/2202.12350v2)|**[link](https://github.com/nitaytech/docogen)**|
 |**2022-02-24**|**Attentive Temporal Pooling for Conformer-based Streaming Language Identification in Long-form Speech**|Quan Wang et.al.|[2202.12163v1](http://arxiv.org/abs/2202.12163v1)|null|
 |**2022-02-24**|**Temporal Convolution Domain Adaptation Learning for Crops Growth Prediction**|Shengzhe Wang et.al.|[2202.12120v1](http://arxiv.org/abs/2202.12120v1)|null|
 |**2022-02-24**|**SMILE: Sequence-to-Sequence Domain Adaption with Minimizing Latent Entropy for Text Image Recognition**|Yen-Cheng Chang et.al.|[2202.11949v1](http://arxiv.org/abs/2202.11949v1)|**[link](https://github.com/timtimchang/smile)**|
@@ -1244,7 +1244,7 @@
 |**2022-02-10**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263v1](http://arxiv.org/abs/2202.05263v1)|null|
 |**2022-02-01**|**CLA-NeRF: Category-Level Articulated Neural Radiance Field**|Wei-Cheng Tseng et.al.|[2202.00181v3](http://arxiv.org/abs/2202.00181v3)|null|
 |**2022-01-28**|**From data to functa: Your data point is a function and you should treat it like one**|Emilien Dupont et.al.|[2201.12204v1](http://arxiv.org/abs/2201.12204v1)|null|
-|**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v1](http://arxiv.org/abs/2201.08845v1)|**[link](https://github.com/Xharlie/pointnerf)**|
+|**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v2](http://arxiv.org/abs/2201.08845v2)|**[link](https://github.com/Xharlie/pointnerf)**|
 |**2022-01-19**|**Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation**|Xian Liu et.al.|[2201.07786v1](http://arxiv.org/abs/2201.07786v1)|null|
 |**2021-12-31**|**InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering**|Mijeong Kim et.al.|[2112.15399v1](http://arxiv.org/abs/2112.15399v1)|null|
 |**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|**[link](https://github.com/fnzhan/mise)**|
