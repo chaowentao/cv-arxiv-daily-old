@@ -193,7 +193,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-03-07**|**Light-field control of real and virtual charge carriers**|Tobias Boolakee et.al.|[2203.03509v1](http://arxiv.org/abs/2203.03509v1)|null|
+|**2022-03-07**|**Light-field control of real and virtual charge carriers**|Tobias Boolakee et.al.|[2203.03509v2](http://arxiv.org/abs/2203.03509v2)|null|
 |**2022-03-05**|**Bistability in orbital trajectories of a chiral self-propelled particle interacting with an external field**|GA Patterson et.al.|[2203.02633v1](http://arxiv.org/abs/2203.02633v1)|null|
 |**2022-03-04**|**OPAL: Occlusion Pattern Aware Loss for Unsupervised Light Field Disparity Estimation**|Peng Li et.al.|[2203.02231v1](http://arxiv.org/abs/2203.02231v1)|null|
 |**2022-03-04**|**Weighted Simultaneous Algebra Reconstruction Technique (wSART) for Additive Light Field Synthesis**|Chen Gao et.al.|[2203.02141v1](http://arxiv.org/abs/2203.02141v1)|null|
@@ -1437,7 +1437,7 @@ layout: default
 |**2022-02-10**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263v1](http://arxiv.org/abs/2202.05263v1)|null|
 |**2022-02-01**|**CLA-NeRF: Category-Level Articulated Neural Radiance Field**|Wei-Cheng Tseng et.al.|[2202.00181v3](http://arxiv.org/abs/2202.00181v3)|null|
 |**2022-01-28**|**From data to functa: Your data point is a function and you should treat it like one**|Emilien Dupont et.al.|[2201.12204v1](http://arxiv.org/abs/2201.12204v1)|null|
-|**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v2](http://arxiv.org/abs/2201.08845v2)|**[link](https://github.com/Xharlie/pointnerf)**|
+|**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v3](http://arxiv.org/abs/2201.08845v3)|**[link](https://github.com/Xharlie/pointnerf)**|
 |**2022-01-19**|**Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation**|Xian Liu et.al.|[2201.07786v1](http://arxiv.org/abs/2201.07786v1)|null|
 |**2021-12-31**|**InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering**|Mijeong Kim et.al.|[2112.15399v1](http://arxiv.org/abs/2112.15399v1)|null|
 |**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|**[link](https://github.com/fnzhan/mise)**|
