@@ -1,4 +1,4 @@
-## Updated on 2022.03.08
+## Updated on 2022.03.09
 
 ## Image Generation
 
@@ -108,7 +108,7 @@
 |**2022-03-06**|**Multi-class Token Transformer for Weakly Supervised Semantic Segmentation**|Lian Xu et.al.|[2203.02891v1](http://arxiv.org/abs/2203.02891v1)|**[link](https://github.com/xulianuwa/mctformer)**|
 |**2022-03-05**|**Towards Efficient and Scalable Sharpness-Aware Minimization**|Yong Liu et.al.|[2203.02714v1](http://arxiv.org/abs/2203.02714v1)|null|
 |**2022-03-05**|**Boosting Crowd Counting via Multifaceted Attention**|Hui Lin et.al.|[2203.02636v1](http://arxiv.org/abs/2203.02636v1)|**[link](https://github.com/loralinh/boosting-crowd-counting-via-multifaceted-attention)**|
-|**2022-03-04**|**UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation**|Dmitrii Torbunov et.al.|[2203.02557v1](http://arxiv.org/abs/2203.02557v1)|null|
+|**2022-03-04**|**UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation**|Dmitrii Torbunov et.al.|[2203.02557v1](http://arxiv.org/abs/2203.02557v1)|**[link](https://github.com/ls4gan/uvcgan)**|
 |**2022-03-04**|**Characterizing Renal Structures with 3D Block Aggregate Transformers**|Xin Yu et.al.|[2203.02430v1](http://arxiv.org/abs/2203.02430v1)|null|
 |**2022-03-04**|**ViT-P: Rethinking Data-efficient Vision Transformers from Locality**|Bin Chen et.al.|[2203.02358v1](http://arxiv.org/abs/2203.02358v1)|**[link](https://github.com/freder-chen/vitp)**|
 |**2022-03-04**|**Patch Similarity Aware Data-Free Quantization for Vision Transformers**|Zhikai Li et.al.|[2203.02250v1](http://arxiv.org/abs/2203.02250v1)|null|
@@ -1326,7 +1326,7 @@
 |**2022-03-05**|**Distributed Sparse Identification for Stochastic Dynamic Systems under Cooperative Non-Persistent Excitation Condition**|Die Gan et.al.|[2203.02737v1](http://arxiv.org/abs/2203.02737v1)|null|
 |**2022-03-05**|**Language vs Speaker Change: A Comparative Study**|Jagabandhu Mishra et.al.|[2203.02680v1](http://arxiv.org/abs/2203.02680v1)|null|
 |**2022-03-04**|**Virtual Histological Staining of Label-Free Total Absorption Photoacoustic Remote Sensing (TA-PARS)**|Marian Boktor et.al.|[2203.02584v1](http://arxiv.org/abs/2203.02584v1)|null|
-|**2022-03-04**|**UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation**|Dmitrii Torbunov et.al.|[2203.02557v1](http://arxiv.org/abs/2203.02557v1)|null|
+|**2022-03-04**|**UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation**|Dmitrii Torbunov et.al.|[2203.02557v1](http://arxiv.org/abs/2203.02557v1)|**[link](https://github.com/ls4gan/uvcgan)**|
 |**2022-03-04**|**iSTFTNet: Fast and Lightweight Mel-Spectrogram Vocoder Incorporating Inverse Short-Time Fourier Transform**|Takuhiro Kaneko et.al.|[2203.02395v1](http://arxiv.org/abs/2203.02395v1)|null|
 |**2022-03-04**|**Statistical analysis of the causes of excess variance in the 21 cm signal power spectra obtained with the Low-Frequency Array**|H. Gan et.al.|[2203.02345v1](http://arxiv.org/abs/2203.02345v1)|null|
 |**2022-03-04**|**Detecting GAN-generated Images by Orthogonal Training of Multiple CNNs**|Sara Mandelli et.al.|[2203.02246v1](http://arxiv.org/abs/2203.02246v1)|**[link](https://github.com/polimi-ispl/gan-image-detection)**|
