@@ -1580,7 +1580,7 @@ layout: default
 |**2022-03-08**|**StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN**|Fei Yin et.al.|[2203.04036v1](http://arxiv.org/abs/2203.04036v1)|null|
 |**2022-03-04**|**Quantum Deep Learning for Mutant COVID-19 Strain Prediction**|Yu-Xin Jin et.al.|[2203.03556v1](http://arxiv.org/abs/2203.03556v1)|null|
 |**2022-03-07**|**DATGAN: Integrating expert knowledge into deep learning for synthetic tabular data**|Gael Lederrey et.al.|[2203.03489v1](http://arxiv.org/abs/2203.03489v1)|**[link](https://github.com/glederrey/datgan)**|
-|**2022-03-07**|**Signature and Log-signature for the Study of Empirical Distributions Generated with GANs**|J. de Curtò et.al.|[2203.03226v1](http://arxiv.org/abs/2203.03226v1)|null|
+|**2022-03-07**|**Signature and Log-signature for the Study of Empirical Distributions Generated with GANs**|J. de Curtò et.al.|[2203.03226v1](http://arxiv.org/abs/2203.03226v1)|**[link](https://github.com/decurtoydiaz/signatures)**|
 |**2022-03-07**|**Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-robust Makeup Transfer**|Shengshan Hu et.al.|[2203.03121v1](http://arxiv.org/abs/2203.03121v1)|null|
 |**2022-03-06**|**Semantic-Aware Latent Space Exploration for Face Image Restoration**|Yanhui Guo et.al.|[2203.03005v1](http://arxiv.org/abs/2203.03005v1)|**[link](https://github.com/liamkuo/sair)**|
 |**2022-03-06**|**Detection of Parasitic Eggs from Microscopy Images and the emergence of a new dataset**|Perla Mayo et.al.|[2203.02940v1](http://arxiv.org/abs/2203.02940v1)|null|
