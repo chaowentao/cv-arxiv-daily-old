@@ -110,6 +110,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**Anti-Oversmoothing in Deep Vision Transformers via the Fourier Domain Analysis: From Theory to Practice**|Peihao Wang et.al.|[2203.05962v1](http://arxiv.org/abs/2203.05962v1)|**[link](https://github.com/vita-group/vit-anti-oversmoothing)**|
+|**2022-03-11**|**TFCNet: Temporal Fully Connected Networks for Static Unbiased Temporal Reasoning**|Shiwen Zhang et.al.|[2203.05928v1](http://arxiv.org/abs/2203.05928v1)|null|
+|**2022-03-11**|**Visualizing and Understanding Patch Interactions in Vision Transformer**|Jie Ma et.al.|[2203.05922v1](http://arxiv.org/abs/2203.05922v1)|null|
+|**2022-03-11**|**Democratizing Contrastive Language-Image Pre-training: A CLIP Benchmark of Data, Model, and Supervision**|Yufeng Cui et.al.|[2203.05796v1](http://arxiv.org/abs/2203.05796v1)|**[link](https://github.com/sense-gvt/declip)**|
+|**2022-03-10**|**Self Pre-training with Masked Autoencoders for Medical Image Analysis**|Lei Zhou et.al.|[2203.05573v1](http://arxiv.org/abs/2203.05573v1)|null|
 |**2022-03-10**|**Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking**|Boyu Chen et.al.|[2203.05328v1](http://arxiv.org/abs/2203.05328v1)|null|
 |**2022-03-10**|**MVP: Multimodality-guided Visual Pre-training**|Longhui Wei et.al.|[2203.05175v1](http://arxiv.org/abs/2203.05175v1)|null|
 |**2022-03-09**|**On the surprising tradeoff between ImageNet accuracy and perceptual similarity**|Manoj Kumar et.al.|[2203.04946v1](http://arxiv.org/abs/2203.04946v1)|null|
@@ -257,6 +262,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-11**|**DRTAM: Dual Rank-1 Tensor Attention Module**|Hanxing Chi et.al.|[2203.05893v1](http://arxiv.org/abs/2203.05893v1)|null|
 |**2022-03-08**|**Quantification of Occlusion Handling Capability of a 3D Human Pose Estimation Framework**|Mehwish Ghafoor et.al.|[2203.04113v1](http://arxiv.org/abs/2203.04113v1)|null|
 |**2022-03-07**|**Weakly Supervised Learning of Keypoints for 6D Object Pose Estimation**|Meng Tian et.al.|[2203.03498v1](http://arxiv.org/abs/2203.03498v1)|null|
 |**2022-03-04**|**Real-Time Hybrid Mapping of Populated Indoor Scenes using a Low-Cost Monocular UAV**|Stuart Golodetz et.al.|[2203.02453v1](http://arxiv.org/abs/2203.02453v1)|null|
@@ -303,6 +309,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-11**|**The Category of Linear Optical Quantum Computing**|Paul McCloud et.al.|[2203.05958v1](http://arxiv.org/abs/2203.05958v1)|null|
+|**2022-03-11**|**AI-enabled Automatic Multimodal Fusion of Cone-Beam CT and Intraoral Scans for Intelligent 3D Tooth-Bone Reconstruction and Clinical Applications**|Jin Hao et.al.|[2203.05784v1](http://arxiv.org/abs/2203.05784v1)|null|
+|**2022-03-11**|**Evaluating U-net Brain Extraction for Multi-site and Longitudinal Preclinical Stroke Imaging**|Erendiz Tarakci et.al.|[2203.05716v1](http://arxiv.org/abs/2203.05716v1)|**[link](https://github.com/cabeen/neu-net)**|
+|**2022-03-11**|**Synopses of Movie Narratives: a Video-Language Dataset for Story Understanding**|Yidan Sun et.al.|[2203.05711v1](http://arxiv.org/abs/2203.05711v1)|null|
+|**2022-03-11**|**Machine Learning Based Multimodal Neuroimaging Genomics Dementia Score for Predicting Future Conversion to Alzheimer's Disease**|Ghazal Mirabnahrazam et.al.|[2203.05707v1](http://arxiv.org/abs/2203.05707v1)|null|
+|**2022-03-10**|**Deep Multimodal Guidance for Medical Image Classification**|Mayur Mallya et.al.|[2203.05683v1](http://arxiv.org/abs/2203.05683v1)|null|
 |**2022-03-10**|**Disentangled Multimodal Representation Learning for Recommendation**|Fan Liu et.al.|[2203.05406v1](http://arxiv.org/abs/2203.05406v1)|null|
 |**2022-03-10**|**An Audio-Visual Attention Based Multimodal Network for Fake Talking Face Videos Detection**|Ganglai Wang et.al.|[2203.05178v1](http://arxiv.org/abs/2203.05178v1)|null|
 |**2022-03-10**|**MVP: Multimodality-guided Visual Pre-training**|Longhui Wei et.al.|[2203.05175v1](http://arxiv.org/abs/2203.05175v1)|null|
@@ -525,6 +537,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-11**|**Learning Distinctive Margin toward Active Domain Adaptation**|Ming Xie et.al.|[2203.05738v1](http://arxiv.org/abs/2203.05738v1)|null|
 |**2022-03-10**|**Non-generative Generalized Zero-shot Learning via Task-correlated Disentanglement and Controllable Samples Synthesis**|Yaogong Feng et.al.|[2203.05335v1](http://arxiv.org/abs/2203.05335v1)|null|
 |**2022-03-10**|**GrainSpace: A Large-scale Dataset for Fine-grained and Domain-adaptive Recognition of Cereal Grains**|Lei Fan et.al.|[2203.05306v1](http://arxiv.org/abs/2203.05306v1)|null|
 |**2022-03-10**|**Back to Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement**|Xiuwei Xu et.al.|[2203.05238v1](http://arxiv.org/abs/2203.05238v1)|**[link](https://github.com/xuxw98/backtoreality)**|
@@ -688,6 +701,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-11**|**LaPraDoR: Unsupervised Pretrained Dense Retriever for Zero-Shot Text Retrieval**|Canwen Xu et.al.|[2203.06169v1](http://arxiv.org/abs/2203.06169v1)|**[link](https://github.com/jetrunner/laprador)**|
+|**2022-03-11**|**Neuromorphic Data Augmentation for Training Spiking Neural Networks**|Yuhang Li et.al.|[2203.06145v1](http://arxiv.org/abs/2203.06145v1)|null|
+|**2022-03-11**|**Stochastic Learning in Kolkata Paise Restaurant Problem: Classical \& Quantum Strategies**|Bikas K Chakrabarti et.al.|[2203.06110v1](http://arxiv.org/abs/2203.06110v1)|null|
+|**2022-03-11**|**Are discrete units necessary for Spoken Language Modeling?**|Tu Anh Nguyen et.al.|[2203.05936v1](http://arxiv.org/abs/2203.05936v1)|null|
+|**2022-03-11**|**A Sentence is Worth 128 Pseudo Tokens: A Semantic-Aware Contrastive Learning Framework for Sentence Embeddings**|Haochen Tan et.al.|[2203.05877v1](http://arxiv.org/abs/2203.05877v1)|**[link](https://github.com/namco0816/pt-bert)**|
+|**2022-03-11**|**Semi-constraint Optimal Transport for Entity Alignment with Dangling Cases**|Shengxuan Luo et.al.|[2203.05744v1](http://arxiv.org/abs/2203.05744v1)|null|
+|**2022-03-11**|**Learning Distinctive Margin toward Active Domain Adaptation**|Ming Xie et.al.|[2203.05738v1](http://arxiv.org/abs/2203.05738v1)|null|
+|**2022-03-11**|**A Survey of Surface Defect Detection of Industrial Products Based on A Small Number of Labeled Data**|Qifan Jin et.al.|[2203.05733v1](http://arxiv.org/abs/2203.05733v1)|null|
+|**2022-03-11**|**Synopses of Movie Narratives: a Video-Language Dataset for Story Understanding**|Yidan Sun et.al.|[2203.05711v1](http://arxiv.org/abs/2203.05711v1)|null|
+|**2022-03-10**|**PC-SwinMorph: Patch Representation for Unsupervised Medical Image Registration and Segmentation**|Lihao Liu et.al.|[2203.05684v1](http://arxiv.org/abs/2203.05684v1)|null|
+|**2022-03-10**|**The Overlooked Classifier in Human-Object Interaction Recognition**|Ying Jin et.al.|[2203.05676v1](http://arxiv.org/abs/2203.05676v1)|null|
+|**2022-03-10**|**BASIL: Balanced Active Semi-supervised Learning for Class Imbalanced Datasets**|Suraj Kothawade et.al.|[2203.05651v1](http://arxiv.org/abs/2203.05651v1)|null|
+|**2022-03-10**|**On-the-Fly Test-time Adaptation for Medical Image Segmentation**|Jeya Maria Jose Valanarasu et.al.|[2203.05574v1](http://arxiv.org/abs/2203.05574v1)|**[link](https://github.com/jeya-maria-jose/on-the-fly-adaptation)**|
 |**2022-03-10**|**Transfer of Representations to Video Label Propagation: Implementation Factors Matter**|Daniel McKee et.al.|[2203.05553v1](http://arxiv.org/abs/2203.05553v1)|null|
 |**2022-03-10**|**Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time**|Mitchell Wortsman et.al.|[2203.05482v1](http://arxiv.org/abs/2203.05482v1)|null|
 |**2022-03-10**|**Non-generative Generalized Zero-shot Learning via Task-correlated Disentanglement and Controllable Samples Synthesis**|Yaogong Feng et.al.|[2203.05335v1](http://arxiv.org/abs/2203.05335v1)|null|
@@ -1412,6 +1438,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-11**|**The Role of ImageNet Classes in Fréchet Inception Distance**|Tuomas Kynkäänniemi et.al.|[2203.06026v1](http://arxiv.org/abs/2203.06026v1)|null|
+|**2022-03-11**|**FedSyn: Synthetic Data Generation using Federated Learning**|Monik Raj Behera et.al.|[2203.05931v1](http://arxiv.org/abs/2203.05931v1)|null|
+|**2022-03-11**|**Reprogramming FairGANs with Variational Auto-Encoders: A New Transfer Learning Model**|Beatrice Nobile et.al.|[2203.05811v1](http://arxiv.org/abs/2203.05811v1)|null|
+|**2022-03-11**|**Redistribution in Public Project Problems via Neural Networks**|Guanhua Wang et.al.|[2203.05778v1](http://arxiv.org/abs/2203.05778v1)|null|
+|**2022-03-11**|**Learning Distinctive Margin toward Active Domain Adaptation**|Ming Xie et.al.|[2203.05738v1](http://arxiv.org/abs/2203.05738v1)|null|
+|**2022-03-11**|**Mechanism and Model of a Soft Robot for Head Stabilization in Cancer Radiation Therapy**|Olalekan Ogunmolu et.al.|[2203.05708v1](http://arxiv.org/abs/2203.05708v1)|null|
+|**2022-03-10**|**The Lick Observatory Supernova Search follow-up program: photometry data release of 70 stripped-envelope supernovae**|WeiKang Zheng et.al.|[2203.05596v1](http://arxiv.org/abs/2203.05596v1)|null|
 |**2022-03-10**|**Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking**|Boyu Chen et.al.|[2203.05328v1](http://arxiv.org/abs/2203.05328v1)|null|
 |**2022-03-10**|**Electron spectra in double quantum wells of different shapes**|Piotr Garbaczewski et.al.|[2203.05295v1](http://arxiv.org/abs/2203.05295v1)|null|
 |**2022-03-08**|**Sharing Generative Models Instead of Private Data: A Simulation Study on Mammography Patch Classification**|Zuzanna Szafranowska et.al.|[2203.04961v1](http://arxiv.org/abs/2203.04961v1)|null|
