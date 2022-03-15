@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.14
+## Updated on 2022.03.15
 
 ## SLAM
 
@@ -158,7 +158,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-08**|**Data augmentation with mixtures of max-entropy transformations for filling-level classification**|Apostolos Modas et.al.|[2203.04027v1](http://arxiv.org/abs/2203.04027v1)|null|
 |**2022-03-03**|**PetsGAN: Rethinking Priors for Single Image Generation**|Zicheng Zhang et.al.|[2203.01488v1](http://arxiv.org/abs/2203.01488v1)|**[link](https://github.com/zhangzc21/petsgan)**|
-|**2022-02-28**|**Effectiveness of Delivered Information Trade Study**|Matthew Ciolino et.al.|[2203.00116v1](http://arxiv.org/abs/2203.00116v1)|null|
+|**2022-02-28**|**Effectiveness of Delivered Information Trade Study**|Matthew Ciolino et.al.|[2203.00116v2](http://arxiv.org/abs/2203.00116v2)|null|
 |**2022-02-08**|**MaskGIT: Masked Generative Image Transformer**|Huiwen Chang et.al.|[2202.04200v1](http://arxiv.org/abs/2202.04200v1)|null|
 |**2022-02-02**|**Finding Biological Plausibility for Adversarially Robust Features via Metameric Tasks**|Anne Harrington et.al.|[2202.00838v2](http://arxiv.org/abs/2202.00838v2)|**[link](https://github.com/anneharrington/adversarially-robust-periphery)**|
 |**2022-01-31**|**Crowd-powered Face Manipulation Detection: Fusing Human Examiner Decisions**|Christian Rathgeb et.al.|[2201.13084v1](http://arxiv.org/abs/2201.13084v1)|null|
@@ -209,7 +209,7 @@ layout: default
 |**2022-02-28**|**Phase separation and multistability of two-component Bose-Einstein condensate in an optical cavity**|Abid Ali et.al.|[2202.13609v1](http://arxiv.org/abs/2202.13609v1)|null|
 |**2022-02-22**|**SADN: Learned Light Field Image Compression with Spatial-Angular Decorrelation**|Kedeng Tong et.al.|[2202.10837v1](http://arxiv.org/abs/2202.10837v1)|null|
 |**2022-02-22**|**Disentangling Light Fields for Super-Resolution and Disparity Estimation**|Yingqian Wang et.al.|[2202.10603v1](http://arxiv.org/abs/2202.10603v1)|null|
-|**2022-02-13**|**A Local Area Quantum Teleportation Network Based on an Array of Electrically Activated Graphene Waveguide**|Muhammad Asjad et.al.|[2202.06332v2](http://arxiv.org/abs/2202.06332v2)|null|
+|**2022-02-13**|**A Local Area Quantum Teleportation Network Based on an Array of Electrically Activated Graphene Waveguide**|Muhammad Asjad et.al.|[2202.06332v3](http://arxiv.org/abs/2202.06332v3)|null|
 |**2022-02-11**|**Light-pulse atom interferometry with entangled atom-optical elements**|Tobias Aßmann et.al.|[2202.05763v1](http://arxiv.org/abs/2202.05763v1)|null|
 |**2022-02-09**|**Quantum Multicritical Behavior for Coupled Optical Cavities with Driven Laser Fields**|Yutao Hu et.al.|[2202.04389v1](http://arxiv.org/abs/2202.04389v1)|null|
 |**2022-02-07**|**Quantum States of a Two-Level Atom trapped in a Helical Optical Tube**|V. E. Lembessis et.al.|[2202.03042v1](http://arxiv.org/abs/2202.03042v1)|null|
@@ -271,7 +271,7 @@ layout: default
 |**2022-03-10**|**MVP: Multimodality-guided Visual Pre-training**|Longhui Wei et.al.|[2203.05175v1](http://arxiv.org/abs/2203.05175v1)|null|
 |**2022-03-09**|**On the surprising tradeoff between ImageNet accuracy and perceptual similarity**|Manoj Kumar et.al.|[2203.04946v1](http://arxiv.org/abs/2203.04946v1)|null|
 |**2022-03-09**|**CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers**|Huayao Liu et.al.|[2203.04838v1](http://arxiv.org/abs/2203.04838v1)|**[link](https://github.com/huaaaliu/rgbx_semantic_segmentation)**|
-|**2022-03-09**|**Uni4Eye: Unified 2D and 3D Self-supervised Pre-training via Masked Image Modeling Transformer for Ophthalmic Image Classification**|Zhiyuan Cai et.al.|[2203.04614v1](http://arxiv.org/abs/2203.04614v1)|null|
+|**2022-03-09**|**Uni4Eye: Unified 2D and 3D Self-supervised Pre-training via Masked Image Modeling Transformer for Ophthalmic Image Classification**|Zhiyuan Cai et.al.|[2203.04614v2](http://arxiv.org/abs/2203.04614v2)|null|
 |**2022-03-09**|**CP-ViT: Cascade Vision Transformer Pruning via Progressive Sparsity Prediction**|Zhuoran Song et.al.|[2203.04570v1](http://arxiv.org/abs/2203.04570v1)|null|
 |**2022-03-09**|**ChiTransformer:Towards Reliable Stereo from Cues**|Qing Su et.al.|[2203.04554v1](http://arxiv.org/abs/2203.04554v1)|null|
 |**2022-03-08**|**Semantic Distillation Guided Salient Object Detection**|Bo Xu et.al.|[2203.04076v1](http://arxiv.org/abs/2203.04076v1)|null|
@@ -690,7 +690,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-11**|**Learning Distinctive Margin toward Active Domain Adaptation**|Ming Xie et.al.|[2203.05738v1](http://arxiv.org/abs/2203.05738v1)|null|
-|**2022-03-10**|**Non-generative Generalized Zero-shot Learning via Task-correlated Disentanglement and Controllable Samples Synthesis**|Yaogong Feng et.al.|[2203.05335v1](http://arxiv.org/abs/2203.05335v1)|null|
+|**2022-03-10**|**Non-generative Generalized Zero-shot Learning via Task-correlated Disentanglement and Controllable Samples Synthesis**|Yaogong Feng et.al.|[2203.05335v2](http://arxiv.org/abs/2203.05335v2)|null|
 |**2022-03-10**|**GrainSpace: A Large-scale Dataset for Fine-grained and Domain-adaptive Recognition of Cereal Grains**|Lei Fan et.al.|[2203.05306v1](http://arxiv.org/abs/2203.05306v1)|null|
 |**2022-03-10**|**Back to Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement**|Xiuwei Xu et.al.|[2203.05238v1](http://arxiv.org/abs/2203.05238v1)|**[link](https://github.com/xuxw98/backtoreality)**|
 |**2022-03-09**|**Connecting sufficient conditions for domain adaptation: source-guided uncertainty, relaxed divergences and discrepancy localization**|Sofien Dhouib et.al.|[2203.05076v1](http://arxiv.org/abs/2203.05076v1)|null|
@@ -868,7 +868,7 @@ layout: default
 |**2022-03-10**|**On-the-Fly Test-time Adaptation for Medical Image Segmentation**|Jeya Maria Jose Valanarasu et.al.|[2203.05574v1](http://arxiv.org/abs/2203.05574v1)|**[link](https://github.com/jeya-maria-jose/on-the-fly-adaptation)**|
 |**2022-03-10**|**Transfer of Representations to Video Label Propagation: Implementation Factors Matter**|Daniel McKee et.al.|[2203.05553v1](http://arxiv.org/abs/2203.05553v1)|null|
 |**2022-03-10**|**Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time**|Mitchell Wortsman et.al.|[2203.05482v1](http://arxiv.org/abs/2203.05482v1)|null|
-|**2022-03-10**|**Non-generative Generalized Zero-shot Learning via Task-correlated Disentanglement and Controllable Samples Synthesis**|Yaogong Feng et.al.|[2203.05335v1](http://arxiv.org/abs/2203.05335v1)|null|
+|**2022-03-10**|**Non-generative Generalized Zero-shot Learning via Task-correlated Disentanglement and Controllable Samples Synthesis**|Yaogong Feng et.al.|[2203.05335v2](http://arxiv.org/abs/2203.05335v2)|null|
 |**2022-03-10**|**Towards Open-Set Text Recognition via Label-to-Prototype Learning**|Chang Liu et.al.|[2203.05179v1](http://arxiv.org/abs/2203.05179v1)|**[link](https://github.com/lancercat/osocr)**|
 |**2022-03-10**|**Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding**|Keval Doshi et.al.|[2203.05156v1](http://arxiv.org/abs/2203.05156v1)|null|
 |**2022-03-10**|**An Accurate Unsupervised Method for Joint Entity Alignment and Dangling Entity Detection**|Shengxuan Luo et.al.|[2203.05147v1](http://arxiv.org/abs/2203.05147v1)|null|
