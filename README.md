@@ -1,4 +1,4 @@
-## Updated on 2022.03.15
+## Updated on 2022.03.16
 
 ## Image Generation
 
@@ -321,8 +321,8 @@
 |**2022-03-14**|**All in One: Exploring Unified Video-Language Pre-training**|Alex Jinpeng Wang et.al.|[2203.07303v1](http://arxiv.org/abs/2203.07303v1)|**[link](https://github.com/showlab/all-in-one)**|
 |**2022-03-14**|**Mobile Behavioral Biometrics for Passive Authentication**|Giuseppe Stragapede et.al.|[2203.07300v1](http://arxiv.org/abs/2203.07300v1)|null|
 |**2022-03-14**|**MDMMT-2: Multidomain Multimodal Transformer for Video Retrieval, One More Step Towards Generalization**|Alexander Kunitsyn et.al.|[2203.07086v1](http://arxiv.org/abs/2203.07086v1)|null|
-|**2022-03-14**|**XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding**|Zhangxuan Gu et.al.|[2203.06947v1](http://arxiv.org/abs/2203.06947v1)|null|
-|**2022-03-14**|**A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances**|Yan Wang et.al.|[2203.06935v1](http://arxiv.org/abs/2203.06935v1)|null|
+|**2022-03-14**|**XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding**|Zhangxuan Gu et.al.|[2203.06947v2](http://arxiv.org/abs/2203.06947v2)|null|
+|**2022-03-14**|**A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances**|Yan Wang et.al.|[2203.06935v2](http://arxiv.org/abs/2203.06935v2)|null|
 |**2022-03-14**|**DS3-Net: Difficulty-perceived Common-to-T1ce Semi-Supervised Multimodal MRI Synthesis Network**|Ziqi Huang et.al.|[2203.06920v1](http://arxiv.org/abs/2203.06920v1)|null|
 |**2022-03-14**|**Grounding Commands for Autonomous Vehicles via Layer Fusion with Region-specific Dynamic Layer Attention**|Hou Pong Chan et.al.|[2203.06822v1](http://arxiv.org/abs/2203.06822v1)|null|
 |**2022-03-12**|**Hybridized Frequency Combs in Multimode Cavity Electromechanical System**|Sishi Wu et.al.|[2203.06536v1](http://arxiv.org/abs/2203.06536v1)|null|
@@ -570,7 +570,7 @@
 |**2022-03-11**|**Learning Distinctive Margin toward Active Domain Adaptation**|Ming Xie et.al.|[2203.05738v1](http://arxiv.org/abs/2203.05738v1)|null|
 |**2022-03-10**|**Non-generative Generalized Zero-shot Learning via Task-correlated Disentanglement and Controllable Samples Synthesis**|Yaogong Feng et.al.|[2203.05335v2](http://arxiv.org/abs/2203.05335v2)|null|
 |**2022-03-10**|**GrainSpace: A Large-scale Dataset for Fine-grained and Domain-adaptive Recognition of Cereal Grains**|Lei Fan et.al.|[2203.05306v1](http://arxiv.org/abs/2203.05306v1)|null|
-|**2022-03-10**|**Back to Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement**|Xiuwei Xu et.al.|[2203.05238v1](http://arxiv.org/abs/2203.05238v1)|**[link](https://github.com/xuxw98/backtoreality)**|
+|**2022-03-10**|**Back to Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement**|Xiuwei Xu et.al.|[2203.05238v2](http://arxiv.org/abs/2203.05238v2)|**[link](https://github.com/xuxw98/backtoreality)**|
 |**2022-03-09**|**Connecting sufficient conditions for domain adaptation: source-guided uncertainty, relaxed divergences and discrepancy localization**|Sofien Dhouib et.al.|[2203.05076v1](http://arxiv.org/abs/2203.05076v1)|null|
 |**2022-03-09**|**Dynamic Instance Domain Adaptation**|Zhongying Deng et.al.|[2203.05028v1](http://arxiv.org/abs/2203.05028v1)|null|
 |**2022-03-09**|**Unsupervised Domain Adaptation across FMCW Radar Configurations Using Margin Disparity Discrepancy**|Rodrigo Hernangomez et.al.|[2203.04588v1](http://arxiv.org/abs/2203.04588v1)|null|
@@ -742,12 +742,12 @@
 |**2022-03-14**|**Cross-View-Prediction: Exploring Contrastive Feature for Hyperspectral Image Classification**|Haotian Wu et.al.|[2203.07000v1](http://arxiv.org/abs/2203.07000v1)|null|
 |**2022-03-14**|**Forward Compatible Few-Shot Class-Incremental Learning**|Da-Wei Zhou et.al.|[2203.06953v1](http://arxiv.org/abs/2203.06953v1)|**[link](https://github.com/zhoudw-zdw/cvpr22-fact)**|
 |**2022-03-14**|**Hyperlink-induced Pre-training for Passage Retrieval in Open-domain Question Answering**|Jiawei Zhou et.al.|[2203.06942v1](http://arxiv.org/abs/2203.06942v1)|null|
-|**2022-03-14**|**A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances**|Yan Wang et.al.|[2203.06935v1](http://arxiv.org/abs/2203.06935v1)|null|
-|**2022-03-14**|**Less is More: Proxy Datasets in NAS approaches**|Brian Moser et.al.|[2203.06905v1](http://arxiv.org/abs/2203.06905v1)|null|
+|**2022-03-14**|**A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances**|Yan Wang et.al.|[2203.06935v2](http://arxiv.org/abs/2203.06935v2)|null|
+|**2022-03-14**|**Less is More: Proxy Datasets in NAS approaches**|Brian Moser et.al.|[2203.06905v1](http://arxiv.org/abs/2203.06905v1)|**[link](https://github.com/anonxyz123/fgk62af5)**|
 |**2022-03-14**|**Deep Continuous Prompt for Contrastive Learning of Sentence Embeddings**|Yuxin Jiang et.al.|[2203.06875v1](http://arxiv.org/abs/2203.06875v1)|**[link](https://github.com/yjiangcm/dcpcse)**|
 |**2022-03-14**|**Efficient Language Modeling with Sparse all-MLP**|Ping Yu et.al.|[2203.06850v1](http://arxiv.org/abs/2203.06850v1)|null|
 |**2022-03-14**|**Bures Joint Distribution Alignment with Dynamic Margin for Unsupervised Domain Adaptation**|Yong-Hui Liu et.al.|[2203.06836v1](http://arxiv.org/abs/2203.06836v1)|null|
-|**2022-03-13**|**Masked Autoencoders for Point Cloud Self-supervised Learning**|Yatian Pang et.al.|[2203.06604v1](http://arxiv.org/abs/2203.06604v1)|null|
+|**2022-03-13**|**Masked Autoencoders for Point Cloud Self-supervised Learning**|Yatian Pang et.al.|[2203.06604v1](http://arxiv.org/abs/2203.06604v1)|**[link](https://github.com/Pang-Yatian/Point-MAE)**|
 |**2022-03-13**|**Informative Causality Extraction from Medical Literature via Dependency-tree based Patterns**|Md. Ahsanul Kabir et.al.|[2203.06592v1](http://arxiv.org/abs/2203.06592v1)|null|
 |**2022-03-13**|**Worst Case Matters for Few-Shot Recognition**|Minghao Fu et.al.|[2203.06574v1](http://arxiv.org/abs/2203.06574v1)|null|
 |**2022-03-13**|**Change Detection from Synthetic Aperture Radar Images via Dual Path Denoising Network**|Junjie Wang et.al.|[2203.06543v1](http://arxiv.org/abs/2203.06543v1)|null|
