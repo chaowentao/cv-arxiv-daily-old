@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.16
+## Updated on 2022.03.17
 
 ## SLAM
 
@@ -198,7 +198,7 @@ layout: default
 |**2022-03-14**|**Floquet Engineering of Non-Equilibrium Superradiance**|Lukas Broers et.al.|[2203.07434v1](http://arxiv.org/abs/2203.07434v1)|null|
 |**2022-03-14**|**NeILF: Neural Incident Light Field for Physically-based Material Estimation**|Yao Yao et.al.|[2203.07182v1](http://arxiv.org/abs/2203.07182v1)|null|
 |**2022-03-12**|**Acousto-optic holography for micrometer-scale grid patterning of amplified laser pulses with single-pulse accuracy**|Walther Akemann et.al.|[2203.06411v1](http://arxiv.org/abs/2203.06411v1)|null|
-|**2022-03-10**|**Floquet engineering of optical nonlinearities: a quantum many-body approach**|Nathan Goldman et.al.|[2203.05554v1](http://arxiv.org/abs/2203.05554v1)|null|
+|**2022-03-10**|**Floquet engineering of optical nonlinearities: a quantum many-body approach**|Nathan Goldman et.al.|[2203.05554v2](http://arxiv.org/abs/2203.05554v2)|null|
 |**2022-03-10**|**Customized anti-reflection structure for perfect transmission through complex media**|Michael Horodynski et.al.|[2203.05429v1](http://arxiv.org/abs/2203.05429v1)|null|
 |**2022-03-10**|**Transfer and evolution of structured polarization in a double-V atomic system**|Zhenzhu Li et.al.|[2203.05188v1](http://arxiv.org/abs/2203.05188v1)|null|
 |**2022-03-09**|**Cooperative subwavelength molecular quantum emitter arrays**|Raphael Holzinger et.al.|[2203.04998v1](http://arxiv.org/abs/2203.04998v1)|null|
@@ -268,7 +268,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-15**|**Smoothing Matters: Momentum Transformer for Domain Adaptive Semantic Segmentation**|Runfa Chen et.al.|[2203.07988v1](http://arxiv.org/abs/2203.07988v1)|null|
 |**2022-03-15**|**Fast Autofocusing using Tiny Networks for Digital Holographic Microscopy**|Stéphane Cuenat et.al.|[2203.07772v1](http://arxiv.org/abs/2203.07772v1)|null|
-|**2022-03-15**|**Rich CNN-Transformer Feature Aggregation Networks for Super-Resolution**|Jinsu Yoo et.al.|[2203.07682v1](http://arxiv.org/abs/2203.07682v1)|null|
+|**2022-03-15**|**Rich CNN-Transformer Feature Aggregation Networks for Super-Resolution**|Jinsu Yoo et.al.|[2203.07682v2](http://arxiv.org/abs/2203.07682v2)|null|
 |**2022-03-14**|**EIT: Efficiently Lead Inductive Biases to ViT**|Rui Xia et.al.|[2203.07116v1](http://arxiv.org/abs/2203.07116v1)|null|
 |**2022-03-14**|**Self-Promoted Supervision for Few-Shot Transformer**|Bowen Dong et.al.|[2203.07057v1](http://arxiv.org/abs/2203.07057v1)|**[link](https://github.com/dongsky/few-shot-vit)**|
 |**2022-03-14**|**Active Learning by Feature Mixing**|Amin Parvaneh et.al.|[2203.07034v1](http://arxiv.org/abs/2203.07034v1)|**[link](https://github.com/aminparvaneh/alpha_mix_active_learning)**|
@@ -482,7 +482,7 @@ layout: default
 |**2022-03-14**|**Contrastive Visual Semantic Pretraining Magnifies the Semantics of Natural Language Representations**|Robert Wolfe et.al.|[2203.07511v1](http://arxiv.org/abs/2203.07511v1)|null|
 |**2022-03-14**|**Audiovisual Affect Assessment and Autonomous Automobiles: Applications**|Björn W. Schuller et.al.|[2203.07482v1](http://arxiv.org/abs/2203.07482v1)|null|
 |**2022-03-14**|**Sememe Prediction for BabelNet Synsets using Multilingual and Multimodal Information**|Fanchao Qi et.al.|[2203.07426v1](http://arxiv.org/abs/2203.07426v1)|**[link](https://github.com/thunlp/msgi)**|
-|**2022-03-14**|**Dawn of the transformer era in speech emotion recognition: closing the valence gap**|Johannes Wagner et.al.|[2203.07378v1](http://arxiv.org/abs/2203.07378v1)|**[link](https://github.com/audeering/w2v2-how-to)**|
+|**2022-03-14**|**Dawn of the transformer era in speech emotion recognition: closing the valence gap**|Johannes Wagner et.al.|[2203.07378v2](http://arxiv.org/abs/2203.07378v2)|**[link](https://github.com/audeering/w2v2-how-to)**|
 |**2022-03-14**|**All in One: Exploring Unified Video-Language Pre-training**|Alex Jinpeng Wang et.al.|[2203.07303v1](http://arxiv.org/abs/2203.07303v1)|**[link](https://github.com/showlab/all-in-one)**|
 |**2022-03-14**|**Mobile Behavioral Biometrics for Passive Authentication**|Giuseppe Stragapede et.al.|[2203.07300v1](http://arxiv.org/abs/2203.07300v1)|null|
 |**2022-03-14**|**MDMMT-2: Multidomain Multimodal Transformer for Video Retrieval, One More Step Towards Generalization**|Alexander Kunitsyn et.al.|[2203.07086v1](http://arxiv.org/abs/2203.07086v1)|null|
@@ -901,7 +901,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-15**|**Representation Learning for Resource-Constrained Keyphrase Generation**|Di Wu et.al.|[2203.08118v1](http://arxiv.org/abs/2203.08118v1)|**[link](https://github.com/xiaowu0162/low-resource-kpgen)**|
 |**2022-03-15**|**Understanding chemical reactions via variational autoencoder and atomic representations**|Martin Šípka et.al.|[2203.08097v1](http://arxiv.org/abs/2203.08097v1)|null|
-|**2022-03-15**|**On Hyperbolic Embeddings in 2D Object Detection**|Christopher Lang et.al.|[2203.08049v1](http://arxiv.org/abs/2203.08049v1)|null|
+|**2022-03-15**|**On Hyperbolic Embeddings in 2D Object Detection**|Christopher Lang et.al.|[2203.08049v2](http://arxiv.org/abs/2203.08049v2)|null|
 |**2022-03-15**|**End-to-End Modeling via Information Tree for One-Shot Natural Language Spatial Video Grounding**|Mengze Li et.al.|[2203.08013v1](http://arxiv.org/abs/2203.08013v1)|null|
 |**2022-03-15**|**Unsupervised Extractive Opinion Summarization Using Sparse Coding**|Somnath Basu Roy Chowdhury et.al.|[2203.07921v1](http://arxiv.org/abs/2203.07921v1)|**[link](https://github.com/brcsomnath/semae)**|
 |**2022-03-15**|**SPA-VAE: Similar-Parts-Assignment for Unsupervised 3D Point Cloud Generation**|Shidi Li et.al.|[2203.07825v1](http://arxiv.org/abs/2203.07825v1)|null|
@@ -1649,7 +1649,7 @@ layout: default
 |**2022-02-10**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263v1](http://arxiv.org/abs/2202.05263v1)|null|
 |**2022-02-01**|**CLA-NeRF: Category-Level Articulated Neural Radiance Field**|Wei-Cheng Tseng et.al.|[2202.00181v3](http://arxiv.org/abs/2202.00181v3)|null|
 |**2022-01-28**|**From data to functa: Your data point is a function and you should treat it like one**|Emilien Dupont et.al.|[2201.12204v1](http://arxiv.org/abs/2201.12204v1)|null|
-|**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v3](http://arxiv.org/abs/2201.08845v3)|**[link](https://github.com/Xharlie/pointnerf)**|
+|**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v4](http://arxiv.org/abs/2201.08845v4)|**[link](https://github.com/Xharlie/pointnerf)**|
 |**2022-01-19**|**Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation**|Xian Liu et.al.|[2201.07786v1](http://arxiv.org/abs/2201.07786v1)|null|
 |**2021-12-31**|**InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering**|Mijeong Kim et.al.|[2112.15399v1](http://arxiv.org/abs/2112.15399v1)|null|
 |**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|**[link](https://github.com/fnzhan/mise)**|
@@ -2014,7 +2014,7 @@ layout: default
 |**2022-03-08**|**Gait Recognition with Mask-based Regularization**|Chuanfu Shen et.al.|[2203.04038v1](http://arxiv.org/abs/2203.04038v1)|null|
 |**2022-03-08**|**GaitEdge: Beyond Plain End-to-end Gait Recognition for Better Practicality**|Junhao Liang et.al.|[2203.03972v1](http://arxiv.org/abs/2203.03972v1)|null|
 |**2022-03-08**|**GaitStrip: Gait Recognition via Effective Strip-based Feature Representations and Multi-Level Framework**|Ming Wang et.al.|[2203.03966v1](http://arxiv.org/abs/2203.03966v1)|null|
-|**2022-03-07**|**Spatio-temporal Gait Feature with Adaptive Distance Alignment**|Xuelong Li et.al.|[2203.03376v1](http://arxiv.org/abs/2203.03376v1)|null|
+|**2022-03-07**|**Spatio-temporal Gait Feature with Adaptive Distance Alignment**|Yifan Chen et.al.|[2203.03376v2](http://arxiv.org/abs/2203.03376v2)|null|
 |**2022-02-22**|**A Two-Branch Neural Network for Gait Recognition**|Likai Wang et.al.|[2202.10645v1](http://arxiv.org/abs/2202.10645v1)|null|
 |**2022-01-13**|**RealGait: Gait Recognition for Person Re-Identification**|Shaoxiong Zhang et.al.|[2201.04806v1](http://arxiv.org/abs/2201.04806v1)|null|
 |**2022-01-10**|**Gait Recognition Based on Deep Learning: A Survey**|Claudio Filipi Gonçalves dos Santos et.al.|[2201.03323v1](http://arxiv.org/abs/2201.03323v1)|null|
