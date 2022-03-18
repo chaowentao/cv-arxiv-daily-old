@@ -1,4 +1,4 @@
-## Updated on 2022.03.17
+## Updated on 2022.03.18
 
 ## Image Generation
 
@@ -117,7 +117,7 @@
 |**2022-03-16**|**EDTER: Edge Detection with Transformer**|Mengyang Pu et.al.|[2203.08566v1](http://arxiv.org/abs/2203.08566v1)|**[link](https://github.com/mengyangpu/edter)**|
 |**2022-03-16**|**Towards Practical Certifiable Patch Defense with Vision Transformer**|Zhaoyu Chen et.al.|[2203.08519v1](http://arxiv.org/abs/2203.08519v1)|null|
 |**2022-03-16**|**The Devil Is in the Details: Window-based Attention for Image Compression**|Renjie Zou et.al.|[2203.08450v1](http://arxiv.org/abs/2203.08450v1)|**[link](https://github.com/googolxx/stf)**|
-|**2022-03-16**|**Open Set Recognition using Vision Transformer with an Additional Detection Head**|Feiyang Cai et.al.|[2203.08441v1](http://arxiv.org/abs/2203.08441v1)|null|
+|**2022-03-16**|**Open Set Recognition using Vision Transformer with an Additional Detection Head**|Feiyang Cai et.al.|[2203.08441v1](http://arxiv.org/abs/2203.08441v1)|**[link](https://github.com/feiyang-cai/osr_vit)**|
 |**2022-03-16**|**WegFormer: Transformers for Weakly Supervised Semantic Segmentation**|Chunmeng Liu et.al.|[2203.08421v1](http://arxiv.org/abs/2203.08421v1)|null|
 |**2022-03-16**|**Patch-Fool: Are Vision Transformers Always Robust Against Adversarial Perturbations?**|Yonggan Fu et.al.|[2203.08392v1](http://arxiv.org/abs/2203.08392v1)|**[link](https://github.com/rice-eic/patch-fool)**|
 |**2022-03-15**|**2-speed network ensemble for efficient classification of incremental land-use/land-cover satellite image chips**|Michael James Horry et.al.|[2203.08267v1](http://arxiv.org/abs/2203.08267v1)|null|
@@ -128,7 +128,7 @@
 |**2022-03-14**|**EIT: Efficiently Lead Inductive Biases to ViT**|Rui Xia et.al.|[2203.07116v1](http://arxiv.org/abs/2203.07116v1)|null|
 |**2022-03-14**|**Self-Promoted Supervision for Few-Shot Transformer**|Bowen Dong et.al.|[2203.07057v1](http://arxiv.org/abs/2203.07057v1)|**[link](https://github.com/dongsky/few-shot-vit)**|
 |**2022-03-14**|**Active Learning by Feature Mixing**|Amin Parvaneh et.al.|[2203.07034v1](http://arxiv.org/abs/2203.07034v1)|**[link](https://github.com/aminparvaneh/alpha_mix_active_learning)**|
-|**2022-03-13**|**Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs**|Xiaohan Ding et.al.|[2203.06717v1](http://arxiv.org/abs/2203.06717v1)|**[link](https://github.com/megvii-research/replknet)**|
+|**2022-03-13**|**Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs**|Xiaohan Ding et.al.|[2203.06717v2](http://arxiv.org/abs/2203.06717v2)|**[link](https://github.com/megvii-research/replknet)**|
 |**2022-03-13**|**PNM: Pixel Null Model for General Image Segmentation**|Han Zhang et.al.|[2203.06677v1](http://arxiv.org/abs/2203.06677v1)|null|
 |**2022-03-08**|**Joint rotational invariance and adversarial training of a dual-stream Transformer yields state of the art Brain-Score for Area V4**|William Berrios et.al.|[2203.06649v1](http://arxiv.org/abs/2203.06649v1)|null|
 |**2022-03-12**|**The Principle of Diversity: Training Stronger Vision Transformers Calls for Reducing All Levels of Redundancy**|Tianlong Chen et.al.|[2203.06345v1](http://arxiv.org/abs/2203.06345v1)|**[link](https://github.com/vita-group/diverse-vit)**|
@@ -765,20 +765,20 @@
 |---|---|---|---|---|
 |**2022-03-16**|**Efficient conditioned face animation using frontally-viewed embedding**|Maxime Oquab et.al.|[2203.08765v1](http://arxiv.org/abs/2203.08765v1)|null|
 |**2022-03-16**|**UnseenNet: Fast Training Detector for Any Unseen Concept**|Asra Aslam et.al.|[2203.08759v1](http://arxiv.org/abs/2203.08759v1)|null|
-|**2022-03-16**|**Graph Flow: Cross-layer Graph Flow Distillation for Dual-Efficient Medical Image Segmentation**|Wenxuan Zou et.al.|[2203.08667v1](http://arxiv.org/abs/2203.08667v1)|null|
+|**2022-03-16**|**Graph Flow: Cross-layer Graph Flow Distillation for Dual-Efficient Medical Image Segmentation**|Wenxuan Zou et.al.|[2203.08667v2](http://arxiv.org/abs/2203.08667v2)|null|
 |**2022-03-16**|**CtlGAN: Few-shot Artistic Portraits Generation with Contrastive Transfer Learning**|Yue Wang et.al.|[2203.08612v1](http://arxiv.org/abs/2203.08612v1)|null|
 |**2022-03-16**|**In-Context Learning for Few-Shot Dialogue State Tracking**|Yushi Hu et.al.|[2203.08568v1](http://arxiv.org/abs/2203.08568v1)|null|
 |**2022-03-16**|**Geographic Adaptation of Pretrained Language Models**|Valentin Hofmann et.al.|[2203.08565v1](http://arxiv.org/abs/2203.08565v1)|null|
-|**2022-03-16**|**LEVEN: A Large-Scale Chinese Legal Event Detection Dataset**|Feng Yao et.al.|[2203.08556v1](http://arxiv.org/abs/2203.08556v1)|null|
+|**2022-03-16**|**LEVEN: A Large-Scale Chinese Legal Event Detection Dataset**|Feng Yao et.al.|[2203.08556v1](http://arxiv.org/abs/2203.08556v1)|**[link](https://github.com/thunlp/leven)**|
 |**2022-03-16**|**Zero-Shot Dependency Parsing with Worst-Case Aware Automated Curriculum Learning**|Miryam de Lhoneux et.al.|[2203.08555v1](http://arxiv.org/abs/2203.08555v1)|**[link](https://github.com/mdelhoneux/machamp-worst_case_acl)**|
 |**2022-03-16**|**Fantastic Style Channels and Where to Find Them: A Submodular Framework for Discovering Diverse Directions in GANs**|Enis Simsar et.al.|[2203.08516v1](http://arxiv.org/abs/2203.08516v1)|null|
 |**2022-03-16**|**Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding**|Haojun Jiang et.al.|[2203.08481v1](http://arxiv.org/abs/2203.08481v1)|**[link](https://github.com/leaplabthu/pseudo-q)**|
-|**2022-03-16**|**KinyaBERT: a Morphology-aware Kinyarwanda Language Model**|Antoine Nzeyimana et.al.|[2203.08459v1](http://arxiv.org/abs/2203.08459v1)|**[link](https://github.com/anzeyimana/kinyabert-acl2022)**|
+|**2022-03-16**|**KinyaBERT: a Morphology-aware Kinyarwanda Language Model**|Antoine Nzeyimana et.al.|[2203.08459v2](http://arxiv.org/abs/2203.08459v2)|**[link](https://github.com/anzeyimana/kinyabert-acl2022)**|
 |**2022-03-16**|**Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration**|Yinhuai Wang et.al.|[2203.08444v1](http://arxiv.org/abs/2203.08444v1)|null|
 |**2022-03-16**|**Attribute Group Editing for Reliable Few-shot Image Generation**|Guanqi Ding et.al.|[2203.08422v1](http://arxiv.org/abs/2203.08422v1)|**[link](https://github.com/unibester/age)**|
 |**2022-03-16**|**Unsupervised Semantic Segmentation by Distilling Feature Correspondences**|Mark Hamilton et.al.|[2203.08414v1](http://arxiv.org/abs/2203.08414v1)|null|
 |**2022-03-16**|**Thinking about GPT-3 In-Context Learning for Biomedical IE? Think Again**|Bernal Jiménez Gutiérrez et.al.|[2203.08410v1](http://arxiv.org/abs/2203.08410v1)|null|
-|**2022-03-16**|**Bridging the Data Gap between Training and Inference for Unsupervised Neural Machine Translation**|Zhiwei He et.al.|[2203.08394v1](http://arxiv.org/abs/2203.08394v1)|**[link](https://github.com/zwhe99/selftraining4unmt)**|
+|**2022-03-16**|**Bridging the Data Gap between Training and Inference for Unsupervised Neural Machine Translation**|Zhiwei He et.al.|[2203.08394v2](http://arxiv.org/abs/2203.08394v2)|**[link](https://github.com/zwhe99/selftraining4unmt)**|
 |**2022-03-16**|**Transforming Sequence Tagging Into A Seq2Seq Task**|Karthik Raman et.al.|[2203.08378v1](http://arxiv.org/abs/2203.08378v1)|null|
 |**2022-03-15**|**ADATIME: A Benchmarking Suite for Domain Adaptation on Time Series Data**|Mohamed Ragab et.al.|[2203.08321v1](http://arxiv.org/abs/2203.08321v1)|**[link](https://github.com/emadeldeen24/adatime)**|
 |**2022-03-15**|**Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction**|Kuan-Hao Huang et.al.|[2203.08308v1](http://arxiv.org/abs/2203.08308v1)|**[link](https://github.com/pluslabnlp/x-gear)**|
