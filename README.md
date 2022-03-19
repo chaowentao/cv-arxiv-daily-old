@@ -1,4 +1,4 @@
-## Updated on 2022.03.18
+## Updated on 2022.03.19
 
 ## Image Generation
 
@@ -115,9 +115,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-03-17**|**Simulation-Driven Training of Vision Transformers Enabling Metal Segmentation in X-Ray Images**|Fuxin Fan et.al.|[2203.09207v1](http://arxiv.org/abs/2203.09207v1)|null|
-|**2022-03-17**|**On Vision Features in Multimodal Machine Translation**|Bei Li et.al.|[2203.09173v1](http://arxiv.org/abs/2203.09173v1)|null|
-|**2022-03-17**|**Are Vision Transformers Robust to Spurious Correlations?**|Soumya Suvra Ghosal et.al.|[2203.09125v1](http://arxiv.org/abs/2203.09125v1)|null|
-|**2022-03-17**|**Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning**|Yangji He et.al.|[2203.09064v1](http://arxiv.org/abs/2203.09064v1)|null|
+|**2022-03-17**|**On Vision Features in Multimodal Machine Translation**|Bei Li et.al.|[2203.09173v1](http://arxiv.org/abs/2203.09173v1)|**[link](https://github.com/libeineu/fairseq_mmt)**|
+|**2022-03-17**|**Are Vision Transformers Robust to Spurious Correlations?**|Soumya Suvra Ghosal et.al.|[2203.09125v1](http://arxiv.org/abs/2203.09125v1)|**[link](https://github.com/deeplearning-wisc/vit-spurious-robustness)**|
+|**2022-03-17**|**Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning**|Yangji He et.al.|[2203.09064v1](http://arxiv.org/abs/2203.09064v1)|**[link](https://github.com/stomachcold/hctransformers)**|
 |**2022-03-16**|**EDTER: Edge Detection with Transformer**|Mengyang Pu et.al.|[2203.08566v1](http://arxiv.org/abs/2203.08566v1)|**[link](https://github.com/mengyangpu/edter)**|
 |**2022-03-16**|**Towards Practical Certifiable Patch Defense with Vision Transformer**|Zhaoyu Chen et.al.|[2203.08519v1](http://arxiv.org/abs/2203.08519v1)|null|
 |**2022-03-16**|**The Devil Is in the Details: Window-based Attention for Image Compression**|Renjie Zou et.al.|[2203.08450v1](http://arxiv.org/abs/2203.08450v1)|**[link](https://github.com/googolxx/stf)**|
@@ -126,7 +126,7 @@
 |**2022-03-16**|**Patch-Fool: Are Vision Transformers Always Robust Against Adversarial Perturbations?**|Yonggan Fu et.al.|[2203.08392v1](http://arxiv.org/abs/2203.08392v1)|**[link](https://github.com/rice-eic/patch-fool)**|
 |**2022-03-15**|**2-speed network ensemble for efficient classification of incremental land-use/land-cover satellite image chips**|Michael James Horry et.al.|[2203.08267v1](http://arxiv.org/abs/2203.08267v1)|null|
 |**2022-03-15**|**Unified Visual Transformer Compression**|Shixing Yu et.al.|[2203.08243v1](http://arxiv.org/abs/2203.08243v1)|**[link](https://github.com/VITA-Group/UVC)**|
-|**2022-03-15**|**Smoothing Matters: Momentum Transformer for Domain Adaptive Semantic Segmentation**|Runfa Chen et.al.|[2203.07988v1](http://arxiv.org/abs/2203.07988v1)|null|
+|**2022-03-15**|**Smoothing Matters: Momentum Transformer for Domain Adaptive Semantic Segmentation**|Runfa Chen et.al.|[2203.07988v1](http://arxiv.org/abs/2203.07988v1)|**[link](https://github.com/alpc91/transda)**|
 |**2022-03-15**|**Fast Autofocusing using Tiny Networks for Digital Holographic Microscopy**|Stéphane Cuenat et.al.|[2203.07772v1](http://arxiv.org/abs/2203.07772v1)|null|
 |**2022-03-15**|**Rich CNN-Transformer Feature Aggregation Networks for Super-Resolution**|Jinsu Yoo et.al.|[2203.07682v2](http://arxiv.org/abs/2203.07682v2)|null|
 |**2022-03-14**|**EIT: Efficiently Lead Inductive Biases to ViT**|Rui Xia et.al.|[2203.07116v1](http://arxiv.org/abs/2203.07116v1)|null|
@@ -343,12 +343,12 @@
 |---|---|---|---|---|
 |**2022-03-17**|**AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation**|Paritosh Mittal et.al.|[2203.09516v1](http://arxiv.org/abs/2203.09516v1)|null|
 |**2022-03-17**|**Low-rank Wasserstein polynomial chaos expansions in the framework of optimal transport**|Robert Gruhlke et.al.|[2203.09358v1](http://arxiv.org/abs/2203.09358v1)|null|
-|**2022-03-17**|**Finding Structural Knowledge in Multimodal-BERT**|Victor Milewski et.al.|[2203.09306v1](http://arxiv.org/abs/2203.09306v1)|null|
+|**2022-03-17**|**Finding Structural Knowledge in Multimodal-BERT**|Victor Milewski et.al.|[2203.09306v1](http://arxiv.org/abs/2203.09306v1)|**[link](https://github.com/vsjmilewski/multimodal-probes)**|
 |**2022-03-17**|**Critical-point phenomena and finite-size scaling in mean-field equal-coupling photonic networks**|Oliver Melchert et.al.|[2203.09216v1](http://arxiv.org/abs/2203.09216v1)|null|
-|**2022-03-17**|**On Vision Features in Multimodal Machine Translation**|Bei Li et.al.|[2203.09173v1](http://arxiv.org/abs/2203.09173v1)|null|
-|**2022-03-17**|**MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering**|Yang Ding et.al.|[2203.09138v1](http://arxiv.org/abs/2203.09138v1)|null|
+|**2022-03-17**|**On Vision Features in Multimodal Machine Translation**|Bei Li et.al.|[2203.09173v1](http://arxiv.org/abs/2203.09173v1)|**[link](https://github.com/libeineu/fairseq_mmt)**|
+|**2022-03-17**|**MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering**|Yang Ding et.al.|[2203.09138v1](http://arxiv.org/abs/2203.09138v1)|**[link](https://github.com/andersonstra/mukea)**|
 |**2022-03-17**|**DeepAD: A Robust Deep Learning Model of Alzheimer's Disease Progression for Real-World Clinical Applications**|Somaye Hashemifar et.al.|[2203.09096v1](http://arxiv.org/abs/2203.09096v1)|null|
-|**2022-03-16**|**Multimodal Learning on Graphs for Disease Relation Extraction**|Yucong Lin et.al.|[2203.08893v1](http://arxiv.org/abs/2203.08893v1)|null|
+|**2022-03-16**|**Multimodal Learning on Graphs for Disease Relation Extraction**|Yucong Lin et.al.|[2203.08893v1](http://arxiv.org/abs/2203.08893v1)|**[link](https://github.com/lukeming-tsinghua/remod)**|
 |**2022-03-16**|**Break the efficiency limitations of dissipative Kerr soliton using nonlinear couplers**|Ming Li et.al.|[2203.08453v1](http://arxiv.org/abs/2203.08453v1)|null|
 |**2022-03-16**|**Spot the Difference: A Cooperative Object-Referring Game in Non-Perfectly Co-Observable Scene**|Duo Zheng et.al.|[2203.08362v1](http://arxiv.org/abs/2203.08362v1)|null|
 |**2022-03-15**|**SocialVAE: Human Trajectory Prediction using Timewise Latents**|Pei Xu et.al.|[2203.08207v1](http://arxiv.org/abs/2203.08207v1)|**[link](https://github.com/xupei0610/socialvae)**|
@@ -597,12 +597,12 @@
 |---|---|---|---|---|
 |**2022-03-17**|**Synthetic-to-Real Domain Adaptation using Contrastive Unpaired Translation**|Benedikt T. Imbusch et.al.|[2203.09454v1](http://arxiv.org/abs/2203.09454v1)|null|
 |**2022-03-17**|**Mutual Learning for Domain Adaptation: Self-distillation Image Dehazing Network with Sample-cycle**|Tian Ye et.al.|[2203.09430v1](http://arxiv.org/abs/2203.09430v1)|null|
-|**2022-03-16**|**Synthetic Question Value Estimation for Domain Adaptation of Question Answering**|Xiang Yue et.al.|[2203.08926v1](http://arxiv.org/abs/2203.08926v1)|null|
+|**2022-03-16**|**Synthetic Question Value Estimation for Domain Adaptation of Question Answering**|Xiang Yue et.al.|[2203.08926v1](http://arxiv.org/abs/2203.08926v1)|**[link](https://github.com/xiangyue9607/qve)**|
 |**2022-03-16**|**Adversarial Support Alignment**|Shangyuan Tong et.al.|[2203.08908v1](http://arxiv.org/abs/2203.08908v1)|null|
 |**2022-03-16**|**Domain Adaptive Hand Keypoint and Pixel Localization in the Wild**|Takehiko Ohkawa et.al.|[2203.08344v1](http://arxiv.org/abs/2203.08344v1)|null|
 |**2022-03-15**|**ADATIME: A Benchmarking Suite for Domain Adaptation on Time Series Data**|Mohamed Ragab et.al.|[2203.08321v1](http://arxiv.org/abs/2203.08321v1)|**[link](https://github.com/emadeldeen24/adatime)**|
 |**2022-03-15**|**Toward Improving Attentive Neural Networks in Legal Text Processing**|Ha-Thanh Nguyen et.al.|[2203.08244v1](http://arxiv.org/abs/2203.08244v1)|null|
-|**2022-03-15**|**Smoothing Matters: Momentum Transformer for Domain Adaptive Semantic Segmentation**|Runfa Chen et.al.|[2203.07988v1](http://arxiv.org/abs/2203.07988v1)|null|
+|**2022-03-15**|**Smoothing Matters: Momentum Transformer for Domain Adaptive Semantic Segmentation**|Runfa Chen et.al.|[2203.07988v1](http://arxiv.org/abs/2203.07988v1)|**[link](https://github.com/alpc91/transda)**|
 |**2022-03-15**|**Training Generative Adversarial Networks for Optical Property Mapping using Synthetic Image Data**|Ahmed Osman et.al.|[2203.07793v1](http://arxiv.org/abs/2203.07793v1)|null|
 |**2022-03-14**|**From Big to Small: Adaptive Learning to Partial-Set Domains**|Zhangjie Cao et.al.|[2203.07375v1](http://arxiv.org/abs/2203.07375v1)|**[link](https://github.com/thuml/Transfer-Learning-Library)**|
 |**2022-03-14**|**CoNTACT: A Dutch COVID-19 Adapted BERT for Vaccine Hesitancy and Argumentation Detection**|Jens Lemmens et.al.|[2203.07362v1](http://arxiv.org/abs/2203.07362v1)|null|
@@ -784,15 +784,15 @@
 |**2022-03-17**|**Deep Unsupervised Hashing with Latent Semantic Components**|Qinghong Lin et.al.|[2203.09420v1](http://arxiv.org/abs/2203.09420v1)|null|
 |**2022-03-17**|**Using the Order of Tomographic Slices as a Prior for Neural Networks Pre-Training**|Yaroslav Zharov et.al.|[2203.09372v1](http://arxiv.org/abs/2203.09372v1)|null|
 |**2022-03-17**|**Low-rank Wasserstein polynomial chaos expansions in the framework of optimal transport**|Robert Gruhlke et.al.|[2203.09358v1](http://arxiv.org/abs/2203.09358v1)|null|
-|**2022-03-17**|**Localizing Visual Sounds the Easy Way**|Shentong Mo et.al.|[2203.09324v1](http://arxiv.org/abs/2203.09324v1)|null|
+|**2022-03-17**|**Localizing Visual Sounds the Easy Way**|Shentong Mo et.al.|[2203.09324v1](http://arxiv.org/abs/2203.09324v1)|**[link](https://github.com/stonemo/ez-vsl)**|
 |**2022-03-17**|**Few-Shot Learning on Graphs: A Survey**|Chuxu Zhang et.al.|[2203.09308v1](http://arxiv.org/abs/2203.09308v1)|null|
-|**2022-03-17**|**One-Shot Adaptation of GAN in Just One CLIP**|Gihyun Kwon et.al.|[2203.09301v1](http://arxiv.org/abs/2203.09301v1)|null|
+|**2022-03-17**|**One-Shot Adaptation of GAN in Just One CLIP**|Gihyun Kwon et.al.|[2203.09301v1](http://arxiv.org/abs/2203.09301v1)|**[link](https://github.com/submission6378/oneshotclip)**|
 |**2022-03-17**|**Knowledge Graph Embedding Methods for Entity Alignment: An Experimental Review**|Nikolaos Fanourakis et.al.|[2203.09280v1](http://arxiv.org/abs/2203.09280v1)|**[link](https://github.com/fanourakis/experimental-review-ea)**|
-|**2022-03-17**|**Mixing Up Contrastive Learning: Self-Supervised Representation Learning for Time Series**|Kristoffer Wickstrøm et.al.|[2203.09270v1](http://arxiv.org/abs/2203.09270v1)|null|
-|**2022-03-17**|**Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning**|Haoxiang Wang et.al.|[2203.09137v1](http://arxiv.org/abs/2203.09137v1)|null|
+|**2022-03-17**|**Mixing Up Contrastive Learning: Self-Supervised Representation Learning for Time Series**|Kristoffer Wickstrøm et.al.|[2203.09270v1](http://arxiv.org/abs/2203.09270v1)|**[link](https://github.com/wickstrom/mixupcontrastivelearning)**|
+|**2022-03-17**|**Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning**|Haoxiang Wang et.al.|[2203.09137v1](http://arxiv.org/abs/2203.09137v1)|**[link](https://github.com/yitewang/metantk-nas)**|
 |**2022-03-17**|**RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction**|Yew Ken Chia et.al.|[2203.09101v1](http://arxiv.org/abs/2203.09101v1)|null|
 |**2022-03-17**|**Semantic-aligned Fusion Transformer for One-shot Object Detection**|Yizhou Zhao et.al.|[2203.09093v1](http://arxiv.org/abs/2203.09093v1)|null|
-|**2022-03-17**|**Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning**|Yangji He et.al.|[2203.09064v1](http://arxiv.org/abs/2203.09064v1)|null|
+|**2022-03-17**|**Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning**|Yangji He et.al.|[2203.09064v1](http://arxiv.org/abs/2203.09064v1)|**[link](https://github.com/stomachcold/hctransformers)**|
 |**2022-03-17**|**Semantic-diversity transfer network for generalized zero-shot learning via inner disagreement based OOD detector**|Bo Liu et.al.|[2203.09017v1](http://arxiv.org/abs/2203.09017v1)|null|
 |**2022-03-16**|**Label Semantics for Few Shot Named Entity Recognition**|Jie Ma et.al.|[2203.08985v1](http://arxiv.org/abs/2203.08985v1)|null|
 |**2022-03-16**|**BPE vs. Morphological Segmentation: A Case Study on Machine Translation of Four Polysynthetic Languages**|Manuel Mager et.al.|[2203.08954v1](http://arxiv.org/abs/2203.08954v1)|null|
@@ -1600,8 +1600,8 @@
 |---|---|---|---|---|
 |**2022-03-16**|**Diffusion Probabilistic Modeling for Video Generation**|Ruihan Yang et.al.|[2203.09481v1](http://arxiv.org/abs/2203.09481v1)|null|
 |**2022-03-17**|**Image Super-Resolution With Deep Variational Autoencoders**|Darius Chira et.al.|[2203.09445v1](http://arxiv.org/abs/2203.09445v1)|null|
-|**2022-03-17**|**One-Shot Adaptation of GAN in Just One CLIP**|Gihyun Kwon et.al.|[2203.09301v1](http://arxiv.org/abs/2203.09301v1)|null|
-|**2022-03-17**|**Details or Artifacts: A Locally Discriminative Learning Approach to Realistic Image Super-Resolution**|Jie Liang et.al.|[2203.09195v1](http://arxiv.org/abs/2203.09195v1)|null|
+|**2022-03-17**|**One-Shot Adaptation of GAN in Just One CLIP**|Gihyun Kwon et.al.|[2203.09301v1](http://arxiv.org/abs/2203.09301v1)|**[link](https://github.com/submission6378/oneshotclip)**|
+|**2022-03-17**|**Details or Artifacts: A Locally Discriminative Learning Approach to Realistic Image Super-Resolution**|Jie Liang et.al.|[2203.09195v1](http://arxiv.org/abs/2203.09195v1)|**[link](https://github.com/csjliang/ldl)**|
 |**2022-03-16**|**Experiments on the Electrostatic Transport of Charged Anorthite Particles under Electron Beam Irradiation**|Hong Gan et.al.|[2203.08817v1](http://arxiv.org/abs/2203.08817v1)|null|
 |**2022-03-16**|**MIMO-GAN: Generative MIMO Channel Modeling**|Tribhuvanesh Orekondy et.al.|[2203.08588v1](http://arxiv.org/abs/2203.08588v1)|null|
 |**2022-03-16**|**Fantastic Style Channels and Where to Find Them: A Submodular Framework for Discovering Diverse Directions in GANs**|Enis Simsar et.al.|[2203.08516v1](http://arxiv.org/abs/2203.08516v1)|null|
