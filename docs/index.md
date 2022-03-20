@@ -1759,7 +1759,7 @@ layout: default
 |**2022-03-16**|**Fantastic Style Channels and Where to Find Them: A Submodular Framework for Discovering Diverse Directions in GANs**|Enis Simsar et.al.|[2203.08516v1](http://arxiv.org/abs/2203.08516v1)|null|
 |**2022-03-16**|**PPCD-GAN: Progressive Pruning and Class-Aware Distillation for Large-Scale Conditional GANs Compression**|Duc Minh Vo et.al.|[2203.08456v1](http://arxiv.org/abs/2203.08456v1)|null|
 |**2022-03-16**|**Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration**|Yinhuai Wang et.al.|[2203.08444v1](http://arxiv.org/abs/2203.08444v1)|null|
-|**2022-03-16**|**Attribute Group Editing for Reliable Few-shot Image Generation**|Guanqi Ding et.al.|[2203.08422v1](http://arxiv.org/abs/2203.08422v1)|**[link](https://github.com/unibester/age)**|
+|**2022-03-16**|**Attribute Group Editing for Reliable Few-shot Image Generation**|Guanqi Ding et.al.|[2203.08422v1](http://arxiv.org/abs/2203.08422v1)|null|
 |**2022-03-15**|**Driving Anomaly Detection Using Conditional Generative Adversarial Network**|Yuning Qiu et.al.|[2203.08289v1](http://arxiv.org/abs/2203.08289v1)|null|
 |**2022-03-15**|**Shallow Transits - Deep Learning II: Identify Individual Exoplanetary Transits in Red Noise using Deep Learning**|Elad Dvash et.al.|[2203.08017v1](http://arxiv.org/abs/2203.08017v1)|null|
 |**2022-03-15**|**Edge-based Local Push for Personalized PageRank**|Hanzhi Wang et.al.|[2203.07937v1](http://arxiv.org/abs/2203.07937v1)|null|
