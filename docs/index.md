@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.21
+## Updated on 2022.03.22
 
 ## SLAM
 
@@ -282,7 +282,7 @@ layout: default
 |**2022-03-15**|**2-speed network ensemble for efficient classification of incremental land-use/land-cover satellite image chips**|Michael James Horry et.al.|[2203.08267v1](http://arxiv.org/abs/2203.08267v1)|null|
 |**2022-03-15**|**Unified Visual Transformer Compression**|Shixing Yu et.al.|[2203.08243v1](http://arxiv.org/abs/2203.08243v1)|**[link](https://github.com/VITA-Group/UVC)**|
 |**2022-03-15**|**Smoothing Matters: Momentum Transformer for Domain Adaptive Semantic Segmentation**|Runfa Chen et.al.|[2203.07988v1](http://arxiv.org/abs/2203.07988v1)|**[link](https://github.com/alpc91/transda)**|
-|**2022-03-15**|**Fast Autofocusing using Tiny Networks for Digital Holographic Microscopy**|Stéphane Cuenat et.al.|[2203.07772v1](http://arxiv.org/abs/2203.07772v1)|null|
+|**2022-03-15**|**Fast Autofocusing using Tiny Networks for Digital Holographic Microscopy**|Stéphane Cuenat et.al.|[2203.07772v2](http://arxiv.org/abs/2203.07772v2)|null|
 |**2022-03-15**|**Rich CNN-Transformer Feature Aggregation Networks for Super-Resolution**|Jinsu Yoo et.al.|[2203.07682v2](http://arxiv.org/abs/2203.07682v2)|null|
 |**2022-03-14**|**EIT: Efficiently Lead Inductive Biases to ViT**|Rui Xia et.al.|[2203.07116v1](http://arxiv.org/abs/2203.07116v1)|null|
 |**2022-03-14**|**Self-Promoted Supervision for Few-Shot Transformer**|Bowen Dong et.al.|[2203.07057v1](http://arxiv.org/abs/2203.07057v1)|**[link](https://github.com/dongsky/few-shot-vit)**|
@@ -505,7 +505,7 @@ layout: default
 |**2022-03-17**|**Critical-point phenomena and finite-size scaling in mean-field equal-coupling photonic networks**|Oliver Melchert et.al.|[2203.09216v1](http://arxiv.org/abs/2203.09216v1)|null|
 |**2022-03-17**|**On Vision Features in Multimodal Machine Translation**|Bei Li et.al.|[2203.09173v1](http://arxiv.org/abs/2203.09173v1)|**[link](https://github.com/libeineu/fairseq_mmt)**|
 |**2022-03-17**|**MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering**|Yang Ding et.al.|[2203.09138v1](http://arxiv.org/abs/2203.09138v1)|**[link](https://github.com/andersonstra/mukea)**|
-|**2022-03-17**|**DeepAD: A Robust Deep Learning Model of Alzheimer's Disease Progression for Real-World Clinical Applications**|Somaye Hashemifar et.al.|[2203.09096v1](http://arxiv.org/abs/2203.09096v1)|null|
+|**2022-03-17**|**DeepAD: A Robust Deep Learning Model of Alzheimer's Disease Progression for Real-World Clinical Applications**|Claudia Iriondo et.al.|[2203.09096v2](http://arxiv.org/abs/2203.09096v2)|null|
 |**2022-03-16**|**Multimodal Learning on Graphs for Disease Relation Extraction**|Yucong Lin et.al.|[2203.08893v1](http://arxiv.org/abs/2203.08893v1)|**[link](https://github.com/lukeming-tsinghua/remod)**|
 |**2022-03-16**|**Break the efficiency limitations of dissipative Kerr soliton using nonlinear couplers**|Ming Li et.al.|[2203.08453v1](http://arxiv.org/abs/2203.08453v1)|null|
 |**2022-03-16**|**Spot the Difference: A Cooperative Object-Referring Game in Non-Perfectly Co-Observable Scene**|Duo Zheng et.al.|[2203.08362v1](http://arxiv.org/abs/2203.08362v1)|null|
@@ -1748,7 +1748,7 @@ layout: default
 |**2022-02-10**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263v1](http://arxiv.org/abs/2202.05263v1)|null|
 |**2022-02-01**|**CLA-NeRF: Category-Level Articulated Neural Radiance Field**|Wei-Cheng Tseng et.al.|[2202.00181v3](http://arxiv.org/abs/2202.00181v3)|null|
 |**2022-01-28**|**From data to functa: Your data point is a function and you should treat it like one**|Emilien Dupont et.al.|[2201.12204v1](http://arxiv.org/abs/2201.12204v1)|null|
-|**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v4](http://arxiv.org/abs/2201.08845v4)|**[link](https://github.com/Xharlie/pointnerf)**|
+|**2022-01-21**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v5](http://arxiv.org/abs/2201.08845v5)|**[link](https://github.com/Xharlie/pointnerf)**|
 |**2022-01-19**|**Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation**|Xian Liu et.al.|[2201.07786v1](http://arxiv.org/abs/2201.07786v1)|null|
 |**2021-12-31**|**InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering**|Mijeong Kim et.al.|[2112.15399v1](http://arxiv.org/abs/2112.15399v1)|null|
 |**2021-12-27**|**Multimodal Image Synthesis and Editing: A Survey**|Fangneng Zhan et.al.|[2112.13592v1](http://arxiv.org/abs/2112.13592v1)|**[link](https://github.com/fnzhan/mise)**|
