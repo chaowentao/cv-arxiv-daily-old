@@ -1,4 +1,4 @@
-## Updated on 2022.03.23
+## Updated on 2022.03.24
 
 ## Image Generation
 
@@ -849,7 +849,7 @@
 |**2022-03-21**|**Generating Fast and Slow: Scene Decomposition via Reconstruction**|Mihir Prabhudesai et.al.|[2203.11194v1](http://arxiv.org/abs/2203.11194v1)|null|
 |**2022-03-21**|**One After Another: Learning Incremental Skills for a Changing World**|Nur Muhammad Shafiullah et.al.|[2203.11176v1](http://arxiv.org/abs/2203.11176v1)|**[link](https://github.com/notmahi/disk)**|
 |**2022-03-21**|**Drive&Segment: Unsupervised Semantic Segmentation of Urban Scenes via Cross-modal Distillation**|Antonin Vobecky et.al.|[2203.11160v1](http://arxiv.org/abs/2203.11160v1)|**[link](https://github.com/vobecant/DriveAndSegment)**|
-|**2022-03-21**|**CLIP meets GamePhysics: Towards bug identification in gameplay videos using zero-shot transfer learning**|Mohammad Reza Taesiri et.al.|[2203.11096v1](http://arxiv.org/abs/2203.11096v1)|null|
+|**2022-03-21**|**CLIP meets GamePhysics: Towards bug identification in gameplay videos using zero-shot transfer learning**|Mohammad Reza Taesiri et.al.|[2203.11096v2](http://arxiv.org/abs/2203.11096v2)|null|
 |**2022-03-21**|**Dense Siamese Network**|Wenwei Zhang et.al.|[2203.11075v1](http://arxiv.org/abs/2203.11075v1)|null|
 |**2022-03-21**|**Voltage-Dependent Synaptic Plasticity (VDSP): Unsupervised probabilistic Hebbian plasticity rule based on neurons membrane potential**|Nikhil Garg et.al.|[2203.11022v1](http://arxiv.org/abs/2203.11022v1)|null|
 |**2022-03-21**|**Spoofing-Aware Speaker Verification with Unsupervised Domain Adaptation**|Xuechen Liu et.al.|[2203.10992v1](http://arxiv.org/abs/2203.10992v1)|null|
