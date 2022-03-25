@@ -379,7 +379,7 @@
 |**2022-03-24**|**Unifying cubical and multimodal type theory**|Frederik Lerbjerg Aagaard et.al.|[2203.13000v1](http://arxiv.org/abs/2203.13000v1)|null|
 |**2022-03-23**|**Affective Feedback Synthesis Towards Multimodal Text and Image Data**|Puneet Kumar et.al.|[2203.12692v1](http://arxiv.org/abs/2203.12692v1)|**[link](https://github.com/mintelligence-group/mmfeed)**|
 |**2022-03-23**|**CroMo: Cross-Modal Learning for Monocular Depth Estimation**|Yannick Verdié et.al.|[2203.12485v1](http://arxiv.org/abs/2203.12485v1)|null|
-|**2022-03-23**|**M-SENA: An Integrated Platform for Multimodal Sentiment Analysis**|Huisheng Mao et.al.|[2203.12441v1](http://arxiv.org/abs/2203.12441v1)|**[link](https://github.com/thuiar/M-SENA)**|
+|**2022-03-23**|**M-SENA: An Integrated Platform for Multimodal Sentiment Analysis**|Huisheng Mao et.al.|[2203.12441v1](http://arxiv.org/abs/2203.12441v1)|**[link](https://github.com/thuiar/mmsa-fet)**|
 |**2022-03-23**|**Transformer-based Multimodal Information Fusion for Facial Expression Analysis**|Wei Zhang et.al.|[2203.12367v1](http://arxiv.org/abs/2203.12367v1)|null|
 |**2022-03-22**|**Temporal trapping of ultrashort pulses enables deterministic optical quantum computation**|Ryotatsu Yanagimoto et.al.|[2203.11909v1](http://arxiv.org/abs/2203.11909v1)|null|
 |**2022-03-22**|**Visuo-Haptic Object Perception for Robots: An Overview**|Nicolás Navarro-Guerrero et.al.|[2203.11544v1](http://arxiv.org/abs/2203.11544v1)|null|
