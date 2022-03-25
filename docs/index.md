@@ -156,6 +156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-24**|**Semantic Image Manipulation with Background-guided Internal Learning**|Zhongping Zhang et.al.|[2203.12849v1](http://arxiv.org/abs/2203.12849v1)|null|
 |**2022-03-21**|**High-fidelity GAN Inversion with Padding Space**|Qingyan Bai et.al.|[2203.11105v1](http://arxiv.org/abs/2203.11105v1)|**[link](https://github.com/ezioby/padinv)**|
 |**2022-03-19**|**Volkit: A Performance-Portable Computer Vision Library for 3D Volumetric Data**|Stefan Zellmann et.al.|[2203.10213v1](http://arxiv.org/abs/2203.10213v1)|null|
 |**2022-03-15**|**SISL:Self-Supervised Image Signature Learning for Splicing Detection and Localization**|Susmit Agrawal et.al.|[2203.07824v1](http://arxiv.org/abs/2203.07824v1)|null|
@@ -270,6 +271,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-24**|**Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization**|Francesco Pelosin et.al.|[2203.13167v1](http://arxiv.org/abs/2203.13167v1)|null|
+|**2022-03-24**|**Transformer Compressed Sensing via Global Image Tokens**|Marlon Bran Lorenzana et.al.|[2203.12861v1](http://arxiv.org/abs/2203.12861v1)|**[link](https://github.com/uqmarlonbran/tcs)**|
+|**2022-03-24**|**Beyond Fixation: Dynamic Window Visual Transformer**|Pengzhen Ren et.al.|[2203.12856v1](http://arxiv.org/abs/2203.12856v1)|**[link](https://github.com/pzhren/dw-vit)**|
+|**2022-03-24**|**ViT-FOD: A Vision Transformer based Fine-grained Object Discriminator**|Zi-Chao Zhang et.al.|[2203.12816v1](http://arxiv.org/abs/2203.12816v1)|null|
+|**2022-03-23**|**What to Hide from Your Students: Attention-Guided Masked Image Modeling**|Ioannis Kakogeorgiou et.al.|[2203.12719v1](http://arxiv.org/abs/2203.12719v1)|null|
 |**2022-03-23**|**Training-free Transformer Architecture Search**|Qinqin Zhou et.al.|[2203.12217v1](http://arxiv.org/abs/2203.12217v1)|null|
 |**2022-03-23**|**Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing**|Hsin-Ping Huang et.al.|[2203.12175v1](http://arxiv.org/abs/2203.12175v1)|null|
 |**2022-03-22**|**Self-supervision through Random Segments with Autoregressive Coding (RandSAC)**|Tianyu Hua et.al.|[2203.12054v1](http://arxiv.org/abs/2203.12054v1)|null|
@@ -463,6 +469,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-23**|**UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**|Ye Liu et.al.|[2203.12745v1](http://arxiv.org/abs/2203.12745v1)|null|
 |**2022-03-22**|**Ray3D: ray-based 3D human pose estimation for monocular absolute 3D localization**|Yu Zhan et.al.|[2203.11471v1](http://arxiv.org/abs/2203.11471v1)|**[link](https://github.com/YxZhxn/Ray3D)**|
 |**2022-03-20**|**3D Human Pose Estimation Using Möbius Graph Convolutional Networks**|Niloofar Azizi et.al.|[2203.10554v1](http://arxiv.org/abs/2203.10554v1)|null|
 |**2022-03-17**|**MatchFormer: Interleaving Attention in Transformers for Feature Matching**|Qing Wang et.al.|[2203.09645v2](http://arxiv.org/abs/2203.09645v2)|**[link](https://github.com/jamycheung/matchformer)**|
@@ -519,6 +526,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-24**|**Egocentric Prediction of Action Target in 3D**|Yiming Li et.al.|[2203.13116v1](http://arxiv.org/abs/2203.13116v1)|null|
+|**2022-03-24**|**Continuous Emotion Recognition using Visual-audio-linguistic information: A Technical Report for ABAW3**|Su Zhang et.al.|[2203.13031v1](http://arxiv.org/abs/2203.13031v1)|null|
+|**2022-03-24**|**Unifying cubical and multimodal type theory**|Frederik Lerbjerg Aagaard et.al.|[2203.13000v1](http://arxiv.org/abs/2203.13000v1)|null|
+|**2022-03-23**|**Affective Feedback Synthesis Towards Multimodal Text and Image Data**|Puneet Kumar et.al.|[2203.12692v1](http://arxiv.org/abs/2203.12692v1)|**[link](https://github.com/mintelligence-group/mmfeed)**|
 |**2022-03-23**|**CroMo: Cross-Modal Learning for Monocular Depth Estimation**|Yannick Verdié et.al.|[2203.12485v1](http://arxiv.org/abs/2203.12485v1)|null|
 |**2022-03-23**|**M-SENA: An Integrated Platform for Multimodal Sentiment Analysis**|Huisheng Mao et.al.|[2203.12441v1](http://arxiv.org/abs/2203.12441v1)|**[link](https://github.com/thuiar/M-SENA)**|
 |**2022-03-23**|**Transformer-based Multimodal Information Fusion for Facial Expression Analysis**|Wei Zhang et.al.|[2203.12367v1](http://arxiv.org/abs/2203.12367v1)|null|
@@ -791,7 +802,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-03-20**|**Deep Learning based Intelligent Coin-tap Test for Defect Recognition**|Hongyu Li et.al.|[2203.12594v1](http://arxiv.org/abs/2203.12594v1)|null|
+|**2022-03-23**|**Towards All-Purpose Domain Adaptation Under Confounding**|Calvin McCarter et.al.|[2203.12720v1](http://arxiv.org/abs/2203.12720v1)|null|
+|**2022-03-20**|**Deep Learning based Intelligent Coin-tap Test for Defect Recognition**|Hongyu Li et.al.|[2203.12594v1](http://arxiv.org/abs/2203.12594v1)|**[link](https://github.com/pphub-hy/torch-tapnet)**|
 |**2022-03-23**|**MT-UDA: Towards Unsupervised Cross-modality Medical Image Segmentation with Limited Source Labels**|Ziyuan Zhao et.al.|[2203.12454v1](http://arxiv.org/abs/2203.12454v1)|**[link](https://github.com/jacobzhaoziyuan/MT-UDA)**|
 |**2022-03-22**|**A Broad Study of Pre-training for Domain Generalization and Adaptation**|Donghyun Kim et.al.|[2203.11819v1](http://arxiv.org/abs/2203.11819v1)|null|
 |**2022-03-20**|**Explainable Misinformation Detection Across Multiple Social Media Platforms**|Rahee Walambe et.al.|[2203.11724v1](http://arxiv.org/abs/2203.11724v1)|null|
@@ -991,6 +1003,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-24**|**A Representation Separation Perspective to Correspondences-free Unsupervised 3D Point Cloud Registration**|Zhiyuan Zhang et.al.|[2203.13239v1](http://arxiv.org/abs/2203.13239v1)|null|
+|**2022-03-24**|**On the Kullback-Leibler divergence between pairwise isotropic Gaussian-Markov random fields**|Alexandre L. M. Levada et.al.|[2203.13164v1](http://arxiv.org/abs/2203.13164v1)|null|
+|**2022-03-24**|**Bi-level Optimization for hyperparameters in Nonnegative Matrix Factorizations**|Nicoletta Del Buono et.al.|[2203.13129v1](http://arxiv.org/abs/2203.13129v1)|null|
+|**2022-03-24**|**minicons: Enabling Flexible Behavioral and Representational Analyses of Transformer Language Models**|Kanishka Misra et.al.|[2203.13112v1](http://arxiv.org/abs/2203.13112v1)|**[link](https://github.com/kanishkamisra/minicons)**|
+|**2022-03-24**|**Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory**|Li Siyao et.al.|[2203.13055v1](http://arxiv.org/abs/2203.13055v1)|**[link](https://github.com/lisiyao21/bailando)**|
+|**2022-03-24**|**A Deep-Discrete Learning Framework for Spherical Surface Registration**|Mohamed A. Suliman et.al.|[2203.12999v1](http://arxiv.org/abs/2203.12999v1)|null|
+|**2022-03-24**|**Hierarchical Nearest Neighbor Graph Embedding for Efficient Dimensionality Reduction**|M. Saquib Sarfraz et.al.|[2203.12997v1](http://arxiv.org/abs/2203.12997v1)|**[link](https://github.com/koulakis/h-nne)**|
+|**2022-03-24**|**Generating Scientific Claims for Zero-Shot Scientific Fact Checking**|Dustin Wright et.al.|[2203.12990v1](http://arxiv.org/abs/2203.12990v1)|**[link](https://github.com/allenai/scientific-claim-generation)**|
+|**2022-03-24**|**Learning Disentangled Representation for One-shot Progressive Face Swapping**|Qi Li et.al.|[2203.12985v1](http://arxiv.org/abs/2203.12985v1)|**[link](https://github.com/liqi-casia/faceswapper)**|
+|**2022-03-24**|**mcBERT: Momentum Contrastive Learning with BERT for Zero-Shot Slot Filling**|Seong-Hwan Heo et.al.|[2203.12940v1](http://arxiv.org/abs/2203.12940v1)|null|
+|**2022-03-24**|**Multitasking Framework for Unsupervised Simple Definition Generation**|Cunliang Kong et.al.|[2203.12926v1](http://arxiv.org/abs/2203.12926v1)|**[link](https://github.com/blcuicall/simpdefiner)**|
+|**2022-03-24**|**A Rationale-Centric Framework for Human-in-the-loop Machine Learning**|Jinghui Lu et.al.|[2203.12918v1](http://arxiv.org/abs/2203.12918v1)|null|
+|**2022-03-24**|**Can Unsupervised Knowledge Transfer from Social Discussions Help Argument Mining?**|Subhabrata Dutta et.al.|[2203.12881v1](http://arxiv.org/abs/2203.12881v1)|**[link](https://github.com/jeevesh8/arg_mining)**|
+|**2022-03-24**|**Weakly-Supervised End-to-End CAD Retrieval to Scan Objects**|Tim Beyer et.al.|[2203.12873v1](http://arxiv.org/abs/2203.12873v1)|null|
+|**2022-03-24**|**Industrial Style Transfer with Large-scale Geometric Warping and Content Preservation**|Jinchao Yang et.al.|[2203.12835v1](http://arxiv.org/abs/2203.12835v1)|**[link](https://github.com/jcyang98/inst)**|
+|**2022-03-24**|**HMFS: Hybrid Masking for Few-Shot Segmentation**|Seonghyeon Moon et.al.|[2203.12826v1](http://arxiv.org/abs/2203.12826v1)|null|
+|**2022-03-24**|**Revisiting the Effects of Leakage on Dependency Parsing**|Nathaniel Krasner et.al.|[2203.12815v1](http://arxiv.org/abs/2203.12815v1)|**[link](https://github.com/miriamwanner/reu-nlp-project)**|
+|**2022-03-24**|**Unsupervised Simultaneous Learning for Camera Re-Localization and Depth Estimation from Video**|Shun Taguchi et.al.|[2203.12804v1](http://arxiv.org/abs/2203.12804v1)|null|
+|**2022-03-23**|**Multidimensional Belief Quantification for Label-Efficient Meta-Learning**|Deep Pandey et.al.|[2203.12768v1](http://arxiv.org/abs/2203.12768v1)|null|
+|**2022-03-23**|**Is Fairness Only Metric Deep? Evaluating and Addressing Subgroup Gaps in Deep Metric Learning**|Natalie Dullerud et.al.|[2203.12748v1](http://arxiv.org/abs/2203.12748v1)|null|
 |**2022-03-23**|**Unsupervised Pre-Training on Patient Population Graphs for Patient-Level Predictions**|Chantal Pellegrini et.al.|[2203.12616v1](http://arxiv.org/abs/2203.12616v1)|**[link](https://github.com/chantalmp/unsupervised-pre-training-on-patient-population-graphs-for-patient-level-predictions)**|
 |**2022-03-23**|**Unsupervised Salient Object Detection with Spectral Cluster Voting**|Gyungin Shin et.al.|[2203.12614v1](http://arxiv.org/abs/2203.12614v1)|**[link](https://github.com/noelshin/selfmask)**|
 |**2022-03-23**|**Sampling Theorems for Unsupervised Learning in Linear Inverse Problems**|Julián Tachella et.al.|[2203.12513v1](http://arxiv.org/abs/2203.12513v1)|null|
@@ -1883,6 +1915,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-24**|**WarpingGAN: Warping Multiple Uniform Priors for Adversarial 3D Point Cloud Generation**|Yingzhi Tang et.al.|[2203.12917v1](http://arxiv.org/abs/2203.12917v1)|**[link](https://github.com/yztang4/warpinggan)**|
+|**2022-03-24**|**Disentangleing Content and Fine-grained Prosody Information via Hybrid ASR Bottleneck Features for Voice Conversion**|Xintao Zhao et.al.|[2203.12813v1](http://arxiv.org/abs/2203.12813v1)|null|
+|**2022-03-23**|**Towards a Deep Learning Model for Hadronization**|Aishik Ghosh et.al.|[2203.12660v1](http://arxiv.org/abs/2203.12660v1)|null|
 |**2022-03-23**|**A Deep Learning Framework to Reconstruct Face under Mask**|Gourango Modak et.al.|[2203.12482v1](http://arxiv.org/abs/2203.12482v1)|null|
 |**2022-03-23**|**Discrete Boltzmann multi-scale modeling of non-equilibrium multiphase flows**|Yanbiao Gan et.al.|[2203.12458v1](http://arxiv.org/abs/2203.12458v1)|null|
 |**2022-03-23**|**Quantitative Evaluation Approach for Translation of Perceptual Soundscape Attributes: Initial Application to the Thai Language**|Karn N. Watcharasupat et.al.|[2203.12245v1](http://arxiv.org/abs/2203.12245v1)|null|
