@@ -1,4 +1,4 @@
-## Updated on 2022.03.27
+## Updated on 2022.03.28
 
 ## Image Generation
 
@@ -853,9 +853,9 @@
 |---|---|---|---|---|
 |**2022-03-24**|**A Representation Separation Perspective to Correspondences-free Unsupervised 3D Point Cloud Registration**|Zhiyuan Zhang et.al.|[2203.13239v1](http://arxiv.org/abs/2203.13239v1)|null|
 |**2022-03-24**|**On the Kullback-Leibler divergence between pairwise isotropic Gaussian-Markov random fields**|Alexandre L. M. Levada et.al.|[2203.13164v1](http://arxiv.org/abs/2203.13164v1)|null|
-|**2022-03-24**|**Bi-level Optimization for hyperparameters in Nonnegative Matrix Factorizations**|Nicoletta Del Buono et.al.|[2203.13129v1](http://arxiv.org/abs/2203.13129v1)|null|
+|**2022-03-24**|**Bi-level Optimization for hyperparameters in Nonnegative Matrix Factorizations**|Nicoletta Del Buono et.al.|[2203.13129v2](http://arxiv.org/abs/2203.13129v2)|null|
 |**2022-03-24**|**minicons: Enabling Flexible Behavioral and Representational Analyses of Transformer Language Models**|Kanishka Misra et.al.|[2203.13112v1](http://arxiv.org/abs/2203.13112v1)|**[link](https://github.com/kanishkamisra/minicons)**|
-|**2022-03-24**|**Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory**|Li Siyao et.al.|[2203.13055v1](http://arxiv.org/abs/2203.13055v1)|**[link](https://github.com/lisiyao21/bailando)**|
+|**2022-03-24**|**Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory**|Li Siyao et.al.|[2203.13055v2](http://arxiv.org/abs/2203.13055v2)|**[link](https://github.com/lisiyao21/bailando)**|
 |**2022-03-24**|**A Deep-Discrete Learning Framework for Spherical Surface Registration**|Mohamed A. Suliman et.al.|[2203.12999v1](http://arxiv.org/abs/2203.12999v1)|null|
 |**2022-03-24**|**Hierarchical Nearest Neighbor Graph Embedding for Efficient Dimensionality Reduction**|M. Saquib Sarfraz et.al.|[2203.12997v1](http://arxiv.org/abs/2203.12997v1)|**[link](https://github.com/koulakis/h-nne)**|
 |**2022-03-24**|**Generating Scientific Claims for Zero-Shot Scientific Fact Checking**|Dustin Wright et.al.|[2203.12990v1](http://arxiv.org/abs/2203.12990v1)|**[link](https://github.com/allenai/scientific-claim-generation)**|
@@ -1768,7 +1768,7 @@
 |**2022-03-23**|**Towards a Deep Learning Model for Hadronization**|Aishik Ghosh et.al.|[2203.12660v1](http://arxiv.org/abs/2203.12660v1)|null|
 |**2022-03-23**|**A Deep Learning Framework to Reconstruct Face under Mask**|Gourango Modak et.al.|[2203.12482v1](http://arxiv.org/abs/2203.12482v1)|**[link](https://github.com/itsshuvra/A-Deep-Learning-Framework-to-Reconstruct-Face-under-Mask)**|
 |**2022-03-23**|**Discrete Boltzmann multi-scale modeling of non-equilibrium multiphase flows**|Yanbiao Gan et.al.|[2203.12458v1](http://arxiv.org/abs/2203.12458v1)|null|
-|**2022-03-23**|**Quantitative Evaluation Approach for Translation of Perceptual Soundscape Attributes: Initial Application to the Thai Language**|Karn N. Watcharasupat et.al.|[2203.12245v1](http://arxiv.org/abs/2203.12245v1)|null|
+|**2022-03-23**|**Quantitative Evaluation Approach for Translation of Perceptual Soundscape Attributes: Initial Application to the Thai Language**|Karn N. Watcharasupat et.al.|[2203.12245v2](http://arxiv.org/abs/2203.12245v2)|null|
 |**2022-03-23**|**Square function estimates for conical regions**|Shengwen Gan et.al.|[2203.12155v1](http://arxiv.org/abs/2203.12155v1)|null|
 |**2022-03-22**|**CM-GAN: Image Inpainting with Cascaded Modulation GAN and Object-Aware Training**|Haitian Zheng et.al.|[2203.11947v1](http://arxiv.org/abs/2203.11947v1)|**[link](https://github.com/htzheng/CM-GAN-Inpainting)**|
 |**2022-03-22**|**Generating natural images with direct Patch Distributions Matching**|Ariel Elnekave et.al.|[2203.11862v1](http://arxiv.org/abs/2203.11862v1)|**[link](https://github.com/ariel415el/Efficient-GPNN)**|
