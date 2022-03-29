@@ -1,4 +1,4 @@
-## Updated on 2022.03.28
+## Updated on 2022.03.29
 
 ## Image Generation
 
@@ -122,8 +122,8 @@
 |**2022-03-25**|**Give Me Your Attention: Dot-Product Attention Considered Harmful for Adversarial Patch Robustness**|Giulio Lovisotto et.al.|[2203.13639v1](http://arxiv.org/abs/2203.13639v1)|null|
 |**2022-03-25**|**Vision Transformer Compression with Structured Pruning and Low Rank Approximation**|Ankur Kumar et.al.|[2203.13444v1](http://arxiv.org/abs/2203.13444v1)|null|
 |**2022-03-24**|**CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation**|Mohammed Hassanin et.al.|[2203.13387v1](http://arxiv.org/abs/2203.13387v1)|null|
-|**2022-03-24**|**Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization**|Francesco Pelosin et.al.|[2203.13167v1](http://arxiv.org/abs/2203.13167v1)|null|
-|**2022-03-24**|**Transformer Compressed Sensing via Global Image Tokens**|Marlon Bran Lorenzana et.al.|[2203.12861v1](http://arxiv.org/abs/2203.12861v1)|**[link](https://github.com/uqmarlonbran/tcs)**|
+|**2022-03-24**|**Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization**|Francesco Pelosin et.al.|[2203.13167v2](http://arxiv.org/abs/2203.13167v2)|null|
+|**2022-03-24**|**Transformer Compressed Sensing via Global Image Tokens**|Marlon Bran Lorenzana et.al.|[2203.12861v2](http://arxiv.org/abs/2203.12861v2)|**[link](https://github.com/uqmarlonbran/tcs)**|
 |**2022-03-24**|**Beyond Fixation: Dynamic Window Visual Transformer**|Pengzhen Ren et.al.|[2203.12856v1](http://arxiv.org/abs/2203.12856v1)|**[link](https://github.com/pzhren/dw-vit)**|
 |**2022-03-24**|**ViT-FOD: A Vision Transformer based Fine-grained Object Discriminator**|Zi-Chao Zhang et.al.|[2203.12816v1](http://arxiv.org/abs/2203.12816v1)|null|
 |**2022-03-23**|**What to Hide from Your Students: Attention-Guided Masked Image Modeling**|Ioannis Kakogeorgiou et.al.|[2203.12719v1](http://arxiv.org/abs/2203.12719v1)|null|
@@ -131,7 +131,7 @@
 |**2022-03-23**|**Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing**|Hsin-Ping Huang et.al.|[2203.12175v1](http://arxiv.org/abs/2203.12175v1)|null|
 |**2022-03-22**|**Self-supervision through Random Segments with Autoregressive Coding (RandSAC)**|Tianyu Hua et.al.|[2203.12054v1](http://arxiv.org/abs/2203.12054v1)|null|
 |**2022-03-22**|**Learning Patch-to-Cluster Attention in Vision Transformer**|Ryan Grainger et.al.|[2203.11987v1](http://arxiv.org/abs/2203.11987v1)|null|
-|**2022-03-22**|**GradViT: Gradient Inversion of Vision Transformers**|Ali Hatamizadeh et.al.|[2203.11894v2](http://arxiv.org/abs/2203.11894v2)|null|
+|**2022-03-22**|**GradViT: Gradient Inversion of Vision Transformers**|Ali Hatamizadeh et.al.|[2203.11894v3](http://arxiv.org/abs/2203.11894v3)|null|
 |**2022-03-22**|**Meta-attention for ViT-backed Continual Learning**|Mengqi Xue et.al.|[2203.11684v1](http://arxiv.org/abs/2203.11684v1)|**[link](https://github.com/zju-vipa/meat-til)**|
 |**2022-03-22**|**Mask Usage Recognition using Vision Transformer with Transfer Learning and Data Augmentation**|Hensel Donato Jahja et.al.|[2203.11542v1](http://arxiv.org/abs/2203.11542v1)|null|
 |**2022-03-21**|**Hyperbolic Vision Transformers: Combining Improvements in Metric Learning**|Aleksandr Ermolov et.al.|[2203.10833v2](http://arxiv.org/abs/2203.10833v2)|**[link](https://github.com/htdt/hyp_metric)**|
@@ -321,7 +321,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-03-24**|**CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation**|Mohammed Hassanin et.al.|[2203.13387v1](http://arxiv.org/abs/2203.13387v1)|null|
-|**2022-03-23**|**UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**|Ye Liu et.al.|[2203.12745v1](http://arxiv.org/abs/2203.12745v1)|**[link](https://github.com/tencentarc/umt)**|
+|**2022-03-23**|**UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**|Ye Liu et.al.|[2203.12745v2](http://arxiv.org/abs/2203.12745v2)|**[link](https://github.com/tencentarc/umt)**|
 |**2022-03-22**|**Ray3D: ray-based 3D human pose estimation for monocular absolute 3D localization**|Yu Zhan et.al.|[2203.11471v1](http://arxiv.org/abs/2203.11471v1)|**[link](https://github.com/YxZhxn/Ray3D)**|
 |**2022-03-20**|**3D Human Pose Estimation Using Möbius Graph Convolutional Networks**|Niloofar Azizi et.al.|[2203.10554v1](http://arxiv.org/abs/2203.10554v1)|null|
 |**2022-03-17**|**MatchFormer: Interleaving Attention in Transformers for Feature Matching**|Qing Wang et.al.|[2203.09645v2](http://arxiv.org/abs/2203.09645v2)|**[link](https://github.com/jamycheung/matchformer)**|
@@ -335,7 +335,7 @@
 |**2022-03-08**|**Quantification of Occlusion Handling Capability of a 3D Human Pose Estimation Framework**|Mehwish Ghafoor et.al.|[2203.04113v1](http://arxiv.org/abs/2203.04113v1)|null|
 |**2022-03-07**|**Weakly Supervised Learning of Keypoints for 6D Object Pose Estimation**|Meng Tian et.al.|[2203.03498v1](http://arxiv.org/abs/2203.03498v1)|null|
 |**2022-03-04**|**Real-Time Hybrid Mapping of Populated Indoor Scenes using a Low-Cost Monocular UAV**|Stuart Golodetz et.al.|[2203.02453v1](http://arxiv.org/abs/2203.02453v1)|null|
-|**2022-03-02**|**MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video**|Jinlu Zhang et.al.|[2203.00859v2](http://arxiv.org/abs/2203.00859v2)|**[link](https://github.com/JinluZhang1126/MixSTE)**|
+|**2022-03-02**|**MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video**|Jinlu Zhang et.al.|[2203.00859v3](http://arxiv.org/abs/2203.00859v3)|**[link](https://github.com/JinluZhang1126/MixSTE)**|
 |**2022-02-26**|**Relational Surrogate Loss Learning**|Tao Huang et.al.|[2202.13197v1](http://arxiv.org/abs/2202.13197v1)|**[link](https://github.com/hunto/reloss)**|
 |**2022-02-22**|**Privacy-Preserving In-Bed Pose Monitoring: A Fusion and Reconstruction Study**|Thisun Dayarathna et.al.|[2202.10704v1](http://arxiv.org/abs/2202.10704v1)|null|
 |**2022-02-18**|**Towards Simple and Accurate Human Pose Estimation with Stair Network**|Chenru Jiang et.al.|[2202.09115v1](http://arxiv.org/abs/2202.09115v1)|null|
@@ -662,7 +662,7 @@
 |**2022-03-23**|**Towards All-Purpose Domain Adaptation Under Confounding**|Calvin McCarter et.al.|[2203.12720v1](http://arxiv.org/abs/2203.12720v1)|null|
 |**2022-03-20**|**Deep Learning based Intelligent Coin-tap Test for Defect Recognition**|Hongyu Li et.al.|[2203.12594v1](http://arxiv.org/abs/2203.12594v1)|**[link](https://github.com/pphub-hy/torch-tapnet)**|
 |**2022-03-23**|**MT-UDA: Towards Unsupervised Cross-modality Medical Image Segmentation with Limited Source Labels**|Ziyuan Zhao et.al.|[2203.12454v1](http://arxiv.org/abs/2203.12454v1)|**[link](https://github.com/jacobzhaoziyuan/MT-UDA)**|
-|**2022-03-22**|**A Broad Study of Pre-training for Domain Generalization and Adaptation**|Donghyun Kim et.al.|[2203.11819v1](http://arxiv.org/abs/2203.11819v1)|null|
+|**2022-03-22**|**A Broad Study of Pre-training for Domain Generalization and Adaptation**|Donghyun Kim et.al.|[2203.11819v2](http://arxiv.org/abs/2203.11819v2)|null|
 |**2022-03-20**|**Explainable Misinformation Detection Across Multiple Social Media Platforms**|Rahee Walambe et.al.|[2203.11724v1](http://arxiv.org/abs/2203.11724v1)|null|
 |**2022-03-22**|**Multi-Source Domain Adaptation Based on Federated Knowledge Alignment**|Yuwei Sun et.al.|[2203.11635v1](http://arxiv.org/abs/2203.11635v1)|null|
 |**2022-03-21**|**The Change that Matters in Discourse Parsing: Estimating the Impact of Domain Shift on Parser Error**|Katherine Atwell et.al.|[2203.11317v1](http://arxiv.org/abs/2203.11317v1)|**[link](https://github.com/anthonysicilia/change-that-matters-acl2022)**|
@@ -865,7 +865,7 @@
 |**2022-03-25**|**Unsupervised Image Deraining: Optimization Model Driven Deep CNN**|Changfeng Yu et.al.|[2203.13699v1](http://arxiv.org/abs/2203.13699v1)|null|
 |**2022-03-25**|**Strong Allee effect synaptic plasticity rule in an unsupervised learning environment**|Eddy Kwessi et.al.|[2203.13650v1](http://arxiv.org/abs/2203.13650v1)|null|
 |**2022-03-25**|**Unsupervised Pre-training for Temporal Action Localization Tasks**|Can Zhang et.al.|[2203.13609v1](http://arxiv.org/abs/2203.13609v1)|null|
-|**2022-03-25**|**ZS4IE: A toolkit for Zero-Shot Information Extraction with simple Verbalizations**|Oscar Sainz et.al.|[2203.13602v1](http://arxiv.org/abs/2203.13602v1)|null|
+|**2022-03-25**|**ZS4IE: A toolkit for Zero-Shot Information Extraction with simple Verbalizations**|Oscar Sainz et.al.|[2203.13602v2](http://arxiv.org/abs/2203.13602v2)|null|
 |**2022-03-25**|**Unsupervised Learning of Temporal Abstractions with Slot-based Transformers**|Anand Gopalakrishnan et.al.|[2203.13573v1](http://arxiv.org/abs/2203.13573v1)|null|
 |**2022-03-25**|**Compare learning: bi-attention network for few-shot learning**|Li Ke et.al.|[2203.13487v1](http://arxiv.org/abs/2203.13487v1)|null|
 |**2022-03-25**|**CAD: Co-Adapting Discriminative Features for Improved Few-Shot Classification**|Philip Chikontwe et.al.|[2203.13465v1](http://arxiv.org/abs/2203.13465v1)|null|
