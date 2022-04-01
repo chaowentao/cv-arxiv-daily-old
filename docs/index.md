@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.03.31
+## Updated on 2022.04.01
 
 ## SLAM
 
@@ -156,7 +156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-03-29**|**Proactive Image Manipulation Detection**|Vishal Asnani et.al.|[2203.15880v1](http://arxiv.org/abs/2203.15880v1)|**[link](https://github.com/vishal3477/proactive_imd)**|
+|**2022-03-29**|**Proactive Image Manipulation Detection**|Vishal Asnani et.al.|[2203.15880v2](http://arxiv.org/abs/2203.15880v2)|**[link](https://github.com/vishal3477/proactive_imd)**|
 |**2022-03-29**|**Pop-Out Motion: 3D-Aware Image Deformation via Learning the Shape Laplacian**|Jihyun Lee et.al.|[2203.15235v1](http://arxiv.org/abs/2203.15235v1)|null|
 |**2022-03-28**|**ObjectFormer for Image Manipulation Detection and Localization**|Junke Wang et.al.|[2203.14681v2](http://arxiv.org/abs/2203.14681v2)|null|
 |**2022-03-24**|**Semantic Image Manipulation with Background-guided Internal Learning**|Zhongping Zhang et.al.|[2203.12849v1](http://arxiv.org/abs/2203.12849v1)|null|
@@ -165,7 +165,7 @@ layout: default
 |**2022-03-15**|**SISL:Self-Supervised Image Signature Learning for Splicing Detection and Localization**|Susmit Agrawal et.al.|[2203.07824v1](http://arxiv.org/abs/2203.07824v1)|null|
 |**2022-03-08**|**Data augmentation with mixtures of max-entropy transformations for filling-level classification**|Apostolos Modas et.al.|[2203.04027v1](http://arxiv.org/abs/2203.04027v1)|null|
 |**2022-03-03**|**PetsGAN: Rethinking Priors for Single Image Generation**|Zicheng Zhang et.al.|[2203.01488v1](http://arxiv.org/abs/2203.01488v1)|**[link](https://github.com/zhangzc21/petsgan)**|
-|**2022-02-28**|**Effectiveness of Delivered Information Trade Study**|Matthew Ciolino et.al.|[2203.00116v2](http://arxiv.org/abs/2203.00116v2)|null|
+|**2022-02-28**|**Enhancing Satellite Imagery using Deep Learning for the Sensor To Shooter Timeline**|Matthew Ciolino et.al.|[2203.00116v3](http://arxiv.org/abs/2203.00116v3)|null|
 |**2022-02-08**|**MaskGIT: Masked Generative Image Transformer**|Huiwen Chang et.al.|[2202.04200v1](http://arxiv.org/abs/2202.04200v1)|null|
 |**2022-02-02**|**Finding Biological Plausibility for Adversarially Robust Features via Metameric Tasks**|Anne Harrington et.al.|[2202.00838v2](http://arxiv.org/abs/2202.00838v2)|**[link](https://github.com/anneharrington/adversarially-robust-periphery)**|
 |**2022-01-31**|**Crowd-powered Face Manipulation Detection: Fusing Human Examiner Decisions**|Christian Rathgeb et.al.|[2201.13084v1](http://arxiv.org/abs/2201.13084v1)|null|
@@ -216,7 +216,7 @@ layout: default
 |**2022-03-07**|**Terahertz displacive excitation of a coherent Raman-active phonon in V$_2$O$_3$**|Flavio Giorgianni et.al.|[2203.03656v1](http://arxiv.org/abs/2203.03656v1)|null|
 |**2022-03-07**|**Light-field control of real and virtual charge carriers**|Tobias Boolakee et.al.|[2203.03509v2](http://arxiv.org/abs/2203.03509v2)|null|
 |**2022-03-05**|**Bistability in orbital trajectories of a chiral self-propelled particle interacting with an external field**|GA Patterson et.al.|[2203.02633v1](http://arxiv.org/abs/2203.02633v1)|null|
-|**2022-03-04**|**OPAL: Occlusion Pattern Aware Loss for Unsupervised Light Field Disparity Estimation**|Peng Li et.al.|[2203.02231v2](http://arxiv.org/abs/2203.02231v2)|null|
+|**2022-03-04**|**OPAL: Occlusion Pattern Aware Loss for Unsupervised Light Field Disparity Estimation**|Peng Li et.al.|[2203.02231v3](http://arxiv.org/abs/2203.02231v3)|null|
 |**2022-03-04**|**Weighted Simultaneous Algebra Reconstruction Technique (wSART) for Additive Light Field Synthesis**|Chen Gao et.al.|[2203.02141v1](http://arxiv.org/abs/2203.02141v1)|null|
 |**2022-03-03**|**Occlusion-Aware Cost Constructor for Light Field Depth Estimation**|Yingqian Wang et.al.|[2203.01576v1](http://arxiv.org/abs/2203.01576v1)|**[link](https://github.com/yingqianwang/oacc-net)**|
 |**2022-03-02**|**Impurity States and Indirect Exchange Interaction in Irradiated Graphene**|Modi Ke et.al.|[2203.00805v1](http://arxiv.org/abs/2203.00805v1)|null|
