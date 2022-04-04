@@ -201,6 +201,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-01**|**Learning to Deblur using Light Field Generated and Real Defocus Images**|Lingyan Ruan et.al.|[2204.00367v1](http://arxiv.org/abs/2204.00367v1)|**[link](https://github.com/lingyanruan/DRBNet)**|
+|**2022-04-01**|**Epipolar Focus Spectrum: A Novel Light Field Representation and Application in Dense-view Reconstruction**|Yaning Li et.al.|[2204.00193v1](http://arxiv.org/abs/2204.00193v1)|null|
 |**2022-03-31**|**R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis**|Huan Wang et.al.|[2203.17261v1](http://arxiv.org/abs/2203.17261v1)|**[link](https://github.com/snap-research/r2l)**|
 |**2022-03-30**|**Towards Multimodal Depth Estimation from Light Fields**|Titus Leistner et.al.|[2203.16542v2](http://arxiv.org/abs/2203.16542v2)|null|
 |**2022-03-29**|**Light Field Depth Estimation Based on Stitched-EPI**|Ping Zhou et.al.|[2203.15201v1](http://arxiv.org/abs/2203.15201v1)|null|
@@ -278,6 +280,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-01**|**Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition**|Ryota Hashiguchi et.al.|[2204.00452v1](http://arxiv.org/abs/2204.00452v1)|null|
 |**2022-03-31**|**Multimodal Fusion Transformer for Remote Sensing Image Classification**|Swalpa Kumar Roy et.al.|[2203.16952v1](http://arxiv.org/abs/2203.16952v1)|**[link](https://github.com/ankurderia/mft)**|
 |**2022-03-30**|**Exploring Plain Vision Transformer Backbones for Object Detection**|Yanghao Li et.al.|[2203.16527v1](http://arxiv.org/abs/2203.16527v1)|null|
 |**2022-03-30**|**Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis**|Simon Dahan et.al.|[2203.16414v1](http://arxiv.org/abs/2203.16414v1)|null|
@@ -493,6 +496,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-01**|**MS-HLMO: Multi-scale Histogram of Local Main Orientation for Remote Sensing Image Registration**|Chenzhong Gao et.al.|[2204.00260v1](http://arxiv.org/abs/2204.00260v1)|null|
+|**2022-04-01**|**A Unified Framework for Domain Adaptive Pose Estimation**|Donghyun Kim et.al.|[2204.00172v1](http://arxiv.org/abs/2204.00172v1)|null|
 |**2022-03-30**|**Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation**|Shuying Liu et.al.|[2203.16202v1](http://arxiv.org/abs/2203.16202v1)|null|
 |**2022-03-29**|**On Triangulation as a Form of Self-Supervision for 3D Human Pose Estimation**|Soumava Kumar Roy et.al.|[2203.15865v1](http://arxiv.org/abs/2203.15865v1)|null|
 |**2022-03-29**|**PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision**|Kehong Gong et.al.|[2203.15625v1](http://arxiv.org/abs/2203.15625v1)|**[link](https://github.com/garfield-kh/posetriplet)**|
@@ -558,6 +563,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-01**|**The OCEAN mailing list data set: Network analysis spanning mailing lists and code repositories**|Melanie Warrick et.al.|[2204.00603v1](http://arxiv.org/abs/2204.00603v1)|null|
+|**2022-04-01**|**Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**|Andy Zeng et.al.|[2204.00598v1](http://arxiv.org/abs/2204.00598v1)|null|
+|**2022-04-01**|**A Novel Multimodal Approach for Studying the Dynamics of Curiosity in Small Group Learning**|Tanmay Sinha et.al.|[2204.00545v1](http://arxiv.org/abs/2204.00545v1)|null|
+|**2022-03-31**|**Visual-Tactile Multimodality for Following Deformable Linear Objects Using Reinforcement Learning**|Leszek Pecyna et.al.|[2204.00117v1](http://arxiv.org/abs/2204.00117v1)|null|
+|**2022-03-31**|**Dynamic Multimodal Fusion**|Zihui Xue et.al.|[2204.00102v1](http://arxiv.org/abs/2204.00102v1)|null|
 |**2022-03-31**|**Do Vision-Language Pretrained Models Learn Primitive Concepts?**|Tian Yun et.al.|[2203.17271v1](http://arxiv.org/abs/2203.17271v1)|null|
 |**2022-03-30**|**VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers**|Estelle Aflalo et.al.|[2203.17247v1](http://arxiv.org/abs/2203.17247v1)|null|
 |**2022-03-31**|**Towards automated design of corrosion resistant alloy coatings with an autonomous scanning droplet cell**|Brian DeCost et.al.|[2203.17049v1](http://arxiv.org/abs/2203.17049v1)|null|
@@ -865,6 +875,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-01**|**Connect, Not Collapse: Explaining Contrastive Learning for Unsupervised Domain Adaptation**|Kendrick Shen et.al.|[2204.00570v1](http://arxiv.org/abs/2204.00570v1)|null|
+|**2022-04-01**|**Few-shot One-class Domain Adaptation Based on Frequency for Iris Presentation Attack Detection**|Yachun Li et.al.|[2204.00376v1](http://arxiv.org/abs/2204.00376v1)|null|
+|**2022-04-01**|**Diverse Preference Augmentation with Multiple Domains for Cold-start Recommendations**|Yan Zhang et.al.|[2204.00327v1](http://arxiv.org/abs/2204.00327v1)|null|
+|**2022-04-01**|**A Unified Framework for Domain Adaptive Pose Estimation**|Donghyun Kim et.al.|[2204.00172v1](http://arxiv.org/abs/2204.00172v1)|null|
+|**2022-04-01**|**Filter-based Discriminative Autoencoders for Children Speech Recognition**|Chiang-Lin Tai et.al.|[2204.00164v1](http://arxiv.org/abs/2204.00164v1)|null|
+|**2022-04-01**|**An End-to-end Supervised Domain Adaptation Framework for Cross-Domain Change Detection**|Jia Liu et.al.|[2204.00154v1](http://arxiv.org/abs/2204.00154v1)|**[link](https://github.com/perfect-you/sdacd)**|
+|**2022-03-31**|**Real-Time and Robust 3D Object Detection Within Road-Side LiDARs Using Domain Adaptation**|Walter Zimmer et.al.|[2204.00132v1](http://arxiv.org/abs/2204.00132v1)|null|
 |**2022-03-31**|**Partial Coupling of Optimal Transport for Spoken Language Identification**|Xugang Lu et.al.|[2203.17036v1](http://arxiv.org/abs/2203.17036v1)|null|
 |**2022-03-31**|**PADA: Pruning Assisted Domain Adaptation for Self-Supervised Speech Representations**|Lodagala V S V Durga Prasad et.al.|[2203.16965v1](http://arxiv.org/abs/2203.16965v1)|**[link](https://github.com/speech-lab-iitm/pada)**|
 |**2022-03-31**|**Domain Adaptation for Sparse-Data Settings: What Do We Gain by Not Using Bert?**|Marina Sedinkina et.al.|[2203.16926v1](http://arxiv.org/abs/2203.16926v1)|null|
@@ -1096,6 +1113,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-01**|**Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**|Andy Zeng et.al.|[2204.00598v1](http://arxiv.org/abs/2204.00598v1)|null|
+|**2022-04-01**|**Connect, Not Collapse: Explaining Contrastive Learning for Unsupervised Domain Adaptation**|Kendrick Shen et.al.|[2204.00570v1](http://arxiv.org/abs/2204.00570v1)|null|
+|**2022-04-01**|**A Global Modeling Approach for Load Forecasting in Distribution Networks**|Miha Grabner et.al.|[2204.00493v1](http://arxiv.org/abs/2204.00493v1)|null|
+|**2022-04-01**|**Zero-Shot Cross-lingual Aphasia Detection using Automatic Speech Recognition**|Gerasimos Chatzoudis et.al.|[2204.00448v1](http://arxiv.org/abs/2204.00448v1)|null|
+|**2022-04-01**|**AdaSpeech 4: Adaptive Text to Speech in Zero-Shot Scenarios**|Yihan Wu et.al.|[2204.00436v1](http://arxiv.org/abs/2204.00436v1)|null|
+|**2022-04-01**|**Few-shot One-class Domain Adaptation Based on Frequency for Iris Presentation Attack Detection**|Yachun Li et.al.|[2204.00376v1](http://arxiv.org/abs/2204.00376v1)|null|
+|**2022-04-01**|**On the Efficiency of Integrating Self-supervised Learning and Meta-learning for User-defined Few-shot Keyword Spotting**|Wei-Tsung Kao et.al.|[2204.00352v1](http://arxiv.org/abs/2204.00352v1)|null|
+|**2022-04-01**|**WavFT: Acoustic model finetuning with labelled and unlabelled data**|Utkarsh Chauhan et.al.|[2204.00348v1](http://arxiv.org/abs/2204.00348v1)|null|
+|**2022-04-01**|**Selecting task with optimal transport self-supervised learning for few-shot classification**|Renjie Xu et.al.|[2204.00289v1](http://arxiv.org/abs/2204.00289v1)|null|
+|**2022-04-01**|**Spatial Loss for Unsupervised Multi-channel Source Separation**|Kohei Saijo et.al.|[2204.00210v1](http://arxiv.org/abs/2204.00210v1)|null|
+|**2022-04-01**|**Making Pre-trained Language Models End-to-end Few-shot Learners with Contrastive Prompt Tuning**|Ziyun Xu et.al.|[2204.00166v1](http://arxiv.org/abs/2204.00166v1)|null|
 |**2022-03-31**|**Bringing Old Films Back to Life**|Ziyu Wan et.al.|[2203.17276v1](http://arxiv.org/abs/2203.17276v1)|**[link](https://github.com/raywzy/bringing-old-films-back-to-life)**|
 |**2022-03-31**|**MyStyle: A Personalized Generative Prior**|Yotam Nitzan et.al.|[2203.17272v1](http://arxiv.org/abs/2203.17272v1)|null|
 |**2022-03-31**|**Do Vision-Language Pretrained Models Learn Primitive Concepts?**|Tian Yun et.al.|[2203.17271v1](http://arxiv.org/abs/2203.17271v1)|null|
@@ -2115,6 +2143,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-01**|**Learning the conditional law: signatures and conditional GANs in filtering and prediction of diffusion processes**|Fabian Germ et.al.|[2204.00611v1](http://arxiv.org/abs/2204.00611v1)|null|
+|**2022-04-01**|**Quantized GAN for Complex Music Generation from Dance Videos**|Ye Zhu et.al.|[2204.00604v1](http://arxiv.org/abs/2204.00604v1)|**[link](https://github.com/l-yezhu/d2m-gan)**|
+|**2022-04-01**|**CTAB-GAN+: Enhancing Tabular Data Synthesis**|Zilong Zhao et.al.|[2204.00401v1](http://arxiv.org/abs/2204.00401v1)|null|
+|**2022-04-01**|**An End-to-end Supervised Domain Adaptation Framework for Cross-Domain Change Detection**|Jia Liu et.al.|[2204.00154v1](http://arxiv.org/abs/2204.00154v1)|**[link](https://github.com/perfect-you/sdacd)**|
 |**2022-03-31**|**DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools**|Xingyu Lin et.al.|[2203.17275v1](http://arxiv.org/abs/2203.17275v1)|null|
 |**2022-03-31**|**TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing**|Yanbo Xu et.al.|[2203.17266v1](http://arxiv.org/abs/2203.17266v1)|**[link](https://github.com/billyxyb/transeditor)**|
 |**2022-03-31**|**Efficient Non-Autoregressive GAN Voice Conversion using VQWav2vec Features and Dynamic Convolution**|Mingjie Chen et.al.|[2203.17172v1](http://arxiv.org/abs/2203.17172v1)|**[link](https://github.com/mingjiechen/dyganvc)**|
