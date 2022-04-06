@@ -131,6 +131,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**Vision Transformer Equipped with Neural Resizer on Facial Expression Recognition Task**|Hyeonbin Hwang et.al.|[2204.02181v1](http://arxiv.org/abs/2204.02181v1)|null|
 |**2022-04-04**|**MaxViT: Multi-Axis Vision Transformer**|Zhengzhong Tu et.al.|[2204.01697v1](http://arxiv.org/abs/2204.01697v1)|null|
 |**2022-04-04**|**BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning**|Zhi Hou et.al.|[2204.01254v1](http://arxiv.org/abs/2204.01254v1)|null|
 |**2022-04-04**|**Dynamic Focus-aware Positional Queries for Semantic Segmentation**|Haoyu He et.al.|[2204.01244v1](http://arxiv.org/abs/2204.01244v1)|**[link](https://github.com/zip-group/faseg)**|
@@ -352,6 +353,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**Non-Local Latent Relation Distillation for Self-Adaptive 3D Human Pose Estimation**|Jogendra Nath Kundu et.al.|[2204.01971v1](http://arxiv.org/abs/2204.01971v1)|null|
 |**2022-04-04**|**Aligning Silhouette Topology for Self-Adaptive 3D Human Pose Recovery**|Mugalodi Rakesh et.al.|[2204.01276v1](http://arxiv.org/abs/2204.01276v1)|null|
 |**2022-04-04**|**Direct Dense Pose Estimation**|Liqian Ma et.al.|[2204.01263v1](http://arxiv.org/abs/2204.01263v1)|null|
 |**2022-04-02**|**SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning**|Nilaksh Das et.al.|[2204.00734v1](http://arxiv.org/abs/2204.00734v1)|**[link](https://github.com/nilakshdas/skelevision)**|
@@ -364,7 +366,7 @@
 |**2022-03-29**|**Temporal Feature Alignment and Mutual Information Maximization for Video-Based Human Pose Estimation**|Zhenguang Liu et.al.|[2203.15227v2](http://arxiv.org/abs/2203.15227v2)|**[link](https://github.com/pose-group/fami-pose)**|
 |**2022-03-29**|**Assessing Evolutionary Terrain Generation Methods for Curriculum Reinforcement Learning**|David Howard et.al.|[2203.15172v1](http://arxiv.org/abs/2203.15172v1)|null|
 |**2022-03-28**|**REGTR: End-to-end Point Cloud Correspondences with Transformers**|Zi Jian Yew et.al.|[2203.14517v1](http://arxiv.org/abs/2203.14517v1)|**[link](https://github.com/yewzijian/regtr)**|
-|**2022-03-24**|**CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation**|Mohammed Hassanin et.al.|[2203.13387v1](http://arxiv.org/abs/2203.13387v1)|null|
+|**2022-03-24**|**CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation**|Mohammed Hassanin et.al.|[2203.13387v1](http://arxiv.org/abs/2203.13387v1)|**[link](https://github.com/mfawzy/CrossFormer)**|
 |**2022-03-23**|**UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**|Ye Liu et.al.|[2203.12745v2](http://arxiv.org/abs/2203.12745v2)|**[link](https://github.com/tencentarc/umt)**|
 |**2022-03-22**|**Ray3D: ray-based 3D human pose estimation for monocular absolute 3D localization**|Yu Zhan et.al.|[2203.11471v2](http://arxiv.org/abs/2203.11471v2)|**[link](https://github.com/YxZhxn/Ray3D)**|
 |**2022-03-20**|**3D Human Pose Estimation Using Möbius Graph Convolutional Networks**|Niloofar Azizi et.al.|[2203.10554v1](http://arxiv.org/abs/2203.10554v1)|null|
@@ -422,6 +424,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-03**|**Multilingual and Multimodal Abuse Detection**|Rini Sharon et.al.|[2204.02263v1](http://arxiv.org/abs/2204.02263v1)|null|
+|**2022-04-05**|**SMORS: A soft multirotor UAV for multimodal locomotion and robust interaction**|Markus Ryll et.al.|[2204.02165v1](http://arxiv.org/abs/2204.02165v1)|null|
+|**2022-04-05**|**Positive and Negative Critiquing for VAE-based Recommenders**|Diego Antognini et.al.|[2204.02162v1](http://arxiv.org/abs/2204.02162v1)|null|
+|**2022-04-05**|**Towards On-Board Panoptic Segmentation of Multispectral Satellite Images**|Tharindu Fernando et.al.|[2204.01952v1](http://arxiv.org/abs/2204.01952v1)|null|
+|**2022-04-04**|**Propagation-invariant space-time supermodes in a multimode waveguide**|Abbas Shiri et.al.|[2204.01867v1](http://arxiv.org/abs/2204.01867v1)|null|
+|**2022-04-04**|**On Explaining Multimodal Hateful Meme Detection Models**|Ming Shan Hee et.al.|[2204.01734v1](http://arxiv.org/abs/2204.01734v1)|null|
 |**2022-04-04**|**Modern Views of Machine Learning for Precision Psychiatry**|Zhe Sage Chen et.al.|[2204.01607v1](http://arxiv.org/abs/2204.01607v1)|null|
 |**2022-04-04**|**On-Chip High Extinction Ratio Single-Stage Mach-Zehnder Interferometer based on Multimode Interferometer**|Shengjie Xie et.al.|[2204.01230v1](http://arxiv.org/abs/2204.01230v1)|null|
 |**2022-04-03**|**STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes**|Peishan Cong et.al.|[2204.01026v1](http://arxiv.org/abs/2204.01026v1)|**[link](https://github.com/4dvlab/stcrowd)**|
@@ -740,6 +748,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**Birds of A Feather Flock Together: Category-Divergence Guidance for Domain Adaptive Segmentation**|Bo Yuan et.al.|[2204.02111v1](http://arxiv.org/abs/2204.02111v1)|null|
 |**2022-04-04**|**DODA: Data-oriented Sim-to-Real Domain Adaptation for 3D Indoor Semantic Segmentation**|Runyu Ding et.al.|[2204.01599v1](http://arxiv.org/abs/2204.01599v1)|null|
 |**2022-04-04**|**DAD: Data-free Adversarial Defense at Test Time**|Gaurav Kumar Nayak et.al.|[2204.01568v1](http://arxiv.org/abs/2204.01568v1)|null|
 |**2022-04-04**|**Con$^{2}$DA: Simplifying Semi-supervised Domain Adaptation by Learning Consistent and Contrastive Feature Representations**|Manuel Pérez-Carrasco et.al.|[2204.01558v1](http://arxiv.org/abs/2204.01558v1)|null|
@@ -982,6 +991,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**Action-Conditioned Contrastive Policy Pretraining**|Qihang Zhang et.al.|[2204.02393v1](http://arxiv.org/abs/2204.02393v1)|null|
+|**2022-04-05**|**Too Big to Fail? Active Few-Shot Learning Guided Logic Synthesis**|Animesh Basak Chowdhury et.al.|[2204.02368v1](http://arxiv.org/abs/2204.02368v1)|null|
+|**2022-04-05**|**Can language models learn from explanations in context?**|Andrew K. Lampinen et.al.|[2204.02329v1](http://arxiv.org/abs/2204.02329v1)|null|
+|**2022-04-05**|**PaLM: Scaling Language Modeling with Pathways**|Aakanksha Chowdhery et.al.|[2204.02311v1](http://arxiv.org/abs/2204.02311v1)|null|
+|**2022-04-05**|**Parameter-Efficient Neural Reranking for Cross-Lingual and Multilingual Retrieval**|Robert Litschko et.al.|[2204.02292v1](http://arxiv.org/abs/2204.02292v1)|null|
+|**2022-04-05**|**Neural Convolutional Surfaces**|Luca Morreale et.al.|[2204.02289v1](http://arxiv.org/abs/2204.02289v1)|null|
+|**2022-04-05**|**Systematic Unsupervised Recycled Field-Programmable Gate Array Detection**|Yuya Isaka et.al.|[2204.02159v1](http://arxiv.org/abs/2204.02159v1)|null|
+|**2022-04-05**|**MetaAudio: A Few-Shot Audio Classification Benchmark**|Calum Heggan et.al.|[2204.02121v1](http://arxiv.org/abs/2204.02121v1)|**[link](https://github.com/cheggan/metaaudio-a-few-shot-audio-classification-benchmark)**|
+|**2022-04-05**|**Birds of A Feather Flock Together: Category-Divergence Guidance for Domain Adaptive Segmentation**|Bo Yuan et.al.|[2204.02111v1](http://arxiv.org/abs/2204.02111v1)|null|
+|**2022-04-05**|**Complex-Valued Autoencoders for Object Discovery**|Sindy Löwe et.al.|[2204.02075v1](http://arxiv.org/abs/2204.02075v1)|null|
+|**2022-04-05**|**LatentGAN Autoencoder: Learning Disentangled Latent Distribution**|Sanket Kalwar et.al.|[2204.02010v1](http://arxiv.org/abs/2204.02010v1)|null|
+|**2022-04-05**|**Learning Video Salient Object Detection Progressively from Unlabeled Videos**|Binwei Xu et.al.|[2204.02008v1](http://arxiv.org/abs/2204.02008v1)|null|
+|**2022-04-05**|**Unsupervised Data Selection via Discrete Speech Representation for ASR**|Zhiyun Lu et.al.|[2204.01981v1](http://arxiv.org/abs/2204.01981v1)|null|
+|**2022-04-05**|**Data Augmentation for Intent Classification with Off-the-shelf Large Language Models**|Gaurav Sahu et.al.|[2204.01959v1](http://arxiv.org/abs/2204.01959v1)|null|
+|**2022-04-05**|**Learning to Adapt to Domain Shifts with Few-shot Samples in Anomalous Sound Detection**|Bingqing Chen et.al.|[2204.01905v1](http://arxiv.org/abs/2204.01905v1)|null|
 |**2022-04-04**|**Deep Feature Screening: Feature Selection for Ultra High-Dimensional Data via Deep Neural Networks**|Kexuan Li et.al.|[2204.01682v1](http://arxiv.org/abs/2204.01682v1)|null|
 |**2022-04-04**|**APP: Anytime Progressive Pruning**|Diganta Misra et.al.|[2204.01640v1](http://arxiv.org/abs/2204.01640v1)|**[link](https://github.com/landskape-ai/progressive-pruning)**|
 |**2022-04-04**|**Do Deep Neural Networks Contribute to Multivariate Time Series Anomaly Detection?**|Julien Audibert et.al.|[2204.01637v1](http://arxiv.org/abs/2204.01637v1)|null|
@@ -2033,6 +2057,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**DT2I: Dense Text-to-Image Generation from Region Descriptions**|Stanislav Frolov et.al.|[2204.02035v1](http://arxiv.org/abs/2204.02035v1)|null|
+|**2022-04-05**|**A Generative Deep Learning Approach to Stochastic Downscaling of Precipitation Forecasts**|Lucy Harris et.al.|[2204.02028v1](http://arxiv.org/abs/2204.02028v1)|null|
+|**2022-04-04**|**Gan-Based Joint Activity Detection and Channel Estimation For Grant-free Random Access**|Shuang Liang et.al.|[2204.01731v1](http://arxiv.org/abs/2204.01731v1)|null|
+|**2022-04-04**|**Lip to Speech Synthesis with Visual Context Attentional GAN**|Minsu Kim et.al.|[2204.01726v1](http://arxiv.org/abs/2204.01726v1)|null|
+|**2022-04-03**|**RestoreX-AI: A Contrastive Approach towards Guiding Image Restoration via Explainable AI Systems**|Aboli Marathe et.al.|[2204.01719v1](http://arxiv.org/abs/2204.01719v1)|null|
+|**2022-04-01**|**Data and Physics Driven Learning Models for Fast MRI -- Fundamentals and Methodologies from CNN, GAN to Attention and Transformers**|Jiahao Huang et.al.|[2204.01706v1](http://arxiv.org/abs/2204.01706v1)|null|
 |**2022-04-04**|**Exemplar-bsaed Pattern Synthesis with Implicit Periodic Field Network**|Haiwei Chen et.al.|[2204.01671v1](http://arxiv.org/abs/2204.01671v1)|null|
 |**2022-04-04**|**SPECTRE : Spectral Conditioning Helps to Overcome the Expressivity Limits of One-shot Graph Generators**|Karolis Martinkus et.al.|[2204.01613v1](http://arxiv.org/abs/2204.01613v1)|null|
 |**2022-04-04**|**Unsupervised Learning of Accurate Siamese Tracking**|Qiuhong Shen et.al.|[2204.01475v1](http://arxiv.org/abs/2204.01475v1)|**[link](https://github.com/florinshum/ulast)**|
