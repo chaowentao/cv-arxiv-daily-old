@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.05
+## Updated on 2022.04.06
 
 ## SLAM
 
@@ -287,7 +287,7 @@ layout: default
 |**2022-04-04**|**BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning**|Zhi Hou et.al.|[2204.01254v1](http://arxiv.org/abs/2204.01254v1)|null|
 |**2022-04-04**|**Dynamic Focus-aware Positional Queries for Semantic Segmentation**|Haoyu He et.al.|[2204.01244v1](http://arxiv.org/abs/2204.01244v1)|**[link](https://github.com/zip-group/faseg)**|
 |**2022-04-03**|**Improving Vision Transformers by Revisiting High-frequency Components**|Jiawang Bai et.al.|[2204.00993v1](http://arxiv.org/abs/2204.00993v1)|null|
-|**2022-04-01**|**UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation**|Ali Hatamizadeh et.al.|[2204.00631v1](http://arxiv.org/abs/2204.00631v1)|**[link](https://github.com/project-monai/research-contributions)**|
+|**2022-04-01**|**UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation**|Ali Hatamizadeh et.al.|[2204.00631v2](http://arxiv.org/abs/2204.00631v2)|**[link](https://github.com/project-monai/research-contributions)**|
 |**2022-04-01**|**Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition**|Ryota Hashiguchi et.al.|[2204.00452v1](http://arxiv.org/abs/2204.00452v1)|null|
 |**2022-03-31**|**Multimodal Fusion Transformer for Remote Sensing Image Classification**|Swalpa Kumar Roy et.al.|[2203.16952v1](http://arxiv.org/abs/2203.16952v1)|**[link](https://github.com/ankurderia/mft)**|
 |**2022-03-30**|**Exploring Plain Vision Transformer Backbones for Object Detection**|Yanghao Li et.al.|[2203.16527v1](http://arxiv.org/abs/2203.16527v1)|null|
@@ -1143,14 +1143,14 @@ layout: default
 |**2022-04-04**|**DAD: Data-free Adversarial Defense at Test Time**|Gaurav Kumar Nayak et.al.|[2204.01568v1](http://arxiv.org/abs/2204.01568v1)|null|
 |**2022-04-04**|**Unsupervised Learning of Accurate Siamese Tracking**|Qiuhong Shen et.al.|[2204.01475v1](http://arxiv.org/abs/2204.01475v1)|**[link](https://github.com/florinshum/ulast)**|
 |**2022-04-04**|**Degradation-agnostic Correspondence from Resolution-asymmetric Stereo**|Xihao Chen et.al.|[2204.01429v1](http://arxiv.org/abs/2204.01429v1)|null|
-|**2022-04-04**|**Aligned Weight Regularizers for Pruning Pretrained Neural Networks**|James O' Neill et.al.|[2204.01385v1](http://arxiv.org/abs/2204.01385v1)|null|
-|**2022-04-04**|**Synthetic Graph Generation to Benchmark Graph Learning**|Anton Tsitsulin et.al.|[2204.01376v1](http://arxiv.org/abs/2204.01376v1)|null|
+|**2022-04-04**|**Aligned Weight Regularizers for Pruning Pretrained Neural Networks**|James O' Neill et.al.|[2204.01385v2](http://arxiv.org/abs/2204.01385v2)|null|
+|**2022-04-04**|**Synthetic Graph Generation to Benchmark Graph Learning**|Anton Tsitsulin et.al.|[2204.01376v1](http://arxiv.org/abs/2204.01376v1)|**[link](https://github.com/google-research/google-research)**|
 |**2022-04-04**|**Analysis of lifelog data using optimal feature selection based unsupervised logistic regression (OFS-ULR) for chronic disease classification**|Sadhana Tiwari et.al.|[2204.01281v1](http://arxiv.org/abs/2204.01281v1)|null|
 |**2022-04-04**|**Analysis of Joint Speech-Text Embeddings for Semantic Matching**|Muhammad Huzaifah et.al.|[2204.01235v1](http://arxiv.org/abs/2204.01235v1)|null|
 |**2022-04-04**|**Learning Linear Symmetries in Data Using Moment Matching**|Colin Hagemeyer et.al.|[2204.01213v1](http://arxiv.org/abs/2204.01213v1)|null|
 |**2022-04-04**|**Co-Teaching for Unsupervised Domain Adaptation and Expansion**|Kaibin Tian et.al.|[2204.01210v1](http://arxiv.org/abs/2204.01210v1)|null|
 |**2022-04-04**|**Attribute Prototype Network for Any-Shot Learning**|Wenjia Xu et.al.|[2204.01208v1](http://arxiv.org/abs/2204.01208v1)|null|
-|**2022-04-04**|**Unsupervised Change Detection Based on Image Reconstruction Loss**|Hyeoncheol Noh et.al.|[2204.01200v1](http://arxiv.org/abs/2204.01200v1)|null|
+|**2022-04-04**|**Unsupervised Change Detection Based on Image Reconstruction Loss**|Hyeoncheol Noh et.al.|[2204.01200v2](http://arxiv.org/abs/2204.01200v2)|null|
 |**2022-04-03**|**PERFECT: Prompt-free and Efficient Few-shot Learning with Language Models**|Rabeeh Karimi Mahabadi et.al.|[2204.01172v1](http://arxiv.org/abs/2204.01172v1)|**[link](https://github.com/rabeehk/perfect)**|
 |**2022-04-03**|**Few Shot Protein Generation**|Soumya Ram et.al.|[2204.01168v1](http://arxiv.org/abs/2204.01168v1)|null|
 |**2022-04-03**|**Shape-Pose Disentanglement using SE(3)-equivariant Vector Neurons**|Oren Katzir et.al.|[2204.01159v1](http://arxiv.org/abs/2204.01159v1)|null|
