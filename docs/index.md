@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.07
+## Updated on 2022.04.08
 
 ## SLAM
 
@@ -507,7 +507,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-04-06**|**Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**|Yanan Wang et.al.|[2204.02611v1](http://arxiv.org/abs/2204.02611v1)|**[link](https://github.com/yanan-wang-cs/clonedperson)**|
+|**2022-04-06**|**Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**|Yanan Wang et.al.|[2204.02611v2](http://arxiv.org/abs/2204.02611v2)|**[link](https://github.com/yanan-wang-cs/clonedperson)**|
 |**2022-04-05**|**Non-Local Latent Relation Distillation for Self-Adaptive 3D Human Pose Estimation**|Jogendra Nath Kundu et.al.|[2204.01971v2](http://arxiv.org/abs/2204.01971v2)|null|
 |**2022-04-04**|**Aligning Silhouette Topology for Self-Adaptive 3D Human Pose Recovery**|Mugalodi Rakesh et.al.|[2204.01276v1](http://arxiv.org/abs/2204.01276v1)|null|
 |**2022-04-04**|**Direct Dense Pose Estimation**|Liqian Ma et.al.|[2204.01263v1](http://arxiv.org/abs/2204.01263v1)|null|
@@ -1163,7 +1163,7 @@ layout: default
 |**2022-04-06**|**Universal Representations: A Unified Look at Multiple Task and Domain Learning**|Wei-Hong Li et.al.|[2204.02744v1](http://arxiv.org/abs/2204.02744v1)|null|
 |**2022-04-06**|**Domain-Agnostic Prior for Transfer Semantic Segmentation**|Xinyue Huo et.al.|[2204.02684v1](http://arxiv.org/abs/2204.02684v1)|null|
 |**2022-04-06**|**Improving Zero-Shot Event Extraction via Sentence Simplification**|Sneha Mehta et.al.|[2204.02531v1](http://arxiv.org/abs/2204.02531v1)|null|
-|**2022-04-06**|**Simple and Effective Unsupervised Speech Synthesis**|Alexander H. Liu et.al.|[2204.02524v1](http://arxiv.org/abs/2204.02524v1)|null|
+|**2022-04-06**|**Simple and Effective Unsupervised Speech Synthesis**|Alexander H. Liu et.al.|[2204.02524v2](http://arxiv.org/abs/2204.02524v2)|null|
 |**2022-04-05**|**Towards End-to-end Unsupervised Speech Recognition**|Alexander H. Liu et.al.|[2204.02492v1](http://arxiv.org/abs/2204.02492v1)|**[link](https://github.com/pytorch/fairseq)**|
 |**2022-04-05**|**Text2LIVE: Text-Driven Layered Image and Video Editing**|Omer Bar-Tal et.al.|[2204.02491v1](http://arxiv.org/abs/2204.02491v1)|null|
 |**2022-04-05**|**"Does it come in black?" CLIP-like models are zero-shot recommenders**|Patrick John Chia et.al.|[2204.02473v1](http://arxiv.org/abs/2204.02473v1)|null|
@@ -1172,7 +1172,7 @@ layout: default
 |**2022-04-05**|**Action-Conditioned Contrastive Policy Pretraining**|Qihang Zhang et.al.|[2204.02393v1](http://arxiv.org/abs/2204.02393v1)|null|
 |**2022-04-05**|**Too Big to Fail? Active Few-Shot Learning Guided Logic Synthesis**|Animesh Basak Chowdhury et.al.|[2204.02368v1](http://arxiv.org/abs/2204.02368v1)|**[link](https://github.com/nyu-mlda/openabc)**|
 |**2022-04-05**|**Can language models learn from explanations in context?**|Andrew K. Lampinen et.al.|[2204.02329v1](http://arxiv.org/abs/2204.02329v1)|null|
-|**2022-04-05**|**PaLM: Scaling Language Modeling with Pathways**|Aakanksha Chowdhery et.al.|[2204.02311v1](http://arxiv.org/abs/2204.02311v1)|null|
+|**2022-04-05**|**PaLM: Scaling Language Modeling with Pathways**|Aakanksha Chowdhery et.al.|[2204.02311v2](http://arxiv.org/abs/2204.02311v2)|null|
 |**2022-04-05**|**Parameter-Efficient Neural Reranking for Cross-Lingual and Multilingual Retrieval**|Robert Litschko et.al.|[2204.02292v1](http://arxiv.org/abs/2204.02292v1)|null|
 |**2022-04-05**|**Neural Convolutional Surfaces**|Luca Morreale et.al.|[2204.02289v1](http://arxiv.org/abs/2204.02289v1)|null|
 |**2022-04-05**|**Systematic Unsupervised Recycled Field-Programmable Gate Array Detection**|Yuya Isaka et.al.|[2204.02159v1](http://arxiv.org/abs/2204.02159v1)|null|
@@ -2177,7 +2177,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-04-06**|**SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference**|Krishna Wadhwani et.al.|[2204.02585v1](http://arxiv.org/abs/2204.02585v1)|null|
+|**2022-04-06**|**SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference**|Krishna Wadhwani et.al.|[2204.02585v2](http://arxiv.org/abs/2204.02585v2)|null|
 |**2022-04-02**|**SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image**|Dejia Xu et.al.|[2204.00928v1](http://arxiv.org/abs/2204.00928v1)|null|
 |**2022-03-31**|**R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis**|Huan Wang et.al.|[2203.17261v1](http://arxiv.org/abs/2203.17261v1)|**[link](https://github.com/snap-research/r2l)**|
 |**2022-03-31**|**MPS-NeRF: Generalizable 3D Human Rendering from Multiview Images**|Xiangjun Gao et.al.|[2203.16875v1](http://arxiv.org/abs/2203.16875v1)|null|
