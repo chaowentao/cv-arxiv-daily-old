@@ -1,4 +1,4 @@
-## Updated on 2022.04.11
+## Updated on 2022.04.12
 
 ## Image Generation
 
@@ -2144,7 +2144,7 @@
 |---|---|---|---|---|
 |**2022-04-08**|**Dancing under the stars: video denoising in starlight**|Kristina Monakhova et.al.|[2204.04210v1](http://arxiv.org/abs/2204.04210v1)|null|
 |**2022-04-08**|**Karaoker: Alignment-free singing voice synthesis with speech training data**|Panos Kakoulidis et.al.|[2204.04127v1](http://arxiv.org/abs/2204.04127v1)|null|
-|**2022-04-08**|**Generative Adversarial Method Based On Neural Tangent Kernels**|Yu-Rong Zhang et.al.|[2204.04090v1](http://arxiv.org/abs/2204.04090v1)|null|
+|**2022-04-08**|**Generative Adversarial Method Based on Neural Tangent Kernels**|Yu-Rong Zhang et.al.|[2204.04090v2](http://arxiv.org/abs/2204.04090v2)|null|
 |**2022-04-08**|**BioBART: Pretraining and Evaluation of A Biomedical Generative Language Model**|Hongyi Yuan et.al.|[2204.03905v1](http://arxiv.org/abs/2204.03905v1)|**[link](https://github.com/GanjinZero/BioBART)**|
 |**2022-04-08**|**Multi-scale temporal network for continuous sign language recognition**|Qidan Zhu et.al.|[2204.03864v1](http://arxiv.org/abs/2204.03864v1)|null|
 |**2022-04-07**|**Unsupervised Image-to-Image Translation with Generative Prior**|Shuai Yang et.al.|[2204.03641v1](http://arxiv.org/abs/2204.03641v1)|**[link](https://github.com/williamyang1991/gp-unit)**|
