@@ -1,4 +1,4 @@
-## Updated on 2022.04.17
+## Updated on 2022.04.18
 
 ## Image Generation
 
@@ -833,7 +833,7 @@
 |**2022-04-11**|**ACuTE: Automatic Curriculum Transfer from Simple to Complex Environments**|Yash Shukla et.al.|[2204.04823v1](http://arxiv.org/abs/2204.04823v1)|**[link](https://github.com/tufts-ai-robotics-group/acute)**|
 |**2022-04-09**|**Federated Unsupervised Domain Adaptation for Face Recognition**|Weiming Zhuang et.al.|[2204.04382v1](http://arxiv.org/abs/2204.04382v1)|null|
 |**2022-04-09**|**Domain-Oriented Prefix-Tuning: Towards Efficient and Generalizable Fine-tuning for Zero-Shot Dialogue Summarization**|Lulu Zhao et.al.|[2204.04362v1](http://arxiv.org/abs/2204.04362v1)|**[link](https://github.com/Zeng-WH/DOP-Tuning)**|
-|**2022-04-09**|**Segmenting across places: The need for fair transfer learning with satellite imagery**|Miao Zhang et.al.|[2204.04358v2](http://arxiv.org/abs/2204.04358v2)|null|
+|**2022-04-09**|**Segmenting across places: The need for fair transfer learning with satellite imagery**|Miao Zhang et.al.|[2204.04358v3](http://arxiv.org/abs/2204.04358v3)|null|
 |**2022-04-08**|**Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation**|Lin Chen et.al.|[2204.03838v1](http://arxiv.org/abs/2204.03838v1)|**[link](https://github.com/xiaoachen98/daln)**|
 |**2022-04-07**|**Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand**|Leon Sievers et.al.|[2204.03698v2](http://arxiv.org/abs/2204.03698v2)|null|
 |**2022-04-07**|**Jacobian Norm for Unsupervised Source-Free Domain Adaptation**|Weikai Li et.al.|[2204.03467v1](http://arxiv.org/abs/2204.03467v1)|null|
