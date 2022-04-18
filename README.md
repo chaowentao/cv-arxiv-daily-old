@@ -134,6 +134,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-15**|**ResT V2: Simpler, Faster and Stronger**|Qing-Long Zhang et.al.|[2204.07366v1](http://arxiv.org/abs/2204.07366v1)|**[link](https://github.com/wofmanaf/ResT)**|
 |**2022-04-14**|**MiniViT: Compressing Vision Transformers with Weight Multiplexing**|Jinnian Zhang et.al.|[2204.07154v1](http://arxiv.org/abs/2204.07154v1)|**[link](https://github.com/microsoft/cream)**|
 |**2022-04-14**|**Masked Siamese Networks for Label-Efficient Learning**|Mahmoud Assran et.al.|[2204.07141v1](http://arxiv.org/abs/2204.07141v1)|**[link](https://github.com/facebookresearch/msn)**|
 |**2022-04-14**|**DeiT III: Revenge of the ViT**|Hugo Touvron et.al.|[2204.07118v1](http://arxiv.org/abs/2204.07118v1)|null|
@@ -380,6 +381,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-15**|**2D Human Pose Estimation: A Survey**|Haoming Chen et.al.|[2204.07370v1](http://arxiv.org/abs/2204.07370v1)|null|
 |**2022-04-13**|**Recognition of Freely Selected Keypoints on Human Limbs**|Katja Ludwig et.al.|[2204.06326v1](http://arxiv.org/abs/2204.06326v1)|null|
 |**2022-04-11**|**Towards Homogeneous Modality Learning and Multi-Granularity Information Exploration for Visible-Infrared Person Re-Identification**|Haojie Liu et.al.|[2204.04842v1](http://arxiv.org/abs/2204.04842v1)|null|
 |**2022-04-06**|**Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**|Yanan Wang et.al.|[2204.02611v2](http://arxiv.org/abs/2204.02611v2)|**[link](https://github.com/yanan-wang-cs/clonedperson)**|
@@ -454,6 +456,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-15**|**Unconditional Image-Text Pair Generation with Multimodal Cross Quantizer**|Hyungyung Lee et.al.|[2204.07537v1](http://arxiv.org/abs/2204.07537v1)|null|
+|**2022-04-15**|**XDBERT: Distilling Visual Information to BERT from Cross-Modal Systems to Improve Language Understanding**|Chan-Jan Hsu et.al.|[2204.07316v1](http://arxiv.org/abs/2204.07316v1)|null|
+|**2022-04-14**|**Separating the World and Ego Models for Self-Driving**|Vlad Sobal et.al.|[2204.07184v1](http://arxiv.org/abs/2204.07184v1)|null|
 |**2022-04-14**|**Multimodal spatiotemporal graph neural networks for improved prediction of 30-day all-cause hospital readmission**|Siyi Tang et.al.|[2204.06766v1](http://arxiv.org/abs/2204.06766v1)|**[link](https://github.com/tsy935/readmit-stgnn)**|
 |**2022-04-13**|**WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types**|Xuwu Wang et.al.|[2204.06347v1](http://arxiv.org/abs/2204.06347v1)|**[link](https://github.com/wangxw5/wikidiverse)**|
 |**2022-04-13**|**TIB-VA at SemEval-2022 Task 5: A Multimodal Architecture for the Detection and Classification of Misogynous Memes**|Sherzod Hakimov et.al.|[2204.06299v1](http://arxiv.org/abs/2204.06299v1)|null|
@@ -819,6 +824,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-15**|**Speaker-Aware Mixture of Mixtures Training for Weakly Supervised Speaker Extraction**|Zifeng Zhao et.al.|[2204.07375v1](http://arxiv.org/abs/2204.07375v1)|null|
+|**2022-04-15**|**Ensemble diverse hypotheses and knowledge distillation for unsupervised cross-subject adaptation**|Kuangen Zhang et.al.|[2204.07308v1](http://arxiv.org/abs/2204.07308v1)|null|
+|**2022-04-14**|**Test-Time Training Can Close the Natural Distribution Shift Performance Gap in Deep Learning Based Compressed Sensing**|Mohammad Zalbagi Darestani et.al.|[2204.07204v1](http://arxiv.org/abs/2204.07204v1)|null|
 |**2022-04-14**|**Activation Regression for Continuous Domain Generalization with Applications to Crop Classification**|Samar Khanna et.al.|[2204.07030v1](http://arxiv.org/abs/2204.07030v1)|**[link](https://github.com/samar-khanna/cropmap)**|
 |**2022-04-14**|**Using Machine Learning for Particle Identification in ALICE**|Łukasz Kamil Graczykowski et.al.|[2204.06900v1](http://arxiv.org/abs/2204.06900v1)|null|
 |**2022-04-14**|**Unsupervised Domain Adaptation with Implicit Pseudo Supervision for Semantic Segmentation**|Wanyu Xu et.al.|[2204.06747v1](http://arxiv.org/abs/2204.06747v1)|null|
@@ -1086,6 +1094,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-15**|**Evaluating few shot and Contrastive learning Methods for Code Clone Detection**|Mohamad Khajezade et.al.|[2204.07501v1](http://arxiv.org/abs/2204.07501v1)|null|
+|**2022-04-15**|**Improving Passage Retrieval with Zero-Shot Question Generation**|Devendra Singh Sachan et.al.|[2204.07496v1](http://arxiv.org/abs/2204.07496v1)|null|
+|**2022-04-15**|**Sensitivity of sparse codes to image distortions**|Kyle Luther et.al.|[2204.07466v1](http://arxiv.org/abs/2204.07466v1)|null|
+|**2022-04-15**|**Stretching Sentence-pair NLI Models to Reason over Long Documents and Clusters**|Tal Schuster et.al.|[2204.07447v1](http://arxiv.org/abs/2204.07447v1)|null|
+|**2022-04-15**|**Experimentally realized memristive memory augmented neural network**|Ruibin Mao et.al.|[2204.07429v1](http://arxiv.org/abs/2204.07429v1)|null|
+|**2022-04-15**|**Super Resolution for Turbulent Flows in 2D: Stabilized Physics Informed Neural Networks**|Mykhaylo Zayats et.al.|[2204.07413v1](http://arxiv.org/abs/2204.07413v1)|null|
+|**2022-04-15**|**Text Revision by On-the-Fly Representation Optimization**|Jingjing Li et.al.|[2204.07359v1](http://arxiv.org/abs/2204.07359v1)|**[link](https://github.com/jingjingli01/oreo)**|
+|**2022-04-15**|**Anomalous Sound Detection Based on Machine Activity Detection**|Tomoya Nishida et.al.|[2204.07353v1](http://arxiv.org/abs/2204.07353v1)|null|
+|**2022-04-15**|**Ensemble diverse hypotheses and knowledge distillation for unsupervised cross-subject adaptation**|Kuangen Zhang et.al.|[2204.07308v1](http://arxiv.org/abs/2204.07308v1)|null|
+|**2022-04-15**|**Pushing the Limits of Simple Pipelines for Few-Shot Learning: External Data and Fine-Tuning Make a Difference**|Shell Xu Hu et.al.|[2204.07305v1](http://arxiv.org/abs/2204.07305v1)|null|
+|**2022-04-15**|**Unsupervised Probabilistic Models for Sequential Electronic Health Records**|Alan D. Kaplan et.al.|[2204.07292v1](http://arxiv.org/abs/2204.07292v1)|null|
+|**2022-04-14**|**The Art of Prompting: Event Detection based on Type Specific Prompts**|Sijia Wang et.al.|[2204.07241v1](http://arxiv.org/abs/2204.07241v1)|null|
+|**2022-04-14**|**Brazilian Court Documents Clustered by Similarity Together Using Natural Language Processing Approaches with Transformers**|Raphael Souza de Oliveira et.al.|[2204.07182v1](http://arxiv.org/abs/2204.07182v1)|null|
 |**2022-04-14**|**Deformable Sprites for Unsupervised Video Decomposition**|Vickie Ye et.al.|[2204.07151v1](http://arxiv.org/abs/2204.07151v1)|null|
 |**2022-04-14**|**CLUES: A Benchmark for Learning Classifiers using Natural Language Explanations**|Rakesh R Menon et.al.|[2204.07142v1](http://arxiv.org/abs/2204.07142v1)|null|
 |**2022-04-14**|**Label Semantic Aware Pre-training for Few-shot Text Classification**|Aaron Mueller et.al.|[2204.07128v1](http://arxiv.org/abs/2204.07128v1)|null|
@@ -2242,6 +2263,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-15**|**Synthesizing Informative Training Samples with GAN**|Bo Zhao et.al.|[2204.07513v1](http://arxiv.org/abs/2204.07513v1)|null|
+|**2022-04-14**|**Qtrade AI at SemEval-2022 Task 11: An Unified Framework for Multilingual NER Task**|Weichao Gan et.al.|[2204.07459v1](http://arxiv.org/abs/2204.07459v1)|null|
+|**2022-04-15**|**Exciton spectroscopy and diffusion in MoSe2-WSe2 lateral heterostructures encapsulated in hexagonal boron nitride**|Dorian Beret et.al.|[2204.07351v1](http://arxiv.org/abs/2204.07351v1)|null|
+|**2022-04-15**|**Guided Co-Modulated GAN for 360° Field of View Extrapolation**|Mohammad Reza Karimi Dastjerdi et.al.|[2204.07286v1](http://arxiv.org/abs/2204.07286v1)|null|
+|**2022-04-14**|**Robotic and Generative Adversarial Attacks in Offline Writer-independent Signature Verification**|Jordan J. Bird et.al.|[2204.07246v1](http://arxiv.org/abs/2204.07246v1)|null|
 |**2022-04-14**|**Any-resolution Training for High-resolution Image Synthesis**|Lucy Chai et.al.|[2204.07156v1](http://arxiv.org/abs/2204.07156v1)|null|
 |**2022-04-14**|**A 5.7 THz GaN/AlGaN quantum cascade detector based on polar step quantum wells**|Patrick Quach et.al.|[2204.07117v1](http://arxiv.org/abs/2204.07117v1)|null|
 |**2022-04-14**|**Arithmetic Level Raising for Certain Quaternionic Unitary Shimura Varieties**|Haining Wang et.al.|[2204.06976v1](http://arxiv.org/abs/2204.06976v1)|null|
