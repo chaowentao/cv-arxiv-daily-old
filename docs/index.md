@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.18
+## Updated on 2022.04.19
 
 ## SLAM
 
@@ -292,7 +292,7 @@ layout: default
 |**2022-04-14**|**DeiT III: Revenge of the ViT**|Hugo Touvron et.al.|[2204.07118v1](http://arxiv.org/abs/2204.07118v1)|null|
 |**2022-04-14**|**Residual Swin Transformer Channel Attention Network for Image Demosaicing**|Wenzhu Xing et.al.|[2204.07098v1](http://arxiv.org/abs/2204.07098v1)|null|
 |**2022-04-14**|**3D Shuffle-Mixer: An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume**|Jianye Pang et.al.|[2204.06779v1](http://arxiv.org/abs/2204.06779v1)|null|
-|**2022-04-14**|**ViTOL: Vision Transformer for Weakly Supervised Object Localization**|Saurav Gupta et.al.|[2204.06772v1](http://arxiv.org/abs/2204.06772v1)|null|
+|**2022-04-14**|**ViTOL: Vision Transformer for Weakly Supervised Object Localization**|Saurav Gupta et.al.|[2204.06772v1](http://arxiv.org/abs/2204.06772v1)|**[link](https://github.com/saurav-31/vitol)**|
 |**2022-04-13**|**Recognition of Freely Selected Keypoints on Human Limbs**|Katja Ludwig et.al.|[2204.06326v1](http://arxiv.org/abs/2204.06326v1)|null|
 |**2022-04-12**|**TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation**|Wenqiang Zhang et.al.|[2204.05525v1](http://arxiv.org/abs/2204.05525v1)|**[link](https://github.com/hustvl/TopFormer)**|
 |**2022-04-11**|**Self-supervised Vision Transformers for Joint SAR-optical Representation Learning**|Yi Wang et.al.|[2204.05381v1](http://arxiv.org/abs/2204.05381v1)|null|
@@ -300,7 +300,7 @@ layout: default
 |**2022-04-11**|**Evaluating Vision Transformer Methods for Deep Reinforcement Learning from Pixels**|Tianxin Tao et.al.|[2204.04905v1](http://arxiv.org/abs/2204.04905v1)|null|
 |**2022-04-10**|**Panoptic-PartFormer: Learning a Unified Model for Panoptic Part Segmentation**|Xiangtai Li et.al.|[2204.04655v1](http://arxiv.org/abs/2204.04655v1)|null|
 |**2022-04-10**|**Fashionformer: A simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition**|Shilin Xu et.al.|[2204.04654v1](http://arxiv.org/abs/2204.04654v1)|null|
-|**2022-04-08**|**Learning Trajectory-Aware Transformer for Video Super-Resolution**|Chengxu Liu et.al.|[2204.04216v1](http://arxiv.org/abs/2204.04216v1)|**[link](https://github.com/researchmm/TTVSR)**|
+|**2022-04-08**|**Learning Trajectory-Aware Transformer for Video Super-Resolution**|Chengxu Liu et.al.|[2204.04216v2](http://arxiv.org/abs/2204.04216v2)|**[link](https://github.com/researchmm/TTVSR)**|
 |**2022-04-08**|**Does Robustness on ImageNet Transfer to Downstream Tasks?**|Yutaro Yamada et.al.|[2204.03934v1](http://arxiv.org/abs/2204.03934v1)|null|
 |**2022-04-08**|**Vision Transformers for Single Image Dehazing**|Yuda Song et.al.|[2204.03883v1](http://arxiv.org/abs/2204.03883v1)|**[link](https://github.com/IDKiro/DehazeFormer)**|
 |**2022-04-07**|**DaViT: Dual Attention Vision Transformers**|Mingyu Ding et.al.|[2204.03645v1](http://arxiv.org/abs/2204.03645v1)|**[link](https://github.com/dingmyu/davit)**|
@@ -1265,7 +1265,7 @@ layout: default
 |**2022-04-14**|**Learning and controlling the source-filter representation of speech with a variational autoencoder**|Samir Sadok et.al.|[2204.07075v1](http://arxiv.org/abs/2204.07075v1)|null|
 |**2022-04-14**|**Solving AC Power Flow with Graph Neural Networks under Realistic Constraints**|Luis Böttcher et.al.|[2204.07000v1](http://arxiv.org/abs/2204.07000v1)|null|
 |**2022-04-14**|**Latent Aspect Detection from Online Unsolicited Customer Reviews**|Mohammad Forouhesh et.al.|[2204.06964v1](http://arxiv.org/abs/2204.06964v1)|**[link](https://github.com/MohammadForouhesh/latent-aspect-detection)**|
-|**2022-04-14**|**Unsupervised Deep Learning Meets Chan-Vese Model**|Dihan Zheng et.al.|[2204.06951v1](http://arxiv.org/abs/2204.06951v1)|null|
+|**2022-04-14**|**Unsupervised Deep Learning Meets Chan-Vese Model**|Dihan Zheng et.al.|[2204.06951v1](http://arxiv.org/abs/2204.06951v1)|**[link](https://github.com/zhengdharia/Deep_CV_segmentation)**|
 |**2022-04-14**|**Implicit Sample Extension for Unsupervised Person Re-Identification**|Xinyu Zhang et.al.|[2204.06892v1](http://arxiv.org/abs/2204.06892v1)|**[link](https://github.com/PaddlePaddle/PaddleClas)**|
 |**2022-04-14**|**ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision**|Anastasiia Sedova et.al.|[2204.06863v1](http://arxiv.org/abs/2204.06863v1)|null|
 |**2022-04-14**|**Unsupervised Domain Adaptation with Implicit Pseudo Supervision for Semantic Segmentation**|Wanyu Xu et.al.|[2204.06747v1](http://arxiv.org/abs/2204.06747v1)|null|
@@ -2422,7 +2422,7 @@ layout: default
 |**2022-04-14**|**Robotic and Generative Adversarial Attacks in Offline Writer-independent Signature Verification**|Jordan J. Bird et.al.|[2204.07246v1](http://arxiv.org/abs/2204.07246v1)|null|
 |**2022-04-14**|**Any-resolution Training for High-resolution Image Synthesis**|Lucy Chai et.al.|[2204.07156v1](http://arxiv.org/abs/2204.07156v1)|null|
 |**2022-04-14**|**A 5.7 THz GaN/AlGaN quantum cascade detector based on polar step quantum wells**|Patrick Quach et.al.|[2204.07117v1](http://arxiv.org/abs/2204.07117v1)|null|
-|**2022-04-14**|**Arithmetic Level Raising for Certain Quaternionic Unitary Shimura Varieties**|Haining Wang et.al.|[2204.06976v1](http://arxiv.org/abs/2204.06976v1)|null|
+|**2022-04-14**|**Arithmetic level raising for certain quaternionic unitary Shimura variety**|Haining Wang et.al.|[2204.06976v2](http://arxiv.org/abs/2204.06976v2)|null|
 |**2022-04-14**|**Sketch guided and progressive growing GAN for realistic and editable ultrasound image synthesis**|Jiamin Liang et.al.|[2204.06929v1](http://arxiv.org/abs/2204.06929v1)|null|
 |**2022-04-14**|**Room-temperature printing of ultrathin Quasi-2D GaN semiconductor via liquid metal gallium surface confined nitridation reaction**|Qian Li et.al.|[2204.06702v1](http://arxiv.org/abs/2204.06702v1)|null|
 |**2022-04-13**|**BEHM-GAN: Bandwidth Extension of Historical Music using Generative Adversarial Networks**|Eloi Moliner et.al.|[2204.06478v1](http://arxiv.org/abs/2204.06478v1)|**[link](https://github.com/eloimoliner/bwe_historical_recordings)**|
@@ -2430,7 +2430,7 @@ layout: default
 |**2022-04-12**|**A Post Auto-regressive GAN Vocoder Focused on Spectrum Fracture**|Zhenxing Lu et.al.|[2204.06086v1](http://arxiv.org/abs/2204.06086v1)|null|
 |**2022-04-12**|**On the generalized Ramanujan conjecture over function fields**|Dan Ciubotaru et.al.|[2204.06053v1](http://arxiv.org/abs/2204.06053v1)|null|
 |**2022-04-12**|**Few-shot Forgery Detection via Guided Adversarial Interpolation**|Haonan Qiu et.al.|[2204.05905v1](http://arxiv.org/abs/2204.05905v1)|null|
-|**2022-04-11**|**medXGAN: Visual Explanations for Medical Classifiers through a Generative Latent Space**|Amil Dravid et.al.|[2204.05376v1](http://arxiv.org/abs/2204.05376v1)|null|
+|**2022-04-11**|**medXGAN: Visual Explanations for Medical Classifiers through a Generative Latent Space**|Amil Dravid et.al.|[2204.05376v2](http://arxiv.org/abs/2204.05376v2)|null|
 |**2022-04-07**|**PetroGAN: A novel GAN-based approach to generate realistic, label-free petrographic datasets**|I. Ferreira et.al.|[2204.05114v1](http://arxiv.org/abs/2204.05114v1)|null|
 |**2022-04-11**|**Commonality in Natural Images Rescues GANs: Pretraining GANs with Generic and Privacy-free Synthetic Data**|Kyungjune Baek et.al.|[2204.04950v1](http://arxiv.org/abs/2204.04950v1)|**[link](https://github.com/friedronaldo/primitives-ps)**|
 |**2022-04-11**|**Towards Homogeneous Modality Learning and Multi-Granularity Information Exploration for Visible-Infrared Person Re-Identification**|Haojie Liu et.al.|[2204.04842v1](http://arxiv.org/abs/2204.04842v1)|null|
