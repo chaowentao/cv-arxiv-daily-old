@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.19
+## Updated on 2022.04.20
 
 ## SLAM
 
@@ -620,8 +620,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-04-18**|**Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion**|Evonne Ng et.al.|[2204.08451v1](http://arxiv.org/abs/2204.08451v1)|null|
-|**2022-04-18**|**LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking**|Yupan Huang et.al.|[2204.08387v1](http://arxiv.org/abs/2204.08387v1)|null|
-|**2022-04-18**|**MHSCNet: A Multimodal Hierarchical Shot-aware Convolutional Network for Video Summarization**|Wujiang Xu et.al.|[2204.08352v1](http://arxiv.org/abs/2204.08352v1)|null|
+|**2022-04-18**|**LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking**|Yupan Huang et.al.|[2204.08387v2](http://arxiv.org/abs/2204.08387v2)|null|
+|**2022-04-18**|**MHSCNet: A Multimodal Hierarchical Shot-aware Convolutional Network for Video Summarization**|Wujiang Xu et.al.|[2204.08352v2](http://arxiv.org/abs/2204.08352v2)|null|
 |**2022-04-17**|**MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration**|Thomas Hayes et.al.|[2204.08058v1](http://arxiv.org/abs/2204.08058v1)|null|
 |**2022-04-17**|**Anomaly Detection in Autonomous Driving: A Survey**|Daniel Bogdoll et.al.|[2204.07974v1](http://arxiv.org/abs/2204.07974v1)|null|
 |**2022-04-17**|**Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis**|Yan Ling et.al.|[2204.07955v1](http://arxiv.org/abs/2204.07955v1)|null|
@@ -1275,7 +1275,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-04-18**|**Revisiting Consistency Regularization for Semi-supervised Change Detection in Remote Sensing Images**|Wele Gedara Chaminda Bandara et.al.|[2204.08454v1](http://arxiv.org/abs/2204.08454v1)|**[link](https://github.com/wgcban/SemiCD)**|
+|**2022-04-18**|**Revisiting Consistency Regularization for Semi-supervised Change Detection in Remote Sensing Images**|Wele Gedara Chaminda Bandara et.al.|[2204.08454v2](http://arxiv.org/abs/2204.08454v2)|**[link](https://github.com/wgcban/SemiCD)**|
 |**2022-04-18**|**Exploring Dimensionality Reduction Techniques in Multilingual Transformers**|Álvaro Huertas-García et.al.|[2204.08415v1](http://arxiv.org/abs/2204.08415v1)|null|
 |**2022-04-18**|**STONet: A Neural-Operator-Driven Spatio-temporal Network**|Haitao Lin et.al.|[2204.08414v1](http://arxiv.org/abs/2204.08414v1)|null|
 |**2022-04-18**|**Zero-shot Entity and Tweet Characterization with Designed Conditional Prompts and Contexts**|Sharath Srivatsa et.al.|[2204.08405v1](http://arxiv.org/abs/2204.08405v1)|null|
@@ -1283,10 +1283,10 @@ layout: default
 |**2022-04-18**|**Zero-Shot Program Representation Learning**|Nan Cui et.al.|[2204.08360v1](http://arxiv.org/abs/2204.08360v1)|null|
 |**2022-04-18**|**GL-CLeF: A Global-Local Contrastive Learning Framework for Cross-lingual Spoken Language Understanding**|Libo Qin et.al.|[2204.08325v1](http://arxiv.org/abs/2204.08325v1)|**[link](https://github.com/lightchen233/gl-clef)**|
 |**2022-04-18**|**Unsupervised domain adaptation and super resolution on drone images for autonomous dry herbage biomass estimation**|Paul Albert et.al.|[2204.08271v1](http://arxiv.org/abs/2204.08271v1)|**[link](https://github.com/paulalbert31/clover_ssl)**|
-|**2022-04-18**|**Differentiable Time-Frequency Scattering in Kymatio**|John Muradeli et.al.|[2204.08269v1](http://arxiv.org/abs/2204.08269v1)|**[link](https://github.com/rastegah/kymatio-jtfs)**|
+|**2022-04-18**|**Differentiable Time-Frequency Scattering in Kymatio**|John Muradeli et.al.|[2204.08269v2](http://arxiv.org/abs/2204.08269v2)|**[link](https://github.com/rastegah/kymatio-jtfs)**|
 |**2022-04-18**|**Joint Multi-view Unsupervised Feature Selection and Graph Learning**|Si-Guo Fang et.al.|[2204.08247v1](http://arxiv.org/abs/2204.08247v1)|null|
 |**2022-04-18**|**Understanding Gradual Domain Adaptation: Improved Analysis, Optimal Path and Beyond**|Haoxiang Wang et.al.|[2204.08200v1](http://arxiv.org/abs/2204.08200v1)|**[link](https://github.com/Haoxiang-Wang/gradual-domain-adaptation)**|
-|**2022-04-18**|**Semi-Supervised Super-Resolution**|Ankur Singh et.al.|[2204.08192v1](http://arxiv.org/abs/2204.08192v1)|null|
+|**2022-04-18**|**Semi-Supervised Super-Resolution**|Ankur Singh et.al.|[2204.08192v2](http://arxiv.org/abs/2204.08192v2)|null|
 |**2022-04-18**|**A Study on Prompt-based Few-Shot Learning Methods for Belief State Tracking in Task-oriented Dialog Systems**|Debjoy Saha et.al.|[2204.08167v1](http://arxiv.org/abs/2204.08167v1)|null|
 |**2022-04-18**|**Robust End-to-end Speaker Diarization with Generic Neural Clustering**|Chenyu Yang et.al.|[2204.08164v1](http://arxiv.org/abs/2204.08164v1)|null|
 |**2022-04-17**|**Learning Compositional Representations for Effective Low-Shot Generalization**|Samarth Mishra et.al.|[2204.08090v1](http://arxiv.org/abs/2204.08090v1)|null|
@@ -2466,7 +2466,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-04-13**|**Migrating Face Swap to Mobile Devices: A lightweight Framework and A Supervised Training Solution**|Haiming Yu et.al.|[2204.08339v1](http://arxiv.org/abs/2204.08339v1)|null|
 |**2022-04-18**|**A Comprehensive Survey on Data-Efficient GANs in Image Generation**|Ziqiang Li et.al.|[2204.08329v1](http://arxiv.org/abs/2204.08329v1)|null|
-|**2022-04-18**|**Semi-Supervised Super-Resolution**|Ankur Singh et.al.|[2204.08192v1](http://arxiv.org/abs/2204.08192v1)|null|
+|**2022-04-18**|**Semi-Supervised Super-Resolution**|Ankur Singh et.al.|[2204.08192v2](http://arxiv.org/abs/2204.08192v2)|null|
 |**2022-04-17**|**Target-Relevant Knowledge Preservation for Multi-Source Domain Adaptive Object Detection**|Jiaxi Wu et.al.|[2204.07964v1](http://arxiv.org/abs/2204.07964v1)|null|
 |**2022-04-17**|**DR-GAN: Distribution Regularization for Text-to-Image Generation**|Hongchen Tan et.al.|[2204.07945v1](http://arxiv.org/abs/2204.07945v1)|**[link](https://github.com/Tan-H-C/DR-GAN-Distribution-Regularization-for-Text-to-Image-Generation)**|
 |**2022-04-17**|**StyleT2F: Generating Human Faces from Textual Description Using StyleGAN2**|Mohamed Shawky Sabae et.al.|[2204.07924v1](http://arxiv.org/abs/2204.07924v1)|**[link](https://github.com/darkgeekms/retratista)**|
@@ -2480,7 +2480,7 @@ layout: default
 |**2022-04-14**|**Any-resolution Training for High-resolution Image Synthesis**|Lucy Chai et.al.|[2204.07156v1](http://arxiv.org/abs/2204.07156v1)|null|
 |**2022-04-14**|**A 5.7 THz GaN/AlGaN quantum cascade detector based on polar step quantum wells**|Patrick Quach et.al.|[2204.07117v1](http://arxiv.org/abs/2204.07117v1)|null|
 |**2022-04-14**|**Arithmetic level raising for certain quaternionic unitary Shimura variety**|Haining Wang et.al.|[2204.06976v2](http://arxiv.org/abs/2204.06976v2)|null|
-|**2022-04-14**|**Sketch guided and progressive growing GAN for realistic and editable ultrasound image synthesis**|Jiamin Liang et.al.|[2204.06929v1](http://arxiv.org/abs/2204.06929v1)|null|
+|**2022-04-14**|**Sketch guided and progressive growing GAN for realistic and editable ultrasound image synthesis**|Jiamin Liang et.al.|[2204.06929v2](http://arxiv.org/abs/2204.06929v2)|null|
 |**2022-04-14**|**Room-temperature printing of ultrathin Quasi-2D GaN semiconductor via liquid metal gallium surface confined nitridation reaction**|Qian Li et.al.|[2204.06702v1](http://arxiv.org/abs/2204.06702v1)|null|
 |**2022-04-13**|**BEHM-GAN: Bandwidth Extension of Historical Music using Generative Adversarial Networks**|Eloi Moliner et.al.|[2204.06478v1](http://arxiv.org/abs/2204.06478v1)|**[link](https://github.com/eloimoliner/bwe_historical_recordings)**|
 |**2022-04-13**|**A quantum generative model for multi-dimensional time series using Hamiltonian learning**|Haim Horowitz et.al.|[2204.06150v1](http://arxiv.org/abs/2204.06150v1)|null|
