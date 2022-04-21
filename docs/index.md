@@ -204,6 +204,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-20**|**SILVR: A Synthetic Immersive Large-Volume Plenoptic Dataset**|Martijn Courteaux et.al.|[2204.09523v1](http://arxiv.org/abs/2204.09523v1)|**[link](https://github.com/IDLabMEDIA/blender-lightfield-addon)**|
+|**2022-04-20**|**Optical conductivity and orbital magnetization of Floquet vortex states**|Iman Ahmadabadi et.al.|[2204.09488v1](http://arxiv.org/abs/2204.09488v1)|null|
 |**2022-04-19**|**The Coming Decades of Quantum Simulation**|Joana Fraxanet et.al.|[2204.08905v1](http://arxiv.org/abs/2204.08905v1)|null|
 |**2022-04-16**|**Gravitational time dilation in extended quantum systems: the case of light clocks in Schwarzschild spacetime**|Tupac Bravo et.al.|[2204.07869v1](http://arxiv.org/abs/2204.07869v1)|null|
 |**2022-04-07**|**Integrating out beyond tree level and relativistic superfluids**|Austin Joyce et.al.|[2204.03678v1](http://arxiv.org/abs/2204.03678v1)|null|
@@ -288,9 +290,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-20**|**Residual Mixture of Experts**|Lemeng Wu et.al.|[2204.09636v1](http://arxiv.org/abs/2204.09636v1)|null|
 |**2022-04-19**|**Multimodal Token Fusion for Vision Transformers**|Yikai Wang et.al.|[2204.08721v1](http://arxiv.org/abs/2204.08721v1)|null|
 |**2022-04-19**|**Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer**|Wang Zeng et.al.|[2204.08680v2](http://arxiv.org/abs/2204.08680v2)|**[link](https://github.com/zengwang430521/tcformer)**|
-|**2022-04-18**|**VSA: Learning Varied-Size Window Attention in Vision Transformers**|Qiming Zhang et.al.|[2204.08446v1](http://arxiv.org/abs/2204.08446v1)|null|
+|**2022-04-18**|**VSA: Learning Varied-Size Window Attention in Vision Transformers**|Qiming Zhang et.al.|[2204.08446v1](http://arxiv.org/abs/2204.08446v1)|**[link](https://github.com/vitae-transformer/vitae-vsa)**|
 |**2022-04-18**|**Temporally Efficient Vision Transformer for Video Instance Segmentation**|Shusheng Yang et.al.|[2204.08412v1](http://arxiv.org/abs/2204.08412v1)|**[link](https://github.com/hustvl/tevit)**|
 |**2022-04-17**|**An Extendable, Efficient and Effective Transformer-based Object Detector**|Hwanjun Song et.al.|[2204.07962v1](http://arxiv.org/abs/2204.07962v1)|**[link](https://github.com/naver-ai/vidt)**|
 |**2022-04-16**|**Searching Intrinsic Dimensions of Vision Transformers**|Fanghui Xue et.al.|[2204.07722v1](http://arxiv.org/abs/2204.07722v1)|null|
@@ -543,6 +546,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-20**|**FenceNet: Fine-grained Footwork Recognition in Fencing**|Kevin Zhu et.al.|[2204.09434v1](http://arxiv.org/abs/2204.09434v1)|null|
+|**2022-04-20**|**Visual-based Positioning and Pose Estimation**|Somnuk Phon-Amnuaisuk et.al.|[2204.09232v1](http://arxiv.org/abs/2204.09232v1)|null|
 |**2022-04-19**|**Self-Supervised Equivariant Learning for Oriented Keypoint Detection**|Jongmin Lee et.al.|[2204.08613v1](http://arxiv.org/abs/2204.08613v1)|null|
 |**2022-04-17**|**The Z-axis, X-axis, Weight and Disambiguation Methods for Constructing Local Reference Frame in 3D Registration: An Evaluation**|Bao Zhao et.al.|[2204.08024v1](http://arxiv.org/abs/2204.08024v1)|null|
 |**2022-04-17**|**Integrated In-vehicle Monitoring System Using 3D Human Pose Estimation and Seat Belt Segmentation**|Ginam Kim et.al.|[2204.07946v1](http://arxiv.org/abs/2204.07946v1)|null|
@@ -623,6 +628,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-20**|**Softening molecular bonds through the giant optomechanical spring effect in plasmonic nanocavities**|Lukas A. Jakob et.al.|[2204.09641v1](http://arxiv.org/abs/2204.09641v1)|null|
+|**2022-04-20**|**Clotho-AQA: A Crowdsourced Dataset for Audio Question Answering**|Samuel Lipping et.al.|[2204.09634v1](http://arxiv.org/abs/2204.09634v1)|null|
+|**2022-04-20**|**Bone marrow sparing for cervical cancer radiotherapy on multimodality medical images**|Yuening Wang et.al.|[2204.09278v1](http://arxiv.org/abs/2204.09278v1)|null|
+|**2022-04-20**|**Sound-Guided Semantic Video Generation**|Seung Hyun Lee et.al.|[2204.09273v1](http://arxiv.org/abs/2204.09273v1)|null|
 |**2022-04-19**|**Opal: Multimodal Image Generation for News Illustration**|Vivian Liu et.al.|[2204.09007v1](http://arxiv.org/abs/2204.09007v1)|null|
 |**2022-04-19**|**The Interplay between Quantum Contextuality and Wigner Negativity**|Pierre-Emmanuel Emeriau et.al.|[2204.08782v1](http://arxiv.org/abs/2204.08782v1)|null|
 |**2022-04-19**|**Multimodal Token Fusion for Vision Transformers**|Yikai Wang et.al.|[2204.08721v1](http://arxiv.org/abs/2204.08721v1)|null|
@@ -1008,6 +1017,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-20**|**CALI: Coarse-to-Fine ALIgnments Based Unsupervised Domain Adaptation of Traversability Prediction for Deployable Autonomous Navigation**|Zheng Chen et.al.|[2204.09617v1](http://arxiv.org/abs/2204.09617v1)|null|
+|**2022-04-20**|**Unsupervised Domain Adaptation for Cardiac Segmentation: Towards Structure Mutual Information Maximization**|Changjie Lu et.al.|[2204.09334v1](http://arxiv.org/abs/2204.09334v1)|**[link](https://github.com/louey233/toward-mutual-information)**|
+|**2022-04-20**|**DaLC: Domain Adaptation Learning Curve Prediction for Neural Machine Translation**|Cheonbok Park et.al.|[2204.09259v1](http://arxiv.org/abs/2204.09259v1)|null|
+|**2022-04-20**|**DAME: Domain Adaptation for Matching Entities**|Mohamed Trabelsi et.al.|[2204.09244v1](http://arxiv.org/abs/2204.09244v1)|**[link](https://github.com/medtray/dame)**|
 |**2022-04-18**|**Benchmarking Domain Generalization on EEG-based Emotion Recognition**|Yan Li et.al.|[2204.09016v1](http://arxiv.org/abs/2204.09016v1)|null|
 |**2022-04-19**|**SePiCo: Semantic-Guided Pixel Contrast for Domain Adaptive Semantic Segmentation**|Binhui Xie et.al.|[2204.08808v1](http://arxiv.org/abs/2204.08808v1)|**[link](https://github.com/bit-da/sepico)**|
 |**2022-04-19**|**Augmentation of Atmospheric Turbulence Effects on Thermal Adapted Object Detection Models**|Engin Uzun et.al.|[2204.08745v1](http://arxiv.org/abs/2204.08745v1)|null|
@@ -1290,6 +1303,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-20**|**CALI: Coarse-to-Fine ALIgnments Based Unsupervised Domain Adaptation of Traversability Prediction for Deployable Autonomous Navigation**|Zheng Chen et.al.|[2204.09617v1](http://arxiv.org/abs/2204.09617v1)|null|
+|**2022-04-20**|**Unsupervised Ranking and Aggregation of Label Descriptions for Zero-Shot Classifiers**|Angelo Basile et.al.|[2204.09481v1](http://arxiv.org/abs/2204.09481v1)|null|
+|**2022-04-20**|**Generative or Contrastive? Phrase Reconstruction for Better Sentence Representation Learning**|Bohong Wu et.al.|[2204.09358v1](http://arxiv.org/abs/2204.09358v1)|null|
+|**2022-04-20**|**Active Few-Shot Learning with FASL**|Thomas Müller et.al.|[2204.09347v1](http://arxiv.org/abs/2204.09347v1)|**[link](https://github.com/symanto-research/active-few-shot-learning)**|
+|**2022-04-20**|**Utilizing unsupervised learning to improve sward content prediction and herbage mass estimation**|Paul Albert et.al.|[2204.09343v1](http://arxiv.org/abs/2204.09343v1)|null|
+|**2022-04-20**|**Unsupervised Domain Adaptation for Cardiac Segmentation: Towards Structure Mutual Information Maximization**|Changjie Lu et.al.|[2204.09334v1](http://arxiv.org/abs/2204.09334v1)|**[link](https://github.com/louey233/toward-mutual-information)**|
+|**2022-04-20**|**Self-supervised Learning for Sonar Image Classification**|Alan Preciado-Grijalva et.al.|[2204.09323v1](http://arxiv.org/abs/2204.09323v1)|**[link](https://github.com/agrija9/ssl-sonar-images)**|
+|**2022-04-20**|**DAME: Domain Adaptation for Matching Entities**|Mohamed Trabelsi et.al.|[2204.09244v1](http://arxiv.org/abs/2204.09244v1)|**[link](https://github.com/medtray/dame)**|
+|**2022-04-20**|**K-LITE: Learning Transferable Visual Models with External Knowledge**|Sheng Shen et.al.|[2204.09222v1](http://arxiv.org/abs/2204.09222v1)|null|
+|**2022-04-19**|**City Motifs as Revealed by Similarity Between Hierarchical Features**|Guilherme S. Domingues et.al.|[2204.09104v1](http://arxiv.org/abs/2204.09104v1)|null|
+|**2022-04-19**|**Behind the Machine's Gaze: Biologically Constrained Neural Networks Exhibit Human-like Visual Attention**|Leo Schwinn et.al.|[2204.09093v1](http://arxiv.org/abs/2204.09093v1)|null|
+|**2022-04-20**|**An unsupervised approach for semantic place annotation of trajectories based on the prior probability**|Junyi Cheng et.al.|[2204.09054v1](http://arxiv.org/abs/2204.09054v1)|null|
 |**2022-04-19**|**Unsupervised detection of ash dieback disease (Hymenoscyphus fraxineus) using diffusion-based hyperspectral image clustering**|Sam L. Polk et.al.|[2204.09041v1](http://arxiv.org/abs/2204.09041v1)|null|
 |**2022-04-19**|**Dual-Domain Image Synthesis using Segmentation-Guided GAN**|Dena Bazazian et.al.|[2204.09015v1](http://arxiv.org/abs/2204.09015v1)|null|
 |**2022-04-19**|**Metappearance: Meta-Learning for Visual Appearance Reproduction**|Michael Fischer et.al.|[2204.08993v1](http://arxiv.org/abs/2204.08993v1)|null|
@@ -2431,6 +2456,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-20**|**SILVR: A Synthetic Immersive Large-Volume Plenoptic Dataset**|Martijn Courteaux et.al.|[2204.09523v1](http://arxiv.org/abs/2204.09523v1)|**[link](https://github.com/IDLabMEDIA/blender-lightfield-addon)**|
 |**2022-04-12**|**GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation**|Shin-Fang Chng et.al.|[2204.05735v1](http://arxiv.org/abs/2204.05735v1)|null|
 |**2022-04-10**|**NAN: Noise-Aware NeRFs for Burst-Denoising**|Naama Pearl et.al.|[2204.04668v2](http://arxiv.org/abs/2204.04668v2)|null|
 |**2022-04-07**|**Gravitationally Lensed Black Hole Emission Tomography**|Aviad Levis et.al.|[2204.03715v1](http://arxiv.org/abs/2204.03715v1)|null|
@@ -2493,6 +2519,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-20**|**DAM-GAN : Image Inpainting using Dynamic Attention Map based on Fake Texture Detection**|Dongmin Cha et.al.|[2204.09442v1](http://arxiv.org/abs/2204.09442v1)|null|
+|**2022-04-20**|**Bone marrow sparing for cervical cancer radiotherapy on multimodality medical images**|Yuening Wang et.al.|[2204.09278v1](http://arxiv.org/abs/2204.09278v1)|null|
+|**2022-04-20**|**K-LITE: Learning Transferable Visual Models with External Knowledge**|Sheng Shen et.al.|[2204.09222v1](http://arxiv.org/abs/2204.09222v1)|null|
+|**2022-04-20**|**Characterization of GaN-based HEMTs Down to 4.2 K for Cryogenic Applications**|Bolun Zeng et.al.|[2204.09216v1](http://arxiv.org/abs/2204.09216v1)|null|
+|**2022-04-19**|**Ternary Wide Band Gap Oxides for High-Power Electronics Identified Computationally**|Emily McDonald Garrity et.al.|[2204.09158v1](http://arxiv.org/abs/2204.09158v1)|null|
 |**2022-04-19**|**Dual-Domain Image Synthesis using Segmentation-Guided GAN**|Dena Bazazian et.al.|[2204.09015v1](http://arxiv.org/abs/2204.09015v1)|null|
 |**2022-04-19**|**MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment**|Sidi Yang et.al.|[2204.08958v1](http://arxiv.org/abs/2204.08958v1)|**[link](https://github.com/iigroup/maniqa)**|
 |**2022-04-19**|**Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations**|Atsuhiro Noguchi et.al.|[2204.08839v1](http://arxiv.org/abs/2204.08839v1)|null|
