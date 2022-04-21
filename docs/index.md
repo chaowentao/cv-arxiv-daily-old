@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.20
+## Updated on 2022.04.21
 
 ## SLAM
 
@@ -289,7 +289,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-04-19**|**Multimodal Token Fusion for Vision Transformers**|Yikai Wang et.al.|[2204.08721v1](http://arxiv.org/abs/2204.08721v1)|null|
-|**2022-04-19**|**Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer**|Wang Zeng et.al.|[2204.08680v1](http://arxiv.org/abs/2204.08680v1)|**[link](https://github.com/zengwang430521/tcformer)**|
+|**2022-04-19**|**Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer**|Wang Zeng et.al.|[2204.08680v2](http://arxiv.org/abs/2204.08680v2)|**[link](https://github.com/zengwang430521/tcformer)**|
 |**2022-04-18**|**VSA: Learning Varied-Size Window Attention in Vision Transformers**|Qiming Zhang et.al.|[2204.08446v1](http://arxiv.org/abs/2204.08446v1)|null|
 |**2022-04-18**|**Temporally Efficient Vision Transformer for Video Instance Segmentation**|Shusheng Yang et.al.|[2204.08412v1](http://arxiv.org/abs/2204.08412v1)|**[link](https://github.com/hustvl/tevit)**|
 |**2022-04-17**|**An Extendable, Efficient and Effective Transformer-based Object Detector**|Hwanjun Song et.al.|[2204.07962v1](http://arxiv.org/abs/2204.07962v1)|**[link](https://github.com/naver-ai/vidt)**|
@@ -626,14 +626,14 @@ layout: default
 |**2022-04-19**|**Opal: Multimodal Image Generation for News Illustration**|Vivian Liu et.al.|[2204.09007v1](http://arxiv.org/abs/2204.09007v1)|null|
 |**2022-04-19**|**The Interplay between Quantum Contextuality and Wigner Negativity**|Pierre-Emmanuel Emeriau et.al.|[2204.08782v1](http://arxiv.org/abs/2204.08782v1)|null|
 |**2022-04-19**|**Multimodal Token Fusion for Vision Transformers**|Yikai Wang et.al.|[2204.08721v1](http://arxiv.org/abs/2204.08721v1)|null|
-|**2022-04-19**|**Audio-Visual Wake Word Spotting System For MISP Challenge 2021**|Yanguang Xu et.al.|[2204.08686v1](http://arxiv.org/abs/2204.08686v1)|null|
+|**2022-04-19**|**Audio-Visual Wake Word Spotting System For MISP Challenge 2021**|Yanguang Xu et.al.|[2204.08686v2](http://arxiv.org/abs/2204.08686v2)|null|
 |**2022-04-18**|**Multimodal Proximity and Visuotactile Sensing With a Selectively Transmissive Soft Membrane**|Jessica Yin et.al.|[2204.08586v1](http://arxiv.org/abs/2204.08586v1)|null|
 |**2022-04-18**|**VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance**|Katherine Crowson et.al.|[2204.08583v1](http://arxiv.org/abs/2204.08583v1)|**[link](https://github.com/eleutherai/vqgan-clip)**|
 |**2022-04-18**|**AI for human assessment: What do professional assessors need?**|Riku Arakawa et.al.|[2204.08471v1](http://arxiv.org/abs/2204.08471v1)|null|
 |**2022-04-18**|**Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion**|Evonne Ng et.al.|[2204.08451v1](http://arxiv.org/abs/2204.08451v1)|null|
 |**2022-04-18**|**LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking**|Yupan Huang et.al.|[2204.08387v2](http://arxiv.org/abs/2204.08387v2)|**[link](https://github.com/microsoft/unilm/tree/master/layoutlmv3)**|
 |**2022-04-18**|**MHSCNet: A Multimodal Hierarchical Shot-aware Convolutional Network for Video Summarization**|Wujiang Xu et.al.|[2204.08352v2](http://arxiv.org/abs/2204.08352v2)|null|
-|**2022-04-17**|**MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration**|Thomas Hayes et.al.|[2204.08058v1](http://arxiv.org/abs/2204.08058v1)|null|
+|**2022-04-17**|**MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration**|Thomas Hayes et.al.|[2204.08058v1](http://arxiv.org/abs/2204.08058v1)|**[link](https://github.com/mugen-org/MUGEN_baseline)**|
 |**2022-04-17**|**Anomaly Detection in Autonomous Driving: A Survey**|Daniel Bogdoll et.al.|[2204.07974v1](http://arxiv.org/abs/2204.07974v1)|null|
 |**2022-04-17**|**Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis**|Yan Ling et.al.|[2204.07955v1](http://arxiv.org/abs/2204.07955v1)|null|
 |**2022-04-17**|**Turing's cascade instability supports the coordination of the mind, brain, and behavior**|Damian G. Kelty-Stephen et.al.|[2204.07904v1](http://arxiv.org/abs/2204.07904v1)|null|
@@ -1297,8 +1297,8 @@ layout: default
 |**2022-04-19**|**Cross-Lingual Phrase Retrieval**|Heqi Zheng et.al.|[2204.08887v1](http://arxiv.org/abs/2204.08887v1)|null|
 |**2022-04-19**|**Less than Few: Self-Shot Video Instance Segmentation**|Pengwan Yang et.al.|[2204.08874v1](http://arxiv.org/abs/2204.08874v1)|null|
 |**2022-04-19**|**Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations**|Atsuhiro Noguchi et.al.|[2204.08839v1](http://arxiv.org/abs/2204.08839v1)|null|
-|**2022-04-19**|**Semi-supervised 3D shape segmentation with multilevel consistency and part substitution**|Chun-Yu Sun et.al.|[2204.08824v1](http://arxiv.org/abs/2204.08824v1)|**[link](https://github.com/isunchy/semi_supervised_3d_segmentation)**|
-|**2022-04-19**|**ELEVATER: A Benchmark and Toolkit for Evaluating Language-Augmented Visual Models**|Chunyuan Li et.al.|[2204.08790v1](http://arxiv.org/abs/2204.08790v1)|null|
+|**2022-04-19**|**Semi-supervised 3D shape segmentation with multilevel consistency and part substitution**|Chun-Yu Sun et.al.|[2204.08824v2](http://arxiv.org/abs/2204.08824v2)|**[link](https://github.com/isunchy/semi_supervised_3d_segmentation)**|
+|**2022-04-19**|**ELEVATER: A Benchmark and Toolkit for Evaluating Language-Augmented Visual Models**|Chunyuan Li et.al.|[2204.08790v2](http://arxiv.org/abs/2204.08790v2)|null|
 |**2022-04-19**|**Unsupervised Contrastive Hashing for Cross-Modal Retrieval in Remote Sensing**|Georgii Mikriukov et.al.|[2204.08707v1](http://arxiv.org/abs/2204.08707v1)|null|
 |**2022-04-19**|**Unsupervised Motor Imagery Saliency Detection Based on Self-Attention Mechanism**|Navid Ayoobi et.al.|[2204.08633v1](http://arxiv.org/abs/2204.08633v1)|null|
 |**2022-04-18**|**Training and Evaluation of Deep Policies using Reinforcement Learning and Generative Models**|Ali Ghadirzadeh et.al.|[2204.08573v1](http://arxiv.org/abs/2204.08573v1)|null|
