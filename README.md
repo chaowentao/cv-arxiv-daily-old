@@ -1,4 +1,4 @@
-## Updated on 2022.04.21
+## Updated on 2022.04.22
 
 ## Image Generation
 
@@ -52,7 +52,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-04-20**|**SILVR: A Synthetic Immersive Large-Volume Plenoptic Dataset**|Martijn Courteaux et.al.|[2204.09523v1](http://arxiv.org/abs/2204.09523v1)|**[link](https://github.com/IDLabMEDIA/blender-lightfield-addon)**|
+|**2022-04-20**|**SILVR: A Synthetic Immersive Large-Volume Plenoptic Dataset**|Martijn Courteaux et.al.|[2204.09523v1](http://arxiv.org/abs/2204.09523v1)|**[link](https://github.com/IDLabMedia/large-lightfields-dataset)**|
 |**2022-04-20**|**Optical conductivity and orbital magnetization of Floquet vortex states**|Iman Ahmadabadi et.al.|[2204.09488v1](http://arxiv.org/abs/2204.09488v1)|null|
 |**2022-04-19**|**The Coming Decades of Quantum Simulation**|Joana Fraxanet et.al.|[2204.08905v1](http://arxiv.org/abs/2204.08905v1)|null|
 |**2022-04-16**|**Gravitational time dilation in extended quantum systems: the case of light clocks in Schwarzschild spacetime**|Tupac Bravo et.al.|[2204.07869v1](http://arxiv.org/abs/2204.07869v1)|null|
@@ -140,7 +140,7 @@
 |---|---|---|---|---|
 |**2022-04-20**|**Residual Mixture of Experts**|Lemeng Wu et.al.|[2204.09636v1](http://arxiv.org/abs/2204.09636v1)|null|
 |**2022-04-19**|**Multimodal Token Fusion for Vision Transformers**|Yikai Wang et.al.|[2204.08721v1](http://arxiv.org/abs/2204.08721v1)|null|
-|**2022-04-19**|**Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer**|Wang Zeng et.al.|[2204.08680v2](http://arxiv.org/abs/2204.08680v2)|**[link](https://github.com/zengwang430521/tcformer)**|
+|**2022-04-19**|**Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer**|Wang Zeng et.al.|[2204.08680v3](http://arxiv.org/abs/2204.08680v3)|**[link](https://github.com/zengwang430521/tcformer)**|
 |**2022-04-18**|**VSA: Learning Varied-Size Window Attention in Vision Transformers**|Qiming Zhang et.al.|[2204.08446v1](http://arxiv.org/abs/2204.08446v1)|**[link](https://github.com/vitae-transformer/vitae-vsa)**|
 |**2022-04-18**|**Temporally Efficient Vision Transformer for Video Instance Segmentation**|Shusheng Yang et.al.|[2204.08412v1](http://arxiv.org/abs/2204.08412v1)|**[link](https://github.com/hustvl/tevit)**|
 |**2022-04-17**|**An Extendable, Efficient and Effective Transformer-based Object Detector**|Hwanjun Song et.al.|[2204.07962v1](http://arxiv.org/abs/2204.07962v1)|**[link](https://github.com/naver-ai/vidt)**|
@@ -412,7 +412,7 @@
 |**2022-04-01**|**MS-HLMO: Multi-scale Histogram of Local Main Orientation for Remote Sensing Image Registration**|Chenzhong Gao et.al.|[2204.00260v1](http://arxiv.org/abs/2204.00260v1)|null|
 |**2022-04-01**|**A Unified Framework for Domain Adaptive Pose Estimation**|Donghyun Kim et.al.|[2204.00172v2](http://arxiv.org/abs/2204.00172v2)|null|
 |**2022-03-30**|**Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation**|Shuying Liu et.al.|[2203.16202v1](http://arxiv.org/abs/2203.16202v1)|null|
-|**2022-03-29**|**On Triangulation as a Form of Self-Supervision for 3D Human Pose Estimation**|Soumava Kumar Roy et.al.|[2203.15865v1](http://arxiv.org/abs/2203.15865v1)|null|
+|**2022-03-29**|**On Triangulation as a Form of Self-Supervision for 3D Human Pose Estimation**|Soumava Kumar Roy et.al.|[2203.15865v2](http://arxiv.org/abs/2203.15865v2)|null|
 |**2022-03-29**|**PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision**|Kehong Gong et.al.|[2203.15625v1](http://arxiv.org/abs/2203.15625v1)|**[link](https://github.com/garfield-kh/posetriplet)**|
 |**2022-03-29**|**Uncertainty-Aware Adaptation for Self-Supervised 3D Human Pose Estimation**|Jogendra Nath Kundu et.al.|[2203.15293v1](http://arxiv.org/abs/2203.15293v1)|null|
 |**2022-03-29**|**Temporal Feature Alignment and Mutual Information Maximization for Video-Based Human Pose Estimation**|Zhenguang Liu et.al.|[2203.15227v2](http://arxiv.org/abs/2203.15227v2)|**[link](https://github.com/pose-group/fami-pose)**|
@@ -479,7 +479,7 @@
 |**2022-04-20**|**Softening molecular bonds through the giant optomechanical spring effect in plasmonic nanocavities**|Lukas A. Jakob et.al.|[2204.09641v1](http://arxiv.org/abs/2204.09641v1)|null|
 |**2022-04-20**|**Clotho-AQA: A Crowdsourced Dataset for Audio Question Answering**|Samuel Lipping et.al.|[2204.09634v1](http://arxiv.org/abs/2204.09634v1)|null|
 |**2022-04-20**|**Bone marrow sparing for cervical cancer radiotherapy on multimodality medical images**|Yuening Wang et.al.|[2204.09278v1](http://arxiv.org/abs/2204.09278v1)|null|
-|**2022-04-20**|**Sound-Guided Semantic Video Generation**|Seung Hyun Lee et.al.|[2204.09273v1](http://arxiv.org/abs/2204.09273v1)|null|
+|**2022-04-20**|**Sound-Guided Semantic Video Generation**|Seung Hyun Lee et.al.|[2204.09273v2](http://arxiv.org/abs/2204.09273v2)|null|
 |**2022-04-19**|**Opal: Multimodal Image Generation for News Illustration**|Vivian Liu et.al.|[2204.09007v1](http://arxiv.org/abs/2204.09007v1)|null|
 |**2022-04-19**|**The Interplay between Quantum Contextuality and Wigner Negativity**|Pierre-Emmanuel Emeriau et.al.|[2204.08782v1](http://arxiv.org/abs/2204.08782v1)|null|
 |**2022-04-19**|**Multimodal Token Fusion for Vision Transformers**|Yikai Wang et.al.|[2204.08721v1](http://arxiv.org/abs/2204.08721v1)|null|
@@ -490,9 +490,9 @@
 |**2022-04-18**|**Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion**|Evonne Ng et.al.|[2204.08451v1](http://arxiv.org/abs/2204.08451v1)|null|
 |**2022-04-18**|**LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking**|Yupan Huang et.al.|[2204.08387v2](http://arxiv.org/abs/2204.08387v2)|**[link](https://github.com/microsoft/unilm/tree/master/layoutlmv3)**|
 |**2022-04-18**|**MHSCNet: A Multimodal Hierarchical Shot-aware Convolutional Network for Video Summarization**|Wujiang Xu et.al.|[2204.08352v2](http://arxiv.org/abs/2204.08352v2)|null|
-|**2022-04-17**|**MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration**|Thomas Hayes et.al.|[2204.08058v1](http://arxiv.org/abs/2204.08058v1)|**[link](https://github.com/mugen-org/MUGEN_baseline)**|
+|**2022-04-17**|**MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration**|Thomas Hayes et.al.|[2204.08058v2](http://arxiv.org/abs/2204.08058v2)|**[link](https://github.com/mugen-org/MUGEN_baseline)**|
 |**2022-04-17**|**Anomaly Detection in Autonomous Driving: A Survey**|Daniel Bogdoll et.al.|[2204.07974v1](http://arxiv.org/abs/2204.07974v1)|null|
-|**2022-04-17**|**Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis**|Yan Ling et.al.|[2204.07955v1](http://arxiv.org/abs/2204.07955v1)|null|
+|**2022-04-17**|**Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis**|Yan Ling et.al.|[2204.07955v2](http://arxiv.org/abs/2204.07955v2)|null|
 |**2022-04-17**|**Turing's cascade instability supports the coordination of the mind, brain, and behavior**|Damian G. Kelty-Stephen et.al.|[2204.07904v1](http://arxiv.org/abs/2204.07904v1)|null|
 |**2022-04-16**|**Multimodal Few-Shot Object Detection with Meta-Learning Based Cross-Modal Prompting**|Guangxing Han et.al.|[2204.07841v1](http://arxiv.org/abs/2204.07841v1)|null|
 |**2022-04-16**|**UAMD-Net: A Unified Adaptive Multimodal Neural Network for Dense Depth Completion**|Guancheng Chen et.al.|[2204.07791v1](http://arxiv.org/abs/2204.07791v1)|null|
@@ -1164,7 +1164,7 @@
 |**2022-04-19**|**Behind the Machine's Gaze: Biologically Constrained Neural Networks Exhibit Human-like Visual Attention**|Leo Schwinn et.al.|[2204.09093v1](http://arxiv.org/abs/2204.09093v1)|null|
 |**2022-04-20**|**An unsupervised approach for semantic place annotation of trajectories based on the prior probability**|Junyi Cheng et.al.|[2204.09054v1](http://arxiv.org/abs/2204.09054v1)|null|
 |**2022-04-19**|**Unsupervised detection of ash dieback disease (Hymenoscyphus fraxineus) using diffusion-based hyperspectral image clustering**|Sam L. Polk et.al.|[2204.09041v1](http://arxiv.org/abs/2204.09041v1)|null|
-|**2022-04-19**|**Dual-Domain Image Synthesis using Segmentation-Guided GAN**|Dena Bazazian et.al.|[2204.09015v1](http://arxiv.org/abs/2204.09015v1)|null|
+|**2022-04-19**|**Dual-Domain Image Synthesis using Segmentation-Guided GAN**|Dena Bazazian et.al.|[2204.09015v1](http://arxiv.org/abs/2204.09015v1)|**[link](https://github.com/denabazazian/Dual-Domain-Synthesis)**|
 |**2022-04-19**|**Metappearance: Meta-Learning for Visual Appearance Reproduction**|Michael Fischer et.al.|[2204.08993v1](http://arxiv.org/abs/2204.08993v1)|null|
 |**2022-04-19**|**CPU- and GPU-based Distributed Sampling in Dirichlet Process Mixtures for Large-scale Analysis**|Or Dinari et.al.|[2204.08988v1](http://arxiv.org/abs/2204.08988v1)|**[link](https://github.com/bgu-cs-vil/dpmmsubclusters_gpu)**|
 |**2022-04-19**|**Cross-Lingual Phrase Retrieval**|Heqi Zheng et.al.|[2204.08887v1](http://arxiv.org/abs/2204.08887v1)|null|
@@ -2304,7 +2304,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-04-20**|**SILVR: A Synthetic Immersive Large-Volume Plenoptic Dataset**|Martijn Courteaux et.al.|[2204.09523v1](http://arxiv.org/abs/2204.09523v1)|**[link](https://github.com/IDLabMEDIA/blender-lightfield-addon)**|
+|**2022-04-20**|**SILVR: A Synthetic Immersive Large-Volume Plenoptic Dataset**|Martijn Courteaux et.al.|[2204.09523v1](http://arxiv.org/abs/2204.09523v1)|**[link](https://github.com/IDLabMedia/large-lightfields-dataset)**|
 |**2022-04-12**|**GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation**|Shin-Fang Chng et.al.|[2204.05735v1](http://arxiv.org/abs/2204.05735v1)|null|
 |**2022-04-10**|**NAN: Noise-Aware NeRFs for Burst-Denoising**|Naama Pearl et.al.|[2204.04668v2](http://arxiv.org/abs/2204.04668v2)|null|
 |**2022-04-07**|**Gravitationally Lensed Black Hole Emission Tomography**|Aviad Levis et.al.|[2204.03715v1](http://arxiv.org/abs/2204.03715v1)|null|
@@ -2372,8 +2372,8 @@
 |**2022-04-20**|**K-LITE: Learning Transferable Visual Models with External Knowledge**|Sheng Shen et.al.|[2204.09222v1](http://arxiv.org/abs/2204.09222v1)|null|
 |**2022-04-20**|**Characterization of GaN-based HEMTs Down to 4.2 K for Cryogenic Applications**|Bolun Zeng et.al.|[2204.09216v1](http://arxiv.org/abs/2204.09216v1)|null|
 |**2022-04-19**|**Ternary Wide Band Gap Oxides for High-Power Electronics Identified Computationally**|Emily McDonald Garrity et.al.|[2204.09158v1](http://arxiv.org/abs/2204.09158v1)|null|
-|**2022-04-19**|**Dual-Domain Image Synthesis using Segmentation-Guided GAN**|Dena Bazazian et.al.|[2204.09015v1](http://arxiv.org/abs/2204.09015v1)|null|
-|**2022-04-19**|**MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment**|Sidi Yang et.al.|[2204.08958v1](http://arxiv.org/abs/2204.08958v1)|**[link](https://github.com/iigroup/maniqa)**|
+|**2022-04-19**|**Dual-Domain Image Synthesis using Segmentation-Guided GAN**|Dena Bazazian et.al.|[2204.09015v1](http://arxiv.org/abs/2204.09015v1)|**[link](https://github.com/denabazazian/Dual-Domain-Synthesis)**|
+|**2022-04-19**|**MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment**|Sidi Yang et.al.|[2204.08958v2](http://arxiv.org/abs/2204.08958v2)|**[link](https://github.com/iigroup/maniqa)**|
 |**2022-04-19**|**Unsupervised Learning of Efficient Geometry-Aware Neural Articulated Representations**|Atsuhiro Noguchi et.al.|[2204.08839v1](http://arxiv.org/abs/2204.08839v1)|null|
 |**2022-04-19**|**Incorporating Semi-Supervised and Positive-Unlabeled Learning for Boosting Full Reference Image Quality Assessment**|Yue Cao et.al.|[2204.08763v1](http://arxiv.org/abs/2204.08763v1)|null|
 |**2022-04-19**|**Imbalanced Classification via a Tabular Translation GAN**|Jonathan Gradstein et.al.|[2204.08683v1](http://arxiv.org/abs/2204.08683v1)|null|
