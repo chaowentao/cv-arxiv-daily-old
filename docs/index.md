@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.23
+## Updated on 2022.04.24
 
 ## SLAM
 
@@ -1328,7 +1328,7 @@ layout: default
 |**2022-04-21**|**Relevance-guided Unsupervised Discovery of Abilities with Quality-Diversity Algorithms**|Luca Grillotti et.al.|[2204.09828v1](http://arxiv.org/abs/2204.09828v1)|null|
 |**2022-04-21**|**SimMC: Simple Masked Contrastive Learning of Skeleton Representations for Unsupervised Person Re-Identification**|Haocong Rao et.al.|[2204.09826v1](http://arxiv.org/abs/2204.09826v1)|**[link](https://github.com/kali-hac/simmc)**|
 |**2022-04-21**|**A Revealing Large-Scale Evaluation of Unsupervised Anomaly Detection Algorithms**|Maxime Alvarez et.al.|[2204.09825v1](http://arxiv.org/abs/2204.09825v1)|**[link](https://github.com/ireydiak/anomaly_detection_nrcan)**|
-|**2022-04-20**|**MultiPathGAN: Structure Preserving Stain Normalization using Unsupervised Multi-domain Adversarial Network with Perception Loss**|Haseeb Nazki et.al.|[2204.09782v1](http://arxiv.org/abs/2204.09782v1)|null|
+|**2022-04-20**|**MultiPathGAN: Structure Preserving Stain Normalization using Unsupervised Multi-domain Adversarial Network with Perception Loss**|Haseeb Nazki et.al.|[2204.09782v1](http://arxiv.org/abs/2204.09782v1)|**[link](https://github.com/mlandcv/MultiPathGAN)**|
 |**2022-04-20**|**Delamination prediction in composite panels using unsupervised-feature learning methods with wavelet-enhanced guided wave representations**|Mahindra Rautela et.al.|[2204.09764v1](http://arxiv.org/abs/2204.09764v1)|null|
 |**2022-04-20**|**CALI: Coarse-to-Fine ALIgnments Based Unsupervised Domain Adaptation of Traversability Prediction for Deployable Autonomous Navigation**|Zheng Chen et.al.|[2204.09617v1](http://arxiv.org/abs/2204.09617v1)|null|
 |**2022-04-20**|**Unsupervised Ranking and Aggregation of Label Descriptions for Zero-Shot Classifiers**|Angelo Basile et.al.|[2204.09481v1](http://arxiv.org/abs/2204.09481v1)|null|
