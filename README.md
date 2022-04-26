@@ -493,7 +493,7 @@
 |**2022-04-24**|**Hate Me Not: Detecting Hate Inducing Memes in Code Switched Languages**|Kshitij Rajput et.al.|[2204.11356v1](http://arxiv.org/abs/2204.11356v1)|null|
 |**2022-04-24**|**Deep Learning for Medical Image Registration: A Comprehensive Review**|Subrato Bharati et.al.|[2204.11341v1](http://arxiv.org/abs/2204.11341v1)|null|
 |**2022-04-23**|**Fiber-optic multimode interference sensing: comprehensive characterization and its potential for strain-insensitive temperature sensing**|Kun Wang et.al.|[2204.11044v1](http://arxiv.org/abs/2204.11044v1)|null|
-|**2022-04-23**|**Training and challenging models for text-guided fashion image retrieval**|Eric Dodds et.al.|[2204.11004v1](http://arxiv.org/abs/2204.11004v1)|null|
+|**2022-04-23**|**Training and challenging models for text-guided fashion image retrieval**|Eric Dodds et.al.|[2204.11004v1](http://arxiv.org/abs/2204.11004v1)|**[link](https://github.com/yahoo/maaf)**|
 |**2022-04-23**|**CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks**|Tuomas Oikarinen et.al.|[2204.10965v1](http://arxiv.org/abs/2204.10965v1)|null|
 |**2022-04-22**|**Unified Pretraining Framework for Document Understanding**|Jiuxiang Gu et.al.|[2204.10939v1](http://arxiv.org/abs/2204.10939v1)|null|
 |**2022-04-22**|**MCSE: Multimodal Contrastive Learning of Sentence Embeddings**|Miaoran Zhang et.al.|[2204.10931v1](http://arxiv.org/abs/2204.10931v1)|**[link](https://github.com/uds-lsv/mcse)**|
@@ -2476,7 +2476,7 @@
 |**2022-04-23**|**Towards Data-Free Model Stealing in a Hard Label Setting**|Sunandini Sanyal et.al.|[2204.11022v1](http://arxiv.org/abs/2204.11022v1)|null|
 |**2022-04-22**|**Crescent: Taming Memory Irregularities for Accelerating Deep Point Cloud Analytics**|Yu Feng et.al.|[2204.10707v1](http://arxiv.org/abs/2204.10707v1)|null|
 |**2022-04-22**|**Reinforcing Generated Images via Meta-learning for One-Shot Fine-Grained Visual Recognition**|Satoshi Tsutsui et.al.|[2204.10689v1](http://arxiv.org/abs/2204.10689v1)|null|
-|**2022-04-22**|**Speaking-Rate-Controllable HiFi-GAN Using Feature Interpolation**|Detai Xin et.al.|[2204.10561v1](http://arxiv.org/abs/2204.10561v1)|null|
+|**2022-04-22**|**Speaking-Rate-Controllable HiFi-GAN Using Feature Interpolation**|Detai Xin et.al.|[2204.10561v1](http://arxiv.org/abs/2204.10561v1)|**[link](https://github.com/Aria-K-Alethia/speaking-rate-controllable-hifi-gan)**|
 |**2022-04-22**|**Attentions Help CNNs See Better: Attention-based Hybrid Image Quality Assessment Network**|Shanshan Lao et.al.|[2204.10485v1](http://arxiv.org/abs/2204.10485v1)|null|
 |**2022-04-22**|**SE-GAN: Skeleton Enhanced GAN-based Model for Brush Handwriting Font Generation**|Shaozu Yuan et.al.|[2204.10484v1](http://arxiv.org/abs/2204.10484v1)|null|
 |**2022-04-21**|**Defects Evolution and Mg Segregation in Mg-implanted GaN with Ultra-High-Pressure Annealing**|Y. Wang et.al.|[2204.10225v1](http://arxiv.org/abs/2204.10225v1)|null|
