@@ -293,6 +293,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-27**|**Self-Supervised Learning of Object Parts for Semantic Segmentation**|Adrian Ziegler et.al.|[2204.13101v1](http://arxiv.org/abs/2204.13101v1)|null|
+|**2022-04-27**|**DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers**|Chen Xianing et.al.|[2204.12997v1](http://arxiv.org/abs/2204.12997v1)|null|
+|**2022-04-27**|**Improving the Transferability of Adversarial Examples with Restructure Embedded Patches**|Huipeng Zhou et.al.|[2204.12680v1](http://arxiv.org/abs/2204.12680v1)|null|
 |**2022-04-26**|**ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**|Yufei Xu et.al.|[2204.12484v1](http://arxiv.org/abs/2204.12484v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
 |**2022-04-26**|**Understanding The Robustness in Vision Transformers**|Daquan Zhou et.al.|[2204.12451v2](http://arxiv.org/abs/2204.12451v2)|**[link](https://github.com/nvlabs/fan)**|
 |**2022-04-26**|**Deeper Insights into ViTs Robustness towards Common Corruptions**|Rui Tian et.al.|[2204.12143v1](http://arxiv.org/abs/2204.12143v1)|null|
@@ -646,6 +649,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-27**|**Domain Knowledge-Infused Deep Learning for Automated Analog/Radio-Frequency Circuit Parameter Optimization**|Weidong Cao et.al.|[2204.12948v1](http://arxiv.org/abs/2204.12948v1)|null|
+|**2022-04-27**|**Talking Head Generation Driven by Speech-Related Facial Action Units and Audio- Based on Multimodal Representation Fusion**|Sen Chen et.al.|[2204.12756v1](http://arxiv.org/abs/2204.12756v1)|null|
+|**2022-04-27**|**Multimodal Pipeline for Collection of Misinformation Data from Telegram**|Jose Sosa et.al.|[2204.12690v1](http://arxiv.org/abs/2204.12690v1)|null|
+|**2022-04-27**|**Investigating the Emergence of Online Learning in Different Countries using the 5 W's and 1 H Approach**|Nirmalya Thakur et.al.|[2204.12650v1](http://arxiv.org/abs/2204.12650v1)|null|
+|**2022-04-26**|**Multi stain graph fusion for multimodal integration in pathology**|Chaitanya Dwivedi et.al.|[2204.12541v1](http://arxiv.org/abs/2204.12541v1)|null|
 |**2022-04-26**|**Sound Localization by Self-Supervised Time Delay Estimation**|Ziyang Chen et.al.|[2204.12489v1](http://arxiv.org/abs/2204.12489v1)|null|
 |**2022-04-26**|**RadioPathomics: Multimodal Learning in Non-Small Cell Lung Cancer for Adaptive Radiotherapy**|Matteo Tortora et.al.|[2204.12423v1](http://arxiv.org/abs/2204.12423v1)|null|
 |**2022-04-26**|**TranSiam: Fusing Multimodal Visual Features Using Transformer for Medical Image Segmentation**|Xuejian Li et.al.|[2204.12185v1](http://arxiv.org/abs/2204.12185v1)|null|
@@ -1066,9 +1074,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-27**|**SkillSpan: Hard and Soft Skill Extraction from English Job Postings**|Mike Zhang et.al.|[2204.12811v1](http://arxiv.org/abs/2204.12811v1)|null|
+|**2022-04-26**|**Efficient Machine Translation Domain Adaptation**|Pedro Henrique Martins et.al.|[2204.12608v1](http://arxiv.org/abs/2204.12608v1)|null|
 |**2022-04-26**|**ISTRBoost: Importance Sampling Transfer Regression using Boosting**|Shrey Gupta et.al.|[2204.12044v1](http://arxiv.org/abs/2204.12044v1)|null|
 |**2022-04-25**|**ProCST: Boosting Semantic Segmentation using Progressive Cyclic Style-Transfer**|Shahaf Ettedgui et.al.|[2204.11891v1](http://arxiv.org/abs/2204.11891v1)|**[link](https://github.com/shahaf1313/procst)**|
-|**2022-04-25**|**Multi-Head Distillation for Continual Unsupervised Domain Adaptation in Semantic Segmentation**|Antoine Saporta et.al.|[2204.11667v1](http://arxiv.org/abs/2204.11667v1)|null|
+|**2022-04-25**|**Multi-Head Distillation for Continual Unsupervised Domain Adaptation in Semantic Segmentation**|Antoine Saporta et.al.|[2204.11667v1](http://arxiv.org/abs/2204.11667v1)|**[link](https://github.com/valeoai/MuHDi)**|
 |**2022-04-25**|**Loss-based Sequential Learning for Active Domain Adaptation**|Kyeongtak Han et.al.|[2204.11665v1](http://arxiv.org/abs/2204.11665v1)|null|
 |**2022-04-25**|**Algorithms and Theory for Supervised Gradual Domain Adaptation**|Jing Dong et.al.|[2204.11644v1](http://arxiv.org/abs/2204.11644v1)|null|
 |**2022-04-25**|**Unsupervised Domain Adaptation for Monocular 3D Object Detection via Self-Training**|Zhenyu Li et.al.|[2204.11590v2](http://arxiv.org/abs/2204.11590v2)|null|
@@ -1366,6 +1376,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-27**|**Self-Supervised Learning of Object Parts for Semantic Segmentation**|Adrian Ziegler et.al.|[2204.13101v1](http://arxiv.org/abs/2204.13101v1)|null|
+|**2022-04-27**|**Few-Shot Head Swapping in the Wild**|Changyong Shu et.al.|[2204.13100v1](http://arxiv.org/abs/2204.13100v1)|null|
+|**2022-04-27**|**Unsupervised Word Segmentation using K Nearest Neighbors**|Tzeviya Sylvia Fuchs et.al.|[2204.13094v1](http://arxiv.org/abs/2204.13094v1)|null|
+|**2022-04-27**|**Collaborative Learning for Hand and Object Reconstruction with Attention-guided Graph Convolution**|Tze Ho Elden Tse et.al.|[2204.13062v1](http://arxiv.org/abs/2204.13062v1)|null|
+|**2022-04-27**|**Gleo-Det: Deep Convolution Feature-Guided Detector with Local Entropy Optimization for Salient Points**|Chao Li et.al.|[2204.12884v1](http://arxiv.org/abs/2204.12884v1)|null|
+|**2022-04-27**|**On Survivorship Bias in MS MARCO**|Prashansa Gupta et.al.|[2204.12852v1](http://arxiv.org/abs/2204.12852v1)|**[link](https://github.com/seanmacavaney/sigir2022-survivor)**|
+|**2022-04-27**|**LyS_ACoruña at SemEval-2022 Task 10: Repurposing Off-the-Shelf Tools for Sentiment Analysis as Semantic Dependency Parsing**|Iago Alonso-Alonso et.al.|[2204.12820v1](http://arxiv.org/abs/2204.12820v1)|null|
+|**2022-04-27**|**CATrans: Context and Affinity Transformer for Few-Shot Segmentation**|Shan Zhang et.al.|[2204.12817v1](http://arxiv.org/abs/2204.12817v1)|null|
+|**2022-04-27**|**Quantum Prudent Contracts with Applications to Bitcoin**|Or Sattath et.al.|[2204.12806v1](http://arxiv.org/abs/2204.12806v1)|null|
+|**2022-04-27**|**A Thorough Examination on Zero-shot Dense Retrieval**|Ruiyang Ren et.al.|[2204.12755v1](http://arxiv.org/abs/2204.12755v1)|null|
+|**2022-04-27**|**A Comprehensive Understanding of Code-mixed Language Semantics using Hierarchical Transformer**|Ayan Sengupta et.al.|[2204.12753v1](http://arxiv.org/abs/2204.12753v1)|**[link](https://github.com/lcs2-iiitd/code-mixed-classification)**|
+|**2022-04-27**|**Self-Supervised Text Erasing with Controllable Image Synthesis**|Gangwei Jiang et.al.|[2204.12743v1](http://arxiv.org/abs/2204.12743v1)|null|
+|**2022-04-27**|**PRE-NAS: Predictor-assisted Evolutionary Neural Architecture Search**|Yameng Peng et.al.|[2204.12726v1](http://arxiv.org/abs/2204.12726v1)|null|
+|**2022-04-27**|**On the Limitations of Dataset Balancing: The Lost Battle Against Spurious Correlations**|Roy Schwartz et.al.|[2204.12708v1](http://arxiv.org/abs/2204.12708v1)|null|
+|**2022-04-27**|**Adaptable Text Matching via Meta-Weight Regulator**|Bo Zhang et.al.|[2204.12668v1](http://arxiv.org/abs/2204.12668v1)|null|
+|**2022-04-27**|**Relational Abstractions for Generalized Reinforcement Learning on Symbolic Problems**|Rushang Karia et.al.|[2204.12665v1](http://arxiv.org/abs/2204.12665v1)|null|
+|**2022-04-27**|**One-shot trajectory learning of open quantum systems dynamics**|Arif Ullah et.al.|[2204.12661v1](http://arxiv.org/abs/2204.12661v1)|null|
+|**2022-04-27**|**Executive Function: A Contrastive Value Policy for Resampling and Relabeling Perceptions via Hindsight Summarization?**|Chris Lengerich et.al.|[2204.12639v1](http://arxiv.org/abs/2204.12639v1)|null|
+|**2022-04-27**|**Meta-Learning Based Early Fault Detection for Rolling Bearings via Few-Shot Anomaly Detection**|Wenbin Song et.al.|[2204.12637v1](http://arxiv.org/abs/2204.12637v1)|null|
+|**2022-04-26**|**Testing the Ability of Language Models to Interpret Figurative Language**|Emmy Liu et.al.|[2204.12632v1](http://arxiv.org/abs/2204.12632v1)|**[link](https://github.com/nightingal3/fig-qa)**|
 |**2022-04-26**|**Meta-free representation learning for few-shot learning via stochastic weight averaging**|Kuilin Chen et.al.|[2204.12466v1](http://arxiv.org/abs/2204.12466v1)|null|
 |**2022-04-26**|**MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval**|Yuying Ge et.al.|[2204.12408v1](http://arxiv.org/abs/2204.12408v1)|null|
 |**2022-04-26**|**Learning Meta Word Embeddings by Unsupervised Weighted Concatenation of Source Embeddings**|Danushka Bollegala et.al.|[2204.12386v1](http://arxiv.org/abs/2204.12386v1)|null|
@@ -2651,6 +2681,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-27**|**Optimized latent-code selection for explainable conditional text-to-image GANs**|Zhenxing Zhang et.al.|[2204.12678v1](http://arxiv.org/abs/2204.12678v1)|null|
+|**2022-04-26**|**Application of WGAN-GP in recommendation and Questioning the relevance of GAN-based approaches**|Hichem Ammar Khodja et.al.|[2204.12527v1](http://arxiv.org/abs/2204.12527v1)|null|
 |**2022-04-26**|**Restricted Black-box Adversarial Attack Against DeepFake Face Swapping**|Junhao Dong et.al.|[2204.12347v1](http://arxiv.org/abs/2204.12347v1)|null|
 |**2022-04-26**|**Super-High-Frequency Low-Loss Sezawa Mode SAW Devices in a GaN/SiC Platform**|Imtiaz Ahmed et.al.|[2204.12113v1](http://arxiv.org/abs/2204.12113v1)|null|
 |**2022-04-26**|**Assessing the ability of generative adversarial networks to learn canonical medical image statistics**|Varun A. Kelkar et.al.|[2204.12007v2](http://arxiv.org/abs/2204.12007v2)|null|
