@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.28
+## Updated on 2022.04.29
 
 ## SLAM
 
@@ -210,7 +210,7 @@ layout: default
 |**2022-04-20**|**SILVR: A Synthetic Immersive Large-Volume Plenoptic Dataset**|Martijn Courteaux et.al.|[2204.09523v1](http://arxiv.org/abs/2204.09523v1)|**[link](https://github.com/IDLabMedia/large-lightfields-dataset)**|
 |**2022-04-20**|**Optical conductivity and orbital magnetization of Floquet vortex states**|Iman Ahmadabadi et.al.|[2204.09488v1](http://arxiv.org/abs/2204.09488v1)|null|
 |**2022-04-19**|**The Coming Decades of Quantum Simulation**|Joana Fraxanet et.al.|[2204.08905v1](http://arxiv.org/abs/2204.08905v1)|null|
-|**2022-04-16**|**Gravitational time dilation in extended quantum systems: the case of light clocks in Schwarzschild spacetime**|Tupac Bravo et.al.|[2204.07869v1](http://arxiv.org/abs/2204.07869v1)|null|
+|**2022-04-16**|**Gravitational time dilation in extended quantum systems: the case of light clocks in Schwarzschild spacetime**|Tupac Bravo et.al.|[2204.07869v2](http://arxiv.org/abs/2204.07869v2)|null|
 |**2022-04-07**|**Integrating out beyond tree level and relativistic superfluids**|Austin Joyce et.al.|[2204.03678v1](http://arxiv.org/abs/2204.03678v1)|null|
 |**2022-04-02**|**SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image**|Dejia Xu et.al.|[2204.00928v1](http://arxiv.org/abs/2204.00928v1)|null|
 |**2022-04-02**|**Optical modelling of accommodative light field display system and prediction of human eye responses**|Yuta Miyanishi et.al.|[2204.00884v1](http://arxiv.org/abs/2204.00884v1)|null|
@@ -294,7 +294,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-04-27**|**Self-Supervised Learning of Object Parts for Semantic Segmentation**|Adrian Ziegler et.al.|[2204.13101v1](http://arxiv.org/abs/2204.13101v1)|null|
-|**2022-04-27**|**DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers**|Chen Xianing et.al.|[2204.12997v1](http://arxiv.org/abs/2204.12997v1)|null|
+|**2022-04-27**|**DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers**|Xianing Chen et.al.|[2204.12997v2](http://arxiv.org/abs/2204.12997v2)|null|
 |**2022-04-27**|**Improving the Transferability of Adversarial Examples with Restructure Embedded Patches**|Huipeng Zhou et.al.|[2204.12680v1](http://arxiv.org/abs/2204.12680v1)|null|
 |**2022-04-26**|**ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**|Yufei Xu et.al.|[2204.12484v1](http://arxiv.org/abs/2204.12484v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
 |**2022-04-26**|**Understanding The Robustness in Vision Transformers**|Daquan Zhou et.al.|[2204.12451v2](http://arxiv.org/abs/2204.12451v2)|**[link](https://github.com/nvlabs/fan)**|
