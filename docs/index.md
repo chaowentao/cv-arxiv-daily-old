@@ -562,6 +562,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-28**|**Polarimetric imaging for the detection of synthetic models of SARS-CoV-2: a proof of concept**|Emilio Gomez-Gonzalez et.al.|[2204.14050v1](http://arxiv.org/abs/2204.14050v1)|null|
 |**2022-04-28**|**GRIT: General Robust Image Task Benchmark**|Tanmay Gupta et.al.|[2204.13653v1](http://arxiv.org/abs/2204.13653v1)|**[link](https://github.com/allenai/grit_official)**|
 |**2022-04-26**|**ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**|Yufei Xu et.al.|[2204.12484v1](http://arxiv.org/abs/2204.12484v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
 |**2022-04-26**|**Unified GCNs: Towards Connecting GCNs with CNNs**|Ziyan Zhang et.al.|[2204.12300v1](http://arxiv.org/abs/2204.12300v1)|null|
@@ -651,6 +652,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-29**|**Flamingo: a Visual Language Model for Few-Shot Learning**|Jean-Baptiste Alayrac et.al.|[2204.14198v1](http://arxiv.org/abs/2204.14198v1)|null|
+|**2022-04-29**|**Quantum Dense Coding Network using Multimode Squeezed States of Light**|Ayan Patra et.al.|[2204.14147v1](http://arxiv.org/abs/2204.14147v1)|null|
+|**2022-04-29**|**Climate and Weather: Inspecting Depression Detection via Emotion Recognition**|Wen Wu et.al.|[2204.14099v1](http://arxiv.org/abs/2204.14099v1)|null|
+|**2022-04-27**|**Multimodal Transformer-based Model for Buchwald-Hartwig and Suzuki-Miyaura Reaction Yield Prediction**|Shimaa Baraka et.al.|[2204.14062v1](http://arxiv.org/abs/2204.14062v1)|null|
+|**2022-04-28**|**A First Runtime Analysis of the NSGA-II on a Multimodal Problem**|Zhongdi Qu et.al.|[2204.13750v1](http://arxiv.org/abs/2204.13750v1)|null|
+|**2022-04-28**|**Tag-assisted Multimodal Sentiment Analysis under Uncertain Missing Modalities**|Jiandian Zeng et.al.|[2204.13707v1](http://arxiv.org/abs/2204.13707v1)|**[link](https://github.com/jaydenzeng/tate)**|
 |**2022-04-28**|**Reliable Visual Question Answering: Abstain Rather Than Answer Incorrectly**|Spencer Whitehead et.al.|[2204.13631v1](http://arxiv.org/abs/2204.13631v1)|null|
 |**2022-04-27**|**Improving Multimodal Speech Recognition by Data Augmentation and Speech Representations**|Dan Oneata et.al.|[2204.13206v1](http://arxiv.org/abs/2204.13206v1)|null|
 |**2022-04-27**|**Channel Modeling for Physically Secure Electro-Quasistatic In-Body to Out-of-Body Communication with Galvanic Tx and Multimodal Rx**|Arunashish Datta et.al.|[2204.13184v1](http://arxiv.org/abs/2204.13184v1)|null|
@@ -1079,6 +1086,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-26**|**Modular Domain Adaptation**|Junshen K. Chen et.al.|[2204.14213v1](http://arxiv.org/abs/2204.14213v1)|**[link](https://github.com/jkvc/modular-domain-adaptation)**|
+|**2022-04-29**|**Improving Transferability for Domain Adaptive Detection Transformers**|Kaixiong Gong et.al.|[2204.14195v1](http://arxiv.org/abs/2204.14195v1)|null|
+|**2022-04-29**|**Controlled Generation of Unseen Faults for Partial and OpenSet&Partial Domain Adaptation**|Katharina Rombach et.al.|[2204.14068v1](http://arxiv.org/abs/2204.14068v1)|null|
 |**2022-04-28**|**Resource-efficient domain adaptive pre-training for medical images**|Yasar Mehmood et.al.|[2204.13280v1](http://arxiv.org/abs/2204.13280v1)|null|
 |**2022-04-28**|**Covariance-aware Feature Alignment with Pre-computed Source Statistics for Test-time Adaptation**|Kazuki Adachi et.al.|[2204.13263v1](http://arxiv.org/abs/2204.13263v1)|null|
 |**2022-04-27**|**HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation**|Lukas Hoyer et.al.|[2204.13132v1](http://arxiv.org/abs/2204.13132v1)|**[link](https://github.com/lhoyer/hrda)**|
@@ -1384,6 +1394,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-29**|**CLIP-Art: Contrastive Pre-training for Fine-Grained Art Classification**|Marcos V. Conde et.al.|[2204.14244v1](http://arxiv.org/abs/2204.14244v1)|**[link](https://github.com/KeremTurgutlu/clip_art)**|
+|**2022-04-29**|**Training Naturalized Semantic Parsers with Very Little Data**|Subendhu Rongali et.al.|[2204.14243v1](http://arxiv.org/abs/2204.14243v1)|null|
+|**2022-04-29**|**Hardware Trojan Detection Using Unsupervised Deep Learning on Quantum Diamond Microscope Magnetic Field Images**|Maitreyi Ashok et.al.|[2204.14228v1](http://arxiv.org/abs/2204.14228v1)|null|
+|**2022-04-29**|**Flamingo: a Visual Language Model for Few-Shot Learning**|Jean-Baptiste Alayrac et.al.|[2204.14198v1](http://arxiv.org/abs/2204.14198v1)|null|
+|**2022-04-29**|**Clustering free-falling paper motion with complexity and entropy**|Arthur A. B. Pessa et.al.|[2204.14097v1](http://arxiv.org/abs/2204.14097v1)|null|
+|**2022-04-29**|**PyramidCLIP: Hierarchical Feature Alignment for Vision-language Model Pretraining**|Yuting Gao et.al.|[2204.14095v1](http://arxiv.org/abs/2204.14095v1)|null|
+|**2022-04-29**|**Topological Data Analysis in Time Series: Temporal Filtration and Application to Single-Cell Genomics**|Baihan Lin et.al.|[2204.14048v1](http://arxiv.org/abs/2204.14048v1)|**[link](https://github.com/doerlbh/sctsa)**|
+|**2022-04-29**|**Local Explanation of Dimensionality Reduction**|Avraam Bardos et.al.|[2204.14012v1](http://arxiv.org/abs/2204.14012v1)|**[link](https://github.com/avrambardas/interpretable-unsupervised-learning)**|
+|**2022-04-29**|**Latent Space Explorer: Unsupervised Data Pattern Discovery on the Cloud**|T. Cecconello et.al.|[2204.13933v1](http://arxiv.org/abs/2204.13933v1)|null|
+|**2022-04-29**|**Czech Dataset for Cross-lingual Subjectivity Classification**|Pavel Přibáň et.al.|[2204.13915v1](http://arxiv.org/abs/2204.13915v1)|**[link](https://github.com/pauli31/czech-subjectivity-dataset)**|
+|**2022-04-29**|**Task Embedding Temporal Convolution Networks for Transfer Learning Problems in Renewable Power Time-Series Forecast**|Jens Schreiber et.al.|[2204.13908v1](http://arxiv.org/abs/2204.13908v1)|null|
+|**2022-04-29**|**Unsupervised Reinforcement Learning for Transferable Manipulation Skill Discovery**|Daesol Cho et.al.|[2204.13906v1](http://arxiv.org/abs/2204.13906v1)|null|
+|**2022-04-29**|**Information-Theoretic Reduction of Markov Chains**|Bernhard C. Geiger et.al.|[2204.13896v1](http://arxiv.org/abs/2204.13896v1)|null|
+|**2022-04-29**|**Struct-MDC: Mesh-Refined Unsupervised Depth Completion Leveraging Structural Regularities from Visual SLAM**|Jinwoo Jeon et.al.|[2204.13877v1](http://arxiv.org/abs/2204.13877v1)|**[link](https://github.com/url-kaist/Struct-MDC)**|
+|**2022-04-29**|**Por Qué Não Utiliser Alla Språk? Mixed Training with Gradient Optimization in Few-Shot Cross-Lingual Transfer**|Haoran Xu et.al.|[2204.13869v1](http://arxiv.org/abs/2204.13869v1)|null|
+|**2022-04-28**|**Instilling Type Knowledge in Language Models via Multi-Task QA**|Shuyang Li et.al.|[2204.13796v1](http://arxiv.org/abs/2204.13796v1)|**[link](https://github.com/amazon-research/wikiwiki-dataset)**|
 |**2022-04-28**|**Unsupervised Multi-Modal Medical Image Registration via Discriminator-Free Image-to-Image Translation**|Zekang Chen et.al.|[2204.13656v1](http://arxiv.org/abs/2204.13656v1)|**[link](https://github.com/heyblackC/DFMIR)**|
 |**2022-04-28**|**Generative Adversarial Networks for Image Super-Resolution: A Survey**|Chunwei Tian et.al.|[2204.13620v1](http://arxiv.org/abs/2204.13620v1)|null|
 |**2022-04-28**|**Symmetric Transformer-based Network for Unsupervised Image Registration**|Mingrui Ma et.al.|[2204.13575v1](http://arxiv.org/abs/2204.13575v1)|**[link](https://github.com/MingR-Ma/SymTrans)**|
@@ -2708,6 +2734,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-29**|**OSSGAN: Open-Set Semi-Supervised Image Generation**|Kai Katsumata et.al.|[2204.14249v1](http://arxiv.org/abs/2204.14249v1)|**[link](https://github.com/raven38/ossgan)**|
+|**2022-04-29**|**Shear-induced droplet mobility within porous surfaces**|Si Suo et.al.|[2204.14132v1](http://arxiv.org/abs/2204.14132v1)|null|
+|**2022-04-29**|**Controlled Generation of Unseen Faults for Partial and OpenSet&Partial Domain Adaptation**|Katharina Rombach et.al.|[2204.14068v1](http://arxiv.org/abs/2204.14068v1)|null|
+|**2022-04-29**|**FIES and Tull confirm and characterise three giant planets delivered by TESS**|E. Knudstrup et.al.|[2204.13956v1](http://arxiv.org/abs/2204.13956v1)|null|
+|**2022-04-29**|**Deployment of an IoT System for Adaptive In-Situ Soundscape Augmentation**|Trevor Wong et.al.|[2204.13890v1](http://arxiv.org/abs/2204.13890v1)|null|
+|**2022-04-29**|**Autonomous In-Situ Soundscape Augmentation via Joint Selection of Masker and Gain**|Karn N. Watcharasupat et.al.|[2204.13883v1](http://arxiv.org/abs/2204.13883v1)|null|
+|**2022-04-26**|**Deep Learning-based Automatic Player Identification and Logging in American Football Videos**|Hongshan Liu et.al.|[2204.13809v1](http://arxiv.org/abs/2204.13809v1)|null|
 |**2022-04-28**|**Generative Adversarial Networks for Image Super-Resolution: A Survey**|Chunwei Tian et.al.|[2204.13620v1](http://arxiv.org/abs/2204.13620v1)|null|
 |**2022-04-25**|**PhysioGAN: Training High Fidelity Generative Model for Physiological Sensor Readings**|Moustafa Alzantot et.al.|[2204.13597v1](http://arxiv.org/abs/2204.13597v1)|null|
 |**2022-04-28**|**Policy Gradient Stock GAN for Realistic Discrete Order Data Generation in Financial Markets**|Masanori Hirano et.al.|[2204.13338v1](http://arxiv.org/abs/2204.13338v1)|null|
