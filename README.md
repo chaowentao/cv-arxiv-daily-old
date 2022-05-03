@@ -1,4 +1,4 @@
-## Updated on 2022.05.02
+## Updated on 2022.05.03
 
 ## Image Generation
 
@@ -1242,7 +1242,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-04-29**|**CLIP-Art: Contrastive Pre-training for Fine-Grained Art Classification**|Marcos V. Conde et.al.|[2204.14244v1](http://arxiv.org/abs/2204.14244v1)|**[link](https://github.com/KeremTurgutlu/clip_art)**|
+|**2022-04-29**|**CLIP-Art: Contrastive Pre-training for Fine-Grained Art Classification**|Marcos V. Conde et.al.|[2204.14244v1](http://arxiv.org/abs/2204.14244v1)|**[link](https://github.com/KeremTurgutlu/self_supervised)**|
 |**2022-04-29**|**Training Naturalized Semantic Parsers with Very Little Data**|Subendhu Rongali et.al.|[2204.14243v1](http://arxiv.org/abs/2204.14243v1)|null|
 |**2022-04-29**|**Hardware Trojan Detection Using Unsupervised Deep Learning on Quantum Diamond Microscope Magnetic Field Images**|Maitreyi Ashok et.al.|[2204.14228v1](http://arxiv.org/abs/2204.14228v1)|null|
 |**2022-04-29**|**Flamingo: a Visual Language Model for Few-Shot Learning**|Jean-Baptiste Alayrac et.al.|[2204.14198v1](http://arxiv.org/abs/2204.14198v1)|null|
@@ -2592,7 +2592,7 @@
 |**2022-04-28**|**Generative Adversarial Networks for Image Super-Resolution: A Survey**|Chunwei Tian et.al.|[2204.13620v1](http://arxiv.org/abs/2204.13620v1)|null|
 |**2022-04-25**|**PhysioGAN: Training High Fidelity Generative Model for Physiological Sensor Readings**|Moustafa Alzantot et.al.|[2204.13597v1](http://arxiv.org/abs/2204.13597v1)|null|
 |**2022-04-28**|**Policy Gradient Stock GAN for Realistic Discrete Order Data Generation in Financial Markets**|Masanori Hirano et.al.|[2204.13338v1](http://arxiv.org/abs/2204.13338v1)|null|
-|**2022-04-28**|**Anomaly Detection by Leveraging Incomplete Anomalous Knowledge with Anomaly-Aware Bidirectional GANs**|Bowen Tian et.al.|[2204.13335v1](http://arxiv.org/abs/2204.13335v1)|**[link](https://github.com/tbw162/aa-bigan)**|
+|**2022-04-28**|**Anomaly Detection by Leveraging Incomplete Anomalous Knowledge with Anomaly-Aware Bidirectional GANs**|Bowen Tian et.al.|[2204.13335v2](http://arxiv.org/abs/2204.13335v2)|**[link](https://github.com/tbw162/aa-bigan)**|
 |**2022-04-28**|**Sub-percent Precision Measurement of Neutrino Oscillation Parameters with JUNO**|JUNO Collaboration et.al.|[2204.13249v1](http://arxiv.org/abs/2204.13249v1)|null|
 |**2022-04-27**|**Optimized latent-code selection for explainable conditional text-to-image GANs**|Zhenxing Zhang et.al.|[2204.12678v1](http://arxiv.org/abs/2204.12678v1)|null|
 |**2022-04-26**|**Application of WGAN-GP in recommendation and Questioning the relevance of GAN-based approaches**|Hichem Ammar Khodja et.al.|[2204.12527v2](http://arxiv.org/abs/2204.12527v2)|null|
