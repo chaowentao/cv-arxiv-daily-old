@@ -205,6 +205,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-03**|**Error Metrics for Partially Coherent Wavefields**|Abraham Levitan et.al.|[2205.01665v1](http://arxiv.org/abs/2205.01665v1)|null|
 |**2022-04-28**|**Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection**|Mingtao Feng et.al.|[2204.13456v1](http://arxiv.org/abs/2204.13456v1)|**[link](https://github.com/olobbcode/noiself)**|
 |**2022-04-26**|**Acquiring a Dynamic Light Field through a Single-Shot Coded Image**|Ryoya Mizuno et.al.|[2204.12089v1](http://arxiv.org/abs/2204.12089v1)|null|
 |**2022-04-25**|**Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis**|Wei Cheng et.al.|[2204.11798v1](http://arxiv.org/abs/2204.11798v1)|**[link](https://github.com/generalizable-neural-performer/gnr)**|
@@ -294,6 +295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-03**|**Simpler is Better: off-the-shelf Continual Learning Through Pretrained Backbones**|Francesco Pelosin et.al.|[2205.01586v1](http://arxiv.org/abs/2205.01586v1)|null|
+|**2022-05-03**|**Better plain ViT baselines for ImageNet-1k**|Lucas Beyer et.al.|[2205.01580v1](http://arxiv.org/abs/2205.01580v1)|**[link](https://github.com/google-research/big_vision)**|
 |**2022-05-02**|**CenterCLIP: Token Clustering for Efficient Text-Video Retrieval**|Shuai Zhao et.al.|[2205.00823v1](http://arxiv.org/abs/2205.00823v1)|**[link](https://github.com/mzhaoshuai/CenterCLIP)**|
 |**2022-04-30**|**Unsupervised Contrastive Learning based Transformer for Lung Nodule Detection**|Chuang Niu et.al.|[2205.00122v1](http://arxiv.org/abs/2205.00122v1)|null|
 |**2022-04-27**|**Self-Supervised Learning of Object Parts for Semantic Segmentation**|Adrian Ziegler et.al.|[2204.13101v1](http://arxiv.org/abs/2204.13101v1)|**[link](https://github.com/mkuuwaujinga/leopart)**|
@@ -564,8 +567,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-03**|**Multitask Network for Joint Object Detection, Semantic Segmentation and Human Pose Estimation in Vehicle Occupancy Monitoring**|Nikolas Ebert et.al.|[2205.01515v1](http://arxiv.org/abs/2205.01515v1)|null|
+|**2022-05-03**|**3D Semantic Scene Perception using Distributed Smart Edge Sensors**|Simon Bultmann et.al.|[2205.01460v1](http://arxiv.org/abs/2205.01460v1)|**[link](https://github.com/ais-bonn/jetsontrtperception)**|
+|**2022-05-03**|**Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation**|Yihan Wang et.al.|[2205.01271v1](http://arxiv.org/abs/2205.01271v1)|**[link](https://github.com/mit-han-lab/litepose)**|
 |**2022-04-29**|**Fast and Scalable Human Pose Estimation using mmWave Point Cloud**|Sizhe An et.al.|[2205.00097v1](http://arxiv.org/abs/2205.00097v1)|null|
-|**2022-04-29**|**A Simple Method to Boost Human Pose Estimation Accuracy by Correcting the Joint Regressor for the Human3.6m Dataset**|Eric Hedlin et.al.|[2205.00076v1](http://arxiv.org/abs/2205.00076v1)|**[link](https://github.com/ubc-vision/joint-regressor-refinement)**|
+|**2022-04-29**|**A Simple Method to Boost Human Pose Estimation Accuracy by Correcting the Joint Regressor for the Human3.6m Dataset**|Eric Hedlin et.al.|[2205.00076v1](http://arxiv.org/abs/2205.00076v1)|**[link](https://github.com/ubc-vision/human-body-pose)**|
 |**2022-04-28**|**Polarimetric imaging for the detection of synthetic models of SARS-CoV-2: a proof of concept**|Emilio Gomez-Gonzalez et.al.|[2204.14050v1](http://arxiv.org/abs/2204.14050v1)|null|
 |**2022-04-28**|**GRIT: General Robust Image Task Benchmark**|Tanmay Gupta et.al.|[2204.13653v2](http://arxiv.org/abs/2204.13653v2)|**[link](https://github.com/allenai/grit_official)**|
 |**2022-04-26**|**ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**|Yufei Xu et.al.|[2204.12484v1](http://arxiv.org/abs/2204.12484v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
@@ -656,6 +662,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-03**|**Remote distribution of non-classical correlations over 1250 modes between a telecom photon and a $^{171}$Yb$^{3+}$:Y$_2$SiO$_{5}$ crystal**|Moritz Businger et.al.|[2205.01481v1](http://arxiv.org/abs/2205.01481v1)|null|
+|**2022-05-03**|**Multimodal Detection of Unknown Objects on Roads for Autonomous Driving**|Daniel Bogdoll et.al.|[2205.01414v1](http://arxiv.org/abs/2205.01414v1)|null|
+|**2022-05-03**|**Deep Learning in Multimodal Remote Sensing Data Fusion: A Comprehensive Review**|Jiaxin Li et.al.|[2205.01380v1](http://arxiv.org/abs/2205.01380v1)|null|
+|**2022-05-02**|**Leveraging Stochastic Predictions of Bayesian Neural Networks for Fluid Simulations**|Maximilian Mueller et.al.|[2205.01222v1](http://arxiv.org/abs/2205.01222v1)|null|
 |**2022-05-02**|**Music Interpretation Analysis. A Multimodal Approach To Score-Informed Resynthesis of Piano Recordings**|Federico Simonetta et.al.|[2205.00941v1](http://arxiv.org/abs/2205.00941v1)|null|
 |**2022-05-01**|**Molecular Identification from AFM images using the IUPAC Nomenclature and Attribute Multimodal Recurrent Neural Networks**|Jaime Carracedo-Cosme et.al.|[2205.00449v1](http://arxiv.org/abs/2205.00449v1)|null|
 |**2022-04-30**|**Assessing Fatigue with Multimodal Wearable Sensors and Machine Learning**|Ashish Jaiswal et.al.|[2205.00287v1](http://arxiv.org/abs/2205.00287v1)|null|
@@ -1095,6 +1105,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-03**|**Cross-Domain Object Detection with Mean-Teacher Transformer**|Jinze Yu et.al.|[2205.01643v1](http://arxiv.org/abs/2205.01643v1)|null|
+|**2022-05-02**|**NHA12D: A New Pavement Crack Dataset and a Comparison Study Of Crack Detection Algorithms**|Zhening Huang et.al.|[2205.01198v1](http://arxiv.org/abs/2205.01198v1)|**[link](https://github.com/zheninghuang/nha12d-crack-detection-dataset-and-comparison-study)**|
 |**2022-05-02**|**On the generalization capabilities of FSL methods through domain adaptation: a case study in endoscopic kidney stone image classification**|Mauricio Mendez-Ruiz et.al.|[2205.00895v1](http://arxiv.org/abs/2205.00895v1)|null|
 |**2022-05-02**|**Cross-Domain Correlation Distillation for Unsupervised Domain Adaptation in Nighttime Semantic Segmentation**|Huan Gao et.al.|[2205.00858v1](http://arxiv.org/abs/2205.00858v1)|null|
 |**2022-05-01**|**Domain Adaptation meets Individual Fairness. And they get along**|Debarghya Mukherjee et.al.|[2205.00504v1](http://arxiv.org/abs/2205.00504v1)|null|
@@ -1409,6 +1421,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-03**|**Cross-modal Representation Learning for Zero-shot Action Recognition**|Chung-Ching Lin et.al.|[2205.01657v1](http://arxiv.org/abs/2205.01657v1)|null|
+|**2022-05-03**|**Local Stochastic Bilevel Optimization with Momentum-Based Variance Reduction**|Junyi Li et.al.|[2205.01608v1](http://arxiv.org/abs/2205.01608v1)|null|
+|**2022-05-03**|**Cross-View Cross-Scene Multi-View Crowd Counting**|Qi Zhang et.al.|[2205.01551v1](http://arxiv.org/abs/2205.01551v1)|null|
+|**2022-05-03**|**A Comprehensive Survey of Image Augmentation Techniques for Deep Learning**|Mingle Xu et.al.|[2205.01491v1](http://arxiv.org/abs/2205.01491v1)|null|
+|**2022-05-03**|**Scalable Regularised Joint Mixture Models**|Thomas Lartigue et.al.|[2205.01486v1](http://arxiv.org/abs/2205.01486v1)|**[link](https://github.com/tlartigue/scalable-regularised-joint-mixture-models)**|
+|**2022-05-03**|**ARCADE: Adversarially Regularized Convolutional Autoencoder for Network Anomaly Detection**|Willian T. Lunardi et.al.|[2205.01432v1](http://arxiv.org/abs/2205.01432v1)|null|
+|**2022-05-03**|**Kompetencer: Fine-grained Skill Classification in Danish Job Postings via Distant Supervision and Transfer Learning**|Mike Zhang et.al.|[2205.01381v1](http://arxiv.org/abs/2205.01381v1)|**[link](https://github.com/jjzha/kompetencer)**|
+|**2022-05-03**|**Textual Entailment for Event Argument Extraction: Zero- and Few-Shot with Multi-Source Learning**|Oscar Sainz et.al.|[2205.01376v1](http://arxiv.org/abs/2205.01376v1)|null|
+|**2022-05-03**|**TracInAD: Measuring Influence for Anomaly Detection**|Hugo Thimonier et.al.|[2205.01362v1](http://arxiv.org/abs/2205.01362v1)|null|
+|**2022-05-03**|**Distilling Governing Laws and Source Input for Dynamical Systems from Videos**|Lele Luan et.al.|[2205.01314v1](http://arxiv.org/abs/2205.01314v1)|**[link](https://github.com/leleluan/videodiscovery)**|
+|**2022-05-03**|**Contrastive Learning for Prompt-Based Few-Shot Language Learners**|Yiren Jian et.al.|[2205.01308v1](http://arxiv.org/abs/2205.01308v1)|**[link](https://github.com/yiren-jian/lm-supcon)**|
+|**2022-05-03**|**Embedding Hallucination for Few-Shot Language Fine-tuning**|Yiren Jian et.al.|[2205.01307v1](http://arxiv.org/abs/2205.01307v1)|**[link](https://github.com/yiren-jian/embedhalluc)**|
+|**2022-05-03**|**Few-Shot Musical Source Separation**|Yu Wang et.al.|[2205.01273v1](http://arxiv.org/abs/2205.01273v1)|null|
+|**2022-05-02**|**Streaming Inference for Infinite Non-Stationary Clustering**|Rylan Schaeffer et.al.|[2205.01212v1](http://arxiv.org/abs/2205.01212v1)|null|
+|**2022-05-02**|**Emotion-Controllable Generalized Talking Face Generation**|Sanjana Sinha et.al.|[2205.01155v1](http://arxiv.org/abs/2205.01155v1)|null|
+|**2022-05-02**|**Measuring Galactic Dark Matter through Unsupervised Machine Learning**|Matthew R Buckley et.al.|[2205.01129v1](http://arxiv.org/abs/2205.01129v1)|null|
 |**2022-05-02**|**OPT: Open Pre-trained Transformer Language Models**|Susan Zhang et.al.|[2205.01068v2](http://arxiv.org/abs/2205.01068v2)|**[link](https://github.com/facebookresearch/metaseq)**|
 |**2022-05-02**|**Detection Recovery in Online Multi-Object Tracking with Sparse Graph Tracker**|Jeongseok Hyun et.al.|[2205.00968v1](http://arxiv.org/abs/2205.00968v1)|null|
 |**2022-05-02**|**Answer-Me: Multi-Task Open-Vocabulary Visual Question Answering**|AJ Piergiovanni et.al.|[2205.00949v1](http://arxiv.org/abs/2205.00949v1)|null|
@@ -2703,6 +2731,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-03**|**Sampling-free obstacle gradients and reactive planning in Neural Radiance Fields (NeRF)**|Michael Pantic et.al.|[2205.01389v1](http://arxiv.org/abs/2205.01389v1)|null|
 |**2022-04-28**|**AE-NeRF: Auto-Encoding Neural Radiance Fields for 3D-Aware Object Manipulation**|Mira Kim et.al.|[2204.13426v1](http://arxiv.org/abs/2204.13426v1)|null|
 |**2022-04-22**|**Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation**|Verica Lazova et.al.|[2204.10850v1](http://arxiv.org/abs/2204.10850v1)|null|
 |**2022-04-22**|**Implicit Object Mapping With Noisy Data**|Jad Abou-Chakra et.al.|[2204.10516v1](http://arxiv.org/abs/2204.10516v1)|null|
@@ -2769,6 +2798,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-03**|**End-to-End Visual Editing with a Generatively Pre-Trained Artist**|Andrew Brown et.al.|[2205.01668v1](http://arxiv.org/abs/2205.01668v1)|null|
+|**2022-05-03**|**Atomtronic multi-terminal Aharonov-Bohm interferometer**|Jonathan Wei Zhong Lau et.al.|[2205.01636v1](http://arxiv.org/abs/2205.01636v1)|null|
+|**2022-05-03**|**A Bidirectional Conversion Network for Cross-Spectral Face Recognition**|Zhicheng Cao et.al.|[2205.01595v1](http://arxiv.org/abs/2205.01595v1)|null|
+|**2022-05-03**|**A Search for Exoplanets in Open Clusters and Young Associations based on TESS Objects of Interest**|Qinghui Sun et.al.|[2205.01471v1](http://arxiv.org/abs/2205.01471v1)|null|
+|**2022-05-03**|**ARCADE: Adversarially Regularized Convolutional Autoencoder for Network Anomaly Detection**|Willian T. Lunardi et.al.|[2205.01432v1](http://arxiv.org/abs/2205.01432v1)|null|
+|**2022-05-03**|**Copy Motion From One to Another: Fake Motion Video Generation**|Zhenguang Liu et.al.|[2205.01373v1](http://arxiv.org/abs/2205.01373v1)|null|
+|**2022-05-03**|**Cross Domain Object Detection by Target-Perceived Dual Branch Distillation**|Mengzhe He et.al.|[2205.01291v1](http://arxiv.org/abs/2205.01291v1)|**[link](https://github.com/feobi1999/tdd)**|
 |**2022-05-02**|**ComPhy: Compositional Physical Reasoning of Objects and Events from Videos**|Zhenfang Chen et.al.|[2205.01089v1](http://arxiv.org/abs/2205.01089v1)|null|
 |**2022-05-02**|**Seeding Diversity into AI Art**|Marvin Zammit et.al.|[2205.00804v1](http://arxiv.org/abs/2205.00804v1)|null|
 |**2022-05-02**|**Unsupervised Denoising of Optical Coherence Tomography Images with Dual_Merged CycleWGAN**|Jie Du et.al.|[2205.00698v1](http://arxiv.org/abs/2205.00698v1)|null|
@@ -3302,6 +3338,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-04-12**|**AutoFi: Towards Automatic WiFi Human Sensing via Geometric Self-Supervised Learning**|Jianfei Yang et.al.|[2205.01629v1](http://arxiv.org/abs/2205.01629v1)|null|
 |**2022-04-21**|**HEATGait: Hop-Extracted Adjacency Technique in Graph Convolution based Gait Recognition**|Md. Bakhtiar Hasan et.al.|[2204.10238v1](http://arxiv.org/abs/2204.10238v1)|null|
 |**2022-04-16**|**Towards a Deeper Understanding of Skeleton-based Gait Recognition**|Torben Teepe et.al.|[2204.07855v1](http://arxiv.org/abs/2204.07855v1)|**[link](https://github.com/tteepe/gaitgraph2)**|
 |**2022-04-14**|**Human Identity-Preserved Motion Retargeting in Video Synthesis by Feature Disentanglement**|Jingzhe Ma et.al.|[2204.06862v1](http://arxiv.org/abs/2204.06862v1)|null|
