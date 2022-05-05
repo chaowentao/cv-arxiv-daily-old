@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-03**|**Splicing Detection and Localization In Satellite Imagery Using Conditional GANs**|Emily R. Bartusiak et.al.|[2205.01805v1](http://arxiv.org/abs/2205.01805v1)|null|
 |**2022-04-23**|**Detecting Recolored Image by Spatial Correlation**|Yushu Zhang et.al.|[2204.10973v1](http://arxiv.org/abs/2204.10973v1)|null|
 |**2022-04-13**|**Hierarchical Text-Conditional Image Generation with CLIP Latents**|Aditya Ramesh et.al.|[2204.06125v1](http://arxiv.org/abs/2204.06125v1)|null|
 |**2022-04-09**|**ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation**|Jianan Wang et.al.|[2204.04428v1](http://arxiv.org/abs/2204.04428v1)|null|
@@ -143,6 +144,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-04**|**Sequencer: Deep LSTM for Image Classification**|Yuki Tatsunami et.al.|[2205.01972v1](http://arxiv.org/abs/2205.01972v1)|**[link](https://github.com/okojoalg/sequencer)**|
 |**2022-05-03**|**Simpler is Better: off-the-shelf Continual Learning Through Pretrained Backbones**|Francesco Pelosin et.al.|[2205.01586v1](http://arxiv.org/abs/2205.01586v1)|null|
 |**2022-05-03**|**Better plain ViT baselines for ImageNet-1k**|Lucas Beyer et.al.|[2205.01580v1](http://arxiv.org/abs/2205.01580v1)|**[link](https://github.com/google-research/big_vision)**|
 |**2022-05-02**|**CenterCLIP: Token Clustering for Efficient Text-Video Retrieval**|Shuai Zhao et.al.|[2205.00823v1](http://arxiv.org/abs/2205.00823v1)|**[link](https://github.com/mzhaoshuai/CenterCLIP)**|
@@ -418,8 +420,9 @@
 |**2022-05-03**|**Multitask Network for Joint Object Detection, Semantic Segmentation and Human Pose Estimation in Vehicle Occupancy Monitoring**|Nikolas Ebert et.al.|[2205.01515v1](http://arxiv.org/abs/2205.01515v1)|null|
 |**2022-05-03**|**3D Semantic Scene Perception using Distributed Smart Edge Sensors**|Simon Bultmann et.al.|[2205.01460v1](http://arxiv.org/abs/2205.01460v1)|**[link](https://github.com/ais-bonn/jetsontrtperception)**|
 |**2022-05-03**|**Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation**|Yihan Wang et.al.|[2205.01271v1](http://arxiv.org/abs/2205.01271v1)|**[link](https://github.com/mit-han-lab/litepose)**|
+|**2022-05-02**|**Dual networks based 3D Multi-Person Pose Estimation from Monocular Video**|Yu Cheng et.al.|[2205.00748v2](http://arxiv.org/abs/2205.00748v2)|**[link](https://github.com/3dpose/3D-Multi-Person-Pose)**|
 |**2022-04-29**|**Fast and Scalable Human Pose Estimation using mmWave Point Cloud**|Sizhe An et.al.|[2205.00097v1](http://arxiv.org/abs/2205.00097v1)|null|
-|**2022-04-29**|**A Simple Method to Boost Human Pose Estimation Accuracy by Correcting the Joint Regressor for the Human3.6m Dataset**|Eric Hedlin et.al.|[2205.00076v1](http://arxiv.org/abs/2205.00076v1)|**[link](https://github.com/ubc-vision/human-body-pose)**|
+|**2022-04-29**|**A Simple Method to Boost Human Pose Estimation Accuracy by Correcting the Joint Regressor for the Human3.6m Dataset**|Eric Hedlin et.al.|[2205.00076v1](http://arxiv.org/abs/2205.00076v1)|**[link](https://github.com/ubc-vision/joint-regressor-refinement)**|
 |**2022-04-28**|**Polarimetric imaging for the detection of synthetic models of SARS-CoV-2: a proof of concept**|Emilio Gomez-Gonzalez et.al.|[2204.14050v1](http://arxiv.org/abs/2204.14050v1)|null|
 |**2022-04-28**|**GRIT: General Robust Image Task Benchmark**|Tanmay Gupta et.al.|[2204.13653v2](http://arxiv.org/abs/2204.13653v2)|**[link](https://github.com/allenai/grit_official)**|
 |**2022-04-26**|**ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**|Yufei Xu et.al.|[2204.12484v1](http://arxiv.org/abs/2204.12484v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
@@ -510,8 +513,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-04**|**MM-Claims: A Dataset for Multimodal Claim Detection in Social Media**|Gullal S. Cheema et.al.|[2205.01989v1](http://arxiv.org/abs/2205.01989v1)|null|
+|**2022-05-04**|**CoCa: Contrastive Captioners are Image-Text Foundation Models**|Jiahui Yu et.al.|[2205.01917v1](http://arxiv.org/abs/2205.01917v1)|null|
+|**2022-05-04**|**Visual Commonsense in Pretrained Unimodal and Multimodal Models**|Chenyu Zhang et.al.|[2205.01850v1](http://arxiv.org/abs/2205.01850v1)|null|
+|**2022-05-03**|**i-Code: An Integrative and Composable Multimodal Learning Framework**|Ziyi Yang et.al.|[2205.01818v1](http://arxiv.org/abs/2205.01818v1)|null|
+|**2022-05-03**|**A high-fidelity and large-scale reconfigurable photonic processor for NISQ applications**|A. Cavaillès et.al.|[2205.01704v1](http://arxiv.org/abs/2205.01704v1)|null|
 |**2022-05-03**|**Remote distribution of non-classical correlations over 1250 modes between a telecom photon and a $^{171}$Yb$^{3+}$:Y$_2$SiO$_{5}$ crystal**|Moritz Businger et.al.|[2205.01481v1](http://arxiv.org/abs/2205.01481v1)|null|
-|**2022-05-03**|**Multimodal Detection of Unknown Objects on Roads for Autonomous Driving**|Daniel Bogdoll et.al.|[2205.01414v1](http://arxiv.org/abs/2205.01414v1)|null|
+|**2022-05-03**|**Multimodal Detection of Unknown Objects on Roads for Autonomous Driving**|Daniel Bogdoll et.al.|[2205.01414v1](http://arxiv.org/abs/2205.01414v1)|**[link](https://github.com/daniel-bogdoll/unknown_objects_roads)**|
 |**2022-05-03**|**Deep Learning in Multimodal Remote Sensing Data Fusion: A Comprehensive Review**|Jiaxin Li et.al.|[2205.01380v1](http://arxiv.org/abs/2205.01380v1)|null|
 |**2022-05-02**|**Leveraging Stochastic Predictions of Bayesian Neural Networks for Fluid Simulations**|Maximilian Mueller et.al.|[2205.01222v1](http://arxiv.org/abs/2205.01222v1)|null|
 |**2022-05-02**|**Music Interpretation Analysis. A Multimodal Approach To Score-Informed Resynthesis of Piano Recordings**|Federico Simonetta et.al.|[2205.00941v1](http://arxiv.org/abs/2205.00941v1)|null|
@@ -953,6 +961,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-04**|**Few-Shot Document-Level Relation Extraction**|Nicholas Popovic et.al.|[2205.02048v1](http://arxiv.org/abs/2205.02048v1)|**[link](https://github.com/nicpopovic/fredo)**|
+|**2022-05-04**|**Unsupervised Domain Adaptation Learning for Hierarchical Infant Pose Recognition with Synthetic Data**|Cheng-Yen Yang et.al.|[2205.01892v1](http://arxiv.org/abs/2205.01892v1)|null|
+|**2022-05-03**|**Mixed-effects transformers for hierarchical adaptation**|Julia White et.al.|[2205.01749v1](http://arxiv.org/abs/2205.01749v1)|null|
 |**2022-05-03**|**Cross-Domain Object Detection with Mean-Teacher Transformer**|Jinze Yu et.al.|[2205.01643v1](http://arxiv.org/abs/2205.01643v1)|null|
 |**2022-05-02**|**NHA12D: A New Pavement Crack Dataset and a Comparison Study Of Crack Detection Algorithms**|Zhening Huang et.al.|[2205.01198v1](http://arxiv.org/abs/2205.01198v1)|**[link](https://github.com/zheninghuang/nha12d-crack-detection-dataset-and-comparison-study)**|
 |**2022-05-02**|**On the generalization capabilities of FSL methods through domain adaptation: a case study in endoscopic kidney stone image classification**|Mauricio Mendez-Ruiz et.al.|[2205.00895v1](http://arxiv.org/abs/2205.00895v1)|null|
@@ -1269,6 +1280,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-04**|**HiURE: Hierarchical Exemplar Contrastive Learning for Unsupervised Relation Extraction**|Shuliang Liu et.al.|[2205.02225v1](http://arxiv.org/abs/2205.02225v1)|null|
+|**2022-05-04**|**Efficient Few-Shot Fine-Tuning for Opinion Summarization**|Arthur Bražinskas et.al.|[2205.02170v1](http://arxiv.org/abs/2205.02170v1)|null|
+|**2022-05-04**|**Compositional Task-Oriented Parsing as Abstractive Question Answering**|Wenting Zhao et.al.|[2205.02068v1](http://arxiv.org/abs/2205.02068v1)|null|
+|**2022-05-04**|**Exploring Rawlsian Fairness for K-Means Clustering**|Stanley Simoes et.al.|[2205.02052v1](http://arxiv.org/abs/2205.02052v1)|null|
+|**2022-05-04**|**Few-Shot Document-Level Relation Extraction**|Nicholas Popovic et.al.|[2205.02048v1](http://arxiv.org/abs/2205.02048v1)|**[link](https://github.com/nicpopovic/fredo)**|
+|**2022-05-04**|**Lifelong Ensemble Learning based on Multiple Representations for Few-Shot Object Recognition**|Hamidreza Kasaei et.al.|[2205.01982v1](http://arxiv.org/abs/2205.01982v1)|null|
+|**2022-05-04**|**Word Tour: One-dimensional Word Embeddings via the Traveling Salesman Problem**|Ryoma Sato et.al.|[2205.01954v1](http://arxiv.org/abs/2205.01954v1)|**[link](https://github.com/joisino/wordtour)**|
+|**2022-05-04**|**Zero-Episode Few-Shot Contrastive Predictive Coding: Solving intelligence tests without prior training**|T. Barak et.al.|[2205.01924v1](http://arxiv.org/abs/2205.01924v1)|null|
+|**2022-05-04**|**CoCa: Contrastive Captioners are Image-Text Foundation Models**|Jiahui Yu et.al.|[2205.01917v1](http://arxiv.org/abs/2205.01917v1)|null|
+|**2022-05-04**|**Generalized Knowledge Distillation via Relationship Matching**|Han-Jia Ye et.al.|[2205.01915v1](http://arxiv.org/abs/2205.01915v1)|**[link](https://github.com/njulus/gkd)**|
+|**2022-05-04**|**Cross-lingual Word Embeddings in Hyperbolic Space**|Chandni Saxena et.al.|[2205.01907v1](http://arxiv.org/abs/2205.01907v1)|**[link](https://github.com/muditchaudhary/hyperbolic_crosslingual_word_embeddings)**|
+|**2022-05-04**|**ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters**|Xue Bin Peng et.al.|[2205.01906v1](http://arxiv.org/abs/2205.01906v1)|null|
+|**2022-05-04**|**Self-Taught Metric Learning without Labels**|Sungyeon Kim et.al.|[2205.01903v1](http://arxiv.org/abs/2205.01903v1)|null|
+|**2022-05-04**|**Unsupervised Domain Adaptation Learning for Hierarchical Infant Pose Recognition with Synthetic Data**|Cheng-Yen Yang et.al.|[2205.01892v1](http://arxiv.org/abs/2205.01892v1)|null|
+|**2022-05-04**|**P$^3$ Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning**|Xiaomeng Hu et.al.|[2205.01886v1](http://arxiv.org/abs/2205.01886v1)|null|
+|**2022-05-04**|**All You May Need for VQA are Image Captions**|Soravit Changpinyo et.al.|[2205.01883v1](http://arxiv.org/abs/2205.01883v1)|null|
+|**2022-05-04**|**Exploring Entity Interactions for Few-Shot Relation Learning (Student Abstract)**|YI Liang et.al.|[2205.01878v1](http://arxiv.org/abs/2205.01878v1)|null|
+|**2022-05-04**|**UCL-Dehaze: Towards Real-world Image Dehazing via Unsupervised Contrastive Learning**|Yongzhen Wang et.al.|[2205.01871v1](http://arxiv.org/abs/2205.01871v1)|**[link](https://github.com/yz-wang/ucl-dehaze)**|
+|**2022-05-04**|**Seed-Guided Topic Discovery with Out-of-Vocabulary Seeds**|Yu Zhang et.al.|[2205.01845v1](http://arxiv.org/abs/2205.01845v1)|null|
+|**2022-05-04**|**AmbiPun: Generating Humorous Puns with Ambiguous Context**|Anirudh Mittal et.al.|[2205.01825v1](http://arxiv.org/abs/2205.01825v1)|null|
 |**2022-05-03**|**Cross-modal Representation Learning for Zero-shot Action Recognition**|Chung-Ching Lin et.al.|[2205.01657v1](http://arxiv.org/abs/2205.01657v1)|null|
 |**2022-05-03**|**Local Stochastic Bilevel Optimization with Momentum-Based Variance Reduction**|Junyi Li et.al.|[2205.01608v1](http://arxiv.org/abs/2205.01608v1)|null|
 |**2022-05-03**|**Cross-View Cross-Scene Multi-View Crowd Counting**|Qi Zhang et.al.|[2205.01551v1](http://arxiv.org/abs/2205.01551v1)|null|
@@ -2646,6 +2677,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-04**|**Measuring and Improving Compositional Generalization in Text-to-SQL via Component Alignment**|Yujian Gan et.al.|[2205.02054v1](http://arxiv.org/abs/2205.02054v1)|null|
+|**2022-05-04**|**An unexplored valley of binary packing: The loose jamming state**|Si Suo et.al.|[2205.01934v1](http://arxiv.org/abs/2205.01934v1)|null|
+|**2022-05-03**|**Assessing Dataset Bias in Computer Vision**|Athiya Deviyani et.al.|[2205.01811v1](http://arxiv.org/abs/2205.01811v1)|null|
+|**2022-05-03**|**Splicing Detection and Localization In Satellite Imagery Using Conditional GANs**|Emily R. Bartusiak et.al.|[2205.01805v1](http://arxiv.org/abs/2205.01805v1)|null|
 |**2022-05-03**|**End-to-End Visual Editing with a Generatively Pre-Trained Artist**|Andrew Brown et.al.|[2205.01668v1](http://arxiv.org/abs/2205.01668v1)|null|
 |**2022-05-03**|**Atomtronic multi-terminal Aharonov-Bohm interferometer**|Jonathan Wei Zhong Lau et.al.|[2205.01636v1](http://arxiv.org/abs/2205.01636v1)|null|
 |**2022-05-03**|**A Bidirectional Conversion Network for Cross-Spectral Face Recognition**|Zhicheng Cao et.al.|[2205.01595v1](http://arxiv.org/abs/2205.01595v1)|null|
