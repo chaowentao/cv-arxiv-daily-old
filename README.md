@@ -1,4 +1,4 @@
-## Updated on 2022.05.04
+## Updated on 2022.05.05
 
 ## Image Generation
 
@@ -1276,8 +1276,8 @@
 |**2022-05-03**|**Scalable Regularised Joint Mixture Models**|Thomas Lartigue et.al.|[2205.01486v1](http://arxiv.org/abs/2205.01486v1)|**[link](https://github.com/tlartigue/scalable-regularised-joint-mixture-models)**|
 |**2022-05-03**|**ARCADE: Adversarially Regularized Convolutional Autoencoder for Network Anomaly Detection**|Willian T. Lunardi et.al.|[2205.01432v1](http://arxiv.org/abs/2205.01432v1)|null|
 |**2022-05-03**|**Kompetencer: Fine-grained Skill Classification in Danish Job Postings via Distant Supervision and Transfer Learning**|Mike Zhang et.al.|[2205.01381v1](http://arxiv.org/abs/2205.01381v1)|**[link](https://github.com/jjzha/kompetencer)**|
-|**2022-05-03**|**Textual Entailment for Event Argument Extraction: Zero- and Few-Shot with Multi-Source Learning**|Oscar Sainz et.al.|[2205.01376v1](http://arxiv.org/abs/2205.01376v1)|null|
-|**2022-05-03**|**TracInAD: Measuring Influence for Anomaly Detection**|Hugo Thimonier et.al.|[2205.01362v1](http://arxiv.org/abs/2205.01362v1)|null|
+|**2022-05-03**|**Textual Entailment for Event Argument Extraction: Zero- and Few-Shot with Multi-Source Learning**|Oscar Sainz et.al.|[2205.01376v1](http://arxiv.org/abs/2205.01376v1)|**[link](https://github.com/osainz59/Ask2Transformers)**|
+|**2022-05-03**|**TracInAD: Measuring Influence for Anomaly Detection**|Hugo Thimonier et.al.|[2205.01362v2](http://arxiv.org/abs/2205.01362v2)|null|
 |**2022-05-03**|**Distilling Governing Laws and Source Input for Dynamical Systems from Videos**|Lele Luan et.al.|[2205.01314v1](http://arxiv.org/abs/2205.01314v1)|**[link](https://github.com/leleluan/videodiscovery)**|
 |**2022-05-03**|**Contrastive Learning for Prompt-Based Few-Shot Language Learners**|Yiren Jian et.al.|[2205.01308v1](http://arxiv.org/abs/2205.01308v1)|**[link](https://github.com/yiren-jian/lm-supcon)**|
 |**2022-05-03**|**Embedding Hallucination for Few-Shot Language Fine-tuning**|Yiren Jian et.al.|[2205.01307v1](http://arxiv.org/abs/2205.01307v1)|**[link](https://github.com/yiren-jian/embedhalluc)**|
@@ -2649,7 +2649,7 @@
 |**2022-05-03**|**End-to-End Visual Editing with a Generatively Pre-Trained Artist**|Andrew Brown et.al.|[2205.01668v1](http://arxiv.org/abs/2205.01668v1)|null|
 |**2022-05-03**|**Atomtronic multi-terminal Aharonov-Bohm interferometer**|Jonathan Wei Zhong Lau et.al.|[2205.01636v1](http://arxiv.org/abs/2205.01636v1)|null|
 |**2022-05-03**|**A Bidirectional Conversion Network for Cross-Spectral Face Recognition**|Zhicheng Cao et.al.|[2205.01595v1](http://arxiv.org/abs/2205.01595v1)|null|
-|**2022-05-03**|**A Search for Exoplanets in Open Clusters and Young Associations based on TESS Objects of Interest**|Qinghui Sun et.al.|[2205.01471v1](http://arxiv.org/abs/2205.01471v1)|null|
+|**2022-05-03**|**A Search for Exoplanets in Open Clusters and Young Associations based on TESS Objects of Interest**|Qinghui Sun et.al.|[2205.01471v2](http://arxiv.org/abs/2205.01471v2)|null|
 |**2022-05-03**|**ARCADE: Adversarially Regularized Convolutional Autoencoder for Network Anomaly Detection**|Willian T. Lunardi et.al.|[2205.01432v1](http://arxiv.org/abs/2205.01432v1)|null|
 |**2022-05-03**|**Copy Motion From One to Another: Fake Motion Video Generation**|Zhenguang Liu et.al.|[2205.01373v1](http://arxiv.org/abs/2205.01373v1)|null|
 |**2022-05-03**|**Cross Domain Object Detection by Target-Perceived Dual Branch Distillation**|Mengzhe He et.al.|[2205.01291v1](http://arxiv.org/abs/2205.01291v1)|**[link](https://github.com/feobi1999/tdd)**|
