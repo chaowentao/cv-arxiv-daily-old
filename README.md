@@ -1,4 +1,4 @@
-## Updated on 2022.05.05
+## Updated on 2022.05.06
 
 ## Image Generation
 
@@ -516,7 +516,7 @@
 |**2022-05-04**|**MM-Claims: A Dataset for Multimodal Claim Detection in Social Media**|Gullal S. Cheema et.al.|[2205.01989v1](http://arxiv.org/abs/2205.01989v1)|null|
 |**2022-05-04**|**CoCa: Contrastive Captioners are Image-Text Foundation Models**|Jiahui Yu et.al.|[2205.01917v1](http://arxiv.org/abs/2205.01917v1)|null|
 |**2022-05-04**|**Visual Commonsense in Pretrained Unimodal and Multimodal Models**|Chenyu Zhang et.al.|[2205.01850v1](http://arxiv.org/abs/2205.01850v1)|null|
-|**2022-05-03**|**i-Code: An Integrative and Composable Multimodal Learning Framework**|Ziyi Yang et.al.|[2205.01818v1](http://arxiv.org/abs/2205.01818v1)|null|
+|**2022-05-03**|**i-Code: An Integrative and Composable Multimodal Learning Framework**|Ziyi Yang et.al.|[2205.01818v2](http://arxiv.org/abs/2205.01818v2)|null|
 |**2022-05-03**|**A high-fidelity and large-scale reconfigurable photonic processor for NISQ applications**|A. Cavaillès et.al.|[2205.01704v1](http://arxiv.org/abs/2205.01704v1)|null|
 |**2022-05-03**|**Remote distribution of non-classical correlations over 1250 modes between a telecom photon and a $^{171}$Yb$^{3+}$:Y$_2$SiO$_{5}$ crystal**|Moritz Businger et.al.|[2205.01481v1](http://arxiv.org/abs/2205.01481v1)|null|
 |**2022-05-03**|**Multimodal Detection of Unknown Objects on Roads for Autonomous Driving**|Daniel Bogdoll et.al.|[2205.01414v1](http://arxiv.org/abs/2205.01414v1)|**[link](https://github.com/daniel-bogdoll/unknown_objects_roads)**|
@@ -1290,11 +1290,11 @@
 |**2022-05-04**|**Zero-Episode Few-Shot Contrastive Predictive Coding: Solving intelligence tests without prior training**|T. Barak et.al.|[2205.01924v1](http://arxiv.org/abs/2205.01924v1)|null|
 |**2022-05-04**|**CoCa: Contrastive Captioners are Image-Text Foundation Models**|Jiahui Yu et.al.|[2205.01917v1](http://arxiv.org/abs/2205.01917v1)|null|
 |**2022-05-04**|**Generalized Knowledge Distillation via Relationship Matching**|Han-Jia Ye et.al.|[2205.01915v1](http://arxiv.org/abs/2205.01915v1)|**[link](https://github.com/njulus/gkd)**|
-|**2022-05-04**|**Cross-lingual Word Embeddings in Hyperbolic Space**|Chandni Saxena et.al.|[2205.01907v1](http://arxiv.org/abs/2205.01907v1)|**[link](https://github.com/muditchaudhary/hyperbolic_crosslingual_word_embeddings)**|
-|**2022-05-04**|**ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters**|Xue Bin Peng et.al.|[2205.01906v1](http://arxiv.org/abs/2205.01906v1)|null|
+|**2022-05-04**|**Cross-lingual Word Embeddings in Hyperbolic Space**|Chandni Saxena et.al.|[2205.01907v1](http://arxiv.org/abs/2205.01907v1)|null|
+|**2022-05-04**|**ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters**|Xue Bin Peng et.al.|[2205.01906v2](http://arxiv.org/abs/2205.01906v2)|null|
 |**2022-05-04**|**Self-Taught Metric Learning without Labels**|Sungyeon Kim et.al.|[2205.01903v1](http://arxiv.org/abs/2205.01903v1)|null|
 |**2022-05-04**|**Unsupervised Domain Adaptation Learning for Hierarchical Infant Pose Recognition with Synthetic Data**|Cheng-Yen Yang et.al.|[2205.01892v1](http://arxiv.org/abs/2205.01892v1)|null|
-|**2022-05-04**|**P$^3$ Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning**|Xiaomeng Hu et.al.|[2205.01886v1](http://arxiv.org/abs/2205.01886v1)|null|
+|**2022-05-04**|**P^3 Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning**|Xiaomeng Hu et.al.|[2205.01886v2](http://arxiv.org/abs/2205.01886v2)|**[link](https://github.com/neuir/p3ranker)**|
 |**2022-05-04**|**All You May Need for VQA are Image Captions**|Soravit Changpinyo et.al.|[2205.01883v1](http://arxiv.org/abs/2205.01883v1)|null|
 |**2022-05-04**|**Exploring Entity Interactions for Few-Shot Relation Learning (Student Abstract)**|YI Liang et.al.|[2205.01878v1](http://arxiv.org/abs/2205.01878v1)|null|
 |**2022-05-04**|**UCL-Dehaze: Towards Real-world Image Dehazing via Unsupervised Contrastive Learning**|Yongzhen Wang et.al.|[2205.01871v1](http://arxiv.org/abs/2205.01871v1)|**[link](https://github.com/yz-wang/ucl-dehaze)**|
