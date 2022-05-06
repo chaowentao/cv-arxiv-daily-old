@@ -206,6 +206,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-05**|**Time-multiplexed Neural Holography: A flexible framework for holographic near-eye displays with fast heavily-quantized spatial light modulators**|Suyeon Choi et.al.|[2205.02367v1](http://arxiv.org/abs/2205.02367v1)|null|
 |**2022-05-03**|**Error Metrics for Partially Coherent Wavefields**|Abraham Levitan et.al.|[2205.01665v1](http://arxiv.org/abs/2205.01665v1)|null|
 |**2022-04-28**|**Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection**|Mingtao Feng et.al.|[2204.13456v1](http://arxiv.org/abs/2204.13456v1)|**[link](https://github.com/olobbcode/noiself)**|
 |**2022-04-26**|**Acquiring a Dynamic Light Field through a Single-Shot Coded Image**|Ryoya Mizuno et.al.|[2204.12089v1](http://arxiv.org/abs/2204.12089v1)|null|
@@ -665,6 +666,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-05**|**Koopman pose predictions for temporally consistent human walking estimations**|Marc Mitjans et.al.|[2205.02737v1](http://arxiv.org/abs/2205.02737v1)|null|
+|**2022-05-05**|**Bifurcations and patterns in the Kuramoto model with inertia**|Hayato Chiba et.al.|[2205.02677v1](http://arxiv.org/abs/2205.02677v1)|null|
+|**2022-05-05**|**Language Models Can See: Plugging Visual Controls in Text Generation**|Yixuan Su et.al.|[2205.02655v1](http://arxiv.org/abs/2205.02655v1)|null|
+|**2022-05-05**|**Phenomenology and dynamics of competitive ecosystems beyond the niche-neutral regimes**|Nava Leibovich et.al.|[2205.02650v1](http://arxiv.org/abs/2205.02650v1)|null|
+|**2022-05-05**|**Encoding of direct 4D printing of isotropic single-material system for double-curvature and multimodal morphing**|Bihui Zou et.al.|[2205.02510v1](http://arxiv.org/abs/2205.02510v1)|null|
+|**2022-05-05**|**COGMEN: COntextualized GNN based Multimodal Emotion recognitioN**|Abhinav Joshi et.al.|[2205.02455v1](http://arxiv.org/abs/2205.02455v1)|**[link](https://github.com/exploration-lab/cogmen)**|
+|**2022-05-04**|**Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion**|Xiang Chen et.al.|[2205.02357v1](http://arxiv.org/abs/2205.02357v1)|**[link](https://github.com/zjunlp/MKGformer)**|
 |**2022-05-04**|**MM-Claims: A Dataset for Multimodal Claim Detection in Social Media**|Gullal S. Cheema et.al.|[2205.01989v1](http://arxiv.org/abs/2205.01989v1)|null|
 |**2022-05-04**|**CoCa: Contrastive Captioners are Image-Text Foundation Models**|Jiahui Yu et.al.|[2205.01917v1](http://arxiv.org/abs/2205.01917v1)|null|
 |**2022-05-04**|**Visual Commonsense in Pretrained Unimodal and Multimodal Models**|Chenyu Zhang et.al.|[2205.01850v1](http://arxiv.org/abs/2205.01850v1)|null|
@@ -1113,6 +1121,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-04**|**ShoeRinsics: Shoeprint Prediction for Forensics with Intrinsic Decomposition**|Samia Shafique et.al.|[2205.02361v1](http://arxiv.org/abs/2205.02361v1)|**[link](https://github.com/samia067/shoerinsics)**|
 |**2022-05-04**|**Few-Shot Document-Level Relation Extraction**|Nicholas Popovic et.al.|[2205.02048v1](http://arxiv.org/abs/2205.02048v1)|**[link](https://github.com/nicpopovic/fredo)**|
 |**2022-05-04**|**Unsupervised Domain Adaptation Learning for Hierarchical Infant Pose Recognition with Synthetic Data**|Cheng-Yen Yang et.al.|[2205.01892v1](http://arxiv.org/abs/2205.01892v1)|null|
 |**2022-05-03**|**Mixed-effects transformers for hierarchical adaptation**|Julia White et.al.|[2205.01749v1](http://arxiv.org/abs/2205.01749v1)|null|
@@ -1432,6 +1441,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-05**|**BlobGAN: Spatially Disentangled Scene Representations**|Dave Epstein et.al.|[2205.02837v1](http://arxiv.org/abs/2205.02837v1)|null|
+|**2022-05-05**|**An end-to-end KNN-based PIV approach for high-resolution measurements and uncertainty quantification**|Iacopo Tirelli et.al.|[2205.02766v1](http://arxiv.org/abs/2205.02766v1)|null|
+|**2022-05-05**|**The VVV Open Cluster Project II. Near-infrared sequences of 37 open clusters on eight-dimensional parameter space**|K. Peña Ramírez et.al.|[2205.02735v1](http://arxiv.org/abs/2205.02735v1)|null|
+|**2022-05-05**|**Meta-learning Feature Representations for Adaptive Gaussian Processes via Implicit Differentiation**|Wenlin Chen et.al.|[2205.02708v1](http://arxiv.org/abs/2205.02708v1)|null|
+|**2022-05-05**|**Mode Reduction for Markov Jump Systems**|Zhe Du et.al.|[2205.02697v1](http://arxiv.org/abs/2205.02697v1)|null|
+|**2022-05-05**|**Unsupervised Mismatch Localization in Cross-Modal Sequential Data**|Wei Wei et.al.|[2205.02670v1](http://arxiv.org/abs/2205.02670v1)|null|
+|**2022-05-05**|**Language Models Can See: Plugging Visual Controls in Text Generation**|Yixuan Su et.al.|[2205.02655v1](http://arxiv.org/abs/2205.02655v1)|null|
+|**2022-05-05**|**BORT: Back and Denoising Reconstruction for End-to-End Task-Oriented Dialog**|Haipeng Sun et.al.|[2205.02471v1](http://arxiv.org/abs/2205.02471v1)|**[link](https://github.com/jd-ai-research-nlp/bort)**|
+|**2022-05-05**|**Declaration-based Prompt Tuning for Visual Question Answering**|Yuhang Liu et.al.|[2205.02456v1](http://arxiv.org/abs/2205.02456v1)|**[link](https://github.com/cciiplab/dpt)**|
+|**2022-05-05**|**Assistive Recipe Editing through Critiquing**|Diego Antognini et.al.|[2205.02454v1](http://arxiv.org/abs/2205.02454v1)|null|
+|**2022-05-05**|**FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs**|Song Wang et.al.|[2205.02435v1](http://arxiv.org/abs/2205.02435v1)|**[link](https://github.com/songw-sw/faith)**|
+|**2022-05-05**|**Quantum Semantic Communications: An Unexplored Avenue for Contextual Networking**|Mahdi Chehimi et.al.|[2205.02422v1](http://arxiv.org/abs/2205.02422v1)|null|
+|**2022-05-04**|**ShoeRinsics: Shoeprint Prediction for Forensics with Intrinsic Decomposition**|Samia Shafique et.al.|[2205.02361v1](http://arxiv.org/abs/2205.02361v1)|**[link](https://github.com/samia067/shoerinsics)**|
+|**2022-05-04**|**FedSPLIT: One-Shot Federated Recommendation System Based on Non-negative Joint Matrix Factorization and Knowledge Distillation**|Maksim E. Eren et.al.|[2205.02359v1](http://arxiv.org/abs/2205.02359v1)|null|
+|**2022-05-04**|**Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning**|Xiang Chen et.al.|[2205.02355v1](http://arxiv.org/abs/2205.02355v1)|**[link](https://github.com/zjunlp/promptkg)**|
+|**2022-05-04**|**Language Models in the Loop: Incorporating Prompting into Weak Supervision**|Ryan Smith et.al.|[2205.02318v1](http://arxiv.org/abs/2205.02318v1)|null|
+|**2022-05-04**|**Towards Robust and Semantically Organised Latent Representations for Unsupervised Text Style Transfer**|Sharan Narasimhan et.al.|[2205.02309v1](http://arxiv.org/abs/2205.02309v1)|**[link](https://github.com/sharan21/epaae)**|
 |**2022-05-04**|**HiURE: Hierarchical Exemplar Contrastive Learning for Unsupervised Relation Extraction**|Shuliang Liu et.al.|[2205.02225v1](http://arxiv.org/abs/2205.02225v1)|null|
 |**2022-05-04**|**Efficient Few-Shot Fine-Tuning for Opinion Summarization**|Arthur Bražinskas et.al.|[2205.02170v1](http://arxiv.org/abs/2205.02170v1)|null|
 |**2022-05-04**|**Compositional Task-Oriented Parsing as Abstractive Question Answering**|Wenting Zhao et.al.|[2205.02068v1](http://arxiv.org/abs/2205.02068v1)|null|
@@ -2829,6 +2855,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-05**|**Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics**|Sizhe Li et.al.|[2205.02835v1](http://arxiv.org/abs/2205.02835v1)|null|
+|**2022-05-05**|**Fixing Malfunctional Objects With Learned Physical Simulation and Functional Prediction**|Yining Hong et.al.|[2205.02834v1](http://arxiv.org/abs/2205.02834v1)|null|
+|**2022-05-05**|**Are GAN-based Morphs Threatening Face Recognition?**|Eklavya Sarkar et.al.|[2205.02496v1](http://arxiv.org/abs/2205.02496v1)|**[link](https://gitlab.idiap.ch/bob/bob.paper.icassp2022_morph_generate)**|
 |**2022-05-04**|**Measuring and Improving Compositional Generalization in Text-to-SQL via Component Alignment**|Yujian Gan et.al.|[2205.02054v1](http://arxiv.org/abs/2205.02054v1)|null|
 |**2022-05-04**|**An unexplored valley of binary packing: The loose jamming state**|Si Suo et.al.|[2205.01934v1](http://arxiv.org/abs/2205.01934v1)|null|
 |**2022-05-03**|**Assessing Dataset Bias in Computer Vision**|Athiya Deviyani et.al.|[2205.01811v1](http://arxiv.org/abs/2205.01811v1)|null|
@@ -3373,6 +3402,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-05**|**Gait Recognition in the Wild: A Benchmark**|Zheng Zhu et.al.|[2205.02692v1](http://arxiv.org/abs/2205.02692v1)|null|
 |**2022-04-12**|**AutoFi: Towards Automatic WiFi Human Sensing via Geometric Self-Supervised Learning**|Jianfei Yang et.al.|[2205.01629v1](http://arxiv.org/abs/2205.01629v1)|null|
 |**2022-04-21**|**HEATGait: Hop-Extracted Adjacency Technique in Graph Convolution based Gait Recognition**|Md. Bakhtiar Hasan et.al.|[2204.10238v1](http://arxiv.org/abs/2204.10238v1)|null|
 |**2022-04-16**|**Towards a Deeper Understanding of Skeleton-based Gait Recognition**|Torben Teepe et.al.|[2204.07855v1](http://arxiv.org/abs/2204.07855v1)|**[link](https://github.com/tteepe/gaitgraph2)**|
