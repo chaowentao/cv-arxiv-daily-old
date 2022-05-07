@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.05.06
+## Updated on 2022.05.07
 
 ## SLAM
 
@@ -668,7 +668,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-05-05**|**Koopman pose predictions for temporally consistent human walking estimations**|Marc Mitjans et.al.|[2205.02737v1](http://arxiv.org/abs/2205.02737v1)|null|
 |**2022-05-05**|**Bifurcations and patterns in the Kuramoto model with inertia**|Hayato Chiba et.al.|[2205.02677v1](http://arxiv.org/abs/2205.02677v1)|null|
-|**2022-05-05**|**Language Models Can See: Plugging Visual Controls in Text Generation**|Yixuan Su et.al.|[2205.02655v1](http://arxiv.org/abs/2205.02655v1)|null|
+|**2022-05-05**|**Language Models Can See: Plugging Visual Controls in Text Generation**|Yixuan Su et.al.|[2205.02655v1](http://arxiv.org/abs/2205.02655v1)|**[link](https://github.com/yxuansu/magic)**|
 |**2022-05-05**|**Phenomenology and dynamics of competitive ecosystems beyond the niche-neutral regimes**|Nava Leibovich et.al.|[2205.02650v1](http://arxiv.org/abs/2205.02650v1)|null|
 |**2022-05-05**|**Encoding of direct 4D printing of isotropic single-material system for double-curvature and multimodal morphing**|Bihui Zou et.al.|[2205.02510v1](http://arxiv.org/abs/2205.02510v1)|null|
 |**2022-05-05**|**COGMEN: COntextualized GNN based Multimodal Emotion recognitioN**|Abhinav Joshi et.al.|[2205.02455v1](http://arxiv.org/abs/2205.02455v1)|**[link](https://github.com/exploration-lab/cogmen)**|
@@ -1447,7 +1447,7 @@ layout: default
 |**2022-05-05**|**Meta-learning Feature Representations for Adaptive Gaussian Processes via Implicit Differentiation**|Wenlin Chen et.al.|[2205.02708v1](http://arxiv.org/abs/2205.02708v1)|null|
 |**2022-05-05**|**Mode Reduction for Markov Jump Systems**|Zhe Du et.al.|[2205.02697v1](http://arxiv.org/abs/2205.02697v1)|null|
 |**2022-05-05**|**Unsupervised Mismatch Localization in Cross-Modal Sequential Data**|Wei Wei et.al.|[2205.02670v1](http://arxiv.org/abs/2205.02670v1)|null|
-|**2022-05-05**|**Language Models Can See: Plugging Visual Controls in Text Generation**|Yixuan Su et.al.|[2205.02655v1](http://arxiv.org/abs/2205.02655v1)|null|
+|**2022-05-05**|**Language Models Can See: Plugging Visual Controls in Text Generation**|Yixuan Su et.al.|[2205.02655v1](http://arxiv.org/abs/2205.02655v1)|**[link](https://github.com/yxuansu/magic)**|
 |**2022-05-05**|**BORT: Back and Denoising Reconstruction for End-to-End Task-Oriented Dialog**|Haipeng Sun et.al.|[2205.02471v1](http://arxiv.org/abs/2205.02471v1)|**[link](https://github.com/jd-ai-research-nlp/bort)**|
 |**2022-05-05**|**Declaration-based Prompt Tuning for Visual Question Answering**|Yuhang Liu et.al.|[2205.02456v1](http://arxiv.org/abs/2205.02456v1)|**[link](https://github.com/cciiplab/dpt)**|
 |**2022-05-05**|**Assistive Recipe Editing through Critiquing**|Diego Antognini et.al.|[2205.02454v1](http://arxiv.org/abs/2205.02454v1)|null|
