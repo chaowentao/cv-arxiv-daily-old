@@ -666,6 +666,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-06**|**Implicit semantic-based personalized micro-videos recommendation**|Bo Liu et.al.|[2205.03297v1](http://arxiv.org/abs/2205.03297v1)|null|
+|**2022-05-06**|**Ultrathin, high-speed, all-optical photoacoustic endomicroscopy probe for guiding minimally invasive surgery**|Tianrui Zhao et.al.|[2205.03122v1](http://arxiv.org/abs/2205.03122v1)|null|
+|**2022-05-06**|**Design Target Achievement Index: A Differentiable Metric to Enhance Deep Generative Models in Multi-Objective Inverse Design**|Lyle Regenwetter et.al.|[2205.03005v1](http://arxiv.org/abs/2205.03005v1)|null|
+|**2022-05-03**|**Detection of Propaganda Techniques in Visuo-Lingual Metaphor in Memes**|Sunil Gundapu et.al.|[2205.02937v1](http://arxiv.org/abs/2205.02937v1)|null|
 |**2022-05-05**|**Koopman pose predictions for temporally consistent human walking estimations**|Marc Mitjans et.al.|[2205.02737v1](http://arxiv.org/abs/2205.02737v1)|null|
 |**2022-05-05**|**Bifurcations and patterns in the Kuramoto model with inertia**|Hayato Chiba et.al.|[2205.02677v1](http://arxiv.org/abs/2205.02677v1)|null|
 |**2022-05-05**|**Language Models Can See: Plugging Visual Controls in Text Generation**|Yixuan Su et.al.|[2205.02655v1](http://arxiv.org/abs/2205.02655v1)|**[link](https://github.com/yxuansu/magic)**|
@@ -1121,6 +1125,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-03**|**Disentangled and Side-aware Unsupervised Domain Adaptation for Cross-dataset Subjective Tinnitus Diagnosis**|Zhe Liu et.al.|[2205.03230v1](http://arxiv.org/abs/2205.03230v1)|null|
+|**2022-05-06**|**Bridging the Domain Gap for Stance Detection for the Zulu language**|Gcinizwe Dlamini et.al.|[2205.03153v1](http://arxiv.org/abs/2205.03153v1)|null|
 |**2022-05-04**|**ShoeRinsics: Shoeprint Prediction for Forensics with Intrinsic Decomposition**|Samia Shafique et.al.|[2205.02361v1](http://arxiv.org/abs/2205.02361v1)|**[link](https://github.com/samia067/shoerinsics)**|
 |**2022-05-04**|**Few-Shot Document-Level Relation Extraction**|Nicholas Popovic et.al.|[2205.02048v1](http://arxiv.org/abs/2205.02048v1)|**[link](https://github.com/nicpopovic/fredo)**|
 |**2022-05-04**|**Unsupervised Domain Adaptation Learning for Hierarchical Infant Pose Recognition with Synthetic Data**|Cheng-Yen Yang et.al.|[2205.01892v1](http://arxiv.org/abs/2205.01892v1)|null|
@@ -1441,6 +1447,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-06**|**The Unreliability of Explanations in Few-Shot In-Context Learning**|Xi Ye et.al.|[2205.03401v1](http://arxiv.org/abs/2205.03401v1)|null|
+|**2022-05-06**|**MINI: Mining Implicit Novel Instances for Few-Shot Object Detection**|Yuhang Cao et.al.|[2205.03381v1](http://arxiv.org/abs/2205.03381v1)|null|
+|**2022-05-06**|**Quantifying Synthesis and Fusion and their Impact on Machine Translation**|Arturo Oncevay et.al.|[2205.03369v1](http://arxiv.org/abs/2205.03369v1)|null|
+|**2022-05-06**|**Transferring Chemical and Energetic Knowledge Between Molecular Systems with Machine Learning**|Sajjad Heydari et.al.|[2205.03339v1](http://arxiv.org/abs/2205.03339v1)|null|
+|**2022-05-06**|**Bridging the Domain Gap for Stance Detection for the Zulu language**|Gcinizwe Dlamini et.al.|[2205.03153v1](http://arxiv.org/abs/2205.03153v1)|null|
+|**2022-05-06**|**A High-Accuracy Unsupervised Person Re-identification Method Using Auxiliary Information Mined from Datasets**|Hehan Teng et.al.|[2205.03124v1](http://arxiv.org/abs/2205.03124v1)|**[link](https://github.com/tenghehan/AuxUSLReID)**|
+|**2022-05-06**|**Probabilistic learning constrained by realizations using a weak formulation of Fourier transform of probability measures**|Christian Soize et.al.|[2205.03078v1](http://arxiv.org/abs/2205.03078v1)|null|
+|**2022-05-06**|**KECP: Knowledge Enhanced Contrastive Prompting for Few-shot Extractive Question Answering**|Jianing Wang et.al.|[2205.03071v1](http://arxiv.org/abs/2205.03071v1)|null|
+|**2022-05-06**|**A universal training scheme and the resulting universality for machine learning phases**|Y. -H. Yseng et.al.|[2205.03061v1](http://arxiv.org/abs/2205.03061v1)|null|
+|**2022-05-05**|**Generating Representative Samples for Few-Shot Classification**|Jingyi Xu et.al.|[2205.02918v1](http://arxiv.org/abs/2205.02918v1)|null|
+|**2022-05-05**|**GANs as Gradient Flows that Converge**|Yu-Jui Huang et.al.|[2205.02910v1](http://arxiv.org/abs/2205.02910v1)|null|
+|**2022-05-05**|**Toward A Fine-Grained Analysis of Distribution Shifts in MSMARCO**|Simon Lupart et.al.|[2205.02870v1](http://arxiv.org/abs/2205.02870v1)|null|
 |**2022-05-05**|**BlobGAN: Spatially Disentangled Scene Representations**|Dave Epstein et.al.|[2205.02837v1](http://arxiv.org/abs/2205.02837v1)|null|
 |**2022-05-05**|**An end-to-end KNN-based PIV approach for high-resolution measurements and uncertainty quantification**|Iacopo Tirelli et.al.|[2205.02766v1](http://arxiv.org/abs/2205.02766v1)|null|
 |**2022-05-05**|**The VVV Open Cluster Project II. Near-infrared sequences of 37 open clusters on eight-dimensional parameter space**|K. Peña Ramírez et.al.|[2205.02735v1](http://arxiv.org/abs/2205.02735v1)|null|
@@ -2855,6 +2873,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-06**|**A universal training scheme and the resulting universality for machine learning phases**|Y. -H. Yseng et.al.|[2205.03061v1](http://arxiv.org/abs/2205.03061v1)|null|
+|**2022-05-06**|**Spatially Resolved Moving Radio Burst in Association with an EUV Wave**|Lei Lu et.al.|[2205.03047v1](http://arxiv.org/abs/2205.03047v1)|null|
+|**2022-05-06**|**Generative Adversarial Neural Operators**|Md Ashiqur Rahman et.al.|[2205.03017v1](http://arxiv.org/abs/2205.03017v1)|null|
+|**2022-05-06**|**Design Target Achievement Index: A Differentiable Metric to Enhance Deep Generative Models in Multi-Objective Inverse Design**|Lyle Regenwetter et.al.|[2205.03005v1](http://arxiv.org/abs/2205.03005v1)|null|
+|**2022-05-05**|**GANs as Gradient Flows that Converge**|Yu-Jui Huang et.al.|[2205.02910v1](http://arxiv.org/abs/2205.02910v1)|null|
+|**2022-05-05**|**Generative Adversarial Network Based Synthetic Learning and a Novel Domain Relevant Loss Term for Spine Radiographs**|Ethan Schonfeld et.al.|[2205.02843v1](http://arxiv.org/abs/2205.02843v1)|null|
+|**2022-05-04**|**GAN Inversion for Data Augmentation to Improve Colonoscopy Lesion Classification**|Mayank Golhar et.al.|[2205.02840v1](http://arxiv.org/abs/2205.02840v1)|null|
 |**2022-05-05**|**Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics**|Sizhe Li et.al.|[2205.02835v1](http://arxiv.org/abs/2205.02835v1)|null|
 |**2022-05-05**|**Fixing Malfunctional Objects With Learned Physical Simulation and Functional Prediction**|Yining Hong et.al.|[2205.02834v1](http://arxiv.org/abs/2205.02834v1)|null|
 |**2022-05-05**|**Are GAN-based Morphs Threatening Face Recognition?**|Eklavya Sarkar et.al.|[2205.02496v1](http://arxiv.org/abs/2205.02496v1)|**[link](https://gitlab.idiap.ch/bob/bob.paper.icassp2022_morph_generate)**|
