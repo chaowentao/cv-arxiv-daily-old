@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.05.09
+## Updated on 2022.05.10
 
 ## SLAM
 
@@ -1140,7 +1140,7 @@ layout: default
 |**2022-04-30**|**Source Domain Subset Sampling for Semi-Supervised Domain Adaptation in Semantic Segmentation**|Daehan Kim et.al.|[2205.00312v2](http://arxiv.org/abs/2205.00312v2)|null|
 |**2022-04-30**|**Deep Learning-Enabled Semantic Communication Systems with Task-Unaware Transmitter and Dynamic Data**|Hongwei Zhang et.al.|[2205.00271v1](http://arxiv.org/abs/2205.00271v1)|**[link](https://github.com/sjtu-mxtao/semantic-communication-systems)**|
 |**2022-04-26**|**Modular Domain Adaptation**|Junshen K. Chen et.al.|[2204.14213v1](http://arxiv.org/abs/2204.14213v1)|**[link](https://github.com/jkvc/modular-domain-adaptation)**|
-|**2022-04-29**|**Improving Transferability for Domain Adaptive Detection Transformers**|Kaixiong Gong et.al.|[2204.14195v1](http://arxiv.org/abs/2204.14195v1)|null|
+|**2022-04-29**|**Improving Transferability for Domain Adaptive Detection Transformers**|Kaixiong Gong et.al.|[2204.14195v2](http://arxiv.org/abs/2204.14195v2)|null|
 |**2022-04-29**|**Controlled Generation of Unseen Faults for Partial and OpenSet&Partial Domain Adaptation**|Katharina Rombach et.al.|[2204.14068v1](http://arxiv.org/abs/2204.14068v1)|null|
 |**2022-04-28**|**Resource-efficient domain adaptive pre-training for medical images**|Yasar Mehmood et.al.|[2204.13280v1](http://arxiv.org/abs/2204.13280v1)|null|
 |**2022-04-28**|**Covariance-aware Feature Alignment with Pre-computed Source Statistics for Test-time Adaptation**|Kazuki Adachi et.al.|[2204.13263v1](http://arxiv.org/abs/2204.13263v1)|null|
@@ -1454,7 +1454,7 @@ layout: default
 |**2022-05-06**|**Bridging the Domain Gap for Stance Detection for the Zulu language**|Gcinizwe Dlamini et.al.|[2205.03153v1](http://arxiv.org/abs/2205.03153v1)|null|
 |**2022-05-06**|**A High-Accuracy Unsupervised Person Re-identification Method Using Auxiliary Information Mined from Datasets**|Hehan Teng et.al.|[2205.03124v1](http://arxiv.org/abs/2205.03124v1)|**[link](https://github.com/tenghehan/AuxUSLReID)**|
 |**2022-05-06**|**Probabilistic learning constrained by realizations using a weak formulation of Fourier transform of probability measures**|Christian Soize et.al.|[2205.03078v1](http://arxiv.org/abs/2205.03078v1)|null|
-|**2022-05-06**|**KECP: Knowledge Enhanced Contrastive Prompting for Few-shot Extractive Question Answering**|Jianing Wang et.al.|[2205.03071v1](http://arxiv.org/abs/2205.03071v1)|null|
+|**2022-05-06**|**KECP: Knowledge Enhanced Contrastive Prompting for Few-shot Extractive Question Answering**|Jianing Wang et.al.|[2205.03071v1](http://arxiv.org/abs/2205.03071v1)|**[link](https://github.com/alibaba/EasyNLP)**|
 |**2022-05-06**|**A universal training scheme and the resulting universality for machine learning phases**|Y. -H. Yseng et.al.|[2205.03061v1](http://arxiv.org/abs/2205.03061v1)|null|
 |**2022-05-05**|**Generating Representative Samples for Few-Shot Classification**|Jingyi Xu et.al.|[2205.02918v1](http://arxiv.org/abs/2205.02918v1)|null|
 |**2022-05-05**|**GANs as Gradient Flows that Converge**|Yu-Jui Huang et.al.|[2205.02910v1](http://arxiv.org/abs/2205.02910v1)|null|
@@ -2890,7 +2890,7 @@ layout: default
 |**2022-05-03**|**End-to-End Visual Editing with a Generatively Pre-Trained Artist**|Andrew Brown et.al.|[2205.01668v1](http://arxiv.org/abs/2205.01668v1)|null|
 |**2022-05-03**|**Atomtronic multi-terminal Aharonov-Bohm interferometer**|Jonathan Wei Zhong Lau et.al.|[2205.01636v1](http://arxiv.org/abs/2205.01636v1)|null|
 |**2022-05-03**|**A Bidirectional Conversion Network for Cross-Spectral Face Recognition**|Zhicheng Cao et.al.|[2205.01595v1](http://arxiv.org/abs/2205.01595v1)|null|
-|**2022-05-03**|**A Search for Exoplanets in Open Clusters and Young Associations based on TESS Objects of Interest**|Qinghui Sun et.al.|[2205.01471v2](http://arxiv.org/abs/2205.01471v2)|null|
+|**2022-05-03**|**A Search for Exoplanets in Open Clusters and Young Associations based on TESS Objects of Interest**|Qinghui Sun et.al.|[2205.01471v3](http://arxiv.org/abs/2205.01471v3)|null|
 |**2022-05-03**|**ARCADE: Adversarially Regularized Convolutional Autoencoder for Network Anomaly Detection**|Willian T. Lunardi et.al.|[2205.01432v1](http://arxiv.org/abs/2205.01432v1)|null|
 |**2022-05-03**|**Copy Motion From One to Another: Fake Motion Video Generation**|Zhenguang Liu et.al.|[2205.01373v1](http://arxiv.org/abs/2205.01373v1)|null|
 |**2022-05-03**|**Cross Domain Object Detection by Target-Perceived Dual Branch Distillation**|Mengzhe He et.al.|[2205.01291v1](http://arxiv.org/abs/2205.01291v1)|**[link](https://github.com/feobi1999/tdd)**|
