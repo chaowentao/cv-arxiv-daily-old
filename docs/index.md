@@ -206,6 +206,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-08**|**Unsupervised Discovery and Composition of Object Light Fields**|Cameron Smith et.al.|[2205.03923v1](http://arxiv.org/abs/2205.03923v1)|null|
+|**2022-05-06**|**Antiferromagnetic real-space configuration probed by x-ray orbital angular momentum phase dichroism**|Margaret R. McCarter et.al.|[2205.03475v1](http://arxiv.org/abs/2205.03475v1)|null|
 |**2022-05-05**|**Time-multiplexed Neural Holography: A flexible framework for holographic near-eye displays with fast heavily-quantized spatial light modulators**|Suyeon Choi et.al.|[2205.02367v1](http://arxiv.org/abs/2205.02367v1)|null|
 |**2022-05-03**|**Error Metrics for Partially Coherent Wavefields**|Abraham Levitan et.al.|[2205.01665v1](http://arxiv.org/abs/2205.01665v1)|null|
 |**2022-04-28**|**Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection**|Mingtao Feng et.al.|[2204.13456v1](http://arxiv.org/abs/2204.13456v1)|**[link](https://github.com/olobbcode/noiself)**|
@@ -297,6 +299,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-09**|**HierAttn: Effectively Learn Representations from Stage Attention and Branch Attention for Skin Lesions Diagnosis**|Wei Dai et.al.|[2205.04326v1](http://arxiv.org/abs/2205.04326v1)|**[link](https://github.com/anthonyweidai/HierAttn)**|
+|**2022-05-09**|**Row-wise Accelerator for Vision Transformer**|Hong-Yi Wang et.al.|[2205.03998v1](http://arxiv.org/abs/2205.03998v1)|null|
+|**2022-05-08**|**$α$NAS: Neural Architecture Search using Property Guided Synthesis**|Charles Jin et.al.|[2205.03960v1](http://arxiv.org/abs/2205.03960v1)|null|
+|**2022-05-08**|**ConvMAE: Masked Convolution Meets Masked Autoencoders**|Peng Gao et.al.|[2205.03892v1](http://arxiv.org/abs/2205.03892v1)|**[link](https://github.com/alpha-vl/convmae)**|
+|**2022-05-08**|**Demo: Real-Time Semantic Communications with a Vision Transformer**|Hanju Yoo et.al.|[2205.03886v1](http://arxiv.org/abs/2205.03886v1)|null|
+|**2022-05-06**|**EdgeViTs: Competing Light-weight CNNs on Mobile Devices with Vision Transformers**|Junting Pan et.al.|[2205.03436v1](http://arxiv.org/abs/2205.03436v1)|null|
 |**2022-05-04**|**Sequencer: Deep LSTM for Image Classification**|Yuki Tatsunami et.al.|[2205.01972v1](http://arxiv.org/abs/2205.01972v1)|**[link](https://github.com/okojoalg/sequencer)**|
 |**2022-05-03**|**Simpler is Better: off-the-shelf Continual Learning Through Pretrained Backbones**|Francesco Pelosin et.al.|[2205.01586v1](http://arxiv.org/abs/2205.01586v1)|null|
 |**2022-05-03**|**Better plain ViT baselines for ImageNet-1k**|Lucas Beyer et.al.|[2205.01580v1](http://arxiv.org/abs/2205.01580v1)|**[link](https://github.com/google-research/big_vision)**|
@@ -666,6 +674,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-09**|**TeamX@DravidianLangTech-ACL2022: A Comparative Analysis for Troll-Based Meme Classification**|Rabindra Nath Nandi et.al.|[2205.04404v1](http://arxiv.org/abs/2205.04404v1)|null|
+|**2022-05-09**|**Detecting the Role of an Entity in Harmful Memes: Techniques and Their Limitations**|Rabindra Nath Nandi et.al.|[2205.04402v1](http://arxiv.org/abs/2205.04402v1)|**[link](https://github.com/robi56/harmful_memes_block_fusion)**|
+|**2022-05-09**|**Detecting and Understanding Harmful Memes: A Survey**|Shivam Sharma et.al.|[2205.04274v1](http://arxiv.org/abs/2205.04274v1)|null|
+|**2022-05-05**|**Measuring Cognitive Workload Using Multimodal Sensors**|Niraj Hirachan et.al.|[2205.04235v1](http://arxiv.org/abs/2205.04235v1)|null|
+|**2022-05-09**|**Multimodel Sensor Fusion for Learning Rich Models for Interacting Soft Robots**|Thomas George Thuruthel et.al.|[2205.04202v1](http://arxiv.org/abs/2205.04202v1)|null|
+|**2022-05-09**|**Beyond Bounding Box: Multimodal Knowledge Learning for Object Detection**|Weixin Feng et.al.|[2205.04072v1](http://arxiv.org/abs/2205.04072v1)|null|
+|**2022-05-09**|**Multilevel Hierarchical Network with Multiscale Sampling for Video Question Answering**|Min Peng et.al.|[2205.04061v1](http://arxiv.org/abs/2205.04061v1)|null|
+|**2022-05-09**|**Data Augmentation with Paraphrase Generation and Entity Extraction for Multimodal Dialogue System**|Eda Okur et.al.|[2205.04006v1](http://arxiv.org/abs/2205.04006v1)|null|
+|**2022-05-08**|**Nanoscale Electric Field Imaging with an Ambient Scanning Quantum Sensor Microscope**|Ziwei Qiu et.al.|[2205.03952v1](http://arxiv.org/abs/2205.03952v1)|null|
+|**2022-05-08**|**Multimodal Semi-Supervised Learning for Text Recognition**|Aviad Aberdam et.al.|[2205.03873v1](http://arxiv.org/abs/2205.03873v1)|null|
+|**2022-05-07**|**Attract me to Buy: Advertisement Copywriting Generation with Multimodal Multi-structured Information**|Zhipeng Zhang et.al.|[2205.03534v1](http://arxiv.org/abs/2205.03534v1)|null|
+|**2022-05-07**|**Good Visual Guidance Makes A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction**|Xiang Chen et.al.|[2205.03521v1](http://arxiv.org/abs/2205.03521v1)|**[link](https://github.com/zjunlp/HVPNeT)**|
 |**2022-05-06**|**Implicit semantic-based personalized micro-videos recommendation**|Bo Liu et.al.|[2205.03297v1](http://arxiv.org/abs/2205.03297v1)|null|
 |**2022-05-06**|**Ultrathin, high-speed, all-optical photoacoustic endomicroscopy probe for guiding minimally invasive surgery**|Tianrui Zhao et.al.|[2205.03122v1](http://arxiv.org/abs/2205.03122v1)|null|
 |**2022-05-06**|**Design Target Achievement Index: A Differentiable Metric to Enhance Deep Generative Models in Multi-Objective Inverse Design**|Lyle Regenwetter et.al.|[2205.03005v1](http://arxiv.org/abs/2205.03005v1)|null|
@@ -1125,6 +1145,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-09**|**Online Unsupervised Domain Adaptation for Person Re-identification**|Hamza Rami et.al.|[2205.04383v1](http://arxiv.org/abs/2205.04383v1)|null|
+|**2022-05-09**|**Local Prediction Aggregation: A Frustratingly Easy Source-free Domain Adaptation Method**|Shiqi Yang et.al.|[2205.04183v1](http://arxiv.org/abs/2205.04183v1)|**[link](https://github.com/albert0147/lpa_sfda)**|
+|**2022-05-09**|**Multi-level Consistency Learning for Semi-supervised Domain Adaptation**|Zizheng Yan et.al.|[2205.04066v1](http://arxiv.org/abs/2205.04066v1)|null|
+|**2022-05-08**|**Cross-lingual Adaptation for Recipe Retrieval with Mixup**|Bin Zhu et.al.|[2205.03891v1](http://arxiv.org/abs/2205.03891v1)|null|
+|**2022-05-08**|**One-Class Knowledge Distillation for Face Presentation Attack Detection**|Zhi Li et.al.|[2205.03792v1](http://arxiv.org/abs/2205.03792v1)|null|
+|**2022-05-07**|**Towards Robust 3D Object Recognition with Dense-to-Sparse Deep Domain Adaptation**|Prajval Kumar Murali et.al.|[2205.03654v1](http://arxiv.org/abs/2205.03654v1)|null|
+|**2022-05-07**|**Time-Series Domain Adaptation via Sparse Associative Structure Alignment: Learning Invariance and Variance**|Zijian Li et.al.|[2205.03554v1](http://arxiv.org/abs/2205.03554v1)|null|
+|**2022-05-07**|**Dual Adversarial Adaptation for Cross-Device Real-World Image Super-Resolution**|Xiaoqian Xu et.al.|[2205.03524v1](http://arxiv.org/abs/2205.03524v1)|**[link](https://github.com/lonelyhope/dada)**|
 |**2022-05-03**|**Disentangled and Side-aware Unsupervised Domain Adaptation for Cross-dataset Subjective Tinnitus Diagnosis**|Zhe Liu et.al.|[2205.03230v1](http://arxiv.org/abs/2205.03230v1)|null|
 |**2022-05-06**|**Bridging the Domain Gap for Stance Detection for the Zulu language**|Gcinizwe Dlamini et.al.|[2205.03153v1](http://arxiv.org/abs/2205.03153v1)|null|
 |**2022-05-04**|**ShoeRinsics: Shoeprint Prediction for Forensics with Intrinsic Decomposition**|Samia Shafique et.al.|[2205.02361v1](http://arxiv.org/abs/2205.02361v1)|**[link](https://github.com/samia067/shoerinsics)**|
@@ -1447,6 +1475,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-09**|**Online Unsupervised Domain Adaptation for Person Re-identification**|Hamza Rami et.al.|[2205.04383v1](http://arxiv.org/abs/2205.04383v1)|null|
+|**2022-05-09**|**Towards Measuring Domain Shift in Histopathological Stain Translation in an Unsupervised Manner**|Zeeshan Nisar et.al.|[2205.04368v1](http://arxiv.org/abs/2205.04368v1)|null|
+|**2022-05-09**|**Anatomy-aware Self-supervised Learning for Anomaly Detection in Chest Radiographs**|Junya Sato et.al.|[2205.04282v1](http://arxiv.org/abs/2205.04282v1)|**[link](https://github.com/jun-sato/anatpaste)**|
+|**2022-05-09**|**EASE: Entity-Aware Contrastive Learning of Sentence Embedding**|Sosuke Nishikawa et.al.|[2205.04260v1](http://arxiv.org/abs/2205.04260v1)|**[link](https://github.com/studio-ousia/ease)**|
+|**2022-05-09**|**Local Prediction Aggregation: A Frustratingly Easy Source-free Domain Adaptation Method**|Shiqi Yang et.al.|[2205.04183v1](http://arxiv.org/abs/2205.04183v1)|**[link](https://github.com/albert0147/lpa_sfda)**|
+|**2022-05-09**|**On Generalisability of Machine Learning-based Network Intrusion Detection Systems**|Siamak Layeghy et.al.|[2205.04112v1](http://arxiv.org/abs/2205.04112v1)|null|
+|**2022-05-09**|**So Different Yet So Alike! Constrained Unsupervised Text Style Transfer**|Abhinav Ramesh Kashyap et.al.|[2205.04093v1](http://arxiv.org/abs/2205.04093v1)|**[link](https://github.com/abhinavkashyap/dct)**|
+|**2022-05-09**|**A Balanced Data Approach for Evaluating Cross-Lingual Transfer: Mapping the Linguistic Blood Bank**|Dan Malkin et.al.|[2205.04086v1](http://arxiv.org/abs/2205.04086v1)|**[link](https://github.com/slab-nlp/linguistic-blood-bank)**|
+|**2022-05-09**|**Unsupervised Learning of Rydberg Atom Array Phase Diagram with Siamese Neural Networks**|Zakaria Patel et.al.|[2205.04051v1](http://arxiv.org/abs/2205.04051v1)|null|
+|**2022-05-09**|**Few-shot Mining of Naturally Occurring Inputs and Outputs**|Mandar Joshi et.al.|[2205.04050v1](http://arxiv.org/abs/2205.04050v1)|null|
+|**2022-05-09**|**Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning**|Na Dong et.al.|[2205.04042v1](http://arxiv.org/abs/2205.04042v1)|null|
+|**2022-05-09**|**Deep Federated Anomaly Detection for Multivariate Time Series Data**|Wei Zhu et.al.|[2205.04041v1](http://arxiv.org/abs/2205.04041v1)|null|
+|**2022-05-09**|**ProQA: Structural Prompt-based Pre-training for Unified Question Answering**|Wanjun Zhong et.al.|[2205.04040v1](http://arxiv.org/abs/2205.04040v1)|null|
+|**2022-05-08**|**Unsupervised Discovery and Composition of Object Light Fields**|Cameron Smith et.al.|[2205.03923v1](http://arxiv.org/abs/2205.03923v1)|null|
+|**2022-05-08**|**Cross-lingual Adaptation for Recipe Retrieval with Mixup**|Bin Zhu et.al.|[2205.03891v1](http://arxiv.org/abs/2205.03891v1)|null|
+|**2022-05-08**|**Fully Automated Binary Pattern Extraction For Finger Vein Identification using Double Optimization Stages-Based Unsupervised Learning Approach**|Ali Salah Hameed et.al.|[2205.03840v1](http://arxiv.org/abs/2205.03840v1)|null|
+|**2022-05-08**|**Unsupervised Homography Estimation with Coplanarity-Aware GAN**|Mingbo Hong et.al.|[2205.03821v1](http://arxiv.org/abs/2205.03821v1)|null|
+|**2022-05-08**|**PGADA: Perturbation-Guided Adversarial Alignment for Few-shot Learning Under the Support-Query Shift**|Siyang Jiang et.al.|[2205.03817v1](http://arxiv.org/abs/2205.03817v1)|**[link](https://github.com/772922440/pgada)**|
+|**2022-05-08**|**A Closer Look at Few-shot Image Generation**|Yunqing Zhao et.al.|[2205.03805v1](http://arxiv.org/abs/2205.03805v1)|null|
+|**2022-05-08**|**One-Class Knowledge Distillation for Face Presentation Attack Detection**|Zhi Li et.al.|[2205.03792v1](http://arxiv.org/abs/2205.03792v1)|null|
 |**2022-05-06**|**The Unreliability of Explanations in Few-Shot In-Context Learning**|Xi Ye et.al.|[2205.03401v1](http://arxiv.org/abs/2205.03401v1)|null|
 |**2022-05-06**|**MINI: Mining Implicit Novel Instances for Few-Shot Object Detection**|Yuhang Cao et.al.|[2205.03381v1](http://arxiv.org/abs/2205.03381v1)|null|
 |**2022-05-06**|**Quantifying Synthesis and Fusion and their Impact on Machine Translation**|Arturo Oncevay et.al.|[2205.03369v1](http://arxiv.org/abs/2205.03369v1)|null|
@@ -2873,6 +2921,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-09**|**Arecibo and FAST Timing Follow-up of twelve Millisecond Pulsars Discovered in Commensal Radio Astronomy FAST Survey**|C. C. Miao et.al.|[2205.04232v1](http://arxiv.org/abs/2205.04232v1)|null|
+|**2022-05-09**|**So Different Yet So Alike! Constrained Unsupervised Text Style Transfer**|Abhinav Ramesh Kashyap et.al.|[2205.04093v1](http://arxiv.org/abs/2205.04093v1)|**[link](https://github.com/abhinavkashyap/dct)**|
+|**2022-05-09**|**Thermodynamic non-equilibrium effects in bubble coalescence: A discrete Boltzmann study**|Guanglan SunYan et.al.|[2205.04027v1](http://arxiv.org/abs/2205.04027v1)|null|
+|**2022-05-08**|**High-Resolution UAV Image Generation for Sorghum Panicle Detection**|Enyu Cai et.al.|[2205.03947v1](http://arxiv.org/abs/2205.03947v1)|null|
+|**2022-05-08**|**Unsupervised Homography Estimation with Coplanarity-Aware GAN**|Mingbo Hong et.al.|[2205.03821v1](http://arxiv.org/abs/2205.03821v1)|null|
+|**2022-05-08**|**A Closer Look at Few-shot Image Generation**|Yunqing Zhao et.al.|[2205.03805v1](http://arxiv.org/abs/2205.03805v1)|null|
+|**2022-05-08**|**Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution**|Hao Hou et.al.|[2205.03777v1](http://arxiv.org/abs/2205.03777v1)|null|
+|**2022-05-07**|**Multi-View Video Coding with GAN Latent Learning**|Chengdong Lan et.al.|[2205.03599v1](http://arxiv.org/abs/2205.03599v1)|null|
+|**2022-05-07**|**Iteration Complexity of an Infeasible Interior Point Methods for Seconder-order Cone Programming and its Warmstarting**|Yushu Chen et.al.|[2205.03570v1](http://arxiv.org/abs/2205.03570v1)|null|
+|**2022-05-06**|**LatentKeypointGAN: Controlling Images via Latent Keypoints -- Extended Abstract**|Xingzhe He et.al.|[2205.03448v1](http://arxiv.org/abs/2205.03448v1)|null|
 |**2022-05-06**|**A universal training scheme and the resulting universality for machine learning phases**|Y. -H. Yseng et.al.|[2205.03061v1](http://arxiv.org/abs/2205.03061v1)|null|
 |**2022-05-06**|**Spatially Resolved Moving Radio Burst in Association with an EUV Wave**|Lei Lu et.al.|[2205.03047v1](http://arxiv.org/abs/2205.03047v1)|null|
 |**2022-05-06**|**Generative Adversarial Neural Operators**|Md Ashiqur Rahman et.al.|[2205.03017v1](http://arxiv.org/abs/2205.03017v1)|null|
