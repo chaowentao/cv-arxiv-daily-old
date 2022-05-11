@@ -1,4 +1,4 @@
-## Updated on 2022.05.10
+## Updated on 2022.05.11
 
 ## Image Generation
 
@@ -147,7 +147,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-05-09**|**HierAttn: Effectively Learn Representations from Stage Attention and Branch Attention for Skin Lesions Diagnosis**|Wei Dai et.al.|[2205.04326v1](http://arxiv.org/abs/2205.04326v1)|**[link](https://github.com/anthonyweidai/HierAttn)**|
+|**2022-05-09**|**HierAttn: Effectively Learn Representations from Stage Attention and Branch Attention for Skin Lesions Diagnosis**|Wei Dai et.al.|[2205.04326v2](http://arxiv.org/abs/2205.04326v2)|**[link](https://github.com/anthonyweidai/HierAttn)**|
 |**2022-05-09**|**Row-wise Accelerator for Vision Transformer**|Hong-Yi Wang et.al.|[2205.03998v1](http://arxiv.org/abs/2205.03998v1)|null|
 |**2022-05-08**|**$α$NAS: Neural Architecture Search using Property Guided Synthesis**|Charles Jin et.al.|[2205.03960v1](http://arxiv.org/abs/2205.03960v1)|null|
 |**2022-05-08**|**ConvMAE: Masked Convolution Meets Masked Autoencoders**|Peng Gao et.al.|[2205.03892v1](http://arxiv.org/abs/2205.03892v1)|**[link](https://github.com/alpha-vl/convmae)**|
