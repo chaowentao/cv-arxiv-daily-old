@@ -147,6 +147,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-10**|**Transformer-based Cross-Modal Recipe Embeddings with Large Batch Training**|Jing Yang et.al.|[2205.04948v1](http://arxiv.org/abs/2205.04948v1)|null|
 |**2022-05-09**|**HierAttn: Effectively Learn Representations from Stage Attention and Branch Attention for Skin Lesions Diagnosis**|Wei Dai et.al.|[2205.04326v2](http://arxiv.org/abs/2205.04326v2)|**[link](https://github.com/anthonyweidai/HierAttn)**|
 |**2022-05-09**|**Row-wise Accelerator for Vision Transformer**|Hong-Yi Wang et.al.|[2205.03998v1](http://arxiv.org/abs/2205.03998v1)|null|
 |**2022-05-08**|**$α$NAS: Neural Architecture Search using Property Guided Synthesis**|Charles Jin et.al.|[2205.03960v1](http://arxiv.org/abs/2205.03960v1)|null|
@@ -522,6 +523,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-10**|**Fixed-point iterations for several dissimilarity measure barycenters in the Gaussian case**|Alessandro D'Ortenzio et.al.|[2205.04806v1](http://arxiv.org/abs/2205.04806v1)|null|
+|**2022-05-10**|**OTFPF: Optimal Transport-Based Feature Pyramid Fusion Network for Brain Age Estimation with 3D Overlapped ConvNeXt**|Yu Fu et.al.|[2205.04684v1](http://arxiv.org/abs/2205.04684v1)|**[link](https://github.com/ZJU-Brain/OTFPF)**|
 |**2022-05-09**|**TeamX@DravidianLangTech-ACL2022: A Comparative Analysis for Troll-Based Meme Classification**|Rabindra Nath Nandi et.al.|[2205.04404v1](http://arxiv.org/abs/2205.04404v1)|null|
 |**2022-05-09**|**Detecting the Role of an Entity in Harmful Memes: Techniques and Their Limitations**|Rabindra Nath Nandi et.al.|[2205.04402v1](http://arxiv.org/abs/2205.04402v1)|**[link](https://github.com/robi56/harmful_memes_block_fusion)**|
 |**2022-05-09**|**Detecting and Understanding Harmful Memes: A Survey**|Shivam Sharma et.al.|[2205.04274v1](http://arxiv.org/abs/2205.04274v1)|null|
@@ -993,6 +996,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-10**|**On Causality in Domain Adaptation and Semi-Supervised Learning: an Information-Theoretic Analysis**|Xuetong Wu et.al.|[2205.04641v1](http://arxiv.org/abs/2205.04641v1)|null|
 |**2022-05-09**|**Online Unsupervised Domain Adaptation for Person Re-identification**|Hamza Rami et.al.|[2205.04383v1](http://arxiv.org/abs/2205.04383v1)|null|
 |**2022-05-09**|**Local Prediction Aggregation: A Frustratingly Easy Source-free Domain Adaptation Method**|Shiqi Yang et.al.|[2205.04183v1](http://arxiv.org/abs/2205.04183v1)|**[link](https://github.com/albert0147/lpa_sfda)**|
 |**2022-05-09**|**Multi-level Consistency Learning for Semi-supervised Domain Adaptation**|Zizheng Yan et.al.|[2205.04066v1](http://arxiv.org/abs/2205.04066v1)|null|
@@ -1323,6 +1327,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-10**|**Metric Learning based Interactive Modulation for Real-World Super-Resolution**|Chong Mou et.al.|[2205.05065v1](http://arxiv.org/abs/2205.05065v1)|null|
+|**2022-05-10**|**Learning to Answer Visual Questions from Web Videos**|Antoine Yang et.al.|[2205.05019v1](http://arxiv.org/abs/2205.05019v1)|**[link](https://github.com/antoyang/just-ask)**|
+|**2022-05-10**|**Integrating fuzzy trajectory data and artificial intelligence methods for multi-style lane-changing behavior prediction**|Ruifeng Gu et.al.|[2205.05016v1](http://arxiv.org/abs/2205.05016v1)|null|
+|**2022-05-10**|**ALLSH: Active Learning Guided by Local Sensitivity and Hardness**|Shujian Zhang et.al.|[2205.04980v1](http://arxiv.org/abs/2205.04980v1)|null|
+|**2022-05-10**|**Learning Non-target Knowledge for Few-shot Semantic Segmentation**|Yuanwei Liu et.al.|[2205.04903v1](http://arxiv.org/abs/2205.04903v1)|**[link](https://github.com/LIUYUANWEI98/NERTNet)**|
+|**2022-05-10**|**From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective**|Thibault Formal et.al.|[2205.04733v1](http://arxiv.org/abs/2205.04733v1)|null|
+|**2022-05-10**|**Weakly-supervised segmentation of referring expressions**|Robin Strudel et.al.|[2205.04725v1](http://arxiv.org/abs/2205.04725v1)|null|
+|**2022-05-10**|**DNS based In-Browser Cryptojacking Detection**|Rohit Kumar Sachan et.al.|[2205.04685v1](http://arxiv.org/abs/2205.04685v1)|null|
+|**2022-05-10**|**UNITS: Unsupervised Intermediate Training Stage for Scene Text Detection**|Youhui Guo et.al.|[2205.04683v1](http://arxiv.org/abs/2205.04683v1)|null|
+|**2022-05-10**|**On Causality in Domain Adaptation and Semi-Supervised Learning: an Information-Theoretic Analysis**|Xuetong Wu et.al.|[2205.04641v1](http://arxiv.org/abs/2205.04641v1)|null|
+|**2022-05-09**|**Surreal-GAN:Semi-Supervised Representation Learning via GAN for uncovering heterogeneous disease-related imaging patterns**|Zhijian Yang et.al.|[2205.04523v1](http://arxiv.org/abs/2205.04523v1)|null|
+|**2022-05-09**|**Unsupervised Slot Schema Induction for Task-oriented Dialog**|Dian Yu et.al.|[2205.04515v1](http://arxiv.org/abs/2205.04515v1)|null|
 |**2022-05-09**|**Online Unsupervised Domain Adaptation for Person Re-identification**|Hamza Rami et.al.|[2205.04383v1](http://arxiv.org/abs/2205.04383v1)|null|
 |**2022-05-09**|**Towards Measuring Domain Shift in Histopathological Stain Translation in an Unsupervised Manner**|Zeeshan Nisar et.al.|[2205.04368v1](http://arxiv.org/abs/2205.04368v1)|null|
 |**2022-05-09**|**Anatomy-aware Self-supervised Learning for Anomaly Detection in Chest Radiographs**|Junya Sato et.al.|[2205.04282v1](http://arxiv.org/abs/2205.04282v1)|**[link](https://github.com/jun-sato/anatpaste)**|
@@ -2702,6 +2718,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-10**|**NeRF-Editing: Geometry Editing of Neural Radiance Fields**|Yu-Jie Yuan et.al.|[2205.04978v1](http://arxiv.org/abs/2205.04978v1)|null|
 |**2022-05-03**|**Sampling-free obstacle gradients and reactive planning in Neural Radiance Fields (NeRF)**|Michael Pantic et.al.|[2205.01389v1](http://arxiv.org/abs/2205.01389v1)|null|
 |**2022-04-28**|**AE-NeRF: Auto-Encoding Neural Radiance Fields for 3D-Aware Object Manipulation**|Mira Kim et.al.|[2204.13426v1](http://arxiv.org/abs/2204.13426v1)|null|
 |**2022-04-22**|**Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation**|Verica Lazova et.al.|[2204.10850v1](http://arxiv.org/abs/2204.10850v1)|null|
@@ -2769,6 +2786,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-10**|**One pot chemical vapor deposition of high optical quality large area monolayer Janus transition metal dichalcogenides**|Ziyang Gan et.al.|[2205.04751v1](http://arxiv.org/abs/2205.04751v1)|null|
+|**2022-05-10**|**Preliminary assessment of a cost-effective headphone calibration procedure for soundscape evaluations**|Bhan Lam et.al.|[2205.04728v1](http://arxiv.org/abs/2205.04728v1)|null|
+|**2022-05-10**|**Analytical Theory of Near-Field Electrostatic Effects in Two-Dimensional Materials and van der Waals Heterojunctions**|Qunfei Zhou et.al.|[2205.04606v1](http://arxiv.org/abs/2205.04606v1)|null|
+|**2022-05-09**|**Surreal-GAN:Semi-Supervised Representation Learning via GAN for uncovering heterogeneous disease-related imaging patterns**|Zhijian Yang et.al.|[2205.04523v1](http://arxiv.org/abs/2205.04523v1)|null|
+|**2022-05-09**|**Image2Gif: Generating Continuous Realistic Animations with Warping NODEs**|Jurijs Nazarovs et.al.|[2205.04519v1](http://arxiv.org/abs/2205.04519v1)|**[link](https://github.com/jurijsnazarovs/warping_node)**|
 |**2022-05-09**|**Arecibo and FAST Timing Follow-up of twelve Millisecond Pulsars Discovered in Commensal Radio Astronomy FAST Survey**|C. C. Miao et.al.|[2205.04232v1](http://arxiv.org/abs/2205.04232v1)|null|
 |**2022-05-09**|**So Different Yet So Alike! Constrained Unsupervised Text Style Transfer**|Abhinav Ramesh Kashyap et.al.|[2205.04093v1](http://arxiv.org/abs/2205.04093v1)|**[link](https://github.com/abhinavkashyap/dct)**|
 |**2022-05-09**|**Thermodynamic non-equilibrium effects in bubble coalescence: A discrete Boltzmann study**|Guanglan SunYan et.al.|[2205.04027v1](http://arxiv.org/abs/2205.04027v1)|null|
