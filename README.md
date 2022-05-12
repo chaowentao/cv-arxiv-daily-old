@@ -54,6 +54,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-11**|**Massively degenerate coherent perfect absorber for arbitrary wavefronts**|Yevgeny Slobodkin et.al.|[2205.05478v1](http://arxiv.org/abs/2205.05478v1)|null|
 |**2022-05-08**|**Unsupervised Discovery and Composition of Object Light Fields**|Cameron Smith et.al.|[2205.03923v1](http://arxiv.org/abs/2205.03923v1)|null|
 |**2022-05-06**|**Antiferromagnetic real-space configuration probed by x-ray orbital angular momentum phase dichroism**|Margaret R. McCarter et.al.|[2205.03475v1](http://arxiv.org/abs/2205.03475v1)|null|
 |**2022-05-05**|**Time-multiplexed Neural Holography: A flexible framework for holographic near-eye displays with fast heavily-quantized spatial light modulators**|Suyeon Choi et.al.|[2205.02367v1](http://arxiv.org/abs/2205.02367v1)|null|
@@ -147,6 +148,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-11**|**An Empirical Study Of Self-supervised Learning Approaches For Object Detection With Transformers**|Gokul Karthik Kumar et.al.|[2205.05543v1](http://arxiv.org/abs/2205.05543v1)|null|
+|**2022-05-11**|**AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation**|Xu Cao et.al.|[2205.05277v1](http://arxiv.org/abs/2205.05277v1)|null|
 |**2022-05-10**|**Transformer-based Cross-Modal Recipe Embeddings with Large Batch Training**|Jing Yang et.al.|[2205.04948v1](http://arxiv.org/abs/2205.04948v1)|null|
 |**2022-05-09**|**HierAttn: Effectively Learn Representations from Stage Attention and Branch Attention for Skin Lesions Diagnosis**|Wei Dai et.al.|[2205.04326v2](http://arxiv.org/abs/2205.04326v2)|**[link](https://github.com/anthonyweidai/circle_extractor)**|
 |**2022-05-09**|**Row-wise Accelerator for Vision Transformer**|Hong-Yi Wang et.al.|[2205.03998v1](http://arxiv.org/abs/2205.03998v1)|null|
@@ -427,6 +430,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-11**|**AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation**|Xu Cao et.al.|[2205.05277v1](http://arxiv.org/abs/2205.05277v1)|null|
+|**2022-05-10**|**ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions In-the-Wild**|Chirag Raman et.al.|[2205.05177v1](http://arxiv.org/abs/2205.05177v1)|null|
 |**2022-05-03**|**Multitask Network for Joint Object Detection, Semantic Segmentation and Human Pose Estimation in Vehicle Occupancy Monitoring**|Nikolas Ebert et.al.|[2205.01515v1](http://arxiv.org/abs/2205.01515v1)|null|
 |**2022-05-03**|**3D Semantic Scene Perception using Distributed Smart Edge Sensors**|Simon Bultmann et.al.|[2205.01460v1](http://arxiv.org/abs/2205.01460v1)|**[link](https://github.com/ais-bonn/jetsontrtperception)**|
 |**2022-05-03**|**Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation**|Yihan Wang et.al.|[2205.01271v1](http://arxiv.org/abs/2205.01271v1)|**[link](https://github.com/mit-han-lab/litepose)**|
@@ -523,6 +528,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-11**|**CNN-LSTM Based Multimodal MRI and Clinical Data Fusion for Predicting Functional Outcome in Stroke Patients**|Nima Hatami et.al.|[2205.05545v1](http://arxiv.org/abs/2205.05545v1)|null|
+|**2022-05-11**|**Correlated subgrain and particle analysis of a recovered Al-Mn alloy by directly combining EBSD and backscatter electron imaging**|Håkon Wiik Ånes et.al.|[2205.05514v1](http://arxiv.org/abs/2205.05514v1)|null|
+|**2022-05-11**|**TextMatcher: Cross-Attentional Neural Network to Compare Image and Text**|Valentina Arrigoni et.al.|[2205.05507v1](http://arxiv.org/abs/2205.05507v1)|null|
+|**2022-05-10**|**ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions In-the-Wild**|Chirag Raman et.al.|[2205.05177v1](http://arxiv.org/abs/2205.05177v1)|null|
 |**2022-05-10**|**Fixed-point iterations for several dissimilarity measure barycenters in the Gaussian case**|Alessandro D'Ortenzio et.al.|[2205.04806v1](http://arxiv.org/abs/2205.04806v1)|null|
 |**2022-05-10**|**OTFPF: Optimal Transport-Based Feature Pyramid Fusion Network for Brain Age Estimation with 3D Overlapped ConvNeXt**|Yu Fu et.al.|[2205.04684v2](http://arxiv.org/abs/2205.04684v2)|**[link](https://github.com/brain-age/otfpf)**|
 |**2022-05-09**|**TeamX@DravidianLangTech-ACL2022: A Comparative Analysis for Troll-Based Meme Classification**|Rabindra Nath Nandi et.al.|[2205.04404v1](http://arxiv.org/abs/2205.04404v1)|null|
@@ -1327,6 +1336,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-11**|**Aggregating Pairwise Semantic Differences for Few-Shot Claim Veracity Classification**|Xia Zeng et.al.|[2205.05646v1](http://arxiv.org/abs/2205.05646v1)|null|
+|**2022-05-11**|**Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning**|Haokun Liu et.al.|[2205.05638v1](http://arxiv.org/abs/2205.05638v1)|null|
+|**2022-05-11**|**Choice of training label matters: how to best use deep learning for quantitative MRI parameter estimation**|Sean C. Epstein et.al.|[2205.05587v1](http://arxiv.org/abs/2205.05587v1)|null|
+|**2022-05-11**|**Clinical Prompt Learning with Frozen Language Models**|Niall Taylor et.al.|[2205.05535v1](http://arxiv.org/abs/2205.05535v1)|null|
+|**2022-05-11**|**Making Pre-trained Language Models Good Long-tailed Learners**|Chen Zhang et.al.|[2205.05461v1](http://arxiv.org/abs/2205.05461v1)|null|
+|**2022-05-11**|**Towards Unified Prompt Tuning for Few-shot Text Classification**|Jianing Wang et.al.|[2205.05313v1](http://arxiv.org/abs/2205.05313v1)|null|
+|**2022-05-11**|**ReFine: Re-randomization before Fine-tuning for Cross-domain Few-shot Learning**|Jaehoon Oh et.al.|[2205.05282v1](http://arxiv.org/abs/2205.05282v1)|null|
+|**2022-05-11**|**Unsupervised machine learning for physical concepts**|Ruyu Yang et.al.|[2205.05279v1](http://arxiv.org/abs/2205.05279v1)|null|
+|**2022-05-11**|**Towards Improved Zero-shot Voice Conversion with Conditional DSVAE**|Jiachen Lian et.al.|[2205.05227v1](http://arxiv.org/abs/2205.05227v1)|null|
+|**2022-05-10**|**Few-Shot Image Classification Benchmarks are Too Far From Reality: Build Back Better with Semantic Task Sampling**|Etienne Bennequin et.al.|[2205.05155v1](http://arxiv.org/abs/2205.05155v1)|null|
+|**2022-05-10**|**Unifying Language Learning Paradigms**|Yi Tay et.al.|[2205.05131v1](http://arxiv.org/abs/2205.05131v1)|**[link](https://github.com/google-research/google-research)**|
+|**2022-05-10**|**Extracting Latent Steering Vectors from Pretrained Language Models**|Nishant Subramani et.al.|[2205.05124v1](http://arxiv.org/abs/2205.05124v1)|null|
 |**2022-05-10**|**Metric Learning based Interactive Modulation for Real-World Super-Resolution**|Chong Mou et.al.|[2205.05065v1](http://arxiv.org/abs/2205.05065v1)|null|
 |**2022-05-10**|**Learning to Answer Visual Questions from Web Videos**|Antoine Yang et.al.|[2205.05019v2](http://arxiv.org/abs/2205.05019v2)|**[link](https://github.com/antoyang/just-ask)**|
 |**2022-05-10**|**Integrating fuzzy trajectory data and artificial intelligence methods for multi-style lane-changing behavior prediction**|Ruifeng Gu et.al.|[2205.05016v1](http://arxiv.org/abs/2205.05016v1)|null|
@@ -2786,6 +2807,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-11**|**RISP: Rendering-Invariant State Predictor with Differentiable Simulation and Rendering for Cross-Domain Parameter Estimation**|Pingchuan Ma et.al.|[2205.05678v1](http://arxiv.org/abs/2205.05678v1)|null|
+|**2022-05-11**|**Generation of non-stationary stochastic fields using Generative Adversarial Networks with limited training data**|Alhasan Abdellatif et.al.|[2205.05469v1](http://arxiv.org/abs/2205.05469v1)|null|
+|**2022-05-11**|**A Unified f-divergence Framework Generalizing VAE and GAN**|Jaime Roquero Gimenez et.al.|[2205.05214v1](http://arxiv.org/abs/2205.05214v1)|null|
 |**2022-05-10**|**One pot chemical vapor deposition of high optical quality large area monolayer Janus transition metal dichalcogenides**|Ziyang Gan et.al.|[2205.04751v1](http://arxiv.org/abs/2205.04751v1)|null|
 |**2022-05-10**|**Preliminary assessment of a cost-effective headphone calibration procedure for soundscape evaluations**|Bhan Lam et.al.|[2205.04728v1](http://arxiv.org/abs/2205.04728v1)|null|
 |**2022-05-10**|**Analytical Theory of Near-Field Electrostatic Effects in Two-Dimensional Materials and van der Waals Heterojunctions**|Qunfei Zhou et.al.|[2205.04606v1](http://arxiv.org/abs/2205.04606v1)|null|
