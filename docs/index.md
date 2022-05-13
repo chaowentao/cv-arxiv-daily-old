@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.05.12
+## Updated on 2022.05.13
 
 ## SLAM
 
@@ -206,7 +206,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-05-11**|**Massively degenerate coherent perfect absorber for arbitrary wavefronts**|Yevgeny Slobodkin et.al.|[2205.05478v1](http://arxiv.org/abs/2205.05478v1)|null|
+|**2022-05-11**|**Massively degenerate coherent perfect absorber for arbitrary wavefronts**|Yevgeny Slobodkin et.al.|[2205.05478v2](http://arxiv.org/abs/2205.05478v2)|null|
 |**2022-05-08**|**Unsupervised Discovery and Composition of Object Light Fields**|Cameron Smith et.al.|[2205.03923v1](http://arxiv.org/abs/2205.03923v1)|null|
 |**2022-05-06**|**Antiferromagnetic real-space configuration probed by x-ray orbital angular momentum phase dichroism**|Margaret R. McCarter et.al.|[2205.03475v1](http://arxiv.org/abs/2205.03475v1)|null|
 |**2022-05-05**|**Time-multiplexed Neural Holography: A flexible framework for holographic near-eye displays with fast heavily-quantized spatial light modulators**|Suyeon Choi et.al.|[2205.02367v1](http://arxiv.org/abs/2205.02367v1)|null|
@@ -217,7 +217,7 @@ layout: default
 |**2022-04-20**|**SILVR: A Synthetic Immersive Large-Volume Plenoptic Dataset**|Martijn Courteaux et.al.|[2204.09523v1](http://arxiv.org/abs/2204.09523v1)|**[link](https://github.com/IDLabMedia/large-lightfields-dataset)**|
 |**2022-04-20**|**Optical conductivity and orbital magnetization of Floquet vortex states**|Iman Ahmadabadi et.al.|[2204.09488v1](http://arxiv.org/abs/2204.09488v1)|null|
 |**2022-04-19**|**The Coming Decades of Quantum Simulation**|Joana Fraxanet et.al.|[2204.08905v1](http://arxiv.org/abs/2204.08905v1)|null|
-|**2022-04-16**|**Gravitational time dilation in extended quantum systems: the case of light clocks in Schwarzschild spacetime**|Tupac Bravo et.al.|[2204.07869v2](http://arxiv.org/abs/2204.07869v2)|null|
+|**2022-04-16**|**Gravitational time dilation in extended quantum systems: the case of light clocks in Schwarzschild spacetime**|Tupac Bravo et.al.|[2204.07869v3](http://arxiv.org/abs/2204.07869v3)|null|
 |**2022-04-07**|**Integrating out beyond tree level and relativistic superfluids**|Austin Joyce et.al.|[2204.03678v1](http://arxiv.org/abs/2204.03678v1)|null|
 |**2022-04-02**|**SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image**|Dejia Xu et.al.|[2204.00928v1](http://arxiv.org/abs/2204.00928v1)|null|
 |**2022-04-02**|**Optical modelling of accommodative light field display system and prediction of human eye responses**|Yuta Miyanishi et.al.|[2204.00884v1](http://arxiv.org/abs/2204.00884v1)|null|
@@ -1493,7 +1493,7 @@ layout: default
 |**2022-05-11**|**Choice of training label matters: how to best use deep learning for quantitative MRI parameter estimation**|Sean C. Epstein et.al.|[2205.05587v1](http://arxiv.org/abs/2205.05587v1)|null|
 |**2022-05-11**|**Clinical Prompt Learning with Frozen Language Models**|Niall Taylor et.al.|[2205.05535v1](http://arxiv.org/abs/2205.05535v1)|null|
 |**2022-05-11**|**Making Pre-trained Language Models Good Long-tailed Learners**|Chen Zhang et.al.|[2205.05461v1](http://arxiv.org/abs/2205.05461v1)|null|
-|**2022-05-11**|**Towards Unified Prompt Tuning for Few-shot Text Classification**|Jianing Wang et.al.|[2205.05313v1](http://arxiv.org/abs/2205.05313v1)|null|
+|**2022-05-11**|**Towards Unified Prompt Tuning for Few-shot Text Classification**|Jianing Wang et.al.|[2205.05313v1](http://arxiv.org/abs/2205.05313v1)|**[link](https://github.com/alibaba/EasyNLP)**|
 |**2022-05-11**|**ReFine: Re-randomization before Fine-tuning for Cross-domain Few-shot Learning**|Jaehoon Oh et.al.|[2205.05282v1](http://arxiv.org/abs/2205.05282v1)|null|
 |**2022-05-11**|**Unsupervised machine learning for physical concepts**|Ruyu Yang et.al.|[2205.05279v1](http://arxiv.org/abs/2205.05279v1)|null|
 |**2022-05-11**|**Towards Improved Zero-shot Voice Conversion with Conditional DSVAE**|Jiachen Lian et.al.|[2205.05227v1](http://arxiv.org/abs/2205.05227v1)|null|
@@ -1505,8 +1505,8 @@ layout: default
 |**2022-05-10**|**Integrating fuzzy trajectory data and artificial intelligence methods for multi-style lane-changing behavior prediction**|Ruifeng Gu et.al.|[2205.05016v1](http://arxiv.org/abs/2205.05016v1)|null|
 |**2022-05-10**|**ALLSH: Active Learning Guided by Local Sensitivity and Hardness**|Shujian Zhang et.al.|[2205.04980v1](http://arxiv.org/abs/2205.04980v1)|**[link](https://github.com/szhang42/allsh)**|
 |**2022-05-10**|**Learning Non-target Knowledge for Few-shot Semantic Segmentation**|Yuanwei Liu et.al.|[2205.04903v1](http://arxiv.org/abs/2205.04903v1)|**[link](https://github.com/LIUYUANWEI98/NERTNet)**|
-|**2022-05-10**|**From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective**|Thibault Formal et.al.|[2205.04733v1](http://arxiv.org/abs/2205.04733v1)|**[link](https://github.com/naver/splade)**|
-|**2022-05-10**|**Weakly-supervised segmentation of referring expressions**|Robin Strudel et.al.|[2205.04725v1](http://arxiv.org/abs/2205.04725v1)|null|
+|**2022-05-10**|**From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective**|Thibault Formal et.al.|[2205.04733v2](http://arxiv.org/abs/2205.04733v2)|**[link](https://github.com/naver/splade)**|
+|**2022-05-10**|**Weakly-supervised segmentation of referring expressions**|Robin Strudel et.al.|[2205.04725v2](http://arxiv.org/abs/2205.04725v2)|null|
 |**2022-05-10**|**DNS based In-Browser Cryptojacking Detection**|Rohit Kumar Sachan et.al.|[2205.04685v1](http://arxiv.org/abs/2205.04685v1)|null|
 |**2022-05-10**|**UNITS: Unsupervised Intermediate Training Stage for Scene Text Detection**|Youhui Guo et.al.|[2205.04683v1](http://arxiv.org/abs/2205.04683v1)|null|
 |**2022-05-10**|**On Causality in Domain Adaptation and Semi-Supervised Learning: an Information-Theoretic Analysis**|Xuetong Wu et.al.|[2205.04641v1](http://arxiv.org/abs/2205.04641v1)|null|
