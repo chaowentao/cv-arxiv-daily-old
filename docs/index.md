@@ -300,8 +300,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-05-11**|**An Empirical Study Of Self-supervised Learning Approaches For Object Detection With Transformers**|Gokul Karthik Kumar et.al.|[2205.05543v1](http://arxiv.org/abs/2205.05543v1)|null|
-|**2022-05-11**|**AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation**|Xu Cao et.al.|[2205.05277v1](http://arxiv.org/abs/2205.05277v1)|null|
+|**2022-05-12**|**Simple Open-Vocabulary Object Detection with Vision Transformers**|Matthias Minderer et.al.|[2205.06230v1](http://arxiv.org/abs/2205.06230v1)|null|
+|**2022-05-12**|**Social Distancing Alert with Smartwatches**|Xin Wang et.al.|[2205.06110v1](http://arxiv.org/abs/2205.06110v1)|null|
+|**2022-05-11**|**An Empirical Study Of Self-supervised Learning Approaches For Object Detection With Transformers**|Gokul Karthik Kumar et.al.|[2205.05543v1](http://arxiv.org/abs/2205.05543v1)|**[link](https://github.com/gokulkarthik/deformable-detr)**|
+|**2022-05-11**|**AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation**|Xu Cao et.al.|[2205.05277v1](http://arxiv.org/abs/2205.05277v1)|**[link](https://github.com/szar-lab/aggpose)**|
 |**2022-05-10**|**Transformer-based Cross-Modal Recipe Embeddings with Large Batch Training**|Jing Yang et.al.|[2205.04948v1](http://arxiv.org/abs/2205.04948v1)|null|
 |**2022-05-09**|**HierAttn: Effectively Learn Representations from Stage Attention and Branch Attention for Skin Lesions Diagnosis**|Wei Dai et.al.|[2205.04326v2](http://arxiv.org/abs/2205.04326v2)|**[link](https://github.com/anthonyweidai/circle_extractor)**|
 |**2022-05-09**|**Row-wise Accelerator for Vision Transformer**|Hong-Yi Wang et.al.|[2205.03998v1](http://arxiv.org/abs/2205.03998v1)|null|
@@ -582,7 +584,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-05-11**|**AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation**|Xu Cao et.al.|[2205.05277v1](http://arxiv.org/abs/2205.05277v1)|null|
+|**2022-05-12**|**"Teaching Independent Parts Separately"(TIPS-GAN) : Improving Accuracy and Stability in Unsupervised Adversarial 2D to 3D Human Pose Estimation**|Peter Hardy et.al.|[2205.05980v1](http://arxiv.org/abs/2205.05980v1)|null|
+|**2022-05-11**|**AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation**|Xu Cao et.al.|[2205.05277v1](http://arxiv.org/abs/2205.05277v1)|**[link](https://github.com/szar-lab/aggpose)**|
 |**2022-05-10**|**ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions In-the-Wild**|Chirag Raman et.al.|[2205.05177v1](http://arxiv.org/abs/2205.05177v1)|null|
 |**2022-05-03**|**Multitask Network for Joint Object Detection, Semantic Segmentation and Human Pose Estimation in Vehicle Occupancy Monitoring**|Nikolas Ebert et.al.|[2205.01515v1](http://arxiv.org/abs/2205.01515v1)|null|
 |**2022-05-03**|**3D Semantic Scene Perception using Distributed Smart Edge Sensors**|Simon Bultmann et.al.|[2205.01460v1](http://arxiv.org/abs/2205.01460v1)|**[link](https://github.com/ais-bonn/jetsontrtperception)**|
@@ -680,6 +683,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-12**|**Knowledge Distillation for Multi-Target Domain Adaptation in Real-Time Person Re-Identification**|Félix Remigereau et.al.|[2205.06237v1](http://arxiv.org/abs/2205.06237v1)|null|
+|**2022-05-12**|**Multimodal Indoor Localisation for Measuring Mobility in Parkinson's Disease using Transformers**|Ferdian Jovan et.al.|[2205.06142v1](http://arxiv.org/abs/2205.06142v1)|null|
+|**2022-05-12**|**A Computational Acquisition Model for Multimodal Word Categorization**|Uri Berger et.al.|[2205.05974v1](http://arxiv.org/abs/2205.05974v1)|null|
+|**2022-05-12**|**Fall detection using multimodal data**|Thao V. Ha et.al.|[2205.05918v1](http://arxiv.org/abs/2205.05918v1)|null|
+|**2022-05-12**|**Weakly-Supervised Action Detection Guided by Audio Narration**|Keren Ye et.al.|[2205.05895v1](http://arxiv.org/abs/2205.05895v1)|null|
+|**2022-05-12**|**Bridging the Gap between Reality and Ideality of Entity Matching: A Revisiting and Benchmark Re-Construction**|Tianshu Wang et.al.|[2205.05889v1](http://arxiv.org/abs/2205.05889v1)|null|
+|**2022-05-11**|**Learning to Retrieve Videos by Asking Questions**|Avinash Madasu et.al.|[2205.05739v1](http://arxiv.org/abs/2205.05739v1)|null|
+|**2022-05-11**|**DISARM: Detecting the Victims Targeted by Harmful Memes**|Shivam Sharma et.al.|[2205.05738v1](http://arxiv.org/abs/2205.05738v1)|**[link](https://github.com/lcs2-iiitd/disarm)**|
 |**2022-05-11**|**CNN-LSTM Based Multimodal MRI and Clinical Data Fusion for Predicting Functional Outcome in Stroke Patients**|Nima Hatami et.al.|[2205.05545v1](http://arxiv.org/abs/2205.05545v1)|null|
 |**2022-05-11**|**Correlated subgrain and particle analysis of a recovered Al-Mn alloy by directly combining EBSD and backscatter electron imaging**|Håkon Wiik Ånes et.al.|[2205.05514v1](http://arxiv.org/abs/2205.05514v1)|null|
 |**2022-05-11**|**TextMatcher: Cross-Attentional Neural Network to Compare Image and Text**|Valentina Arrigoni et.al.|[2205.05507v1](http://arxiv.org/abs/2205.05507v1)|null|
@@ -1157,6 +1168,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-12**|**FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue**|Alon Albalak et.al.|[2205.06262v1](http://arxiv.org/abs/2205.06262v1)|**[link](https://github.com/alon-albalak/tlidb)**|
+|**2022-05-12**|**Knowledge Distillation for Multi-Target Domain Adaptation in Real-Time Person Re-Identification**|Félix Remigereau et.al.|[2205.06237v1](http://arxiv.org/abs/2205.06237v1)|null|
+|**2022-05-12**|**CiteSum: Citation Text-guided Scientific Extreme Summarization and Low-resource Domain Adaptation**|Yuning Mao et.al.|[2205.06207v1](http://arxiv.org/abs/2205.06207v1)|**[link](https://github.com/morningmoni/citesum)**|
+|**2022-05-12**|**Controlling Formality in Low-Resource NMT with Domain Adaptation and Re-Ranking: SLT-CDT-UoS at IWSLT2022**|Sebastian T. Vincent et.al.|[2205.05990v1](http://arxiv.org/abs/2205.05990v1)|null|
+|**2022-05-12**|**Bi-level Alignment for Cross-Domain Crowd Counting**|Shenjian Gong et.al.|[2205.05844v1](http://arxiv.org/abs/2205.05844v1)|**[link](https://github.com/yankeegsj/bla)**|
 |**2022-05-10**|**On Causality in Domain Adaptation and Semi-Supervised Learning: an Information-Theoretic Analysis**|Xuetong Wu et.al.|[2205.04641v1](http://arxiv.org/abs/2205.04641v1)|null|
 |**2022-05-09**|**Online Unsupervised Domain Adaptation for Person Re-identification**|Hamza Rami et.al.|[2205.04383v1](http://arxiv.org/abs/2205.04383v1)|null|
 |**2022-05-09**|**Local Prediction Aggregation: A Frustratingly Easy Source-free Domain Adaptation Method**|Shiqi Yang et.al.|[2205.04183v1](http://arxiv.org/abs/2205.04183v1)|**[link](https://github.com/albert0147/lpa_sfda)**|
@@ -1488,6 +1504,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-12**|**Topologically-Aware Deformation Fields for Single-View 3D Reconstruction**|Shivam Duggal et.al.|[2205.06267v1](http://arxiv.org/abs/2205.06267v1)|null|
+|**2022-05-12**|**Knowledge Distillation for Multi-Target Domain Adaptation in Real-Time Person Re-Identification**|Félix Remigereau et.al.|[2205.06237v1](http://arxiv.org/abs/2205.06237v1)|null|
+|**2022-05-12**|**Simple Open-Vocabulary Object Detection with Vision Transformers**|Matthias Minderer et.al.|[2205.06230v1](http://arxiv.org/abs/2205.06230v1)|null|
+|**2022-05-12**|**CiteSum: Citation Text-guided Scientific Extreme Summarization and Low-resource Domain Adaptation**|Yuning Mao et.al.|[2205.06207v1](http://arxiv.org/abs/2205.06207v1)|**[link](https://github.com/morningmoni/citesum)**|
+|**2022-05-12**|**Using dependency parsing for few-shot learning in distributional semantics**|Stefania Preda et.al.|[2205.06168v1](http://arxiv.org/abs/2205.06168v1)|null|
+|**2022-05-12**|**Multi Task Learning For Zero Shot Performance Prediction of Multilingual Models**|Kabir Ahuja et.al.|[2205.06130v1](http://arxiv.org/abs/2205.06130v1)|null|
+|**2022-05-12**|**Zero-shot Code-Mixed Offensive Span Identification through Rationale Extraction**|Manikandan Ravikiran et.al.|[2205.06119v1](http://arxiv.org/abs/2205.06119v1)|**[link](https://github.com/manikandan-ravikiran/zero-shot-offensive-span)**|
+|**2022-05-12**|**D3T-GAN: Data-Dependent Domain Transfer GANs for Few-shot Image Generation**|Xintian Wu et.al.|[2205.06032v1](http://arxiv.org/abs/2205.06032v1)|null|
+|**2022-05-12**|**Controlling Formality in Low-Resource NMT with Domain Adaptation and Re-Ranking: SLT-CDT-UoS at IWSLT2022**|Sebastian T. Vincent et.al.|[2205.05990v1](http://arxiv.org/abs/2205.05990v1)|null|
+|**2022-05-12**|**AiSocrates: Towards Answering Ethical Quandary Questions**|Yejin Bang et.al.|[2205.05989v1](http://arxiv.org/abs/2205.05989v1)|null|
+|**2022-05-12**|**"Teaching Independent Parts Separately"(TIPS-GAN) : Improving Accuracy and Stability in Unsupervised Adversarial 2D to 3D Human Pose Estimation**|Peter Hardy et.al.|[2205.05980v1](http://arxiv.org/abs/2205.05980v1)|null|
+|**2022-05-12**|**Exploiting Inductive Bias in Transformers for Unsupervised Disentanglement of Syntax and Semantics with VAEs**|Ghazi Felhi et.al.|[2205.05943v1](http://arxiv.org/abs/2205.05943v1)|**[link](https://github.com/ghazi-f/qkvae)**|
+|**2022-05-12**|**Ray Priors through Reprojection: Improving Neural Radiance Fields for Novel View Extrapolation**|Jian Zhang et.al.|[2205.05922v1](http://arxiv.org/abs/2205.05922v1)|null|
+|**2022-05-12**|**Pseudo-Label Guided Multi-Contrast Generalization for Non-Contrast Organ-Aware Segmentation**|Ho Hin Lee et.al.|[2205.05898v1](http://arxiv.org/abs/2205.05898v1)|null|
+|**2022-05-12**|**Towards Robust Unsupervised Disentanglement of Sequential Data -- A Case Study Using Music Audio**|Yin-Jyun Luo et.al.|[2205.05871v1](http://arxiv.org/abs/2205.05871v1)|**[link](https://github.com/yjlolo/dseq-vae)**|
+|**2022-05-12**|**Bi-level Alignment for Cross-Domain Crowd Counting**|Shenjian Gong et.al.|[2205.05844v1](http://arxiv.org/abs/2205.05844v1)|**[link](https://github.com/yankeegsj/bla)**|
+|**2022-05-12**|**Cross-domain Few-shot Meta-learning Using Stacking**|Hongyu Wang et.al.|[2205.05831v1](http://arxiv.org/abs/2205.05831v1)|null|
+|**2022-05-12**|**Open Vocabulary Extreme Classification Using Generative Models**|Daniel Simig et.al.|[2205.05812v1](http://arxiv.org/abs/2205.05812v1)|null|
+|**2022-05-11**|**RITA: a Study on Scaling Up Generative Protein Sequence Models**|Daniel Hesslow et.al.|[2205.05789v1](http://arxiv.org/abs/2205.05789v1)|**[link](https://github.com/lightonai/rita)**|
 |**2022-05-11**|**Aggregating Pairwise Semantic Differences for Few-Shot Claim Veracity Classification**|Xia Zeng et.al.|[2205.05646v1](http://arxiv.org/abs/2205.05646v1)|null|
 |**2022-05-11**|**Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning**|Haokun Liu et.al.|[2205.05638v1](http://arxiv.org/abs/2205.05638v1)|null|
 |**2022-05-11**|**Choice of training label matters: how to best use deep learning for quantitative MRI parameter estimation**|Sean C. Epstein et.al.|[2205.05587v1](http://arxiv.org/abs/2205.05587v1)|null|
@@ -2891,6 +2926,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-12**|**Ray Priors through Reprojection: Improving Neural Radiance Fields for Novel View Extrapolation**|Jian Zhang et.al.|[2205.05922v1](http://arxiv.org/abs/2205.05922v1)|null|
+|**2022-05-12**|**View Synthesis with Sculpted Neural Points**|Yiming Zuo et.al.|[2205.05869v1](http://arxiv.org/abs/2205.05869v1)|**[link](https://github.com/princeton-vl/snp)**|
 |**2022-05-10**|**NeRF-Editing: Geometry Editing of Neural Radiance Fields**|Yu-Jie Yuan et.al.|[2205.04978v1](http://arxiv.org/abs/2205.04978v1)|null|
 |**2022-05-03**|**Sampling-free obstacle gradients and reactive planning in Neural Radiance Fields (NeRF)**|Michael Pantic et.al.|[2205.01389v1](http://arxiv.org/abs/2205.01389v1)|null|
 |**2022-04-28**|**AE-NeRF: Auto-Encoding Neural Radiance Fields for 3D-Aware Object Manipulation**|Mira Kim et.al.|[2204.13426v1](http://arxiv.org/abs/2204.13426v1)|null|
@@ -2959,6 +2996,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-12**|**Anisotropic-strain-enhanced hole mobility in GaN by lattice matching to ZnGeN$_2$ and MgSiN$_2$**|Joshua Leveillee et.al.|[2205.06193v1](http://arxiv.org/abs/2205.06193v1)|null|
+|**2022-05-12**|**Unified Source-Filter GAN with Harmonic-plus-Noise Source Excitation Generation**|Reo Yoneyama et.al.|[2205.06053v1](http://arxiv.org/abs/2205.06053v1)|null|
+|**2022-05-12**|**D3T-GAN: Data-Dependent Domain Transfer GANs for Few-shot Image Generation**|Xintian Wu et.al.|[2205.06032v1](http://arxiv.org/abs/2205.06032v1)|null|
+|**2022-05-12**|**"Teaching Independent Parts Separately"(TIPS-GAN) : Improving Accuracy and Stability in Unsupervised Adversarial 2D to 3D Human Pose Estimation**|Peter Hardy et.al.|[2205.05980v1](http://arxiv.org/abs/2205.05980v1)|null|
+|**2022-05-11**|**Diverse Video Generation from a Single Video**|Niv Haim et.al.|[2205.05725v1](http://arxiv.org/abs/2205.05725v1)|null|
+|**2022-05-11**|**Another Shipment of Six Short-Period Giant Planets from TESS**|Joseph E. Rodriguez et.al.|[2205.05709v1](http://arxiv.org/abs/2205.05709v1)|null|
 |**2022-05-11**|**RISP: Rendering-Invariant State Predictor with Differentiable Simulation and Rendering for Cross-Domain Parameter Estimation**|Pingchuan Ma et.al.|[2205.05678v1](http://arxiv.org/abs/2205.05678v1)|null|
 |**2022-05-11**|**Generation of non-stationary stochastic fields using Generative Adversarial Networks with limited training data**|Alhasan Abdellatif et.al.|[2205.05469v1](http://arxiv.org/abs/2205.05469v1)|null|
 |**2022-05-11**|**A Unified f-divergence Framework Generalizing VAE and GAN**|Jaime Roquero Gimenez et.al.|[2205.05214v1](http://arxiv.org/abs/2205.05214v1)|null|
