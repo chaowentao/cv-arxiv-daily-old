@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.05.13
+## Updated on 2022.05.14
 
 ## SLAM
 
@@ -300,7 +300,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-05-12**|**Simple Open-Vocabulary Object Detection with Vision Transformers**|Matthias Minderer et.al.|[2205.06230v1](http://arxiv.org/abs/2205.06230v1)|null|
+|**2022-05-12**|**Simple Open-Vocabulary Object Detection with Vision Transformers**|Matthias Minderer et.al.|[2205.06230v1](http://arxiv.org/abs/2205.06230v1)|**[link](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)**|
 |**2022-05-12**|**Social Distancing Alert with Smartwatches**|Xin Wang et.al.|[2205.06110v1](http://arxiv.org/abs/2205.06110v1)|null|
 |**2022-05-11**|**An Empirical Study Of Self-supervised Learning Approaches For Object Detection With Transformers**|Gokul Karthik Kumar et.al.|[2205.05543v1](http://arxiv.org/abs/2205.05543v1)|**[link](https://github.com/gokulkarthik/deformable-detr)**|
 |**2022-05-11**|**AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation**|Xu Cao et.al.|[2205.05277v1](http://arxiv.org/abs/2205.05277v1)|**[link](https://github.com/szar-lab/aggpose)**|
@@ -685,21 +685,21 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-05-12**|**Knowledge Distillation for Multi-Target Domain Adaptation in Real-Time Person Re-Identification**|Félix Remigereau et.al.|[2205.06237v1](http://arxiv.org/abs/2205.06237v1)|null|
 |**2022-05-12**|**Multimodal Indoor Localisation for Measuring Mobility in Parkinson's Disease using Transformers**|Ferdian Jovan et.al.|[2205.06142v1](http://arxiv.org/abs/2205.06142v1)|null|
-|**2022-05-12**|**A Computational Acquisition Model for Multimodal Word Categorization**|Uri Berger et.al.|[2205.05974v1](http://arxiv.org/abs/2205.05974v1)|null|
+|**2022-05-12**|**A Computational Acquisition Model for Multimodal Word Categorization**|Uri Berger et.al.|[2205.05974v1](http://arxiv.org/abs/2205.05974v1)|**[link](https://github.com/slab-nlp/multimodal_clustering)**|
 |**2022-05-12**|**Fall detection using multimodal data**|Thao V. Ha et.al.|[2205.05918v1](http://arxiv.org/abs/2205.05918v1)|null|
 |**2022-05-12**|**Weakly-Supervised Action Detection Guided by Audio Narration**|Keren Ye et.al.|[2205.05895v1](http://arxiv.org/abs/2205.05895v1)|null|
 |**2022-05-12**|**Bridging the Gap between Reality and Ideality of Entity Matching: A Revisiting and Benchmark Re-Construction**|Tianshu Wang et.al.|[2205.05889v1](http://arxiv.org/abs/2205.05889v1)|null|
 |**2022-05-11**|**Learning to Retrieve Videos by Asking Questions**|Avinash Madasu et.al.|[2205.05739v1](http://arxiv.org/abs/2205.05739v1)|null|
 |**2022-05-11**|**DISARM: Detecting the Victims Targeted by Harmful Memes**|Shivam Sharma et.al.|[2205.05738v1](http://arxiv.org/abs/2205.05738v1)|**[link](https://github.com/lcs2-iiitd/disarm)**|
 |**2022-05-11**|**CNN-LSTM Based Multimodal MRI and Clinical Data Fusion for Predicting Functional Outcome in Stroke Patients**|Nima Hatami et.al.|[2205.05545v1](http://arxiv.org/abs/2205.05545v1)|null|
-|**2022-05-11**|**Correlated subgrain and particle analysis of a recovered Al-Mn alloy by directly combining EBSD and backscatter electron imaging**|Håkon Wiik Ånes et.al.|[2205.05514v1](http://arxiv.org/abs/2205.05514v1)|null|
+|**2022-05-11**|**Correlated subgrain and particle analysis of a recovered Al-Mn alloy by directly combining EBSD and backscatter electron imaging**|Håkon Wiik Ånes et.al.|[2205.05514v1](http://arxiv.org/abs/2205.05514v1)|**[link](https://github.com/hakonanes/correlated-grains-particles-workflow)**|
 |**2022-05-11**|**TextMatcher: Cross-Attentional Neural Network to Compare Image and Text**|Valentina Arrigoni et.al.|[2205.05507v1](http://arxiv.org/abs/2205.05507v1)|null|
 |**2022-05-10**|**ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions In-the-Wild**|Chirag Raman et.al.|[2205.05177v1](http://arxiv.org/abs/2205.05177v1)|null|
 |**2022-05-10**|**Fixed-point iterations for several dissimilarity measure barycenters in the Gaussian case**|Alessandro D'Ortenzio et.al.|[2205.04806v1](http://arxiv.org/abs/2205.04806v1)|null|
 |**2022-05-10**|**OTFPF: Optimal Transport-Based Feature Pyramid Fusion Network for Brain Age Estimation with 3D Overlapped ConvNeXt**|Yu Fu et.al.|[2205.04684v2](http://arxiv.org/abs/2205.04684v2)|**[link](https://github.com/brain-age/otfpf)**|
 |**2022-05-09**|**TeamX@DravidianLangTech-ACL2022: A Comparative Analysis for Troll-Based Meme Classification**|Rabindra Nath Nandi et.al.|[2205.04404v1](http://arxiv.org/abs/2205.04404v1)|null|
 |**2022-05-09**|**Detecting the Role of an Entity in Harmful Memes: Techniques and Their Limitations**|Rabindra Nath Nandi et.al.|[2205.04402v1](http://arxiv.org/abs/2205.04402v1)|**[link](https://github.com/robi56/harmful_memes_block_fusion)**|
-|**2022-05-09**|**Detecting and Understanding Harmful Memes: A Survey**|Shivam Sharma et.al.|[2205.04274v1](http://arxiv.org/abs/2205.04274v1)|null|
+|**2022-05-09**|**Detecting and Understanding Harmful Memes: A Survey**|Shivam Sharma et.al.|[2205.04274v1](http://arxiv.org/abs/2205.04274v1)|**[link](https://github.com/firojalam/harmful-memes-detection-resources)**|
 |**2022-05-05**|**Measuring Cognitive Workload Using Multimodal Sensors**|Niraj Hirachan et.al.|[2205.04235v1](http://arxiv.org/abs/2205.04235v1)|null|
 |**2022-05-09**|**Multimodel Sensor Fusion for Learning Rich Models for Interacting Soft Robots**|Thomas George Thuruthel et.al.|[2205.04202v1](http://arxiv.org/abs/2205.04202v1)|null|
 |**2022-05-09**|**Beyond Bounding Box: Multimodal Knowledge Learning for Object Detection**|Weixin Feng et.al.|[2205.04072v1](http://arxiv.org/abs/2205.04072v1)|null|
@@ -1506,7 +1506,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-05-12**|**Topologically-Aware Deformation Fields for Single-View 3D Reconstruction**|Shivam Duggal et.al.|[2205.06267v1](http://arxiv.org/abs/2205.06267v1)|null|
 |**2022-05-12**|**Knowledge Distillation for Multi-Target Domain Adaptation in Real-Time Person Re-Identification**|Félix Remigereau et.al.|[2205.06237v1](http://arxiv.org/abs/2205.06237v1)|null|
-|**2022-05-12**|**Simple Open-Vocabulary Object Detection with Vision Transformers**|Matthias Minderer et.al.|[2205.06230v1](http://arxiv.org/abs/2205.06230v1)|null|
+|**2022-05-12**|**Simple Open-Vocabulary Object Detection with Vision Transformers**|Matthias Minderer et.al.|[2205.06230v1](http://arxiv.org/abs/2205.06230v1)|**[link](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)**|
 |**2022-05-12**|**CiteSum: Citation Text-guided Scientific Extreme Summarization and Low-resource Domain Adaptation**|Yuning Mao et.al.|[2205.06207v1](http://arxiv.org/abs/2205.06207v1)|**[link](https://github.com/morningmoni/citesum)**|
 |**2022-05-12**|**Using dependency parsing for few-shot learning in distributional semantics**|Stefania Preda et.al.|[2205.06168v1](http://arxiv.org/abs/2205.06168v1)|null|
 |**2022-05-12**|**Multi Task Learning For Zero Shot Performance Prediction of Multilingual Models**|Kabir Ahuja et.al.|[2205.06130v1](http://arxiv.org/abs/2205.06130v1)|null|
