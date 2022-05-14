@@ -300,8 +300,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-05-12**|**Simple Open-Vocabulary Object Detection with Vision Transformers**|Matthias Minderer et.al.|[2205.06230v1](http://arxiv.org/abs/2205.06230v1)|**[link](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)**|
-|**2022-05-12**|**Social Distancing Alert with Smartwatches**|Xin Wang et.al.|[2205.06110v1](http://arxiv.org/abs/2205.06110v1)|null|
+|**2022-05-12**|**Simple Open-Vocabulary Object Detection with Vision Transformers**|Matthias Minderer et.al.|[2205.06230v1](http://arxiv.org/abs/2205.06230v1)|**[link](https://github.com/google-research/scenic)**|
+|**2022-05-12**|**Social Distancing Alert with Smartwatches**|Xin Wang et.al.|[2205.06110v1](http://arxiv.org/abs/2205.06110v1)|**[link](https://github.com/aiotgroup/soda)**|
 |**2022-05-11**|**An Empirical Study Of Self-supervised Learning Approaches For Object Detection With Transformers**|Gokul Karthik Kumar et.al.|[2205.05543v1](http://arxiv.org/abs/2205.05543v1)|**[link](https://github.com/gokulkarthik/deformable-detr)**|
 |**2022-05-11**|**AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation**|Xu Cao et.al.|[2205.05277v1](http://arxiv.org/abs/2205.05277v1)|**[link](https://github.com/szar-lab/aggpose)**|
 |**2022-05-10**|**Transformer-based Cross-Modal Recipe Embeddings with Large Batch Training**|Jing Yang et.al.|[2205.04948v1](http://arxiv.org/abs/2205.04948v1)|null|
@@ -1506,7 +1506,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-05-12**|**Topologically-Aware Deformation Fields for Single-View 3D Reconstruction**|Shivam Duggal et.al.|[2205.06267v1](http://arxiv.org/abs/2205.06267v1)|null|
 |**2022-05-12**|**Knowledge Distillation for Multi-Target Domain Adaptation in Real-Time Person Re-Identification**|Félix Remigereau et.al.|[2205.06237v1](http://arxiv.org/abs/2205.06237v1)|null|
-|**2022-05-12**|**Simple Open-Vocabulary Object Detection with Vision Transformers**|Matthias Minderer et.al.|[2205.06230v1](http://arxiv.org/abs/2205.06230v1)|**[link](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)**|
+|**2022-05-12**|**Simple Open-Vocabulary Object Detection with Vision Transformers**|Matthias Minderer et.al.|[2205.06230v1](http://arxiv.org/abs/2205.06230v1)|**[link](https://github.com/google-research/scenic)**|
 |**2022-05-12**|**CiteSum: Citation Text-guided Scientific Extreme Summarization and Low-resource Domain Adaptation**|Yuning Mao et.al.|[2205.06207v1](http://arxiv.org/abs/2205.06207v1)|**[link](https://github.com/morningmoni/citesum)**|
 |**2022-05-12**|**Using dependency parsing for few-shot learning in distributional semantics**|Stefania Preda et.al.|[2205.06168v1](http://arxiv.org/abs/2205.06168v1)|null|
 |**2022-05-12**|**Multi Task Learning For Zero Shot Performance Prediction of Multilingual Models**|Kabir Ahuja et.al.|[2205.06130v1](http://arxiv.org/abs/2205.06130v1)|null|
