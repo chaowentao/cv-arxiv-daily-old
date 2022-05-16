@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.05.15
+## Updated on 2022.05.16
 
 ## SLAM
 
@@ -689,7 +689,7 @@ layout: default
 |**2022-05-12**|**Fall detection using multimodal data**|Thao V. Ha et.al.|[2205.05918v1](http://arxiv.org/abs/2205.05918v1)|null|
 |**2022-05-12**|**Weakly-Supervised Action Detection Guided by Audio Narration**|Keren Ye et.al.|[2205.05895v1](http://arxiv.org/abs/2205.05895v1)|null|
 |**2022-05-12**|**Bridging the Gap between Reality and Ideality of Entity Matching: A Revisiting and Benchmark Re-Construction**|Tianshu Wang et.al.|[2205.05889v1](http://arxiv.org/abs/2205.05889v1)|null|
-|**2022-05-11**|**Learning to Retrieve Videos by Asking Questions**|Avinash Madasu et.al.|[2205.05739v1](http://arxiv.org/abs/2205.05739v1)|null|
+|**2022-05-11**|**Learning to Retrieve Videos by Asking Questions**|Avinash Madasu et.al.|[2205.05739v2](http://arxiv.org/abs/2205.05739v2)|null|
 |**2022-05-11**|**DISARM: Detecting the Victims Targeted by Harmful Memes**|Shivam Sharma et.al.|[2205.05738v1](http://arxiv.org/abs/2205.05738v1)|**[link](https://github.com/lcs2-iiitd/disarm)**|
 |**2022-05-11**|**CNN-LSTM Based Multimodal MRI and Clinical Data Fusion for Predicting Functional Outcome in Stroke Patients**|Nima Hatami et.al.|[2205.05545v1](http://arxiv.org/abs/2205.05545v1)|null|
 |**2022-05-11**|**Correlated subgrain and particle analysis of a recovered Al-Mn alloy by directly combining EBSD and backscatter electron imaging**|Håkon Wiik Ånes et.al.|[2205.05514v1](http://arxiv.org/abs/2205.05514v1)|**[link](https://github.com/hakonanes/correlated-grains-particles-workflow)**|
