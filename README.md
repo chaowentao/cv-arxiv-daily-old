@@ -1,4 +1,4 @@
-## Updated on 2022.05.16
+## Updated on 2022.05.17
 
 ## Image Generation
 
@@ -153,7 +153,7 @@
 |**2022-05-11**|**An Empirical Study Of Self-supervised Learning Approaches For Object Detection With Transformers**|Gokul Karthik Kumar et.al.|[2205.05543v1](http://arxiv.org/abs/2205.05543v1)|**[link](https://github.com/gokulkarthik/deformable-detr)**|
 |**2022-05-11**|**AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation**|Xu Cao et.al.|[2205.05277v1](http://arxiv.org/abs/2205.05277v1)|**[link](https://github.com/szar-lab/aggpose)**|
 |**2022-05-10**|**Transformer-based Cross-Modal Recipe Embeddings with Large Batch Training**|Jing Yang et.al.|[2205.04948v1](http://arxiv.org/abs/2205.04948v1)|null|
-|**2022-05-09**|**HierAttn: Effectively Learn Representations from Stage Attention and Branch Attention for Skin Lesions Diagnosis**|Wei Dai et.al.|[2205.04326v2](http://arxiv.org/abs/2205.04326v2)|**[link](https://github.com/anthonyweidai/circle_extractor)**|
+|**2022-05-09**|**HierAttn: Effectively Learn Representations from Stage Attention and Branch Attention for Skin Lesions Diagnosis**|Wei Dai et.al.|[2205.04326v3](http://arxiv.org/abs/2205.04326v3)|**[link](https://github.com/anthonyweidai/circle_extractor)**|
 |**2022-05-09**|**Row-wise Accelerator for Vision Transformer**|Hong-Yi Wang et.al.|[2205.03998v1](http://arxiv.org/abs/2205.03998v1)|null|
 |**2022-05-08**|**$α$NAS: Neural Architecture Search using Property Guided Synthesis**|Charles Jin et.al.|[2205.03960v1](http://arxiv.org/abs/2205.03960v1)|null|
 |**2022-05-08**|**ConvMAE: Masked Convolution Meets Masked Autoencoders**|Peng Gao et.al.|[2205.03892v1](http://arxiv.org/abs/2205.03892v1)|**[link](https://github.com/alpha-vl/convmae)**|
@@ -432,7 +432,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-05-12**|**"Teaching Independent Parts Separately"(TIPS-GAN) : Improving Accuracy and Stability in Unsupervised Adversarial 2D to 3D Human Pose Estimation**|Peter Hardy et.al.|[2205.05980v1](http://arxiv.org/abs/2205.05980v1)|null|
+|**2022-05-12**|**"Teaching Independent Parts Separately"(TIPSy-GAN) : Improving Accuracy and Stability in Unsupervised Adversarial 2D to 3D Human Pose Estimation**|Peter Hardy et.al.|[2205.05980v2](http://arxiv.org/abs/2205.05980v2)|null|
 |**2022-05-11**|**AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation**|Xu Cao et.al.|[2205.05277v1](http://arxiv.org/abs/2205.05277v1)|**[link](https://github.com/szar-lab/aggpose)**|
 |**2022-05-10**|**ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions In-the-Wild**|Chirag Raman et.al.|[2205.05177v1](http://arxiv.org/abs/2205.05177v1)|null|
 |**2022-05-03**|**Multitask Network for Joint Object Detection, Semantic Segmentation and Human Pose Estimation in Vehicle Occupancy Monitoring**|Nikolas Ebert et.al.|[2205.01515v1](http://arxiv.org/abs/2205.01515v1)|null|
@@ -2866,7 +2866,7 @@
 |**2022-05-12**|**Anisotropic-strain-enhanced hole mobility in GaN by lattice matching to ZnGeN$_2$ and MgSiN$_2$**|Joshua Leveillee et.al.|[2205.06193v1](http://arxiv.org/abs/2205.06193v1)|null|
 |**2022-05-12**|**Unified Source-Filter GAN with Harmonic-plus-Noise Source Excitation Generation**|Reo Yoneyama et.al.|[2205.06053v1](http://arxiv.org/abs/2205.06053v1)|null|
 |**2022-05-12**|**D3T-GAN: Data-Dependent Domain Transfer GANs for Few-shot Image Generation**|Xintian Wu et.al.|[2205.06032v1](http://arxiv.org/abs/2205.06032v1)|null|
-|**2022-05-12**|**"Teaching Independent Parts Separately"(TIPS-GAN) : Improving Accuracy and Stability in Unsupervised Adversarial 2D to 3D Human Pose Estimation**|Peter Hardy et.al.|[2205.05980v1](http://arxiv.org/abs/2205.05980v1)|null|
+|**2022-05-12**|**"Teaching Independent Parts Separately"(TIPSy-GAN) : Improving Accuracy and Stability in Unsupervised Adversarial 2D to 3D Human Pose Estimation**|Peter Hardy et.al.|[2205.05980v2](http://arxiv.org/abs/2205.05980v2)|null|
 |**2022-05-11**|**Diverse Video Generation from a Single Video**|Niv Haim et.al.|[2205.05725v1](http://arxiv.org/abs/2205.05725v1)|null|
 |**2022-05-11**|**Another Shipment of Six Short-Period Giant Planets from TESS**|Joseph E. Rodriguez et.al.|[2205.05709v1](http://arxiv.org/abs/2205.05709v1)|null|
 |**2022-05-11**|**RISP: Rendering-Invariant State Predictor with Differentiable Simulation and Rendering for Cross-Domain Parameter Estimation**|Pingchuan Ma et.al.|[2205.05678v1](http://arxiv.org/abs/2205.05678v1)|null|
