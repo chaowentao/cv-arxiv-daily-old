@@ -1,4 +1,4 @@
-## Updated on 2022.05.17
+## Updated on 2022.05.18
 
 ## Image Generation
 
@@ -161,7 +161,7 @@
 |**2022-05-08**|**ConvMAE: Masked Convolution Meets Masked Autoencoders**|Peng Gao et.al.|[2205.03892v1](http://arxiv.org/abs/2205.03892v1)|**[link](https://github.com/alpha-vl/convmae)**|
 |**2022-05-08**|**Demo: Real-Time Semantic Communications with a Vision Transformer**|Hanju Yoo et.al.|[2205.03886v1](http://arxiv.org/abs/2205.03886v1)|null|
 |**2022-05-06**|**EdgeViTs: Competing Light-weight CNNs on Mobile Devices with Vision Transformers**|Junting Pan et.al.|[2205.03436v1](http://arxiv.org/abs/2205.03436v1)|null|
-|**2022-05-04**|**Sequencer: Deep LSTM for Image Classification**|Yuki Tatsunami et.al.|[2205.01972v1](http://arxiv.org/abs/2205.01972v1)|**[link](https://github.com/okojoalg/sequencer)**|
+|**2022-05-04**|**Sequencer: Deep LSTM for Image Classification**|Yuki Tatsunami et.al.|[2205.01972v2](http://arxiv.org/abs/2205.01972v2)|**[link](https://github.com/okojoalg/sequencer)**|
 |**2022-05-03**|**Simpler is Better: off-the-shelf Continual Learning Through Pretrained Backbones**|Francesco Pelosin et.al.|[2205.01586v1](http://arxiv.org/abs/2205.01586v1)|null|
 |**2022-05-03**|**Better plain ViT baselines for ImageNet-1k**|Lucas Beyer et.al.|[2205.01580v1](http://arxiv.org/abs/2205.01580v1)|**[link](https://github.com/google-research/big_vision)**|
 |**2022-05-02**|**CenterCLIP: Token Clustering for Efficient Text-Video Retrieval**|Shuai Zhao et.al.|[2205.00823v1](http://arxiv.org/abs/2205.00823v1)|**[link](https://github.com/mzhaoshuai/CenterCLIP)**|
@@ -539,7 +539,7 @@
 |**2022-05-16**|**Towards Space-to-Ground Data Availability for Agriculture Monitoring**|George Choumos et.al.|[2205.07721v1](http://arxiv.org/abs/2205.07721v1)|null|
 |**2022-05-16**|**Exploring Diversity-based Active Learning for 3D Object Detection in Autonomous Driving**|Zhihao Liang et.al.|[2205.07708v1](http://arxiv.org/abs/2205.07708v1)|null|
 |**2022-05-16**|**ReDFeat: Recoupling Detection and Description for Multimodal Feature Learning**|Yuxin Deng et.al.|[2205.07439v1](http://arxiv.org/abs/2205.07439v1)|null|
-|**2022-05-15**|**Higher-order exceptional point in a bule-detuned non-Hermitian cavity optomechanical system**|Wei Xiong et.al.|[2205.07184v1](http://arxiv.org/abs/2205.07184v1)|null|
+|**2022-05-15**|**Higher-order exceptional point in a blue-detuned non-Hermitian cavity optomechanical system**|Wei Xiong et.al.|[2205.07184v2](http://arxiv.org/abs/2205.07184v2)|null|
 |**2022-05-14**|**Classification of Astronomical Bodies by Efficient Layer Fine-Tuning of Deep Neural Networks**|Sabeesh Ethiraj et.al.|[2205.07124v1](http://arxiv.org/abs/2205.07124v1)|null|
 |**2022-05-14**|**What do Models Learn From Training on More Than Text? Measuring Visual Commonsense Knowledge**|Lovisa Hagström et.al.|[2205.07065v1](http://arxiv.org/abs/2205.07065v1)|**[link](https://github.com/lovhag/measure-visual-commonsense-knowledge)**|
 |**2022-05-13**|**Multimodal Conversational AI: A Survey of Datasets and Approaches**|Anirudh Sundar et.al.|[2205.06907v1](http://arxiv.org/abs/2205.06907v1)|null|
@@ -1041,7 +1041,7 @@
 |**2022-05-09**|**Local Prediction Aggregation: A Frustratingly Easy Source-free Domain Adaptation Method**|Shiqi Yang et.al.|[2205.04183v1](http://arxiv.org/abs/2205.04183v1)|**[link](https://github.com/albert0147/lpa_sfda)**|
 |**2022-05-09**|**Multi-level Consistency Learning for Semi-supervised Domain Adaptation**|Zizheng Yan et.al.|[2205.04066v1](http://arxiv.org/abs/2205.04066v1)|null|
 |**2022-05-08**|**Cross-lingual Adaptation for Recipe Retrieval with Mixup**|Bin Zhu et.al.|[2205.03891v1](http://arxiv.org/abs/2205.03891v1)|null|
-|**2022-05-08**|**One-Class Knowledge Distillation for Face Presentation Attack Detection**|Zhi Li et.al.|[2205.03792v1](http://arxiv.org/abs/2205.03792v1)|null|
+|**2022-05-08**|**One-Class Knowledge Distillation for Face Presentation Attack Detection**|Zhi Li et.al.|[2205.03792v1](http://arxiv.org/abs/2205.03792v1)|**[link](https://github.com/lizhi-ntu/OCKD-FacePAD)**|
 |**2022-05-07**|**Towards Robust 3D Object Recognition with Dense-to-Sparse Deep Domain Adaptation**|Prajval Kumar Murali et.al.|[2205.03654v1](http://arxiv.org/abs/2205.03654v1)|null|
 |**2022-05-07**|**Time-Series Domain Adaptation via Sparse Associative Structure Alignment: Learning Invariance and Variance**|Zijian Li et.al.|[2205.03554v1](http://arxiv.org/abs/2205.03554v1)|null|
 |**2022-05-07**|**Dual Adversarial Adaptation for Cross-Device Real-World Image Super-Resolution**|Xiaoqian Xu et.al.|[2205.03524v1](http://arxiv.org/abs/2205.03524v1)|**[link](https://github.com/lonelyhope/dada)**|
@@ -1373,7 +1373,7 @@
 |**2022-05-16**|**FactPEGASUS: Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization**|David Wan et.al.|[2205.07830v1](http://arxiv.org/abs/2205.07830v1)|null|
 |**2022-05-16**|**Generalizing to New Tasks via One-Shot Compositional Subgoals**|Xihan Bian et.al.|[2205.07716v1](http://arxiv.org/abs/2205.07716v1)|null|
 |**2022-05-16**|**From Small Scales to Large Scales: Distance-to-Measure Density based Geometric Analysis of Complex Data**|Katharina Proksch et.al.|[2205.07689v1](http://arxiv.org/abs/2205.07689v1)|null|
-|**2022-05-16**|**Heroes, Villains, and Victims, and GPT-3 -- Automated Extraction of Character Roles Without Training Data**|Dominik Stammbach et.al.|[2205.07557v1](http://arxiv.org/abs/2205.07557v1)|null|
+|**2022-05-16**|**Heroes, Villains, and Victims, and GPT-3: Automated Extraction of Character Roles Without Training Data**|Dominik Stammbach et.al.|[2205.07557v2](http://arxiv.org/abs/2205.07557v2)|null|
 |**2022-05-16**|**TNN7: A Custom Macro Suite for Implementing Highly Optimized Designs of Neuromorphic TNNs**|Harideep Nair et.al.|[2205.07410v1](http://arxiv.org/abs/2205.07410v1)|null|
 |**2022-05-15**|**SeqZero: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models**|Jingfeng Yang et.al.|[2205.07381v1](http://arxiv.org/abs/2205.07381v1)|null|
 |**2022-05-15**|**Not to Overfit or Underfit? A Study of Domain Generalization in Question Answering**|Md Arafat Sultan et.al.|[2205.07257v1](http://arxiv.org/abs/2205.07257v1)|null|
@@ -2903,7 +2903,7 @@
 |**2022-05-13**|**Twisted Gan-Gross-Prasad conjecture for certain tempered L-packets**|Rui Chen et.al.|[2205.06775v1](http://arxiv.org/abs/2205.06775v1)|null|
 |**2022-05-13**|**Improving Astronomical Time-series Classification via Data Augmentation with Generative Adversarial Networks**|Germán García-Jara et.al.|[2205.06758v1](http://arxiv.org/abs/2205.06758v1)|null|
 |**2022-05-13**|**Analysis of Neural Image Compression Networks for Machine-to-Machine Communication**|Kristian Fischer et.al.|[2205.06511v1](http://arxiv.org/abs/2205.06511v1)|null|
-|**2022-05-13**|**Personalized Adversarial Data Augmentation for Dysarthric and Elderly Speech Recognition**|Zengrui Jin et.al.|[2205.06445v1](http://arxiv.org/abs/2205.06445v1)|null|
+|**2022-05-13**|**Personalized Adversarial Data Augmentation for Dysarthric and Elderly Speech Recognition**|Zengrui Jin et.al.|[2205.06445v2](http://arxiv.org/abs/2205.06445v2)|null|
 |**2022-05-12**|**$α$-GAN: Convergence and Estimation Guarantees**|Gowtham R. Kurri et.al.|[2205.06393v1](http://arxiv.org/abs/2205.06393v1)|null|
 |**2022-05-12**|**Anisotropic-strain-enhanced hole mobility in GaN by lattice matching to ZnGeN$_2$ and MgSiN$_2$**|Joshua Leveillee et.al.|[2205.06193v1](http://arxiv.org/abs/2205.06193v1)|null|
 |**2022-05-12**|**Unified Source-Filter GAN with Harmonic-plus-Noise Source Excitation Generation**|Reo Yoneyama et.al.|[2205.06053v1](http://arxiv.org/abs/2205.06053v1)|null|
