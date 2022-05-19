@@ -1,4 +1,4 @@
-## Updated on 2022.05.18
+## Updated on 2022.05.19
 
 ## Image Generation
 
@@ -150,7 +150,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-05-17**|**Vision Transformer Adapter for Dense Predictions**|Zhe Chen et.al.|[2205.08534v1](http://arxiv.org/abs/2205.08534v1)|**[link](https://github.com/czczup/vit-adapter)**|
+|**2022-05-17**|**Vision Transformer Adapter for Dense Predictions**|Zhe Chen et.al.|[2205.08534v2](http://arxiv.org/abs/2205.08534v2)|**[link](https://github.com/czczup/vit-adapter)**|
 |**2022-05-17**|**HoVer-Trans: Anatomy-aware HoVer-Transformer for ROI-free Breast Cancer Diagnosis in Ultrasound Images**|Yuhao Mo et.al.|[2205.08390v1](http://arxiv.org/abs/2205.08390v1)|null|
 |**2022-05-17**|**Unraveling Attention via Convex Duality: Analysis and Interpretations of Vision Transformers**|Arda Sahiner et.al.|[2205.08078v1](http://arxiv.org/abs/2205.08078v1)|null|
 |**2022-05-14**|**Transformer Scale Gate for Semantic Segmentation**|Hengcan Shi et.al.|[2205.07056v1](http://arxiv.org/abs/2205.07056v1)|null|
@@ -455,7 +455,7 @@
 |**2022-04-26**|**Unified GCNs: Towards Connecting GCNs with CNNs**|Ziyan Zhang et.al.|[2204.12300v1](http://arxiv.org/abs/2204.12300v1)|null|
 |**2022-04-26**|**Context-Aware Sequence Alignment using 4D Skeletal Augmentation**|Taein Kwon et.al.|[2204.12223v1](http://arxiv.org/abs/2204.12223v1)|null|
 |**2022-04-25**|**PedRecNet: Multi-task deep neural network for full 3D human pose and orientation estimation**|Dennis Burgermeister et.al.|[2204.11548v1](http://arxiv.org/abs/2204.11548v1)|null|
-|**2022-04-22**|**Dite-HRNet: Dynamic Lightweight High-Resolution Network for Human Pose Estimation**|Qun Li et.al.|[2204.10762v1](http://arxiv.org/abs/2204.10762v1)|**[link](https://github.com/ziyizhang27/dite-hrnet)**|
+|**2022-04-22**|**Dite-HRNet: Dynamic Lightweight High-Resolution Network for Human Pose Estimation**|Qun Li et.al.|[2204.10762v2](http://arxiv.org/abs/2204.10762v2)|**[link](https://github.com/ziyizhang27/dite-hrnet)**|
 |**2022-04-21**|**BTranspose: Bottleneck Transformers for Human Pose Estimation with Self-Supervised Pre-Training**|Kaushik Balakrishnan et.al.|[2204.10209v1](http://arxiv.org/abs/2204.10209v1)|null|
 |**2022-04-20**|**FenceNet: Fine-grained Footwork Recognition in Fencing**|Kevin Zhu et.al.|[2204.09434v1](http://arxiv.org/abs/2204.09434v1)|null|
 |**2022-04-20**|**Visual-based Positioning and Pose Estimation**|Somnuk Phon-Amnuaisuk et.al.|[2204.09232v1](http://arxiv.org/abs/2204.09232v1)|null|
@@ -1041,7 +1041,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-05-16**|**Test-Time Adaptation with Shape Moments for Image Segmentation**|Mathilde Bateson et.al.|[2205.07983v1](http://arxiv.org/abs/2205.07983v1)|**[link](https://github.com/mathilde-b/tta)**|
-|**2022-05-05**|**Heterogeneous Domain Adaptation with Adversarial Neural Representation Learning: Experiments on E-Commerce and Cybersecurity**|Mohammadreza Ebrahimi et.al.|[2205.07853v1](http://arxiv.org/abs/2205.07853v1)|null|
+|**2022-05-05**|**Heterogeneous Domain Adaptation with Adversarial Neural Representation Learning: Experiments on E-Commerce and Cybersecurity**|Mohammadreza Ebrahimi et.al.|[2205.07853v1](http://arxiv.org/abs/2205.07853v1)|**[link](https://github.com/mohammadrezaebrahimi/handa)**|
 |**2022-05-15**|**Domain Adaptation in Multilingual and Multi-Domain Monolingual Settings for Complex Word Identification**|George-Eduard Zaharia et.al.|[2205.07283v1](http://arxiv.org/abs/2205.07283v1)|null|
 |**2022-05-13**|**Unsupervised Structure-Texture Separation Network for Oracle Character Recognition**|Mei Wang et.al.|[2205.06549v1](http://arxiv.org/abs/2205.06549v1)|**[link](https://github.com/wm-bupt/STSN)**|
 |**2022-05-12**|**FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue**|Alon Albalak et.al.|[2205.06262v1](http://arxiv.org/abs/2205.06262v1)|**[link](https://github.com/alon-albalak/tlidb)**|
@@ -1399,7 +1399,7 @@
 |**2022-05-16**|**Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization**|Luke Melas-Kyriazi et.al.|[2205.07839v1](http://arxiv.org/abs/2205.07839v1)|null|
 |**2022-05-16**|**FactPEGASUS: Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization**|David Wan et.al.|[2205.07830v1](http://arxiv.org/abs/2205.07830v1)|**[link](https://github.com/meetdavidwan/factpegasus)**|
 |**2022-05-16**|**Generalizing to New Tasks via One-Shot Compositional Subgoals**|Xihan Bian et.al.|[2205.07716v1](http://arxiv.org/abs/2205.07716v1)|null|
-|**2022-05-16**|**From Small Scales to Large Scales: Distance-to-Measure Density based Geometric Analysis of Complex Data**|Katharina Proksch et.al.|[2205.07689v1](http://arxiv.org/abs/2205.07689v1)|null|
+|**2022-05-16**|**From Small Scales to Large Scales: Distance-to-Measure Density based Geometric Analysis of Complex Data**|Katharina Proksch et.al.|[2205.07689v2](http://arxiv.org/abs/2205.07689v2)|null|
 |**2022-05-16**|**Heroes, Villains, and Victims, and GPT-3: Automated Extraction of Character Roles Without Training Data**|Dominik Stammbach et.al.|[2205.07557v2](http://arxiv.org/abs/2205.07557v2)|null|
 |**2022-05-16**|**TNN7: A Custom Macro Suite for Implementing Highly Optimized Designs of Neuromorphic TNNs**|Harideep Nair et.al.|[2205.07410v1](http://arxiv.org/abs/2205.07410v1)|null|
 |**2022-05-15**|**SeqZero: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models**|Jingfeng Yang et.al.|[2205.07381v1](http://arxiv.org/abs/2205.07381v1)|null|
