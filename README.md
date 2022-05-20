@@ -151,6 +151,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-19**|**A graph-transformer for whole slide image classification**|Yi Zheng et.al.|[2205.09671v1](http://arxiv.org/abs/2205.09671v1)|**[link](https://github.com/vkola-lab/tmi2022)**|
+|**2022-05-19**|**Masked Image Modeling with Denoising Contrast**|Kun Yi et.al.|[2205.09616v1](http://arxiv.org/abs/2205.09616v1)|null|
+|**2022-05-19**|**Integral Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection**|Xiaosong Zhang et.al.|[2205.09613v1](http://arxiv.org/abs/2205.09613v1)|null|
+|**2022-05-19**|**TRT-ViT: TensorRT-oriented Vision Transformer**|Xin Xia et.al.|[2205.09579v1](http://arxiv.org/abs/2205.09579v1)|null|
 |**2022-05-18**|**Masked Autoencoders As Spatiotemporal Learners**|Christoph Feichtenhofer et.al.|[2205.09113v1](http://arxiv.org/abs/2205.09113v1)|null|
 |**2022-05-18**|**BodyMap: Learning Full-Body Dense Correspondence Map**|Anastasia Ianina et.al.|[2205.09111v1](http://arxiv.org/abs/2205.09111v1)|null|
 |**2022-05-17**|**POViT: Vision Transformer for Multi-objective Design and Characterization of Nanophotonic Devices**|Xinyu Chen et.al.|[2205.09045v1](http://arxiv.org/abs/2205.09045v1)|null|
@@ -544,6 +548,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-19**|**Overcoming Language Disparity in Online Content Classification with Multimodal Learning**|Gaurav Verma et.al.|[2205.09744v1](http://arxiv.org/abs/2205.09744v1)|null|
+|**2022-05-19**|**Continuously-Tempered PDMP Samplers**|Matthew Sutton et.al.|[2205.09559v1](http://arxiv.org/abs/2205.09559v1)|null|
+|**2022-05-19**|**Training Vision-Language Transformers from Captions Alone**|Liangke Gui et.al.|[2205.09256v1](http://arxiv.org/abs/2205.09256v1)|null|
 |**2022-05-18**|**A Birds Eye View on Knowledge Graph Embeddings, Software Libraries, Applications and Challenges**|Satvik Garg et.al.|[2205.09088v1](http://arxiv.org/abs/2205.09088v1)|null|
 |**2022-05-17**|**Predicting failure characteristics of structural materials via deep learning based on nondestructive void topology**|Leslie Ching Ow Tiong et.al.|[2205.09075v1](http://arxiv.org/abs/2205.09075v1)|null|
 |**2022-05-18**|**Attention-based Multimodal Feature Representation Model for Micro-video Recommendation**|Mohan Hasama et.al.|[2205.08982v1](http://arxiv.org/abs/2205.08982v1)|null|
@@ -1049,6 +1056,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-19**|**Learning Feature Fusion for Unsupervised Domain Adaptive Person Re-identification**|Jin Ding et.al.|[2205.09495v1](http://arxiv.org/abs/2205.09495v1)|null|
 |**2022-05-16**|**Test-Time Adaptation with Shape Moments for Image Segmentation**|Mathilde Bateson et.al.|[2205.07983v1](http://arxiv.org/abs/2205.07983v1)|**[link](https://github.com/mathilde-b/tta)**|
 |**2022-05-05**|**Heterogeneous Domain Adaptation with Adversarial Neural Representation Learning: Experiments on E-Commerce and Cybersecurity**|Mohammadreza Ebrahimi et.al.|[2205.07853v1](http://arxiv.org/abs/2205.07853v1)|**[link](https://github.com/mohammadrezaebrahimi/handa)**|
 |**2022-05-15**|**Domain Adaptation in Multilingual and Multi-Domain Monolingual Settings for Complex Word Identification**|George-Eduard Zaharia et.al.|[2205.07283v1](http://arxiv.org/abs/2205.07283v1)|null|
@@ -1389,6 +1397,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-19**|**Foundation Posteriors for Approximate Probabilistic Inference**|Mike Wu et.al.|[2205.09735v1](http://arxiv.org/abs/2205.09735v1)|null|
+|**2022-05-19**|**Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning**|Antonia Creswell et.al.|[2205.09712v1](http://arxiv.org/abs/2205.09712v1)|null|
+|**2022-05-19**|**Detect Professional Malicious User with Metric Learning in Recommender Systems**|Yuanbo Xu et.al.|[2205.09673v1](http://arxiv.org/abs/2205.09673v1)|null|
+|**2022-05-19**|**Personalized Prompts for Sequential Recommendation**|Yiqing Wu et.al.|[2205.09666v1](http://arxiv.org/abs/2205.09666v1)|null|
+|**2022-05-19**|**Self-augmented Data Selection for Few-shot Dialogue Generation**|Wanyu Du et.al.|[2205.09661v1](http://arxiv.org/abs/2205.09661v1)|null|
+|**2022-05-19**|**Integral Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection**|Xiaosong Zhang et.al.|[2205.09613v1](http://arxiv.org/abs/2205.09613v1)|null|
+|**2022-05-19**|**Combining Deep Learning and Adaptive Sparse Modeling for Low-dose CT Reconstruction**|Ling Chen et.al.|[2205.09587v1](http://arxiv.org/abs/2205.09587v1)|null|
+|**2022-05-19**|**A Simple yet Effective Relation Information Guided Approach for Few-Shot Relation Extraction**|Yang Liu et.al.|[2205.09536v1](http://arxiv.org/abs/2205.09536v1)|**[link](https://github.com/lylylylylyly/simplefsre)**|
+|**2022-05-19**|**Learning Feature Fusion for Unsupervised Domain Adaptive Person Re-identification**|Jin Ding et.al.|[2205.09495v1](http://arxiv.org/abs/2205.09495v1)|null|
+|**2022-05-19**|**Smooth densities and generative modeling with unsupervised random forests**|David S. Watson et.al.|[2205.09435v1](http://arxiv.org/abs/2205.09435v1)|**[link](https://github.com/bips-hb/generative_rf)**|
+|**2022-05-19**|**Sonar Point Cloud Processing to Identify Sea Turtles by Pattern Analysis**|Dror Kipnis et.al.|[2205.09361v1](http://arxiv.org/abs/2205.09361v1)|null|
+|**2022-05-19**|**Cross-lingual Inflection as a Data Augmentation Method for Parsing**|Alberto Muñoz Ortiz et.al.|[2205.09350v1](http://arxiv.org/abs/2205.09350v1)|null|
+|**2022-05-19**|**Unsupervised classification of CIGALE galaxy spectra**|J Dubois et.al.|[2205.09344v1](http://arxiv.org/abs/2205.09344v1)|null|
+|**2022-05-19**|**Learning from Bootstrapping and Stepwise Reinforcement Reward: A Semi-Supervised Framework for Text Style Transfer**|Zhengyuan Liu et.al.|[2205.09324v1](http://arxiv.org/abs/2205.09324v1)|null|
+|**2022-05-19**|**Are Prompt-based Models Clueless?**|Pride Kavumba et.al.|[2205.09295v1](http://arxiv.org/abs/2205.09295v1)|null|
+|**2022-05-18**|**PromptDA: Label-guided Data Augmentation for Prompt-based Few Shot Learners**|Canyu Chen et.al.|[2205.09229v1](http://arxiv.org/abs/2205.09229v1)|null|
 |**2022-05-17**|**Unsupervised Features Ranking via Coalitional Game Theory for Categorical Data**|Chiara Balestra et.al.|[2205.09060v1](http://arxiv.org/abs/2205.09060v1)|**[link](https://github.com/chiarabales/unsupervised_sv)**|
 |**2022-05-18**|**Minimising Biasing Word Errors for Contextual ASR with the Tree-Constrained Pointer Generator**|Guangzhi Sun et.al.|[2205.09058v1](http://arxiv.org/abs/2205.09058v1)|null|
 |**2022-05-18**|**Deep Features for CBIR with Scarce Data using Hebbian Learning**|Gabriele Lagani et.al.|[2205.08935v1](http://arxiv.org/abs/2205.08935v1)|null|
@@ -2867,6 +2891,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-19**|**Mip-NeRF RGB-D: Depth Assisted Fast Neural Radiance Fields**|Arnab Dey et.al.|[2205.09351v1](http://arxiv.org/abs/2205.09351v1)|null|
 |**2022-05-18**|**Fast Neural Network based Solving of Partial Differential Equations**|Jaroslaw Rzepecki et.al.|[2205.08978v1](http://arxiv.org/abs/2205.08978v1)|null|
 |**2022-05-14**|**RTMV: A Ray-Traced Multi-View Synthetic Dataset for Novel View Synthesis**|Jonathan Tremblay et.al.|[2205.07058v1](http://arxiv.org/abs/2205.07058v1)|null|
 |**2022-05-12**|**Ray Priors through Reprojection: Improving Neural Radiance Fields for Novel View Extrapolation**|Jian Zhang et.al.|[2205.05922v1](http://arxiv.org/abs/2205.05922v1)|null|
@@ -2939,6 +2964,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-19**|**The TESS Grand Unified Hot Jupiter Survey. I. Ten TESS Planets**|Samuel W. Yee et.al.|[2205.09728v1](http://arxiv.org/abs/2205.09728v1)|null|
+|**2022-05-19**|**On the Gan-Gross-Prasad conjecture and its refinement for $\left(\mathrm{U}\left(2n\right),\mathrm{U}\left(1\right)\right)$**|Masaaki Furusawa et.al.|[2205.09471v1](http://arxiv.org/abs/2205.09471v1)|null|
+|**2022-05-18**|**Simulating Transient Noise Bursts in LIGO with gengli**|Melissa Lopez et.al.|[2205.09204v1](http://arxiv.org/abs/2205.09204v1)|null|
 |**2022-05-18**|**3D Segmentation Guided Style-based Generative Adversarial Networks for PET Synthesis**|Yang Zhou et.al.|[2205.08887v1](http://arxiv.org/abs/2205.08887v1)|null|
 |**2022-05-18**|**GeoPointGAN: Synthetic Spatial Data with Local Label Differential Privacy**|Teddy Cunningham et.al.|[2205.08886v1](http://arxiv.org/abs/2205.08886v1)|null|
 |**2022-05-18**|**Prospects for Detecting the Diffuse Supernova Neutrino Background with JUNO**|JUNO Collaboration et.al.|[2205.08830v1](http://arxiv.org/abs/2205.08830v1)|null|
