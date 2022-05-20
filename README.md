@@ -1,4 +1,4 @@
-## Updated on 2022.05.19
+## Updated on 2022.05.20
 
 ## Image Generation
 
@@ -167,7 +167,7 @@
 |**2022-05-09**|**HierAttn: Effectively Learn Representations from Stage Attention and Branch Attention for Skin Lesions Diagnosis**|Wei Dai et.al.|[2205.04326v3](http://arxiv.org/abs/2205.04326v3)|**[link](https://github.com/anthonyweidai/circle_extractor)**|
 |**2022-05-09**|**Row-wise Accelerator for Vision Transformer**|Hong-Yi Wang et.al.|[2205.03998v1](http://arxiv.org/abs/2205.03998v1)|null|
 |**2022-05-08**|**$α$NAS: Neural Architecture Search using Property Guided Synthesis**|Charles Jin et.al.|[2205.03960v1](http://arxiv.org/abs/2205.03960v1)|null|
-|**2022-05-08**|**ConvMAE: Masked Convolution Meets Masked Autoencoders**|Peng Gao et.al.|[2205.03892v1](http://arxiv.org/abs/2205.03892v1)|**[link](https://github.com/alpha-vl/convmae)**|
+|**2022-05-08**|**ConvMAE: Masked Convolution Meets Masked Autoencoders**|Peng Gao et.al.|[2205.03892v2](http://arxiv.org/abs/2205.03892v2)|**[link](https://github.com/alpha-vl/convmae)**|
 |**2022-05-08**|**Demo: Real-Time Semantic Communications with a Vision Transformer**|Hanju Yoo et.al.|[2205.03886v1](http://arxiv.org/abs/2205.03886v1)|null|
 |**2022-05-06**|**EdgeViTs: Competing Light-weight CNNs on Mobile Devices with Vision Transformers**|Junting Pan et.al.|[2205.03436v1](http://arxiv.org/abs/2205.03436v1)|null|
 |**2022-05-04**|**Sequencer: Deep LSTM for Image Classification**|Yuki Tatsunami et.al.|[2205.01972v2](http://arxiv.org/abs/2205.01972v2)|**[link](https://github.com/okojoalg/sequencer)**|
@@ -1060,7 +1060,7 @@
 |**2022-05-12**|**Bi-level Alignment for Cross-Domain Crowd Counting**|Shenjian Gong et.al.|[2205.05844v1](http://arxiv.org/abs/2205.05844v1)|**[link](https://github.com/yankeegsj/bla)**|
 |**2022-05-10**|**On Causality in Domain Adaptation and Semi-Supervised Learning: an Information-Theoretic Analysis**|Xuetong Wu et.al.|[2205.04641v1](http://arxiv.org/abs/2205.04641v1)|null|
 |**2022-05-09**|**Online Unsupervised Domain Adaptation for Person Re-identification**|Hamza Rami et.al.|[2205.04383v1](http://arxiv.org/abs/2205.04383v1)|null|
-|**2022-05-09**|**Local Prediction Aggregation: A Frustratingly Easy Source-free Domain Adaptation Method**|Shiqi Yang et.al.|[2205.04183v1](http://arxiv.org/abs/2205.04183v1)|**[link](https://github.com/albert0147/lpa_sfda)**|
+|**2022-05-09**|**Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation**|Shiqi Yang et.al.|[2205.04183v2](http://arxiv.org/abs/2205.04183v2)|**[link](https://github.com/albert0147/lpa_sfda)**|
 |**2022-05-09**|**Multi-level Consistency Learning for Semi-supervised Domain Adaptation**|Zizheng Yan et.al.|[2205.04066v1](http://arxiv.org/abs/2205.04066v1)|null|
 |**2022-05-08**|**Cross-lingual Adaptation for Recipe Retrieval with Mixup**|Bin Zhu et.al.|[2205.03891v1](http://arxiv.org/abs/2205.03891v1)|null|
 |**2022-05-08**|**One-Class Knowledge Distillation for Face Presentation Attack Detection**|Zhi Li et.al.|[2205.03792v1](http://arxiv.org/abs/2205.03792v1)|**[link](https://github.com/lizhi-ntu/OCKD-FacePAD)**|
