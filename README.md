@@ -151,6 +151,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-20**|**Self-supervised 3D anatomy segmentation using self-distilled masked image transformer (SMIT)**|Jue Jiang et.al.|[2205.10342v1](http://arxiv.org/abs/2205.10342v1)|null|
+|**2022-05-20**|**Learning to Count Anything: Reference-less Class-agnostic Counting with Weak Supervision**|Michael Hobley et.al.|[2205.10203v1](http://arxiv.org/abs/2205.10203v1)|null|
+|**2022-05-20**|**Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality**|Xiang Li et.al.|[2205.10063v1](http://arxiv.org/abs/2205.10063v1)|**[link](https://github.com/implus/um-mae)**|
+|**2022-05-20**|**Mask-guided Vision Transformer (MG-ViT) for Few-Shot Learning**|Yuzhong Chen et.al.|[2205.09995v1](http://arxiv.org/abs/2205.09995v1)|null|
 |**2022-05-19**|**A graph-transformer for whole slide image classification**|Yi Zheng et.al.|[2205.09671v1](http://arxiv.org/abs/2205.09671v1)|**[link](https://github.com/vkola-lab/tmi2022)**|
 |**2022-05-19**|**Masked Image Modeling with Denoising Contrast**|Kun Yi et.al.|[2205.09616v1](http://arxiv.org/abs/2205.09616v1)|null|
 |**2022-05-19**|**Integral Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection**|Xiaosong Zhang et.al.|[2205.09613v1](http://arxiv.org/abs/2205.09613v1)|null|
@@ -548,6 +552,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-20**|**Analysis of Co-Laughter Gesture Relationship on RGB videos in Dyadic Conversation Contex**|Hugo Bohy et.al.|[2205.10266v1](http://arxiv.org/abs/2205.10266v1)|null|
+|**2022-05-20**|**Visually-Augmented Language Modeling**|Weizhi Wang et.al.|[2205.10178v1](http://arxiv.org/abs/2205.10178v1)|null|
+|**2022-05-20**|**Contrastive Learning with Cross-Modal Knowledge Mining for Multimodal Human Activity Recognition**|Razvan Brinzea et.al.|[2205.10071v1](http://arxiv.org/abs/2205.10071v1)|null|
 |**2022-05-19**|**Overcoming Language Disparity in Online Content Classification with Multimodal Learning**|Gaurav Verma et.al.|[2205.09744v1](http://arxiv.org/abs/2205.09744v1)|**[link](https://github.com/srijankr/multimodality-language-disparity)**|
 |**2022-05-19**|**Continuously-Tempered PDMP Samplers**|Matthew Sutton et.al.|[2205.09559v1](http://arxiv.org/abs/2205.09559v1)|null|
 |**2022-05-19**|**Training Vision-Language Transformers from Captions Alone**|Liangke Gui et.al.|[2205.09256v1](http://arxiv.org/abs/2205.09256v1)|null|
@@ -1056,6 +1063,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-20**|**Explainable Supervised Domain Adaptation**|Vidhya Kamakshi et.al.|[2205.09943v1](http://arxiv.org/abs/2205.09943v1)|null|
+|**2022-05-19**|**MiDAS: Multi-integrated Domain Adaptive Supervision for Fake News Detection**|Abhijit Suprem et.al.|[2205.09817v1](http://arxiv.org/abs/2205.09817v1)|null|
 |**2022-05-19**|**Learning Feature Fusion for Unsupervised Domain Adaptive Person Re-identification**|Jin Ding et.al.|[2205.09495v1](http://arxiv.org/abs/2205.09495v1)|**[link](https://github.com/DJEddyking/LF2)**|
 |**2022-05-16**|**Test-Time Adaptation with Shape Moments for Image Segmentation**|Mathilde Bateson et.al.|[2205.07983v1](http://arxiv.org/abs/2205.07983v1)|**[link](https://github.com/mathilde-b/tta)**|
 |**2022-05-05**|**Heterogeneous Domain Adaptation with Adversarial Neural Representation Learning: Experiments on E-Commerce and Cybersecurity**|Mohammadreza Ebrahimi et.al.|[2205.07853v1](http://arxiv.org/abs/2205.07853v1)|**[link](https://github.com/mohammadrezaebrahimi/handa)**|
@@ -1397,6 +1406,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-20**|**Unsupervised Flow-Aligned Sequence-to-Sequence Learning for Video Restoration**|Jing Lin et.al.|[2205.10195v1](http://arxiv.org/abs/2205.10195v1)|**[link](https://github.com/linjing7/VR-Baseline)**|
+|**2022-05-20**|**On the Trade-off between Redundancy and Local Coherence in Summarization**|Ronald Cardenas et.al.|[2205.10192v1](http://arxiv.org/abs/2205.10192v1)|null|
+|**2022-05-20**|**Prototypical Calibration for Few-shot Learning of Language Models**|Zhixiong Han et.al.|[2205.10183v1](http://arxiv.org/abs/2205.10183v1)|null|
+|**2022-05-20**|**Visual Concepts Tokenization**|Tao Yang et.al.|[2205.10093v1](http://arxiv.org/abs/2205.10093v1)|null|
+|**2022-05-20**|**Understanding and Mitigating the Uncertainty in Zero-Shot Translation**|Wenxuan Wang et.al.|[2205.10068v1](http://arxiv.org/abs/2205.10068v1)|null|
+|**2022-05-20**|**Mask-guided Vision Transformer (MG-ViT) for Few-Shot Learning**|Yuzhong Chen et.al.|[2205.09995v1](http://arxiv.org/abs/2205.09995v1)|null|
+|**2022-05-20**|**Few-Shot Font Generation by Learning Fine-Grained Local Styles**|Licheng Tang et.al.|[2205.09965v1](http://arxiv.org/abs/2205.09965v1)|null|
+|**2022-05-20**|**Towards Explanation for Unsupervised Graph-Level Representation Learning**|Qinghua Zheng et.al.|[2205.09934v1](http://arxiv.org/abs/2205.09934v1)|null|
+|**2022-05-20**|**BayesPCN: A Continually Learnable Predictive Coding Associative Memory**|Jason Yoo et.al.|[2205.09930v1](http://arxiv.org/abs/2205.09930v1)|null|
+|**2022-05-20**|**Cross Reconstruction Transformer for Self-Supervised Time Series Representation Learning**|Wenrui Zhang et.al.|[2205.09928v1](http://arxiv.org/abs/2205.09928v1)|null|
+|**2022-05-19**|**Content-Context Factorized Representations for Automated Speech Recognition**|David M. Chan et.al.|[2205.09872v1](http://arxiv.org/abs/2205.09872v1)|null|
+|**2022-05-19**|**Confident Clustering via PCA Compression Ratio and Its Application to Single-cell RNA-seq Analysis**|Yingcong Li et.al.|[2205.09849v1](http://arxiv.org/abs/2205.09849v1)|null|
+|**2022-05-19**|**Learning Interface Conditions in Domain Decomposition Solvers**|Ali Taghibakhshi et.al.|[2205.09833v1](http://arxiv.org/abs/2205.09833v1)|**[link](https://github.com/compdyn/learning-oras)**|
+|**2022-05-19**|**Unsupervised Learning of Depth, Camera Pose and Optical Flow from Monocular Video**|Dipan Mandal et.al.|[2205.09821v1](http://arxiv.org/abs/2205.09821v1)|null|
+|**2022-05-19**|**Voice Activity Projection: Self-supervised Learning of Turn-taking Events**|Erik Ekstedt et.al.|[2205.09812v1](http://arxiv.org/abs/2205.09812v1)|null|
+|**2022-05-19**|**Towards a Holistic View on Argument Quality Prediction**|Michael Fromm et.al.|[2205.09803v1](http://arxiv.org/abs/2205.09803v1)|null|
+|**2022-05-19**|**End-to-End Zero-Shot Voice Style Transfer with Location-Variable Convolutions**|Wonjune Kang et.al.|[2205.09784v1](http://arxiv.org/abs/2205.09784v1)|null|
 |**2022-05-19**|**Foundation Posteriors for Approximate Probabilistic Inference**|Mike Wu et.al.|[2205.09735v1](http://arxiv.org/abs/2205.09735v1)|null|
 |**2022-05-19**|**Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning**|Antonia Creswell et.al.|[2205.09712v1](http://arxiv.org/abs/2205.09712v1)|null|
 |**2022-05-19**|**Detect Professional Malicious User with Metric Learning in Recommender Systems**|Yuanbo Xu et.al.|[2205.09673v1](http://arxiv.org/abs/2205.09673v1)|null|
@@ -2964,6 +2990,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-20**|**Revisiting GANs by Best-Response Constraint: Perspective, Methodology, and Application**|Risheng Liu et.al.|[2205.10146v1](http://arxiv.org/abs/2205.10146v1)|null|
+|**2022-05-19**|**Transformer with Memory Replay**|Rui Liu et.al.|[2205.09869v1](http://arxiv.org/abs/2205.09869v1)|null|
+|**2022-05-19**|**Generation of Artificial CT Images using Patch-based Conditional Generative Adversarial Networks**|Marija Habijan et.al.|[2205.09842v1](http://arxiv.org/abs/2205.09842v1)|**[link](https://github.com/mhabijan/medical_images_generation)**|
+|**2022-05-19**|**Why GANs are overkill for NLP**|David Alvarez-Melis et.al.|[2205.09838v1](http://arxiv.org/abs/2205.09838v1)|null|
 |**2022-05-19**|**The TESS Grand Unified Hot Jupiter Survey. I. Ten TESS Planets**|Samuel W. Yee et.al.|[2205.09728v1](http://arxiv.org/abs/2205.09728v1)|null|
 |**2022-05-19**|**On the Gan-Gross-Prasad conjecture and its refinement for $\left(\mathrm{U}\left(2n\right),\mathrm{U}\left(1\right)\right)$**|Masaaki Furusawa et.al.|[2205.09471v1](http://arxiv.org/abs/2205.09471v1)|null|
 |**2022-05-18**|**Simulating Transient Noise Bursts in LIGO with gengli**|Melissa Lopez et.al.|[2205.09204v1](http://arxiv.org/abs/2205.09204v1)|null|
