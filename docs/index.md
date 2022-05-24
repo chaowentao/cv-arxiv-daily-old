@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.05.23
+## Updated on 2022.05.24
 
 ## SLAM
 
@@ -310,7 +310,7 @@ layout: default
 |**2022-05-19**|**A graph-transformer for whole slide image classification**|Yi Zheng et.al.|[2205.09671v1](http://arxiv.org/abs/2205.09671v1)|**[link](https://github.com/vkola-lab/tmi2022)**|
 |**2022-05-19**|**Masked Image Modeling with Denoising Contrast**|Kun Yi et.al.|[2205.09616v1](http://arxiv.org/abs/2205.09616v1)|null|
 |**2022-05-19**|**Integral Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection**|Xiaosong Zhang et.al.|[2205.09613v1](http://arxiv.org/abs/2205.09613v1)|null|
-|**2022-05-19**|**TRT-ViT: TensorRT-oriented Vision Transformer**|Xin Xia et.al.|[2205.09579v1](http://arxiv.org/abs/2205.09579v1)|null|
+|**2022-05-19**|**TRT-ViT: TensorRT-oriented Vision Transformer**|Xin Xia et.al.|[2205.09579v2](http://arxiv.org/abs/2205.09579v2)|null|
 |**2022-05-18**|**Masked Autoencoders As Spatiotemporal Learners**|Christoph Feichtenhofer et.al.|[2205.09113v1](http://arxiv.org/abs/2205.09113v1)|null|
 |**2022-05-18**|**BodyMap: Learning Full-Body Dense Correspondence Map**|Anastasia Ianina et.al.|[2205.09111v1](http://arxiv.org/abs/2205.09111v1)|null|
 |**2022-05-17**|**POViT: Vision Transformer for Multi-objective Design and Characterization of Nanophotonic Devices**|Xinyu Chen et.al.|[2205.09045v1](http://arxiv.org/abs/2205.09045v1)|null|
@@ -1564,7 +1564,7 @@ layout: default
 |**2022-05-20**|**Visual Concepts Tokenization**|Tao Yang et.al.|[2205.10093v1](http://arxiv.org/abs/2205.10093v1)|null|
 |**2022-05-20**|**Understanding and Mitigating the Uncertainty in Zero-Shot Translation**|Wenxuan Wang et.al.|[2205.10068v1](http://arxiv.org/abs/2205.10068v1)|null|
 |**2022-05-20**|**Mask-guided Vision Transformer (MG-ViT) for Few-Shot Learning**|Yuzhong Chen et.al.|[2205.09995v1](http://arxiv.org/abs/2205.09995v1)|null|
-|**2022-05-20**|**Few-Shot Font Generation by Learning Fine-Grained Local Styles**|Licheng Tang et.al.|[2205.09965v1](http://arxiv.org/abs/2205.09965v1)|null|
+|**2022-05-20**|**Few-Shot Font Generation by Learning Fine-Grained Local Styles**|Licheng Tang et.al.|[2205.09965v2](http://arxiv.org/abs/2205.09965v2)|null|
 |**2022-05-20**|**Towards Explanation for Unsupervised Graph-Level Representation Learning**|Qinghua Zheng et.al.|[2205.09934v1](http://arxiv.org/abs/2205.09934v1)|null|
 |**2022-05-20**|**BayesPCN: A Continually Learnable Predictive Coding Associative Memory**|Jason Yoo et.al.|[2205.09930v1](http://arxiv.org/abs/2205.09930v1)|null|
 |**2022-05-20**|**Cross Reconstruction Transformer for Self-Supervised Time Series Representation Learning**|Wenrui Zhang et.al.|[2205.09928v1](http://arxiv.org/abs/2205.09928v1)|null|
