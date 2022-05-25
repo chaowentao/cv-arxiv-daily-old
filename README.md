@@ -1,4 +1,4 @@
-## Updated on 2022.05.24
+## Updated on 2022.05.25
 
 ## Image Generation
 
@@ -471,11 +471,11 @@
 |**2022-04-29**|**A Simple Method to Boost Human Pose Estimation Accuracy by Correcting the Joint Regressor for the Human3.6m Dataset**|Eric Hedlin et.al.|[2205.00076v1](http://arxiv.org/abs/2205.00076v1)|**[link](https://github.com/ubc-vision/joint-regressor-refinement)**|
 |**2022-04-28**|**Polarimetric imaging for the detection of synthetic models of SARS-CoV-2: a proof of concept**|Emilio Gomez-Gonzalez et.al.|[2204.14050v1](http://arxiv.org/abs/2204.14050v1)|null|
 |**2022-04-28**|**GRIT: General Robust Image Task Benchmark**|Tanmay Gupta et.al.|[2204.13653v2](http://arxiv.org/abs/2204.13653v2)|**[link](https://github.com/allenai/grit_official)**|
-|**2022-04-26**|**ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**|Yufei Xu et.al.|[2204.12484v1](http://arxiv.org/abs/2204.12484v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
+|**2022-04-26**|**ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**|Yufei Xu et.al.|[2204.12484v2](http://arxiv.org/abs/2204.12484v2)|**[link](https://github.com/vitae-transformer/vitpose)**|
 |**2022-04-26**|**Unified GCNs: Towards Connecting GCNs with CNNs**|Ziyan Zhang et.al.|[2204.12300v1](http://arxiv.org/abs/2204.12300v1)|null|
 |**2022-04-26**|**Context-Aware Sequence Alignment using 4D Skeletal Augmentation**|Taein Kwon et.al.|[2204.12223v1](http://arxiv.org/abs/2204.12223v1)|null|
 |**2022-04-25**|**PedRecNet: Multi-task deep neural network for full 3D human pose and orientation estimation**|Dennis Burgermeister et.al.|[2204.11548v1](http://arxiv.org/abs/2204.11548v1)|null|
-|**2022-04-22**|**Dite-HRNet: Dynamic Lightweight High-Resolution Network for Human Pose Estimation**|Qun Li et.al.|[2204.10762v2](http://arxiv.org/abs/2204.10762v2)|**[link](https://github.com/ziyizhang27/dite-hrnet)**|
+|**2022-04-22**|**Dite-HRNet: Dynamic Lightweight High-Resolution Network for Human Pose Estimation**|Qun Li et.al.|[2204.10762v3](http://arxiv.org/abs/2204.10762v3)|**[link](https://github.com/ziyizhang27/dite-hrnet)**|
 |**2022-04-21**|**BTranspose: Bottleneck Transformers for Human Pose Estimation with Self-Supervised Pre-Training**|Kaushik Balakrishnan et.al.|[2204.10209v1](http://arxiv.org/abs/2204.10209v1)|null|
 |**2022-04-20**|**FenceNet: Fine-grained Footwork Recognition in Fencing**|Kevin Zhu et.al.|[2204.09434v1](http://arxiv.org/abs/2204.09434v1)|null|
 |**2022-04-20**|**Visual-based Positioning and Pose Estimation**|Somnuk Phon-Amnuaisuk et.al.|[2204.09232v1](http://arxiv.org/abs/2204.09232v1)|null|
@@ -570,7 +570,7 @@
 |**2022-05-20**|**Learning Dense Reward with Temporal Variant Self-Supervision**|Yuning Wu et.al.|[2205.10431v1](http://arxiv.org/abs/2205.10431v1)|null|
 |**2022-05-20**|**On-chip Optical Phase Monitoring in Multi-Transverse-Mode Integrated Silicon-based Optical Processors**|Kaveh Rahbardar Mojaver et.al.|[2205.10414v1](http://arxiv.org/abs/2205.10414v1)|null|
 |**2022-05-20**|**Analysis of Co-Laughter Gesture Relationship on RGB videos in Dyadic Conversation Contex**|Hugo Bohy et.al.|[2205.10266v1](http://arxiv.org/abs/2205.10266v1)|null|
-|**2022-05-20**|**Visually-Augmented Language Modeling**|Weizhi Wang et.al.|[2205.10178v1](http://arxiv.org/abs/2205.10178v1)|null|
+|**2022-05-20**|**Visually-Augmented Language Modeling**|Weizhi Wang et.al.|[2205.10178v1](http://arxiv.org/abs/2205.10178v1)|**[link](https://github.com/victorwz/valm)**|
 |**2022-05-20**|**Contrastive Learning with Cross-Modal Knowledge Mining for Multimodal Human Activity Recognition**|Razvan Brinzea et.al.|[2205.10071v1](http://arxiv.org/abs/2205.10071v1)|null|
 |**2022-05-19**|**Overcoming Language Disparity in Online Content Classification with Multimodal Learning**|Gaurav Verma et.al.|[2205.09744v1](http://arxiv.org/abs/2205.09744v1)|**[link](https://github.com/srijankr/multimodality-language-disparity)**|
 |**2022-05-19**|**Continuously-Tempered PDMP Samplers**|Matthew Sutton et.al.|[2205.09559v1](http://arxiv.org/abs/2205.09559v1)|null|
@@ -1089,7 +1089,7 @@
 |**2022-05-22**|**A Domain-adaptive Pre-training Approach for Language Bias Detection in News**|Jan-David Krieger et.al.|[2205.10773v1](http://arxiv.org/abs/2205.10773v1)|**[link](https://github.com/media-bias-group/a-domain-adaptive-pre-training-approach-for-language-biasdetection-in-news)**|
 |**2022-05-22**|**OTAdapt: Optimal Transport-based Approach For Unsupervised Domain Adaptation**|Thanh-Dat Truong et.al.|[2205.10738v1](http://arxiv.org/abs/2205.10738v1)|null|
 |**2022-05-22**|**Active Source Free Domain Adaptation**|Fan Wang et.al.|[2205.10711v1](http://arxiv.org/abs/2205.10711v1)|null|
-|**2022-05-20**|**Explainable Supervised Domain Adaptation**|Vidhya Kamakshi et.al.|[2205.09943v1](http://arxiv.org/abs/2205.09943v1)|null|
+|**2022-05-20**|**Explainable Supervised Domain Adaptation**|Vidhya Kamakshi et.al.|[2205.09943v2](http://arxiv.org/abs/2205.09943v2)|null|
 |**2022-05-19**|**MiDAS: Multi-integrated Domain Adaptive Supervision for Fake News Detection**|Abhijit Suprem et.al.|[2205.09817v1](http://arxiv.org/abs/2205.09817v1)|null|
 |**2022-05-19**|**Learning Feature Fusion for Unsupervised Domain Adaptive Person Re-identification**|Jin Ding et.al.|[2205.09495v1](http://arxiv.org/abs/2205.09495v1)|**[link](https://github.com/DJEddyking/LF2)**|
 |**2022-05-16**|**Test-Time Adaptation with Shape Moments for Image Segmentation**|Mathilde Bateson et.al.|[2205.07983v1](http://arxiv.org/abs/2205.07983v1)|**[link](https://github.com/mathilde-b/tta)**|
@@ -1441,11 +1441,11 @@
 |**2022-05-23**|**Enhanced Prototypical Learning for Unsupervised Domain Adaptation in LiDAR Semantic Segmentation**|Eojindl Yi et.al.|[2205.11419v1](http://arxiv.org/abs/2205.11419v1)|null|
 |**2022-05-23**|**The Importance of Being Parameters: An Intra-Distillation Method for Serious Gains**|Haoran Xu et.al.|[2205.11416v1](http://arxiv.org/abs/2205.11416v1)|**[link](https://github.com/fe1ixxu/intra-distillation)**|
 |**2022-05-23**|**Many-Class Text Classification with Matching**|Yi Song et.al.|[2205.11409v1](http://arxiv.org/abs/2205.11409v1)|null|
-|**2022-05-23**|**Learning Long-Horizon Robot Exploration Strategies for Multi-Object Search in Continuous Action Spaces**|F. Schmalstieg et.al.|[2205.11384v1](http://arxiv.org/abs/2205.11384v1)|null|
+|**2022-05-23**|**Learning Long-Horizon Robot Exploration Strategies for Multi-Object Search in Continuous Action Spaces**|Fabian Schmalstieg et.al.|[2205.11384v2](http://arxiv.org/abs/2205.11384v2)|null|
 |**2022-05-23**|**Looking for a Handsome Carpenter! Debiasing GPT-3 Job Advertisements**|Conrad Borchers et.al.|[2205.11374v1](http://arxiv.org/abs/2205.11374v1)|**[link](https://github.com/oxai/gpt3-jobadvert-bias)**|
 |**2022-05-23**|**POLTER: Policy Trajectory Ensemble Regularization for Unsupervised Reinforcement Learning**|Frederik Schubert et.al.|[2205.11357v1](http://arxiv.org/abs/2205.11357v1)|null|
 |**2022-05-23**|**Sample Efficient Approaches for Idiomaticity Detection**|Dylan Phelps et.al.|[2205.11306v1](http://arxiv.org/abs/2205.11306v1)|null|
-|**2022-05-23**|**Memory-enriched computation and learning in spiking neural networks through Hebbian plasticity**|Thomas Limbacher et.al.|[2205.11276v1](http://arxiv.org/abs/2205.11276v1)|null|
+|**2022-05-23**|**Memory-enriched computation and learning in spiking neural networks through Hebbian plasticity**|Thomas Limbacher et.al.|[2205.11276v1](http://arxiv.org/abs/2205.11276v1)|**[link](https://github.com/igitugraz/memorydependentcomputation)**|
 |**2022-05-23**|**BBTv2: Pure Black-Box Optimization Can Be Comparable to Gradient Descent for Few-Shot Learning**|Tianxiang Sun et.al.|[2205.11200v1](http://arxiv.org/abs/2205.11200v1)|**[link](https://github.com/txsun1997/black-box-tuning)**|
 |**2022-05-23**|**RuNNE-2022 Shared Task: Recognizing Nested Named Entities**|Ekaterina Artemova et.al.|[2205.11159v1](http://arxiv.org/abs/2205.11159v1)|**[link](https://github.com/dialogue-evaluation/runne)**|
 |**2022-05-23**|**OPQ: Compressing Deep Neural Networks with One-shot Pruning-Quantization**|Peng Hu et.al.|[2205.11141v1](http://arxiv.org/abs/2205.11141v1)|null|
