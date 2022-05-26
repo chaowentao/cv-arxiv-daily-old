@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.05.25
+## Updated on 2022.05.26
 
 ## SLAM
 
@@ -1252,8 +1252,8 @@ layout: default
 |**2022-05-23**|**Domain Adaptation for Memory-Efficient Dense Retrieval**|Nandan Thakur et.al.|[2205.11498v1](http://arxiv.org/abs/2205.11498v1)|null|
 |**2022-05-23**|**Local Byte Fusion for Neural Machine Translation**|Makesh Narsimhan Sreedhar et.al.|[2205.11490v1](http://arxiv.org/abs/2205.11490v1)|null|
 |**2022-05-23**|**Enhanced Prototypical Learning for Unsupervised Domain Adaptation in LiDAR Semantic Segmentation**|Eojindl Yi et.al.|[2205.11419v1](http://arxiv.org/abs/2205.11419v1)|null|
-|**2022-05-23**|**Non-Parametric Domain Adaptation for End-to-End Speech Translation**|Yichao Du et.al.|[2205.11211v1](http://arxiv.org/abs/2205.11211v1)|null|
-|**2022-05-23**|**Active Domain Adaptation with Multi-level Contrastive Units for Semantic Segmentation**|Hao Zhang et.al.|[2205.11192v1](http://arxiv.org/abs/2205.11192v1)|null|
+|**2022-05-23**|**Non-Parametric Domain Adaptation for End-to-End Speech Translation**|Yichao Du et.al.|[2205.11211v2](http://arxiv.org/abs/2205.11211v2)|null|
+|**2022-05-23**|**Active Domain Adaptation with Multi-level Contrastive Units for Semantic Segmentation**|Hao Zhang et.al.|[2205.11192v2](http://arxiv.org/abs/2205.11192v2)|null|
 |**2022-05-23**|**KRNet: Towards Efficient Knowledge Replay**|Yingying Zhang et.al.|[2205.11126v1](http://arxiv.org/abs/2205.11126v1)|null|
 |**2022-05-22**|**A Domain-adaptive Pre-training Approach for Language Bias Detection in News**|Jan-David Krieger et.al.|[2205.10773v1](http://arxiv.org/abs/2205.10773v1)|**[link](https://github.com/media-bias-group/a-domain-adaptive-pre-training-approach-for-language-biasdetection-in-news)**|
 |**2022-05-22**|**OTAdapt: Optimal Transport-based Approach For Unsupervised Domain Adaptation**|Thanh-Dat Truong et.al.|[2205.10738v1](http://arxiv.org/abs/2205.10738v1)|null|
@@ -1610,12 +1610,12 @@ layout: default
 |**2022-05-24**|**Flexible Bayesian Support Vector Machines for Brain Network-based Classification**|Jin Ming et.al.|[2205.12143v1](http://arxiv.org/abs/2205.12143v1)|null|
 |**2022-05-24**|**DNNAbacus: Toward Accurate Computational Cost Prediction for Deep Neural Networks**|Lu Bai et.al.|[2205.12095v1](http://arxiv.org/abs/2205.12095v1)|null|
 |**2022-05-24**|**GraphQ IR: Unifying Semantic Parsing of Graph Query Language with Intermediate Representation**|Lunyiu Nie et.al.|[2205.12078v1](http://arxiv.org/abs/2205.12078v1)|null|
-|**2022-05-24**|**PatchNR: Learning from Small Data by Patch Normalizing Flow Regularization**|Fabian Altekrüger et.al.|[2205.12021v1](http://arxiv.org/abs/2205.12021v1)|null|
+|**2022-05-24**|**PatchNR: Learning from Small Data by Patch Normalizing Flow Regularization**|Fabian Altekrüger et.al.|[2205.12021v1](http://arxiv.org/abs/2205.12021v1)|**[link](https://github.com/fabianaltekrueger/patchnr)**|
 |**2022-05-24**|**Naive Few-Shot Learning: Sequence Consistency Evaluation**|Tomer Barak et.al.|[2205.12013v1](http://arxiv.org/abs/2205.12013v1)|**[link](https://github.com/tomer-barak/naive-few-shot-learning)**|
-|**2022-05-24**|**mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections**|Chenliang Li et.al.|[2205.12005v1](http://arxiv.org/abs/2205.12005v1)|null|
+|**2022-05-24**|**mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections**|Chenliang Li et.al.|[2205.12005v2](http://arxiv.org/abs/2205.12005v2)|null|
 |**2022-05-24**|**GMM-based Codebook Construction and Feedback Encoding in FDD Systems**|Nurettin Turan et.al.|[2205.12002v1](http://arxiv.org/abs/2205.12002v1)|null|
 |**2022-05-24**|**Word-order typology in Multilingual BERT: A case study in subordinate-clause detection**|Dmitry Nikolaev et.al.|[2205.11987v1](http://arxiv.org/abs/2205.11987v1)|null|
-|**2022-05-24**|**Diffuse Map Guiding Unsupervised Generative Adversarial Network for SVBRDF Estimation**|Zhiyao Luo et.al.|[2205.11951v1](http://arxiv.org/abs/2205.11951v1)|null|
+|**2022-05-24**|**Diffuse Map Guiding Unsupervised Generative Adversarial Network for SVBRDF Estimation**|Zhiyao Luo et.al.|[2205.11951v2](http://arxiv.org/abs/2205.11951v2)|null|
 |**2022-05-24**|**Large Language Models are Zero-Shot Reasoners**|Takeshi Kojima et.al.|[2205.11916v1](http://arxiv.org/abs/2205.11916v1)|**[link](https://github.com/kojima-takeshi188/zero_shot_cot)**|
 |**2022-05-24**|**Mind The Gap: Alleviating Local Imbalance for Unsupervised Cross-Modality Medical Image Segmentation**|Zixian Su et.al.|[2205.11888v1](http://arxiv.org/abs/2205.11888v1)|null|
 |**2022-05-24**|**Unsupervised Misaligned Infrared and Visible Image Fusion via Cross-Modality Image Generation and Registration**|Di Wang et.al.|[2205.11876v1](http://arxiv.org/abs/2205.11876v1)|**[link](https://github.com/wdhudiekou/umf-cmgr)**|
@@ -3152,7 +3152,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-05-24**|**StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning**|Yi-Hua Huang et.al.|[2205.12183v1](http://arxiv.org/abs/2205.12183v1)|null|
+|**2022-05-24**|**StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning**|Yi-Hua Huang et.al.|[2205.12183v2](http://arxiv.org/abs/2205.12183v2)|null|
 |**2022-05-19**|**Mip-NeRF RGB-D: Depth Assisted Fast Neural Radiance Fields**|Arnab Dey et.al.|[2205.09351v1](http://arxiv.org/abs/2205.09351v1)|null|
 |**2022-05-18**|**Fast Neural Network based Solving of Partial Differential Equations**|Jaroslaw Rzepecki et.al.|[2205.08978v1](http://arxiv.org/abs/2205.08978v1)|null|
 |**2022-05-14**|**RTMV: A Ray-Traced Multi-View Synthetic Dataset for Novel View Synthesis**|Jonathan Tremblay et.al.|[2205.07058v1](http://arxiv.org/abs/2205.07058v1)|null|
@@ -3230,7 +3230,7 @@ layout: default
 |**2022-05-24**|**Optimizing Performance of Federated Person Re-identification: Benchmarking and Analysis**|Weiming Zhuang et.al.|[2205.12144v1](http://arxiv.org/abs/2205.12144v1)|null|
 |**2022-05-24**|**Improving Human Image Synthesis with Residual Fast Fourier Transformation and Wasserstein Distance**|Jianhan Wu et.al.|[2205.12022v1](http://arxiv.org/abs/2205.12022v1)|null|
 |**2022-05-24**|**Highly Accurate FMRI ADHD Classification using time distributed multi modal 3D CNNs**|Christopher Sims et.al.|[2205.11993v1](http://arxiv.org/abs/2205.11993v1)|**[link](https://github.com/christophersims/fmri_adhd_classification)**|
-|**2022-05-24**|**Diffuse Map Guiding Unsupervised Generative Adversarial Network for SVBRDF Estimation**|Zhiyao Luo et.al.|[2205.11951v1](http://arxiv.org/abs/2205.11951v1)|null|
+|**2022-05-24**|**Diffuse Map Guiding Unsupervised Generative Adversarial Network for SVBRDF Estimation**|Zhiyao Luo et.al.|[2205.11951v2](http://arxiv.org/abs/2205.11951v2)|null|
 |**2022-05-24**|**Real-Time Trajectory Planning for Autonomous Driving with Gaussian Process and Incremental Refinement**|Cheng Jie et.al.|[2205.11853v1](http://arxiv.org/abs/2205.11853v1)|null|
 |**2022-05-24**|**RCC-GAN: Regularized Compound Conditional GAN for Large-Scale Tabular Data Synthesis**|Mohammad Esmaeilpour et.al.|[2205.11693v1](http://arxiv.org/abs/2205.11693v1)|null|
 |**2022-05-23**|**GR-GAN: Gradual Refinement Text-to-image Generation**|Bo Yang et.al.|[2205.11273v1](http://arxiv.org/abs/2205.11273v1)|null|
