@@ -54,6 +54,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-26**|**Light Field Raindrop Removal via 4D Re-sampling**|Dong Jing et.al.|[2205.13165v1](http://arxiv.org/abs/2205.13165v1)|null|
 |**2022-05-25**|**On the helicity conservation for Mie optical cavities**|Jorge Olmos-Trigo et.al.|[2205.12813v1](http://arxiv.org/abs/2205.12813v1)|null|
 |**2022-05-25**|**On-demand multimode optical storage in a laser-written on-chip waveguide**|Ming-Xu Su et.al.|[2205.12762v1](http://arxiv.org/abs/2205.12762v1)|null|
 |**2022-05-24**|**Light-wave coherent control of the insulator-to-metal transition in a strongly correlated material**|Eduardo B. Molinero et.al.|[2205.11896v1](http://arxiv.org/abs/2205.11896v1)|null|
@@ -157,6 +158,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-26**|**Revealing the Dark Secrets of Masked Image Modeling**|Zhenda Xie et.al.|[2205.13543v1](http://arxiv.org/abs/2205.13543v1)|null|
+|**2022-05-26**|**AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition**|Shoufa Chen et.al.|[2205.13535v1](http://arxiv.org/abs/2205.13535v1)|null|
+|**2022-05-26**|**Green Hierarchical Vision Transformer for Masked Image Modeling**|Lang Huang et.al.|[2205.13515v1](http://arxiv.org/abs/2205.13515v1)|**[link](https://github.com/layneh/greenmim)**|
+|**2022-05-26**|**VIDI: A Video Dataset of Incidents**|Duygu Sesver et.al.|[2205.13277v1](http://arxiv.org/abs/2205.13277v1)|**[link](https://github.com/vididataset/vidi)**|
+|**2022-05-26**|**Fast Vision Transformers with HiLo Attention**|Zizheng Pan et.al.|[2205.13213v1](http://arxiv.org/abs/2205.13213v1)|**[link](https://github.com/zip-group/litv2)**|
+|**2022-05-26**|**MixMIM: Mixed and Masked Image Modeling for Efficient Visual Representation Learning**|Jihao Liu et.al.|[2205.13137v1](http://arxiv.org/abs/2205.13137v1)|null|
 |**2022-05-25**|**MoCoViT: Mobile Convolutional Vision Transformer**|Hailong Ma et.al.|[2205.12635v2](http://arxiv.org/abs/2205.12635v2)|null|
 |**2022-05-25**|**Breaking the Chain of Gradient Leakage in Vision Transformers**|Yahui Liu et.al.|[2205.12551v1](http://arxiv.org/abs/2205.12551v1)|null|
 |**2022-05-25**|**Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning**|Chong Ma et.al.|[2205.12466v1](http://arxiv.org/abs/2205.12466v1)|null|
@@ -568,6 +575,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-26**|**Semantic Parsing of Interpage Relations**|Mehmet Arif Demirtaş et.al.|[2205.13530v1](http://arxiv.org/abs/2205.13530v1)|null|
+|**2022-05-25**|**Mutual Information Divergence: A Unified Metric for Multimodal Generative Models**|Jin-Hwa Kim et.al.|[2205.13445v1](http://arxiv.org/abs/2205.13445v1)|null|
+|**2022-05-26**|**Multimode optical fiber beam-by-beam cleanup**|Mario Ferraro et.al.|[2205.13385v1](http://arxiv.org/abs/2205.13385v1)|null|
+|**2022-05-26**|**Social Interpretable Tree for Pedestrian Trajectory Prediction**|Liushuai Shi et.al.|[2205.13296v1](http://arxiv.org/abs/2205.13296v1)|null|
+|**2022-05-26**|**Triangular Contrastive Learning on Molecular Graphs**|MinGyu Choi et.al.|[2205.13279v1](http://arxiv.org/abs/2205.13279v1)|null|
+|**2022-05-26**|**Evaluating Multimodal Interactive Agents**|Josh Abramson et.al.|[2205.13274v1](http://arxiv.org/abs/2205.13274v1)|null|
+|**2022-05-26**|**Fine-grained Image Captioning with CLIP Reward**|Jaemin Cho et.al.|[2205.13115v1](http://arxiv.org/abs/2205.13115v1)|**[link](https://github.com/j-min/clip-caption-reward)**|
 |**2022-05-25**|**On-demand multimode optical storage in a laser-written on-chip waveguide**|Ming-Xu Su et.al.|[2205.12762v1](http://arxiv.org/abs/2205.12762v1)|null|
 |**2022-05-25**|**Probabilistic model-error assessment of deep learning proxies: an application to real-time inversion of borehole electromagnetic measurements**|Muzammil Hussain Rammay et.al.|[2205.12684v1](http://arxiv.org/abs/2205.12684v1)|null|
 |**2022-05-25**|**Multimodal Knowledge Alignment with Reinforcement Learning**|Youngjae Yu et.al.|[2205.12630v1](http://arxiv.org/abs/2205.12630v1)|null|
@@ -1106,6 +1120,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-26**|**Pick up the PACE: Fast and Simple Domain Adaptation via Ensemble Pseudo-Labeling**|Christopher Liao et.al.|[2205.13508v1](http://arxiv.org/abs/2205.13508v1)|**[link](https://github.com/chris210634/pace-domain-adaptation)**|
+|**2022-05-26**|**Unsupervised Reinforcement Adaptation for Class-Imbalanced Text Classification**|Yuexin Wu et.al.|[2205.13139v1](http://arxiv.org/abs/2205.13139v1)|**[link](https://github.com/woqingdoua/imbalanceclass)**|
+|**2022-05-25**|**Semi-supervised Drifted Stream Learning with Short Lookback**|Weijieying Ren et.al.|[2205.13066v1](http://arxiv.org/abs/2205.13066v1)|null|
 |**2022-05-25**|**Domain Adaptation for Object Detection using SE Adaptors and Center Loss**|Sushruth Nagesh et.al.|[2205.12923v1](http://arxiv.org/abs/2205.12923v1)|**[link](https://github.com/shreyasrajesh/DA-Object-Detection)**|
 |**2022-05-24**|**DistillAdapt: Source-Free Active Visual Domain Adaptation**|Divya Kothandaraman et.al.|[2205.12840v1](http://arxiv.org/abs/2205.12840v1)|null|
 |**2022-05-25**|**Factorizing Content and Budget Decisions in Abstractive Summarization of Long Documents by Sampling Summary Views**|Marcio Fonseca et.al.|[2205.12486v1](http://arxiv.org/abs/2205.12486v1)|null|
@@ -1469,6 +1486,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-26**|**2D versus 3D Convolutional Spiking Neural Networks Trained with Unsupervised STDP for Human Action Recognition**|Mireille El-Assal et.al.|[2205.13474v1](http://arxiv.org/abs/2205.13474v1)|null|
+|**2022-05-26**|**AntiBenford Subgraphs: Unsupervised Anomaly Detection in Financial Networks**|Tianyi Chen et.al.|[2205.13426v1](http://arxiv.org/abs/2205.13426v1)|**[link](https://github.com/tsourakakis-lab/antibenford-subgraphs)**|
+|**2022-05-26**|**One-Shot Face Reenactment on Megapixels**|Wonjun Kang et.al.|[2205.13368v1](http://arxiv.org/abs/2205.13368v1)|null|
+|**2022-05-26**|**Learning What and Where -- Unsupervised Disentangling Location and Identity Tracking**|Manuel Traub et.al.|[2205.13349v1](http://arxiv.org/abs/2205.13349v1)|null|
+|**2022-05-26**|**Unsupervised Multi-object Segmentation Using Attention and Soft-argmax**|Bruno Sauvalle et.al.|[2205.13271v1](http://arxiv.org/abs/2205.13271v1)|null|
+|**2022-05-26**|**Collaborative Distillation Meta Learning for Simulation Intensive Hardware Design**|Haeyeon Kim et.al.|[2205.13225v1](http://arxiv.org/abs/2205.13225v1)|null|
+|**2022-05-26**|**Analyzing the Latent Space of GAN through Local Dimension Estimation**|Jaewoong Choi et.al.|[2205.13182v1](http://arxiv.org/abs/2205.13182v1)|null|
+|**2022-05-26**|**Matryoshka Representations for Adaptive Deployment**|Aditya Kusupati et.al.|[2205.13147v1](http://arxiv.org/abs/2205.13147v1)|null|
+|**2022-05-26**|**Unsupervised Reinforcement Adaptation for Class-Imbalanced Text Classification**|Yuexin Wu et.al.|[2205.13139v1](http://arxiv.org/abs/2205.13139v1)|**[link](https://github.com/woqingdoua/imbalanceclass)**|
+|**2022-05-26**|**GraphPMU: Event Clustering via Graph Representation Learning Using Locationally-Scarce Distribution-Level Fundamental and Harmonic PMU Measurements**|Armin Aligholian et.al.|[2205.13116v1](http://arxiv.org/abs/2205.13116v1)|null|
+|**2022-05-26**|**Fine-grained Image Captioning with CLIP Reward**|Jaemin Cho et.al.|[2205.13115v1](http://arxiv.org/abs/2205.13115v1)|**[link](https://github.com/j-min/clip-caption-reward)**|
+|**2022-05-26**|**Unsupervised Abstractive Dialogue Summarization with Word Graphs and POV Conversion**|Seongmin Park et.al.|[2205.13108v1](http://arxiv.org/abs/2205.13108v1)|**[link](https://github.com/seongminp/graph-dialogue-summary)**|
+|**2022-05-25**|**Learning to Query Internet Text for Informing Reinforcement Learning Agents**|Kolby Nottingham et.al.|[2205.13079v1](http://arxiv.org/abs/2205.13079v1)|null|
+|**2022-05-25**|**Tight Lower Bounds on Worst-Case Guarantees for Zero-Shot Learning with Attributes**|Alessio Mazzetto et.al.|[2205.13068v1](http://arxiv.org/abs/2205.13068v1)|null|
+|**2022-05-25**|**Semi-supervised Drifted Stream Learning with Short Lookback**|Weijieying Ren et.al.|[2205.13066v1](http://arxiv.org/abs/2205.13066v1)|null|
+|**2022-05-25**|**RENs: Relevance Encoding Networks**|Krithika Iyer et.al.|[2205.13061v1](http://arxiv.org/abs/2205.13061v1)|null|
 |**2022-05-25**|**Domain Adaptation for Object Detection using SE Adaptors and Center Loss**|Sushruth Nagesh et.al.|[2205.12923v1](http://arxiv.org/abs/2205.12923v1)|**[link](https://github.com/shreyasrajesh/DA-Object-Detection)**|
 |**2022-05-25**|**DH-GAN: A Physics-driven Untrained Generative Adversarial Network for 3D Microscopic Imaging using Digital Holography**|Xiwen Chen et.al.|[2205.12920v1](http://arxiv.org/abs/2205.12920v1)|null|
 |**2022-05-25**|**New Intent Discovery with Pre-training and Contrastive Learning**|Yuwei Zhang et.al.|[2205.12914v1](http://arxiv.org/abs/2205.12914v1)|**[link](https://github.com/zhang-yu-wei/mtp-clnn)**|
@@ -3114,6 +3147,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-26**|**Protecting and Enhancing the Photoelectrocatalytic Nitrogen Reduction to Ammonia Performance of InGaN Nanowires using Mo2C Nanosheets and GaN Buffer Layer**|Paulraj Gnanasekar et.al.|[2205.13453v1](http://arxiv.org/abs/2205.13453v1)|null|
+|**2022-05-26**|**Tuning nanowire lasers via hybridization with two-dimensional materials**|Edwin Eobaldt et.al.|[2205.13379v1](http://arxiv.org/abs/2205.13379v1)|null|
+|**2022-05-26**|**Analytical Interpretation of Latent Codes in InfoGAN with SAR Images**|Zhenpeng Feng et.al.|[2205.13294v1](http://arxiv.org/abs/2205.13294v1)|null|
+|**2022-05-26**|**Analyzing the Latent Space of GAN through Local Dimension Estimation**|Jaewoong Choi et.al.|[2205.13182v1](http://arxiv.org/abs/2205.13182v1)|null|
+|**2022-05-26**|**Semantically Supervised Appearance Decomposition for Virtual Staging from a Single Panorama**|Tiancheng Zhi et.al.|[2205.13150v1](http://arxiv.org/abs/2205.13150v1)|**[link](https://github.com/tiancheng-zhi/pano_decomp)**|
+|**2022-05-26**|**Rigidity of stable Lyapunov exponents and integrability for Anosov maps**|Jinpeng An et.al.|[2205.13144v1](http://arxiv.org/abs/2205.13144v1)|null|
+|**2022-05-26**|**To image, or not to image: Class-specific diffractive cameras with all-optical erasure of undesired objects**|Bijie Bai et.al.|[2205.13122v1](http://arxiv.org/abs/2205.13122v1)|null|
+|**2022-05-25**|**Online Deep Equilibrium Learning for Regularization by Denoising**|Jiaming Liu et.al.|[2205.13051v1](http://arxiv.org/abs/2205.13051v1)|**[link](https://github.com/phernst/pytorch_radon)**|
 |**2022-05-25**|**Learning Distributions by Generative Adversarial Networks: Approximation and Generalization**|Yunfei Yang et.al.|[2205.12601v1](http://arxiv.org/abs/2205.12601v1)|null|
 |**2022-05-25**|**Misleading Deep-Fake Detection with GAN Fingerprints**|Vera Wesselkamp et.al.|[2205.12543v1](http://arxiv.org/abs/2205.12543v1)|**[link](https://github.com/vwesselkamp/deepfake-fingerprint-attacks)**|
 |**2022-05-25**|**Accelerating Diffusion Models via Early Stop of the Diffusion Process**|Zhaoyang Lyu et.al.|[2205.12524v1](http://arxiv.org/abs/2205.12524v1)|null|
