@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.05.26
+## Updated on 2022.05.27
 
 ## SLAM
 
@@ -309,11 +309,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-05-25**|**MoCoViT: Mobile Convolutional Vision Transformer**|Hailong Ma et.al.|[2205.12635v1](http://arxiv.org/abs/2205.12635v1)|null|
+|**2022-05-25**|**MoCoViT: Mobile Convolutional Vision Transformer**|Hailong Ma et.al.|[2205.12635v2](http://arxiv.org/abs/2205.12635v2)|null|
 |**2022-05-25**|**Breaking the Chain of Gradient Leakage in Vision Transformers**|Yahui Liu et.al.|[2205.12551v1](http://arxiv.org/abs/2205.12551v1)|null|
 |**2022-05-25**|**Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning**|Chong Ma et.al.|[2205.12466v1](http://arxiv.org/abs/2205.12466v1)|null|
 |**2022-05-24**|**Privacy-Preserving Image Classification Using Vision Transformer**|Zheng Qi et.al.|[2205.12041v1](http://arxiv.org/abs/2205.12041v1)|null|
-|**2022-05-23**|**Super Vision Transformer**|Mingbao Lin et.al.|[2205.11397v1](http://arxiv.org/abs/2205.11397v1)|**[link](https://github.com/lmbxmu/supervit)**|
+|**2022-05-23**|**Super Vision Transformer**|Mingbao Lin et.al.|[2205.11397v2](http://arxiv.org/abs/2205.11397v2)|**[link](https://github.com/lmbxmu/supervit)**|
 |**2022-05-21**|**Scalable and Efficient Training of Large Convolutional Neural Networks with Differential Privacy**|Zhiqi Bu et.al.|[2205.10683v1](http://arxiv.org/abs/2205.10683v1)|null|
 |**2022-05-21**|**Vision Transformers in 2022: An Update on Tiny ImageNet**|Ethan Huynh et.al.|[2205.10660v1](http://arxiv.org/abs/2205.10660v1)|**[link](https://github.com/ehuynh1106/TinyImageNet-Transformers)**|
 |**2022-05-20**|**Self-supervised 3D anatomy segmentation using self-distilled masked image transformer (SMIT)**|Jue Jiang et.al.|[2205.10342v1](http://arxiv.org/abs/2205.10342v1)|null|
@@ -1258,7 +1258,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-05-25**|**Domain Adaptation for Object Detection using SE Adaptors and Center Loss**|Sushruth Nagesh et.al.|[2205.12923v1](http://arxiv.org/abs/2205.12923v1)|null|
+|**2022-05-25**|**Domain Adaptation for Object Detection using SE Adaptors and Center Loss**|Sushruth Nagesh et.al.|[2205.12923v1](http://arxiv.org/abs/2205.12923v1)|**[link](https://github.com/shreyasrajesh/DA-Object-Detection)**|
 |**2022-05-24**|**DistillAdapt: Source-Free Active Visual Domain Adaptation**|Divya Kothandaraman et.al.|[2205.12840v1](http://arxiv.org/abs/2205.12840v1)|null|
 |**2022-05-25**|**Factorizing Content and Budget Decisions in Abstractive Summarization of Long Documents by Sampling Summary Views**|Marcio Fonseca et.al.|[2205.12486v1](http://arxiv.org/abs/2205.12486v1)|null|
 |**2022-05-25**|**An Investigation on Applying Acoustic Feature Conversion to ASR of Adult and Child Speech**|Wei Liu et.al.|[2205.12477v1](http://arxiv.org/abs/2205.12477v1)|null|
@@ -1621,7 +1621,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-05-25**|**Domain Adaptation for Object Detection using SE Adaptors and Center Loss**|Sushruth Nagesh et.al.|[2205.12923v1](http://arxiv.org/abs/2205.12923v1)|null|
+|**2022-05-25**|**Domain Adaptation for Object Detection using SE Adaptors and Center Loss**|Sushruth Nagesh et.al.|[2205.12923v1](http://arxiv.org/abs/2205.12923v1)|**[link](https://github.com/shreyasrajesh/DA-Object-Detection)**|
 |**2022-05-25**|**DH-GAN: A Physics-driven Untrained Generative Adversarial Network for 3D Microscopic Imaging using Digital Holography**|Xiwen Chen et.al.|[2205.12920v1](http://arxiv.org/abs/2205.12920v1)|null|
 |**2022-05-25**|**New Intent Discovery with Pre-training and Contrastive Learning**|Yuwei Zhang et.al.|[2205.12914v1](http://arxiv.org/abs/2205.12914v1)|**[link](https://github.com/zhang-yu-wei/mtp-clnn)**|
 |**2022-05-25**|**Searching for outliers in the Chandra Source Catalog**|Dustin K. Swarm et.al.|[2205.12908v1](http://arxiv.org/abs/2205.12908v1)|null|
@@ -3273,10 +3273,10 @@ layout: default
 |**2022-05-25**|**Over-the-Air Design of GAN Training for mmWave MIMO Channel Estimation**|Akash Doshi et.al.|[2205.12445v1](http://arxiv.org/abs/2205.12445v1)|null|
 |**2022-05-24**|**Proposal for stable atom trapping on a GaN-on-Sapphire chip**|Aiping Liu et.al.|[2205.12153v1](http://arxiv.org/abs/2205.12153v1)|null|
 |**2022-05-24**|**Optimizing Performance of Federated Person Re-identification: Benchmarking and Analysis**|Weiming Zhuang et.al.|[2205.12144v1](http://arxiv.org/abs/2205.12144v1)|null|
-|**2022-05-24**|**Improving Human Image Synthesis with Residual Fast Fourier Transformation and Wasserstein Distance**|Jianhan Wu et.al.|[2205.12022v1](http://arxiv.org/abs/2205.12022v1)|null|
+|**2022-05-24**|**Improving Human Image Synthesis with Residual Fast Fourier Transformation and Wasserstein Distance**|Jianhan Wu et.al.|[2205.12022v2](http://arxiv.org/abs/2205.12022v2)|null|
 |**2022-05-24**|**Highly Accurate FMRI ADHD Classification using time distributed multi modal 3D CNNs**|Christopher Sims et.al.|[2205.11993v1](http://arxiv.org/abs/2205.11993v1)|**[link](https://github.com/christophersims/fmri_adhd_classification)**|
 |**2022-05-24**|**Diffuse Map Guiding Unsupervised Generative Adversarial Network for SVBRDF Estimation**|Zhiyao Luo et.al.|[2205.11951v2](http://arxiv.org/abs/2205.11951v2)|null|
-|**2022-05-24**|**Real-Time Trajectory Planning for Autonomous Driving with Gaussian Process and Incremental Refinement**|Cheng Jie et.al.|[2205.11853v1](http://arxiv.org/abs/2205.11853v1)|null|
+|**2022-05-24**|**Real-Time Trajectory Planning for Autonomous Driving with Gaussian Process and Incremental Refinement**|Cheng Jie et.al.|[2205.11853v1](http://arxiv.org/abs/2205.11853v1)|**[link](https://github.com/jchengai/gpir)**|
 |**2022-05-24**|**RCC-GAN: Regularized Compound Conditional GAN for Large-Scale Tabular Data Synthesis**|Mohammad Esmaeilpour et.al.|[2205.11693v1](http://arxiv.org/abs/2205.11693v1)|null|
 |**2022-05-23**|**GR-GAN: Gradual Refinement Text-to-image Generation**|Bo Yang et.al.|[2205.11273v1](http://arxiv.org/abs/2205.11273v1)|null|
 |**2022-05-23**|**Time-series Transformer Generative Adversarial Networks**|Padmanaba Srinivasan et.al.|[2205.11164v1](http://arxiv.org/abs/2205.11164v1)|**[link](https://github.com/jsyoon0823/TimeGAN)**|
