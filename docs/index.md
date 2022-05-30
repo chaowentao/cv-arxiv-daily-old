@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.05.29
+## Updated on 2022.05.30
 
 ## SLAM
 
@@ -310,7 +310,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-05-26**|**Revealing the Dark Secrets of Masked Image Modeling**|Zhenda Xie et.al.|[2205.13543v1](http://arxiv.org/abs/2205.13543v1)|null|
+|**2022-05-26**|**Revealing the Dark Secrets of Masked Image Modeling**|Zhenda Xie et.al.|[2205.13543v2](http://arxiv.org/abs/2205.13543v2)|null|
 |**2022-05-26**|**AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition**|Shoufa Chen et.al.|[2205.13535v1](http://arxiv.org/abs/2205.13535v1)|**[link](https://github.com/ShoufaChen/AdaptFormer)**|
 |**2022-05-26**|**Green Hierarchical Vision Transformer for Masked Image Modeling**|Lang Huang et.al.|[2205.13515v1](http://arxiv.org/abs/2205.13515v1)|**[link](https://github.com/layneh/greenmim)**|
 |**2022-05-26**|**VIDI: A Video Dataset of Incidents**|Duygu Sesver et.al.|[2205.13277v1](http://arxiv.org/abs/2205.13277v1)|**[link](https://github.com/vididataset/vidi)**|
@@ -628,7 +628,7 @@ layout: default
 |**2022-05-21**|**Lightweight Human Pose Estimation Using Heatmap-Weighting Loss**|Shiqi Li et.al.|[2205.10611v1](http://arxiv.org/abs/2205.10611v1)|null|
 |**2022-05-17**|**MulT: An End-to-End Multitask Learning Transformer**|Deblina Bhattacharjee et.al.|[2205.08303v1](http://arxiv.org/abs/2205.08303v1)|null|
 |**2022-05-16**|**Binarizing by Classification: Is soft function really necessary?**|Yefei He et.al.|[2205.07433v1](http://arxiv.org/abs/2205.07433v1)|null|
-|**2022-05-12**|**"Teaching Independent Parts Separately"(TIPSy-GAN) : Improving Accuracy and Stability in Unsupervised Adversarial 2D to 3D Human Pose Estimation**|Peter Hardy et.al.|[2205.05980v2](http://arxiv.org/abs/2205.05980v2)|null|
+|**2022-05-12**|**"Teaching Independent Parts Separately" (TIPSy-GAN) : Improving Accuracy and Stability in Unsupervised Adversarial 2D to 3D Pose Estimation**|Peter Hardy et.al.|[2205.05980v3](http://arxiv.org/abs/2205.05980v3)|null|
 |**2022-05-11**|**AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation**|Xu Cao et.al.|[2205.05277v1](http://arxiv.org/abs/2205.05277v1)|**[link](https://github.com/szar-lab/aggpose)**|
 |**2022-05-10**|**ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions In-the-Wild**|Chirag Raman et.al.|[2205.05177v1](http://arxiv.org/abs/2205.05177v1)|null|
 |**2022-05-03**|**Multitask Network for Joint Object Detection, Semantic Segmentation and Human Pose Estimation in Vehicle Occupancy Monitoring**|Nikolas Ebert et.al.|[2205.01515v1](http://arxiv.org/abs/2205.01515v1)|null|
@@ -1289,7 +1289,7 @@ layout: default
 |**2022-05-23**|**Domain Adaptation for Memory-Efficient Dense Retrieval**|Nandan Thakur et.al.|[2205.11498v1](http://arxiv.org/abs/2205.11498v1)|**[link](https://github.com/nthakur20/income)**|
 |**2022-05-23**|**Local Byte Fusion for Neural Machine Translation**|Makesh Narsimhan Sreedhar et.al.|[2205.11490v1](http://arxiv.org/abs/2205.11490v1)|null|
 |**2022-05-23**|**Enhanced Prototypical Learning for Unsupervised Domain Adaptation in LiDAR Semantic Segmentation**|Eojindl Yi et.al.|[2205.11419v1](http://arxiv.org/abs/2205.11419v1)|null|
-|**2022-05-23**|**Non-Parametric Domain Adaptation for End-to-End Speech Translation**|Yichao Du et.al.|[2205.11211v2](http://arxiv.org/abs/2205.11211v2)|null|
+|**2022-05-23**|**Non-Parametric Domain Adaptation for End-to-End Speech Translation**|Yichao Du et.al.|[2205.11211v3](http://arxiv.org/abs/2205.11211v3)|null|
 |**2022-05-23**|**Active Domain Adaptation with Multi-level Contrastive Units for Semantic Segmentation**|Hao Zhang et.al.|[2205.11192v2](http://arxiv.org/abs/2205.11192v2)|null|
 |**2022-05-23**|**KRNet: Towards Efficient Knowledge Replay**|Yingying Zhang et.al.|[2205.11126v1](http://arxiv.org/abs/2205.11126v1)|null|
 |**2022-05-22**|**A Domain-adaptive Pre-training Approach for Language Bias Detection in News**|Jan-David Krieger et.al.|[2205.10773v1](http://arxiv.org/abs/2205.10773v1)|**[link](https://github.com/media-bias-group/a-domain-adaptive-pre-training-approach-for-language-biasdetection-in-news)**|
