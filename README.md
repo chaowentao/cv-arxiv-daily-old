@@ -158,6 +158,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-27**|**Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN**|Siyuan Li et.al.|[2205.13943v1](http://arxiv.org/abs/2205.13943v1)|**[link](https://github.com/Westlake-AI/openmixup)**|
+|**2022-05-27**|**X-ViT: High Performance Linear Vision Transformer without Softmax**|Jeonggeun Song et.al.|[2205.13805v1](http://arxiv.org/abs/2205.13805v1)|null|
 |**2022-05-26**|**Revealing the Dark Secrets of Masked Image Modeling**|Zhenda Xie et.al.|[2205.13543v2](http://arxiv.org/abs/2205.13543v2)|null|
 |**2022-05-26**|**AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition**|Shoufa Chen et.al.|[2205.13535v1](http://arxiv.org/abs/2205.13535v1)|**[link](https://github.com/ShoufaChen/AdaptFormer)**|
 |**2022-05-26**|**Green Hierarchical Vision Transformer for Masked Image Modeling**|Lang Huang et.al.|[2205.13515v1](http://arxiv.org/abs/2205.13515v1)|**[link](https://github.com/layneh/greenmim)**|
@@ -575,6 +577,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-27**|**Radiative Properties of an Artificial Atom coupled to a Josephson Junction Array**|Kanu Sinha et.al.|[2205.14129v1](http://arxiv.org/abs/2205.14129v1)|null|
+|**2022-05-27**|**Accelerating multimodal gravitational waveforms from precessing compact binaries with artificial neural networks**|Lucy M. Thomas et.al.|[2205.14066v1](http://arxiv.org/abs/2205.14066v1)|null|
+|**2022-05-26**|**Deep Sensor Fusion with Pyramid Fusion Networks for 3D Semantic Segmentation**|Hannah Schieber et.al.|[2205.13629v1](http://arxiv.org/abs/2205.13629v1)|null|
 |**2022-05-26**|**Semantic Parsing of Interpage Relations**|Mehmet Arif Demirtaş et.al.|[2205.13530v1](http://arxiv.org/abs/2205.13530v1)|null|
 |**2022-05-25**|**Mutual Information Divergence: A Unified Metric for Multimodal Generative Models**|Jin-Hwa Kim et.al.|[2205.13445v1](http://arxiv.org/abs/2205.13445v1)|null|
 |**2022-05-26**|**Multimode optical fiber beam-by-beam cleanup**|Mario Ferraro et.al.|[2205.13385v1](http://arxiv.org/abs/2205.13385v1)|null|
@@ -1120,6 +1125,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-27**|**Improving Road Segmentation in Challenging Domains Using Similar Place Priors**|Connor Malone et.al.|[2205.14112v1](http://arxiv.org/abs/2205.14112v1)|null|
+|**2022-05-27**|**Punctuation Restoration in Spanish Customer Support Transcripts using Transfer Learning**|Xiliang Zhu et.al.|[2205.13961v1](http://arxiv.org/abs/2205.13961v1)|null|
+|**2022-05-27**|**Cycle Label-Consistent Networks for Unsupervised Domain Adaptation**|Mei Wang et.al.|[2205.13957v1](http://arxiv.org/abs/2205.13957v1)|null|
+|**2022-05-27**|**Deep face recognition with clustering based domain adaptation**|Mei Wang et.al.|[2205.13937v1](http://arxiv.org/abs/2205.13937v1)|null|
+|**2022-05-27**|**Nearest Neighbor Zero-Shot Inference**|Weijia Shi et.al.|[2205.13792v1](http://arxiv.org/abs/2205.13792v1)|null|
+|**2022-05-26**|**CA-UDA: Class-Aware Unsupervised Domain Adaptation with Optimal Assignment and Pseudo-Label Refinement**|Can Zhang et.al.|[2205.13579v1](http://arxiv.org/abs/2205.13579v1)|null|
 |**2022-05-26**|**Pick up the PACE: Fast and Simple Domain Adaptation via Ensemble Pseudo-Labeling**|Christopher Liao et.al.|[2205.13508v1](http://arxiv.org/abs/2205.13508v1)|**[link](https://github.com/chris210634/pace-domain-adaptation)**|
 |**2022-05-26**|**Unsupervised Reinforcement Adaptation for Class-Imbalanced Text Classification**|Yuexin Wu et.al.|[2205.13139v1](http://arxiv.org/abs/2205.13139v1)|**[link](https://github.com/woqingdoua/imbalanceclass)**|
 |**2022-05-25**|**Semi-supervised Drifted Stream Learning with Short Lookback**|Weijieying Ren et.al.|[2205.13066v1](http://arxiv.org/abs/2205.13066v1)|null|
@@ -1486,6 +1497,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-27**|**Bayesian Robust Graph Contrastive Learning**|Yancheng Wang et.al.|[2205.14109v1](http://arxiv.org/abs/2205.14109v1)|**[link](https://github.com/brgcl-code/brgcl-code)**|
+|**2022-05-27**|**Simple Unsupervised Object-Centric Learning for Complex and Naturalistic Videos**|Gautam Singh et.al.|[2205.14065v1](http://arxiv.org/abs/2205.14065v1)|null|
+|**2022-05-27**|**Contrastive Siamese Network for Semi-supervised Speech Recognition**|Soheil Khorram et.al.|[2205.14054v1](http://arxiv.org/abs/2205.14054v1)|null|
+|**2022-05-27**|**Cycle Label-Consistent Networks for Unsupervised Domain Adaptation**|Mei Wang et.al.|[2205.13957v1](http://arxiv.org/abs/2205.13957v1)|null|
+|**2022-05-27**|**Guided Exploration of Data Summaries**|Brit Youngmann et.al.|[2205.13956v1](http://arxiv.org/abs/2205.13956v1)|null|
+|**2022-05-27**|**Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation**|Bin Lu et.al.|[2205.13954v1](http://arxiv.org/abs/2205.13954v1)|null|
+|**2022-05-27**|**Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer**|Bin Lu et.al.|[2205.13947v1](http://arxiv.org/abs/2205.13947v1)|null|
+|**2022-05-27**|**Deep face recognition with clustering based domain adaptation**|Mei Wang et.al.|[2205.13937v1](http://arxiv.org/abs/2205.13937v1)|null|
+|**2022-05-27**|**CREAM: Weakly Supervised Object Localization via Class RE-Activation Mapping**|Jilan Xu et.al.|[2205.13922v1](http://arxiv.org/abs/2205.13922v1)|**[link](https://github.com/jazzcharles/cream)**|
+|**2022-05-27**|**Bongard-HOI: Benchmarking Few-Shot Visual Reasoning for Human-Object Interactions**|Huaizu Jiang et.al.|[2205.13803v1](http://arxiv.org/abs/2205.13803v1)|null|
+|**2022-05-27**|**Nearest Neighbor Zero-Shot Inference**|Weijia Shi et.al.|[2205.13792v1](http://arxiv.org/abs/2205.13792v1)|null|
+|**2022-05-27**|**CIGMO: Categorical invariant representations in a deep generative framework**|Haruo Hosoya et.al.|[2205.13758v1](http://arxiv.org/abs/2205.13758v1)|**[link](https://github.com/haruohosoya/cigmo)**|
+|**2022-05-26**|**Representing Brain Anatomical Regularity and Variability by Few-Shot Embedding**|Lu Zhang et.al.|[2205.13644v1](http://arxiv.org/abs/2205.13644v1)|null|
+|**2022-05-26**|**Optimising the shape of photometric redshift distributions with clustering cross-correlations**|Benjamin Stölzner et.al.|[2205.13622v1](http://arxiv.org/abs/2205.13622v1)|null|
+|**2022-05-26**|**CA-UDA: Class-Aware Unsupervised Domain Adaptation with Optimal Assignment and Pseudo-Label Refinement**|Can Zhang et.al.|[2205.13579v1](http://arxiv.org/abs/2205.13579v1)|null|
+|**2022-05-26**|**Learning Dialogue Representations from Consecutive Utterances**|Zhihan Zhou et.al.|[2205.13568v1](http://arxiv.org/abs/2205.13568v1)|null|
 |**2022-05-26**|**2D versus 3D Convolutional Spiking Neural Networks Trained with Unsupervised STDP for Human Action Recognition**|Mireille El-Assal et.al.|[2205.13474v1](http://arxiv.org/abs/2205.13474v1)|null|
 |**2022-05-26**|**AntiBenford Subgraphs: Unsupervised Anomaly Detection in Financial Networks**|Tianyi Chen et.al.|[2205.13426v1](http://arxiv.org/abs/2205.13426v1)|**[link](https://github.com/tsourakakis-lab/antibenford-subgraphs)**|
 |**2022-05-26**|**One-Shot Face Reenactment on Megapixels**|Wonjun Kang et.al.|[2205.13368v1](http://arxiv.org/abs/2205.13368v1)|null|
@@ -3147,6 +3174,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-27**|**GIT: A Generative Image-to-text Transformer for Vision and Language**|Jianfeng Wang et.al.|[2205.14100v1](http://arxiv.org/abs/2205.14100v1)|null|
+|**2022-05-27**|**Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation**|Bin Lu et.al.|[2205.13954v1](http://arxiv.org/abs/2205.13954v1)|null|
+|**2022-05-27**|**Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer**|Bin Lu et.al.|[2205.13947v1](http://arxiv.org/abs/2205.13947v1)|null|
+|**2022-05-27**|**Deep Generators on Commodity Markets; application to Deep Hedging**|Nicolas Boursin et.al.|[2205.13942v1](http://arxiv.org/abs/2205.13942v1)|null|
+|**2022-05-27**|**Discrete Boltzmann modeling of high-speed compressible flows with various depths of non-equilibrium**|Dejia Zhang et.al.|[2205.13809v1](http://arxiv.org/abs/2205.13809v1)|null|
+|**2022-05-27**|**Face Morphing: Fooling a Face Recognition System Is Simple!**|Stefan Hörmann et.al.|[2205.13796v1](http://arxiv.org/abs/2205.13796v1)|null|
+|**2022-05-27**|**Group GAN**|Ali Seyfi et.al.|[2205.13741v1](http://arxiv.org/abs/2205.13741v1)|null|
+|**2022-05-26**|**Size-Dependent Nucleation in Crystal Phase Transition from Machine Learning Metadynamics**|Pedro A. Santos-Florez et.al.|[2205.13631v1](http://arxiv.org/abs/2205.13631v1)|null|
 |**2022-05-26**|**Protecting and Enhancing the Photoelectrocatalytic Nitrogen Reduction to Ammonia Performance of InGaN Nanowires using Mo2C Nanosheets and GaN Buffer Layer**|Paulraj Gnanasekar et.al.|[2205.13453v1](http://arxiv.org/abs/2205.13453v1)|null|
 |**2022-05-26**|**Tuning nanowire lasers via hybridization with two-dimensional materials**|Edwin Eobaldt et.al.|[2205.13379v1](http://arxiv.org/abs/2205.13379v1)|null|
 |**2022-05-26**|**Analytical Interpretation of Latent Codes in InfoGAN with SAR Images**|Zhenpeng Feng et.al.|[2205.13294v1](http://arxiv.org/abs/2205.13294v1)|null|
