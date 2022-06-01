@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.05.31
+## Updated on 2022.06.01
 
 ## SLAM
 
@@ -310,7 +310,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-05-30**|**Zero-Shot and Few-Shot Learning for Lung Cancer Multi-Label Classification using Vision Transformer**|Fu-Ming Guo et.al.|[2205.15290v1](http://arxiv.org/abs/2205.15290v1)|null|
+|**2022-05-30**|**Zero-Shot and Few-Shot Learning for Lung Cancer Multi-Label Classification using Vision Transformer**|Fu-Ming Guo et.al.|[2205.15290v2](http://arxiv.org/abs/2205.15290v2)|null|
 |**2022-05-30**|**Self-Supervised Pre-training of Vision Transformers for Dense Prediction Tasks**|Jaonary Rabarisoa et.al.|[2205.15173v1](http://arxiv.org/abs/2205.15173v1)|null|
 |**2022-05-30**|**GMML is All you Need**|Sara Atito et.al.|[2205.14986v1](http://arxiv.org/abs/2205.14986v1)|**[link](https://github.com/sara-ahmed/gmml)**|
 |**2022-05-30**|**HiViT: Hierarchical Vision Transformer Meets Masked Image Modeling**|Xiaosong Zhang et.al.|[2205.14949v1](http://arxiv.org/abs/2205.14949v1)|null|
@@ -737,7 +737,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-05-30**|**Duplex Conversation: Towards Human-like Interaction in Spoken Dialogue System**|Ting-En Lin et.al.|[2205.15060v1](http://arxiv.org/abs/2205.15060v1)|null|
+|**2022-05-30**|**Duplex Conversation: Towards Human-like Interaction in Spoken Dialogue System**|Ting-En Lin et.al.|[2205.15060v2](http://arxiv.org/abs/2205.15060v2)|null|
 |**2022-05-30**|**A multimedia recommendation model based on collaborative graph**|Breda Lim et.al.|[2205.14931v1](http://arxiv.org/abs/2205.14931v1)|null|
 |**2022-05-30**|**A novel ringdown amplitude-phase consistency test**|Xisco Jiménez Forteza et.al.|[2205.14910v1](http://arxiv.org/abs/2205.14910v1)|null|
 |**2022-05-28**|**Multimodal Fake News Detection via CLIP-Guided Learning**|Yangming Zhou et.al.|[2205.14304v1](http://arxiv.org/abs/2205.14304v1)|null|
@@ -1291,7 +1291,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-05-30**|**Few-Shot Adaptation of Pre-Trained Networks for Domain Shift**|Wenyu Zhang et.al.|[2205.15234v1](http://arxiv.org/abs/2205.15234v1)|null|
-|**2022-05-30**|**Unbalanced CO-Optimal Transport**|Quang Huy Tran et.al.|[2205.14923v1](http://arxiv.org/abs/2205.14923v1)|null|
+|**2022-05-30**|**Unbalanced CO-Optimal Transport**|Quang Huy Tran et.al.|[2205.14923v2](http://arxiv.org/abs/2205.14923v2)|null|
 |**2022-05-29**|**ProxyMix: Proxy-based Mixup Training with Label Refinery for Source-Free Domain Adaptation**|Yuhe Ding et.al.|[2205.14566v1](http://arxiv.org/abs/2205.14566v1)|**[link](https://github.com/yuhed/proxymix)**|
 |**2022-05-28**|**Divide to Adapt: Mitigating Confirmation Bias for Domain Adaptation of Black-Box Predictors**|Jianfei Yang et.al.|[2205.14467v1](http://arxiv.org/abs/2205.14467v1)|**[link](https://github.com/xyupeng/beta)**|
 |**2022-05-27**|**Improving Road Segmentation in Challenging Domains Using Similar Place Priors**|Connor Malone et.al.|[2205.14112v1](http://arxiv.org/abs/2205.14112v1)|null|
@@ -1667,8 +1667,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-05-30**|**Adapting Rapid Motor Adaptation for Bipedal Robots**|Ashish Kumar et.al.|[2205.15299v1](http://arxiv.org/abs/2205.15299v1)|null|
-|**2022-05-30**|**Zero-Shot and Few-Shot Learning for Lung Cancer Multi-Label Classification using Vision Transformer**|Fu-Ming Guo et.al.|[2205.15290v1](http://arxiv.org/abs/2205.15290v1)|null|
-|**2022-05-30**|**EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model**|Xinya Ji et.al.|[2205.15278v1](http://arxiv.org/abs/2205.15278v1)|null|
+|**2022-05-30**|**Zero-Shot and Few-Shot Learning for Lung Cancer Multi-Label Classification using Vision Transformer**|Fu-Ming Guo et.al.|[2205.15290v2](http://arxiv.org/abs/2205.15290v2)|null|
+|**2022-05-30**|**EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model**|Xinya Ji et.al.|[2205.15278v2](http://arxiv.org/abs/2205.15278v2)|null|
 |**2022-05-30**|**Few-Shot Adaptation of Pre-Trained Networks for Domain Shift**|Wenyu Zhang et.al.|[2205.15234v1](http://arxiv.org/abs/2205.15234v1)|null|
 |**2022-05-30**|**Few-shot Class-incremental Learning for 3D Point Cloud Objects**|Townim Chowdhury et.al.|[2205.15225v1](http://arxiv.org/abs/2205.15225v1)|**[link](https://github.com/townim-faisal/fscil-3d)**|
 |**2022-05-30**|**Prompting ELECTRA: Few-Shot Learning with Discriminative Pre-Trained Models**|Mengzhou Xia et.al.|[2205.15223v1](http://arxiv.org/abs/2205.15223v1)|null|
@@ -1683,7 +1683,7 @@ layout: default
 |**2022-05-30**|**Prompt-aligned Gradient for Prompt Tuning**|Beier Zhu et.al.|[2205.14865v1](http://arxiv.org/abs/2205.14865v1)|**[link](https://github.com/beierzhu/prompt-align)**|
 |**2022-05-30**|**Benchmarking Unsupervised Anomaly Detection and Localization**|Ye Zheng et.al.|[2205.14852v1](http://arxiv.org/abs/2205.14852v1)|null|
 |**2022-05-29**|**Shaping physical properties of galaxy subtypes in the VIPERS survey: environment matters**|M. Siudek et.al.|[2205.14736v1](http://arxiv.org/abs/2205.14736v1)|null|
-|**2022-05-29**|**L3Cube-MahaNLP: Marathi Natural Language Processing Datasets, Models, and Library**|Raviraj Joshi et.al.|[2205.14728v1](http://arxiv.org/abs/2205.14728v1)|null|
+|**2022-05-29**|**L3Cube-MahaNLP: Marathi Natural Language Processing Datasets, Models, and Library**|Raviraj Joshi et.al.|[2205.14728v2](http://arxiv.org/abs/2205.14728v2)|null|
 |**2022-05-29**|**Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning**|Xiang Chen et.al.|[2205.14704v1](http://arxiv.org/abs/2205.14704v1)|null|
 |**2022-05-29**|**Diminishing Empirical Risk Minimization for Unsupervised Anomaly Detection**|Shaoshen Wang et.al.|[2205.14676v1](http://arxiv.org/abs/2205.14676v1)|null|
 |**2022-05-27**|**Bayesian Robust Graph Contrastive Learning**|Yancheng Wang et.al.|[2205.14109v1](http://arxiv.org/abs/2205.14109v1)|**[link](https://github.com/brgcl-code/brgcl-code)**|
