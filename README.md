@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-31**|**Unsupervised Image Representation Learning with Deep Latent Particles**|Tal Daniel et.al.|[2205.15821v1](http://arxiv.org/abs/2205.15821v1)|**[link](https://github.com/taldatech/deep-latent-particles-pytorch)**|
+|**2022-05-31**|**A Survey of Deep Fake Detection for Trial Courts**|Naciye Celebi et.al.|[2205.15792v1](http://arxiv.org/abs/2205.15792v1)|null|
 |**2022-05-03**|**Splicing Detection and Localization In Satellite Imagery Using Conditional GANs**|Emily R. Bartusiak et.al.|[2205.01805v1](http://arxiv.org/abs/2205.01805v1)|null|
 |**2022-04-23**|**Detecting Recolored Image by Spatial Correlation**|Yushu Zhang et.al.|[2204.10973v1](http://arxiv.org/abs/2204.10973v1)|null|
 |**2022-04-13**|**Hierarchical Text-Conditional Image Generation with CLIP Latents**|Aditya Ramesh et.al.|[2204.06125v1](http://arxiv.org/abs/2204.06125v1)|null|
@@ -158,6 +160,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-31**|**Surface Analysis with Vision Transformers**|Simon Dahan et.al.|[2205.15836v1](http://arxiv.org/abs/2205.15836v1)|**[link](https://github.com/metrics-lab/surface-vision-transformers)**|
+|**2022-05-31**|**ViT-BEVSeg: A Hierarchical Transformer Network for Monocular Birds-Eye-View Segmentation**|Pramit Dutta et.al.|[2205.15667v1](http://arxiv.org/abs/2205.15667v1)|**[link](https://github.com/robotvisionmu/vit-bevseg)**|
+|**2022-05-30**|**Few-Shot Diffusion Models**|Giorgio Giannone et.al.|[2205.15463v1](http://arxiv.org/abs/2205.15463v1)|null|
+|**2022-05-30**|**HeatER: An Efficient and Unified Network for Human Reconstruction via Heatmap-based TransformER**|Ce Zheng et.al.|[2205.15448v1](http://arxiv.org/abs/2205.15448v1)|null|
 |**2022-05-30**|**Zero-Shot and Few-Shot Learning for Lung Cancer Multi-Label Classification using Vision Transformer**|Fu-Ming Guo et.al.|[2205.15290v2](http://arxiv.org/abs/2205.15290v2)|null|
 |**2022-05-30**|**Self-Supervised Pre-training of Vision Transformers for Dense Prediction Tasks**|Jaonary Rabarisoa et.al.|[2205.15173v1](http://arxiv.org/abs/2205.15173v1)|null|
 |**2022-05-30**|**GMML is All you Need**|Sara Atito et.al.|[2205.14986v1](http://arxiv.org/abs/2205.14986v1)|**[link](https://github.com/sara-ahmed/gmml)**|
@@ -481,6 +487,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-30**|**HeatER: An Efficient and Unified Network for Human Reconstruction via Heatmap-based TransformER**|Ce Zheng et.al.|[2205.15448v1](http://arxiv.org/abs/2205.15448v1)|null|
 |**2022-05-25**|**Location-free Human Pose Estimation**|Xixia Xu et.al.|[2205.12619v1](http://arxiv.org/abs/2205.12619v1)|null|
 |**2022-05-25**|**VTP: Volumetric Transformer for Multi-view Multi-person 3D Pose Estimation**|Yuxing Chen et.al.|[2205.12602v1](http://arxiv.org/abs/2205.12602v1)|null|
 |**2022-05-21**|**Lightweight Human Pose Estimation Using Heatmap-Weighting Loss**|Shiqi Li et.al.|[2205.10611v1](http://arxiv.org/abs/2205.10611v1)|null|
@@ -585,6 +592,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-28**|**Snapture -- A Novel Neural Architecture for Combined Static and Dynamic Hand Gesture Recognition**|Hassan Ali et.al.|[2205.15862v1](http://arxiv.org/abs/2205.15862v1)|**[link](https://github.com/hassanali-90/snapture)**|
+|**2022-05-31**|**Multilingual Transformers for Product Matching -- Experiments and a New Benchmark in Polish**|Michał Mo{ż}d{ż}onek et.al.|[2205.15712v1](http://arxiv.org/abs/2205.15712v1)|null|
+|**2022-05-30**|**Analyzing Modality Robustness in Multimodal Sentiment Analysis**|Devamanyu Hazarika et.al.|[2205.15465v1](http://arxiv.org/abs/2205.15465v1)|**[link](https://github.com/declare-lab/msa-robustness)**|
+|**2022-05-30**|**Exploring Advances in Transformers and CNN for Skin Lesion Diagnosis on Small Datasets**|Leandro M. de Lima et.al.|[2205.15442v1](http://arxiv.org/abs/2205.15442v1)|null|
 |**2022-05-30**|**Duplex Conversation: Towards Human-like Interaction in Spoken Dialogue System**|Ting-En Lin et.al.|[2205.15060v2](http://arxiv.org/abs/2205.15060v2)|null|
 |**2022-05-30**|**A multimedia recommendation model based on collaborative graph**|Breda Lim et.al.|[2205.14931v1](http://arxiv.org/abs/2205.14931v1)|null|
 |**2022-05-30**|**A novel ringdown amplitude-phase consistency test**|Xisco Jiménez Forteza et.al.|[2205.14910v1](http://arxiv.org/abs/2205.14910v1)|null|
@@ -1138,6 +1149,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-31**|**Co-Training for Unsupervised Domain Adaptation of Semantic Segmentation Models**|Jose L. Gómez et.al.|[2205.15781v1](http://arxiv.org/abs/2205.15781v1)|null|
+|**2022-05-31**|**Contrastive Centroid Supervision Alleviates Domain Shift in Medical Image Classification**|Wenshuo Zhou et.al.|[2205.15658v1](http://arxiv.org/abs/2205.15658v1)|null|
+|**2022-05-31**|**Bag of Tricks for Domain Adaptive Multi-Object Tracking**|Minseok Seo et.al.|[2205.15609v1](http://arxiv.org/abs/2205.15609v1)|**[link](https://github.com/sianalytics/bmtt2022_sia_track)**|
+|**2022-05-31**|**Variational Transfer Learning using Cross-Domain Latent Modulation**|Jinyong Hou et.al.|[2205.15523v1](http://arxiv.org/abs/2205.15523v1)|null|
+|**2022-05-30**|**Connecting adversarial attacks and optimal transport for domain adaptation**|Arip Asadulaev et.al.|[2205.15424v1](http://arxiv.org/abs/2205.15424v1)|null|
 |**2022-05-30**|**Few-Shot Adaptation of Pre-Trained Networks for Domain Shift**|Wenyu Zhang et.al.|[2205.15234v1](http://arxiv.org/abs/2205.15234v1)|null|
 |**2022-05-30**|**Unbalanced CO-Optimal Transport**|Quang Huy Tran et.al.|[2205.14923v2](http://arxiv.org/abs/2205.14923v2)|null|
 |**2022-05-29**|**ProxyMix: Proxy-based Mixup Training with Label Refinery for Source-Free Domain Adaptation**|Yuhe Ding et.al.|[2205.14566v1](http://arxiv.org/abs/2205.14566v1)|**[link](https://github.com/yuhed/proxymix)**|
@@ -1514,6 +1530,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-31**|**Learning (Very) Simple Generative Models Is Hard**|Sitan Chen et.al.|[2205.16003v1](http://arxiv.org/abs/2205.16003v1)|null|
+|**2022-05-31**|**FedWalk: Communication Efficient Federated Unsupervised Node Embedding with Differential Privacy**|Qiying Pan et.al.|[2205.15896v1](http://arxiv.org/abs/2205.15896v1)|null|
+|**2022-05-31**|**From Keypoints to Object Landmarks via Self-Training Correspondence: A novel approach to Unsupervised Landmark Discovery**|Dimitrios Mallis et.al.|[2205.15895v1](http://arxiv.org/abs/2205.15895v1)|**[link](https://github.com/malldimi1/keypointstolandmarks)**|
+|**2022-05-31**|**VQ-AR: Vector Quantized Autoregressive Probabilistic Time Series Forecasting**|Kashif Rasul et.al.|[2205.15894v1](http://arxiv.org/abs/2205.15894v1)|null|
+|**2022-05-31**|**SOM-CPC: Unsupervised Contrastive Learning with Self-Organizing Maps for Structured Representations of High-Rate Time Series**|Iris A. M. Huijben et.al.|[2205.15875v1](http://arxiv.org/abs/2205.15875v1)|null|
+|**2022-05-31**|**Unsupervised Image Representation Learning with Deep Latent Particles**|Tal Daniel et.al.|[2205.15821v1](http://arxiv.org/abs/2205.15821v1)|**[link](https://github.com/taldatech/deep-latent-particles-pytorch)**|
+|**2022-05-31**|**Co-Training for Unsupervised Domain Adaptation of Semantic Segmentation Models**|Jose L. Gómez et.al.|[2205.15781v1](http://arxiv.org/abs/2205.15781v1)|null|
+|**2022-05-31**|**Omni-Granular Ego-Semantic Propagation for Self-Supervised Graph Representation Learning**|Ling Yang et.al.|[2205.15746v1](http://arxiv.org/abs/2205.15746v1)|null|
+|**2022-05-31**|**HyperMAML: Few-Shot Adaptation of Deep Models with Hypernetworks**|M. Przewięźlikowski et.al.|[2205.15745v1](http://arxiv.org/abs/2205.15745v1)|null|
+|**2022-05-31**|**EMS: Efficient and Effective Massively Multilingual Sentence Representation Learning**|Zhuoyuan Mao et.al.|[2205.15744v1](http://arxiv.org/abs/2205.15744v1)|null|
+|**2022-05-31**|**Don't Forget Cheap Training Signals Before Building Unsupervised Bilingual Word Embeddings**|Silvia Severini et.al.|[2205.15713v1](http://arxiv.org/abs/2205.15713v1)|null|
+|**2022-05-31**|**Self-Supervised Learning for Building Damage Assessment from Large-scale xBD Satellite Imagery Benchmark Datasets**|Zaishuo Xia et.al.|[2205.15688v1](http://arxiv.org/abs/2205.15688v1)|null|
+|**2022-05-31**|**Contrastive Representation Learning for 3D Protein Structures**|Pedro Hermosilla et.al.|[2205.15675v1](http://arxiv.org/abs/2205.15675v1)|null|
+|**2022-05-31**|**Contrastive Centroid Supervision Alleviates Domain Shift in Medical Image Classification**|Wenshuo Zhou et.al.|[2205.15658v1](http://arxiv.org/abs/2205.15658v1)|null|
+|**2022-05-31**|**Meta-ticket: Finding optimal subnetworks for few-shot learning within randomly initialized neural networks**|Daiki Chijiwa et.al.|[2205.15619v1](http://arxiv.org/abs/2205.15619v1)|**[link](https://github.com/dchiji-ntt/meta-ticket)**|
+|**2022-05-31**|**Few-Shot Unlearning by Model Inversion**|Youngsik Yoon et.al.|[2205.15567v1](http://arxiv.org/abs/2205.15567v1)|null|
+|**2022-05-31**|**Sub-Image Histogram Equalization using Coot Optimization Algorithm for Segmentation and Parameter Selection**|Emre Can Kuran et.al.|[2205.15565v1](http://arxiv.org/abs/2205.15565v1)|null|
+|**2022-05-31**|**Secure Federated Clustering**|Songze Li et.al.|[2205.15564v1](http://arxiv.org/abs/2205.15564v1)|null|
+|**2022-05-31**|**iFS-RCNN: An Incremental Few-shot Instance Segmenter**|Khoi Nguyen et.al.|[2205.15562v1](http://arxiv.org/abs/2205.15562v1)|null|
+|**2022-05-31**|**Improvements to Supervised EM Learning of Shared Kernel Models by Feature Space Partitioning**|Graham W. Pulford et.al.|[2205.15304v1](http://arxiv.org/abs/2205.15304v1)|null|
 |**2022-05-30**|**Adapting Rapid Motor Adaptation for Bipedal Robots**|Ashish Kumar et.al.|[2205.15299v1](http://arxiv.org/abs/2205.15299v1)|null|
 |**2022-05-30**|**Zero-Shot and Few-Shot Learning for Lung Cancer Multi-Label Classification using Vision Transformer**|Fu-Ming Guo et.al.|[2205.15290v2](http://arxiv.org/abs/2205.15290v2)|null|
 |**2022-05-30**|**EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model**|Xinya Ji et.al.|[2205.15278v2](http://arxiv.org/abs/2205.15278v2)|null|
@@ -3137,6 +3173,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-31**|**D$^2$NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video**|Tianhao Wu et.al.|[2205.15838v1](http://arxiv.org/abs/2205.15838v1)|null|
+|**2022-05-31**|**SAMURAI: Shape And Material from Unconstrained Real-world Arbitrary Image collections**|Mark Boss et.al.|[2205.15768v1](http://arxiv.org/abs/2205.15768v1)|null|
+|**2022-05-31**|**SymFormer: End-to-end symbolic regression using transformer-based architecture**|Vastl et.al.|[2205.15764v1](http://arxiv.org/abs/2205.15764v1)|**[link](https://github.com/vastlik/symformer)**|
+|**2022-05-31**|**DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes**|Jia-Wei Liu et.al.|[2205.15723v1](http://arxiv.org/abs/2205.15723v1)|null|
+|**2022-05-31**|**Novel View Synthesis for High-fidelity Headshot Scenes**|Satoshi Tsutsui et.al.|[2205.15595v1](http://arxiv.org/abs/2205.15595v1)|**[link](https://github.com/showlab/headshot)**|
+|**2022-05-31**|**Decomposing NeRF for Editing via Feature Field Distillation**|Sosuke Kobayashi et.al.|[2205.15585v1](http://arxiv.org/abs/2205.15585v1)|null|
 |**2022-05-30**|**Fast Dynamic Radiance Fields with Time-Aware Neural Voxels**|Jiemin Fang et.al.|[2205.15285v1](http://arxiv.org/abs/2205.15285v1)|null|
 |**2022-05-30**|**Neural Volumetric Object Selection**|Zhongzheng Ren et.al.|[2205.14929v1](http://arxiv.org/abs/2205.14929v1)|null|
 |**2022-05-30**|**Compressible-composable NeRF via Rank-residual Decomposition**|Jiaxiang Tang et.al.|[2205.14870v1](http://arxiv.org/abs/2205.14870v1)|**[link](https://github.com/ashawkey/ccnerf)**|
@@ -3215,6 +3257,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-31**|**A deep learning approach to halo merger tree construction**|Sandra Robles et.al.|[2205.15988v1](http://arxiv.org/abs/2205.15988v1)|null|
+|**2022-05-31**|**A Survey of Deep Fake Detection for Trial Courts**|Naciye Celebi et.al.|[2205.15792v1](http://arxiv.org/abs/2205.15792v1)|null|
+|**2022-05-30**|**Adversarial synthesis based data-augmentation for code-switched spoken language identification**|Parth Shastri et.al.|[2205.15747v1](http://arxiv.org/abs/2205.15747v1)|null|
+|**2022-05-29**|**Mixture GAN For Modulation Classification Resiliency Against Adversarial Attacks**|Eyad Shtaiwi et.al.|[2205.15743v1](http://arxiv.org/abs/2205.15743v1)|null|
+|**2022-05-31**|**CALEB: A Conditional Adversarial Learning Framework to Enhance Bot Detection**|George Dialektakis et.al.|[2205.15707v1](http://arxiv.org/abs/2205.15707v1)|null|
+|**2022-05-31**|**Augmentation-Aware Self-Supervision for Data-Efficient GAN Training**|Liang Hou et.al.|[2205.15677v1](http://arxiv.org/abs/2205.15677v1)|null|
+|**2022-05-31**|**Novel View Synthesis for High-fidelity Headshot Scenes**|Satoshi Tsutsui et.al.|[2205.15595v1](http://arxiv.org/abs/2205.15595v1)|**[link](https://github.com/showlab/headshot)**|
+|**2022-05-31**|**MontageGAN: Generation and Assembly of Multiple Components by GANs**|Chean Fei Shee et.al.|[2205.15577v1](http://arxiv.org/abs/2205.15577v1)|**[link](https://github.com/uchidalab/docker-montage-gan)**|
+|**2022-05-31**|**IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis**|Jingxiang Sun et.al.|[2205.15517v1](http://arxiv.org/abs/2205.15517v1)|null|
+|**2022-05-31**|**Determination of the electron trap level in Fe-doped GaN by phonon-assisted conduction phenomenon**|Hiroki Fukuda et.al.|[2205.15481v1](http://arxiv.org/abs/2205.15481v1)|null|
 |**2022-05-30**|**GAN-based Medical Image Small Region Forgery Detection via a Two-Stage Cascade Framework**|Jianyi Zhang et.al.|[2205.15170v1](http://arxiv.org/abs/2205.15170v1)|null|
 |**2022-05-30**|**Running the Dual-PQC GAN on noisy simulators and real quantum hardware**|Su Yeon Chang et.al.|[2205.15003v1](http://arxiv.org/abs/2205.15003v1)|null|
 |**2022-05-30**|**Different strategies for GaN-MoS2 and GaN-WS2 core-shell nanowire growth**|Edgars Butanovs et.al.|[2205.14991v1](http://arxiv.org/abs/2205.14991v1)|null|
