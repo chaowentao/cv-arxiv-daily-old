@@ -1,4 +1,4 @@
-## Updated on 2022.06.01
+## Updated on 2022.06.02
 
 ## Image Generation
 
@@ -172,7 +172,7 @@
 |**2022-05-28**|**MDMLP: Image Classification from Scratch on Small Datasets with MLP**|Tian Lv et.al.|[2205.14477v1](http://arxiv.org/abs/2205.14477v1)|**[link](https://github.com/Amoza-Theodore/MDMLP)**|
 |**2022-05-28**|**A Closer Look at Self-supervised Lightweight Vision Transformers**|Shaoru Wang et.al.|[2205.14443v1](http://arxiv.org/abs/2205.14443v1)|null|
 |**2022-05-27**|**Momentum Stiefel Optimizer, with Applications to Suitably-Orthogonal Attention, and Optimal Transport**|Lingkai Kong et.al.|[2205.14173v1](http://arxiv.org/abs/2205.14173v1)|null|
-|**2022-05-27**|**Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN**|Siyuan Li et.al.|[2205.13943v1](http://arxiv.org/abs/2205.13943v1)|**[link](https://github.com/Westlake-AI/openmixup)**|
+|**2022-05-27**|**Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN**|Siyuan Li et.al.|[2205.13943v2](http://arxiv.org/abs/2205.13943v2)|**[link](https://github.com/Westlake-AI/openmixup)**|
 |**2022-05-27**|**X-ViT: High Performance Linear Vision Transformer without Softmax**|Jeonggeun Song et.al.|[2205.13805v1](http://arxiv.org/abs/2205.13805v1)|null|
 |**2022-05-26**|**Revealing the Dark Secrets of Masked Image Modeling**|Zhenda Xie et.al.|[2205.13543v2](http://arxiv.org/abs/2205.13543v2)|null|
 |**2022-05-26**|**AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition**|Shoufa Chen et.al.|[2205.13535v1](http://arxiv.org/abs/2205.13535v1)|**[link](https://github.com/ShoufaChen/AdaptFormer)**|
@@ -593,14 +593,14 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-05-28**|**Snapture -- A Novel Neural Architecture for Combined Static and Dynamic Hand Gesture Recognition**|Hassan Ali et.al.|[2205.15862v1](http://arxiv.org/abs/2205.15862v1)|**[link](https://github.com/hassanali-90/snapture)**|
-|**2022-05-31**|**Multilingual Transformers for Product Matching -- Experiments and a New Benchmark in Polish**|Michał Mo{ż}d{ż}onek et.al.|[2205.15712v1](http://arxiv.org/abs/2205.15712v1)|null|
+|**2022-05-31**|**Multilingual Transformers for Product Matching -- Experiments and a New Benchmark in Polish**|Michał Możdżonek et.al.|[2205.15712v2](http://arxiv.org/abs/2205.15712v2)|null|
 |**2022-05-30**|**Analyzing Modality Robustness in Multimodal Sentiment Analysis**|Devamanyu Hazarika et.al.|[2205.15465v1](http://arxiv.org/abs/2205.15465v1)|**[link](https://github.com/declare-lab/msa-robustness)**|
 |**2022-05-30**|**Exploring Advances in Transformers and CNN for Skin Lesion Diagnosis on Small Datasets**|Leandro M. de Lima et.al.|[2205.15442v1](http://arxiv.org/abs/2205.15442v1)|null|
 |**2022-05-30**|**Duplex Conversation: Towards Human-like Interaction in Spoken Dialogue System**|Ting-En Lin et.al.|[2205.15060v2](http://arxiv.org/abs/2205.15060v2)|null|
 |**2022-05-30**|**A multimedia recommendation model based on collaborative graph**|Breda Lim et.al.|[2205.14931v1](http://arxiv.org/abs/2205.14931v1)|null|
 |**2022-05-30**|**A novel ringdown amplitude-phase consistency test**|Xisco Jiménez Forteza et.al.|[2205.14910v1](http://arxiv.org/abs/2205.14910v1)|null|
 |**2022-05-28**|**Multimodal Fake News Detection via CLIP-Guided Learning**|Yangming Zhou et.al.|[2205.14304v1](http://arxiv.org/abs/2205.14304v1)|null|
-|**2022-05-27**|**Multimodal Masked Autoencoders Learn Transferable Representations**|Xinyang Geng et.al.|[2205.14204v1](http://arxiv.org/abs/2205.14204v1)|null|
+|**2022-05-27**|**Multimodal Masked Autoencoders Learn Transferable Representations**|Xinyang Geng et.al.|[2205.14204v2](http://arxiv.org/abs/2205.14204v2)|null|
 |**2022-05-27**|**Radiative Properties of an Artificial Atom coupled to a Josephson Junction Array**|Kanu Sinha et.al.|[2205.14129v1](http://arxiv.org/abs/2205.14129v1)|null|
 |**2022-05-27**|**Accelerating multimodal gravitational waveforms from precessing compact binaries with artificial neural networks**|Lucy M. Thomas et.al.|[2205.14066v1](http://arxiv.org/abs/2205.14066v1)|null|
 |**2022-05-26**|**Deep Sensor Fusion with Pyramid Fusion Networks for 3D Semantic Segmentation**|Hannah Schieber et.al.|[2205.13629v1](http://arxiv.org/abs/2205.13629v1)|null|
@@ -1531,7 +1531,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-05-31**|**Learning (Very) Simple Generative Models Is Hard**|Sitan Chen et.al.|[2205.16003v1](http://arxiv.org/abs/2205.16003v1)|null|
-|**2022-05-31**|**FedWalk: Communication Efficient Federated Unsupervised Node Embedding with Differential Privacy**|Qiying Pan et.al.|[2205.15896v1](http://arxiv.org/abs/2205.15896v1)|null|
+|**2022-05-31**|**FedWalk: Communication Efficient Federated Unsupervised Node Embedding with Differential Privacy**|Qiying Pan et.al.|[2205.15896v2](http://arxiv.org/abs/2205.15896v2)|null|
 |**2022-05-31**|**From Keypoints to Object Landmarks via Self-Training Correspondence: A novel approach to Unsupervised Landmark Discovery**|Dimitrios Mallis et.al.|[2205.15895v1](http://arxiv.org/abs/2205.15895v1)|**[link](https://github.com/malldimi1/keypointstolandmarks)**|
 |**2022-05-31**|**VQ-AR: Vector Quantized Autoregressive Probabilistic Time Series Forecasting**|Kashif Rasul et.al.|[2205.15894v1](http://arxiv.org/abs/2205.15894v1)|null|
 |**2022-05-31**|**SOM-CPC: Unsupervised Contrastive Learning with Self-Organizing Maps for Structured Representations of High-Rate Time Series**|Iris A. M. Huijben et.al.|[2205.15875v1](http://arxiv.org/abs/2205.15875v1)|null|
@@ -1541,7 +1541,7 @@
 |**2022-05-31**|**HyperMAML: Few-Shot Adaptation of Deep Models with Hypernetworks**|M. Przewięźlikowski et.al.|[2205.15745v1](http://arxiv.org/abs/2205.15745v1)|null|
 |**2022-05-31**|**EMS: Efficient and Effective Massively Multilingual Sentence Representation Learning**|Zhuoyuan Mao et.al.|[2205.15744v1](http://arxiv.org/abs/2205.15744v1)|null|
 |**2022-05-31**|**Don't Forget Cheap Training Signals Before Building Unsupervised Bilingual Word Embeddings**|Silvia Severini et.al.|[2205.15713v1](http://arxiv.org/abs/2205.15713v1)|null|
-|**2022-05-31**|**Self-Supervised Learning for Building Damage Assessment from Large-scale xBD Satellite Imagery Benchmark Datasets**|Zaishuo Xia et.al.|[2205.15688v1](http://arxiv.org/abs/2205.15688v1)|null|
+|**2022-05-31**|**Self-Supervised Learning for Building Damage Assessment from Large-scale xBD Satellite Imagery Benchmark Datasets**|Zaishuo Xia et.al.|[2205.15688v2](http://arxiv.org/abs/2205.15688v2)|null|
 |**2022-05-31**|**Contrastive Representation Learning for 3D Protein Structures**|Pedro Hermosilla et.al.|[2205.15675v1](http://arxiv.org/abs/2205.15675v1)|null|
 |**2022-05-31**|**Contrastive Centroid Supervision Alleviates Domain Shift in Medical Image Classification**|Wenshuo Zhou et.al.|[2205.15658v1](http://arxiv.org/abs/2205.15658v1)|null|
 |**2022-05-31**|**Meta-ticket: Finding optimal subnetworks for few-shot learning within randomly initialized neural networks**|Daiki Chijiwa et.al.|[2205.15619v1](http://arxiv.org/abs/2205.15619v1)|**[link](https://github.com/dchiji-ntt/meta-ticket)**|
@@ -3173,9 +3173,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-05-31**|**D$^2$NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video**|Tianhao Wu et.al.|[2205.15838v1](http://arxiv.org/abs/2205.15838v1)|null|
+|**2022-05-31**|**D$^2$NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video**|Tianhao Wu et.al.|[2205.15838v2](http://arxiv.org/abs/2205.15838v2)|null|
 |**2022-05-31**|**SAMURAI: Shape And Material from Unconstrained Real-world Arbitrary Image collections**|Mark Boss et.al.|[2205.15768v1](http://arxiv.org/abs/2205.15768v1)|null|
-|**2022-05-31**|**SymFormer: End-to-end symbolic regression using transformer-based architecture**|Vastl et.al.|[2205.15764v1](http://arxiv.org/abs/2205.15764v1)|**[link](https://github.com/vastlik/symformer)**|
+|**2022-05-31**|**SymFormer: End-to-end symbolic regression using transformer-based architecture**|Martin Vastl et.al.|[2205.15764v2](http://arxiv.org/abs/2205.15764v2)|**[link](https://github.com/vastlik/symformer)**|
 |**2022-05-31**|**DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes**|Jia-Wei Liu et.al.|[2205.15723v1](http://arxiv.org/abs/2205.15723v1)|**[link](https://github.com/showlab/devrf)**|
 |**2022-05-31**|**Novel View Synthesis for High-fidelity Headshot Scenes**|Satoshi Tsutsui et.al.|[2205.15595v1](http://arxiv.org/abs/2205.15595v1)|**[link](https://github.com/showlab/headshot)**|
 |**2022-05-31**|**Decomposing NeRF for Editing via Feature Field Distillation**|Sosuke Kobayashi et.al.|[2205.15585v1](http://arxiv.org/abs/2205.15585v1)|null|
@@ -3276,7 +3276,7 @@
 |**2022-05-28**|**Enhancing Quality of Pose-varied Face Restoration with Local Weak Feature Sensing and GAN Prior**|Kai Hu et.al.|[2205.14377v1](http://arxiv.org/abs/2205.14377v1)|null|
 |**2022-05-28**|**V4D: Voxel for 4D Novel View Synthesis**|Wanshui Gan et.al.|[2205.14332v1](http://arxiv.org/abs/2205.14332v1)|null|
 |**2022-05-28**|**Fake It Till You Make It: Near-Distribution Novelty Detection by Score-Based Generative Models**|Hossein Mirzaei et.al.|[2205.14297v1](http://arxiv.org/abs/2205.14297v1)|**[link](https://github.com/rohban-lab/fitymi)**|
-|**2022-05-27**|**GIT: A Generative Image-to-text Transformer for Vision and Language**|Jianfeng Wang et.al.|[2205.14100v1](http://arxiv.org/abs/2205.14100v1)|null|
+|**2022-05-27**|**GIT: A Generative Image-to-text Transformer for Vision and Language**|Jianfeng Wang et.al.|[2205.14100v2](http://arxiv.org/abs/2205.14100v2)|null|
 |**2022-05-27**|**Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation**|Bin Lu et.al.|[2205.13954v1](http://arxiv.org/abs/2205.13954v1)|null|
 |**2022-05-27**|**Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer**|Bin Lu et.al.|[2205.13947v1](http://arxiv.org/abs/2205.13947v1)|null|
 |**2022-05-27**|**Deep Generators on Commodity Markets; application to Deep Hedging**|Nicolas Boursin et.al.|[2205.13942v1](http://arxiv.org/abs/2205.13942v1)|null|
