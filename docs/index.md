@@ -312,6 +312,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-01**|**Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer**|Guglielmo Camporese et.al.|[2206.00481v1](http://arxiv.org/abs/2206.00481v1)|null|
+|**2022-06-01**|**A comparative study between vision transformers and CNNs in digital pathology**|Luca Deininger et.al.|[2206.00389v1](http://arxiv.org/abs/2206.00389v1)|null|
+|**2022-06-01**|**CellCentroidFormer: Combining Self-attention and Convolution for Cell Detection**|Royden Wagner et.al.|[2206.00338v1](http://arxiv.org/abs/2206.00338v1)|**[link](https://github.com/roydenwa/cell-centroid-former)**|
 |**2022-05-31**|**Surface Analysis with Vision Transformers**|Simon Dahan et.al.|[2205.15836v1](http://arxiv.org/abs/2205.15836v1)|**[link](https://github.com/metrics-lab/surface-vision-transformers)**|
 |**2022-05-31**|**ViT-BEVSeg: A Hierarchical Transformer Network for Monocular Birds-Eye-View Segmentation**|Pramit Dutta et.al.|[2205.15667v1](http://arxiv.org/abs/2205.15667v1)|**[link](https://github.com/robotvisionmu/vit-bevseg)**|
 |**2022-05-30**|**Few-Shot Diffusion Models**|Giorgio Giannone et.al.|[2205.15463v1](http://arxiv.org/abs/2205.15463v1)|null|
@@ -744,6 +747,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-30**|**A multimodal model with Twitter FinBERT embeddings for extreme price movement prediction of Bitcoin**|Yanzhao Zou et.al.|[2206.00648v1](http://arxiv.org/abs/2206.00648v1)|null|
+|**2022-06-01**|**A modular architecture for creating multimodal agents**|Thomas Baier et.al.|[2206.00636v1](http://arxiv.org/abs/2206.00636v1)|null|
+|**2022-05-31**|**AVIDA: Alternating method for Visualizing and Integrating Data**|Kathryn Dover et.al.|[2206.00135v1](http://arxiv.org/abs/2206.00135v1)|null|
+|**2022-05-31**|**VALHALLA: Visual Hallucination for Machine Translation**|Yi Li et.al.|[2206.00100v1](http://arxiv.org/abs/2206.00100v1)|null|
 |**2022-05-28**|**Snapture -- A Novel Neural Architecture for Combined Static and Dynamic Hand Gesture Recognition**|Hassan Ali et.al.|[2205.15862v1](http://arxiv.org/abs/2205.15862v1)|**[link](https://github.com/hassanali-90/snapture)**|
 |**2022-05-31**|**Multilingual Transformers for Product Matching -- Experiments and a New Benchmark in Polish**|Michał Możdżonek et.al.|[2205.15712v2](http://arxiv.org/abs/2205.15712v2)|null|
 |**2022-05-30**|**Analyzing Modality Robustness in Multimodal Sentiment Analysis**|Devamanyu Hazarika et.al.|[2205.15465v1](http://arxiv.org/abs/2205.15465v1)|**[link](https://github.com/declare-lab/msa-robustness)**|
@@ -1301,6 +1308,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-01**|**CLIP4IDC: CLIP for Image Difference Captioning**|Zixin Guo et.al.|[2206.00629v1](http://arxiv.org/abs/2206.00629v1)|**[link](https://github.com/sushizixin/clip4idc)**|
+|**2022-06-01**|**IDANI: Inference-time Domain Adaptation via Neuron-level Interventions**|Omer Antverg et.al.|[2206.00259v1](http://arxiv.org/abs/2206.00259v1)|**[link](https://github.com/technion-cs-nlp/idani)**|
+|**2022-06-01**|**A Unified Multi-Task Semantic Communication System with Domain Adaptation**|Guangyi Zhang et.al.|[2206.00254v1](http://arxiv.org/abs/2206.00254v1)|null|
+|**2022-06-01**|**Cross-domain Detection Transformer based on Spatial-aware and Semantic-aware Token Alignment**|Jinhong Deng et.al.|[2206.00222v1](http://arxiv.org/abs/2206.00222v1)|null|
+|**2022-06-01**|**CAFA: Class-Aware Feature Alignment for Test-Time Adaptation**|Sanghun Jung et.al.|[2206.00205v1](http://arxiv.org/abs/2206.00205v1)|null|
+|**2022-06-01**|**Labeling Where Adapting Fails: Cross-Domain Semantic Segmentation with Point Supervision via Active Selection**|Fei Pan et.al.|[2206.00181v1](http://arxiv.org/abs/2206.00181v1)|null|
 |**2022-05-31**|**Co-Training for Unsupervised Domain Adaptation of Semantic Segmentation Models**|Jose L. Gómez et.al.|[2205.15781v1](http://arxiv.org/abs/2205.15781v1)|null|
 |**2022-05-31**|**Contrastive Centroid Supervision Alleviates Domain Shift in Medical Image Classification**|Wenshuo Zhou et.al.|[2205.15658v1](http://arxiv.org/abs/2205.15658v1)|null|
 |**2022-05-31**|**Bag of Tricks for Domain Adaptive Multi-Object Tracking**|Minseok Seo et.al.|[2205.15609v1](http://arxiv.org/abs/2205.15609v1)|**[link](https://github.com/sianalytics/bmtt2022_sia_track)**|
@@ -1682,6 +1695,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-01**|**Cross-View Language Modeling: Towards Unified Cross-Lingual Cross-Modal Pre-training**|Yan Zeng et.al.|[2206.00621v1](http://arxiv.org/abs/2206.00621v1)|null|
+|**2022-06-01**|**Dual-stream spatiotemporal networks with feature sharing for monitoring animals in the home cage**|Ezechukwu I. Nwokedi et.al.|[2206.00614v1](http://arxiv.org/abs/2206.00614v1)|null|
+|**2022-06-01**|**Learning Invariant Visual Representations for Compositional Zero-Shot Learning**|Tian Zhang et.al.|[2206.00415v1](http://arxiv.org/abs/2206.00415v1)|null|
+|**2022-06-01**|**Strongly Augmented Contrastive Clustering**|Xiaozhi Deng et.al.|[2206.00380v1](http://arxiv.org/abs/2206.00380v1)|null|
+|**2022-06-01**|**DeepCluE: Enhanced Image Clustering via Multi-layer Ensembles in Deep Neural Networks**|Dong Huang et.al.|[2206.00359v1](http://arxiv.org/abs/2206.00359v1)|null|
+|**2022-06-01**|**Control of Two-way Coupled Fluid Systems with Differentiable Solvers**|Brener Ramos et.al.|[2206.00342v1](http://arxiv.org/abs/2206.00342v1)|null|
+|**2022-06-01**|**Smart Channel State Information Pre-processing for Joint Authentication and Secret Key Distillation**|Muralikrishnan Srinivasan et.al.|[2206.00332v1](http://arxiv.org/abs/2206.00332v1)|null|
+|**2022-06-01**|**Model Generation with Provable Coverability for Offline Reinforcement Learning**|Chengxing Jia et.al.|[2206.00316v1](http://arxiv.org/abs/2206.00316v1)|null|
+|**2022-06-01**|**Low mass young stars in the Milky Way unveiled by DBSCAN and Gaia EDR3. Mapping the star forming regions within 1.5 Kpc**|L. Prisinzano et.al.|[2206.00249v1](http://arxiv.org/abs/2206.00249v1)|null|
+|**2022-06-01**|**CAFA: Class-Aware Feature Alignment for Test-Time Adaptation**|Sanghun Jung et.al.|[2206.00205v1](http://arxiv.org/abs/2206.00205v1)|null|
+|**2022-06-01**|**Labeling Where Adapting Fails: Cross-Domain Semantic Segmentation with Point Supervision via Active Selection**|Fei Pan et.al.|[2206.00181v1](http://arxiv.org/abs/2206.00181v1)|null|
+|**2022-05-31**|**FHIST: A Benchmark for Few-shot Classification of Histological Images**|Fereshteh Shakeri et.al.|[2206.00092v1](http://arxiv.org/abs/2206.00092v1)|null|
+|**2022-05-31**|**PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs**|James Oldfield et.al.|[2206.00048v1](http://arxiv.org/abs/2206.00048v1)|**[link](https://github.com/james-oldfield/panda)**|
 |**2022-05-31**|**Learning (Very) Simple Generative Models Is Hard**|Sitan Chen et.al.|[2205.16003v1](http://arxiv.org/abs/2205.16003v1)|null|
 |**2022-05-31**|**FedWalk: Communication Efficient Federated Unsupervised Node Embedding with Differential Privacy**|Qiying Pan et.al.|[2205.15896v2](http://arxiv.org/abs/2205.15896v2)|null|
 |**2022-05-31**|**From Keypoints to Object Landmarks via Self-Training Correspondence: A novel approach to Unsupervised Landmark Discovery**|Dimitrios Mallis et.al.|[2205.15895v1](http://arxiv.org/abs/2205.15895v1)|**[link](https://github.com/malldimi1/keypointstolandmarks)**|
@@ -3409,6 +3435,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-31**|**Decentralized Saddle-Point Problems with Different Constants of Strong Convexity and Strong Concavity**|Dmitriy Metelev et.al.|[2206.00090v1](http://arxiv.org/abs/2206.00090v1)|null|
+|**2022-05-31**|**Generative Models with Information-Theoretic Protection Against Membership Inference Attacks**|Parisa Hassanzadeh et.al.|[2206.00071v1](http://arxiv.org/abs/2206.00071v1)|null|
+|**2022-05-31**|**PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs**|James Oldfield et.al.|[2206.00048v1](http://arxiv.org/abs/2206.00048v1)|**[link](https://github.com/james-oldfield/panda)**|
 |**2022-05-31**|**A deep learning approach to halo merger tree construction**|Sandra Robles et.al.|[2205.15988v1](http://arxiv.org/abs/2205.15988v1)|null|
 |**2022-05-31**|**A Survey of Deep Fake Detection for Trial Courts**|Naciye Celebi et.al.|[2205.15792v1](http://arxiv.org/abs/2205.15792v1)|null|
 |**2022-05-30**|**Adversarial synthesis based data-augmentation for code-switched spoken language identification**|Parth Shastri et.al.|[2205.15747v1](http://arxiv.org/abs/2205.15747v1)|null|
