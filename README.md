@@ -1,4 +1,4 @@
-## Updated on 2022.06.02
+## Updated on 2022.06.03
 
 ## Image Generation
 
@@ -1545,12 +1545,12 @@
 |---|---|---|---|---|
 |**2022-06-01**|**Cross-View Language Modeling: Towards Unified Cross-Lingual Cross-Modal Pre-training**|Yan Zeng et.al.|[2206.00621v1](http://arxiv.org/abs/2206.00621v1)|null|
 |**2022-06-01**|**Dual-stream spatiotemporal networks with feature sharing for monitoring animals in the home cage**|Ezechukwu I. Nwokedi et.al.|[2206.00614v1](http://arxiv.org/abs/2206.00614v1)|null|
-|**2022-06-01**|**Learning Invariant Visual Representations for Compositional Zero-Shot Learning**|Tian Zhang et.al.|[2206.00415v1](http://arxiv.org/abs/2206.00415v1)|null|
+|**2022-06-01**|**Learning Invariant Visual Representations for Compositional Zero-Shot Learning**|Tian Zhang et.al.|[2206.00415v2](http://arxiv.org/abs/2206.00415v2)|null|
 |**2022-06-01**|**Strongly Augmented Contrastive Clustering**|Xiaozhi Deng et.al.|[2206.00380v1](http://arxiv.org/abs/2206.00380v1)|null|
 |**2022-06-01**|**DeepCluE: Enhanced Image Clustering via Multi-layer Ensembles in Deep Neural Networks**|Dong Huang et.al.|[2206.00359v1](http://arxiv.org/abs/2206.00359v1)|null|
 |**2022-06-01**|**Control of Two-way Coupled Fluid Systems with Differentiable Solvers**|Brener Ramos et.al.|[2206.00342v1](http://arxiv.org/abs/2206.00342v1)|null|
 |**2022-06-01**|**Smart Channel State Information Pre-processing for Joint Authentication and Secret Key Distillation**|Muralikrishnan Srinivasan et.al.|[2206.00332v1](http://arxiv.org/abs/2206.00332v1)|null|
-|**2022-06-01**|**Model Generation with Provable Coverability for Offline Reinforcement Learning**|Chengxing Jia et.al.|[2206.00316v1](http://arxiv.org/abs/2206.00316v1)|null|
+|**2022-06-01**|**Model Generation with Provable Coverability for Offline Reinforcement Learning**|Chengxing Jia et.al.|[2206.00316v2](http://arxiv.org/abs/2206.00316v2)|null|
 |**2022-06-01**|**Low mass young stars in the Milky Way unveiled by DBSCAN and Gaia EDR3. Mapping the star forming regions within 1.5 Kpc**|L. Prisinzano et.al.|[2206.00249v1](http://arxiv.org/abs/2206.00249v1)|null|
 |**2022-06-01**|**CAFA: Class-Aware Feature Alignment for Test-Time Adaptation**|Sanghun Jung et.al.|[2206.00205v1](http://arxiv.org/abs/2206.00205v1)|null|
 |**2022-06-01**|**Labeling Where Adapting Fails: Cross-Domain Semantic Segmentation with Point Supervision via Active Selection**|Fei Pan et.al.|[2206.00181v1](http://arxiv.org/abs/2206.00181v1)|null|
@@ -3288,7 +3288,7 @@
 |**2022-05-31**|**PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs**|James Oldfield et.al.|[2206.00048v1](http://arxiv.org/abs/2206.00048v1)|**[link](https://github.com/james-oldfield/panda)**|
 |**2022-05-31**|**A deep learning approach to halo merger tree construction**|Sandra Robles et.al.|[2205.15988v1](http://arxiv.org/abs/2205.15988v1)|null|
 |**2022-05-31**|**A Survey of Deep Fake Detection for Trial Courts**|Naciye Celebi et.al.|[2205.15792v1](http://arxiv.org/abs/2205.15792v1)|null|
-|**2022-05-30**|**Adversarial synthesis based data-augmentation for code-switched spoken language identification**|Parth Shastri et.al.|[2205.15747v1](http://arxiv.org/abs/2205.15747v1)|null|
+|**2022-05-30**|**Adversarial synthesis based data-augmentation for code-switched spoken language identification**|Parth Shastri et.al.|[2205.15747v2](http://arxiv.org/abs/2205.15747v2)|null|
 |**2022-05-29**|**Mixture GAN For Modulation Classification Resiliency Against Adversarial Attacks**|Eyad Shtaiwi et.al.|[2205.15743v1](http://arxiv.org/abs/2205.15743v1)|null|
 |**2022-05-31**|**CALEB: A Conditional Adversarial Learning Framework to Enhance Bot Detection**|George Dialektakis et.al.|[2205.15707v1](http://arxiv.org/abs/2205.15707v1)|null|
 |**2022-05-31**|**Augmentation-Aware Self-Supervision for Data-Efficient GAN Training**|Liang Hou et.al.|[2205.15677v1](http://arxiv.org/abs/2205.15677v1)|null|
