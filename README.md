@@ -56,6 +56,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-02**|**Optimal Cooling of Multiple Levitated Particles: Theory of Far-Field Wavefront-Shaping**|Jakob Hüpfl et.al.|[2206.01046v1](http://arxiv.org/abs/2206.01046v1)|null|
 |**2022-05-26**|**Light Field Raindrop Removal via 4D Re-sampling**|Dong Jing et.al.|[2205.13165v1](http://arxiv.org/abs/2205.13165v1)|null|
 |**2022-05-25**|**On the helicity conservation for Mie optical cavities**|Jorge Olmos-Trigo et.al.|[2205.12813v1](http://arxiv.org/abs/2205.12813v1)|null|
 |**2022-05-25**|**On-demand multimode optical storage in a laser-written on-chip waveguide**|Ming-Xu Su et.al.|[2205.12762v1](http://arxiv.org/abs/2205.12762v1)|null|
@@ -160,6 +161,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-02**|**EfficientFormer: Vision Transformers at MobileNet Speed**|Yanyu Li et.al.|[2206.01191v1](http://arxiv.org/abs/2206.01191v1)|**[link](https://github.com/snap-research/efficientformer)**|
+|**2022-06-02**|**Optimizing Relevance Maps of Vision Transformers Improves Robustness**|Hila Chefer et.al.|[2206.01161v1](http://arxiv.org/abs/2206.01161v1)|**[link](https://github.com/hila-chefer/robustvit)**|
+|**2022-06-02**|**XBound-Former: Toward Cross-scale Boundary Modeling in Transformers**|Jiacheng Wang et.al.|[2206.00806v1](http://arxiv.org/abs/2206.00806v1)|**[link](https://github.com/jcwang123/xboundformer)**|
 |**2022-06-01**|**Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer**|Guglielmo Camporese et.al.|[2206.00481v1](http://arxiv.org/abs/2206.00481v1)|null|
 |**2022-06-01**|**A comparative study between vision transformers and CNNs in digital pathology**|Luca Deininger et.al.|[2206.00389v1](http://arxiv.org/abs/2206.00389v1)|null|
 |**2022-06-01**|**CellCentroidFormer: Combining Self-attention and Convolution for Cell Detection**|Royden Wagner et.al.|[2206.00338v1](http://arxiv.org/abs/2206.00338v1)|**[link](https://github.com/roydenwa/cell-centroid-former)**|
@@ -595,6 +599,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-02**|**VL-BEiT: Generative Vision-Language Pretraining**|Hangbo Bao et.al.|[2206.01127v1](http://arxiv.org/abs/2206.01127v1)|null|
+|**2022-06-01**|**Experimental Study of Forced Synchronization and Cross-coupling in a Liquid-Fuelled Gas Turbine Combustor at Elevated Pressure**|Mitchell L. Passarelli et.al.|[2206.00740v1](http://arxiv.org/abs/2206.00740v1)|null|
 |**2022-05-30**|**A multimodal model with Twitter FinBERT embeddings for extreme price movement prediction of Bitcoin**|Yanzhao Zou et.al.|[2206.00648v1](http://arxiv.org/abs/2206.00648v1)|null|
 |**2022-06-01**|**A modular architecture for creating multimodal agents**|Thomas Baier et.al.|[2206.00636v1](http://arxiv.org/abs/2206.00636v1)|null|
 |**2022-05-31**|**AVIDA: Alternating method for Visualizing and Integrating Data**|Kathryn Dover et.al.|[2206.00135v1](http://arxiv.org/abs/2206.00135v1)|null|
@@ -1156,6 +1162,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-02**|**Finding the Right Recipe for Low Resource Domain Adaptation in Neural Machine Translation**|Virginia Adams et.al.|[2206.01137v1](http://arxiv.org/abs/2206.01137v1)|null|
+|**2022-06-02**|**FV-UPatches: Enhancing Universality in Finger Vein Recognition**|Ziyan Chen et.al.|[2206.01061v1](http://arxiv.org/abs/2206.01061v1)|null|
 |**2022-06-01**|**CLIP4IDC: CLIP for Image Difference Captioning**|Zixin Guo et.al.|[2206.00629v1](http://arxiv.org/abs/2206.00629v1)|**[link](https://github.com/sushizixin/clip4idc)**|
 |**2022-06-01**|**IDANI: Inference-time Domain Adaptation via Neuron-level Interventions**|Omer Antverg et.al.|[2206.00259v1](http://arxiv.org/abs/2206.00259v1)|**[link](https://github.com/technion-cs-nlp/idani)**|
 |**2022-06-01**|**A Unified Multi-Task Semantic Communication System with Domain Adaptation**|Guangyi Zhang et.al.|[2206.00254v1](http://arxiv.org/abs/2206.00254v1)|null|
@@ -1543,6 +1551,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-02**|**Self-screening corrections beyond the random-phase approximation: Applications to band gaps of semiconductors**|Viktor Christiansson et.al.|[2206.01169v1](http://arxiv.org/abs/2206.01169v1)|null|
+|**2022-06-02**|**Prefix Conditioning Unifies Language and Label Supervision**|Kuniaki Saito et.al.|[2206.01125v1](http://arxiv.org/abs/2206.01125v1)|null|
+|**2022-06-02**|**Is Mapping Necessary for Realistic PointGoal Navigation?**|Ruslan Partsey et.al.|[2206.00997v1](http://arxiv.org/abs/2206.00997v1)|null|
+|**2022-06-02**|**Transfer Language Selection for Zero-Shot Cross-Lingual Abusive Language Detection**|Juuso Eronen et.al.|[2206.00962v1](http://arxiv.org/abs/2206.00962v1)|null|
+|**2022-06-02**|**Pronunciation Dictionary-Free Multilingual Speech Synthesis by Combining Unsupervised and Supervised Phonetic Representations**|Chang Liu et.al.|[2206.00951v1](http://arxiv.org/abs/2206.00951v1)|null|
+|**2022-06-02**|**Improving Diffusion Models for Inverse Problems using Manifold Constraints**|Hyungjin Chung et.al.|[2206.00941v1](http://arxiv.org/abs/2206.00941v1)|null|
+|**2022-06-02**|**Modeling Image Composition for Complex Scene Generation**|Zuopeng Yang et.al.|[2206.00923v1](http://arxiv.org/abs/2206.00923v1)|null|
+|**2022-06-02**|**Hyperspherical Consistency Regularization**|Cheng Tan et.al.|[2206.00845v1](http://arxiv.org/abs/2206.00845v1)|**[link](https://github.com/chengtan9907/Hyperspherical-Consistency-Regularization)**|
 |**2022-06-01**|**Cross-View Language Modeling: Towards Unified Cross-Lingual Cross-Modal Pre-training**|Yan Zeng et.al.|[2206.00621v1](http://arxiv.org/abs/2206.00621v1)|null|
 |**2022-06-01**|**Dual-stream spatiotemporal networks with feature sharing for monitoring animals in the home cage**|Ezechukwu I. Nwokedi et.al.|[2206.00614v1](http://arxiv.org/abs/2206.00614v1)|null|
 |**2022-06-01**|**Learning Invariant Visual Representations for Compositional Zero-Shot Learning**|Tian Zhang et.al.|[2206.00415v2](http://arxiv.org/abs/2206.00415v2)|null|
@@ -3199,6 +3215,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-02**|**EfficientNeRF: Efficient Neural Radiance Fields**|Tao Hu et.al.|[2206.00878v1](http://arxiv.org/abs/2206.00878v1)|null|
 |**2022-05-31**|**D$^2$NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video**|Tianhao Wu et.al.|[2205.15838v2](http://arxiv.org/abs/2205.15838v2)|null|
 |**2022-05-31**|**SAMURAI: Shape And Material from Unconstrained Real-world Arbitrary Image collections**|Mark Boss et.al.|[2205.15768v1](http://arxiv.org/abs/2205.15768v1)|null|
 |**2022-05-31**|**SymFormer: End-to-end symbolic regression using transformer-based architecture**|Martin Vastl et.al.|[2205.15764v2](http://arxiv.org/abs/2205.15764v2)|**[link](https://github.com/vastlik/symformer)**|
@@ -3283,6 +3300,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-02**|**A Communication-efficient Algorithm with Linear Convergence for Federated Minimax Learning**|Zhenyu Sun et.al.|[2206.01132v1](http://arxiv.org/abs/2206.01132v1)|**[link](https://github.com/starrskyy/fedgda-gt)**|
+|**2022-06-02**|**A Dual-fusion Semantic Segmentation Framework With GAN For SAR Images**|Donghui Li et.al.|[2206.01096v1](http://arxiv.org/abs/2206.01096v1)|null|
+|**2022-06-02**|**Clipped Stochastic Methods for Variational Inequalities with Heavy-Tailed Noise**|Eduard Gorbunov et.al.|[2206.01095v1](http://arxiv.org/abs/2206.01095v1)|null|
+|**2022-06-02**|**Generating Sparse Counterfactual Explanations For Multivariate Time Series**|Jana Lang et.al.|[2206.00931v1](http://arxiv.org/abs/2206.00931v1)|**[link](https://github.com/janalang/sparce)**|
+|**2022-06-02**|**Two Candidate KH 15D-like Systems from the Zwicky Transient Facility**|Wei Zhu et.al.|[2206.00813v1](http://arxiv.org/abs/2206.00813v1)|null|
 |**2022-05-31**|**Decentralized Saddle-Point Problems with Different Constants of Strong Convexity and Strong Concavity**|Dmitriy Metelev et.al.|[2206.00090v1](http://arxiv.org/abs/2206.00090v1)|null|
 |**2022-05-31**|**Generative Models with Information-Theoretic Protection Against Membership Inference Attacks**|Parisa Hassanzadeh et.al.|[2206.00071v1](http://arxiv.org/abs/2206.00071v1)|null|
 |**2022-05-31**|**PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs**|James Oldfield et.al.|[2206.00048v1](http://arxiv.org/abs/2206.00048v1)|**[link](https://github.com/james-oldfield/panda)**|
