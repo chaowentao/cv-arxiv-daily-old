@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.03
+## Updated on 2022.06.04
 
 ## SLAM
 
@@ -316,7 +316,7 @@ layout: default
 |**2022-06-02**|**EfficientFormer: Vision Transformers at MobileNet Speed**|Yanyu Li et.al.|[2206.01191v1](http://arxiv.org/abs/2206.01191v1)|**[link](https://github.com/snap-research/efficientformer)**|
 |**2022-06-02**|**Optimizing Relevance Maps of Vision Transformers Improves Robustness**|Hila Chefer et.al.|[2206.01161v1](http://arxiv.org/abs/2206.01161v1)|**[link](https://github.com/hila-chefer/robustvit)**|
 |**2022-06-02**|**XBound-Former: Toward Cross-scale Boundary Modeling in Transformers**|Jiacheng Wang et.al.|[2206.00806v1](http://arxiv.org/abs/2206.00806v1)|**[link](https://github.com/jcwang123/xboundformer)**|
-|**2022-06-01**|**Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer**|Guglielmo Camporese et.al.|[2206.00481v1](http://arxiv.org/abs/2206.00481v1)|null|
+|**2022-06-01**|**Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer**|Guglielmo Camporese et.al.|[2206.00481v1](http://arxiv.org/abs/2206.00481v1)|**[link](https://github.com/guglielmocamporese/relvit)**|
 |**2022-06-01**|**A comparative study between vision transformers and CNNs in digital pathology**|Luca Deininger et.al.|[2206.00389v1](http://arxiv.org/abs/2206.00389v1)|null|
 |**2022-06-01**|**CellCentroidFormer: Combining Self-attention and Convolution for Cell Detection**|Royden Wagner et.al.|[2206.00338v1](http://arxiv.org/abs/2206.00338v1)|**[link](https://github.com/roydenwa/cell-centroid-former)**|
 |**2022-05-31**|**Surface Analysis with Vision Transformers**|Simon Dahan et.al.|[2205.15836v1](http://arxiv.org/abs/2205.15836v1)|**[link](https://github.com/metrics-lab/surface-vision-transformers)**|
