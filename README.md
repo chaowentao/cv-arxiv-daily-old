@@ -56,6 +56,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-03**|**Structuring the local handedness of synthetic chiral light: global chirality versus polarization of chirality**|Laura Rego et.al.|[2206.01680v1](http://arxiv.org/abs/2206.01680v1)|null|
+|**2022-06-03**|**Exploiting dynamic nonlinearity in upconversion nanoparticles for super-resolution imaging**|Chaohao Chen et.al.|[2206.01375v1](http://arxiv.org/abs/2206.01375v1)|null|
 |**2022-06-02**|**Optimal Cooling of Multiple Levitated Particles: Theory of Far-Field Wavefront-Shaping**|Jakob Hüpfl et.al.|[2206.01046v1](http://arxiv.org/abs/2206.01046v1)|null|
 |**2022-05-26**|**Light Field Raindrop Removal via 4D Re-sampling**|Dong Jing et.al.|[2205.13165v1](http://arxiv.org/abs/2205.13165v1)|null|
 |**2022-05-25**|**On the helicity conservation for Mie optical cavities**|Jorge Olmos-Trigo et.al.|[2205.12813v1](http://arxiv.org/abs/2205.12813v1)|null|
@@ -161,6 +163,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-02**|**Entangled Residual Mappings**|Mathias Lechner et.al.|[2206.01261v1](http://arxiv.org/abs/2206.01261v1)|null|
 |**2022-06-02**|**EfficientFormer: Vision Transformers at MobileNet Speed**|Yanyu Li et.al.|[2206.01191v1](http://arxiv.org/abs/2206.01191v1)|**[link](https://github.com/snap-research/efficientformer)**|
 |**2022-06-02**|**Optimizing Relevance Maps of Vision Transformers Improves Robustness**|Hila Chefer et.al.|[2206.01161v1](http://arxiv.org/abs/2206.01161v1)|**[link](https://github.com/hila-chefer/robustvit)**|
 |**2022-06-02**|**XBound-Former: Toward Cross-scale Boundary Modeling in Transformers**|Jiacheng Wang et.al.|[2206.00806v1](http://arxiv.org/abs/2206.00806v1)|**[link](https://github.com/jcwang123/xboundformer)**|
@@ -494,6 +497,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-03**|**SNAKE: Shape-aware Neural 3D Keypoint Field**|Chengliang Zhong et.al.|[2206.01724v1](http://arxiv.org/abs/2206.01724v1)|**[link](https://github.com/zhongcl-thu/snake)**|
 |**2022-05-30**|**HeatER: An Efficient and Unified Network for Human Reconstruction via Heatmap-based TransformER**|Ce Zheng et.al.|[2205.15448v1](http://arxiv.org/abs/2205.15448v1)|null|
 |**2022-05-25**|**Location-free Human Pose Estimation**|Xixia Xu et.al.|[2205.12619v1](http://arxiv.org/abs/2205.12619v1)|null|
 |**2022-05-25**|**VTP: Volumetric Transformer for Multi-view Multi-person 3D Pose Estimation**|Yuxing Chen et.al.|[2205.12602v1](http://arxiv.org/abs/2205.12602v1)|null|
@@ -599,6 +603,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-03**|**Revisiting the "Video" in Video-Language Understanding**|Shyamal Buch et.al.|[2206.01720v1](http://arxiv.org/abs/2206.01720v1)|null|
+|**2022-06-03**|**OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum**|Peize Li et.al.|[2206.01589v1](http://arxiv.org/abs/2206.01589v1)|null|
+|**2022-06-03**|**Transferring Studies Across Embodiments: A Case Study in Confusion Detection**|Na Li et.al.|[2206.01493v1](http://arxiv.org/abs/2206.01493v1)|null|
+|**2022-06-03**|**Modeling electronic health record data using a knowledge-graph-embedded topic model**|Yuesong Zou et.al.|[2206.01436v1](http://arxiv.org/abs/2206.01436v1)|null|
+|**2022-06-03**|**Vision-Aided Frame-Capture-Based CSI Recomposition for WiFi Sensing: A Multimodal Approach**|Hiroki Shimomura et.al.|[2206.01414v1](http://arxiv.org/abs/2206.01414v1)|null|
 |**2022-06-02**|**VL-BEiT: Generative Vision-Language Pretraining**|Hangbo Bao et.al.|[2206.01127v1](http://arxiv.org/abs/2206.01127v1)|null|
 |**2022-06-01**|**Experimental Study of Forced Synchronization and Cross-coupling in a Liquid-Fuelled Gas Turbine Combustor at Elevated Pressure**|Mitchell L. Passarelli et.al.|[2206.00740v1](http://arxiv.org/abs/2206.00740v1)|null|
 |**2022-05-30**|**A multimodal model with Twitter FinBERT embeddings for extreme price movement prediction of Bitcoin**|Yanzhao Zou et.al.|[2206.00648v1](http://arxiv.org/abs/2206.00648v1)|null|
@@ -1162,6 +1171,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-03**|**On the Generalization of Wasserstein Robust Federated Learning**|Tung-Anh Nguyen et.al.|[2206.01432v1](http://arxiv.org/abs/2206.01432v1)|null|
+|**2022-06-02**|**SPD domain-specific batch normalization to crack interpretable unsupervised domain adaptation in EEG**|Reinmar J Kobler et.al.|[2206.01323v1](http://arxiv.org/abs/2206.01323v1)|null|
+|**2022-06-02**|**Learning Unbiased Transferability for Domain Adaptation by Uncertainty Modeling**|Jian Hu et.al.|[2206.01319v1](http://arxiv.org/abs/2206.01319v1)|null|
 |**2022-06-02**|**Finding the Right Recipe for Low Resource Domain Adaptation in Neural Machine Translation**|Virginia Adams et.al.|[2206.01137v1](http://arxiv.org/abs/2206.01137v1)|null|
 |**2022-06-02**|**FV-UPatches: Enhancing Universality in Finger Vein Recognition**|Ziyan Chen et.al.|[2206.01061v1](http://arxiv.org/abs/2206.01061v1)|null|
 |**2022-06-01**|**CLIP4IDC: CLIP for Image Difference Captioning**|Zixin Guo et.al.|[2206.00629v1](http://arxiv.org/abs/2206.00629v1)|**[link](https://github.com/sushizixin/clip4idc)**|
@@ -1551,6 +1563,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-03**|**SNAKE: Shape-aware Neural 3D Keypoint Field**|Chengliang Zhong et.al.|[2206.01724v1](http://arxiv.org/abs/2206.01724v1)|**[link](https://github.com/zhongcl-thu/snake)**|
+|**2022-06-03**|**Style-Content Disentanglement in Language-Image Pretraining Representations for Zero-Shot Sketch-to-Image Synthesis**|Jan Zuiderveld et.al.|[2206.01661v1](http://arxiv.org/abs/2206.01661v1)|null|
+|**2022-06-03**|**Rethinking Positive Sampling for Contrastive Learning with Kernel**|Benoit Dufumier et.al.|[2206.01646v1](http://arxiv.org/abs/2206.01646v1)|null|
+|**2022-06-03**|**Unsupervised Discovery of Non-Linear Plasma Physics using Differentiable Kinetic Simulations**|Archis S. Joglekar et.al.|[2206.01637v1](http://arxiv.org/abs/2206.01637v1)|null|
+|**2022-06-03**|**Findings of the The RuATD Shared Task 2022 on Artificial Text Detection in Russian**|Tatiana Shamardina et.al.|[2206.01583v1](http://arxiv.org/abs/2206.01583v1)|**[link](https://github.com/dialogue-evaluation/ruatd)**|
+|**2022-06-03**|**Beyond Opinion Mining: Summarizing Opinions of Customer Reviews**|Reinald Kim Amplayo et.al.|[2206.01543v1](http://arxiv.org/abs/2206.01543v1)|null|
+|**2022-06-03**|**Latent Topology Induction for Understanding Contextualized Representations**|Yao Fu et.al.|[2206.01512v1](http://arxiv.org/abs/2206.01512v1)|null|
+|**2022-06-03**|**Photometric properties of nuclear star clusters and their host galaxies in the Fornax cluster**|Alan H. Su et.al.|[2206.01490v1](http://arxiv.org/abs/2206.01490v1)|null|
+|**2022-06-03**|**Zero-Shot Bird Species Recognition by Learning from Field Guides**|Andrés C. Rodríguez et.al.|[2206.01466v1](http://arxiv.org/abs/2206.01466v1)|null|
+|**2022-06-03**|**One-shot Learning for Autonomous Aerial Manipulation**|Claudio Zito et.al.|[2206.01411v1](http://arxiv.org/abs/2206.01411v1)|null|
+|**2022-06-03**|**CF-YOLO: Cross Fusion YOLO for Object Detection in Adverse Weather with a High-quality Real Snow Dataset**|Qiqi Ding et.al.|[2206.01381v1](http://arxiv.org/abs/2206.01381v1)|null|
+|**2022-06-02**|**Code Generation Tools (Almost) for Free? A Study of Few-Shot, Pre-Trained Language Models on Code**|Patrick Bareiß et.al.|[2206.01335v1](http://arxiv.org/abs/2206.01335v1)|null|
+|**2022-06-02**|**SPD domain-specific batch normalization to crack interpretable unsupervised domain adaptation in EEG**|Reinmar J Kobler et.al.|[2206.01323v1](http://arxiv.org/abs/2206.01323v1)|null|
 |**2022-06-02**|**Self-screening corrections beyond the random-phase approximation: Applications to band gaps of semiconductors**|Viktor Christiansson et.al.|[2206.01169v1](http://arxiv.org/abs/2206.01169v1)|null|
 |**2022-06-02**|**Prefix Conditioning Unifies Language and Label Supervision**|Kuniaki Saito et.al.|[2206.01125v1](http://arxiv.org/abs/2206.01125v1)|null|
 |**2022-06-02**|**Is Mapping Necessary for Realistic PointGoal Navigation?**|Ruslan Partsey et.al.|[2206.00997v1](http://arxiv.org/abs/2206.00997v1)|null|
@@ -3215,7 +3240,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-06-02**|**EfficientNeRF: Efficient Neural Radiance Fields**|Tao Hu et.al.|[2206.00878v1](http://arxiv.org/abs/2206.00878v1)|null|
+|**2022-06-03**|**Reinforcement Learning with Neural Radiance Fields**|Danny Driess et.al.|[2206.01634v1](http://arxiv.org/abs/2206.01634v1)|null|
+|**2022-06-02**|**Points2NeRF: Generating Neural Radiance Fields from 3D point cloud**|D. Zimny et.al.|[2206.01290v1](http://arxiv.org/abs/2206.01290v1)|**[link](https://github.com/gmum/points2nerf)**|
+|**2022-06-02**|**EfficientNeRF: Efficient Neural Radiance Fields**|Tao Hu et.al.|[2206.00878v1](http://arxiv.org/abs/2206.00878v1)|**[link](https://github.com/dvlab-research/efficientnerf)**|
 |**2022-05-31**|**D$^2$NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video**|Tianhao Wu et.al.|[2205.15838v2](http://arxiv.org/abs/2205.15838v2)|null|
 |**2022-05-31**|**SAMURAI: Shape And Material from Unconstrained Real-world Arbitrary Image collections**|Mark Boss et.al.|[2205.15768v1](http://arxiv.org/abs/2205.15768v1)|null|
 |**2022-05-31**|**SymFormer: End-to-end symbolic regression using transformer-based architecture**|Martin Vastl et.al.|[2205.15764v2](http://arxiv.org/abs/2205.15764v2)|**[link](https://github.com/vastlik/symformer)**|
@@ -3300,6 +3327,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-03**|**SNAKE: Shape-aware Neural 3D Keypoint Field**|Chengliang Zhong et.al.|[2206.01724v1](http://arxiv.org/abs/2206.01724v1)|**[link](https://github.com/zhongcl-thu/snake)**|
+|**2022-06-03**|**Rethinking Positive Sampling for Contrastive Learning with Kernel**|Benoit Dufumier et.al.|[2206.01646v1](http://arxiv.org/abs/2206.01646v1)|null|
+|**2022-06-03**|**On the Privacy Properties of GAN-generated Samples**|Zinan Lin et.al.|[2206.01349v1](http://arxiv.org/abs/2206.01349v1)|null|
 |**2022-06-02**|**A Communication-efficient Algorithm with Linear Convergence for Federated Minimax Learning**|Zhenyu Sun et.al.|[2206.01132v1](http://arxiv.org/abs/2206.01132v1)|**[link](https://github.com/starrskyy/fedgda-gt)**|
 |**2022-06-02**|**A Dual-fusion Semantic Segmentation Framework With GAN For SAR Images**|Donghui Li et.al.|[2206.01096v1](http://arxiv.org/abs/2206.01096v1)|null|
 |**2022-06-02**|**Clipped Stochastic Methods for Variational Inequalities with Heavy-Tailed Noise**|Eduard Gorbunov et.al.|[2206.01095v1](http://arxiv.org/abs/2206.01095v1)|null|
@@ -3972,6 +4002,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-03**|**Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition**|Paula Delgado-Santos et.al.|[2206.01441v1](http://arxiv.org/abs/2206.01441v1)|null|
 |**2022-05-05**|**Gait Recognition in the Wild: A Benchmark**|Zheng Zhu et.al.|[2205.02692v1](http://arxiv.org/abs/2205.02692v1)|null|
 |**2022-04-12**|**AutoFi: Towards Automatic WiFi Human Sensing via Geometric Self-Supervised Learning**|Jianfei Yang et.al.|[2205.01629v1](http://arxiv.org/abs/2205.01629v1)|null|
 |**2022-04-21**|**HEATGait: Hop-Extracted Adjacency Technique in Graph Convolution based Gait Recognition**|Md. Bakhtiar Hasan et.al.|[2204.10238v1](http://arxiv.org/abs/2204.10238v1)|null|
