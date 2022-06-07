@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.06
+## Updated on 2022.06.07
 
 ## SLAM
 
@@ -1333,12 +1333,12 @@ layout: default
 |**2022-06-01**|**A Unified Multi-Task Semantic Communication System with Domain Adaptation**|Guangyi Zhang et.al.|[2206.00254v1](http://arxiv.org/abs/2206.00254v1)|null|
 |**2022-06-01**|**Cross-domain Detection Transformer based on Spatial-aware and Semantic-aware Token Alignment**|Jinhong Deng et.al.|[2206.00222v1](http://arxiv.org/abs/2206.00222v1)|null|
 |**2022-06-01**|**CAFA: Class-Aware Feature Alignment for Test-Time Adaptation**|Sanghun Jung et.al.|[2206.00205v1](http://arxiv.org/abs/2206.00205v1)|null|
-|**2022-06-01**|**Labeling Where Adapting Fails: Cross-Domain Semantic Segmentation with Point Supervision via Active Selection**|Fei Pan et.al.|[2206.00181v1](http://arxiv.org/abs/2206.00181v1)|null|
+|**2022-06-01**|**Labeling Where Adapting Fails: Cross-Domain Semantic Segmentation with Point Supervision via Active Selection**|Fei Pan et.al.|[2206.00181v2](http://arxiv.org/abs/2206.00181v2)|null|
 |**2022-05-31**|**Co-Training for Unsupervised Domain Adaptation of Semantic Segmentation Models**|Jose L. Gómez et.al.|[2205.15781v1](http://arxiv.org/abs/2205.15781v1)|null|
 |**2022-05-31**|**Contrastive Centroid Supervision Alleviates Domain Shift in Medical Image Classification**|Wenshuo Zhou et.al.|[2205.15658v1](http://arxiv.org/abs/2205.15658v1)|null|
 |**2022-05-31**|**Bag of Tricks for Domain Adaptive Multi-Object Tracking**|Minseok Seo et.al.|[2205.15609v1](http://arxiv.org/abs/2205.15609v1)|**[link](https://github.com/sianalytics/bmtt2022_sia_track)**|
 |**2022-05-31**|**Variational Transfer Learning using Cross-Domain Latent Modulation**|Jinyong Hou et.al.|[2205.15523v1](http://arxiv.org/abs/2205.15523v1)|null|
-|**2022-05-30**|**Connecting adversarial attacks and optimal transport for domain adaptation**|Arip Asadulaev et.al.|[2205.15424v1](http://arxiv.org/abs/2205.15424v1)|null|
+|**2022-05-30**|**Connecting adversarial attacks and optimal transport for domain adaptation**|Arip Asadulaev et.al.|[2205.15424v2](http://arxiv.org/abs/2205.15424v2)|null|
 |**2022-05-30**|**Few-Shot Adaptation of Pre-Trained Networks for Domain Shift**|Wenyu Zhang et.al.|[2205.15234v1](http://arxiv.org/abs/2205.15234v1)|null|
 |**2022-05-30**|**Unbalanced CO-Optimal Transport**|Quang Huy Tran et.al.|[2205.14923v2](http://arxiv.org/abs/2205.14923v2)|null|
 |**2022-05-29**|**ProxyMix: Proxy-based Mixup Training with Label Refinery for Source-Free Domain Adaptation**|Yuhe Ding et.al.|[2205.14566v1](http://arxiv.org/abs/2205.14566v1)|**[link](https://github.com/yuhed/proxymix)**|
@@ -3398,7 +3398,7 @@ layout: default
 |**2022-05-31**|**D$^2$NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video**|Tianhao Wu et.al.|[2205.15838v2](http://arxiv.org/abs/2205.15838v2)|null|
 |**2022-05-31**|**SAMURAI: Shape And Material from Unconstrained Real-world Arbitrary Image collections**|Mark Boss et.al.|[2205.15768v1](http://arxiv.org/abs/2205.15768v1)|null|
 |**2022-05-31**|**SymFormer: End-to-end symbolic regression using transformer-based architecture**|Martin Vastl et.al.|[2205.15764v2](http://arxiv.org/abs/2205.15764v2)|**[link](https://github.com/vastlik/symformer)**|
-|**2022-05-31**|**DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes**|Jia-Wei Liu et.al.|[2205.15723v1](http://arxiv.org/abs/2205.15723v1)|**[link](https://github.com/showlab/devrf)**|
+|**2022-05-31**|**DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes**|Jia-Wei Liu et.al.|[2205.15723v2](http://arxiv.org/abs/2205.15723v2)|**[link](https://github.com/showlab/devrf)**|
 |**2022-05-31**|**Novel View Synthesis for High-fidelity Headshot Scenes**|Satoshi Tsutsui et.al.|[2205.15595v1](http://arxiv.org/abs/2205.15595v1)|**[link](https://github.com/showlab/headshot)**|
 |**2022-05-31**|**Decomposing NeRF for Editing via Feature Field Distillation**|Sosuke Kobayashi et.al.|[2205.15585v1](http://arxiv.org/abs/2205.15585v1)|null|
 |**2022-05-30**|**Fast Dynamic Radiance Fields with Time-Aware Neural Voxels**|Jiemin Fang et.al.|[2205.15285v1](http://arxiv.org/abs/2205.15285v1)|null|
