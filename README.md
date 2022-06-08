@@ -1,4 +1,4 @@
-## Updated on 2022.06.07
+## Updated on 2022.06.08
 
 ## Image Generation
 
@@ -166,7 +166,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-06-06**|**Separable Self-attention for Mobile Vision Transformers**|Sachin Mehta et.al.|[2206.02680v1](http://arxiv.org/abs/2206.02680v1)|**[link](https://github.com/apple/ml-cvnets)**|
-|**2022-06-06**|**Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning**|Richard J. Chen et.al.|[2206.02647v1](http://arxiv.org/abs/2206.02647v1)|null|
+|**2022-06-06**|**Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning**|Richard J. Chen et.al.|[2206.02647v1](http://arxiv.org/abs/2206.02647v1)|**[link](https://github.com/mahmoodlab/hipt)**|
 |**2022-06-06**|**Sports Re-ID: Improving Re-Identification Of Players In Broadcast Videos Of Team Sports**|Bharath Comandur et.al.|[2206.02373v1](http://arxiv.org/abs/2206.02373v1)|null|
 |**2022-06-05**|**Federated Adversarial Training with Transformers**|Ahmed Aldahdooh et.al.|[2206.02131v1](http://arxiv.org/abs/2206.02131v1)|null|
 |**2022-06-04**|**Video-based Human-Object Interaction Detection from Tubelet Tokens**|Danyang Tu et.al.|[2206.01908v1](http://arxiv.org/abs/2206.01908v1)|null|
@@ -183,7 +183,7 @@
 |**2022-05-30**|**Few-Shot Diffusion Models**|Giorgio Giannone et.al.|[2205.15463v1](http://arxiv.org/abs/2205.15463v1)|null|
 |**2022-05-30**|**HeatER: An Efficient and Unified Network for Human Reconstruction via Heatmap-based TransformER**|Ce Zheng et.al.|[2205.15448v1](http://arxiv.org/abs/2205.15448v1)|null|
 |**2022-05-30**|**Zero-Shot and Few-Shot Learning for Lung Cancer Multi-Label Classification using Vision Transformer**|Fu-Ming Guo et.al.|[2205.15290v2](http://arxiv.org/abs/2205.15290v2)|null|
-|**2022-05-30**|**Self-Supervised Pre-training of Vision Transformers for Dense Prediction Tasks**|Jaonary Rabarisoa et.al.|[2205.15173v1](http://arxiv.org/abs/2205.15173v1)|null|
+|**2022-05-30**|**Self-Supervised Pre-training of Vision Transformers for Dense Prediction Tasks**|Jaonary Rabarisoa et.al.|[2205.15173v2](http://arxiv.org/abs/2205.15173v2)|null|
 |**2022-05-30**|**GMML is All you Need**|Sara Atito et.al.|[2205.14986v1](http://arxiv.org/abs/2205.14986v1)|**[link](https://github.com/sara-ahmed/gmml)**|
 |**2022-05-30**|**HiViT: Hierarchical Vision Transformer Meets Masked Image Modeling**|Xiaosong Zhang et.al.|[2205.14949v1](http://arxiv.org/abs/2205.14949v1)|null|
 |**2022-05-29**|**EfficientViT: Enhanced Linear Attention for High-Resolution Low-Computation Visual Recognition**|Han Cai et.al.|[2205.14756v1](http://arxiv.org/abs/2205.14756v1)|null|
@@ -627,7 +627,7 @@
 |**2022-06-05**|**Towards Fast Adaptation of Pretrained Contrastive Models for Multi-channel Video-Language Retrieval**|Xudong Lin et.al.|[2206.02082v1](http://arxiv.org/abs/2206.02082v1)|null|
 |**2022-06-04**|**Nonlinear beam self-maintaining effect in graded-index multimode fiber**|Baofu Zhang et.al.|[2206.02024v1](http://arxiv.org/abs/2206.02024v1)|null|
 |**2022-06-03**|**Revisiting the "Video" in Video-Language Understanding**|Shyamal Buch et.al.|[2206.01720v1](http://arxiv.org/abs/2206.01720v1)|null|
-|**2022-06-03**|**OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum**|Peize Li et.al.|[2206.01589v1](http://arxiv.org/abs/2206.01589v1)|null|
+|**2022-06-03**|**OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum**|Peize Li et.al.|[2206.01589v1](http://arxiv.org/abs/2206.01589v1)|**[link](https://github.com/maps-lab/odombeyondvision)**|
 |**2022-06-03**|**Transferring Studies Across Embodiments: A Case Study in Confusion Detection**|Na Li et.al.|[2206.01493v1](http://arxiv.org/abs/2206.01493v1)|null|
 |**2022-06-03**|**Modeling electronic health record data using a knowledge-graph-embedded topic model**|Yuesong Zou et.al.|[2206.01436v1](http://arxiv.org/abs/2206.01436v1)|null|
 |**2022-06-03**|**Vision-Aided Frame-Capture-Based CSI Recomposition for WiFi Sensing: A Multimodal Approach**|Hiroki Shimomura et.al.|[2206.01414v1](http://arxiv.org/abs/2206.01414v1)|null|
@@ -1197,7 +1197,7 @@
 |**2022-06-03**|**Team VI-I2R Technical Report on EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition 2021**|Yi Cheng et.al.|[2206.02573v1](http://arxiv.org/abs/2206.02573v1)|null|
 |**2022-06-06**|**Relation Matters: Foreground-aware Graph-based Relational Reasoning for Domain Adaptive Object Detection**|Chaoqi Chen et.al.|[2206.02355v1](http://arxiv.org/abs/2206.02355v1)|null|
 |**2022-06-05**|**ACT: Semi-supervised Domain-adaptive Medical Image Segmentation with Asymmetric Co-Training**|Xiaofeng Liu et.al.|[2206.02288v1](http://arxiv.org/abs/2206.02288v1)|null|
-|**2022-06-05**|**Efficient Annotation and Learning for 3D Hand Pose Estimation: A Survey**|Takehiko Ohkawa et.al.|[2206.02257v1](http://arxiv.org/abs/2206.02257v1)|null|
+|**2022-06-05**|**Efficient Annotation and Learning for 3D Hand Pose Estimation: A Survey**|Takehiko Ohkawa et.al.|[2206.02257v2](http://arxiv.org/abs/2206.02257v2)|null|
 |**2022-06-03**|**On the Generalization of Wasserstein Robust Federated Learning**|Tung-Anh Nguyen et.al.|[2206.01432v1](http://arxiv.org/abs/2206.01432v1)|null|
 |**2022-06-02**|**SPD domain-specific batch normalization to crack interpretable unsupervised domain adaptation in EEG**|Reinmar J Kobler et.al.|[2206.01323v1](http://arxiv.org/abs/2206.01323v1)|null|
 |**2022-06-02**|**Learning Unbiased Transferability for Domain Adaptation by Uncertainty Modeling**|Jian Hu et.al.|[2206.01319v1](http://arxiv.org/abs/2206.01319v1)|null|
@@ -1595,21 +1595,21 @@
 |**2022-06-06**|**Stacked unsupervised learning with a network architecture found by supervised meta-learning**|Kyle Luther et.al.|[2206.02716v1](http://arxiv.org/abs/2206.02716v1)|null|
 |**2022-06-06**|**Curriculum-Based Self-Training Makes Better Few-Shot Learners for Data-to-Text Generation**|Pei Ke et.al.|[2206.02712v1](http://arxiv.org/abs/2206.02712v1)|null|
 |**2022-06-06**|**Learning to Ask Like a Physician**|Eric Lehman et.al.|[2206.02696v1](http://arxiv.org/abs/2206.02696v1)|null|
-|**2022-06-06**|**UTTS: Unsupervised TTS with Conditional Disentangled Sequential Variational Auto-encoder**|Jiachen Lian et.al.|[2206.02512v1](http://arxiv.org/abs/2206.02512v1)|null|
+|**2022-06-06**|**UTTS: Unsupervised TTS with Conditional Disentangled Sequential Variational Auto-encoder**|Jiachen Lian et.al.|[2206.02512v2](http://arxiv.org/abs/2206.02512v2)|null|
 |**2022-06-06**|**Improving Contrastive Learning of Sentence Embeddings with Case-Augmented Positives and Retrieved Negatives**|Wei Wang et.al.|[2206.02457v1](http://arxiv.org/abs/2206.02457v1)|**[link](https://github.com/alibaba/simcse-with-cards)**|
 |**2022-06-06**|**Online Neural Diarization of Unlimited Numbers of Speakers**|Shota Horiguchi et.al.|[2206.02432v1](http://arxiv.org/abs/2206.02432v1)|null|
 |**2022-06-06**|**OrdinalCLIP: Learning Rank Prompts for Language-Guided Ordinal Regression**|Wanhua Li et.al.|[2206.02338v1](http://arxiv.org/abs/2206.02338v1)|null|
-|**2022-06-06**|**On the Advance of Making Language Models Better Reasoners**|Yifei Li et.al.|[2206.02336v1](http://arxiv.org/abs/2206.02336v1)|null|
+|**2022-06-06**|**On the Advance of Making Language Models Better Reasoners**|Yifei Li et.al.|[2206.02336v2](http://arxiv.org/abs/2206.02336v2)|null|
 |**2022-06-06**|**Hashing Learning with Hyper-Class Representation**|Shichao Zhang et.al.|[2206.02334v1](http://arxiv.org/abs/2206.02334v1)|null|
 |**2022-06-05**|**Towards Individual Grevy's Zebra Identification via Deep 3D Fitting and Metric Learning**|Maria Stennett et.al.|[2206.02261v1](http://arxiv.org/abs/2206.02261v1)|null|
-|**2022-06-05**|**Rapid Learning of Spatial Representations for Goal-Directed Navigation Based on a Novel Model of Hippocampal Place Fields**|Adedapo Alabi et.al.|[2206.02249v1](http://arxiv.org/abs/2206.02249v1)|null|
+|**2022-06-05**|**Rapid Learning of Spatial Representations for Goal-Directed Navigation Based on a Novel Model of Hippocampal Place Fields**|Adedapo Alabi et.al.|[2206.02249v2](http://arxiv.org/abs/2206.02249v2)|null|
 |**2022-06-05**|**Zero-Shot Voice Conditioning for Denoising Diffusion TTS Models**|Alon Levkovitch et.al.|[2206.02246v1](http://arxiv.org/abs/2206.02246v1)|null|
 |**2022-06-05**|**Physically Inspired Constraint for Unsupervised Regularized Ultrasound Elastography**|Ali K. Z. Tehrani et.al.|[2206.02225v1](http://arxiv.org/abs/2206.02225v1)|null|
 |**2022-06-05**|**Semi-Supervised Learning for Mars Imagery Classification and Segmentation**|Wenjing Wang et.al.|[2206.02180v1](http://arxiv.org/abs/2206.02180v1)|null|
 |**2022-06-05**|**A Simple Meta-learning Paradigm for Zero-shot Intent Classification with Mixture Attention Mechanism**|Han Liu et.al.|[2206.02179v1](http://arxiv.org/abs/2206.02179v1)|null|
 |**2022-06-04**|**Learning Robust Representations Of Generative Models Using Set-Based Artificial Fingerprints**|Hae Jin Song et.al.|[2206.02067v1](http://arxiv.org/abs/2206.02067v1)|null|
 |**2022-06-04**|**Guided Deep Metric Learning**|Jorge Gonzalez-Zapata et.al.|[2206.02029v1](http://arxiv.org/abs/2206.02029v1)|null|
-|**2022-06-04**|**CAINNFlow: Convolutional block Attention modules and Invertible Neural Networks Flow for anomaly detection and localization tasks**|Ruiqing Yan et.al.|[2206.01992v1](http://arxiv.org/abs/2206.01992v1)|null|
+|**2022-06-04**|**CAINNFlow: Convolutional block Attention modules and Invertible Neural Networks Flow for anomaly detection and localization tasks**|Ruiqing Yan et.al.|[2206.01992v2](http://arxiv.org/abs/2206.01992v2)|null|
 |**2022-06-03**|**SNAKE: Shape-aware Neural 3D Keypoint Field**|Chengliang Zhong et.al.|[2206.01724v1](http://arxiv.org/abs/2206.01724v1)|**[link](https://github.com/zhongcl-thu/snake)**|
 |**2022-06-03**|**Style-Content Disentanglement in Language-Image Pretraining Representations for Zero-Shot Sketch-to-Image Synthesis**|Jan Zuiderveld et.al.|[2206.01661v1](http://arxiv.org/abs/2206.01661v1)|null|
 |**2022-06-03**|**Rethinking Positive Sampling for Contrastive Learning with Kernel**|Benoit Dufumier et.al.|[2206.01646v1](http://arxiv.org/abs/2206.01646v1)|null|
