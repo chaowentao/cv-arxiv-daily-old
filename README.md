@@ -57,7 +57,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-07**|**Critical Regularizations for Neural Surface Reconstruction in the Wild**|Jingyang Zhang et.al.|[2206.03087v1](http://arxiv.org/abs/2206.03087v1)|null|
+|**2022-06-07**|**Generation of optical vortices imitating water vortices**|Jun Yao et.al.|[2206.03058v1](http://arxiv.org/abs/2206.03058v1)|null|
 |**2022-06-05**|**Ultrafast Transverse Modulation of Free Electrons by Interaction with Shaped Optical Fields**|I. Madan et.al.|[2206.02221v1](http://arxiv.org/abs/2206.02221v1)|null|
+|**2022-06-03**|**Tilting light's polarization plane to spatially separate the nonlinear optical response of chiral molecules on ultrafast timescales**|Laura Rego et.al.|[2206.01719v2](http://arxiv.org/abs/2206.01719v2)|null|
 |**2022-06-03**|**Structuring the local handedness of synthetic chiral light: global chirality versus polarization of chirality**|Laura Rego et.al.|[2206.01680v1](http://arxiv.org/abs/2206.01680v1)|null|
 |**2022-06-03**|**Exploiting dynamic nonlinearity in upconversion nanoparticles for super-resolution imaging**|Chaohao Chen et.al.|[2206.01375v1](http://arxiv.org/abs/2206.01375v1)|null|
 |**2022-06-02**|**Optimal Cooling of Multiple Levitated Particles: Theory of Far-Field Wavefront-Shaping**|Jakob Hüpfl et.al.|[2206.01046v1](http://arxiv.org/abs/2206.01046v1)|null|
@@ -165,6 +168,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-07**|**Can CNNs Be More Robust Than Transformers?**|Zeyu Wang et.al.|[2206.03452v1](http://arxiv.org/abs/2206.03452v1)|**[link](https://github.com/ucsc-vlaa/robustcnn)**|
+|**2022-06-07**|**Pancreatic Cancer ROSE Image Classification Based on Multiple Instance Learning with Shuffle Instances**|Tianyi Zhang et.al.|[2206.03080v1](http://arxiv.org/abs/2206.03080v1)|null|
 |**2022-06-06**|**Separable Self-attention for Mobile Vision Transformers**|Sachin Mehta et.al.|[2206.02680v1](http://arxiv.org/abs/2206.02680v1)|**[link](https://github.com/apple/ml-cvnets)**|
 |**2022-06-06**|**Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning**|Richard J. Chen et.al.|[2206.02647v1](http://arxiv.org/abs/2206.02647v1)|**[link](https://github.com/mahmoodlab/hipt)**|
 |**2022-06-06**|**Sports Re-ID: Improving Re-Identification Of Players In Broadcast Videos Of Team Sports**|Bharath Comandur et.al.|[2206.02373v1](http://arxiv.org/abs/2206.02373v1)|null|
@@ -612,6 +617,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-07**|**Parotid Gland MRI Segmentation Based on Swin-Unet and Multimodal Images**|Yin Dai et.al.|[2206.03336v1](http://arxiv.org/abs/2206.03336v1)|null|
 |**2022-06-06**|**Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts**|Basil Mustafa et.al.|[2206.02770v1](http://arxiv.org/abs/2206.02770v1)|null|
 |**2022-06-06**|**FuSS: Fusing Superpixels for Improved Segmentation Consistency**|Ian Nunes et.al.|[2206.02714v1](http://arxiv.org/abs/2206.02714v1)|**[link](https://github.com/iannunes/fuss)**|
 |**2022-06-06**|**Canonical Cortical Graph Neural Networks and its Application for Speech Enhancement in Future Audio-Visual Hearing Aids**|Leandro A. Passos et.al.|[2206.02671v1](http://arxiv.org/abs/2206.02671v1)|null|
@@ -1194,6 +1200,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-07**|**Self-supervised Domain Adaptation in Crowd Counting**|Pha Nguyen et.al.|[2206.03431v1](http://arxiv.org/abs/2206.03431v1)|null|
+|**2022-06-07**|**Searching for Optimal Subword Tokenization in Cross-domain NER**|Ruotian Ma et.al.|[2206.03352v1](http://arxiv.org/abs/2206.03352v1)|null|
+|**2022-06-07**|**Deep Learning Techniques for Visual Counting**|Luca Ciampi et.al.|[2206.03033v1](http://arxiv.org/abs/2206.03033v1)|null|
 |**2022-06-03**|**Team VI-I2R Technical Report on EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition 2021**|Yi Cheng et.al.|[2206.02573v1](http://arxiv.org/abs/2206.02573v1)|null|
 |**2022-06-06**|**Relation Matters: Foreground-aware Graph-based Relational Reasoning for Domain Adaptive Object Detection**|Chaoqi Chen et.al.|[2206.02355v1](http://arxiv.org/abs/2206.02355v1)|null|
 |**2022-06-05**|**ACT: Semi-supervised Domain-adaptive Medical Image Segmentation with Asymmetric Co-Training**|Xiaofeng Liu et.al.|[2206.02288v1](http://arxiv.org/abs/2206.02288v1)|null|
@@ -1590,7 +1599,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-06-06**|**GenSDF: Two-Stage Learning of Generalizable Signed Distance Functions**|Gene Chou et.al.|[2206.02780v1](http://arxiv.org/abs/2206.02780v1)|null|
+|**2022-06-07**|**Few-Shot Learning by Dimensionality Reduction in Gradient Space**|Martin Gauch et.al.|[2206.03483v1](http://arxiv.org/abs/2206.03483v1)|**[link](https://github.com/ml-jku/subgd)**|
+|**2022-06-07**|**SHRED: 3D Shape Region Decomposition with Learned Local Operations**|R. Kenny Jones et.al.|[2206.03480v1](http://arxiv.org/abs/2206.03480v1)|null|
+|**2022-06-07**|**Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models**|Walter H. L. Pinaya et.al.|[2206.03461v1](http://arxiv.org/abs/2206.03461v1)|null|
+|**2022-06-07**|**Searching for Optimal Subword Tokenization in Cross-domain NER**|Ruotian Ma et.al.|[2206.03352v1](http://arxiv.org/abs/2206.03352v1)|null|
+|**2022-06-07**|**Neural Network Decoders for Permutation Codes Correcting Different Errors**|Yeow Meng Chee et.al.|[2206.03315v1](http://arxiv.org/abs/2206.03315v1)|null|
+|**2022-06-07**|**Unsupervised Context Aware Sentence Representation Pretraining for Multi-lingual Dense Retrieval**|Ning Wu et.al.|[2206.03281v1](http://arxiv.org/abs/2206.03281v1)|**[link](https://github.com/wuning0929/ccp_ijcai22)**|
+|**2022-06-07**|**FlexLip: A Controllable Text-to-Lip System**|Dan Oneata et.al.|[2206.03206v1](http://arxiv.org/abs/2206.03206v1)|null|
+|**2022-06-07**|**Intra-agent speech permits zero-shot task acquisition**|Chen Yan et.al.|[2206.03139v1](http://arxiv.org/abs/2206.03139v1)|null|
+|**2022-06-07**|**Towards Meta-learned Algorithm Selection using Implicit Fidelity Information**|Aditya Mohan et.al.|[2206.03130v1](http://arxiv.org/abs/2206.03130v1)|null|
+|**2022-06-07**|**Online Deep Clustering with Video Track Consistency**|Alessandra Alfani et.al.|[2206.03086v1](http://arxiv.org/abs/2206.03086v1)|null|
+|**2022-06-07**|**OCHADAI at SemEval-2022 Task 2: Adversarial Training for Multilingual Idiomaticity Detection**|Lis Kanashiro Pereira et.al.|[2206.03025v1](http://arxiv.org/abs/2206.03025v1)|null|
+|**2022-06-07**|**How Far I'll Go: Offline Goal-Conditioned Reinforcement Learning via $f$-Advantage Regression**|Yecheng Jason Ma et.al.|[2206.03023v1](http://arxiv.org/abs/2206.03023v1)|**[link](https://github.com/jasonma2016/gofar)**|
+|**2022-06-07**|**DynaMaR: Dynamic Prompt with Mask Token Representation**|Xiaodi Sun et.al.|[2206.02982v1](http://arxiv.org/abs/2206.02982v1)|null|
+|**2022-06-07**|**Masked Unsupervised Self-training for Zero-shot Image Classification**|Junnan Li et.al.|[2206.02967v1](http://arxiv.org/abs/2206.02967v1)|**[link](https://github.com/salesforce/must)**|
+|**2022-06-06**|**No Parameter Left Behind: How Distillation and Model Size Affect Zero-Shot Retrieval**|Guilherme Moraes Rosa et.al.|[2206.02873v1](http://arxiv.org/abs/2206.02873v1)|null|
+|**2022-06-06**|**Researching Alignment Research: Unsupervised Analysis**|Jan H. Kirchner et.al.|[2206.02841v1](http://arxiv.org/abs/2206.02841v1)|**[link](https://github.com/moirage/alignment-research-dataset)**|
+|**2022-06-06**|**GenSDF: Two-Stage Learning of Generalizable Signed Distance Functions**|Gene Chou et.al.|[2206.02780v1](http://arxiv.org/abs/2206.02780v1)|**[link](https://github.com/princeton-computational-imaging/gensdf)**|
 |**2022-06-06**|**Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts**|Basil Mustafa et.al.|[2206.02770v1](http://arxiv.org/abs/2206.02770v1)|null|
 |**2022-06-06**|**Stacked unsupervised learning with a network architecture found by supervised meta-learning**|Kyle Luther et.al.|[2206.02716v1](http://arxiv.org/abs/2206.02716v1)|null|
 |**2022-06-06**|**Curriculum-Based Self-Training Makes Better Few-Shot Learners for Data-to-Text Generation**|Pei Ke et.al.|[2206.02712v1](http://arxiv.org/abs/2206.02712v1)|null|
@@ -3374,6 +3399,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-07**|**Chip-integrated van der Waals PN heterojunction photodetector with low dark current and high responsivity**|Ruijuan Tian et.al.|[2206.03308v1](http://arxiv.org/abs/2206.03308v1)|null|
+|**2022-06-07**|**Electrically tunable second harmonic generation in atomically thin ReS2**|Jing Wang et.al.|[2206.03240v1](http://arxiv.org/abs/2206.03240v1)|null|
+|**2022-06-07**|**High-efficiency second-harmonic and sum-frequency generation in a silicon nitride microring integrated with few-layer GaSe**|Binbin Wang et.al.|[2206.03143v1](http://arxiv.org/abs/2206.03143v1)|null|
+|**2022-06-07**|**Singapore Soundscape Site Selection Survey (S5): Identification of Characteristic Soundscapes of Singapore via Weighted k-means Clustering**|Kenneth Ooi et.al.|[2206.03112v1](http://arxiv.org/abs/2206.03112v1)|**[link](https://github.com/ntudsp/singapore-soundscape-site-selection-survey)**|
+|**2022-06-07**|**Crossing the Linguistic Causeway: A Binational Approach for Translating Soundscape Attributes to Bahasa Melayu**|Bhan Lam et.al.|[2206.03104v1](http://arxiv.org/abs/2206.03104v1)|**[link](https://github.com/ntudsp/satp-zsm-stage1)**|
+|**2022-06-07**|**Strong Second Harmonic Generation from Bilayer Graphene with Symmetry Breaking by Redox-Governed Charge Doping**|Mingwen Zhang et.al.|[2206.03078v1](http://arxiv.org/abs/2206.03078v1)|null|
+|**2022-06-06**|**Polymorphic-GAN: Generating Aligned Samples across Multiple Domains with Learned Morph Maps**|Seung Wook Kim et.al.|[2206.02903v1](http://arxiv.org/abs/2206.02903v1)|null|
 |**2022-06-06**|**Blended Latent Diffusion**|Omri Avrahami et.al.|[2206.02779v1](http://arxiv.org/abs/2206.02779v1)|null|
 |**2022-06-05**|**Diffusion-GAN: Training GANs with Diffusion**|Zhendong Wang et.al.|[2206.02262v1](http://arxiv.org/abs/2206.02262v1)|null|
 |**2022-06-05**|**Femtosecond pump-probe absorption edge spectroscopy of cubic GaN**|Elias Baron et.al.|[2206.02223v1](http://arxiv.org/abs/2206.02223v1)|null|
