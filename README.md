@@ -1,4 +1,4 @@
-## Updated on 2022.06.08
+## Updated on 2022.06.09
 
 ## Image Generation
 
@@ -625,7 +625,7 @@
 |**2022-06-06**|**BehavePassDB: Benchmarking Mobile Behavioral Biometrics**|Giuseppe Stragapede et.al.|[2206.02502v1](http://arxiv.org/abs/2206.02502v1)|null|
 |**2022-06-06**|**mmFormer: Multimodal Medical Transformer for Incomplete Multimodal Learning of Brain Tumor Segmentation**|Yao Zhang et.al.|[2206.02425v1](http://arxiv.org/abs/2206.02425v1)|**[link](https://github.com/yaozhang93/mmformer)**|
 |**2022-06-06**|**Bayesian intrinsic groupwise registration via explicit hierarchical disentanglement**|Xin Wang et.al.|[2206.02377v1](http://arxiv.org/abs/2206.02377v1)|null|
-|**2022-06-06**|**Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data**|Shohreh Deldari et.al.|[2206.02353v1](http://arxiv.org/abs/2206.02353v1)|null|
+|**2022-06-06**|**Beyond Just Vision: A Review on Self-Supervised Representation Learning on Multimodal and Temporal Data**|Shohreh Deldari et.al.|[2206.02353v2](http://arxiv.org/abs/2206.02353v2)|null|
 |**2022-06-06**|**Contrastive Graph Multimodal Model for Text Classification in Videos**|Ye Liu et.al.|[2206.02343v1](http://arxiv.org/abs/2206.02343v1)|null|
 |**2022-06-05**|**M2FNet: Multi-modal Fusion Network for Emotion Recognition in Conversation**|Vishal Chudasama et.al.|[2206.02187v1](http://arxiv.org/abs/2206.02187v1)|null|
 |**2022-06-05**|**MotionCNN: A Strong Baseline for Motion Prediction in Autonomous Driving**|Stepan Konev et.al.|[2206.02163v1](http://arxiv.org/abs/2206.02163v1)|**[link](https://github.com/kbrodt/waymo-motion-prediction-2021)**|
@@ -1202,7 +1202,7 @@
 |---|---|---|---|---|
 |**2022-06-07**|**Self-supervised Domain Adaptation in Crowd Counting**|Pha Nguyen et.al.|[2206.03431v1](http://arxiv.org/abs/2206.03431v1)|null|
 |**2022-06-07**|**Searching for Optimal Subword Tokenization in Cross-domain NER**|Ruotian Ma et.al.|[2206.03352v1](http://arxiv.org/abs/2206.03352v1)|null|
-|**2022-06-07**|**Deep Learning Techniques for Visual Counting**|Luca Ciampi et.al.|[2206.03033v1](http://arxiv.org/abs/2206.03033v1)|null|
+|**2022-06-07**|**Deep Learning Techniques for Visual Counting**|Luca Ciampi et.al.|[2206.03033v2](http://arxiv.org/abs/2206.03033v2)|null|
 |**2022-06-03**|**Team VI-I2R Technical Report on EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition 2021**|Yi Cheng et.al.|[2206.02573v1](http://arxiv.org/abs/2206.02573v1)|null|
 |**2022-06-06**|**Relation Matters: Foreground-aware Graph-based Relational Reasoning for Domain Adaptive Object Detection**|Chaoqi Chen et.al.|[2206.02355v1](http://arxiv.org/abs/2206.02355v1)|null|
 |**2022-06-05**|**ACT: Semi-supervised Domain-adaptive Medical Image Segmentation with Asymmetric Co-Training**|Xiaofeng Liu et.al.|[2206.02288v1](http://arxiv.org/abs/2206.02288v1)|null|
@@ -3324,7 +3324,7 @@
 |**2022-05-30**|**Fast Dynamic Radiance Fields with Time-Aware Neural Voxels**|Jiemin Fang et.al.|[2205.15285v1](http://arxiv.org/abs/2205.15285v1)|null|
 |**2022-05-30**|**Neural Volumetric Object Selection**|Zhongzheng Ren et.al.|[2205.14929v1](http://arxiv.org/abs/2205.14929v1)|null|
 |**2022-05-30**|**Compressible-composable NeRF via Rank-residual Decomposition**|Jiaxiang Tang et.al.|[2205.14870v1](http://arxiv.org/abs/2205.14870v1)|**[link](https://github.com/ashawkey/ccnerf)**|
-|**2022-05-28**|**Differentiable Point-Based Radiance Fields for Efficient View Synthesis**|Qiang Zhang et.al.|[2205.14330v1](http://arxiv.org/abs/2205.14330v1)|null|
+|**2022-05-28**|**Differentiable Point-Based Radiance Fields for Efficient View Synthesis**|Qiang Zhang et.al.|[2205.14330v2](http://arxiv.org/abs/2205.14330v2)|null|
 |**2022-05-24**|**StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning**|Yi-Hua Huang et.al.|[2205.12183v2](http://arxiv.org/abs/2205.12183v2)|null|
 |**2022-05-19**|**Mip-NeRF RGB-D: Depth Assisted Fast Neural Radiance Fields**|Arnab Dey et.al.|[2205.09351v1](http://arxiv.org/abs/2205.09351v1)|null|
 |**2022-05-18**|**Fast Neural Network based Solving of Partial Differential Equations**|Jaroslaw Rzepecki et.al.|[2205.08978v2](http://arxiv.org/abs/2205.08978v2)|null|
