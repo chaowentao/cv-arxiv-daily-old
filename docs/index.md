@@ -769,6 +769,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-08**|**High-dimensional limit theorems for SGD: Effective dynamics and critical scaling**|Gerard Ben Arous et.al.|[2206.04030v1](http://arxiv.org/abs/2206.04030v1)|null|
+|**2022-06-08**|**Decentralized, not Dehumanized in the Metaverse: Bringing Utility to NFTs through Multimodal Interaction**|Anqi Wang et.al.|[2206.03737v1](http://arxiv.org/abs/2206.03737v1)|null|
 |**2022-06-07**|**Parotid Gland MRI Segmentation Based on Swin-Unet and Multimodal Images**|Yin Dai et.al.|[2206.03336v1](http://arxiv.org/abs/2206.03336v1)|null|
 |**2022-06-06**|**Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts**|Basil Mustafa et.al.|[2206.02770v1](http://arxiv.org/abs/2206.02770v1)|null|
 |**2022-06-06**|**FuSS: Fusing Superpixels for Improved Segmentation Consistency**|Ian Nunes et.al.|[2206.02714v1](http://arxiv.org/abs/2206.02714v1)|**[link](https://github.com/iannunes/fuss)**|
@@ -1352,6 +1354,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-08**|**ConFUDA: Contrastive Fewshot Unsupervised Domain Adaptation for Medical Image Segmentation**|Mingxuan Gu et.al.|[2206.03888v1](http://arxiv.org/abs/2206.03888v1)|null|
+|**2022-06-08**|**Joint Adversarial Learning for Cross-domain Fair Classification**|Yueqing Liang et.al.|[2206.03656v1](http://arxiv.org/abs/2206.03656v1)|null|
+|**2022-06-07**|**One Ring to Bring Them All: Towards Open-Set Recognition under Domain Shift**|Shiqi Yang et.al.|[2206.03600v1](http://arxiv.org/abs/2206.03600v1)|**[link](https://github.com/albert0147/onering)**|
 |**2022-06-07**|**Self-supervised Domain Adaptation in Crowd Counting**|Pha Nguyen et.al.|[2206.03431v1](http://arxiv.org/abs/2206.03431v1)|null|
 |**2022-06-07**|**Searching for Optimal Subword Tokenization in Cross-domain NER**|Ruotian Ma et.al.|[2206.03352v1](http://arxiv.org/abs/2206.03352v1)|null|
 |**2022-06-07**|**Deep Learning Techniques for Visual Counting**|Luca Ciampi et.al.|[2206.03033v2](http://arxiv.org/abs/2206.03033v2)|null|
@@ -1751,6 +1756,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-08**|**CO^3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving**|Runjian Chen et.al.|[2206.04028v1](http://arxiv.org/abs/2206.04028v1)|null|
+|**2022-06-08**|**Few-Shot Audio-Visual Learning of Environment Acoustics**|Sagnik Majumder et.al.|[2206.04006v1](http://arxiv.org/abs/2206.04006v1)|null|
+|**2022-06-08**|**Sharp-MAML: Sharpness-Aware Model-Agnostic Meta Learning**|Momin Abbas et.al.|[2206.03996v1](http://arxiv.org/abs/2206.03996v1)|**[link](https://github.com/mominabbass/sharp-maml)**|
+|**2022-06-08**|**Dual-Distribution Discrepancy for Anomaly Detection in Chest X-Rays**|Yu Cai et.al.|[2206.03935v1](http://arxiv.org/abs/2206.03935v1)|**[link](https://github.com/caiyu6666/ddad)**|
+|**2022-06-08**|**Few-shot Prompting Toward Controllable Response Generation**|Hsuan Su et.al.|[2206.03931v1](http://arxiv.org/abs/2206.03931v1)|null|
+|**2022-06-08**|**Unsupervised Deformable Image Registration with Absent Correspondences in Pre-operative and Post-Recurrence Brain Tumor MRI Scans**|Tony C. W. Mok et.al.|[2206.03900v1](http://arxiv.org/abs/2206.03900v1)|**[link](https://github.com/cwmok/dirac)**|
+|**2022-06-08**|**ConFUDA: Contrastive Fewshot Unsupervised Domain Adaptation for Medical Image Segmentation**|Mingxuan Gu et.al.|[2206.03888v1](http://arxiv.org/abs/2206.03888v1)|null|
+|**2022-06-08**|**Inorganic Crystal Structure Prototype Database based on Unsupervised Learning of Local Atomic Environments**|Shulin Luo et.al.|[2206.03871v1](http://arxiv.org/abs/2206.03871v1)|null|
+|**2022-06-08**|**Towards Understanding Why Mask-Reconstruction Pretraining Helps in Downstream Tasks**|Jiachun Pan et.al.|[2206.03826v1](http://arxiv.org/abs/2206.03826v1)|null|
+|**2022-06-08**|**Realistic Zero-Shot Cross-Lingual Transfer in Legal Topic Classification**|Stratos Xenouleas et.al.|[2206.03785v1](http://arxiv.org/abs/2206.03785v1)|null|
+|**2022-06-08**|**Disentangled Ontology Embedding for Zero-shot Learning**|Yuxia Geng et.al.|[2206.03739v1](http://arxiv.org/abs/2206.03739v1)|**[link](https://github.com/zjukg/dozsl)**|
+|**2022-06-08**|**Modularized Transfer Learning with Multiple Knowledge Graphs for Zero-shot Commonsense Reasoning**|Yu Jin Kim et.al.|[2206.03715v1](http://arxiv.org/abs/2206.03715v1)|null|
+|**2022-06-08**|**What do we learn? Debunking the Myth of Unsupervised Outlier Detection**|Cosmin I. Bercea et.al.|[2206.03698v1](http://arxiv.org/abs/2206.03698v1)|null|
+|**2022-06-08**|**Metric Based Few-Shot Graph Classification**|Donato Crisostomi et.al.|[2206.03695v1](http://arxiv.org/abs/2206.03695v1)|**[link](https://github.com/crisostomi/metric-few-shot-graph)**|
+|**2022-06-08**|**A Unified Model for Multi-class Anomaly Detection**|Zhiyuan You et.al.|[2206.03687v1](http://arxiv.org/abs/2206.03687v1)|null|
+|**2022-06-08**|**Semi-supervised MIMO Detection Using Cycle-consistent Generative Adversarial Network**|Hongzhi Zhu et.al.|[2206.03686v1](http://arxiv.org/abs/2206.03686v1)|null|
+|**2022-06-08**|**Unsupervised Learning of 3D Scene Flow from Monocular Camera**|Guangming Wang et.al.|[2206.03673v1](http://arxiv.org/abs/2206.03673v1)|**[link](https://github.com/irmvlab/3dunmonoflow)**|
+|**2022-06-07**|**ObPose: Leveraging Canonical Pose for Object-Centric Scene Inference in 3D**|Yizhe Wu et.al.|[2206.03591v1](http://arxiv.org/abs/2206.03591v1)|null|
 |**2022-06-07**|**Few-Shot Learning by Dimensionality Reduction in Gradient Space**|Martin Gauch et.al.|[2206.03483v1](http://arxiv.org/abs/2206.03483v1)|**[link](https://github.com/ml-jku/subgd)**|
 |**2022-06-07**|**SHRED: 3D Shape Region Decomposition with Learned Local Operations**|R. Kenny Jones et.al.|[2206.03480v1](http://arxiv.org/abs/2206.03480v1)|null|
 |**2022-06-07**|**Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models**|Walter H. L. Pinaya et.al.|[2206.03461v1](http://arxiv.org/abs/2206.03461v1)|null|
@@ -3464,6 +3487,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-07**|**ObPose: Leveraging Canonical Pose for Object-Centric Scene Inference in 3D**|Yizhe Wu et.al.|[2206.03591v1](http://arxiv.org/abs/2206.03591v1)|null|
 |**2022-06-03**|**Reinforcement Learning with Neural Radiance Fields**|Danny Driess et.al.|[2206.01634v1](http://arxiv.org/abs/2206.01634v1)|null|
 |**2022-06-02**|**Points2NeRF: Generating Neural Radiance Fields from 3D point cloud**|D. Zimny et.al.|[2206.01290v1](http://arxiv.org/abs/2206.01290v1)|**[link](https://github.com/gmum/points2nerf)**|
 |**2022-06-02**|**EfficientNeRF: Efficient Neural Radiance Fields**|Tao Hu et.al.|[2206.00878v1](http://arxiv.org/abs/2206.00878v1)|**[link](https://github.com/dvlab-research/efficientnerf)**|
@@ -3551,6 +3575,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-08**|**Progressive GANomaly: Anomaly detection with progressively growing GANs**|Djennifer K. Madzia-Madzou et.al.|[2206.03876v1](http://arxiv.org/abs/2206.03876v1)|null|
+|**2022-06-08**|**"GAN I hire you?" -- A System for Personalized Virtual Job Interview Training**|Alexander Heimerl et.al.|[2206.03869v1](http://arxiv.org/abs/2206.03869v1)|null|
+|**2022-06-08**|**Learning Digital Terrain Models from Point Clouds: ALS2DTM Dataset and Rasterization-based GAN**|Hoàng-Ân Lê et.al.|[2206.03778v1](http://arxiv.org/abs/2206.03778v1)|null|
+|**2022-06-08**|**Semi-supervised MIMO Detection Using Cycle-consistent Generative Adversarial Network**|Hongzhi Zhu et.al.|[2206.03686v1](http://arxiv.org/abs/2206.03686v1)|null|
 |**2022-06-07**|**Chip-integrated van der Waals PN heterojunction photodetector with low dark current and high responsivity**|Ruijuan Tian et.al.|[2206.03308v1](http://arxiv.org/abs/2206.03308v1)|null|
 |**2022-06-07**|**Electrically tunable second harmonic generation in atomically thin ReS2**|Jing Wang et.al.|[2206.03240v1](http://arxiv.org/abs/2206.03240v1)|null|
 |**2022-06-07**|**High-efficiency second-harmonic and sum-frequency generation in a silicon nitride microring integrated with few-layer GaSe**|Binbin Wang et.al.|[2206.03143v1](http://arxiv.org/abs/2206.03143v1)|null|
