@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.09
+## Updated on 2022.06.10
 
 ## SLAM
 
@@ -1362,7 +1362,7 @@ layout: default
 |**2022-06-07**|**Deep Learning Techniques for Visual Counting**|Luca Ciampi et.al.|[2206.03033v2](http://arxiv.org/abs/2206.03033v2)|null|
 |**2022-06-03**|**Team VI-I2R Technical Report on EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition 2021**|Yi Cheng et.al.|[2206.02573v1](http://arxiv.org/abs/2206.02573v1)|null|
 |**2022-06-06**|**Relation Matters: Foreground-aware Graph-based Relational Reasoning for Domain Adaptive Object Detection**|Chaoqi Chen et.al.|[2206.02355v1](http://arxiv.org/abs/2206.02355v1)|null|
-|**2022-06-05**|**ACT: Semi-supervised Domain-adaptive Medical Image Segmentation with Asymmetric Co-Training**|Xiaofeng Liu et.al.|[2206.02288v1](http://arxiv.org/abs/2206.02288v1)|null|
+|**2022-06-05**|**ACT: Semi-supervised Domain-adaptive Medical Image Segmentation with Asymmetric Co-training**|Xiaofeng Liu et.al.|[2206.02288v2](http://arxiv.org/abs/2206.02288v2)|null|
 |**2022-06-05**|**Efficient Annotation and Learning for 3D Hand Pose Estimation: A Survey**|Takehiko Ohkawa et.al.|[2206.02257v2](http://arxiv.org/abs/2206.02257v2)|null|
 |**2022-06-03**|**On the Generalization of Wasserstein Robust Federated Learning**|Tung-Anh Nguyen et.al.|[2206.01432v1](http://arxiv.org/abs/2206.01432v1)|null|
 |**2022-06-02**|**SPD domain-specific batch normalization to crack interpretable unsupervised domain adaptation in EEG**|Reinmar J Kobler et.al.|[2206.01323v1](http://arxiv.org/abs/2206.01323v1)|null|
@@ -1759,12 +1759,12 @@ layout: default
 |**2022-06-08**|**CO^3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving**|Runjian Chen et.al.|[2206.04028v1](http://arxiv.org/abs/2206.04028v1)|null|
 |**2022-06-08**|**Few-Shot Audio-Visual Learning of Environment Acoustics**|Sagnik Majumder et.al.|[2206.04006v1](http://arxiv.org/abs/2206.04006v1)|null|
 |**2022-06-08**|**Sharp-MAML: Sharpness-Aware Model-Agnostic Meta Learning**|Momin Abbas et.al.|[2206.03996v1](http://arxiv.org/abs/2206.03996v1)|**[link](https://github.com/mominabbass/sharp-maml)**|
-|**2022-06-08**|**Dual-Distribution Discrepancy for Anomaly Detection in Chest X-Rays**|Yu Cai et.al.|[2206.03935v1](http://arxiv.org/abs/2206.03935v1)|**[link](https://github.com/caiyu6666/ddad)**|
-|**2022-06-08**|**Few-shot Prompting Toward Controllable Response Generation**|Hsuan Su et.al.|[2206.03931v1](http://arxiv.org/abs/2206.03931v1)|null|
+|**2022-06-08**|**Dual-Distribution Discrepancy for Anomaly Detection in Chest X-Rays**|Yu Cai et.al.|[2206.03935v2](http://arxiv.org/abs/2206.03935v2)|**[link](https://github.com/caiyu6666/ddad)**|
+|**2022-06-08**|**Few-shot Prompting Towards Controllable Response Generation**|Hsuan Su et.al.|[2206.03931v2](http://arxiv.org/abs/2206.03931v2)|null|
 |**2022-06-08**|**Unsupervised Deformable Image Registration with Absent Correspondences in Pre-operative and Post-Recurrence Brain Tumor MRI Scans**|Tony C. W. Mok et.al.|[2206.03900v1](http://arxiv.org/abs/2206.03900v1)|**[link](https://github.com/cwmok/dirac)**|
 |**2022-06-08**|**ConFUDA: Contrastive Fewshot Unsupervised Domain Adaptation for Medical Image Segmentation**|Mingxuan Gu et.al.|[2206.03888v1](http://arxiv.org/abs/2206.03888v1)|null|
 |**2022-06-08**|**Inorganic Crystal Structure Prototype Database based on Unsupervised Learning of Local Atomic Environments**|Shulin Luo et.al.|[2206.03871v1](http://arxiv.org/abs/2206.03871v1)|null|
-|**2022-06-08**|**Towards Understanding Why Mask-Reconstruction Pretraining Helps in Downstream Tasks**|Jiachun Pan et.al.|[2206.03826v1](http://arxiv.org/abs/2206.03826v1)|null|
+|**2022-06-08**|**Towards Understanding Why Mask-Reconstruction Pretraining Helps in Downstream Tasks**|Jiachun Pan et.al.|[2206.03826v2](http://arxiv.org/abs/2206.03826v2)|null|
 |**2022-06-08**|**Realistic Zero-Shot Cross-Lingual Transfer in Legal Topic Classification**|Stratos Xenouleas et.al.|[2206.03785v1](http://arxiv.org/abs/2206.03785v1)|null|
 |**2022-06-08**|**Disentangled Ontology Embedding for Zero-shot Learning**|Yuxia Geng et.al.|[2206.03739v1](http://arxiv.org/abs/2206.03739v1)|**[link](https://github.com/zjukg/dozsl)**|
 |**2022-06-08**|**Modularized Transfer Learning with Multiple Knowledge Graphs for Zero-shot Commonsense Reasoning**|Yu Jin Kim et.al.|[2206.03715v1](http://arxiv.org/abs/2206.03715v1)|null|
@@ -3502,7 +3502,7 @@ layout: default
 |**2022-05-30**|**Compressible-composable NeRF via Rank-residual Decomposition**|Jiaxiang Tang et.al.|[2205.14870v1](http://arxiv.org/abs/2205.14870v1)|**[link](https://github.com/ashawkey/ccnerf)**|
 |**2022-05-28**|**Differentiable Point-Based Radiance Fields for Efficient View Synthesis**|Qiang Zhang et.al.|[2205.14330v2](http://arxiv.org/abs/2205.14330v2)|null|
 |**2022-05-24**|**StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning**|Yi-Hua Huang et.al.|[2205.12183v2](http://arxiv.org/abs/2205.12183v2)|null|
-|**2022-05-19**|**Mip-NeRF RGB-D: Depth Assisted Fast Neural Radiance Fields**|Arnab Dey et.al.|[2205.09351v1](http://arxiv.org/abs/2205.09351v1)|null|
+|**2022-05-19**|**Mip-NeRF RGB-D: Depth Assisted Fast Neural Radiance Fields**|Arnab Dey et.al.|[2205.09351v2](http://arxiv.org/abs/2205.09351v2)|null|
 |**2022-05-18**|**Fast Neural Network based Solving of Partial Differential Equations**|Jaroslaw Rzepecki et.al.|[2205.08978v2](http://arxiv.org/abs/2205.08978v2)|null|
 |**2022-05-14**|**RTMV: A Ray-Traced Multi-View Synthetic Dataset for Novel View Synthesis**|Jonathan Tremblay et.al.|[2205.07058v1](http://arxiv.org/abs/2205.07058v1)|null|
 |**2022-05-12**|**Ray Priors through Reprojection: Improving Neural Radiance Fields for Novel View Extrapolation**|Jian Zhang et.al.|[2205.05922v1](http://arxiv.org/abs/2205.05922v1)|null|
