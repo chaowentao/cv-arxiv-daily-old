@@ -209,6 +209,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-09**|**A GPU-Accelerated Light-field Super-resolution Framework Based on Mixed Noise Model and Weighted Regularization**|Trung-Hieu Tran et.al.|[2206.05047v1](http://arxiv.org/abs/2206.05047v1)|null|
 |**2022-06-09**|**Novel projection schemes for graph-based Light Field coding**|Bach Gia Nguyen et.al.|[2206.04328v1](http://arxiv.org/abs/2206.04328v1)|null|
 |**2022-06-09**|**Quantum electrodynamics of ultra-intense laser-matter interactions**|Philipp Stammer et.al.|[2206.04308v1](http://arxiv.org/abs/2206.04308v1)|null|
 |**2022-06-07**|**Critical Regularizations for Neural Surface Reconstruction in the Wild**|Jingyang Zhang et.al.|[2206.03087v1](http://arxiv.org/abs/2206.03087v1)|null|
@@ -322,6 +323,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-10**|**Exploring Feature Self-relation for Self-supervised Transformer**|Zhong-Yu Li et.al.|[2206.05184v1](http://arxiv.org/abs/2206.05184v1)|null|
+|**2022-06-10**|**Position Labels for Self-Supervised Vision Transformer**|Zhemin Zhang et.al.|[2206.04981v1](http://arxiv.org/abs/2206.04981v1)|null|
 |**2022-06-09**|**Neural Prompt Search**|Yuanhan Zhang et.al.|[2206.04673v1](http://arxiv.org/abs/2206.04673v1)|**[link](https://github.com/Davidzhangyuanhan/NOAH)**|
 |**2022-06-09**|**Spatial Entropy Regularization for Vision Transformers**|Elia Peruzzo et.al.|[2206.04636v1](http://arxiv.org/abs/2206.04636v1)|null|
 |**2022-06-09**|**OOD Augmentation May Be at Odds with Open-Set Recognition**|Mohammad Azizmalayeri et.al.|[2206.04242v1](http://arxiv.org/abs/2206.04242v1)|null|
@@ -667,6 +670,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-09**|**Building Spatio-temporal Transformers for Egocentric 3D Pose Estimation**|Jinman Park et.al.|[2206.04785v1](http://arxiv.org/abs/2206.04785v1)|null|
 |**2022-06-09**|**Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields**|Mingtong Zhang et.al.|[2206.04669v1](http://arxiv.org/abs/2206.04669v1)|null|
 |**2022-06-09**|**Efficient Human Pose Estimation via 3D Event Point Cloud**|Jiaan Chen et.al.|[2206.04511v1](http://arxiv.org/abs/2206.04511v1)|null|
 |**2022-06-04**|**SPGNet: Spatial Projection Guided 3D Human Pose Estimation in Low Dimensional Space**|Zihan Wang et.al.|[2206.01867v1](http://arxiv.org/abs/2206.01867v1)|null|
@@ -776,6 +780,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-10**|**Image Generation with Multimodal Priors using Denoising Diffusion Probabilistic Models**|Nithin Gopalakrishnan Nair et.al.|[2206.05039v1](http://arxiv.org/abs/2206.05039v1)|null|
+|**2022-06-10**|**3-beam self-calibrated Kernel nulling photonic interferometer**|Nick Cvetojevic et.al.|[2206.04977v1](http://arxiv.org/abs/2206.04977v1)|null|
+|**2022-06-10**|**Transformer-Graph Neural Network with Global-Local Attention for Multimodal Rumour Detection with Knowledge Distillation**|Tsun-hin Cheung et.al.|[2206.04832v1](http://arxiv.org/abs/2206.04832v1)|null|
+|**2022-06-09**|**CLAP: Learning Audio Concepts From Natural Language Supervision**|Benjamin Elizalde et.al.|[2206.04769v1](http://arxiv.org/abs/2206.04769v1)|null|
 |**2022-06-09**|**AttX: Attentive Cross-Connections for Fusion of Wearable Signals in Emotion Recognition**|Anubhav Bhatti et.al.|[2206.04625v1](http://arxiv.org/abs/2206.04625v1)|null|
 |**2022-06-09**|**Mitigating Modality Collapse in Multimodal VAEs via Impartial Optimization**|Adrián Javaloy et.al.|[2206.04496v1](http://arxiv.org/abs/2206.04496v1)|null|
 |**2022-06-09**|**Information And Control: Insights from within the brain**|Birgitta Dresp-Langley et.al.|[2206.04400v1](http://arxiv.org/abs/2206.04400v1)|null|
@@ -1366,6 +1374,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-10**|**Unsupervised Foggy Scene Understanding via Self Spatial-Temporal Label Diffusion**|Liang Liao et.al.|[2206.04879v1](http://arxiv.org/abs/2206.04879v1)|**[link](https://github.com/velor2012/tdo-dif)**|
 |**2022-06-08**|**ConFUDA: Contrastive Fewshot Unsupervised Domain Adaptation for Medical Image Segmentation**|Mingxuan Gu et.al.|[2206.03888v1](http://arxiv.org/abs/2206.03888v1)|null|
 |**2022-06-08**|**Joint Adversarial Learning for Cross-domain Fair Classification**|Yueqing Liang et.al.|[2206.03656v1](http://arxiv.org/abs/2206.03656v1)|null|
 |**2022-06-07**|**One Ring to Bring Them All: Towards Open-Set Recognition under Domain Shift**|Shiqi Yang et.al.|[2206.03600v1](http://arxiv.org/abs/2206.03600v1)|**[link](https://github.com/albert0147/onering)**|
@@ -1768,6 +1777,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-10**|**Real-time Hyper-Dimensional Reconfiguration at the Edge using Hardware Accelerators**|Indhumathi Kandaswamy et.al.|[2206.05128v1](http://arxiv.org/abs/2206.05128v1)|null|
+|**2022-06-10**|**Skill Transfer for Temporally-Extended Task Specifications**|Jason Xinyu Liu et.al.|[2206.05096v1](http://arxiv.org/abs/2206.05096v1)|null|
+|**2022-06-10**|**Zero-Shot Audio Classification using Image Embeddings**|Duygu Dogan et.al.|[2206.04984v1](http://arxiv.org/abs/2206.04984v1)|null|
+|**2022-06-10**|**Unsupervised and Few-shot Parsing from Pretrained Language Models**|Zhiyuan Zeng et.al.|[2206.04980v1](http://arxiv.org/abs/2206.04980v1)|null|
+|**2022-06-10**|**Unsupervised Foggy Scene Understanding via Self Spatial-Temporal Label Diffusion**|Liang Liao et.al.|[2206.04879v1](http://arxiv.org/abs/2206.04879v1)|**[link](https://github.com/velor2012/tdo-dif)**|
+|**2022-06-10**|**Masked Autoencoders are Robust Data Augmentors**|Haohang Xu et.al.|[2206.04846v1](http://arxiv.org/abs/2206.04846v1)|null|
+|**2022-06-09**|**Learn2Augment: Learning to Composite Videos for Data Augmentation in Action Recognition**|Shreyank N Gowda et.al.|[2206.04790v1](http://arxiv.org/abs/2206.04790v1)|null|
+|**2022-06-09**|**CLAP: Learning Audio Concepts From Natural Language Supervision**|Benjamin Elizalde et.al.|[2206.04769v1](http://arxiv.org/abs/2206.04769v1)|null|
+|**2022-06-09**|**I'm Me, We're Us, and I'm Us: Tri-directional Contrastive Learning on Hypergraphs**|Dongjin Lee et.al.|[2206.04739v1](http://arxiv.org/abs/2206.04739v1)|null|
 |**2022-06-09**|**Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs**|Jinguo Zhu et.al.|[2206.04674v1](http://arxiv.org/abs/2206.04674v1)|null|
 |**2022-06-09**|**Neural Prompt Search**|Yuanhan Zhang et.al.|[2206.04673v1](http://arxiv.org/abs/2206.04673v1)|**[link](https://github.com/Davidzhangyuanhan/NOAH)**|
 |**2022-06-09**|**BigVGAN: A Universal Neural Vocoder with Large-Scale Training**|Sang-gil Lee et.al.|[2206.04658v1](http://arxiv.org/abs/2206.04658v1)|**[link](https://github.com/nvidia/bigvgan)**|
@@ -3517,6 +3535,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-10**|**Improved Direct Voxel Grid Optimization for Radiance Fields Reconstruction**|Cheng Sun et.al.|[2206.05085v1](http://arxiv.org/abs/2206.05085v1)|null|
+|**2022-06-10**|**NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors**|Hao-Kang Liu et.al.|[2206.04901v1](http://arxiv.org/abs/2206.04901v1)|null|
 |**2022-06-09**|**Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields**|Mingtong Zhang et.al.|[2206.04669v1](http://arxiv.org/abs/2206.04669v1)|null|
 |**2022-06-07**|**ObPose: Leveraging Canonical Pose for Object-Centric Scene Inference in 3D**|Yizhe Wu et.al.|[2206.03591v1](http://arxiv.org/abs/2206.03591v1)|null|
 |**2022-06-03**|**Reinforcement Learning with Neural Radiance Fields**|Danny Driess et.al.|[2206.01634v1](http://arxiv.org/abs/2206.01634v1)|null|
@@ -3606,6 +3626,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-10**|**Size and Stoichiometric Dependence of Thermal Conductivities of InxGa1-xN: A Molecular Dynamics Study**|Bowen Wang et.al.|[2206.04923v1](http://arxiv.org/abs/2206.04923v1)|null|
+|**2022-06-08**|**Hybrid electroluminescent devices composed of (In,Ga)N micro-LEDs and monolayers of transition metal dichalcogenides**|K. Oreszczuk et.al.|[2206.04807v1](http://arxiv.org/abs/2206.04807v1)|null|
+|**2022-06-09**|**Towards Target Sequential Rules**|Wensheng Gan et.al.|[2206.04728v1](http://arxiv.org/abs/2206.04728v1)|null|
+|**2022-06-08**|**ReCo: A Dataset for Residential Community Layout Planning**|Xi Chen et.al.|[2206.04678v1](http://arxiv.org/abs/2206.04678v1)|null|
 |**2022-06-09**|**BigVGAN: A Universal Neural Vocoder with Large-Scale Training**|Sang-gil Lee et.al.|[2206.04658v1](http://arxiv.org/abs/2206.04658v1)|**[link](https://github.com/nvidia/bigvgan)**|
 |**2022-06-09**|**cycle text2face: cycle text-to-face gan via transformers**|Faezeh Gholamrezaie et.al.|[2206.04503v1](http://arxiv.org/abs/2206.04503v1)|null|
 |**2022-06-09**|**STIP: A SpatioTemporal Information-Preserving and Perception-Augmented Model for High-Resolution Video Prediction**|Zheng Chang et.al.|[2206.04381v1](http://arxiv.org/abs/2206.04381v1)|**[link](https://github.com/zhengchang467/stiphr)**|
