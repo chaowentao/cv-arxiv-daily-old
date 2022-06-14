@@ -1,4 +1,4 @@
-## Updated on 2022.06.13
+## Updated on 2022.06.14
 
 ## Image Generation
 
@@ -1630,7 +1630,7 @@
 |**2022-06-10**|**Zero-Shot Audio Classification using Image Embeddings**|Duygu Dogan et.al.|[2206.04984v1](http://arxiv.org/abs/2206.04984v1)|null|
 |**2022-06-10**|**Unsupervised and Few-shot Parsing from Pretrained Language Models**|Zhiyuan Zeng et.al.|[2206.04980v1](http://arxiv.org/abs/2206.04980v1)|null|
 |**2022-06-10**|**Unsupervised Foggy Scene Understanding via Self Spatial-Temporal Label Diffusion**|Liang Liao et.al.|[2206.04879v1](http://arxiv.org/abs/2206.04879v1)|**[link](https://github.com/velor2012/tdo-dif)**|
-|**2022-06-10**|**Masked Autoencoders are Robust Data Augmentors**|Haohang Xu et.al.|[2206.04846v1](http://arxiv.org/abs/2206.04846v1)|null|
+|**2022-06-10**|**Masked Autoencoders are Robust Data Augmentors**|Haohang Xu et.al.|[2206.04846v1](http://arxiv.org/abs/2206.04846v1)|**[link](https://github.com/haohang96/mra)**|
 |**2022-06-09**|**Learn2Augment: Learning to Composite Videos for Data Augmentation in Action Recognition**|Shreyank N Gowda et.al.|[2206.04790v1](http://arxiv.org/abs/2206.04790v1)|null|
 |**2022-06-09**|**CLAP: Learning Audio Concepts From Natural Language Supervision**|Benjamin Elizalde et.al.|[2206.04769v1](http://arxiv.org/abs/2206.04769v1)|null|
 |**2022-06-09**|**I'm Me, We're Us, and I'm Us: Tri-directional Contrastive Learning on Hypergraphs**|Dongjin Lee et.al.|[2206.04739v1](http://arxiv.org/abs/2206.04739v1)|null|
@@ -3383,7 +3383,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-06-10**|**Improved Direct Voxel Grid Optimization for Radiance Fields Reconstruction**|Cheng Sun et.al.|[2206.05085v1](http://arxiv.org/abs/2206.05085v1)|null|
+|**2022-06-10**|**Improved Direct Voxel Grid Optimization for Radiance Fields Reconstruction**|Cheng Sun et.al.|[2206.05085v2](http://arxiv.org/abs/2206.05085v2)|**[link](https://github.com/sunset1995/directvoxgo)**|
 |**2022-06-10**|**NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors**|Hao-Kang Liu et.al.|[2206.04901v1](http://arxiv.org/abs/2206.04901v1)|null|
 |**2022-06-09**|**Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields**|Mingtong Zhang et.al.|[2206.04669v1](http://arxiv.org/abs/2206.04669v1)|null|
 |**2022-06-07**|**ObPose: Leveraging Canonical Pose for Object-Centric Scene Inference in 3D**|Yizhe Wu et.al.|[2206.03591v1](http://arxiv.org/abs/2206.03591v1)|null|
@@ -3477,7 +3477,7 @@
 |**2022-06-10**|**Size and Stoichiometric Dependence of Thermal Conductivities of InxGa1-xN: A Molecular Dynamics Study**|Bowen Wang et.al.|[2206.04923v1](http://arxiv.org/abs/2206.04923v1)|null|
 |**2022-06-08**|**Hybrid electroluminescent devices composed of (In,Ga)N micro-LEDs and monolayers of transition metal dichalcogenides**|K. Oreszczuk et.al.|[2206.04807v1](http://arxiv.org/abs/2206.04807v1)|null|
 |**2022-06-09**|**Towards Target Sequential Rules**|Wensheng Gan et.al.|[2206.04728v1](http://arxiv.org/abs/2206.04728v1)|null|
-|**2022-06-08**|**ReCo: A Dataset for Residential Community Layout Planning**|Xi Chen et.al.|[2206.04678v1](http://arxiv.org/abs/2206.04678v1)|null|
+|**2022-06-08**|**ReCo: A Dataset for Residential Community Layout Planning**|Xi Chen et.al.|[2206.04678v1](http://arxiv.org/abs/2206.04678v1)|**[link](https://github.com/fdudsde/reco-dataset)**|
 |**2022-06-09**|**BigVGAN: A Universal Neural Vocoder with Large-Scale Training**|Sang-gil Lee et.al.|[2206.04658v1](http://arxiv.org/abs/2206.04658v1)|**[link](https://github.com/nvidia/bigvgan)**|
 |**2022-06-09**|**cycle text2face: cycle text-to-face gan via transformers**|Faezeh Gholamrezaie et.al.|[2206.04503v1](http://arxiv.org/abs/2206.04503v1)|null|
 |**2022-06-09**|**STIP: A SpatioTemporal Information-Preserving and Perception-Augmented Model for High-Resolution Video Prediction**|Zheng Chang et.al.|[2206.04381v1](http://arxiv.org/abs/2206.04381v1)|**[link](https://github.com/zhengchang467/stiphr)**|
