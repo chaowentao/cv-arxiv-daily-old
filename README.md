@@ -1,4 +1,4 @@
-## Updated on 2022.06.14
+## Updated on 2022.06.15
 
 ## Image Generation
 
@@ -71,7 +71,7 @@
 |**2022-05-26**|**Light Field Raindrop Removal via 4D Re-sampling**|Dong Jing et.al.|[2205.13165v1](http://arxiv.org/abs/2205.13165v1)|null|
 |**2022-05-25**|**On the helicity conservation for Mie optical cavities**|Jorge Olmos-Trigo et.al.|[2205.12813v1](http://arxiv.org/abs/2205.12813v1)|null|
 |**2022-05-25**|**On-demand multimode optical storage in a laser-written on-chip waveguide**|Ming-Xu Su et.al.|[2205.12762v1](http://arxiv.org/abs/2205.12762v1)|null|
-|**2022-05-24**|**Light-wave coherent control of the insulator-to-metal transition in a strongly correlated material**|Eduardo B. Molinero et.al.|[2205.11896v1](http://arxiv.org/abs/2205.11896v1)|null|
+|**2022-05-24**|**Light-wave coherent control of the insulator-to-metal transition in a strongly correlated material**|Eduardo B. Molinero et.al.|[2205.11896v2](http://arxiv.org/abs/2205.11896v2)|null|
 |**2022-05-23**|**Novel Light Field Imaging Device with Enhanced Light Collection for Cold Atom Clouds**|Sanha Cheong et.al.|[2205.11480v1](http://arxiv.org/abs/2205.11480v1)|null|
 |**2022-05-23**|**Interference of the scattered vector light fields from two optically levitated nanoparticles**|Yuanbin Jin et.al.|[2205.11348v1](http://arxiv.org/abs/2205.11348v1)|null|
 |**2022-05-21**|**Two-photon absorption measurements in the presence of single-photon losses**|Shahram Panahiyan et.al.|[2205.10675v1](http://arxiv.org/abs/2205.10675v1)|null|
@@ -177,7 +177,7 @@
 |**2022-06-10**|**Learning to Estimate Shapley Values with Vision Transformers**|Ian Covert et.al.|[2206.05282v1](http://arxiv.org/abs/2206.05282v1)|null|
 |**2022-06-10**|**Exploring Feature Self-relation for Self-supervised Transformer**|Zhong-Yu Li et.al.|[2206.05184v1](http://arxiv.org/abs/2206.05184v1)|null|
 |**2022-06-10**|**Position Labels for Self-Supervised Vision Transformer**|Zhemin Zhang et.al.|[2206.04981v1](http://arxiv.org/abs/2206.04981v1)|null|
-|**2022-06-09**|**Neural Prompt Search**|Yuanhan Zhang et.al.|[2206.04673v1](http://arxiv.org/abs/2206.04673v1)|**[link](https://github.com/Davidzhangyuanhan/NOAH)**|
+|**2022-06-09**|**Neural Prompt Search**|Yuanhan Zhang et.al.|[2206.04673v2](http://arxiv.org/abs/2206.04673v2)|**[link](https://github.com/Davidzhangyuanhan/NOAH)**|
 |**2022-06-09**|**Spatial Entropy Regularization for Vision Transformers**|Elia Peruzzo et.al.|[2206.04636v1](http://arxiv.org/abs/2206.04636v1)|null|
 |**2022-06-09**|**OOD Augmentation May Be at Odds with Open-Set Recognition**|Mohammad Azizmalayeri et.al.|[2206.04242v1](http://arxiv.org/abs/2206.04242v1)|null|
 |**2022-06-07**|**Can CNNs Be More Robust Than Transformers?**|Zeyu Wang et.al.|[2206.03452v1](http://arxiv.org/abs/2206.03452v1)|**[link](https://github.com/ucsc-vlaa/robustcnn)**|
@@ -189,7 +189,7 @@
 |**2022-06-04**|**Video-based Human-Object Interaction Detection from Tubelet Tokens**|Danyang Tu et.al.|[2206.01908v1](http://arxiv.org/abs/2206.01908v1)|null|
 |**2022-06-03**|**Patcher: Patch Transformers with Mixture of Experts for Precise Medical Image Segmentation**|Yanglan Ou et.al.|[2206.01741v1](http://arxiv.org/abs/2206.01741v1)|null|
 |**2022-06-02**|**Entangled Residual Mappings**|Mathias Lechner et.al.|[2206.01261v1](http://arxiv.org/abs/2206.01261v1)|null|
-|**2022-06-02**|**EfficientFormer: Vision Transformers at MobileNet Speed**|Yanyu Li et.al.|[2206.01191v1](http://arxiv.org/abs/2206.01191v1)|**[link](https://github.com/snap-research/efficientformer)**|
+|**2022-06-02**|**EfficientFormer: Vision Transformers at MobileNet Speed**|Yanyu Li et.al.|[2206.01191v2](http://arxiv.org/abs/2206.01191v2)|**[link](https://github.com/snap-research/efficientformer)**|
 |**2022-06-02**|**Optimizing Relevance Maps of Vision Transformers Improves Robustness**|Hila Chefer et.al.|[2206.01161v1](http://arxiv.org/abs/2206.01161v1)|**[link](https://github.com/hila-chefer/robustvit)**|
 |**2022-06-02**|**XBound-Former: Toward Cross-scale Boundary Modeling in Transformers**|Jiacheng Wang et.al.|[2206.00806v1](http://arxiv.org/abs/2206.00806v1)|**[link](https://github.com/jcwang123/xboundformer)**|
 |**2022-06-01**|**Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer**|Guglielmo Camporese et.al.|[2206.00481v1](http://arxiv.org/abs/2206.00481v1)|**[link](https://github.com/guglielmocamporese/relvit)**|
@@ -1249,7 +1249,7 @@
 |**2022-06-05**|**Efficient Annotation and Learning for 3D Hand Pose Estimation: A Survey**|Takehiko Ohkawa et.al.|[2206.02257v2](http://arxiv.org/abs/2206.02257v2)|null|
 |**2022-06-03**|**On the Generalization of Wasserstein Robust Federated Learning**|Tung-Anh Nguyen et.al.|[2206.01432v1](http://arxiv.org/abs/2206.01432v1)|null|
 |**2022-06-02**|**SPD domain-specific batch normalization to crack interpretable unsupervised domain adaptation in EEG**|Reinmar J Kobler et.al.|[2206.01323v1](http://arxiv.org/abs/2206.01323v1)|null|
-|**2022-06-02**|**Learning Unbiased Transferability for Domain Adaptation by Uncertainty Modeling**|Jian Hu et.al.|[2206.01319v1](http://arxiv.org/abs/2206.01319v1)|null|
+|**2022-06-02**|**Learning Unbiased Transferability for Domain Adaptation by Uncertainty Modeling**|Jian Hu et.al.|[2206.01319v2](http://arxiv.org/abs/2206.01319v2)|null|
 |**2022-06-02**|**Finding the Right Recipe for Low Resource Domain Adaptation in Neural Machine Translation**|Virginia Adams et.al.|[2206.01137v1](http://arxiv.org/abs/2206.01137v1)|null|
 |**2022-06-02**|**FV-UPatches: Enhancing Universality in Finger Vein Recognition**|Ziyan Chen et.al.|[2206.01061v1](http://arxiv.org/abs/2206.01061v1)|null|
 |**2022-06-01**|**CLIP4IDC: CLIP for Image Difference Captioning**|Zixin Guo et.al.|[2206.00629v1](http://arxiv.org/abs/2206.00629v1)|**[link](https://github.com/sushizixin/clip4idc)**|
@@ -1651,7 +1651,7 @@
 |**2022-06-13**|**AR-NeRF: Unsupervised Learning of Depth and Defocus Effects from Natural Images with Aperture Rendering Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2206.06100v1](http://arxiv.org/abs/2206.06100v1)|null|
 |**2022-06-13**|**Intrinsically motivated option learning: a comparative study of recent methods**|Djordje Božić et.al.|[2206.06007v1](http://arxiv.org/abs/2206.06007v1)|null|
 |**2022-06-13**|**GradICON: Approximate Diffeomorphisms via Gradient Inverse Consistency**|Lin Tian et.al.|[2206.05897v1](http://arxiv.org/abs/2206.05897v1)|null|
-|**2022-06-13**|**Improve Ranking Correlation of Super-net through Training Scheme from One-shot NAS to Few-shot NAS**|Jiawei Liu et.al.|[2206.05896v1](http://arxiv.org/abs/2206.05896v1)|null|
+|**2022-06-13**|**Improve Ranking Correlation of Super-net through Training Scheme from One-shot NAS to Few-shot NAS**|Jiawei Liu et.al.|[2206.05896v2](http://arxiv.org/abs/2206.05896v2)|**[link](https://github.com/liujiawei2333/cvpr2022-nas-competition-track-1-4th-solution)**|
 |**2022-06-13**|**Description and Discussion on DCASE 2022 Challenge Task 2: Unsupervised Anomalous Sound Detection for Machine Condition Monitoring Applying Domain Generalization Techniques**|Kota Dohi et.al.|[2206.05876v1](http://arxiv.org/abs/2206.05876v1)|null|
 |**2022-06-13**|**Causal Inference-Based Root Cause Analysis for Online Service Systems with Intervention Recognition**|Mingjie Li et.al.|[2206.05871v1](http://arxiv.org/abs/2206.05871v1)|**[link](https://github.com/netmanaiops/circa)**|
 |**2022-06-13**|**Gaia Data Release 3: Astrophysical parameters inference system (Apsis) I -- methods and content overview**|O. L. Creevey et.al.|[2206.05864v1](http://arxiv.org/abs/2206.05864v1)|null|
