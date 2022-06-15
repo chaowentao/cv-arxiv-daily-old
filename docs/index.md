@@ -209,6 +209,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-14**|**Object Scene Representation Transformer**|Mehdi S. M. Sajjadi et.al.|[2206.06922v1](http://arxiv.org/abs/2206.06922v1)|null|
 |**2022-06-13**|**Learning a Degradation-Adaptive Network for Light Field Image Super-Resolution**|Yingqian Wang et.al.|[2206.06214v1](http://arxiv.org/abs/2206.06214v1)|**[link](https://github.com/yingqianwang/lf-danet)**|
 |**2022-06-09**|**A GPU-Accelerated Light-field Super-resolution Framework Based on Mixed Noise Model and Weighted Regularization**|Trung-Hieu Tran et.al.|[2206.05047v1](http://arxiv.org/abs/2206.05047v1)|null|
 |**2022-06-09**|**Novel projection schemes for graph-based Light Field coding**|Bach Gia Nguyen et.al.|[2206.04328v1](http://arxiv.org/abs/2206.04328v1)|null|
@@ -324,6 +325,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-14**|**Stand-Alone Inter-Frame Attention in Video Models**|Fuchen Long et.al.|[2206.06931v1](http://arxiv.org/abs/2206.06931v1)|**[link](https://github.com/fuchenustc/sifa)**|
+|**2022-06-14**|**Efficient Decoder-free Object Detection with Transformers**|Peixian Chen et.al.|[2206.06829v1](http://arxiv.org/abs/2206.06829v1)|**[link](https://github.com/Pealing/DFFT)**|
+|**2022-06-14**|**Peripheral Vision Transformer**|Juhong Min et.al.|[2206.06801v1](http://arxiv.org/abs/2206.06801v1)|null|
+|**2022-06-14**|**Exploring Adversarial Attacks and Defenses in Vision Transformers trained with DINO**|Javier Rando et.al.|[2206.06761v1](http://arxiv.org/abs/2206.06761v1)|**[link](https://github.com/thobauma/aadefdino)**|
+|**2022-06-14**|**TransVG++: End-to-End Visual Grounding with Language Conditioned Vision Transformer**|Jiajun Deng et.al.|[2206.06619v1](http://arxiv.org/abs/2206.06619v1)|**[link](https://github.com/djiajunustc/TransVG)**|
+|**2022-06-13**|**Multimodal Learning with Transformers: A Survey**|Peng Xu et.al.|[2206.06488v1](http://arxiv.org/abs/2206.06488v1)|null|
 |**2022-06-12**|**SeATrans: Learning Segmentation-Assisted diagnosis model via Transforme**|Junde Wu et.al.|[2206.05763v1](http://arxiv.org/abs/2206.05763v1)|null|
 |**2022-06-11**|**Kaggle Kinship Recognition Challenge: Introduction of Convolution-Free Model to boost conventional**|Mingchuan Tian et.al.|[2206.05488v1](http://arxiv.org/abs/2206.05488v1)|null|
 |**2022-06-10**|**Learning to Estimate Shapley Values with Vision Transformers**|Ian Covert et.al.|[2206.05282v1](http://arxiv.org/abs/2206.05282v1)|null|
@@ -674,6 +681,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-13**|**GraphMLP: A Graph MLP-Like Architecture for 3D Human Pose Estimation**|Wenhao Li et.al.|[2206.06420v1](http://arxiv.org/abs/2206.06420v1)|null|
 |**2022-06-13**|**Vision-State Fusion: Improving Deep Neural Networks for Autonomous Robotics**|Elia Cereda et.al.|[2206.06112v1](http://arxiv.org/abs/2206.06112v1)|null|
 |**2022-06-09**|**Building Spatio-temporal Transformers for Egocentric 3D Pose Estimation**|Jinman Park et.al.|[2206.04785v1](http://arxiv.org/abs/2206.04785v1)|null|
 |**2022-06-09**|**Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields**|Mingtong Zhang et.al.|[2206.04669v1](http://arxiv.org/abs/2206.04669v1)|null|
@@ -785,6 +793,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-14**|**Probabilistic forecasting of bus travel time with a Bayesian Gaussian mixture model**|Xiaoxu Chen et.al.|[2206.06915v1](http://arxiv.org/abs/2206.06915v1)|null|
+|**2022-06-14**|**Temporal Multimodal Multivariate Learning**|Hyoshin Park et.al.|[2206.06878v1](http://arxiv.org/abs/2206.06878v1)|null|
+|**2022-06-13**|**Multimodal Learning with Transformers: A Survey**|Peng Xu et.al.|[2206.06488v1](http://arxiv.org/abs/2206.06488v1)|null|
+|**2022-06-13**|**The Modality Focusing Hypothesis: On the Blink of Multimodal Knowledge Distillation**|Zihui Xue et.al.|[2206.06487v1](http://arxiv.org/abs/2206.06487v1)|null|
+|**2022-06-09**|**Does a Technique for Building Multimodal Representation Matter? -- Comparative Analysis**|Maciej Pawłowski et.al.|[2206.06367v1](http://arxiv.org/abs/2206.06367v1)|null|
 |**2022-06-13**|**MMMNA-Net for Overall Survival Time Prediction of Brain Tumor Patients**|Wen Tang et.al.|[2206.06267v1](http://arxiv.org/abs/2206.06267v1)|**[link](https://github.com/tangwen920812/mmmna-net)**|
 |**2022-06-13**|**Predicting conditional probability distributions of redshifts of Active Galactic Nuclei using Hierarchical Correlation Reconstruction**|Jarek Duda et.al.|[2206.06194v1](http://arxiv.org/abs/2206.06194v1)|null|
 |**2022-06-13**|**INDIGO: Intrinsic Multimodality for Domain Generalization**|Puneet Mangla et.al.|[2206.05912v1](http://arxiv.org/abs/2206.05912v1)|null|
@@ -1385,6 +1398,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-14**|**Task Transfer and Domain Adaptation for Zero-Shot Question Answering**|Xiang Pan et.al.|[2206.06705v1](http://arxiv.org/abs/2206.06705v1)|**[link](https://github.com/adityaarunsinghal/Domain-Adaptation)**|
+|**2022-06-14**|**Confidence Score for Source-Free Unsupervised Domain Adaptation**|Jonghyun Lee et.al.|[2206.06640v1](http://arxiv.org/abs/2206.06640v1)|**[link](https://github.com/jhyun17/cowa-jmds)**|
+|**2022-06-14**|**Semantic-Discriminative Mixup for Generalizable Sensor-based Cross-domain Activity Recognition**|Wang Lu et.al.|[2206.06629v1](http://arxiv.org/abs/2206.06629v1)|null|
+|**2022-06-14**|**Slimmable Domain Adaptation**|Rang Meng et.al.|[2206.06620v1](http://arxiv.org/abs/2206.06620v1)|**[link](https://github.com/hik-lab/slimda)**|
+|**2022-06-14**|**Plug-and-Play Pseudo Label Correction Network for Unsupervised Person Re-identification**|Tianyi Yan et.al.|[2206.06607v1](http://arxiv.org/abs/2206.06607v1)|null|
+|**2022-06-13**|**Estimating Pose from Pressure Data for Smart Beds with Deep Image-based Pose Estimators**|Vandad Davoodnia et.al.|[2206.06518v1](http://arxiv.org/abs/2206.06518v1)|null|
 |**2022-06-13**|**Learning Domain Adaptive Object Detection with Probabilistic Teacher**|Meilin Chen et.al.|[2206.06293v1](http://arxiv.org/abs/2206.06293v1)|**[link](https://github.com/hikvision-research/probabilisticteacher)**|
 |**2022-06-13**|**Contrastive Learning for Unsupervised Domain Adaptation of Time Series**|Yilmazcan Ozyurt et.al.|[2206.06243v1](http://arxiv.org/abs/2206.06243v1)|**[link](https://github.com/oezyurty/cluda)**|
 |**2022-06-12**|**A Semantic Consistency Feature Alignment Object Detection Model Based on Mixed-Class Distribution Metrics**|Lijun Gou et.al.|[2206.05765v1](http://arxiv.org/abs/2206.05765v1)|null|
@@ -1791,6 +1810,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-14**|**ReCo: Retrieve and Co-segment for Zero-shot Transfer**|Gyungin Shin et.al.|[2206.07045v1](http://arxiv.org/abs/2206.07045v1)|**[link](https://github.com/NoelShin/reco)**|
+|**2022-06-14**|**Object Scene Representation Transformer**|Mehdi S. M. Sajjadi et.al.|[2206.06922v1](http://arxiv.org/abs/2206.06922v1)|null|
+|**2022-06-14**|**Learning from Uncurated Regular Expressions**|Michael J. Mior et.al.|[2206.06747v1](http://arxiv.org/abs/2206.06747v1)|null|
+|**2022-06-14**|**Gaia DR3: Apsis III -- Non-stellar content and source classification**|L. Delchambre et.al.|[2206.06710v1](http://arxiv.org/abs/2206.06710v1)|null|
+|**2022-06-14**|**Task Transfer and Domain Adaptation for Zero-Shot Question Answering**|Xiang Pan et.al.|[2206.06705v1](http://arxiv.org/abs/2206.06705v1)|**[link](https://github.com/adityaarunsinghal/Domain-Adaptation)**|
+|**2022-06-14**|**Exploring speaker enrolment for few-shot personalisation in emotional vocalisation prediction**|Andreas Triantafyllopoulos et.al.|[2206.06680v1](http://arxiv.org/abs/2206.06680v1)|null|
+|**2022-06-14**|**SpecNet2: Orthogonalization-free spectral embedding by neural networks**|Ziyu Chen et.al.|[2206.06644v1](http://arxiv.org/abs/2206.06644v1)|**[link](https://github.com/ziyuchen7/specnet2)**|
+|**2022-06-14**|**Confidence Score for Source-Free Unsupervised Domain Adaptation**|Jonghyun Lee et.al.|[2206.06640v1](http://arxiv.org/abs/2206.06640v1)|**[link](https://github.com/jhyun17/cowa-jmds)**|
+|**2022-06-14**|**Slimmable Domain Adaptation**|Rang Meng et.al.|[2206.06620v1](http://arxiv.org/abs/2206.06620v1)|**[link](https://github.com/hik-lab/slimda)**|
+|**2022-06-14**|**Plug-and-Play Pseudo Label Correction Network for Unsupervised Person Re-identification**|Tianyi Yan et.al.|[2206.06607v1](http://arxiv.org/abs/2206.06607v1)|null|
+|**2022-06-14**|**On Finite-Sample Identifiability of Contrastive Learning-Based Nonlinear Independent Component Analysis**|Qi Lyu et.al.|[2206.06593v1](http://arxiv.org/abs/2206.06593v1)|null|
+|**2022-06-14**|**Overparametrized linear dimensionality reductions: From projection pursuit to two-layer neural networks**|Andrea Montanari et.al.|[2206.06526v1](http://arxiv.org/abs/2206.06526v1)|null|
+|**2022-06-13**|**Generalizable Method for Face Anti-Spoofing with Semi-Supervised Learning**|Nikolay Sergievskiy et.al.|[2206.06510v1](http://arxiv.org/abs/2206.06510v1)|null|
 |**2022-06-13**|**Discovering Object Masks with Transformers for Unsupervised Semantic Segmentation**|Wouter Van Gansbeke et.al.|[2206.06363v1](http://arxiv.org/abs/2206.06363v1)|**[link](https://github.com/wvangansbeke/MaskDistill)**|
 |**2022-06-13**|**Differentiable and Transportable Structure Learning**|Jeroen Berrevoets et.al.|[2206.06354v1](http://arxiv.org/abs/2206.06354v1)|null|
 |**2022-06-13**|**Unsupervised inter-frame motion correction for whole-body dynamic PET using convolutional long short-term memory in a convolutional neural network**|Xueqi Guo et.al.|[2206.06341v1](http://arxiv.org/abs/2206.06341v1)|null|
@@ -3569,6 +3601,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-14**|**Physics Informed Neural Fields for Smoke Reconstruction with Sparse Data**|Mengyu Chu et.al.|[2206.06577v1](http://arxiv.org/abs/2206.06577v1)|null|
+|**2022-06-13**|**RigNeRF: Fully Controllable Neural 3D Portraits**|ShahRukh Athar et.al.|[2206.06481v1](http://arxiv.org/abs/2206.06481v1)|null|
 |**2022-06-13**|**SNeS: Learning Probably Symmetric Neural Surfaces from Incomplete Data**|Eldar Insafutdinov et.al.|[2206.06340v1](http://arxiv.org/abs/2206.06340v1)|null|
 |**2022-06-13**|**AR-NeRF: Unsupervised Learning of Depth and Defocus Effects from Natural Images with Aperture Rendering Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2206.06100v1](http://arxiv.org/abs/2206.06100v1)|null|
 |**2022-06-10**|**Generalizable Neural Radiance Fields for Novel View Synthesis with Transformer**|Dan Wang et.al.|[2206.05375v1](http://arxiv.org/abs/2206.05375v1)|null|
@@ -3663,6 +3697,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-14**|**ET White Paper: To Find the First Earth 2.0**|Jian Ge et.al.|[2206.06693v1](http://arxiv.org/abs/2206.06693v1)|null|
+|**2022-06-14**|**Learning Enhanced Representations for Tabular Data via Neighborhood Propagation**|Kounianhua Du et.al.|[2206.06587v1](http://arxiv.org/abs/2206.06587v1)|**[link](https://github.com/kounianhuadu/pet)**|
+|**2022-06-13**|**Assessing Privacy Leakage in Synthetic 3-D PET Imaging using Transversal GAN**|Robert V. Bergen et.al.|[2206.06448v1](http://arxiv.org/abs/2206.06448v1)|null|
+|**2022-06-13**|**SmartGD: A Self-Challenging Generative Adversarial Network for Graph Drawing**|Xiaoqi Wang et.al.|[2206.06434v1](http://arxiv.org/abs/2206.06434v1)|null|
+|**2022-06-13**|**Full-band Monte Carlo simulation of two-dimensional electron gas in (Al$_{x}$Ga$_{1-x}$)$_{2}$O$_{3}$/Ga$_{2}$O$_{3}$ heterostructures**|Avinash Kumar et.al.|[2206.06405v1](http://arxiv.org/abs/2206.06405v1)|null|
+|**2022-06-12**|**Darknet Traffic Classification and Adversarial Attacks**|Nhien Rust-Nguyen et.al.|[2206.06371v1](http://arxiv.org/abs/2206.06371v1)|null|
 |**2022-06-09**|**Towards Target High-Utility Itemsets**|Jinbao Miao et.al.|[2206.06157v1](http://arxiv.org/abs/2206.06157v1)|null|
 |**2022-06-13**|**A Constructive GAN-based Approach to Exact Estimate Treatment Effect without Matching**|Boyang You et.al.|[2206.06116v1](http://arxiv.org/abs/2206.06116v1)|null|
 |**2022-06-13**|**AR-NeRF: Unsupervised Learning of Depth and Defocus Effects from Natural Images with Aperture Rendering Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2206.06100v1](http://arxiv.org/abs/2206.06100v1)|null|
@@ -4383,6 +4423,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-06-14**|**Interpretable Gait Recognition by Granger Causality**|Michal Balazia et.al.|[2206.06714v1](http://arxiv.org/abs/2206.06714v1)|null|
 |**2022-06-03**|**Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition**|Paula Delgado-Santos et.al.|[2206.01441v1](http://arxiv.org/abs/2206.01441v1)|null|
 |**2022-05-05**|**Gait Recognition in the Wild: A Benchmark**|Zheng Zhu et.al.|[2205.02692v1](http://arxiv.org/abs/2205.02692v1)|null|
 |**2022-04-12**|**AutoFi: Towards Automatic WiFi Human Sensing via Geometric Self-Supervised Learning**|Jianfei Yang et.al.|[2205.01629v1](http://arxiv.org/abs/2205.01629v1)|null|
