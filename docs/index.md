@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.15
+## Updated on 2022.06.16
 
 ## SLAM
 
@@ -326,7 +326,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-06-14**|**Stand-Alone Inter-Frame Attention in Video Models**|Fuchen Long et.al.|[2206.06931v1](http://arxiv.org/abs/2206.06931v1)|**[link](https://github.com/fuchenustc/sifa)**|
-|**2022-06-14**|**Efficient Decoder-free Object Detection with Transformers**|Peixian Chen et.al.|[2206.06829v1](http://arxiv.org/abs/2206.06829v1)|**[link](https://github.com/Pealing/DFFT)**|
+|**2022-06-14**|**Efficient Decoder-free Object Detection with Transformers**|Peixian Chen et.al.|[2206.06829v2](http://arxiv.org/abs/2206.06829v2)|**[link](https://github.com/Pealing/DFFT)**|
 |**2022-06-14**|**Peripheral Vision Transformer**|Juhong Min et.al.|[2206.06801v1](http://arxiv.org/abs/2206.06801v1)|null|
 |**2022-06-14**|**Exploring Adversarial Attacks and Defenses in Vision Transformers trained with DINO**|Javier Rando et.al.|[2206.06761v1](http://arxiv.org/abs/2206.06761v1)|**[link](https://github.com/thobauma/aadefdino)**|
 |**2022-06-14**|**TransVG++: End-to-End Visual Grounding with Language Conditioned Vision Transformer**|Jiajun Deng et.al.|[2206.06619v1](http://arxiv.org/abs/2206.06619v1)|**[link](https://github.com/djiajunustc/TransVG)**|
@@ -811,7 +811,7 @@ layout: default
 |**2022-06-09**|**AttX: Attentive Cross-Connections for Fusion of Wearable Signals in Emotion Recognition**|Anubhav Bhatti et.al.|[2206.04625v1](http://arxiv.org/abs/2206.04625v1)|null|
 |**2022-06-09**|**Mitigating Modality Collapse in Multimodal VAEs via Impartial Optimization**|Adrián Javaloy et.al.|[2206.04496v1](http://arxiv.org/abs/2206.04496v1)|null|
 |**2022-06-09**|**Information And Control: Insights from within the brain**|Birgitta Dresp-Langley et.al.|[2206.04400v1](http://arxiv.org/abs/2206.04400v1)|null|
-|**2022-06-08**|**Words are all you need? Capturing human sensory similarity with textual descriptors**|Raja Marjieh et.al.|[2206.04105v1](http://arxiv.org/abs/2206.04105v1)|null|
+|**2022-06-08**|**Words are all you need? Capturing human sensory similarity with textual descriptors**|Raja Marjieh et.al.|[2206.04105v2](http://arxiv.org/abs/2206.04105v2)|null|
 |**2022-06-08**|**Unsupervised Knowledge Adaptation for Passenger Demand Forecasting**|Can Li et.al.|[2206.04053v1](http://arxiv.org/abs/2206.04053v1)|null|
 |**2022-06-08**|**High-dimensional limit theorems for SGD: Effective dynamics and critical scaling**|Gerard Ben Arous et.al.|[2206.04030v1](http://arxiv.org/abs/2206.04030v1)|null|
 |**2022-06-08**|**Decentralized, not Dehumanized in the Metaverse: Bringing Utility to NFTs through Multimodal Interaction**|Anqi Wang et.al.|[2206.03737v1](http://arxiv.org/abs/2206.03737v1)|null|
@@ -4423,7 +4423,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-06-14**|**Interpretable Gait Recognition by Granger Causality**|Michal Balazia et.al.|[2206.06714v1](http://arxiv.org/abs/2206.06714v1)|null|
+|**2022-06-14**|**Interpretable Gait Recognition by Granger Causality**|Michal Balazia et.al.|[2206.06714v2](http://arxiv.org/abs/2206.06714v2)|null|
 |**2022-06-03**|**Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition**|Paula Delgado-Santos et.al.|[2206.01441v1](http://arxiv.org/abs/2206.01441v1)|null|
 |**2022-05-05**|**Gait Recognition in the Wild: A Benchmark**|Zheng Zhu et.al.|[2205.02692v1](http://arxiv.org/abs/2205.02692v1)|null|
 |**2022-04-12**|**AutoFi: Towards Automatic WiFi Human Sensing via Geometric Self-Supervised Learning**|Jianfei Yang et.al.|[2205.01629v1](http://arxiv.org/abs/2205.01629v1)|null|
