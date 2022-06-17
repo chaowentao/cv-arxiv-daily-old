@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.16
+## Updated on 2022.06.17
 
 ## SLAM
 
@@ -213,7 +213,7 @@ layout: default
 |**2022-06-13**|**Learning a Degradation-Adaptive Network for Light Field Image Super-Resolution**|Yingqian Wang et.al.|[2206.06214v1](http://arxiv.org/abs/2206.06214v1)|**[link](https://github.com/yingqianwang/lf-danet)**|
 |**2022-06-09**|**A GPU-Accelerated Light-field Super-resolution Framework Based on Mixed Noise Model and Weighted Regularization**|Trung-Hieu Tran et.al.|[2206.05047v1](http://arxiv.org/abs/2206.05047v1)|null|
 |**2022-06-09**|**Novel projection schemes for graph-based Light Field coding**|Bach Gia Nguyen et.al.|[2206.04328v1](http://arxiv.org/abs/2206.04328v1)|null|
-|**2022-06-09**|**Quantum electrodynamics of ultra-intense laser-matter interactions**|Philipp Stammer et.al.|[2206.04308v1](http://arxiv.org/abs/2206.04308v1)|null|
+|**2022-06-09**|**Quantum electrodynamics of ultra-intense laser-matter interactions**|Philipp Stammer et.al.|[2206.04308v2](http://arxiv.org/abs/2206.04308v2)|null|
 |**2022-06-07**|**Critical Regularizations for Neural Surface Reconstruction in the Wild**|Jingyang Zhang et.al.|[2206.03087v1](http://arxiv.org/abs/2206.03087v1)|null|
 |**2022-06-07**|**Generation of optical vortices imitating water vortices**|Jun Yao et.al.|[2206.03058v1](http://arxiv.org/abs/2206.03058v1)|null|
 |**2022-06-05**|**Ultrafast Transverse Modulation of Free Electrons by Interaction with Shaped Optical Fields**|I. Madan et.al.|[2206.02221v1](http://arxiv.org/abs/2206.02221v1)|null|
@@ -330,7 +330,7 @@ layout: default
 |**2022-06-15**|**SP-ViT: Learning 2D Spatial Priors for Vision Transformers**|Yuxuan Zhou et.al.|[2206.07662v1](http://arxiv.org/abs/2206.07662v1)|null|
 |**2022-06-15**|**Rethinking Generalization in Few-Shot Classification**|Markus Hiller et.al.|[2206.07267v1](http://arxiv.org/abs/2206.07267v1)|**[link](https://github.com/mrkshllr/FewTURE)**|
 |**2022-06-14**|**Stand-Alone Inter-Frame Attention in Video Models**|Fuchen Long et.al.|[2206.06931v1](http://arxiv.org/abs/2206.06931v1)|**[link](https://github.com/fuchenustc/sifa)**|
-|**2022-06-14**|**Efficient Decoder-free Object Detection with Transformers**|Peixian Chen et.al.|[2206.06829v2](http://arxiv.org/abs/2206.06829v2)|**[link](https://github.com/Pealing/DFFT)**|
+|**2022-06-14**|**Efficient Decoder-free Object Detection with Transformers**|Peixian Chen et.al.|[2206.06829v3](http://arxiv.org/abs/2206.06829v3)|**[link](https://github.com/Pealing/DFFT)**|
 |**2022-06-14**|**Peripheral Vision Transformer**|Juhong Min et.al.|[2206.06801v1](http://arxiv.org/abs/2206.06801v1)|null|
 |**2022-06-14**|**Exploring Adversarial Attacks and Defenses in Vision Transformers trained with DINO**|Javier Rando et.al.|[2206.06761v1](http://arxiv.org/abs/2206.06761v1)|**[link](https://github.com/thobauma/aadefdino)**|
 |**2022-06-14**|**TransVG++: End-to-End Visual Grounding with Language Conditioned Vision Transformer**|Jiajun Deng et.al.|[2206.06619v1](http://arxiv.org/abs/2206.06619v1)|**[link](https://github.com/djiajunustc/TransVG)**|
