@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.19
+## Updated on 2022.06.20
 
 ## SLAM
 
@@ -328,14 +328,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-06-16**|**OmniMAE: Single Model Masked Pretraining on Images and Videos**|Rohit Girdhar et.al.|[2206.08356v1](http://arxiv.org/abs/2206.08356v1)|null|
 |**2022-06-16**|**Adapting Self-Supervised Vision Transformers by Probing Attention-Conditioned Masking Consistency**|Viraj Prabhu et.al.|[2206.08222v1](http://arxiv.org/abs/2206.08222v1)|**[link](https://github.com/virajprabhu/pacmac)**|
-|**2022-06-16**|**Patch-level Representation Learning for Self-supervised Vision Transformers**|Sukmin Yun et.al.|[2206.07990v1](http://arxiv.org/abs/2206.07990v1)|**[link](https://github.com/alinlab/selfpatch)**|
+|**2022-06-16**|**Patch-level Representation Learning for Self-supervised Vision Transformers**|Sukmin Yun et.al.|[2206.07990v2](http://arxiv.org/abs/2206.07990v2)|**[link](https://github.com/alinlab/selfpatch)**|
 |**2022-06-15**|**What makes domain generalization hard?**|Spandan Madan et.al.|[2206.07802v1](http://arxiv.org/abs/2206.07802v1)|null|
 |**2022-06-15**|**Masked Siamese ConvNets**|Li Jing et.al.|[2206.07700v1](http://arxiv.org/abs/2206.07700v1)|null|
 |**2022-06-15**|**A Simple Data Mixing Prior for Improving Self-Supervised Learning**|Sucheng Ren et.al.|[2206.07692v1](http://arxiv.org/abs/2206.07692v1)|**[link](https://github.com/oliverrensu/sdmp)**|
 |**2022-06-15**|**SP-ViT: Learning 2D Spatial Priors for Vision Transformers**|Yuxuan Zhou et.al.|[2206.07662v1](http://arxiv.org/abs/2206.07662v1)|null|
 |**2022-06-15**|**Rethinking Generalization in Few-Shot Classification**|Markus Hiller et.al.|[2206.07267v1](http://arxiv.org/abs/2206.07267v1)|**[link](https://github.com/mrkshllr/FewTURE)**|
 |**2022-06-14**|**Stand-Alone Inter-Frame Attention in Video Models**|Fuchen Long et.al.|[2206.06931v1](http://arxiv.org/abs/2206.06931v1)|**[link](https://github.com/fuchenustc/sifa)**|
-|**2022-06-14**|**Efficient Decoder-free Object Detection with Transformers**|Peixian Chen et.al.|[2206.06829v3](http://arxiv.org/abs/2206.06829v3)|**[link](https://github.com/Pealing/DFFT)**|
+|**2022-06-14**|**Efficient Decoder-free Object Detection with Transformers**|Peixian Chen et.al.|[2206.06829v4](http://arxiv.org/abs/2206.06829v4)|**[link](https://github.com/Pealing/DFFT)**|
 |**2022-06-14**|**Peripheral Vision Transformer**|Juhong Min et.al.|[2206.06801v1](http://arxiv.org/abs/2206.06801v1)|null|
 |**2022-06-14**|**Exploring Adversarial Attacks and Defenses in Vision Transformers trained with DINO**|Javier Rando et.al.|[2206.06761v1](http://arxiv.org/abs/2206.06761v1)|**[link](https://github.com/thobauma/aadefdino)**|
 |**2022-06-14**|**TransVG++: End-to-End Visual Grounding with Language Conditioned Vision Transformer**|Jiajun Deng et.al.|[2206.06619v1](http://arxiv.org/abs/2206.06619v1)|**[link](https://github.com/djiajunustc/TransVG)**|
@@ -805,7 +805,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-06-16**|**Automated analysis of continuum fields from atomistic simulations using statistical machine learning**|Aruna Prakash et.al.|[2206.08048v1](http://arxiv.org/abs/2206.08048v1)|null|
-|**2022-06-16**|**Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos**|Lianyang Ma et.al.|[2206.07981v1](http://arxiv.org/abs/2206.07981v1)|null|
+|**2022-06-16**|**Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos**|Lianyang Ma et.al.|[2206.07981v2](http://arxiv.org/abs/2206.07981v2)|null|
 |**2022-06-16**|**Multimodal Dialogue State Tracking**|Hung Le et.al.|[2206.07898v1](http://arxiv.org/abs/2206.07898v1)|**[link](https://github.com/henryhungle/mm_dst)**|
 |**2022-06-16**|**EPG2S: Speech Generation and Speech Enhancement based on Electropalatography and Audio Signals using Multimodal Learning**|Li-Chin Chen et.al.|[2206.07860v1](http://arxiv.org/abs/2206.07860v1)|null|
 |**2022-06-15**|**Discrete Contrastive Diffusion for Cross-Modal and Conditional Generation**|Ye Zhu et.al.|[2206.07771v1](http://arxiv.org/abs/2206.07771v1)|**[link](https://github.com/l-yezhu/cdcd)**|
@@ -3683,7 +3683,7 @@ layout: default
 |**2022-06-13**|**SNeS: Learning Probably Symmetric Neural Surfaces from Incomplete Data**|Eldar Insafutdinov et.al.|[2206.06340v1](http://arxiv.org/abs/2206.06340v1)|null|
 |**2022-06-13**|**AR-NeRF: Unsupervised Learning of Depth and Defocus Effects from Natural Images with Aperture Rendering Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2206.06100v1](http://arxiv.org/abs/2206.06100v1)|null|
 |**2022-06-10**|**Generalizable Neural Radiance Fields for Novel View Synthesis with Transformer**|Dan Wang et.al.|[2206.05375v1](http://arxiv.org/abs/2206.05375v1)|null|
-|**2022-06-10**|**Improved Direct Voxel Grid Optimization for Radiance Fields Reconstruction**|Cheng Sun et.al.|[2206.05085v2](http://arxiv.org/abs/2206.05085v2)|**[link](https://github.com/sunset1995/directvoxgo)**|
+|**2022-06-10**|**Improved Direct Voxel Grid Optimization for Radiance Fields Reconstruction**|Cheng Sun et.al.|[2206.05085v3](http://arxiv.org/abs/2206.05085v3)|**[link](https://github.com/sunset1995/directvoxgo)**|
 |**2022-06-10**|**NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors**|Hao-Kang Liu et.al.|[2206.04901v1](http://arxiv.org/abs/2206.04901v1)|null|
 |**2022-06-09**|**Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields**|Mingtong Zhang et.al.|[2206.04669v1](http://arxiv.org/abs/2206.04669v1)|null|
 |**2022-06-07**|**ObPose: Leveraging Canonical Pose for Object-Centric Scene Inference in 3D**|Yizhe Wu et.al.|[2206.03591v1](http://arxiv.org/abs/2206.03591v1)|null|
