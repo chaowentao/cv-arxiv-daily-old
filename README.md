@@ -174,6 +174,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-17**|**SimA: Simple Softmax-free Attention for Vision Transformers**|Soroush Abbasi Koohpayegani et.al.|[2206.08898v1](http://arxiv.org/abs/2206.08898v1)|**[link](https://github.com/ucdvision/sima)**|
+|**2022-06-17**|**Multi-Contextual Predictions with Vision Transformer for Video Anomaly Detection**|Joo-Yeon Lee et.al.|[2206.08568v1](http://arxiv.org/abs/2206.08568v1)|null|
+|**2022-06-17**|**Rectify ViT Shortcut Learning by Visual Saliency**|Chong Ma et.al.|[2206.08567v1](http://arxiv.org/abs/2206.08567v1)|null|
+|**2022-06-16**|**Backdoor Attacks on Vision Transformers**|Akshayvarun Subramanya et.al.|[2206.08477v1](http://arxiv.org/abs/2206.08477v1)|**[link](https://github.com/ucdvision/backdoor_transformer)**|
+|**2022-06-16**|**IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes**|Rui Zhu et.al.|[2206.08423v1](http://arxiv.org/abs/2206.08423v1)|null|
 |**2022-06-16**|**OmniMAE: Single Model Masked Pretraining on Images and Videos**|Rohit Girdhar et.al.|[2206.08356v1](http://arxiv.org/abs/2206.08356v1)|null|
 |**2022-06-16**|**Adapting Self-Supervised Vision Transformers by Probing Attention-Conditioned Masking Consistency**|Viraj Prabhu et.al.|[2206.08222v1](http://arxiv.org/abs/2206.08222v1)|**[link](https://github.com/virajprabhu/pacmac)**|
 |**2022-06-16**|**Patch-level Representation Learning for Self-supervised Vision Transformers**|Sukmin Yun et.al.|[2206.07990v2](http://arxiv.org/abs/2206.07990v2)|**[link](https://github.com/alinlab/selfpatch)**|
@@ -652,6 +657,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-17**|**Colonoscopy 3D Video Dataset with Paired Depth from 2D-3D Registration**|Taylor L. Bobrow et.al.|[2206.08903v1](http://arxiv.org/abs/2206.08903v1)|null|
+|**2022-06-17**|**MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge**|Linxi Fan et.al.|[2206.08853v1](http://arxiv.org/abs/2206.08853v1)|**[link](https://github.com/MineDojo/MineDojo)**|
+|**2022-06-17**|**Multimodal Attention-based Deep Learning for Alzheimer's Disease Diagnosis**|Michal Golovanevsky et.al.|[2206.08826v1](http://arxiv.org/abs/2206.08826v1)|null|
+|**2022-06-17**|**Improving Diversity of Multiple Trajectory Prediction based on Map-adaptive Lane Loss**|Sanmin Kim et.al.|[2206.08641v1](http://arxiv.org/abs/2206.08641v1)|null|
 |**2022-06-16**|**Automated analysis of continuum fields from atomistic simulations using statistical machine learning**|Aruna Prakash et.al.|[2206.08048v1](http://arxiv.org/abs/2206.08048v1)|null|
 |**2022-06-16**|**Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos**|Lianyang Ma et.al.|[2206.07981v2](http://arxiv.org/abs/2206.07981v2)|null|
 |**2022-06-16**|**Multimodal Dialogue State Tracking**|Hung Le et.al.|[2206.07898v1](http://arxiv.org/abs/2206.07898v1)|**[link](https://github.com/henryhungle/mm_dst)**|
@@ -1271,10 +1280,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-17**|**Cross-task Attention Mechanism for Dense Multi-task Learning**|Ivan Lopes et.al.|[2206.08927v1](http://arxiv.org/abs/2206.08927v1)|null|
+|**2022-06-17**|**Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency**|Xiang Zhang et.al.|[2206.08496v1](http://arxiv.org/abs/2206.08496v1)|null|
 |**2022-06-16**|**SHIFT: A Synthetic Driving Dataset for Continuous Multi-Task Domain Adaptation**|Tao Sun et.al.|[2206.08367v1](http://arxiv.org/abs/2206.08367v1)|null|
 |**2022-06-16**|**Assessing the Value of Transfer Learning Metrics for RF Domain Adaptation**|Lauren J. Wong et.al.|[2206.08329v1](http://arxiv.org/abs/2206.08329v1)|null|
 |**2022-06-16**|**Adapting Self-Supervised Vision Transformers by Probing Attention-Conditioned Masking Consistency**|Viraj Prabhu et.al.|[2206.08222v1](http://arxiv.org/abs/2206.08222v1)|**[link](https://github.com/virajprabhu/pacmac)**|
-|**2022-06-16**|**A Closer Look at Smoothness in Domain Adversarial Training**|Harsh Rangwani et.al.|[2206.08213v1](http://arxiv.org/abs/2206.08213v1)|null|
+|**2022-06-16**|**A Closer Look at Smoothness in Domain Adversarial Training**|Harsh Rangwani et.al.|[2206.08213v1](http://arxiv.org/abs/2206.08213v1)|**[link](https://github.com/val-iisc/sdat)**|
 |**2022-06-16**|**A Simple Baseline for Adversarial Domain Adaptation-based Unsupervised Flood Forecasting**|Delong Chen et.al.|[2206.08105v1](http://arxiv.org/abs/2206.08105v1)|null|
 |**2022-06-16**|**CARLANE: A Lane Detection Benchmark for Unsupervised Domain Adaptation from Simulation to multiple Real-World Domains**|Julian Gebele et.al.|[2206.08083v1](http://arxiv.org/abs/2206.08083v1)|**[link](https://github.com/juliangebele/CARLANE)**|
 |**2022-06-16**|**Balancing Discriminability and Transferability for Source-Free Domain Adaptation**|Jogendra Nath Kundu et.al.|[2206.08009v1](http://arxiv.org/abs/2206.08009v1)|null|
@@ -1696,6 +1707,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-17**|**Cross-task Attention Mechanism for Dense Multi-task Learning**|Ivan Lopes et.al.|[2206.08927v1](http://arxiv.org/abs/2206.08927v1)|null|
+|**2022-06-17**|**Video Shadow Detection via Spatio-Temporal Interpolation Consistency Training**|Xiao Lu et.al.|[2206.08801v1](http://arxiv.org/abs/2206.08801v1)|**[link](https://github.com/yihong-97/stict)**|
+|**2022-06-17**|**DU-Net based Unsupervised Contrastive Learning for Cancer Segmentation in Histology Images**|Yilong Li et.al.|[2206.08791v1](http://arxiv.org/abs/2206.08791v1)|null|
+|**2022-06-17**|**Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning**|Yuanpei Chen et.al.|[2206.08686v1](http://arxiv.org/abs/2206.08686v1)|**[link](https://github.com/pku-marl/dexteroushands)**|
+|**2022-06-17**|**FiT: Parameter Efficient Few-shot Transfer Learning for Personalized and Federated Image Classification**|Aliaksandra Shysheya et.al.|[2206.08671v1](http://arxiv.org/abs/2206.08671v1)|null|
+|**2022-06-17**|**Learning Using Privileged Information for Zero-Shot Action Recognition**|Zhiyi Gao et.al.|[2206.08632v1](http://arxiv.org/abs/2206.08632v1)|null|
+|**2022-06-17**|**Unsupervised Kinematic Motion Detection for Part-segmented 3D Shape Collections**|Xianghao Xu et.al.|[2206.08497v1](http://arxiv.org/abs/2206.08497v1)|null|
+|**2022-06-16**|**Zero-Shot AutoML with Pretrained Models**|Ekrem Öztürk et.al.|[2206.08476v1](http://arxiv.org/abs/2206.08476v1)|null|
+|**2022-06-16**|**Variational Estimators of the Degree-corrected Latent Block Model for Bipartite Networks**|Yunpeng Zhao et.al.|[2206.08465v1](http://arxiv.org/abs/2206.08465v1)|null|
+|**2022-06-16**|**Recursive Neural Programs: Variational Learning of Image Grammars and Part-Whole Hierarchies**|Ares Fisher et.al.|[2206.08462v1](http://arxiv.org/abs/2206.08462v1)|**[link](https://github.com/fishares/rnp)**|
+|**2022-06-16**|**TUSK: Task-Agnostic Unsupervised Keypoints**|Yuhe Jin et.al.|[2206.08460v1](http://arxiv.org/abs/2206.08460v1)|null|
 |**2022-06-16**|**MixGen: A New Multi-Modal Data Augmentation**|Xiaoshuai Hao et.al.|[2206.08358v1](http://arxiv.org/abs/2206.08358v1)|null|
 |**2022-06-16**|**Know your audience: specializing grounded language models with the game of Dixit**|Aaditya K. Singh et.al.|[2206.08349v1](http://arxiv.org/abs/2206.08349v1)|null|
 |**2022-06-16**|**Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning**|Matthew Gwilliam et.al.|[2206.08347v1](http://arxiv.org/abs/2206.08347v1)|**[link](https://github.com/mgwillia/unsupervised-analysis)**|
@@ -3622,6 +3644,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-17**|**Avoid Overfitting User Specific Information in Federated Keyword Spotting**|Xin-Chun Li et.al.|[2206.08864v1](http://arxiv.org/abs/2206.08864v1)|null|
+|**2022-06-17**|**SOS: Score-based Oversampling for Tabular Data**|Jayoung Kim et.al.|[2206.08555v1](http://arxiv.org/abs/2206.08555v1)|**[link](https://github.com/jayoungkim408/sos)**|
 |**2022-06-16**|**Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing**|Gaurav Parmar et.al.|[2206.08357v1](http://arxiv.org/abs/2206.08357v1)|**[link](https://github.com/adobe-research/sam_inversion)**|
 |**2022-06-16**|**On Scaled Methods for Saddle Point Problems**|Aleksandr Beznosikov et.al.|[2206.08303v1](http://arxiv.org/abs/2206.08303v1)|null|
 |**2022-06-16**|**Interpolating PBW Deformations for the Orthosymplectic Groups**|Johannes Flake et.al.|[2206.08226v1](http://arxiv.org/abs/2206.08226v1)|null|
@@ -3629,7 +3653,7 @@
 |**2022-06-16**|**High-Q Resonances Governed by the Quasi-Bound States in the Continuum in All-Dielectric Metasurfaces**|C. Fang et.al.|[2206.07935v1](http://arxiv.org/abs/2206.07935v1)|null|
 |**2022-06-16**|**PeQuENet: Perceptual Quality Enhancement of Compressed Video with Adaptation- and Attention-based Network**|Saiping Zhang et.al.|[2206.07893v1](http://arxiv.org/abs/2206.07893v1)|**[link](https://github.com/SaipingZhang/PeQuENet)**|
 |**2022-06-16**|**A Lateral AlGaN/GaN Schottky Barrier Diode with 0.36 V Turn-on Voltage and 10 kV Breakdown Voltage by Using Double Barrier Anode Structure**|Ru Xu et.al.|[2206.07881v1](http://arxiv.org/abs/2206.07881v1)|null|
-|**2022-06-15**|**Kantorovich Strikes Back! Wasserstein GANs are not Optimal Transport?**|Alexander Korotin et.al.|[2206.07767v1](http://arxiv.org/abs/2206.07767v1)|**[link](https://github.com/justkolesov/wasserstein1benchmark)**|
+|**2022-06-15**|**Kantorovich Strikes Back! Wasserstein GANs are not Optimal Transport?**|Alexander Korotin et.al.|[2206.07767v1](http://arxiv.org/abs/2206.07767v1)|**[link](https://github.com/iamalexkorotin/Wasserstein2Benchmark)**|
 |**2022-06-15**|**Physics-Infused Fuzzy Generative Adversarial Network for Robust Failure Prognosis**|Ryan Nguyen et.al.|[2206.07762v1](http://arxiv.org/abs/2206.07762v1)|null|
 |**2022-06-15**|**Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone**|Zi-Yi Dou et.al.|[2206.07643v1](http://arxiv.org/abs/2206.07643v1)|null|
 |**2022-06-15**|**Estimating the Optimal Covariance with Imperfect Mean in Diffusion Probabilistic Models**|Fan Bao et.al.|[2206.07309v1](http://arxiv.org/abs/2206.07309v1)|**[link](https://github.com/baofff/Extended-Analytic-DPM)**|
