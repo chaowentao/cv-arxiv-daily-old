@@ -1866,7 +1866,7 @@ layout: default
 |**2022-06-17**|**FiT: Parameter Efficient Few-shot Transfer Learning for Personalized and Federated Image Classification**|Aliaksandra Shysheya et.al.|[2206.08671v1](http://arxiv.org/abs/2206.08671v1)|null|
 |**2022-06-17**|**Learning Using Privileged Information for Zero-Shot Action Recognition**|Zhiyi Gao et.al.|[2206.08632v1](http://arxiv.org/abs/2206.08632v1)|null|
 |**2022-06-17**|**Unsupervised Kinematic Motion Detection for Part-segmented 3D Shape Collections**|Xianghao Xu et.al.|[2206.08497v1](http://arxiv.org/abs/2206.08497v1)|null|
-|**2022-06-16**|**Zero-Shot AutoML with Pretrained Models**|Ekrem Öztürk et.al.|[2206.08476v1](http://arxiv.org/abs/2206.08476v1)|null|
+|**2022-06-16**|**Zero-Shot AutoML with Pretrained Models**|Ekrem Öztürk et.al.|[2206.08476v1](http://arxiv.org/abs/2206.08476v1)|**[link](https://github.com/automl/zero-shot-automl-with-pretrained-models)**|
 |**2022-06-16**|**Variational Estimators of the Degree-corrected Latent Block Model for Bipartite Networks**|Yunpeng Zhao et.al.|[2206.08465v1](http://arxiv.org/abs/2206.08465v1)|null|
 |**2022-06-16**|**Recursive Neural Programs: Variational Learning of Image Grammars and Part-Whole Hierarchies**|Ares Fisher et.al.|[2206.08462v1](http://arxiv.org/abs/2206.08462v1)|**[link](https://github.com/fishares/rnp)**|
 |**2022-06-16**|**TUSK: Task-Agnostic Unsupervised Keypoints**|Yuhe Jin et.al.|[2206.08460v1](http://arxiv.org/abs/2206.08460v1)|null|
