@@ -670,6 +670,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-23**|**Weighted Concordance Index Loss-based Multimodal Survival Modeling for Radiation Encephalopathy Assessment in Nasopharyngeal Carcinoma Radiotherapy**|Jiansheng Fang et.al.|[2206.11458v1](http://arxiv.org/abs/2206.11458v1)|null|
+|**2022-06-22**|**Vision- and tactile-based continuous multimodal intention and attention recognition for safer physical human-robot interaction**|Christopher Yee Wong et.al.|[2206.11350v1](http://arxiv.org/abs/2206.11350v1)|null|
 |**2022-06-22**|**Visualizing the breakdown of quantum multimodality in coherently driven light-matter interaction**|Th. K. Mavrogordatos et.al.|[2206.11197v1](http://arxiv.org/abs/2206.11197v1)|null|
 |**2022-06-22**|**A Multimodal Perceived Stress Classification Framework using Wearable Physiological Sensors**|Muhammad Majid et.al.|[2206.10846v1](http://arxiv.org/abs/2206.10846v1)|null|
 |**2022-06-22**|**A Feature Memory Rearrangement Network for Visual Inspection of Textured Surface Defects Toward Edge Intelligent Manufacturing**|Haiming Yao et.al.|[2206.10830v1](http://arxiv.org/abs/2206.10830v1)|null|
@@ -1306,6 +1308,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-23**|**Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**|An Wang et.al.|[2206.11804v1](http://arxiv.org/abs/2206.11804v1)|**[link](https://github.com/lofrienger/single_surgicalscene_for_segmentation)**|
+|**2022-06-23**|**Measuring the Feasibility of Analogical Transfer using Complexity**|Pierre-Alexandre Murena et.al.|[2206.11753v1](http://arxiv.org/abs/2206.11753v1)|null|
+|**2022-06-23**|**Gradual Domain Adaptation via Normalizing Flows**|Shogo Sagawa et.al.|[2206.11492v1](http://arxiv.org/abs/2206.11492v1)|**[link](https://github.com/ssgw320/gdacnf)**|
 |**2022-06-22**|**Optimal transport meets noisy label robust loss and MixUp regularization for domain adaptation**|Kilian Fatras et.al.|[2206.11180v1](http://arxiv.org/abs/2206.11180v1)|null|
 |**2022-06-21**|**Multi-level Domain Adaptation for Lane Detection**|Chenguang Li et.al.|[2206.10692v1](http://arxiv.org/abs/2206.10692v1)|null|
 |**2022-06-21**|**Domain Adaptive 3D Pose Augmentation for In-the-wild Human Mesh Recovery**|Zhenzhen Weng et.al.|[2206.10457v1](http://arxiv.org/abs/2206.10457v1)|null|
@@ -1741,6 +1746,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-23**|**Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos**|Bowen Baker et.al.|[2206.11795v1](http://arxiv.org/abs/2206.11795v1)|null|
+|**2022-06-23**|**Measuring the Feasibility of Analogical Transfer using Complexity**|Pierre-Alexandre Murena et.al.|[2206.11753v1](http://arxiv.org/abs/2206.11753v1)|null|
+|**2022-06-23**|**PromptPose: Language Prompt Helps Animal Pose Estimation**|Xu Zhang et.al.|[2206.11752v1](http://arxiv.org/abs/2206.11752v1)|null|
+|**2022-06-23**|**Self-Supervised Training with Autoencoders for Visual Anomaly Detection**|Alexander Bauer et.al.|[2206.11723v1](http://arxiv.org/abs/2206.11723v1)|null|
+|**2022-06-23**|**A Temporal Extension of Latent Dirichlet Allocation for Unsupervised Acoustic Unit Discovery**|Werner van der Merwe et.al.|[2206.11706v1](http://arxiv.org/abs/2206.11706v1)|null|
+|**2022-06-23**|**Disentangling representations in Restricted Boltzmann Machines without adversaries**|Jorge Fernandez-de-Cossio-Diaz et.al.|[2206.11600v1](http://arxiv.org/abs/2206.11600v1)|null|
+|**2022-06-23**|**Few-Shot Non-Parametric Learning with Deep Latent Variable Model**|Zhiying Jiang et.al.|[2206.11573v1](http://arxiv.org/abs/2206.11573v1)|null|
+|**2022-06-23**|**Utilizing Expert Features for Contrastive Learning of Time-Series Representations**|Manuel Nonnenmacher et.al.|[2206.11517v1](http://arxiv.org/abs/2206.11517v1)|**[link](https://github.com/boschresearch/expclr)**|
+|**2022-06-23**|**Gradual Domain Adaptation via Normalizing Flows**|Shogo Sagawa et.al.|[2206.11492v1](http://arxiv.org/abs/2206.11492v1)|**[link](https://github.com/ssgw320/gdacnf)**|
+|**2022-06-23**|**ICME 2022 Few-shot LOGO detection top 9 solution**|Ka Ho Tong et.al.|[2206.11462v1](http://arxiv.org/abs/2206.11462v1)|null|
+|**2022-06-22**|**Curious Exploration via Structured World Models Yields Zero-Shot Object Manipulation**|Cansu Sancaktar et.al.|[2206.11403v1](http://arxiv.org/abs/2206.11403v1)|null|
+|**2022-06-22**|**On the relation between duration and energy of non-repeating fast radio bursts: census with the CHIME data**|Seong Jin Kim et.al.|[2206.11330v1](http://arxiv.org/abs/2206.11330v1)|null|
+|**2022-06-22**|**GODEL: Large-Scale Pre-Training for Goal-Directed Dialog**|Baolin Peng et.al.|[2206.11309v1](http://arxiv.org/abs/2206.11309v1)|null|
 |**2022-06-22**|**Towards Unsupervised Content Disentanglement in Sentence Representations via Syntactic Roles**|Ghazi Felhi et.al.|[2206.11184v1](http://arxiv.org/abs/2206.11184v1)|null|
 |**2022-06-22**|**Attack Techniques and Threat Identification for Vulnerabilities**|Constantin Adam et.al.|[2206.11171v1](http://arxiv.org/abs/2206.11171v1)|null|
 |**2022-06-22**|**Variational Causal Dynamics: Discovering Modular World Models from Interventions**|Anson Lei et.al.|[2206.11131v1](http://arxiv.org/abs/2206.11131v1)|null|
@@ -3614,6 +3632,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-23**|**EventNeRF: Neural Radiance Fields from a Single Colour Event Camera**|Viktor Rudnev et.al.|[2206.11896v1](http://arxiv.org/abs/2206.11896v1)|null|
 |**2022-06-22**|**KiloNeuS: Implicit Neural Representations with Real-Time Global Illumination**|Stefano Esposito et.al.|[2206.10885v1](http://arxiv.org/abs/2206.10885v1)|null|
 |**2022-06-16**|**Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields**|Keqiang Sun et.al.|[2206.08361v1](http://arxiv.org/abs/2206.08361v1)|null|
 |**2022-06-16**|**FWD: Real-time Novel View Synthesis with Forward Warping and Depth**|Ang Cao et.al.|[2206.08355v2](http://arxiv.org/abs/2206.08355v2)|null|
@@ -3714,7 +3733,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-06-22**|**Facke: a Survey on Generative Models for Face Swapping**|Wei Jiang et.al.|[2206.11203v1](http://arxiv.org/abs/2206.11203v1)|null|
+|**2022-06-23**|**Continuously Doping Bi 2 Sr 2 CaCu 2 O 8+δ into Electron-Doped Superconductor by CaH 2 Annealing Method**|Jin Zhao et.al.|[2206.11712v1](http://arxiv.org/abs/2206.11712v1)|null|
+|**2022-06-23**|**Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations**|Chenhao Li et.al.|[2206.11693v1](http://arxiv.org/abs/2206.11693v1)|null|
+|**2022-06-23**|**EFFGAN: Ensembles of fine-tuned federated GANs**|Ebba Ekblom et.al.|[2206.11682v1](http://arxiv.org/abs/2206.11682v1)|null|
+|**2022-06-23**|**LED: Latent Variable-based Estimation of Density**|Omri Ben-Dov et.al.|[2206.11563v1](http://arxiv.org/abs/2206.11563v1)|null|
+|**2022-06-23**|**A novel adversarial learning strategy for medical image classification**|Zong Fan et.al.|[2206.11501v1](http://arxiv.org/abs/2206.11501v1)|null|
+|**2022-06-22**|**Facke: a Survey on Generative Models for Face Swapping**|Wei Jiang et.al.|[2206.11203v1](http://arxiv.org/abs/2206.11203v1)|**[link](https://github.com/ailon-island/facke)**|
 |**2022-06-22**|**Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks**|Hongjoon Ahn et.al.|[2206.11081v1](http://arxiv.org/abs/2206.11081v1)|null|
 |**2022-06-22**|**On the product functor on inner forms of general linear group over a non-Archimedean local field**|Kei Yuen Chan et.al.|[2206.10928v1](http://arxiv.org/abs/2206.10928v1)|null|
 |**2022-06-22**|**First-principles method justifying the Dieke diagram and beyond**|Katsuhiro Suzuki et.al.|[2206.10862v1](http://arxiv.org/abs/2206.10862v1)|null|
