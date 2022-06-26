@@ -1,4 +1,4 @@
-## Updated on 2022.06.25
+## Updated on 2022.06.26
 
 ## Image Generation
 
@@ -1314,7 +1314,7 @@
 |**2022-06-22**|**Optimal transport meets noisy label robust loss and MixUp regularization for domain adaptation**|Kilian Fatras et.al.|[2206.11180v1](http://arxiv.org/abs/2206.11180v1)|null|
 |**2022-06-21**|**Multi-level Domain Adaptation for Lane Detection**|Chenguang Li et.al.|[2206.10692v1](http://arxiv.org/abs/2206.10692v1)|null|
 |**2022-06-21**|**Domain Adaptive 3D Pose Augmentation for In-the-wild Human Mesh Recovery**|Zhenzhen Weng et.al.|[2206.10457v1](http://arxiv.org/abs/2206.10457v1)|null|
-|**2022-06-21**|**Few-Max: Few-Shot Domain Adaptation for Unsupervised Contrastive Representation Learning**|Ali Lotfi Rezaabad et.al.|[2206.10137v2](http://arxiv.org/abs/2206.10137v2)|null|
+|**2022-06-21**|**Few-Max: Few-Shot Domain Adaptation for Unsupervised Contrastive Representation Learning**|Ali Lotfi Rezaabad et.al.|[2206.10137v2](http://arxiv.org/abs/2206.10137v2)|**[link](https://github.com/utcsilab/fewmax)**|
 |**2022-06-20**|**Boosting Cross-Domain Speech Recognition with Self-Supervision**|Han Zhu et.al.|[2206.09783v1](http://arxiv.org/abs/2206.09783v1)|null|
 |**2022-06-20**|**Distribution Regularized Self-Supervised Learning for Domain Adaptation of Semantic Segmentation**|Javed Iqbal et.al.|[2206.09683v1](http://arxiv.org/abs/2206.09683v1)|null|
 |**2022-06-20**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
