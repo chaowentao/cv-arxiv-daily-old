@@ -1,4 +1,4 @@
-## Updated on 2022.06.26
+## Updated on 2022.06.27
 
 ## Image Generation
 
@@ -3739,7 +3739,7 @@
 |**2022-06-23**|**LED: Latent Variable-based Estimation of Density**|Omri Ben-Dov et.al.|[2206.11563v1](http://arxiv.org/abs/2206.11563v1)|null|
 |**2022-06-23**|**A novel adversarial learning strategy for medical image classification**|Zong Fan et.al.|[2206.11501v1](http://arxiv.org/abs/2206.11501v1)|null|
 |**2022-06-22**|**Facke: a Survey on Generative Models for Face Swapping**|Wei Jiang et.al.|[2206.11203v1](http://arxiv.org/abs/2206.11203v1)|**[link](https://github.com/ailon-island/facke)**|
-|**2022-06-22**|**Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks**|Hongjoon Ahn et.al.|[2206.11081v1](http://arxiv.org/abs/2206.11081v1)|null|
+|**2022-06-22**|**Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks**|Hongjoon Ahn et.al.|[2206.11081v2](http://arxiv.org/abs/2206.11081v2)|null|
 |**2022-06-22**|**On the product functor on inner forms of general linear group over a non-Archimedean local field**|Kei Yuen Chan et.al.|[2206.10928v1](http://arxiv.org/abs/2206.10928v1)|null|
 |**2022-06-22**|**First-principles method justifying the Dieke diagram and beyond**|Katsuhiro Suzuki et.al.|[2206.10862v1](http://arxiv.org/abs/2206.10862v1)|null|
 |**2022-06-20**|**Generating Diverse Indoor Furniture Arrangements**|Ya-Chuan Hsu et.al.|[2206.10608v1](http://arxiv.org/abs/2206.10608v1)|null|
