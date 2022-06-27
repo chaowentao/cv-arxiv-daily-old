@@ -176,6 +176,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-24**|**Defending Backdoor Attacks on Vision Transformer via Patch Processing**|Khoa D. Doan et.al.|[2206.12381v1](http://arxiv.org/abs/2206.12381v1)|null|
 |**2022-06-22**|**Parallel Pre-trained Transformers (PPT) for Synthetic Data-based Instance Segmentation**|Ming Li et.al.|[2206.10845v1](http://arxiv.org/abs/2206.10845v1)|null|
 |**2022-06-21**|**Scaling up Kernels in 3D CNNs**|Yukang Chen et.al.|[2206.10555v1](http://arxiv.org/abs/2206.10555v1)|**[link](https://github.com/dvlab-research/largekernel3d)**|
 |**2022-06-21**|**Vicinity Vision Transformer**|Weixuan Sun et.al.|[2206.10552v1](http://arxiv.org/abs/2206.10552v1)|**[link](https://github.com/opennlplab/vicinity-vision-transformer)**|
@@ -670,6 +671,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-24**|**ZSON: Zero-Shot Object-Goal Navigation using Multimodal Goal Embeddings**|Arjun Majumdar et.al.|[2206.12403v1](http://arxiv.org/abs/2206.12403v1)|null|
+|**2022-06-24**|**PoCaP Corpus: A Multimodal Dataset for Smart Operating Room Speech Assistant using Interventional Radiology Workflow Analysis**|Kubilay Can Demir et.al.|[2206.12320v1](http://arxiv.org/abs/2206.12320v1)|null|
 |**2022-06-23**|**Weighted Concordance Index Loss-based Multimodal Survival Modeling for Radiation Encephalopathy Assessment in Nasopharyngeal Carcinoma Radiotherapy**|Jiansheng Fang et.al.|[2206.11458v1](http://arxiv.org/abs/2206.11458v1)|null|
 |**2022-06-22**|**Vision- and tactile-based continuous multimodal intention and attention recognition for safer physical human-robot interaction**|Christopher Yee Wong et.al.|[2206.11350v1](http://arxiv.org/abs/2206.11350v1)|null|
 |**2022-06-22**|**Visualizing the breakdown of quantum multimodality in coherently driven light-matter interaction**|Th. K. Mavrogordatos et.al.|[2206.11197v1](http://arxiv.org/abs/2206.11197v1)|null|
@@ -1315,6 +1318,7 @@
 |**2022-06-21**|**Multi-level Domain Adaptation for Lane Detection**|Chenguang Li et.al.|[2206.10692v1](http://arxiv.org/abs/2206.10692v1)|null|
 |**2022-06-21**|**Domain Adaptive 3D Pose Augmentation for In-the-wild Human Mesh Recovery**|Zhenzhen Weng et.al.|[2206.10457v1](http://arxiv.org/abs/2206.10457v1)|null|
 |**2022-06-21**|**Few-Max: Few-Shot Domain Adaptation for Unsupervised Contrastive Representation Learning**|Ali Lotfi Rezaabad et.al.|[2206.10137v2](http://arxiv.org/abs/2206.10137v2)|**[link](https://github.com/utcsilab/fewmax)**|
+|**2022-06-20**|**Voxel-MAE: Masked Autoencoders for Pre-training Large-scale Point Clouds**|Chen Min et.al.|[2206.09900v2](http://arxiv.org/abs/2206.09900v2)|**[link](https://github.com/chaytonmin/voxel-mae)**|
 |**2022-06-20**|**Boosting Cross-Domain Speech Recognition with Self-Supervision**|Han Zhu et.al.|[2206.09783v1](http://arxiv.org/abs/2206.09783v1)|null|
 |**2022-06-20**|**Distribution Regularized Self-Supervised Learning for Domain Adaptation of Semantic Segmentation**|Javed Iqbal et.al.|[2206.09683v1](http://arxiv.org/abs/2206.09683v1)|null|
 |**2022-06-20**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
@@ -1746,6 +1750,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-24**|**ZSON: Zero-Shot Object-Goal Navigation using Multimodal Goal Embeddings**|Arjun Majumdar et.al.|[2206.12403v1](http://arxiv.org/abs/2206.12403v1)|null|
+|**2022-06-24**|**Prosody Cloning in Zero-Shot Multispeaker Text-to-Speech**|Florian Lux et.al.|[2206.12229v1](http://arxiv.org/abs/2206.12229v1)|**[link](https://github.com/digitalphonetics/ims-toucan)**|
+|**2022-06-24**|**Feature Representation Learning for Robust Retinal Disease Detection from Optical Coherence Tomography Images**|Sharif Amit Kamran et.al.|[2206.12136v1](http://arxiv.org/abs/2206.12136v1)|null|
+|**2022-06-24**|**MVP: Multi-task Supervised Pre-training for Natural Language Generation**|Tianyi Tang et.al.|[2206.12131v1](http://arxiv.org/abs/2206.12131v1)|**[link](https://github.com/rucaibox/mvp)**|
+|**2022-06-24**|**Self Supervised Learning for Few Shot Hyperspectral Image Classification**|Nassim Ait Ali Braham et.al.|[2206.12117v1](http://arxiv.org/abs/2206.12117v1)|null|
+|**2022-06-24**|**Unified BERT for Few-shot Natural Language Understanding**|JunYu Lu et.al.|[2206.12094v1](http://arxiv.org/abs/2206.12094v1)|null|
+|**2022-06-24**|**Functional Partial Membership Models**|Nicholas Marco et.al.|[2206.12084v1](http://arxiv.org/abs/2206.12084v1)|null|
+|**2022-06-24**|**Confidence Score Based Conformer Speaker Adaptation for Speech Recognition**|Jiajun Deng et.al.|[2206.12045v1](http://arxiv.org/abs/2206.12045v1)|null|
+|**2022-06-23**|**Unsupervised Learning Algorithms for Keyword Extraction in an Undergraduate Thesis**|Fred Torres-Cruz et.al.|[2206.12016v1](http://arxiv.org/abs/2206.12016v1)|null|
+|**2022-06-23**|**Task-Adaptive Few-shot Node Classification**|Song Wang et.al.|[2206.11972v1](http://arxiv.org/abs/2206.11972v1)|**[link](https://github.com/songw-sw/tent)**|
 |**2022-06-23**|**Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos**|Bowen Baker et.al.|[2206.11795v1](http://arxiv.org/abs/2206.11795v1)|null|
 |**2022-06-23**|**Measuring the Feasibility of Analogical Transfer using Complexity**|Pierre-Alexandre Murena et.al.|[2206.11753v1](http://arxiv.org/abs/2206.11753v1)|null|
 |**2022-06-23**|**PromptPose: Language Prompt Helps Animal Pose Estimation**|Xu Zhang et.al.|[2206.11752v1](http://arxiv.org/abs/2206.11752v1)|null|
@@ -3632,6 +3646,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-23**|**UNeRF: Time and Memory Conscious U-Shaped Network for Training Neural Radiance Fields**|Abiramy Kuganesan et.al.|[2206.11952v1](http://arxiv.org/abs/2206.11952v1)|null|
 |**2022-06-23**|**EventNeRF: Neural Radiance Fields from a Single Colour Event Camera**|Viktor Rudnev et.al.|[2206.11896v1](http://arxiv.org/abs/2206.11896v1)|null|
 |**2022-06-22**|**KiloNeuS: Implicit Neural Representations with Real-Time Global Illumination**|Stefano Esposito et.al.|[2206.10885v1](http://arxiv.org/abs/2206.10885v1)|null|
 |**2022-06-16**|**Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields**|Keqiang Sun et.al.|[2206.08361v1](http://arxiv.org/abs/2206.08361v1)|null|
@@ -3733,6 +3748,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-24**|**Megapixel Image Generation with Step-Unrolled Denoising Autoencoders**|Alex F. McKinney et.al.|[2206.12351v1](http://arxiv.org/abs/2206.12351v1)|null|
+|**2022-06-24**|**Using Autoencoders on Differentially Private Federated Learning GANs**|Gregor Schram et.al.|[2206.12270v1](http://arxiv.org/abs/2206.12270v1)|**[link](https://github.com/gregor160300/federated)**|
+|**2022-06-24**|**MULTI-FLGANs: Multi-Distributed Adversarial Networks for Non-IID distribution**|Akash Amalan et.al.|[2206.12178v1](http://arxiv.org/abs/2206.12178v1)|null|
+|**2022-06-24**|**Enhanced low-energy magnetic excitations evidencing the Cu-induced localization in an Fe-based superconductor Fe$_{0.98}$Te$_{0.5}$Se$_{0.5}$**|Jinghui Wang et.al.|[2206.12122v1](http://arxiv.org/abs/2206.12122v1)|null|
+|**2022-06-24**|**Unified BERT for Few-shot Natural Language Understanding**|JunYu Lu et.al.|[2206.12094v1](http://arxiv.org/abs/2206.12094v1)|null|
+|**2022-06-24**|**SDF-StyleGAN: Implicit SDF-Based StyleGAN for 3D Shape Generation**|Xin-Yang Zheng et.al.|[2206.12055v1](http://arxiv.org/abs/2206.12055v1)|null|
 |**2022-06-23**|**Continuously Doping Bi 2 Sr 2 CaCu 2 O 8+δ into Electron-Doped Superconductor by CaH 2 Annealing Method**|Jin Zhao et.al.|[2206.11712v1](http://arxiv.org/abs/2206.11712v1)|null|
 |**2022-06-23**|**Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations**|Chenhao Li et.al.|[2206.11693v1](http://arxiv.org/abs/2206.11693v1)|null|
 |**2022-06-23**|**EFFGAN: Ensembles of fine-tuned federated GANs**|Ebba Ekblom et.al.|[2206.11682v1](http://arxiv.org/abs/2206.11682v1)|null|
