@@ -1,4 +1,4 @@
-## Updated on 2022.06.27
+## Updated on 2022.06.28
 
 ## Image Generation
 
@@ -1311,14 +1311,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-06-23**|**Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**|An Wang et.al.|[2206.11804v1](http://arxiv.org/abs/2206.11804v1)|**[link](https://github.com/lofrienger/single_surgicalscene_for_segmentation)**|
+|**2022-06-23**|**Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**|An Wang et.al.|[2206.11804v2](http://arxiv.org/abs/2206.11804v2)|**[link](https://github.com/lofrienger/single_surgicalscene_for_segmentation)**|
 |**2022-06-23**|**Measuring the Feasibility of Analogical Transfer using Complexity**|Pierre-Alexandre Murena et.al.|[2206.11753v1](http://arxiv.org/abs/2206.11753v1)|null|
 |**2022-06-23**|**Gradual Domain Adaptation via Normalizing Flows**|Shogo Sagawa et.al.|[2206.11492v1](http://arxiv.org/abs/2206.11492v1)|**[link](https://github.com/ssgw320/gdacnf)**|
 |**2022-06-22**|**Optimal transport meets noisy label robust loss and MixUp regularization for domain adaptation**|Kilian Fatras et.al.|[2206.11180v1](http://arxiv.org/abs/2206.11180v1)|null|
 |**2022-06-21**|**Multi-level Domain Adaptation for Lane Detection**|Chenguang Li et.al.|[2206.10692v1](http://arxiv.org/abs/2206.10692v1)|null|
 |**2022-06-21**|**Domain Adaptive 3D Pose Augmentation for In-the-wild Human Mesh Recovery**|Zhenzhen Weng et.al.|[2206.10457v1](http://arxiv.org/abs/2206.10457v1)|null|
 |**2022-06-21**|**Few-Max: Few-Shot Domain Adaptation for Unsupervised Contrastive Representation Learning**|Ali Lotfi Rezaabad et.al.|[2206.10137v2](http://arxiv.org/abs/2206.10137v2)|**[link](https://github.com/utcsilab/fewmax)**|
-|**2022-06-20**|**Voxel-MAE: Masked Autoencoders for Pre-training Large-scale Point Clouds**|Chen Min et.al.|[2206.09900v2](http://arxiv.org/abs/2206.09900v2)|**[link](https://github.com/chaytonmin/voxel-mae)**|
+|**2022-06-20**|**Voxel-MAE: Masked Autoencoders for Pre-training Large-scale Point Clouds**|Chen Min et.al.|[2206.09900v3](http://arxiv.org/abs/2206.09900v3)|**[link](https://github.com/chaytonmin/voxel-mae)**|
 |**2022-06-20**|**Boosting Cross-Domain Speech Recognition with Self-Supervision**|Han Zhu et.al.|[2206.09783v1](http://arxiv.org/abs/2206.09783v1)|null|
 |**2022-06-20**|**Distribution Regularized Self-Supervised Learning for Domain Adaptation of Semantic Segmentation**|Javed Iqbal et.al.|[2206.09683v1](http://arxiv.org/abs/2206.09683v1)|null|
 |**2022-06-20**|**Adaptive Domain Interest Network for Multi-domain Recommendation**|Yuchen Jiang et.al.|[2206.09672v1](http://arxiv.org/abs/2206.09672v1)|null|
@@ -3657,7 +3657,7 @@
 |**2022-06-13**|**SNeS: Learning Probably Symmetric Neural Surfaces from Incomplete Data**|Eldar Insafutdinov et.al.|[2206.06340v1](http://arxiv.org/abs/2206.06340v1)|null|
 |**2022-06-13**|**AR-NeRF: Unsupervised Learning of Depth and Defocus Effects from Natural Images with Aperture Rendering Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2206.06100v1](http://arxiv.org/abs/2206.06100v1)|null|
 |**2022-06-10**|**Generalizable Neural Radiance Fields for Novel View Synthesis with Transformer**|Dan Wang et.al.|[2206.05375v1](http://arxiv.org/abs/2206.05375v1)|null|
-|**2022-06-10**|**Improved Direct Voxel Grid Optimization for Radiance Fields Reconstruction**|Cheng Sun et.al.|[2206.05085v3](http://arxiv.org/abs/2206.05085v3)|**[link](https://github.com/sunset1995/directvoxgo)**|
+|**2022-06-10**|**Improved Direct Voxel Grid Optimization for Radiance Fields Reconstruction**|Cheng Sun et.al.|[2206.05085v3](http://arxiv.org/abs/2206.05085v3)|**[link](https://github.com/sunset1995/torch_efficient_distloss)**|
 |**2022-06-10**|**NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors**|Hao-Kang Liu et.al.|[2206.04901v1](http://arxiv.org/abs/2206.04901v1)|null|
 |**2022-06-09**|**Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields**|Mingtong Zhang et.al.|[2206.04669v1](http://arxiv.org/abs/2206.04669v1)|null|
 |**2022-06-07**|**ObPose: Leveraging Canonical Pose for Object-Centric Scene Inference in 3D**|Yizhe Wu et.al.|[2206.03591v1](http://arxiv.org/abs/2206.03591v1)|null|
@@ -3758,7 +3758,7 @@
 |**2022-06-23**|**Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations**|Chenhao Li et.al.|[2206.11693v1](http://arxiv.org/abs/2206.11693v1)|null|
 |**2022-06-23**|**EFFGAN: Ensembles of fine-tuned federated GANs**|Ebba Ekblom et.al.|[2206.11682v1](http://arxiv.org/abs/2206.11682v1)|null|
 |**2022-06-23**|**LED: Latent Variable-based Estimation of Density**|Omri Ben-Dov et.al.|[2206.11563v1](http://arxiv.org/abs/2206.11563v1)|null|
-|**2022-06-23**|**A novel adversarial learning strategy for medical image classification**|Zong Fan et.al.|[2206.11501v1](http://arxiv.org/abs/2206.11501v1)|null|
+|**2022-06-23**|**A novel adversarial learning strategy for medical image classification**|Zong Fan et.al.|[2206.11501v2](http://arxiv.org/abs/2206.11501v2)|null|
 |**2022-06-22**|**Facke: a Survey on Generative Models for Face Swapping**|Wei Jiang et.al.|[2206.11203v1](http://arxiv.org/abs/2206.11203v1)|**[link](https://github.com/ailon-island/facke)**|
 |**2022-06-22**|**Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks**|Hongjoon Ahn et.al.|[2206.11081v2](http://arxiv.org/abs/2206.11081v2)|null|
 |**2022-06-22**|**On the product functor on inner forms of general linear group over a non-Archimedean local field**|Kei Yuen Chan et.al.|[2206.10928v1](http://arxiv.org/abs/2206.10928v1)|null|
@@ -3768,7 +3768,7 @@
 |**2022-06-21**|**EpiGRAF: Rethinking training of 3D GANs**|Ivan Skorokhodov et.al.|[2206.10535v1](http://arxiv.org/abs/2206.10535v1)|null|
 |**2022-06-21**|**Overcoming High Frequency Limitations of Current-Mode Control Using a Control Conditioning Approach -- Part I: Modeling and Analysis**|Xiaofan Cui et.al.|[2206.10518v1](http://arxiv.org/abs/2206.10518v1)|null|
 |**2022-06-21**|**Using EBGAN for Anomaly Intrusion Detection**|Yi Cui et.al.|[2206.10400v1](http://arxiv.org/abs/2206.10400v1)|null|
-|**2022-06-21**|**Unitary Constraints on Semiclassical Schwarzschild Black Holes in the Presence of Island**|Dong-Hui Du et.al.|[2206.10339v1](http://arxiv.org/abs/2206.10339v1)|null|
+|**2022-06-21**|**Unitary Constraints on Semiclassical Schwarzschild Black Holes in the Presence of Island**|Dong-Hui Du et.al.|[2206.10339v2](http://arxiv.org/abs/2206.10339v2)|null|
 |**2022-06-21**|**2D graphitic-like gallium nitride and structural selectivity in confinement at graphene/SiC interface**|Gianfranco Sfuncia et.al.|[2206.10247v1](http://arxiv.org/abs/2206.10247v1)|null|
 |**2022-06-21**|**Mechanism Design Approaches to Blockchain Consensus**|Joshua S. Gans et.al.|[2206.10065v1](http://arxiv.org/abs/2206.10065v1)|null|
 |**2022-06-20**|**WOLONet: Wave Outlooker for Efficient and High Fidelity Speech Synthesis**|Yi Wang et.al.|[2206.09920v1](http://arxiv.org/abs/2206.09920v1)|null|
