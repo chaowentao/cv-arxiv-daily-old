@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.28
+## Updated on 2022.06.29
 
 ## SLAM
 
@@ -832,7 +832,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-06-27**|**A Topic-Attentive Transformer-based Model For Multimodal Depression Detection**|Yanrong Guo et.al.|[2206.13256v1](http://arxiv.org/abs/2206.13256v1)|null|
-|**2022-06-27**|**Endowing Language Models with Multimodal Knowledge Graph Representations**|Ningyuan Huang et.al.|[2206.13163v1](http://arxiv.org/abs/2206.13163v1)|null|
+|**2022-06-27**|**Endowing Language Models with Multimodal Knowledge Graph Representations**|Ningyuan Huang et.al.|[2206.13163v1](http://arxiv.org/abs/2206.13163v1)|**[link](https://github.com/iacercalixto/visualsem)**|
 |**2022-06-26**|**Incoherent Gaussian equivalence of $m-$mode Gaussian states**|Zhaofang Bai et.al.|[2206.12831v1](http://arxiv.org/abs/2206.12831v1)|null|
 |**2022-06-25**|**Defending Multimodal Fusion Models against Single-Source Adversaries**|Karren Yang et.al.|[2206.12714v1](http://arxiv.org/abs/2206.12714v1)|null|
 |**2022-06-25**|**Angular dependency of spatial frequency modulation in diffusion media**|Yun Chen et.al.|[2206.12580v1](http://arxiv.org/abs/2206.12580v1)|null|
@@ -1926,7 +1926,7 @@ layout: default
 |**2022-06-27**|**Understanding Benign Overfitting in Nested Meta Learning**|Lisha Chen et.al.|[2206.13482v1](http://arxiv.org/abs/2206.13482v1)|null|
 |**2022-06-27**|**ContraReg: Contrastive Learning of Multi-modality Unsupervised Deformable Image Registration**|Neel Dey et.al.|[2206.13434v1](http://arxiv.org/abs/2206.13434v1)|null|
 |**2022-06-27**|**Unsupervised Voice Activity Detection by Modeling Source and System Information using Zero Frequency Filtering**|Eklavya Sarkar et.al.|[2206.13420v1](http://arxiv.org/abs/2206.13420v1)|null|
-|**2022-06-27**|**Prior-Guided One-shot Neural Architecture Search**|Peijie Dong et.al.|[2206.13329v1](http://arxiv.org/abs/2206.13329v1)|null|
+|**2022-06-27**|**Prior-Guided One-shot Neural Architecture Search**|Peijie Dong et.al.|[2206.13329v1](http://arxiv.org/abs/2206.13329v1)|**[link](https://github.com/pprp/CVPR2022-NAS-competition-Track1-3th-solution)**|
 |**2022-06-27**|**Automatic identification of segmentation errors for radiotherapy using geometric learning**|Edward G. A. Henderson et.al.|[2206.13317v1](http://arxiv.org/abs/2206.13317v1)|**[link](https://github.com/rrr-uom-projects/contour_auto_qatool)**|
 |**2022-06-27**|**PARTICUL: Part Identification with Confidence measure using Unsupervised Learning**|Romain Xu-Darme et.al.|[2206.13304v1](http://arxiv.org/abs/2206.13304v1)|null|
 |**2022-06-27**|**Few-Shot Stance Detection via Target-Aware Prompt Distillation**|Yan Jiang et.al.|[2206.13214v1](http://arxiv.org/abs/2206.13214v1)|null|
@@ -3941,7 +3941,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-06-27**|**Prompting Decision Transformer for Few-Shot Policy Generalization**|Mengdi Xu et.al.|[2206.13499v1](http://arxiv.org/abs/2206.13499v1)|null|
-|**2022-06-27**|**Avocodo: Generative Adversarial Network for Artifact-free Vocoder**|Taejun Bak et.al.|[2206.13404v1](http://arxiv.org/abs/2206.13404v1)|null|
+|**2022-06-27**|**Avocodo: Generative Adversarial Network for Artifact-free Vocoder**|Taejun Bak et.al.|[2206.13404v2](http://arxiv.org/abs/2206.13404v2)|null|
 |**2022-06-27**|**Sound Model Factory: An Integrated System Architecture for Generative Audio Modelling**|Lonce Wyse et.al.|[2206.13085v1](http://arxiv.org/abs/2206.13085v1)|null|
 |**2022-06-27**|**Video2StyleGAN: Encoding Video in Latent Space for Manipulation**|Jiyang Yu et.al.|[2206.13078v1](http://arxiv.org/abs/2206.13078v1)|null|
 |**2022-06-26**|**FingerGAN: A Constrained Fingerprint Generation Scheme for Latent Fingerprint Enhancement**|Yanming Zhu et.al.|[2206.12885v1](http://arxiv.org/abs/2206.12885v1)|null|
