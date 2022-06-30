@@ -180,7 +180,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-06-28**|**Robustifying Vision Transformer without Retraining from Scratch by Test-Time Class-Conditional Feature Alignment**|Takeshi Kojima et.al.|[2206.13951v1](http://arxiv.org/abs/2206.13951v1)|null|
+|**2022-06-29**|**LViT: Language meets Vision Transformer in Medical Image Segmentation**|Zihan Li et.al.|[2206.14718v1](http://arxiv.org/abs/2206.14718v1)|**[link](https://github.com/huanglizi/lvit)**|
+|**2022-06-29**|**The Lighter The Better: Rethinking Transformers in Medical Image Segmentation Through Adaptive Pruning**|Xian Lin et.al.|[2206.14413v1](http://arxiv.org/abs/2206.14413v1)|**[link](https://github.com/xianlin7/apformer)**|
+|**2022-06-28**|**Masked World Models for Visual Control**|Younggyo Seo et.al.|[2206.14244v1](http://arxiv.org/abs/2206.14244v1)|null|
+|**2022-06-28**|**Robustifying Vision Transformer without Retraining from Scratch by Test-Time Class-Conditional Feature Alignment**|Takeshi Kojima et.al.|[2206.13951v1](http://arxiv.org/abs/2206.13951v1)|**[link](https://github.com/kojima-takeshi188/cfa)**|
 |**2022-06-28**|**Cross-Forgery Analysis of Vision Transformers and CNNs for Deepfake Image Detection**|Davide Alessandro Coccomini et.al.|[2206.13829v1](http://arxiv.org/abs/2206.13829v1)|null|
 |**2022-06-23**|**QbyE-MLPMixer: Query-by-Example Open-Vocabulary Keyword Spotting using MLPMixer**|Jinmiao Huang et.al.|[2206.13231v1](http://arxiv.org/abs/2206.13231v1)|null|
 |**2022-06-27**|**Video2StyleGAN: Encoding Video in Latent Space for Manipulation**|Jiyang Yu et.al.|[2206.13078v1](http://arxiv.org/abs/2206.13078v1)|null|
@@ -683,6 +686,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-29**|**LViT: Language meets Vision Transformer in Medical Image Segmentation**|Zihan Li et.al.|[2206.14718v1](http://arxiv.org/abs/2206.14718v1)|**[link](https://github.com/huanglizi/lvit)**|
+|**2022-06-24**|**Competence-based Multimodal Curriculum Learning for Medical Report Generation**|Fenglin Liu et.al.|[2206.14579v1](http://arxiv.org/abs/2206.14579v1)|null|
+|**2022-06-29**|**Can Push-forward Generative Models Fit Multimodal Distributions?**|Antoine Salmona et.al.|[2206.14476v1](http://arxiv.org/abs/2206.14476v1)|null|
+|**2022-06-29**|**EBMs vs. CL: Exploring Self-Supervised Visual Pretraining for Visual Question Answering**|Violetta Shevchenko et.al.|[2206.14355v1](http://arxiv.org/abs/2206.14355v1)|null|
 |**2022-06-28**|**Rethinking Adversarial Examples for Location Privacy Protection**|Trung-Nghia Le et.al.|[2206.14020v1](http://arxiv.org/abs/2206.14020v1)|null|
 |**2022-06-28**|**MACSA: A Multimodal Aspect-Category Sentiment Analysis Dataset with Multimodal Fine-grained Aligned Annotations**|Hao Yang et.al.|[2206.13969v1](http://arxiv.org/abs/2206.13969v1)|null|
 |**2022-06-28**|**Multimode non-Gaussian secure communication under mode-mismatch**|Soumyakanti Bose et.al.|[2206.13763v1](http://arxiv.org/abs/2206.13763v1)|null|
@@ -1333,7 +1340,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-06-28**|**Robustifying Vision Transformer without Retraining from Scratch by Test-Time Class-Conditional Feature Alignment**|Takeshi Kojima et.al.|[2206.13951v1](http://arxiv.org/abs/2206.13951v1)|null|
+|**2022-06-29**|**MaNi: Maximizing Mutual Information for Nuclei Cross-Domain Unsupervised Segmentation**|Yash Sharma et.al.|[2206.14437v1](http://arxiv.org/abs/2206.14437v1)|null|
+|**2022-06-28**|**Robustifying Vision Transformer without Retraining from Scratch by Test-Time Class-Conditional Feature Alignment**|Takeshi Kojima et.al.|[2206.13951v1](http://arxiv.org/abs/2206.13951v1)|**[link](https://github.com/kojima-takeshi188/cfa)**|
 |**2022-06-28**|**Minimum-Fuel Earth-Based Orbit Transfers Using Multiple-Domain Adaptive Radau Collocation**|Brittanny V. Holden et.al.|[2206.13683v1](http://arxiv.org/abs/2206.13683v1)|null|
 |**2022-06-27**|**Learning with Weak Annotations for Robust Maritime Obstacle Detection**|Lojze Žust et.al.|[2206.13263v1](http://arxiv.org/abs/2206.13263v1)|**[link](https://github.com/lojzezust/slr)**|
 |**2022-06-22**|**A Simple Baseline for Domain Adaptation in End to End ASR Systems Using Synthetic Data**|Raviraj Joshi et.al.|[2206.13240v1](http://arxiv.org/abs/2206.13240v1)|null|
@@ -1780,6 +1788,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-29**|**How Train-Test Leakage Affects Zero-shot Retrieval**|Maik Fröbe et.al.|[2206.14759v1](http://arxiv.org/abs/2206.14759v1)|null|
+|**2022-06-29**|**Trial2Vec: Zero-Shot Clinical Trial Document Similarity Search using Self-Supervision**|Zifeng Wang et.al.|[2206.14719v1](http://arxiv.org/abs/2206.14719v1)|null|
+|**2022-06-28**|**Generative Anomaly Detection for Time Series Datasets**|Zhuangwei Kang et.al.|[2206.14597v1](http://arxiv.org/abs/2206.14597v1)|null|
+|**2022-06-29**|**Quantifying the structure of controversial discussions with unsupervised methods: a look into the Twitter climate change conversation**|Blas Kolic et.al.|[2206.14501v1](http://arxiv.org/abs/2206.14501v1)|**[link](https://github.com/blas-ko/Twitter_chambers)**|
+|**2022-06-29**|**Siamese Contrastive Embedding Network for Compositional Zero-Shot Learning**|Xiangyu Li et.al.|[2206.14475v1](http://arxiv.org/abs/2206.14475v1)|null|
+|**2022-06-29**|**Approximate Data Deletion in Generative Models**|Zhifeng Kong et.al.|[2206.14439v1](http://arxiv.org/abs/2206.14439v1)|null|
+|**2022-06-29**|**MaNi: Maximizing Mutual Information for Nuclei Cross-Domain Unsupervised Segmentation**|Yash Sharma et.al.|[2206.14437v1](http://arxiv.org/abs/2206.14437v1)|null|
+|**2022-06-29**|**GreenBIQA: A Lightweight Blind Image Quality Assessment Method**|Zhanxuan Mei et.al.|[2206.14400v1](http://arxiv.org/abs/2206.14400v1)|null|
+|**2022-06-29**|**Chinese Word Sense Embedding with SememeWSD and Synonym Set**|Yangxi Zhou et.al.|[2206.14388v1](http://arxiv.org/abs/2206.14388v1)|null|
+|**2022-06-29**|**Intrinsic Anomaly Detection for Multi-Variate Time Series**|Stephan Rabanser et.al.|[2206.14342v1](http://arxiv.org/abs/2206.14342v1)|null|
+|**2022-06-29**|**A graph-based spectral classification of Type II supernovae**|Rafael S. de Souza et.al.|[2206.14335v1](http://arxiv.org/abs/2206.14335v1)|null|
+|**2022-06-28**|**Generative Neural Articulated Radiance Fields**|Alexander W. Bergman et.al.|[2206.14314v1](http://arxiv.org/abs/2206.14314v1)|null|
+|**2022-06-28**|**Reinforcement Learning in Medical Image Analysis: Concepts, Applications, Challenges, and Future Directions**|Mingzhe Hu et.al.|[2206.14302v1](http://arxiv.org/abs/2206.14302v1)|null|
+|**2022-06-28**|**Gaussian Latent Dirichlet Allocation for Discrete Human State Discovery**|Congyu Wu et.al.|[2206.14233v1](http://arxiv.org/abs/2206.14233v1)|null|
 |**2022-06-28**|**Zero-Shot Building Control**|Scott R. Jeen et.al.|[2206.14191v1](http://arxiv.org/abs/2206.14191v1)|null|
 |**2022-06-28**|**Proton: Probing Schema Linking Information from Pre-trained Language Models for Text-to-SQL Parsing**|Lihan Wang et.al.|[2206.14017v1](http://arxiv.org/abs/2206.14017v1)|null|
 |**2022-06-28**|**Taxonomy and evolution predicting using deep learning in images**|Jiewen Xiao et.al.|[2206.14011v1](http://arxiv.org/abs/2206.14011v1)|null|
@@ -3811,8 +3833,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-29**|**3D-Aware Video Generation**|Sherwin Bahmani et.al.|[2206.14797v1](http://arxiv.org/abs/2206.14797v1)|null|
+|**2022-06-29**|**Verified Causal Broadcast with Liquid Haskell**|Patrick Redmond et.al.|[2206.14767v1](http://arxiv.org/abs/2206.14767v1)|null|
+|**2022-06-29**|**DrumGAN VST: A Plugin for Drum Sound Analysis/Synthesis With Autoencoding Generative Adversarial Networks**|Javier Nistal et.al.|[2206.14723v1](http://arxiv.org/abs/2206.14723v1)|null|
+|**2022-06-29**|**Cut Inner Layers: A Structured Pruning Strategy for Efficient U-Net GANs**|Bo-Kyeong Kim et.al.|[2206.14658v1](http://arxiv.org/abs/2206.14658v1)|null|
+|**2022-06-29**|**SPI-GAN: Distilling Score-based Generative Models with Straight-Path Interpolations**|Jinsung Jeon et.al.|[2206.14464v1](http://arxiv.org/abs/2206.14464v1)|null|
+|**2022-06-29**|**Dryland evapotranspiration from remote sensing solar-induced chlorophyll fluorescence: constraining an optimal stomatal model within a two-source energy balance model**|Jingyi Bu et.al.|[2206.14416v1](http://arxiv.org/abs/2206.14416v1)|null|
+|**2022-06-29**|**Forgetting Data from Pre-trained GANs**|Zhifeng Kong et.al.|[2206.14389v1](http://arxiv.org/abs/2206.14389v1)|null|
+|**2022-06-28**|**Generative Neural Articulated Radiance Fields**|Alexander W. Bergman et.al.|[2206.14314v1](http://arxiv.org/abs/2206.14314v1)|null|
+|**2022-06-28**|**GAN-based Intrinsic Exploration For Sample Efficient Reinforcement Learning**|Doğay Kamar et.al.|[2206.14256v1](http://arxiv.org/abs/2206.14256v1)|null|
 |**2022-06-28**|**Improving Correlation Capture in Generating Imbalanced Data using Differentially Private Conditional GANs**|Chang Sun et.al.|[2206.13787v1](http://arxiv.org/abs/2206.13787v1)|null|
-|**2022-06-28**|**Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems**|Yixin Su et.al.|[2206.13764v1](http://arxiv.org/abs/2206.13764v1)|null|
+|**2022-06-28**|**Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems**|Yixin Su et.al.|[2206.13764v1](http://arxiv.org/abs/2206.13764v1)|**[link](https://github.com/ruizhang-ai/hirs_hypergraph_infomax_recommender_system)**|
 |**2022-06-28**|**GAN-based Super-Resolution and Segmentation of Retinal Layers in Optical coherence tomography Scans**|Paria Jeihouni et.al.|[2206.13740v1](http://arxiv.org/abs/2206.13740v1)|null|
 |**2022-06-28**|**TTS-CGAN: A Transformer Time-Series Conditional GAN for Biosignal Data Augmentation**|Xiaomin Li et.al.|[2206.13676v1](http://arxiv.org/abs/2206.13676v1)|**[link](https://github.com/imics-lab/tts-cgan)**|
 |**2022-06-27**|**Prompting Decision Transformer for Few-Shot Policy Generalization**|Mengdi Xu et.al.|[2206.13499v1](http://arxiv.org/abs/2206.13499v1)|null|
