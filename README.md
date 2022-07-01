@@ -180,6 +180,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-30**|**PVT-COV19D: Pyramid Vision Transformer for COVID-19 Diagnosis**|Lilang Zheng et.al.|[2206.15069v1](http://arxiv.org/abs/2206.15069v1)|null|
 |**2022-06-29**|**LViT: Language meets Vision Transformer in Medical Image Segmentation**|Zihan Li et.al.|[2206.14718v1](http://arxiv.org/abs/2206.14718v1)|**[link](https://github.com/huanglizi/lvit)**|
 |**2022-06-29**|**The Lighter The Better: Rethinking Transformers in Medical Image Segmentation Through Adaptive Pruning**|Xian Lin et.al.|[2206.14413v1](http://arxiv.org/abs/2206.14413v1)|**[link](https://github.com/xianlin7/apformer)**|
 |**2022-06-28**|**Masked World Models for Visual Control**|Younggyo Seo et.al.|[2206.14244v1](http://arxiv.org/abs/2206.14244v1)|null|
@@ -686,6 +687,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-30**|**Suppressing transverse mode instability through multimode excitation in a fiber amplifier**|Chun-Wei Chen et.al.|[2206.15438v1](http://arxiv.org/abs/2206.15438v1)|null|
+|**2022-06-27**|**Some Statistical Tools to Measure The Effectiveness of a (LEM) Model on Creative Thinking Among Intermediate Students in Mathematics**|Hiba Ali Kareem et.al.|[2206.15435v1](http://arxiv.org/abs/2206.15435v1)|null|
+|**2022-06-30**|**Sonification as a Reliable Alternative to Conventional Visual Surgical Navigation**|Sasan Matinfar et.al.|[2206.15291v1](http://arxiv.org/abs/2206.15291v1)|null|
+|**2022-06-30**|**Automated Experiments of Local Non-linear Behavior in Ferroelectric Materials**|Yongtao Liu et.al.|[2206.15110v1](http://arxiv.org/abs/2206.15110v1)|null|
+|**2022-06-30**|**Boosting 3D Object Detection by Simulating Multimodality on Point Clouds**|Wu Zheng et.al.|[2206.14971v1](http://arxiv.org/abs/2206.14971v1)|null|
+|**2022-06-29**|**GPTs at Factify 2022: Prompt Aided Fact-Verification**|Pawan Kumar Sahu et.al.|[2206.14913v1](http://arxiv.org/abs/2206.14913v1)|null|
 |**2022-06-29**|**LViT: Language meets Vision Transformer in Medical Image Segmentation**|Zihan Li et.al.|[2206.14718v1](http://arxiv.org/abs/2206.14718v1)|**[link](https://github.com/huanglizi/lvit)**|
 |**2022-06-24**|**Competence-based Multimodal Curriculum Learning for Medical Report Generation**|Fenglin Liu et.al.|[2206.14579v1](http://arxiv.org/abs/2206.14579v1)|null|
 |**2022-06-29**|**Can Push-forward Generative Models Fit Multimodal Distributions?**|Antoine Salmona et.al.|[2206.14476v1](http://arxiv.org/abs/2206.14476v1)|null|
@@ -1340,7 +1347,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-06-29**|**MaNi: Maximizing Mutual Information for Nuclei Cross-Domain Unsupervised Segmentation**|Yash Sharma et.al.|[2206.14437v1](http://arxiv.org/abs/2206.14437v1)|null|
+|**2022-06-30**|**Domain Adaptive Pretraining for Multilingual Acronym Extraction**|Usama Yaseen et.al.|[2206.15221v1](http://arxiv.org/abs/2206.15221v1)|null|
+|**2022-06-30**|**Hierarchical Mask Calibration for Unified Domain Adaptive Panoptic Segmentation**|Jingyi Zhang et.al.|[2206.15083v1](http://arxiv.org/abs/2206.15083v1)|null|
+|**2022-06-29**|**MaNi: Maximizing Mutual Information for Nuclei Cross-Domain Unsupervised Segmentation**|Yash Sharma et.al.|[2206.14437v1](http://arxiv.org/abs/2206.14437v1)|**[link](https://github.com/yashsharma/mani)**|
 |**2022-06-28**|**Robustifying Vision Transformer without Retraining from Scratch by Test-Time Class-Conditional Feature Alignment**|Takeshi Kojima et.al.|[2206.13951v1](http://arxiv.org/abs/2206.13951v1)|**[link](https://github.com/kojima-takeshi188/cfa)**|
 |**2022-06-28**|**Minimum-Fuel Earth-Based Orbit Transfers Using Multiple-Domain Adaptive Radau Collocation**|Brittanny V. Holden et.al.|[2206.13683v1](http://arxiv.org/abs/2206.13683v1)|null|
 |**2022-06-27**|**Learning with Weak Annotations for Robust Maritime Obstacle Detection**|Lojze Žust et.al.|[2206.13263v1](http://arxiv.org/abs/2206.13263v1)|**[link](https://github.com/lojzezust/slr)**|
@@ -1788,6 +1797,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-30**|**AnoShift: A Distribution Shift Benchmark for Unsupervised Anomaly Detection**|Marius Drăgoi et.al.|[2206.15476v1](http://arxiv.org/abs/2206.15476v1)|**[link](https://github.com/bit-ml/anoshift)**|
+|**2022-06-30**|**Asymmetry Disentanglement Network for Interpretable Acute Ischemic Stroke Infarct Segmentation in Non-Contrast CT Scans**|Haomiao Ni et.al.|[2206.15445v1](http://arxiv.org/abs/2206.15445v1)|**[link](https://github.com/nihaomiao/miccai22_adn)**|
+|**2022-06-30**|**Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images**|Nanqing Dong et.al.|[2206.15353v1](http://arxiv.org/abs/2206.15353v1)|null|
+|**2022-06-30**|**Learning Citywide Patterns of Life from Trajectory Monitoring**|Mark Tenzer et.al.|[2206.15352v1](http://arxiv.org/abs/2206.15352v1)|null|
+|**2022-06-30**|**FL-Tuning: Layer Tuning for Feed-Forward Network in Transformer**|Jingping Liu et.al.|[2206.15312v1](http://arxiv.org/abs/2206.15312v1)|null|
+|**2022-06-30**|**Depth-CUPRL: Depth-Imaged Contrastive Unsupervised Prioritized Representations in Reinforcement Learning for Mapless Navigation of Unmanned Aerial Vehicles**|Junior Costa de Jesus et.al.|[2206.15211v1](http://arxiv.org/abs/2206.15211v1)|null|
+|**2022-06-30**|**An Evaluation of Three-Stage Voice Conversion Framework for Noisy and Reverberant Conditions**|Yeonjong Choi et.al.|[2206.15155v1](http://arxiv.org/abs/2206.15155v1)|null|
+|**2022-06-30**|**The maximum capability of a topological feature in link prediction**|Ran Yijun et.al.|[2206.15101v1](http://arxiv.org/abs/2206.15101v1)|null|
+|**2022-06-30**|**Laplacian Autoencoders for Learning Stochastic Representations**|Marco Miani et.al.|[2206.15078v1](http://arxiv.org/abs/2206.15078v1)|**[link](https://github.com/frederikwarburg/laplaceae)**|
+|**2022-06-30**|**BigBIO: A Framework for Data-Centric Biomedical Natural Language Processing**|Jason Alan Fries et.al.|[2206.15076v1](http://arxiv.org/abs/2206.15076v1)|**[link](https://github.com/bigscience-workshop/biomedical)**|
+|**2022-06-30**|**ZeroC: A Neuro-Symbolic Model for Zero-shot Concept Recognition and Acquisition at Inference Time**|Tailin Wu et.al.|[2206.15049v1](http://arxiv.org/abs/2206.15049v1)|**[link](https://github.com/snap-stanford/zeroc)**|
+|**2022-06-30**|**Brain-like combination of feedforward and recurrent network components achieves prototype extraction and robust pattern recognition**|Naresh Balaji Ravichandran et.al.|[2206.15036v1](http://arxiv.org/abs/2206.15036v1)|null|
+|**2022-06-30**|**"Diversity and Uncertainty in Moderation" are the Key to Data Selection for Multilingual Few-shot Transfer**|Shanu Kumar et.al.|[2206.15010v1](http://arxiv.org/abs/2206.15010v1)|null|
+|**2022-06-30**|**Building Multilingual Machine Translation Systems That Serve Arbitrary X-Y Translations**|Akiko Eriguchi et.al.|[2206.14982v1](http://arxiv.org/abs/2206.14982v1)|null|
+|**2022-06-30**|**Semi-Supervised Generative Adversarial Network for Stress Detection Using Partially Labeled Physiological Data**|Nibraas Khan et.al.|[2206.14976v1](http://arxiv.org/abs/2206.14976v1)|null|
+|**2022-06-30**|**Masked Part-Of-Speech Model: Does Modeling Long Context Help Unsupervised POS-tagging?**|Xiang Zhou et.al.|[2206.14969v1](http://arxiv.org/abs/2206.14969v1)|**[link](https://github.com/owenzx/mposm)**|
+|**2022-06-29**|**Physics-Inspired Unsupervised Classification for Region of Interest in X-Ray Ptychography**|Dergan Lin et.al.|[2206.14940v1](http://arxiv.org/abs/2206.14940v1)|null|
+|**2022-06-29**|**iEmoTTS: Toward Robust Cross-Speaker Emotion Transfer and Control for Speech Synthesis based on Disentanglement between Prosody and Timbre**|Guangyan Zhang et.al.|[2206.14866v1](http://arxiv.org/abs/2206.14866v1)|null|
 |**2022-06-29**|**How Train-Test Leakage Affects Zero-shot Retrieval**|Maik Fröbe et.al.|[2206.14759v1](http://arxiv.org/abs/2206.14759v1)|null|
 |**2022-06-29**|**Trial2Vec: Zero-Shot Clinical Trial Document Similarity Search using Self-Supervision**|Zifeng Wang et.al.|[2206.14719v1](http://arxiv.org/abs/2206.14719v1)|null|
 |**2022-06-28**|**Generative Anomaly Detection for Time Series Datasets**|Zhuangwei Kang et.al.|[2206.14597v1](http://arxiv.org/abs/2206.14597v1)|null|
@@ -3730,6 +3757,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-29**|**NeRF, meet differential geometry!**|Thibaud Ehret et.al.|[2206.14938v1](http://arxiv.org/abs/2206.14938v1)|null|
 |**2022-06-24**|**Ev-NeRF: Event Based Neural Radiance Field**|Inwoo Hwang et.al.|[2206.12455v1](http://arxiv.org/abs/2206.12455v1)|null|
 |**2022-06-23**|**UNeRF: Time and Memory Conscious U-Shaped Network for Training Neural Radiance Fields**|Abiramy Kuganesan et.al.|[2206.11952v1](http://arxiv.org/abs/2206.11952v1)|null|
 |**2022-06-23**|**EventNeRF: Neural Radiance Fields from a Single Colour Event Camera**|Viktor Rudnev et.al.|[2206.11896v1](http://arxiv.org/abs/2206.11896v1)|null|
@@ -3833,6 +3861,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-30**|**On-Device Training Under 256KB Memory**|Ji Lin et.al.|[2206.15472v1](http://arxiv.org/abs/2206.15472v1)|null|
+|**2022-06-30**|**CTrGAN: Cycle Transformers GAN for Gait Transfer**|Shahar Mahpod et.al.|[2206.15248v1](http://arxiv.org/abs/2206.15248v1)|null|
+|**2022-06-30**|**The (de)biasing effect of GAN-based augmentation methods on skin lesion images**|Agnieszka Mikołajczyk et.al.|[2206.15182v1](http://arxiv.org/abs/2206.15182v1)|**[link](https://github.com/agamiko/debiasing-effect-of-gans)**|
+|**2022-06-30**|**InsMix: Towards Realistic Generative Data Augmentation for Nuclei Instance Segmentation**|Yi Lin et.al.|[2206.15134v1](http://arxiv.org/abs/2206.15134v1)|null|
+|**2022-06-30**|**Radio Galaxy Classification with wGAN-Supported Augmentation**|Janis Kummer et.al.|[2206.15131v1](http://arxiv.org/abs/2206.15131v1)|null|
+|**2022-06-30**|**Interpretable Melody Generation from Lyrics with Discrete-Valued Adversarial Training**|Wei Duan et.al.|[2206.15027v1](http://arxiv.org/abs/2206.15027v1)|null|
+|**2022-06-29**|**CLTS-GAN: Color-Lighting-Texture-Specular Reflection Augmentation for Colonoscopy**|Shawn Mathew et.al.|[2206.14951v1](http://arxiv.org/abs/2206.14951v1)|**[link](https://github.com/nadeemlab/CEP)**|
+|**2022-06-29**|**Semantic Unfolding of StyleGAN Latent Space**|Mustafa Shukor et.al.|[2206.14892v1](http://arxiv.org/abs/2206.14892v1)|null|
 |**2022-06-29**|**3D-Aware Video Generation**|Sherwin Bahmani et.al.|[2206.14797v1](http://arxiv.org/abs/2206.14797v1)|null|
 |**2022-06-29**|**Verified Causal Broadcast with Liquid Haskell**|Patrick Redmond et.al.|[2206.14767v1](http://arxiv.org/abs/2206.14767v1)|null|
 |**2022-06-29**|**DrumGAN VST: A Plugin for Drum Sound Analysis/Synthesis With Autoencoding Generative Adversarial Networks**|Javier Nistal et.al.|[2206.14723v1](http://arxiv.org/abs/2206.14723v1)|null|
@@ -4630,6 +4666,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-30**|**CTrGAN: Cycle Transformers GAN for Gait Transfer**|Shahar Mahpod et.al.|[2206.15248v1](http://arxiv.org/abs/2206.15248v1)|null|
 |**2022-06-28**|**Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark**|Chao Fan et.al.|[2206.13964v1](http://arxiv.org/abs/2206.13964v1)|**[link](https://github.com/shiqiyu/opengait)**|
 |**2022-06-28**|**A Comprehensive Survey on Deep Gait Recognition: Algorithms, Datasets and Challenges**|Chuanfu Shen et.al.|[2206.13732v1](http://arxiv.org/abs/2206.13732v1)|null|
 |**2022-06-20**|**Gait Cycle Reconstruction and Human Identification from Occluded Sequences**|Abhishek Paul et.al.|[2206.13395v1](http://arxiv.org/abs/2206.13395v1)|null|
