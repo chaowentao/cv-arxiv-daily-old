@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.06.30
+## Updated on 2022.07.01
 
 ## SLAM
 
@@ -1501,7 +1501,7 @@ layout: default
 |**2022-06-27**|**Unsupervised Domain Adaptation Using Feature Disentanglement And GCNs For Medical Image Classification**|Dwarikanath Mahapatra et.al.|[2206.13123v1](http://arxiv.org/abs/2206.13123v1)|null|
 |**2022-06-26**|**Memory-Guided Multi-View Multi-Domain Fake News Detection**|Yongchun Zhu et.al.|[2206.12808v1](http://arxiv.org/abs/2206.12808v1)|null|
 |**2022-06-24**|**Attention-Guided Autoencoder for Automated Progression Prediction of Subjective Cognitive Decline with Structural MRI**|Hao Guan et.al.|[2206.12480v1](http://arxiv.org/abs/2206.12480v1)|null|
-|**2022-06-23**|**Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**|An Wang et.al.|[2206.11804v2](http://arxiv.org/abs/2206.11804v2)|**[link](https://github.com/lofrienger/single_surgicalscene_for_segmentation)**|
+|**2022-06-23**|**Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**|An Wang et.al.|[2206.11804v3](http://arxiv.org/abs/2206.11804v3)|**[link](https://github.com/lofrienger/single_surgicalscene_for_segmentation)**|
 |**2022-06-23**|**Measuring the Feasibility of Analogical Transfer using Complexity**|Pierre-Alexandre Murena et.al.|[2206.11753v1](http://arxiv.org/abs/2206.11753v1)|null|
 |**2022-06-23**|**Gradual Domain Adaptation via Normalizing Flows**|Shogo Sagawa et.al.|[2206.11492v1](http://arxiv.org/abs/2206.11492v1)|**[link](https://github.com/ssgw320/gdacnf)**|
 |**2022-06-22**|**Optimal transport meets noisy label robust loss and MixUp regularization for domain adaptation**|Kilian Fatras et.al.|[2206.11180v1](http://arxiv.org/abs/2206.11180v1)|null|
