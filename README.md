@@ -690,7 +690,7 @@
 |**2022-06-30**|**Suppressing transverse mode instability through multimode excitation in a fiber amplifier**|Chun-Wei Chen et.al.|[2206.15438v1](http://arxiv.org/abs/2206.15438v1)|null|
 |**2022-06-27**|**Some Statistical Tools to Measure The Effectiveness of a (LEM) Model on Creative Thinking Among Intermediate Students in Mathematics**|Hiba Ali Kareem et.al.|[2206.15435v1](http://arxiv.org/abs/2206.15435v1)|null|
 |**2022-06-30**|**Sonification as a Reliable Alternative to Conventional Visual Surgical Navigation**|Sasan Matinfar et.al.|[2206.15291v1](http://arxiv.org/abs/2206.15291v1)|null|
-|**2022-06-30**|**Automated Experiments of Local Non-linear Behavior in Ferroelectric Materials**|Yongtao Liu et.al.|[2206.15110v1](http://arxiv.org/abs/2206.15110v1)|null|
+|**2022-06-30**|**Automated Experiments of Local Non-linear Behavior in Ferroelectric Materials**|Yongtao Liu et.al.|[2206.15110v1](http://arxiv.org/abs/2206.15110v1)|**[link](https://github.com/yongtaoliu/dkl-nonlinearity)**|
 |**2022-06-30**|**Boosting 3D Object Detection by Simulating Multimodality on Point Clouds**|Wu Zheng et.al.|[2206.14971v1](http://arxiv.org/abs/2206.14971v1)|null|
 |**2022-06-29**|**GPTs at Factify 2022: Prompt Aided Fact-Verification**|Pawan Kumar Sahu et.al.|[2206.14913v1](http://arxiv.org/abs/2206.14913v1)|null|
 |**2022-06-29**|**LViT: Language meets Vision Transformer in Medical Image Segmentation**|Zihan Li et.al.|[2206.14718v1](http://arxiv.org/abs/2206.14718v1)|**[link](https://github.com/huanglizi/lvit)**|
