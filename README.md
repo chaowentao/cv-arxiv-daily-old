@@ -1,4 +1,4 @@
-## Updated on 2022.07.03
+## Updated on 2022.07.04
 
 ## Image Generation
 
@@ -1802,9 +1802,9 @@
 |**2022-06-30**|**Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images**|Nanqing Dong et.al.|[2206.15353v1](http://arxiv.org/abs/2206.15353v1)|null|
 |**2022-06-30**|**Learning Citywide Patterns of Life from Trajectory Monitoring**|Mark Tenzer et.al.|[2206.15352v1](http://arxiv.org/abs/2206.15352v1)|null|
 |**2022-06-30**|**FL-Tuning: Layer Tuning for Feed-Forward Network in Transformer**|Jingping Liu et.al.|[2206.15312v1](http://arxiv.org/abs/2206.15312v1)|null|
-|**2022-06-30**|**Depth-CUPRL: Depth-Imaged Contrastive Unsupervised Prioritized Representations in Reinforcement Learning for Mapless Navigation of Unmanned Aerial Vehicles**|Junior Costa de Jesus et.al.|[2206.15211v1](http://arxiv.org/abs/2206.15211v1)|null|
+|**2022-06-30**|**Depth-CUPRL: Depth-Imaged Contrastive Unsupervised Prioritized Representations in Reinforcement Learning for Mapless Navigation of Unmanned Aerial Vehicles**|Junior Costa de Jesus et.al.|[2206.15211v2](http://arxiv.org/abs/2206.15211v2)|null|
 |**2022-06-30**|**An Evaluation of Three-Stage Voice Conversion Framework for Noisy and Reverberant Conditions**|Yeonjong Choi et.al.|[2206.15155v1](http://arxiv.org/abs/2206.15155v1)|null|
-|**2022-06-30**|**The maximum capability of a topological feature in link prediction**|Ran Yijun et.al.|[2206.15101v1](http://arxiv.org/abs/2206.15101v1)|null|
+|**2022-06-30**|**The maximum capability of a topological feature in link prediction**|Yijun Ran et.al.|[2206.15101v2](http://arxiv.org/abs/2206.15101v2)|null|
 |**2022-06-30**|**Laplacian Autoencoders for Learning Stochastic Representations**|Marco Miani et.al.|[2206.15078v1](http://arxiv.org/abs/2206.15078v1)|**[link](https://github.com/frederikwarburg/laplaceae)**|
 |**2022-06-30**|**BigBIO: A Framework for Data-Centric Biomedical Natural Language Processing**|Jason Alan Fries et.al.|[2206.15076v1](http://arxiv.org/abs/2206.15076v1)|**[link](https://github.com/bigscience-workshop/biomedical)**|
 |**2022-06-30**|**ZeroC: A Neuro-Symbolic Model for Zero-shot Concept Recognition and Acquisition at Inference Time**|Tailin Wu et.al.|[2206.15049v1](http://arxiv.org/abs/2206.15049v1)|**[link](https://github.com/snap-stanford/zeroc)**|
@@ -3862,7 +3862,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-06-30**|**On-Device Training Under 256KB Memory**|Ji Lin et.al.|[2206.15472v1](http://arxiv.org/abs/2206.15472v1)|null|
-|**2022-06-30**|**CTrGAN: Cycle Transformers GAN for Gait Transfer**|Shahar Mahpod et.al.|[2206.15248v1](http://arxiv.org/abs/2206.15248v1)|null|
+|**2022-06-30**|**CTrGAN: Cycle Transformers GAN for Gait Transfer**|Shahar Mahpod et.al.|[2206.15248v2](http://arxiv.org/abs/2206.15248v2)|null|
 |**2022-06-30**|**The (de)biasing effect of GAN-based augmentation methods on skin lesion images**|Agnieszka Mikołajczyk et.al.|[2206.15182v1](http://arxiv.org/abs/2206.15182v1)|**[link](https://github.com/agamiko/debiasing-effect-of-gans)**|
 |**2022-06-30**|**InsMix: Towards Realistic Generative Data Augmentation for Nuclei Instance Segmentation**|Yi Lin et.al.|[2206.15134v1](http://arxiv.org/abs/2206.15134v1)|null|
 |**2022-06-30**|**Radio Galaxy Classification with wGAN-Supported Augmentation**|Janis Kummer et.al.|[2206.15131v1](http://arxiv.org/abs/2206.15131v1)|null|
@@ -4666,7 +4666,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-06-30**|**CTrGAN: Cycle Transformers GAN for Gait Transfer**|Shahar Mahpod et.al.|[2206.15248v1](http://arxiv.org/abs/2206.15248v1)|null|
+|**2022-06-30**|**CTrGAN: Cycle Transformers GAN for Gait Transfer**|Shahar Mahpod et.al.|[2206.15248v2](http://arxiv.org/abs/2206.15248v2)|null|
 |**2022-06-28**|**Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark**|Chao Fan et.al.|[2206.13964v1](http://arxiv.org/abs/2206.13964v1)|**[link](https://github.com/shiqiyu/opengait)**|
 |**2022-06-28**|**A Comprehensive Survey on Deep Gait Recognition: Algorithms, Datasets and Challenges**|Chuanfu Shen et.al.|[2206.13732v1](http://arxiv.org/abs/2206.13732v1)|null|
 |**2022-06-20**|**Gait Cycle Reconstruction and Human Identification from Occluded Sequences**|Abhishek Paul et.al.|[2206.13395v1](http://arxiv.org/abs/2206.13395v1)|null|
