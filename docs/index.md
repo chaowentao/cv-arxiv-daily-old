@@ -211,6 +211,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-01**|**Ray-Space Motion Compensation for Lenslet Plenoptic Video Coding**|Thuc Nguyen Huu et.al.|[2207.00522v1](http://arxiv.org/abs/2207.00522v1)|null|
 |**2022-06-27**|**Comparative analysis of signal-to-noise ratio in correlation plenoptic imaging architectures**|Gianlorenzo Massaro et.al.|[2206.13412v1](http://arxiv.org/abs/2206.13412v1)|null|
 |**2022-06-25**|**Angular dependency of spatial frequency modulation in diffusion media**|Yun Chen et.al.|[2206.12580v1](http://arxiv.org/abs/2206.12580v1)|null|
 |**2022-06-21**|**An Integrated Representation & Compression Scheme Based on Convolutional Autoencoders with 4D DCT Perceptual Encoding for High Dynamic Range Light Fields**|Sally Khaidem et.al.|[2206.10131v1](http://arxiv.org/abs/2206.10131v1)|null|
@@ -332,6 +333,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-01**|**Polarized Color Image Denoising using Pocoformer**|Zhuoxiao Li et.al.|[2207.00215v1](http://arxiv.org/abs/2207.00215v1)|null|
+|**2022-07-01**|**Rethinking Query-Key Pairwise Interactions in Vision Transformers**|Cheng Li et.al.|[2207.00188v1](http://arxiv.org/abs/2207.00188v1)|null|
 |**2022-06-30**|**PVT-COV19D: Pyramid Vision Transformer for COVID-19 Diagnosis**|Lilang Zheng et.al.|[2206.15069v1](http://arxiv.org/abs/2206.15069v1)|null|
 |**2022-06-29**|**LViT: Language meets Vision Transformer in Medical Image Segmentation**|Zihan Li et.al.|[2206.14718v1](http://arxiv.org/abs/2206.14718v1)|**[link](https://github.com/huanglizi/lvit)**|
 |**2022-06-29**|**The Lighter The Better: Rethinking Transformers in Medical Image Segmentation Through Adaptive Pruning**|Xian Lin et.al.|[2206.14413v1](http://arxiv.org/abs/2206.14413v1)|**[link](https://github.com/xianlin7/apformer)**|
@@ -719,6 +722,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-01**|**Vision-based Conflict Detection within Crowds based on High-Resolution Human Pose Estimation for Smart and Safe Airport**|Karan Kheta et.al.|[2207.00477v1](http://arxiv.org/abs/2207.00477v1)|null|
+|**2022-07-01**|**Weakly-supervised High-fidelity Ultrasound Video Synthesis with Feature Decoupling**|Jiamin Liang et.al.|[2207.00474v1](http://arxiv.org/abs/2207.00474v1)|null|
 |**2022-06-27**|**A View Independent Classification Framework for Yoga Postures**|Mustafa Chasmai et.al.|[2206.13577v1](http://arxiv.org/abs/2206.13577v1)|null|
 |**2022-06-24**|**Motion Estimation for Large Displacements and Deformations**|Qiao Chen et.al.|[2206.12464v1](http://arxiv.org/abs/2206.12464v1)|null|
 |**2022-06-24**|**Deep embedded clustering algorithm for clustering PACS repositories**|Teo Manojlović et.al.|[2206.12417v1](http://arxiv.org/abs/2206.12417v1)|null|
@@ -839,6 +844,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-01**|**Hidden and detectable squeezing from micro-resonators**|Élie Gouzien et.al.|[2207.00360v1](http://arxiv.org/abs/2207.00360v1)|null|
+|**2022-06-30**|**A multimodal tourist trip planner integrating road and pedestrian networks**|Tommaso Adamo et.al.|[2207.00097v1](http://arxiv.org/abs/2207.00097v1)|null|
+|**2022-06-30**|**MultiViz: An Analysis Benchmark for Visualizing and Understanding Multimodal Models**|Paul Pu Liang et.al.|[2207.00056v1](http://arxiv.org/abs/2207.00056v1)|**[link](https://github.com/pliang279/multiviz)**|
 |**2022-06-30**|**Suppressing transverse mode instability through multimode excitation in a fiber amplifier**|Chun-Wei Chen et.al.|[2206.15438v1](http://arxiv.org/abs/2206.15438v1)|null|
 |**2022-06-27**|**Some Statistical Tools to Measure The Effectiveness of a (LEM) Model on Creative Thinking Among Intermediate Students in Mathematics**|Hiba Ali Kareem et.al.|[2206.15435v1](http://arxiv.org/abs/2206.15435v1)|null|
 |**2022-06-30**|**Sonification as a Reliable Alternative to Conventional Visual Surgical Navigation**|Sasan Matinfar et.al.|[2206.15291v1](http://arxiv.org/abs/2206.15291v1)|null|
@@ -1499,6 +1507,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-01**|**Unsupervised Cross-Domain Feature Extraction for Single Blood Cell Image Classification**|Raheleh Salehi et.al.|[2207.00501v1](http://arxiv.org/abs/2207.00501v1)|null|
+|**2022-07-01**|**Adapting the Mean Teacher for keypoint-based lung registration under geometric domain shifts**|Alexander Bigalke et.al.|[2207.00371v1](http://arxiv.org/abs/2207.00371v1)|**[link](https://github.com/multimodallearning/registration-da-mean-teacher)**|
+|**2022-07-01**|**Updating Only Encoders Prevents Catastrophic Forgetting of End-to-End ASR Models**|Yuki Takashima et.al.|[2207.00216v1](http://arxiv.org/abs/2207.00216v1)|null|
+|**2022-06-30**|**Rethinking Unsupervised Domain Adaptation for Semantic Segmentation**|Zhijie Wang et.al.|[2207.00067v1](http://arxiv.org/abs/2207.00067v1)|**[link](https://github.com/feipan664/IntraDA)**|
+|**2022-06-24**|**A Multi-stage Framework with Mean Subspace Computation and Recursive Feedback for Online Unsupervised Domain Adaptation**|Jihoon Moon et.al.|[2207.00003v1](http://arxiv.org/abs/2207.00003v1)|null|
 |**2022-06-30**|**Domain Adaptive Pretraining for Multilingual Acronym Extraction**|Usama Yaseen et.al.|[2206.15221v1](http://arxiv.org/abs/2206.15221v1)|null|
 |**2022-06-30**|**Hierarchical Mask Calibration for Unified Domain Adaptive Panoptic Segmentation**|Jingyi Zhang et.al.|[2206.15083v1](http://arxiv.org/abs/2206.15083v1)|null|
 |**2022-06-29**|**MaNi: Maximizing Mutual Information for Nuclei Cross-Domain Unsupervised Segmentation**|Yash Sharma et.al.|[2206.14437v1](http://arxiv.org/abs/2206.14437v1)|**[link](https://github.com/yashsharma/mani)**|
@@ -1949,6 +1962,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-01**|**Solving barrier options under stochastic volatility using deep learning**|Weilong Fu et.al.|[2207.00524v1](http://arxiv.org/abs/2207.00524v1)|null|
+|**2022-07-01**|**Unsupervised Cross-Domain Feature Extraction for Single Blood Cell Image Classification**|Raheleh Salehi et.al.|[2207.00501v1](http://arxiv.org/abs/2207.00501v1)|null|
+|**2022-07-01**|**Learning Job Titles Similarity from Noisy Skill Labels**|Rabih Zbib et.al.|[2207.00494v1](http://arxiv.org/abs/2207.00494v1)|null|
+|**2022-07-01**|**Unsupervised High-Resolution Portrait Gaze Correction and Animation**|Jichao Zhang et.al.|[2207.00256v1](http://arxiv.org/abs/2207.00256v1)|null|
+|**2022-07-01**|**Generating Counterfactual Hard Negative Samples for Graph Contrastive Learning**|Haoran Yang et.al.|[2207.00148v1](http://arxiv.org/abs/2207.00148v1)|null|
+|**2022-06-30**|**Optimizing Training Trajectories in Variational Autoencoders via Latent Bayesian Optimization Approach**|Arpan Biswas et.al.|[2207.00128v1](http://arxiv.org/abs/2207.00128v1)|null|
+|**2022-06-30**|**GaitForeMer: Self-Supervised Pre-Training of Transformers via Human Motion Forecasting for Few-Shot Gait Impairment Severity Estimation**|Mark Endo et.al.|[2207.00106v1](http://arxiv.org/abs/2207.00106v1)|**[link](https://github.com/markendo/gaitforemer)**|
+|**2022-06-30**|**Rethinking Unsupervised Domain Adaptation for Semantic Segmentation**|Zhijie Wang et.al.|[2207.00067v1](http://arxiv.org/abs/2207.00067v1)|**[link](https://github.com/feipan664/IntraDA)**|
+|**2022-06-30**|**Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN**|Kuan Li et.al.|[2207.00012v1](http://arxiv.org/abs/2207.00012v1)|null|
 |**2022-06-30**|**AnoShift: A Distribution Shift Benchmark for Unsupervised Anomaly Detection**|Marius Drăgoi et.al.|[2206.15476v1](http://arxiv.org/abs/2206.15476v1)|**[link](https://github.com/bit-ml/anoshift)**|
 |**2022-06-30**|**Asymmetry Disentanglement Network for Interpretable Acute Ischemic Stroke Infarct Segmentation in Non-Contrast CT Scans**|Haomiao Ni et.al.|[2206.15445v1](http://arxiv.org/abs/2206.15445v1)|**[link](https://github.com/nihaomiao/miccai22_adn)**|
 |**2022-06-30**|**Learning Underrepresented Classes from Decentralized Partially Labeled Medical Images**|Nanqing Dong et.al.|[2206.15353v1](http://arxiv.org/abs/2206.15353v1)|null|
@@ -1956,7 +1978,7 @@ layout: default
 |**2022-06-30**|**FL-Tuning: Layer Tuning for Feed-Forward Network in Transformer**|Jingping Liu et.al.|[2206.15312v1](http://arxiv.org/abs/2206.15312v1)|null|
 |**2022-06-30**|**Depth-CUPRL: Depth-Imaged Contrastive Unsupervised Prioritized Representations in Reinforcement Learning for Mapless Navigation of Unmanned Aerial Vehicles**|Junior Costa de Jesus et.al.|[2206.15211v2](http://arxiv.org/abs/2206.15211v2)|null|
 |**2022-06-30**|**An Evaluation of Three-Stage Voice Conversion Framework for Noisy and Reverberant Conditions**|Yeonjong Choi et.al.|[2206.15155v1](http://arxiv.org/abs/2206.15155v1)|null|
-|**2022-06-30**|**The maximum capability of a topological feature in link prediction**|Yijun Ran et.al.|[2206.15101v2](http://arxiv.org/abs/2206.15101v2)|null|
+|**2022-06-30**|**The maximum capability of a topological feature in link prediction**|Yijun Ran et.al.|[2206.15101v2](http://arxiv.org/abs/2206.15101v2)|**[link](https://github.com/YijunRan/Maximum-Capability-Link-Prediction)**|
 |**2022-06-30**|**Laplacian Autoencoders for Learning Stochastic Representations**|Marco Miani et.al.|[2206.15078v1](http://arxiv.org/abs/2206.15078v1)|**[link](https://github.com/frederikwarburg/laplaceae)**|
 |**2022-06-30**|**BigBIO: A Framework for Data-Centric Biomedical Natural Language Processing**|Jason Alan Fries et.al.|[2206.15076v1](http://arxiv.org/abs/2206.15076v1)|**[link](https://github.com/bigscience-workshop/biomedical)**|
 |**2022-06-30**|**ZeroC: A Neuro-Symbolic Model for Zero-shot Concept Recognition and Acquisition at Inference Time**|Tailin Wu et.al.|[2206.15049v1](http://arxiv.org/abs/2206.15049v1)|**[link](https://github.com/snap-stanford/zeroc)**|
@@ -4013,6 +4035,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-01**|**Simulating financial time series using attention**|Weilong Fu et.al.|[2207.00493v1](http://arxiv.org/abs/2207.00493v1)|null|
+|**2022-07-01**|**Weakly-supervised High-fidelity Ultrasound Video Synthesis with Feature Decoupling**|Jiamin Liang et.al.|[2207.00474v1](http://arxiv.org/abs/2207.00474v1)|null|
+|**2022-07-01**|**Exploring the solution space of linear inverse problems with GAN latent geometry**|Antonio Montanaro et.al.|[2207.00460v1](http://arxiv.org/abs/2207.00460v1)|null|
+|**2022-07-01**|**Effect of Homomorphic Encryption on the Performance of Training Federated Learning Generative Adversarial Networks**|Ignjat Pejic et.al.|[2207.00263v1](http://arxiv.org/abs/2207.00263v1)|null|
+|**2022-06-30**|**Semantic Image Synthesis via Diffusion Models**|Weilun Wang et.al.|[2207.00050v1](http://arxiv.org/abs/2207.00050v1)|null|
 |**2022-06-30**|**On-Device Training Under 256KB Memory**|Ji Lin et.al.|[2206.15472v1](http://arxiv.org/abs/2206.15472v1)|null|
 |**2022-06-30**|**CTrGAN: Cycle Transformers GAN for Gait Transfer**|Shahar Mahpod et.al.|[2206.15248v2](http://arxiv.org/abs/2206.15248v2)|null|
 |**2022-06-30**|**The (de)biasing effect of GAN-based augmentation methods on skin lesion images**|Agnieszka Mikołajczyk et.al.|[2206.15182v1](http://arxiv.org/abs/2206.15182v1)|**[link](https://github.com/agamiko/debiasing-effect-of-gans)**|
