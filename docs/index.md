@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.04
+## Updated on 2022.07.05
 
 ## SLAM
 
@@ -334,7 +334,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-07-01**|**Polarized Color Image Denoising using Pocoformer**|Zhuoxiao Li et.al.|[2207.00215v1](http://arxiv.org/abs/2207.00215v1)|null|
-|**2022-07-01**|**Rethinking Query-Key Pairwise Interactions in Vision Transformers**|Cheng Li et.al.|[2207.00188v1](http://arxiv.org/abs/2207.00188v1)|null|
+|**2022-07-01**|**Rethinking Query-Key Pairwise Interactions in Vision Transformers**|Cheng Li et.al.|[2207.00188v2](http://arxiv.org/abs/2207.00188v2)|null|
 |**2022-06-30**|**PVT-COV19D: Pyramid Vision Transformer for COVID-19 Diagnosis**|Lilang Zheng et.al.|[2206.15069v1](http://arxiv.org/abs/2206.15069v1)|null|
 |**2022-06-29**|**LViT: Language meets Vision Transformer in Medical Image Segmentation**|Zihan Li et.al.|[2206.14718v1](http://arxiv.org/abs/2206.14718v1)|**[link](https://github.com/huanglizi/lvit)**|
 |**2022-06-29**|**The Lighter The Better: Rethinking Transformers in Medical Image Segmentation Through Adaptive Pruning**|Xian Lin et.al.|[2206.14413v1](http://arxiv.org/abs/2206.14413v1)|**[link](https://github.com/xianlin7/apformer)**|
@@ -863,7 +863,7 @@ layout: default
 |**2022-06-27**|**Rankings from multimodal pairwise comparisons**|M. E. J. Newman et.al.|[2206.13580v1](http://arxiv.org/abs/2206.13580v1)|null|
 |**2022-06-27**|**A Topic-Attentive Transformer-based Model For Multimodal Depression Detection**|Yanrong Guo et.al.|[2206.13256v1](http://arxiv.org/abs/2206.13256v1)|null|
 |**2022-06-27**|**Endowing Language Models with Multimodal Knowledge Graph Representations**|Ningyuan Huang et.al.|[2206.13163v1](http://arxiv.org/abs/2206.13163v1)|**[link](https://github.com/iacercalixto/visualsem)**|
-|**2022-06-27**|**A Strategy Optimized Pix2pix Approach for SAR-to-Optical Image Translation Task**|Fujian Cheng et.al.|[2206.13042v2](http://arxiv.org/abs/2206.13042v2)|null|
+|**2022-06-27**|**A Strategy Optimized Pix2pix Approach for SAR-to-Optical Image Translation Task**|Fujian Cheng et.al.|[2206.13042v3](http://arxiv.org/abs/2206.13042v3)|null|
 |**2022-06-26**|**Incoherent Gaussian equivalence of $m-$mode Gaussian states**|Zhaofang Bai et.al.|[2206.12831v1](http://arxiv.org/abs/2206.12831v1)|null|
 |**2022-06-25**|**Defending Multimodal Fusion Models against Single-Source Adversaries**|Karren Yang et.al.|[2206.12714v1](http://arxiv.org/abs/2206.12714v1)|null|
 |**2022-06-25**|**Angular dependency of spatial frequency modulation in diffusion media**|Yun Chen et.al.|[2206.12580v1](http://arxiv.org/abs/2206.12580v1)|null|
@@ -1979,9 +1979,9 @@ layout: default
 |**2022-06-30**|**Depth-CUPRL: Depth-Imaged Contrastive Unsupervised Prioritized Representations in Reinforcement Learning for Mapless Navigation of Unmanned Aerial Vehicles**|Junior Costa de Jesus et.al.|[2206.15211v2](http://arxiv.org/abs/2206.15211v2)|null|
 |**2022-06-30**|**An Evaluation of Three-Stage Voice Conversion Framework for Noisy and Reverberant Conditions**|Yeonjong Choi et.al.|[2206.15155v1](http://arxiv.org/abs/2206.15155v1)|null|
 |**2022-06-30**|**The maximum capability of a topological feature in link prediction**|Yijun Ran et.al.|[2206.15101v2](http://arxiv.org/abs/2206.15101v2)|**[link](https://github.com/YijunRan/Maximum-Capability-Link-Prediction)**|
-|**2022-06-30**|**Laplacian Autoencoders for Learning Stochastic Representations**|Marco Miani et.al.|[2206.15078v1](http://arxiv.org/abs/2206.15078v1)|**[link](https://github.com/frederikwarburg/laplaceae)**|
+|**2022-06-30**|**Laplacian Autoencoders for Learning Stochastic Representations**|Marco Miani et.al.|[2206.15078v2](http://arxiv.org/abs/2206.15078v2)|**[link](https://github.com/frederikwarburg/laplaceae)**|
 |**2022-06-30**|**BigBIO: A Framework for Data-Centric Biomedical Natural Language Processing**|Jason Alan Fries et.al.|[2206.15076v1](http://arxiv.org/abs/2206.15076v1)|**[link](https://github.com/bigscience-workshop/biomedical)**|
-|**2022-06-30**|**ZeroC: A Neuro-Symbolic Model for Zero-shot Concept Recognition and Acquisition at Inference Time**|Tailin Wu et.al.|[2206.15049v1](http://arxiv.org/abs/2206.15049v1)|**[link](https://github.com/snap-stanford/zeroc)**|
+|**2022-06-30**|**ZeroC: A Neuro-Symbolic Model for Zero-shot Concept Recognition and Acquisition at Inference Time**|Tailin Wu et.al.|[2206.15049v2](http://arxiv.org/abs/2206.15049v2)|**[link](https://github.com/snap-stanford/zeroc)**|
 |**2022-06-30**|**Brain-like combination of feedforward and recurrent network components achieves prototype extraction and robust pattern recognition**|Naresh Balaji Ravichandran et.al.|[2206.15036v1](http://arxiv.org/abs/2206.15036v1)|null|
 |**2022-06-30**|**"Diversity and Uncertainty in Moderation" are the Key to Data Selection for Multilingual Few-shot Transfer**|Shanu Kumar et.al.|[2206.15010v1](http://arxiv.org/abs/2206.15010v1)|null|
 |**2022-06-30**|**Building Multilingual Machine Translation Systems That Serve Arbitrary X-Y Translations**|Akiko Eriguchi et.al.|[2206.14982v1](http://arxiv.org/abs/2206.14982v1)|null|
@@ -3944,7 +3944,7 @@ layout: default
 |**2022-06-13**|**SNeS: Learning Probably Symmetric Neural Surfaces from Incomplete Data**|Eldar Insafutdinov et.al.|[2206.06340v1](http://arxiv.org/abs/2206.06340v1)|null|
 |**2022-06-13**|**AR-NeRF: Unsupervised Learning of Depth and Defocus Effects from Natural Images with Aperture Rendering Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2206.06100v1](http://arxiv.org/abs/2206.06100v1)|null|
 |**2022-06-10**|**Generalizable Neural Radiance Fields for Novel View Synthesis with Transformer**|Dan Wang et.al.|[2206.05375v1](http://arxiv.org/abs/2206.05375v1)|null|
-|**2022-06-10**|**Improved Direct Voxel Grid Optimization for Radiance Fields Reconstruction**|Cheng Sun et.al.|[2206.05085v3](http://arxiv.org/abs/2206.05085v3)|**[link](https://github.com/sunset1995/torch_efficient_distloss)**|
+|**2022-06-10**|**Improved Direct Voxel Grid Optimization for Radiance Fields Reconstruction**|Cheng Sun et.al.|[2206.05085v4](http://arxiv.org/abs/2206.05085v4)|**[link](https://github.com/sunset1995/torch_efficient_distloss)**|
 |**2022-06-10**|**NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors**|Hao-Kang Liu et.al.|[2206.04901v1](http://arxiv.org/abs/2206.04901v1)|null|
 |**2022-06-09**|**Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields**|Mingtong Zhang et.al.|[2206.04669v1](http://arxiv.org/abs/2206.04669v1)|null|
 |**2022-06-07**|**ObPose: Leveraging Canonical Pose for Object-Centric Scene Inference in 3D**|Yizhe Wu et.al.|[2206.03591v1](http://arxiv.org/abs/2206.03591v1)|null|
