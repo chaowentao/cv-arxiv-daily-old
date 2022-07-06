@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.05
+## Updated on 2022.07.06
 
 ## SLAM
 
@@ -1981,12 +1981,12 @@ layout: default
 |**2022-07-04**|**Embedding contrastive unsupervised features to cluster in- and out-of-distribution noise in corrupted image datasets**|Paul Albert et.al.|[2207.01573v1](http://arxiv.org/abs/2207.01573v1)|null|
 |**2022-07-04**|**General Policy Evaluation and Improvement by Learning to Identify Few But Crucial States**|Francesco Faccio et.al.|[2207.01566v1](http://arxiv.org/abs/2207.01566v1)|null|
 |**2022-07-04**|**Discourse-Aware Graph Networks for Textual Logical Reasoning**|Yinya Huang et.al.|[2207.01450v1](http://arxiv.org/abs/2207.01450v1)|null|
-|**2022-07-04**|**Positive-Negative Equal Contrastive Loss for Semantic Segmentation**|Jing Wang et.al.|[2207.01417v1](http://arxiv.org/abs/2207.01417v1)|null|
+|**2022-07-04**|**Positive-Negative Equal Contrastive Loss for Semantic Segmentation**|Jing Wang et.al.|[2207.01417v2](http://arxiv.org/abs/2207.01417v2)|null|
 |**2022-07-04**|**Memory Efficient Patch-based Training for INR-based GANs**|Namwoo Lee et.al.|[2207.01395v1](http://arxiv.org/abs/2207.01395v1)|null|
 |**2022-07-04**|**Task Discrepancy Maximization for Fine-grained Few-Shot Classification**|SuBeen Lee et.al.|[2207.01376v1](http://arxiv.org/abs/2207.01376v1)|**[link](https://github.com/leesb7426/cvpr2022-task-discrepancy-maximization-for-fine-grained-few-shot-classification)**|
 |**2022-07-04**|**Improving Nighttime Driving-Scene Segmentation via Dual Image-adaptive Learnable Filters**|Wenyu Liu et.al.|[2207.01331v1](http://arxiv.org/abs/2207.01331v1)|null|
 |**2022-07-04**|**DUET: Cross-modal Semantic Grounding for Contrastive Zero-shot Learning**|Zhuo Chen et.al.|[2207.01328v1](http://arxiv.org/abs/2207.01328v1)|null|
-|**2022-07-04**|**Learning Optimal Transport Between two Empirical Distributions with Normalizing Flows**|Florentin Coeurdouxn et.al.|[2207.01246v1](http://arxiv.org/abs/2207.01246v1)|**[link](https://github.com/florentincdx/swot-flow)**|
+|**2022-07-04**|**Learning Optimal Transport Between two Empirical Distributions with Normalizing Flows**|Florentin Coeurdoux et.al.|[2207.01246v2](http://arxiv.org/abs/2207.01246v2)|**[link](https://github.com/florentincdx/swot-flow)**|
 |**2022-07-04**|**Domain Adaptive Nuclei Instance Segmentation and Classification via Category-aware Feature Alignment and Pseudo-labelling**|Canran Li et.al.|[2207.01233v1](http://arxiv.org/abs/2207.01233v1)|null|
 |**2022-07-04**|**CAM/CAD Point Cloud Part Segmentation via Few-Shot Learning**|Jiahui Wang et.al.|[2207.01218v1](http://arxiv.org/abs/2207.01218v1)|null|
 |**2022-07-03**|**Anomaly Detection with Adversarially Learned Perturbations of Latent Space**|Vahid Reza Khazaie et.al.|[2207.01106v1](http://arxiv.org/abs/2207.01106v1)|null|
@@ -3967,7 +3967,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-07-04**|**LaTeRF: Label and Text Driven Object Radiance Fields**|Ashkan Mirzaei et.al.|[2207.01583v1](http://arxiv.org/abs/2207.01583v1)|null|
+|**2022-07-04**|**LaTeRF: Label and Text Driven Object Radiance Fields**|Ashkan Mirzaei et.al.|[2207.01583v2](http://arxiv.org/abs/2207.01583v2)|null|
 |**2022-07-04**|**Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations**|Tianlong Chen et.al.|[2207.01164v1](http://arxiv.org/abs/2207.01164v1)|**[link](https://github.com/vita-group/aug-nerf)**|
 |**2022-06-29**|**NeRF, meet differential geometry!**|Thibaud Ehret et.al.|[2206.14938v1](http://arxiv.org/abs/2206.14938v1)|null|
 |**2022-06-24**|**Ev-NeRF: Event Based Neural Radiance Field**|Inwoo Hwang et.al.|[2206.12455v1](http://arxiv.org/abs/2206.12455v1)|null|
@@ -4080,7 +4080,7 @@ layout: default
 |**2022-07-04**|**Probabilistic forecasting for geosteering in fluvial successions using a generative adversarial network**|Sergey Alyaev et.al.|[2207.01374v1](http://arxiv.org/abs/2207.01374v1)|null|
 |**2022-07-04**|**Identifying Rhythmic Patterns for Face Forgery Detection and Categorization**|Jiahao Liang et.al.|[2207.01199v1](http://arxiv.org/abs/2207.01199v1)|null|
 |**2022-07-03**|**Learning Noise with Generative Adversarial Networks: Explorations with Classical Random Process Models**|Adam Wunderlich et.al.|[2207.01110v1](http://arxiv.org/abs/2207.01110v1)|**[link](https://github.com/usnistgov/noisegan)**|
-|**2022-07-03**|**ARAUS: A Large-Scale Dataset and Baseline Models of Affective Responses to Augmented Urban Soundscapes**|Kenneth Ooi et.al.|[2207.01078v1](http://arxiv.org/abs/2207.01078v1)|**[link](https://github.com/ntudsp/araus-dataset-baseline-models)**|
+|**2022-07-03**|**ARAUS: A Large-Scale Dataset and Baseline Models of Affective Responses to Augmented Urban Soundscapes**|Kenneth Ooi et.al.|[2207.01078v2](http://arxiv.org/abs/2207.01078v2)|**[link](https://github.com/ntudsp/araus-dataset-baseline-models)**|
 |**2022-07-03**|**Facial Image Reconstruction from Functional Magnetic Resonance Imaging via GAN Inversion with Improved Attribute Consistency**|Pei-Chun Chang et.al.|[2207.01011v1](http://arxiv.org/abs/2207.01011v1)|null|
 |**2022-07-03**|**Cycle-Interactive Generative Adversarial Network for Robust Unsupervised Low-Light Enhancement**|Zhangkai Ni et.al.|[2207.00965v1](http://arxiv.org/abs/2207.00965v1)|null|
 |**2022-07-03**|**On Convergence of Gradient Descent Ascent: A Tight Local Analysis**|Haochuan Li et.al.|[2207.00957v1](http://arxiv.org/abs/2207.00957v1)|null|
