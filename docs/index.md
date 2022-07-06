@@ -334,6 +334,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-05**|**Improving Semantic Segmentation in Transformers using Hierarchical Inter-Level Attention**|Gary Leung et.al.|[2207.02126v1](http://arxiv.org/abs/2207.02126v1)|null|
+|**2022-07-05**|**Transformer based Models for Unsupervised Anomaly Segmentation in Brain MR Images**|Ahmed Ghorbel et.al.|[2207.02059v1](http://arxiv.org/abs/2207.02059v1)|**[link](https://github.com/ahmedgh970/Transformers_Unsupervised_Anomaly_Segmentation)**|
+|**2022-07-05**|**CNN-based Local Vision Transformer for COVID-19 Diagnosis**|Hongyan Xu et.al.|[2207.02027v1](http://arxiv.org/abs/2207.02027v1)|null|
 |**2022-07-04**|**Dynamic Spatial Sparsification for Efficient Vision Transformers and Convolutional Neural Networks**|Yongming Rao et.al.|[2207.01580v1](http://arxiv.org/abs/2207.01580v1)|**[link](https://github.com/raoyongming/DynamicViT)**|
 |**2022-07-04**|**I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference**|Zhikai Li et.al.|[2207.01405v1](http://arxiv.org/abs/2207.01405v1)|null|
 |**2022-07-03**|**You Only Need One Detector: Unified Object Detector for Different Modalities based on Vision Transformers**|Xiaoke Shen et.al.|[2207.01071v1](http://arxiv.org/abs/2207.01071v1)|**[link](https://github.com/liketheflower/yonod)**|
@@ -848,6 +851,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-05**|**A Comprehensive Review of Visual-Textual Sentiment Analysis from Social Media Networks**|Israa Khalaf Salman Al-Tameemi et.al.|[2207.02160v1](http://arxiv.org/abs/2207.02160v1)|null|
+|**2022-07-05**|**Multi-modal Robustness Analysis Against Language and Visual Perturbations**|Madeline C. Schiappa et.al.|[2207.02159v1](http://arxiv.org/abs/2207.02159v1)|**[link](https://github.com/Maddy12/MultiModalVideoRobustness/tree/master/code)**|
+|**2022-07-05**|**A survey of multimodal deep generative models**|Masahiro Suzuki et.al.|[2207.02127v1](http://arxiv.org/abs/2207.02127v1)|null|
+|**2022-07-05**|**rSHG: Re-scan Second Harmonic Generation Microscopy**|Stefan G. Stanciu et.al.|[2207.02002v1](http://arxiv.org/abs/2207.02002v1)|null|
+|**2022-07-05**|**Open-Vocabulary Multi-Label Classification via Multi-modal Knowledge Transfer**|Sunan He et.al.|[2207.01887v1](http://arxiv.org/abs/2207.01887v1)|**[link](https://github.com/seanhe97/mkt)**|
+|**2022-07-05**|**Multimodal Frame-Scoring Transformer for Video Summarization**|Jeiyoon Park et.al.|[2207.01814v1](http://arxiv.org/abs/2207.01814v1)|null|
 |**2022-07-04**|**Multimodal 4DVarNets for the reconstruction of sea surface dynamics from SST-SSH synergies**|Ronan Fablet et.al.|[2207.01372v1](http://arxiv.org/abs/2207.01372v1)|null|
 |**2022-07-04**|**OS-MSL: One Stage Multimodal Sequential Link Framework for Scene Segmentation and Classification**|Ye Liu et.al.|[2207.01241v1](http://arxiv.org/abs/2207.01241v1)|null|
 |**2022-07-04**|**R^2VOS: Robust Referring Video Object Segmentation via Relational Multimodal Cycle Consistency**|Xiang Li et.al.|[2207.01203v1](http://arxiv.org/abs/2207.01203v1)|null|
@@ -1521,6 +1530,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-05**|**Universal Domain Adaptive Object Detector**|Wenxu Shi et.al.|[2207.01756v1](http://arxiv.org/abs/2207.01756v1)|null|
 |**2022-07-04**|**Domain Adaptive Nuclei Instance Segmentation and Classification via Category-aware Feature Alignment and Pseudo-labelling**|Canran Li et.al.|[2207.01233v1](http://arxiv.org/abs/2207.01233v1)|null|
 |**2022-07-02**|**Domain-Adaptive 3D Medical Image Synthesis: An Efficient Unsupervised Approach**|Qingqiao Hu et.al.|[2207.00844v1](http://arxiv.org/abs/2207.00844v1)|**[link](https://github.com/winstonhutiger/2d_vae_uda_for_3d_sythesis)**|
 |**2022-07-01**|**Unsupervised Cross-Domain Feature Extraction for Single Blood Cell Image Classification**|Raheleh Salehi et.al.|[2207.00501v1](http://arxiv.org/abs/2207.00501v1)|null|
@@ -1978,6 +1988,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-05**|**Segmenting Moving Objects via an Object-Centric Layered Representation**|Junyu Xie et.al.|[2207.02206v1](http://arxiv.org/abs/2207.02206v1)|null|
+|**2022-07-05**|**Clustering Superconductors Using Unsupervised Machine Learning**|B. Roter et.al.|[2207.02075v1](http://arxiv.org/abs/2207.02075v1)|null|
+|**2022-07-05**|**Transformer based Models for Unsupervised Anomaly Segmentation in Brain MR Images**|Ahmed Ghorbel et.al.|[2207.02059v1](http://arxiv.org/abs/2207.02059v1)|**[link](https://github.com/ahmedgh970/Transformers_Unsupervised_Anomaly_Segmentation)**|
+|**2022-07-05**|**Unsupervised Crowdsourcing with Accuracy and Cost Guarantees**|Yashvardhan Didwania et.al.|[2207.01988v1](http://arxiv.org/abs/2207.01988v1)|null|
+|**2022-07-05**|**Open-Vocabulary Multi-Label Classification via Multi-modal Knowledge Transfer**|Sunan He et.al.|[2207.01887v1](http://arxiv.org/abs/2207.01887v1)|**[link](https://github.com/seanhe97/mkt)**|
+|**2022-07-05**|**Randomized-to-Canonical Model Predictive Control for Real-world Visual Robotic Manipulation**|Tomoya Yamanokuchi et.al.|[2207.01840v1](http://arxiv.org/abs/2207.01840v1)|null|
+|**2022-07-05**|**Glow-WaveGAN 2: High-quality Zero-shot Text-to-speech Synthesis and Any-to-any Voice Conversion**|Yi Lei et.al.|[2207.01832v1](http://arxiv.org/abs/2207.01832v1)|null|
+|**2022-07-05**|**GSMFlow: Generation Shifts Mitigating Flow for Generalized Zero-Shot Learning**|Zhi Chen et.al.|[2207.01798v1](http://arxiv.org/abs/2207.01798v1)|null|
+|**2022-07-05**|**CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning**|Hung Le et.al.|[2207.01780v1](http://arxiv.org/abs/2207.01780v1)|**[link](https://github.com/salesforce/coderl)**|
+|**2022-07-04**|**Adaptive Fine-Grained Sketch-Based Image Retrieval**|Ayan Kumar Bhunia et.al.|[2207.01723v1](http://arxiv.org/abs/2207.01723v1)|null|
+|**2022-07-04**|**Crime scene classification from skeletal trajectory analysis in surveillance settings**|Alina-Daniela Matei et.al.|[2207.01687v1](http://arxiv.org/abs/2207.01687v1)|null|
 |**2022-07-04**|**Embedding contrastive unsupervised features to cluster in- and out-of-distribution noise in corrupted image datasets**|Paul Albert et.al.|[2207.01573v1](http://arxiv.org/abs/2207.01573v1)|null|
 |**2022-07-04**|**General Policy Evaluation and Improvement by Learning to Identify Few But Crucial States**|Francesco Faccio et.al.|[2207.01566v1](http://arxiv.org/abs/2207.01566v1)|null|
 |**2022-07-04**|**Discourse-Aware Graph Networks for Textual Logical Reasoning**|Yinya Huang et.al.|[2207.01450v1](http://arxiv.org/abs/2207.01450v1)|null|
@@ -4073,6 +4094,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-05**|**CEN : Cooperatively Evolving Networks**|Sobhan Babu et.al.|[2207.02192v1](http://arxiv.org/abs/2207.02192v1)|null|
+|**2022-07-05**|**RepMix: Representation Mixing for Robust Attribution of Synthesized Images**|Tu Bui et.al.|[2207.02063v1](http://arxiv.org/abs/2207.02063v1)|**[link](https://github.com/tubui/image_attribution)**|
+|**2022-07-05**|**A Safe Semi-supervised Graph Convolution Network**|Zhi Yang et.al.|[2207.01960v1](http://arxiv.org/abs/2207.01960v1)|null|
+|**2022-07-05**|**Spatial-Temporal Frequency Forgery Clue for Video Forgery Detection in VIS and NIR Scenario**|Yukai Wang et.al.|[2207.01906v1](http://arxiv.org/abs/2207.01906v1)|null|
+|**2022-07-05**|**Ultrathin AlScN for low-voltage driven ferroelectric-based devices**|Georg Schönweger et.al.|[2207.01858v1](http://arxiv.org/abs/2207.01858v1)|null|
+|**2022-07-05**|**PReGAN: Answer Oriented Passage Ranking with Weakly Supervised GAN**|Pan Du et.al.|[2207.01762v1](http://arxiv.org/abs/2207.01762v1)|null|
+|**2022-07-04**|**Federated Split GANs**|Pranvera Kortoçi et.al.|[2207.01750v1](http://arxiv.org/abs/2207.01750v1)|null|
+|**2022-07-04**|**Stochastic Restoration of Heavily Compressed Musical Audio using Generative Adversarial Networks**|Stefan Lattner et.al.|[2207.01667v1](http://arxiv.org/abs/2207.01667v1)|null|
 |**2022-07-04**|**Selectively increasing the diversity of GAN-generated samples**|Jan Dubiński et.al.|[2207.01561v1](http://arxiv.org/abs/2207.01561v1)|null|
 |**2022-07-04**|**Disentangling Random and Cyclic Effects in Time-Lapse Sequences**|Erik Härkönen et.al.|[2207.01413v1](http://arxiv.org/abs/2207.01413v1)|**[link](https://github.com/harskish/tlgan)**|
 |**2022-07-04**|**Memory Efficient Patch-based Training for INR-based GANs**|Namwoo Lee et.al.|[2207.01395v1](http://arxiv.org/abs/2207.01395v1)|null|
