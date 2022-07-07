@@ -156,6 +156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-06**|**Towards Counterfactual Image Manipulation via CLIP**|Yingchen Yu et.al.|[2207.02812v1](http://arxiv.org/abs/2207.02812v1)|**[link](https://github.com/yingchen001/cf-clip)**|
 |**2022-07-02**|**Noise and Edge Based Dual Branch Image Manipulation Detection**|Zhongyuan Zhang et.al.|[2207.00724v1](http://arxiv.org/abs/2207.00724v1)|**[link](https://github.com/kakashiz/nedb-net)**|
 |**2022-06-28**|**Rethinking Adversarial Examples for Location Privacy Protection**|Trung-Nghia Le et.al.|[2206.14020v1](http://arxiv.org/abs/2206.14020v1)|null|
 |**2022-06-25**|**Angular dependency of spatial frequency modulation in diffusion media**|Yun Chen et.al.|[2206.12580v1](http://arxiv.org/abs/2206.12580v1)|null|
@@ -334,6 +335,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-05**|**Generalization to translation shifts: a study in architectures and augmentations**|Suriya Gunasekar et.al.|[2207.02349v1](http://arxiv.org/abs/2207.02349v1)|null|
+|**2022-07-05**|**TractoFormer: A Novel Fiber-level Whole Brain Tractography Analysis Framework Using Spectral Embedding and Vision Transformers**|Fan Zhang et.al.|[2207.02327v1](http://arxiv.org/abs/2207.02327v1)|null|
 |**2022-07-05**|**Improving Semantic Segmentation in Transformers using Hierarchical Inter-Level Attention**|Gary Leung et.al.|[2207.02126v1](http://arxiv.org/abs/2207.02126v1)|null|
 |**2022-07-05**|**Transformer based Models for Unsupervised Anomaly Segmentation in Brain MR Images**|Ahmed Ghorbel et.al.|[2207.02059v1](http://arxiv.org/abs/2207.02059v1)|**[link](https://github.com/ahmedgh970/Transformers_Unsupervised_Anomaly_Segmentation)**|
 |**2022-07-05**|**CNN-based Local Vision Transformer for COVID-19 Diagnosis**|Hongyan Xu et.al.|[2207.02027v1](http://arxiv.org/abs/2207.02027v1)|null|
@@ -729,6 +732,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-06**|**Semi-Perspective Decoupled Heatmaps for 3D Robot Pose Estimation from Depth Maps**|Alessandro Simoni et.al.|[2207.02519v1](http://arxiv.org/abs/2207.02519v1)|null|
+|**2022-07-06**|**Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation**|Zhehan Kan et.al.|[2207.02425v1](http://arxiv.org/abs/2207.02425v1)|null|
 |**2022-07-01**|**Vision-based Conflict Detection within Crowds based on High-Resolution Human Pose Estimation for Smart and Safe Airport**|Karan Kheta et.al.|[2207.00477v1](http://arxiv.org/abs/2207.00477v1)|null|
 |**2022-07-01**|**Weakly-supervised High-fidelity Ultrasound Video Synthesis with Feature Decoupling**|Jiamin Liang et.al.|[2207.00474v1](http://arxiv.org/abs/2207.00474v1)|null|
 |**2022-06-27**|**A View Independent Classification Framework for Yoga Postures**|Mustafa Chasmai et.al.|[2206.13577v1](http://arxiv.org/abs/2206.13577v1)|null|
@@ -851,6 +856,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-06**|**Probabilistic Modeling of LCF Failure Times Using an Epidemiological Crack Percolation Model**|M. Harder et.al.|[2207.02731v1](http://arxiv.org/abs/2207.02731v1)|null|
+|**2022-07-06**|**Adversarial Robustness of Visual Dialog**|Lu Yu et.al.|[2207.02639v1](http://arxiv.org/abs/2207.02639v1)|null|
+|**2022-07-06**|**Multimodal Hydrostatic Actuators for Wearable Robots: A Preliminary Assessment of Mass-Saving and Energy-Efficiency Opportunities**|Jeff Denis et.al.|[2207.02619v1](http://arxiv.org/abs/2207.02619v1)|null|
 |**2022-07-05**|**A Comprehensive Review of Visual-Textual Sentiment Analysis from Social Media Networks**|Israa Khalaf Salman Al-Tameemi et.al.|[2207.02160v1](http://arxiv.org/abs/2207.02160v1)|null|
 |**2022-07-05**|**Multi-modal Robustness Analysis Against Language and Visual Perturbations**|Madeline C. Schiappa et.al.|[2207.02159v2](http://arxiv.org/abs/2207.02159v2)|**[link](https://github.com/Maddy12/MultiModalVideoRobustness/tree/master/code)**|
 |**2022-07-05**|**A survey of multimodal deep generative models**|Masahiro Suzuki et.al.|[2207.02127v1](http://arxiv.org/abs/2207.02127v1)|null|
@@ -1530,6 +1538,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-06**|**Unsupervised Domain Adaptation through Shape Modeling for Medical Image Segmentation**|Yuan Yao et.al.|[2207.02529v1](http://arxiv.org/abs/2207.02529v1)|**[link](https://github.com/yyNoBug/VAE_segmentation)**|
+|**2022-07-06**|**Semi-Perspective Decoupled Heatmaps for 3D Robot Pose Estimation from Depth Maps**|Alessandro Simoni et.al.|[2207.02519v1](http://arxiv.org/abs/2207.02519v1)|null|
+|**2022-07-06**|**Domain Adaptive Video Segmentation via Temporal Pseudo Supervision**|Yun Xing et.al.|[2207.02372v1](http://arxiv.org/abs/2207.02372v1)|**[link](https://github.com/xing0047/tps)**|
+|**2022-07-05**|**Cooperative Distribution Alignment via JSD Upper Bound**|Wonwoong Cho et.al.|[2207.02286v1](http://arxiv.org/abs/2207.02286v1)|null|
 |**2022-07-05**|**Universal Domain Adaptive Object Detector**|Wenxu Shi et.al.|[2207.01756v1](http://arxiv.org/abs/2207.01756v1)|null|
 |**2022-07-04**|**Domain Adaptive Nuclei Instance Segmentation and Classification via Category-aware Feature Alignment and Pseudo-labelling**|Canran Li et.al.|[2207.01233v1](http://arxiv.org/abs/2207.01233v1)|null|
 |**2022-07-02**|**Domain-Adaptive 3D Medical Image Synthesis: An Efficient Unsupervised Approach**|Qingqiao Hu et.al.|[2207.00844v1](http://arxiv.org/abs/2207.00844v1)|**[link](https://github.com/winstonhutiger/2d_vae_uda_for_3d_sythesis)**|
@@ -1988,6 +2000,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-06**|**Strong Heuristics for Named Entity Linking**|Marko Čuljak et.al.|[2207.02824v1](http://arxiv.org/abs/2207.02824v1)|**[link](https://github.com/epfl-dlab/nelight)**|
+|**2022-07-06**|**An Unsupervised Learning Approach for Quasar Continuum Prediction**|Zechang Sun et.al.|[2207.02788v1](http://arxiv.org/abs/2207.02788v1)|null|
+|**2022-07-06**|**Unsupervised Learning for Stellar Spectra with Deep Normalizing Flows**|Ioana Ciuca et.al.|[2207.02785v1](http://arxiv.org/abs/2207.02785v1)|null|
+|**2022-07-06**|**An Unsupervised Spiking Neural Network Inspired By Biologically Plausible Learning Rules and Connections**|Yiting Dong et.al.|[2207.02727v1](http://arxiv.org/abs/2207.02727v1)|null|
+|**2022-07-06**|**voxel2vec: A Natural Language Processing Approach to Learning Distributed Representations for Scientific Data**|Xiangyang He et.al.|[2207.02565v1](http://arxiv.org/abs/2207.02565v1)|null|
+|**2022-07-06**|**Unsupervised Domain Adaptation through Shape Modeling for Medical Image Segmentation**|Yuan Yao et.al.|[2207.02529v1](http://arxiv.org/abs/2207.02529v1)|**[link](https://github.com/yyNoBug/VAE_segmentation)**|
+|**2022-07-06**|**DCT-Net: Domain-Calibrated Translation for Portrait Stylization**|Yifang Men et.al.|[2207.02426v1](http://arxiv.org/abs/2207.02426v1)|**[link](https://github.com/menyifang/dct-net)**|
+|**2022-07-06**|**Patch-wise Deep Metric Learning for Unsupervised Low-Dose CT Denoising**|Chanyong Jung et.al.|[2207.02377v1](http://arxiv.org/abs/2207.02377v1)|**[link](https://github.com/jcy132/DML_CT)**|
+|**2022-07-06**|**Unsupervised Learning for Human Sensing Using Radio Signals**|Tianhong Li et.al.|[2207.02370v1](http://arxiv.org/abs/2207.02370v1)|null|
+|**2022-07-05**|**Zero-shot Cross-Linguistic Learning of Event Semantics**|Malihe Alikhani et.al.|[2207.02356v1](http://arxiv.org/abs/2207.02356v1)|null|
+|**2022-07-05**|**Unified Embeddings of Structural and Functional Connectome via a Function-Constrained Structural Graph Variational Auto-Encoder**|Carlo Amodeo et.al.|[2207.02328v1](http://arxiv.org/abs/2207.02328v1)|null|
+|**2022-07-05**|**Cooperative Distribution Alignment via JSD Upper Bound**|Wonwoong Cho et.al.|[2207.02286v1](http://arxiv.org/abs/2207.02286v1)|null|
+|**2022-07-05**|**Leveraging Trajectory Prediction for Pedestrian Video Anomaly Detection**|Asiegbu Miracle Kanu-Asiegbu et.al.|[2207.02279v1](http://arxiv.org/abs/2207.02279v1)|**[link](https://github.com/akanuasiegbu/leveraging-trajectory-prediction-for-pedestrian-video-anomaly-detection)**|
+|**2022-07-05**|**Improving the Faithfulness of Abstractive Summarization via Entity Coverage Control**|Haopeng Zhang et.al.|[2207.02263v1](http://arxiv.org/abs/2207.02263v1)|null|
 |**2022-07-05**|**Segmenting Moving Objects via an Object-Centric Layered Representation**|Junyu Xie et.al.|[2207.02206v1](http://arxiv.org/abs/2207.02206v1)|null|
 |**2022-07-05**|**Clustering Superconductors Using Unsupervised Machine Learning**|B. Roter et.al.|[2207.02075v1](http://arxiv.org/abs/2207.02075v1)|null|
 |**2022-07-05**|**Transformer based Models for Unsupervised Anomaly Segmentation in Brain MR Images**|Ahmed Ghorbel et.al.|[2207.02059v1](http://arxiv.org/abs/2207.02059v1)|**[link](https://github.com/ahmedgh970/Transformers_Unsupervised_Anomaly_Segmentation)**|
@@ -3988,6 +4014,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-06**|**VMRF: View Matching Neural Radiance Fields**|Jiahui Zhang et.al.|[2207.02621v1](http://arxiv.org/abs/2207.02621v1)|null|
+|**2022-07-05**|**SNeRF: Stylized Neural Implicit Representations for 3D Scenes**|Thu Nguyen-Phuoc et.al.|[2207.02363v1](http://arxiv.org/abs/2207.02363v1)|null|
 |**2022-07-04**|**LaTeRF: Label and Text Driven Object Radiance Fields**|Ashkan Mirzaei et.al.|[2207.01583v2](http://arxiv.org/abs/2207.01583v2)|null|
 |**2022-07-04**|**Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations**|Tianlong Chen et.al.|[2207.01164v1](http://arxiv.org/abs/2207.01164v1)|**[link](https://github.com/vita-group/aug-nerf)**|
 |**2022-06-29**|**NeRF, meet differential geometry!**|Thibaud Ehret et.al.|[2206.14938v1](http://arxiv.org/abs/2206.14938v1)|null|
@@ -4094,6 +4122,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-06**|**Increasing the mobility and power-electronics figure of merit of AlGaN with atomically thin AlN/GaN digital-alloy superlattices**|Nick Pant et.al.|[2207.02809v1](http://arxiv.org/abs/2207.02809v1)|null|
+|**2022-07-06**|**Local Relighting of Real Scenes**|Audrey Cui et.al.|[2207.02774v1](http://arxiv.org/abs/2207.02774v1)|**[link](https://github.com/audreycui/relighting)**|
+|**2022-07-06**|**MetroGAN: Simulating Urban Morphology with Generative Adversarial Network**|Weiyu Zhang et.al.|[2207.02590v1](http://arxiv.org/abs/2207.02590v1)|null|
+|**2022-07-05**|**Weakly Supervised Grounding for VQA in Vision-Language Transformers**|Aisha Urooj Khan et.al.|[2207.02334v1](http://arxiv.org/abs/2207.02334v1)|**[link](https://github.com/aurooj/wsg-vqa-vltransformers)**|
 |**2022-07-05**|**CEN : Cooperatively Evolving Networks**|Sobhan Babu et.al.|[2207.02192v1](http://arxiv.org/abs/2207.02192v1)|null|
 |**2022-07-05**|**RepMix: Representation Mixing for Robust Attribution of Synthesized Images**|Tu Bui et.al.|[2207.02063v1](http://arxiv.org/abs/2207.02063v1)|**[link](https://github.com/tubui/image_attribution)**|
 |**2022-07-05**|**A Safe Semi-supervised Graph Convolution Network**|Zhi Yang et.al.|[2207.01960v1](http://arxiv.org/abs/2207.01960v1)|null|
