@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.07
+## Updated on 2022.07.08
 
 ## SLAM
 
@@ -156,7 +156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-07-06**|**Towards Counterfactual Image Manipulation via CLIP**|Yingchen Yu et.al.|[2207.02812v1](http://arxiv.org/abs/2207.02812v1)|**[link](https://github.com/yingchen001/cf-clip)**|
+|**2022-07-06**|**Towards Counterfactual Image Manipulation via CLIP**|Yingchen Yu et.al.|[2207.02812v2](http://arxiv.org/abs/2207.02812v2)|**[link](https://github.com/yingchen001/cf-clip)**|
 |**2022-07-02**|**Noise and Edge Based Dual Branch Image Manipulation Detection**|Zhongyuan Zhang et.al.|[2207.00724v1](http://arxiv.org/abs/2207.00724v1)|**[link](https://github.com/kakashiz/nedb-net)**|
 |**2022-06-28**|**Rethinking Adversarial Examples for Location Privacy Protection**|Trung-Nghia Le et.al.|[2206.14020v1](http://arxiv.org/abs/2206.14020v1)|null|
 |**2022-06-25**|**Angular dependency of spatial frequency modulation in diffusion media**|Yun Chen et.al.|[2206.12580v1](http://arxiv.org/abs/2206.12580v1)|null|
@@ -862,7 +862,7 @@ layout: default
 |**2022-07-05**|**A Comprehensive Review of Visual-Textual Sentiment Analysis from Social Media Networks**|Israa Khalaf Salman Al-Tameemi et.al.|[2207.02160v1](http://arxiv.org/abs/2207.02160v1)|null|
 |**2022-07-05**|**Multi-modal Robustness Analysis Against Language and Visual Perturbations**|Madeline C. Schiappa et.al.|[2207.02159v2](http://arxiv.org/abs/2207.02159v2)|**[link](https://github.com/Maddy12/MultiModalVideoRobustness/tree/master/code)**|
 |**2022-07-05**|**A survey of multimodal deep generative models**|Masahiro Suzuki et.al.|[2207.02127v1](http://arxiv.org/abs/2207.02127v1)|null|
-|**2022-07-05**|**rSHG: Re-scan Second Harmonic Generation Microscopy**|Stefan G. Stanciu et.al.|[2207.02002v1](http://arxiv.org/abs/2207.02002v1)|null|
+|**2022-07-05**|**rSHG: Re-scan Second Harmonic Generation Microscopy**|Stefan G. Stanciu et.al.|[2207.02002v2](http://arxiv.org/abs/2207.02002v2)|null|
 |**2022-07-05**|**Open-Vocabulary Multi-Label Classification via Multi-modal Knowledge Transfer**|Sunan He et.al.|[2207.01887v1](http://arxiv.org/abs/2207.01887v1)|**[link](https://github.com/seanhe97/mkt)**|
 |**2022-07-05**|**Multimodal Frame-Scoring Transformer for Video Summarization**|Jeiyoon Park et.al.|[2207.01814v1](http://arxiv.org/abs/2207.01814v1)|null|
 |**2022-07-04**|**Multimodal 4DVarNets for the reconstruction of sea surface dynamics from SST-SSH synergies**|Ronan Fablet et.al.|[2207.01372v1](http://arxiv.org/abs/2207.01372v1)|**[link](https://github.com/CIA-Oceanix/4dvarnet-core)**|
@@ -4123,7 +4123,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-07-06**|**Increasing the mobility and power-electronics figure of merit of AlGaN with atomically thin AlN/GaN digital-alloy superlattices**|Nick Pant et.al.|[2207.02809v1](http://arxiv.org/abs/2207.02809v1)|null|
-|**2022-07-06**|**Local Relighting of Real Scenes**|Audrey Cui et.al.|[2207.02774v1](http://arxiv.org/abs/2207.02774v1)|**[link](https://github.com/audreycui/relighting)**|
+|**2022-07-06**|**Local Relighting of Real Scenes**|Audrey Cui et.al.|[2207.02774v1](http://arxiv.org/abs/2207.02774v1)|**[link](https://github.com/audreycui/relight)**|
 |**2022-07-06**|**MetroGAN: Simulating Urban Morphology with Generative Adversarial Network**|Weiyu Zhang et.al.|[2207.02590v1](http://arxiv.org/abs/2207.02590v1)|null|
 |**2022-07-05**|**Weakly Supervised Grounding for VQA in Vision-Language Transformers**|Aisha Urooj Khan et.al.|[2207.02334v1](http://arxiv.org/abs/2207.02334v1)|**[link](https://github.com/aurooj/wsg-vqa-vltransformers)**|
 |**2022-07-05**|**CEN : Cooperatively Evolving Networks**|Sobhan Babu et.al.|[2207.02192v1](http://arxiv.org/abs/2207.02192v1)|null|
@@ -4134,7 +4134,7 @@ layout: default
 |**2022-07-05**|**PReGAN: Answer Oriented Passage Ranking with Weakly Supervised GAN**|Pan Du et.al.|[2207.01762v1](http://arxiv.org/abs/2207.01762v1)|null|
 |**2022-07-04**|**Federated Split GANs**|Pranvera Kortoçi et.al.|[2207.01750v1](http://arxiv.org/abs/2207.01750v1)|**[link](https://github.com/yukarisonz/fsl-gan)**|
 |**2022-07-04**|**Stochastic Restoration of Heavily Compressed Musical Audio using Generative Adversarial Networks**|Stefan Lattner et.al.|[2207.01667v1](http://arxiv.org/abs/2207.01667v1)|null|
-|**2022-07-04**|**Selectively increasing the diversity of GAN-generated samples**|Jan Dubiński et.al.|[2207.01561v1](http://arxiv.org/abs/2207.01561v1)|null|
+|**2022-07-04**|**Selectively increasing the diversity of GAN-generated samples**|Jan Dubiński et.al.|[2207.01561v2](http://arxiv.org/abs/2207.01561v2)|null|
 |**2022-07-04**|**Disentangling Random and Cyclic Effects in Time-Lapse Sequences**|Erik Härkönen et.al.|[2207.01413v1](http://arxiv.org/abs/2207.01413v1)|**[link](https://github.com/harskish/tlgan)**|
 |**2022-07-04**|**Memory Efficient Patch-based Training for INR-based GANs**|Namwoo Lee et.al.|[2207.01395v1](http://arxiv.org/abs/2207.01395v1)|null|
 |**2022-07-04**|**GAN-based generation of realistic 3D data: A systematic review and taxonomy**|André Ferreira et.al.|[2207.01390v1](http://arxiv.org/abs/2207.01390v1)|null|
