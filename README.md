@@ -713,7 +713,7 @@
 |**2022-07-07**|**Multimodal E-Commerce Product Classification Using Hierarchical Fusion**|Tsegaye Misikir Tashu et.al.|[2207.03305v1](http://arxiv.org/abs/2207.03305v1)|null|
 |**2022-07-07**|**Magneto-thermomechanically triggered active mechanical metamaterials -- untethered, reversible, reprogrammable transformations with shape locking**|Bihui Zou et.al.|[2207.03177v1](http://arxiv.org/abs/2207.03177v1)|null|
 |**2022-07-07**|**Single multimode fiber for in vivo light-field encoded nano-imaging**|Zhong Wen et.al.|[2207.03096v1](http://arxiv.org/abs/2207.03096v1)|null|
-|**2022-07-07**|**Learning the right channel in multimodal imaging: automated experiment in Piezoresponse Force Microscopy**|Yongtao Liu et.al.|[2207.03039v1](http://arxiv.org/abs/2207.03039v1)|null|
+|**2022-07-07**|**Learning the right channel in multimodal imaging: automated experiment in Piezoresponse Force Microscopy**|Yongtao Liu et.al.|[2207.03039v1](http://arxiv.org/abs/2207.03039v1)|**[link](https://github.com/yongtaoliu/ensemble-dkl)**|
 |**2022-07-06**|**Probabilistic Modeling of LCF Failure Times Using an Epidemiological Crack Percolation Model**|M. Harder et.al.|[2207.02731v1](http://arxiv.org/abs/2207.02731v1)|null|
 |**2022-07-06**|**Adversarial Robustness of Visual Dialog**|Lu Yu et.al.|[2207.02639v1](http://arxiv.org/abs/2207.02639v1)|null|
 |**2022-07-06**|**Multimodal Hydrostatic Actuators for Wearable Robots: A Preliminary Assessment of Mass-Saving and Energy-Efficiency Opportunities**|Jeff Denis et.al.|[2207.02619v1](http://arxiv.org/abs/2207.02619v1)|null|
@@ -1399,7 +1399,7 @@
 |**2022-07-07**|**Harnessing Out-Of-Distribution Examples via Augmenting Content and Style**|Zhuo Huang et.al.|[2207.03162v1](http://arxiv.org/abs/2207.03162v1)|null|
 |**2022-07-07**|**EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition 2022: Team HNU-FPV Technical Report**|Nie Lin et.al.|[2207.03095v1](http://arxiv.org/abs/2207.03095v1)|null|
 |**2022-07-07**|**Adaptation of Surgical Activity Recognition Models Across Operating Rooms**|Ali Mottaghi et.al.|[2207.03083v1](http://arxiv.org/abs/2207.03083v1)|null|
-|**2022-07-06**|**Unsupervised Manifold Alignment with Joint Multidimensional Scaling**|Dexiong Chen et.al.|[2207.02968v1](http://arxiv.org/abs/2207.02968v1)|null|
+|**2022-07-06**|**Unsupervised Manifold Alignment with Joint Multidimensional Scaling**|Dexiong Chen et.al.|[2207.02968v1](http://arxiv.org/abs/2207.02968v1)|**[link](https://github.com/borgwardtlab/jointmds)**|
 |**2022-07-06**|**Unsupervised Domain Adaptation through Shape Modeling for Medical Image Segmentation**|Yuan Yao et.al.|[2207.02529v1](http://arxiv.org/abs/2207.02529v1)|**[link](https://github.com/yyNoBug/VAE_segmentation)**|
 |**2022-07-06**|**Semi-Perspective Decoupled Heatmaps for 3D Robot Pose Estimation from Depth Maps**|Alessandro Simoni et.al.|[2207.02519v1](http://arxiv.org/abs/2207.02519v1)|null|
 |**2022-07-06**|**Domain Adaptive Video Segmentation via Temporal Pseudo Supervision**|Yun Xing et.al.|[2207.02372v1](http://arxiv.org/abs/2207.02372v1)|**[link](https://github.com/xing0047/tps)**|
@@ -1873,7 +1873,7 @@
 |**2022-07-07**|**Semi-unsupervised Learning for Time Series Classification**|Padraig Davidson et.al.|[2207.03119v1](http://arxiv.org/abs/2207.03119v1)|null|
 |**2022-07-07**|**EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition 2022: Team HNU-FPV Technical Report**|Nie Lin et.al.|[2207.03095v1](http://arxiv.org/abs/2207.03095v1)|null|
 |**2022-07-06**|**fabisearch: A Package for Change Point Detection in and Visualization of the Network Structure of Multivariate High-Dimensional Time Series in R**|Martin Ondrus et.al.|[2207.02986v1](http://arxiv.org/abs/2207.02986v1)|null|
-|**2022-07-06**|**Unsupervised Manifold Alignment with Joint Multidimensional Scaling**|Dexiong Chen et.al.|[2207.02968v1](http://arxiv.org/abs/2207.02968v1)|null|
+|**2022-07-06**|**Unsupervised Manifold Alignment with Joint Multidimensional Scaling**|Dexiong Chen et.al.|[2207.02968v1](http://arxiv.org/abs/2207.02968v1)|**[link](https://github.com/borgwardtlab/jointmds)**|
 |**2022-07-06**|**SphereVLAD++: Attention-based and Signal-enhanced Viewpoint Invariant Descriptor**|Shiqi Zhao et.al.|[2207.02958v1](http://arxiv.org/abs/2207.02958v1)|null|
 |**2022-07-06**|**towards a robust detection of viscous and turbulent flow regions using unsupervised machine learning**|Kheir-Eddine Otmani et.al.|[2207.02929v1](http://arxiv.org/abs/2207.02929v1)|null|
 |**2022-07-06**|**Strong Heuristics for Named Entity Linking**|Marko Čuljak et.al.|[2207.02824v1](http://arxiv.org/abs/2207.02824v1)|**[link](https://github.com/epfl-dlab/nelight)**|
@@ -4004,7 +4004,7 @@
 |**2022-07-07**|**Interlayer and intralayer excitons in AlN/WS$_2$ heterostructure**|C. Attaccalite et.al.|[2207.03287v1](http://arxiv.org/abs/2207.03287v1)|null|
 |**2022-07-07**|**NESC: Robust Neural End-2-End Speech Coding with GANs**|Nicola Pia et.al.|[2207.03282v1](http://arxiv.org/abs/2207.03282v1)|null|
 |**2022-07-07**|**BMD-GAN: Bone mineral density estimation using x-ray image decomposition into projections of bone-segmented quantitative computed tomography using hierarchical learning**|Yi Gu et.al.|[2207.03210v1](http://arxiv.org/abs/2207.03210v1)|null|
-|**2022-07-07**|**Energy-based Legged Robots Terrain Traversability Modeling via Deep Inverse Reinforcement Learning**|Lu Gan et.al.|[2207.03034v1](http://arxiv.org/abs/2207.03034v1)|null|
+|**2022-07-07**|**Energy-based Legged Robots Terrain Traversability Modeling via Deep Inverse Reinforcement Learning**|Lu Gan et.al.|[2207.03034v1](http://arxiv.org/abs/2207.03034v1)|**[link](https://github.com/ganlumomo/minicheetah-traversability-irl)**|
 |**2022-07-06**|**Increasing the mobility and power-electronics figure of merit of AlGaN with atomically thin AlN/GaN digital-alloy superlattices**|Nick Pant et.al.|[2207.02809v1](http://arxiv.org/abs/2207.02809v1)|null|
 |**2022-07-06**|**Local Relighting of Real Scenes**|Audrey Cui et.al.|[2207.02774v1](http://arxiv.org/abs/2207.02774v1)|**[link](https://github.com/audreycui/relight)**|
 |**2022-07-06**|**MetroGAN: Simulating Urban Morphology with Generative Adversarial Network**|Weiyu Zhang et.al.|[2207.02590v1](http://arxiv.org/abs/2207.02590v1)|null|
