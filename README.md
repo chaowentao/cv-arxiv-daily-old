@@ -1,4 +1,4 @@
-## Updated on 2022.07.08
+## Updated on 2022.07.09
 
 ## Image Generation
 
@@ -184,7 +184,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-07-05**|**Softmax-free Linear Transformers**|Jiachen Lu et.al.|[2207.03341v1](http://arxiv.org/abs/2207.03341v1)|null|
+|**2022-07-05**|**Softmax-free Linear Transformers**|Jiachen Lu et.al.|[2207.03341v1](http://arxiv.org/abs/2207.03341v1)|**[link](https://github.com/fudan-zvg/soft)**|
 |**2022-07-07**|**Vision Transformers: State of the Art and Research Challenges**|Bo-Kai Ruan et.al.|[2207.03041v1](http://arxiv.org/abs/2207.03041v1)|null|
 |**2022-07-05**|**Generalization to translation shifts: a study in architectures and augmentations**|Suriya Gunasekar et.al.|[2207.02349v1](http://arxiv.org/abs/2207.02349v1)|null|
 |**2022-07-05**|**TractoFormer: A Novel Fiber-level Whole Brain Tractography Analysis Framework Using Spectral Embedding and Vision Transformers**|Fan Zhang et.al.|[2207.02327v1](http://arxiv.org/abs/2207.02327v1)|null|
