@@ -1,4 +1,4 @@
-## Updated on 2022.07.10
+## Updated on 2022.07.11
 
 ## Image Generation
 
@@ -187,7 +187,7 @@
 |**2022-07-05**|**Softmax-free Linear Transformers**|Jiachen Lu et.al.|[2207.03341v1](http://arxiv.org/abs/2207.03341v1)|**[link](https://github.com/fudan-zvg/soft)**|
 |**2022-07-07**|**Vision Transformers: State of the Art and Research Challenges**|Bo-Kai Ruan et.al.|[2207.03041v1](http://arxiv.org/abs/2207.03041v1)|null|
 |**2022-07-05**|**Generalization to translation shifts: a study in architectures and augmentations**|Suriya Gunasekar et.al.|[2207.02349v1](http://arxiv.org/abs/2207.02349v1)|null|
-|**2022-07-05**|**TractoFormer: A Novel Fiber-level Whole Brain Tractography Analysis Framework Using Spectral Embedding and Vision Transformers**|Fan Zhang et.al.|[2207.02327v1](http://arxiv.org/abs/2207.02327v1)|null|
+|**2022-07-05**|**TractoFormer: A Novel Fiber-level Whole Brain Tractography Analysis Framework Using Spectral Embedding and Vision Transformers**|Fan Zhang et.al.|[2207.02327v2](http://arxiv.org/abs/2207.02327v2)|null|
 |**2022-07-05**|**Improving Semantic Segmentation in Transformers using Hierarchical Inter-Level Attention**|Gary Leung et.al.|[2207.02126v1](http://arxiv.org/abs/2207.02126v1)|null|
 |**2022-07-05**|**Transformer based Models for Unsupervised Anomaly Segmentation in Brain MR Images**|Ahmed Ghorbel et.al.|[2207.02059v1](http://arxiv.org/abs/2207.02059v1)|**[link](https://github.com/ahmedgh970/Transformers_Unsupervised_Anomaly_Segmentation)**|
 |**2022-07-05**|**CNN-based Local Vision Transformer for COVID-19 Diagnosis**|Hongyan Xu et.al.|[2207.02027v1](http://arxiv.org/abs/2207.02027v1)|null|
@@ -1870,7 +1870,7 @@
 |**2022-07-07**|**Deformer: Towards Displacement Field Learning for Unsupervised Medical Image Registration**|Jiashun Chen et.al.|[2207.03180v1](http://arxiv.org/abs/2207.03180v1)|**[link](https://github.com/cjsorange/dmr-deformer)**|
 |**2022-07-07**|**Improving Few-Shot Image Classification Using Machine- and User-Generated Natural Language Descriptions**|Kosuke Nishida et.al.|[2207.03133v1](http://arxiv.org/abs/2207.03133v1)|null|
 |**2022-07-07**|**Multi-View Vision-to-Geometry Knowledge Transfer for 3D Point Cloud Shape Analysis**|Qijian Zhang et.al.|[2207.03128v1](http://arxiv.org/abs/2207.03128v1)|null|
-|**2022-07-07**|**Semi-unsupervised Learning for Time Series Classification**|Padraig Davidson et.al.|[2207.03119v1](http://arxiv.org/abs/2207.03119v1)|null|
+|**2022-07-07**|**Semi-unsupervised Learning for Time Series Classification**|Padraig Davidson et.al.|[2207.03119v2](http://arxiv.org/abs/2207.03119v2)|null|
 |**2022-07-07**|**EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition 2022: Team HNU-FPV Technical Report**|Nie Lin et.al.|[2207.03095v1](http://arxiv.org/abs/2207.03095v1)|null|
 |**2022-07-06**|**fabisearch: A Package for Change Point Detection in and Visualization of the Network Structure of Multivariate High-Dimensional Time Series in R**|Martin Ondrus et.al.|[2207.02986v1](http://arxiv.org/abs/2207.02986v1)|null|
 |**2022-07-06**|**Unsupervised Manifold Alignment with Joint Multidimensional Scaling**|Dexiong Chen et.al.|[2207.02968v1](http://arxiv.org/abs/2207.02968v1)|**[link](https://github.com/borgwardtlab/jointmds)**|
