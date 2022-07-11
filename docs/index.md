@@ -213,6 +213,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-08**|**Interacting topological Dirac magnons**|Hao Sun et.al.|[2207.03964v1](http://arxiv.org/abs/2207.03964v1)|null|
 |**2022-07-07**|**Single multimode fiber for in vivo light-field encoded nano-imaging**|Zhong Wen et.al.|[2207.03096v1](http://arxiv.org/abs/2207.03096v1)|null|
 |**2022-07-01**|**Ray-Space Motion Compensation for Lenslet Plenoptic Video Coding**|Thuc Nguyen Huu et.al.|[2207.00522v1](http://arxiv.org/abs/2207.00522v1)|null|
 |**2022-06-27**|**Comparative analysis of signal-to-noise ratio in correlation plenoptic imaging architectures**|Gianlorenzo Massaro et.al.|[2206.13412v1](http://arxiv.org/abs/2206.13412v1)|null|
@@ -336,6 +337,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-08**|**Consecutive Pretraining: A Knowledge Transfer Learning Strategy with Relevant Unlabeled Data for Remote Sensing Domain**|Tong Zhang et.al.|[2207.03860v1](http://arxiv.org/abs/2207.03860v1)|null|
+|**2022-07-08**|**VidConv: A modernized 2D ConvNet for Efficient Video Recognition**|Chuong H. Nguyen et.al.|[2207.03782v1](http://arxiv.org/abs/2207.03782v1)|null|
+|**2022-07-07**|**More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity**|Shiwei Liu et.al.|[2207.03620v1](http://arxiv.org/abs/2207.03620v1)|**[link](https://github.com/vita-group/slak)**|
 |**2022-07-05**|**Softmax-free Linear Transformers**|Jiachen Lu et.al.|[2207.03341v1](http://arxiv.org/abs/2207.03341v1)|**[link](https://github.com/fudan-zvg/soft)**|
 |**2022-07-07**|**Vision Transformers: State of the Art and Research Challenges**|Bo-Kai Ruan et.al.|[2207.03041v1](http://arxiv.org/abs/2207.03041v1)|null|
 |**2022-07-05**|**Generalization to translation shifts: a study in architectures and augmentations**|Suriya Gunasekar et.al.|[2207.02349v1](http://arxiv.org/abs/2207.02349v1)|null|
@@ -735,6 +739,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-07**|**PoseGU: 3D Human Pose Estimation with Novel Human Pose Generator and Unbiased Learning**|Shannan Guan et.al.|[2207.03618v1](http://arxiv.org/abs/2207.03618v1)|null|
+|**2022-07-07**|**RWT-SLAM: Robust Visual SLAM for Highly Weak-textured Environments**|Qihao Peng et.al.|[2207.03539v1](http://arxiv.org/abs/2207.03539v1)|null|
 |**2022-07-06**|**Semi-supervised Human Pose Estimation in Art-historical Images**|Matthias Springstein et.al.|[2207.02976v1](http://arxiv.org/abs/2207.02976v1)|null|
 |**2022-07-06**|**Semi-Perspective Decoupled Heatmaps for 3D Robot Pose Estimation from Depth Maps**|Alessandro Simoni et.al.|[2207.02519v1](http://arxiv.org/abs/2207.02519v1)|null|
 |**2022-07-06**|**Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation**|Zhehan Kan et.al.|[2207.02425v1](http://arxiv.org/abs/2207.02425v1)|null|
@@ -860,6 +866,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-07**|**Removing degeneracy and multimodality in gravitational wave source parameters**|Javier Roulet et.al.|[2207.03508v1](http://arxiv.org/abs/2207.03508v1)|null|
 |**2022-07-07**|**Human-Robot Commensality: Bite Timing Prediction for Robot-Assisted Feeding in Groups**|Jan Ondras et.al.|[2207.03348v1](http://arxiv.org/abs/2207.03348v1)|null|
 |**2022-07-07**|**Multimodal Feature Extraction for Memes Sentiment Classification**|Sofiane Ouaari et.al.|[2207.03317v1](http://arxiv.org/abs/2207.03317v1)|null|
 |**2022-07-07**|**Multimodal E-Commerce Product Classification Using Hierarchical Fusion**|Tsegaye Misikir Tashu et.al.|[2207.03305v1](http://arxiv.org/abs/2207.03305v1)|null|
@@ -1548,6 +1555,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-08**|**Unsupervised Domain Adaptive Fundus Image Segmentation with Category-level Regularization**|Wei Feng et.al.|[2207.03684v1](http://arxiv.org/abs/2207.03684v1)|null|
+|**2022-07-07**|**Meta-Learning the Difference: Preparing Large Language Models for Efficient Adaptation**|Zejiang Hou et.al.|[2207.03509v1](http://arxiv.org/abs/2207.03509v1)|**[link](https://github.com/amazon-research/meta-learning-the-difference)**|
 |**2022-07-07**|**Harnessing Out-Of-Distribution Examples via Augmenting Content and Style**|Zhuo Huang et.al.|[2207.03162v1](http://arxiv.org/abs/2207.03162v1)|null|
 |**2022-07-07**|**EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition 2022: Team HNU-FPV Technical Report**|Nie Lin et.al.|[2207.03095v1](http://arxiv.org/abs/2207.03095v1)|null|
 |**2022-07-07**|**Adaptation of Surgical Activity Recognition Models Across Operating Rooms**|Ali Mottaghi et.al.|[2207.03083v1](http://arxiv.org/abs/2207.03083v1)|null|
@@ -2014,6 +2023,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-08**|**Active Learning-based Isolation Forest (ALIF): Enhancing Anomaly Detection in Decision Support Systems**|Elisa Marcelli et.al.|[2207.03934v1](http://arxiv.org/abs/2207.03934v1)|null|
+|**2022-07-08**|**Memory-free Online Change-point Detection: A Novel Neural Network Approach**|Zahra Atashgahi et.al.|[2207.03932v1](http://arxiv.org/abs/2207.03932v1)|**[link](https://github.com/zahraatashgahi/alacpd)**|
+|**2022-07-08**|**Big Learning: A Universal Machine Learning Paradigm?**|Yulai Cong et.al.|[2207.03899v1](http://arxiv.org/abs/2207.03899v1)|null|
+|**2022-07-08**|**An Efficiency Study for SPLADE Models**|Carlos Lassance et.al.|[2207.03834v1](http://arxiv.org/abs/2207.03834v1)|**[link](https://github.com/naver/splade)**|
+|**2022-07-08**|**Boosting Zero-shot Learning via Contrastive Optimization of Attribute Representations**|Yu Du et.al.|[2207.03824v1](http://arxiv.org/abs/2207.03824v1)|null|
+|**2022-07-08**|**Zero-Shot Cost Models for Distributed Stream Processing**|Roman Heinrich et.al.|[2207.03823v1](http://arxiv.org/abs/2207.03823v1)|null|
+|**2022-07-08**|**On the Subspace Structure of Gradient-Based Meta-Learning**|Gustaf Tegnér et.al.|[2207.03804v1](http://arxiv.org/abs/2207.03804v1)|null|
+|**2022-07-08**|**Unsupervised Domain Adaptive Fundus Image Segmentation with Category-level Regularization**|Wei Feng et.al.|[2207.03684v1](http://arxiv.org/abs/2207.03684v1)|null|
+|**2022-07-08**|**OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering**|Zhengbao Jiang et.al.|[2207.03637v1](http://arxiv.org/abs/2207.03637v1)|null|
+|**2022-07-07**|**Meta-Learning the Difference: Preparing Large Language Models for Efficient Adaptation**|Zejiang Hou et.al.|[2207.03509v1](http://arxiv.org/abs/2207.03509v1)|**[link](https://github.com/amazon-research/meta-learning-the-difference)**|
 |**2022-07-07**|**Diagnosing and Remedying Shot Sensitivity with Cosine Few-Shot Learners**|Davis Wertheimer et.al.|[2207.03398v1](http://arxiv.org/abs/2207.03398v1)|null|
 |**2022-07-07**|**Machine learning of percolation models using graph convolutional neural networks**|Hua Tian et.al.|[2207.03368v1](http://arxiv.org/abs/2207.03368v1)|null|
 |**2022-07-07**|**Learning the Stress-Strain Fields in Digital Composites using Fourier Neural Operator**|Meer Mehran Rashid et.al.|[2207.03239v1](http://arxiv.org/abs/2207.03239v1)|null|
@@ -4150,6 +4169,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-08**|**On Improving the Performance of Glitch Classification for Gravitational Wave Detection by using Generative Adversarial Networks**|Jianqi Yan et.al.|[2207.04001v1](http://arxiv.org/abs/2207.04001v1)|null|
+|**2022-07-08**|**Generative Adversarial Networks and Other Generative Models**|Markus Wenzel et.al.|[2207.03887v1](http://arxiv.org/abs/2207.03887v1)|null|
+|**2022-07-08**|**Continuous Methods : Hamiltonian Domain Translation**|Emmanuel Menier et.al.|[2207.03843v1](http://arxiv.org/abs/2207.03843v1)|null|
+|**2022-07-08**|**Coarse particulate matter air quality in East Asia: implications for fine particulate nitrate**|Shixian Zhai et.al.|[2207.03625v1](http://arxiv.org/abs/2207.03625v1)|null|
+|**2022-07-07**|**Verification of a real-time ensemble-based method for updating earth model based on GAN**|Kristian Fossum et.al.|[2207.03596v1](http://arxiv.org/abs/2207.03596v1)|null|
 |**2022-07-07**|**Finding Fallen Objects Via Asynchronous Audio-Visual Integration**|Chuang Gan et.al.|[2207.03483v1](http://arxiv.org/abs/2207.03483v1)|null|
 |**2022-07-07**|**VecGAN: Image-to-Image Translation with Interpretable Latent Directions**|Yusuf Dalva et.al.|[2207.03411v1](http://arxiv.org/abs/2207.03411v1)|null|
 |**2022-07-06**|**Text to Image Synthesis using Stacked Conditional Variational Autoencoders and Conditional Generative Adversarial Networks**|Haileleol Tibebu et.al.|[2207.03332v1](http://arxiv.org/abs/2207.03332v1)|null|
@@ -4996,6 +5020,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-07**|**GaitTAKE: Gait Recognition by Temporal Attention \\and Keypoint-guided Embedding**|Hung-Min Hsu et.al.|[2207.03608v1](http://arxiv.org/abs/2207.03608v1)|null|
 |**2022-06-30**|**CTrGAN: Cycle Transformers GAN for Gait Transfer**|Shahar Mahpod et.al.|[2206.15248v2](http://arxiv.org/abs/2206.15248v2)|null|
 |**2022-06-28**|**Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark**|Chao Fan et.al.|[2206.13964v1](http://arxiv.org/abs/2206.13964v1)|**[link](https://github.com/shiqiyu/opengait)**|
 |**2022-06-28**|**A Comprehensive Survey on Deep Gait Recognition: Algorithms, Datasets and Challenges**|Chuanfu Shen et.al.|[2206.13732v1](http://arxiv.org/abs/2206.13732v1)|null|
