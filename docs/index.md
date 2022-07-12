@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.11
+## Updated on 2022.07.12
 
 ## SLAM
 
@@ -343,7 +343,7 @@ layout: default
 |**2022-07-05**|**Softmax-free Linear Transformers**|Jiachen Lu et.al.|[2207.03341v1](http://arxiv.org/abs/2207.03341v1)|**[link](https://github.com/fudan-zvg/soft)**|
 |**2022-07-07**|**Vision Transformers: State of the Art and Research Challenges**|Bo-Kai Ruan et.al.|[2207.03041v1](http://arxiv.org/abs/2207.03041v1)|null|
 |**2022-07-05**|**Generalization to translation shifts: a study in architectures and augmentations**|Suriya Gunasekar et.al.|[2207.02349v1](http://arxiv.org/abs/2207.02349v1)|null|
-|**2022-07-05**|**TractoFormer: A Novel Fiber-level Whole Brain Tractography Analysis Framework Using Spectral Embedding and Vision Transformers**|Fan Zhang et.al.|[2207.02327v2](http://arxiv.org/abs/2207.02327v2)|null|
+|**2022-07-05**|**TractoFormer: A Novel Fiber-level Whole Brain Tractography Analysis Framework Using Spectral Embedding and Vision Transformers**|Fan Zhang et.al.|[2207.02327v3](http://arxiv.org/abs/2207.02327v3)|null|
 |**2022-07-05**|**Improving Semantic Segmentation in Transformers using Hierarchical Inter-Level Attention**|Gary Leung et.al.|[2207.02126v1](http://arxiv.org/abs/2207.02126v1)|null|
 |**2022-07-05**|**Transformer based Models for Unsupervised Anomaly Segmentation in Brain MR Images**|Ahmed Ghorbel et.al.|[2207.02059v1](http://arxiv.org/abs/2207.02059v1)|**[link](https://github.com/ahmedgh970/Transformers_Unsupervised_Anomaly_Segmentation)**|
 |**2022-07-05**|**CNN-based Local Vision Transformer for COVID-19 Diagnosis**|Hongyan Xu et.al.|[2207.02027v1](http://arxiv.org/abs/2207.02027v1)|null|
@@ -741,7 +741,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-07-07**|**PoseGU: 3D Human Pose Estimation with Novel Human Pose Generator and Unbiased Learning**|Shannan Guan et.al.|[2207.03618v1](http://arxiv.org/abs/2207.03618v1)|null|
 |**2022-07-07**|**RWT-SLAM: Robust Visual SLAM for Highly Weak-textured Environments**|Qihao Peng et.al.|[2207.03539v1](http://arxiv.org/abs/2207.03539v1)|null|
-|**2022-07-06**|**Semi-supervised Human Pose Estimation in Art-historical Images**|Matthias Springstein et.al.|[2207.02976v1](http://arxiv.org/abs/2207.02976v1)|null|
+|**2022-07-06**|**Semi-supervised Human Pose Estimation in Art-historical Images**|Matthias Springstein et.al.|[2207.02976v2](http://arxiv.org/abs/2207.02976v2)|null|
 |**2022-07-06**|**Semi-Perspective Decoupled Heatmaps for 3D Robot Pose Estimation from Depth Maps**|Alessandro Simoni et.al.|[2207.02519v1](http://arxiv.org/abs/2207.02519v1)|null|
 |**2022-07-06**|**Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation**|Zhehan Kan et.al.|[2207.02425v1](http://arxiv.org/abs/2207.02425v1)|null|
 |**2022-07-01**|**Vision-based Conflict Detection within Crowds based on High-Resolution Human Pose Estimation for Smart and Safe Airport**|Karan Kheta et.al.|[2207.00477v1](http://arxiv.org/abs/2207.00477v1)|null|
@@ -2027,7 +2027,7 @@ layout: default
 |**2022-07-08**|**Memory-free Online Change-point Detection: A Novel Neural Network Approach**|Zahra Atashgahi et.al.|[2207.03932v1](http://arxiv.org/abs/2207.03932v1)|**[link](https://github.com/zahraatashgahi/alacpd)**|
 |**2022-07-08**|**Big Learning: A Universal Machine Learning Paradigm?**|Yulai Cong et.al.|[2207.03899v1](http://arxiv.org/abs/2207.03899v1)|null|
 |**2022-07-08**|**An Efficiency Study for SPLADE Models**|Carlos Lassance et.al.|[2207.03834v1](http://arxiv.org/abs/2207.03834v1)|**[link](https://github.com/naver/splade)**|
-|**2022-07-08**|**Boosting Zero-shot Learning via Contrastive Optimization of Attribute Representations**|Yu Du et.al.|[2207.03824v1](http://arxiv.org/abs/2207.03824v1)|null|
+|**2022-07-08**|**Boosting Zero-shot Learning via Contrastive Optimization of Attribute Representations**|Yu Du et.al.|[2207.03824v2](http://arxiv.org/abs/2207.03824v2)|null|
 |**2022-07-08**|**Zero-Shot Cost Models for Distributed Stream Processing**|Roman Heinrich et.al.|[2207.03823v1](http://arxiv.org/abs/2207.03823v1)|null|
 |**2022-07-08**|**On the Subspace Structure of Gradient-Based Meta-Learning**|Gustaf Tegnér et.al.|[2207.03804v1](http://arxiv.org/abs/2207.03804v1)|null|
 |**2022-07-08**|**Unsupervised Domain Adaptive Fundus Image Segmentation with Category-level Regularization**|Wei Feng et.al.|[2207.03684v1](http://arxiv.org/abs/2207.03684v1)|null|
