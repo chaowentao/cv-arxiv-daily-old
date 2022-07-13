@@ -213,6 +213,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-12**|**Emergent Schrödinger cat states during superradiant phase transitions**|Ri-Hua Zheng et.al.|[2207.05512v1](http://arxiv.org/abs/2207.05512v1)|null|
+|**2022-07-11**|**Topological Transformation and Free-Space Transport of Photonic Hopfions**|Yijie Shen et.al.|[2207.05074v1](http://arxiv.org/abs/2207.05074v1)|null|
 |**2022-07-11**|**A Learned Radiance-Field Representation for Complex Luminaires**|Jorge Condor et.al.|[2207.05009v1](http://arxiv.org/abs/2207.05009v1)|null|
 |**2022-07-11**|**Self-healing of structured light: a review**|Yijie Shen et.al.|[2207.04767v1](http://arxiv.org/abs/2207.04767v1)|null|
 |**2022-07-10**|**Progressively-connected Light Field Network for Efficient View Synthesis**|Peng Wang et.al.|[2207.04465v1](http://arxiv.org/abs/2207.04465v1)|null|
@@ -340,12 +342,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-12**|**Vision Transformer for NeRF-Based View Synthesis from a Single Input Image**|Kai-En Lin et.al.|[2207.05736v1](http://arxiv.org/abs/2207.05736v1)|null|
+|**2022-07-12**|**MSP-Former: Multi-Scale Projection Transformer for Single Image Desnowing**|Sixiang Chen et.al.|[2207.05621v1](http://arxiv.org/abs/2207.05621v1)|null|
+|**2022-07-12**|**LightViT: Towards Light-Weight Convolution-Free Vision Transformers**|Tao Huang et.al.|[2207.05557v1](http://arxiv.org/abs/2207.05557v1)|null|
+|**2022-07-12**|**Long-term Leap Attention, Short-term Periodic Shift for Video Classification**|Hao Zhang et.al.|[2207.05526v1](http://arxiv.org/abs/2207.05526v1)|null|
+|**2022-07-12**|**Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios**|Jiashi Li et.al.|[2207.05501v1](http://arxiv.org/abs/2207.05501v1)|null|
+|**2022-07-12**|**Image and Model Transformation with Secret Key for Vision Transformer**|Hitoshi Kiya et.al.|[2207.05366v1](http://arxiv.org/abs/2207.05366v1)|null|
+|**2022-07-12**|**eX-ViT: A Novel eXplainable Vision Transformer for Weakly Supervised Semantic Segmentation**|Lu Yu et.al.|[2207.05358v1](http://arxiv.org/abs/2207.05358v1)|null|
+|**2022-07-12**|**Outpainting by Queries**|Kai Yao et.al.|[2207.05312v1](http://arxiv.org/abs/2207.05312v1)|null|
+|**2022-07-12**|**Trusted Multi-Scale Classification Framework for Whole Slide Image**|Ming Feng et.al.|[2207.05290v1](http://arxiv.org/abs/2207.05290v1)|null|
 |**2022-07-11**|**Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning**|Ting Yao et.al.|[2207.04978v1](http://arxiv.org/abs/2207.04978v1)|**[link](https://github.com/yehli/imagenetmodel)**|
 |**2022-07-11**|**Dual Vision Transformer**|Ting Yao et.al.|[2207.04976v2](http://arxiv.org/abs/2207.04976v2)|**[link](https://github.com/yehli/imagenetmodel)**|
 |**2022-07-11**|**TNT: Vision Transformer for Turbulence Simulations**|Yuchen Dang et.al.|[2207.04616v1](http://arxiv.org/abs/2207.04616v1)|null|
 |**2022-07-10**|**Depthformer : Multiscale Vision Transformer For Monocular Depth Estimation With Local Global Information Fusion**|Ashutosh Agarwal et.al.|[2207.04535v2](http://arxiv.org/abs/2207.04535v2)|**[link](https://github.com/ashutosh1807/depthformer)**|
 |**2022-07-10**|**Facilitated machine learning for image-based fruit quality assessment in developing countries**|Manuel Knott et.al.|[2207.04523v1](http://arxiv.org/abs/2207.04523v1)|null|
-|**2022-07-08**|**Consecutive Pretraining: A Knowledge Transfer Learning Strategy with Relevant Unlabeled Data for Remote Sensing Domain**|Tong Zhang et.al.|[2207.03860v1](http://arxiv.org/abs/2207.03860v1)|null|
+|**2022-07-08**|**Consecutive Pretraining: A Knowledge Transfer Learning Strategy with Relevant Unlabeled Data for Remote Sensing Domain**|Tong Zhang et.al.|[2207.03860v1](http://arxiv.org/abs/2207.03860v1)|**[link](https://github.com/zhangtong1/transfer_learning_cspt)**|
 |**2022-07-08**|**VidConv: A modernized 2D ConvNet for Efficient Video Recognition**|Chuong H. Nguyen et.al.|[2207.03782v1](http://arxiv.org/abs/2207.03782v1)|null|
 |**2022-07-07**|**More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity**|Shiwei Liu et.al.|[2207.03620v1](http://arxiv.org/abs/2207.03620v1)|**[link](https://github.com/vita-group/slak)**|
 |**2022-07-05**|**Softmax-free Linear Transformers**|Jiachen Lu et.al.|[2207.03341v1](http://arxiv.org/abs/2207.03341v1)|**[link](https://github.com/fudan-zvg/soft)**|
@@ -874,7 +885,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-07-11**|**A Federated Cox Model with Non-Proportional Hazards**|Dekai Zhang et.al.|[2207.05050v1](http://arxiv.org/abs/2207.05050v1)|null|
+|**2022-07-12**|**pocoMC: A Python package for accelerated Bayesian inference in astronomy and cosmology**|Minas Karamanis et.al.|[2207.05660v1](http://arxiv.org/abs/2207.05660v1)|null|
+|**2022-07-12**|**Modality-Aware Contrastive Instance Learning with Self-Distillation for Weakly-Supervised Audio-Visual Violence Detection**|Jiashuo Yu et.al.|[2207.05500v1](http://arxiv.org/abs/2207.05500v1)|**[link](https://github.com/JustinYuu/MACIL_SD)**|
+|**2022-07-12**|**Building Korean Sign Language Augmentation (KoSLA) Corpus with Data Augmentation Technique**|Changnam An et.al.|[2207.05261v1](http://arxiv.org/abs/2207.05261v1)|null|
+|**2022-07-11**|**A Federated Cox Model with Non-Proportional Hazards**|Dekai Zhang et.al.|[2207.05050v1](http://arxiv.org/abs/2207.05050v1)|**[link](https://github.com/dkaizhang/federated-survival)**|
 |**2022-07-11**|**Multimodal Multi-objective Optimization: Comparative Study of the State-of-the-Art**|Wenhua Li et.al.|[2207.04730v1](http://arxiv.org/abs/2207.04730v1)|**[link](https://github.com/wenhua-li/comparativestudyofmmop)**|
 |**2022-07-11**|**Multi-level Fusion of Wav2vec 2.0 and BERT for Multimodal Emotion Recognition**|Zihan Zhao et.al.|[2207.04697v2](http://arxiv.org/abs/2207.04697v2)|null|
 |**2022-07-09**|**Freedom to Choose: Understanding Input Modality Preferences of People with Upper-body Motor Impairments for Activities of Daily Living**|Franklin Mingzhe Li et.al.|[2207.04344v1](http://arxiv.org/abs/2207.04344v1)|null|
@@ -1571,13 +1585,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-12**|**PAC-Bayesian Domain Adaptation Bounds for Multiclass Learners**|Anthony Sicilia et.al.|[2207.05685v1](http://arxiv.org/abs/2207.05685v1)|null|
+|**2022-07-12**|**Category-Level 6D Object Pose and Size Estimation using Self-Supervised Deep Prior Deformation Networks**|Jiehong Lin et.al.|[2207.05444v1](http://arxiv.org/abs/2207.05444v1)|null|
+|**2022-07-12**|**An Information-Theoretic Analysis for Transfer Learning: Error Bounds and Applications**|Xuetong Wu et.al.|[2207.05377v1](http://arxiv.org/abs/2207.05377v1)|null|
+|**2022-07-11**|**Real-Time And Robust 3D Object Detection with Roadside LiDARs**|Walter Zimmer et.al.|[2207.05200v1](http://arxiv.org/abs/2207.05200v1)|null|
+|**2022-07-11**|**Discovering Domain Disentanglement for Generalized Multi-source Domain Adaptation**|Zixin Wang et.al.|[2207.05070v1](http://arxiv.org/abs/2207.05070v1)|null|
 |**2022-07-11**|**The HCCL System for the NIST SRE21**|Zhuo Li et.al.|[2207.04676v1](http://arxiv.org/abs/2207.04676v1)|null|
 |**2022-07-11**|**Gradual Domain Adaptation without Indexed Intermediate Domains**|Hong-You Chen et.al.|[2207.04587v1](http://arxiv.org/abs/2207.04587v1)|**[link](https://github.com/hongyouc/idol)**|
 |**2022-07-10**|**Domain Confused Contrastive Learning for Unsupervised Domain Adaptation**|Quanyu Long et.al.|[2207.04564v1](http://arxiv.org/abs/2207.04564v1)|null|
 |**2022-07-10**|**Towards Adaptive Unknown Authentication for Universal Domain Adaptation by Classifier Paradox**|Yunyun Wang et.al.|[2207.04494v1](http://arxiv.org/abs/2207.04494v1)|null|
 |**2022-07-10**|**Dual-Correction Adaptation Network for Noisy Knowledge Transfer**|Yunyun Wang et.al.|[2207.04423v1](http://arxiv.org/abs/2207.04423v1)|null|
 |**2022-07-10**|**Domain Adaptation Under Behavioral and Temporal Shifts for Natural Time Series Mobile Activity Recognition**|Garrett Wilson et.al.|[2207.04367v1](http://arxiv.org/abs/2207.04367v1)|null|
-|**2022-07-09**|**Domain Alignment Meets Fully Test-Time Adaptation**|Kowshik Thopalli et.al.|[2207.04185v1](http://arxiv.org/abs/2207.04185v1)|null|
+|**2022-07-09**|**Domain Alignment Meets Fully Test-Time Adaptation**|Kowshik Thopalli et.al.|[2207.04185v1](http://arxiv.org/abs/2207.04185v1)|**[link](https://github.com/kowshikthopalli/cattan)**|
 |**2022-07-08**|**Unsupervised Domain Adaptive Fundus Image Segmentation with Category-level Regularization**|Wei Feng et.al.|[2207.03684v1](http://arxiv.org/abs/2207.03684v1)|null|
 |**2022-07-07**|**Meta-Learning the Difference: Preparing Large Language Models for Efficient Adaptation**|Zejiang Hou et.al.|[2207.03509v1](http://arxiv.org/abs/2207.03509v1)|**[link](https://github.com/amazon-research/meta-learning-the-difference)**|
 |**2022-07-07**|**Harnessing Out-Of-Distribution Examples via Augmenting Content and Style**|Zhuo Huang et.al.|[2207.03162v1](http://arxiv.org/abs/2207.03162v1)|null|
@@ -2046,6 +2065,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-12**|**Latent Variable Models for Bayesian Causal Discovery**|Jithendaraa Subramanian et.al.|[2207.05723v1](http://arxiv.org/abs/2207.05723v1)|null|
+|**2022-07-12**|**PAC-Bayesian Domain Adaptation Bounds for Multiclass Learners**|Anthony Sicilia et.al.|[2207.05685v1](http://arxiv.org/abs/2207.05685v1)|null|
+|**2022-07-12**|**Zero-shot Cross-lingual Transfer is Under-specified Optimization**|Shijie Wu et.al.|[2207.05666v1](http://arxiv.org/abs/2207.05666v1)|null|
+|**2022-07-12**|**Dynamic Gradient Reactivation for Backward Compatible Person Re-identification**|Xiao Pan et.al.|[2207.05658v1](http://arxiv.org/abs/2207.05658v1)|null|
+|**2022-07-12**|**Compound Prototype Matching for Few-shot Action Recognition**|Yifei Huang et.al.|[2207.05515v1](http://arxiv.org/abs/2207.05515v1)|null|
+|**2022-07-12**|**A semi-supervised geometric-driven methodology for supervised fishing activity detection on multi-source AIS tracking messages**|Martha Dais Ferreira et.al.|[2207.05514v1](http://arxiv.org/abs/2207.05514v1)|null|
+|**2022-07-12**|**Transferability-Guided Cross-Domain Cross-Task Transfer Learning**|Yang Tan et.al.|[2207.05510v1](http://arxiv.org/abs/2207.05510v1)|null|
+|**2022-07-12**|**Modality-Aware Contrastive Instance Learning with Self-Distillation for Weakly-Supervised Audio-Visual Violence Detection**|Jiashuo Yu et.al.|[2207.05500v1](http://arxiv.org/abs/2207.05500v1)|**[link](https://github.com/JustinYuu/MACIL_SD)**|
+|**2022-07-12**|**A developmental approach for training deep belief networks**|Matteo Zambra et.al.|[2207.05473v1](http://arxiv.org/abs/2207.05473v1)|null|
+|**2022-07-12**|**Category-Level 6D Object Pose and Size Estimation using Self-Supervised Deep Prior Deformation Networks**|Jiehong Lin et.al.|[2207.05444v1](http://arxiv.org/abs/2207.05444v1)|null|
+|**2022-07-12**|**A Generative deep learning approach for shape recognition of arbitrary objects from phaseless acoustic scattering data**|W. W. Ahmed et.al.|[2207.05433v1](http://arxiv.org/abs/2207.05433v1)|null|
+|**2022-07-12**|**A one-shot overlapping Schwarz method for component-based model reduction: application to nonlinear elasticity**|Angelo Iollo et.al.|[2207.05426v1](http://arxiv.org/abs/2207.05426v1)|null|
+|**2022-07-12**|**Multitask Learning from Augmented Auxiliary Data for Improving Speech Emotion Recognition**|Siddique Latif et.al.|[2207.05298v1](http://arxiv.org/abs/2207.05298v1)|null|
+|**2022-07-12**|**Effective Few-Shot Named Entity Linking by Meta-Learning**|Xiuxing Li et.al.|[2207.05280v1](http://arxiv.org/abs/2207.05280v1)|null|
+|**2022-07-12**|**Unsupervised learning of observation functions in state-space models by nonparametric moment methods**|Qingci An et.al.|[2207.05242v1](http://arxiv.org/abs/2207.05242v1)|null|
+|**2022-07-11**|**Grounding Aleatoric Uncertainty in Unsupervised Environment Design**|Minqi Jiang et.al.|[2207.05219v1](http://arxiv.org/abs/2207.05219v1)|null|
 |**2022-07-11**|**Demystifying Unsupervised Semantic Correspondence Estimation**|Mehmet Aygün et.al.|[2207.05054v1](http://arxiv.org/abs/2207.05054v1)|null|
 |**2022-07-11**|**Unsupervised Semantic Segmentation with Self-supervised Object-centric Representations**|Andrii Zadaianchuk et.al.|[2207.05027v1](http://arxiv.org/abs/2207.05027v1)|null|
 |**2022-07-11**|**Learning Temporally Extended Skills in Continuous Domains as Symbolic Actions for Planning**|Jan Achterhold et.al.|[2207.05018v1](http://arxiv.org/abs/2207.05018v1)|null|
@@ -4104,6 +4139,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-12**|**Vision Transformer for NeRF-Based View Synthesis from a Single Input Image**|Kai-En Lin et.al.|[2207.05736v1](http://arxiv.org/abs/2207.05736v1)|null|
 |**2022-07-11**|**A Learned Radiance-Field Representation for Complex Luminaires**|Jorge Condor et.al.|[2207.05009v1](http://arxiv.org/abs/2207.05009v1)|null|
 |**2022-07-10**|**Progressively-connected Light Field Network for Efficient View Synthesis**|Peng Wang et.al.|[2207.04465v1](http://arxiv.org/abs/2207.04465v1)|null|
 |**2022-07-06**|**VMRF: View Matching Neural Radiance Fields**|Jiahui Zhang et.al.|[2207.02621v1](http://arxiv.org/abs/2207.02621v1)|null|
@@ -4214,6 +4250,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-12**|**SD-GAN: Semantic Decomposition for Face Image Synthesis with Discrete Attribute**|Zhou Kangneng et.al.|[2207.05300v1](http://arxiv.org/abs/2207.05300v1)|null|
+|**2022-07-12**|**TabSynDex: A Universal Metric for Robust Evaluation of Synthetic Tabular Data**|Vikram S Chundawat et.al.|[2207.05295v1](http://arxiv.org/abs/2207.05295v1)|null|
 |**2022-07-11**|**Bottlenecks CLUB: Unifying Information-Theoretic Trade-offs Among Complexity, Leakage, and Utility**|Behrooz Razeghi et.al.|[2207.04895v1](http://arxiv.org/abs/2207.04895v1)|null|
 |**2022-07-11**|**X-ray scattering study of GaN nanowires grown on Ti/Al$_{2}$O$_{3}$ by molecular beam epitaxy**|Vladimir M. Kaganer et.al.|[2207.04817v1](http://arxiv.org/abs/2207.04817v1)|null|
 |**2022-07-11**|**Arithmetic Wavefront Sets and Generic $L$-packets**|Dihua Jiang et.al.|[2207.04700v1](http://arxiv.org/abs/2207.04700v1)|null|
