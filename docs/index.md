@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.12
+## Updated on 2022.07.13
 
 ## SLAM
 
@@ -156,7 +156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-07-06**|**Towards Counterfactual Image Manipulation via CLIP**|Yingchen Yu et.al.|[2207.02812v2](http://arxiv.org/abs/2207.02812v2)|**[link](https://github.com/yingchen001/cf-clip)**|
+|**2022-07-06**|**Towards Counterfactual Image Manipulation via CLIP**|Yingchen Yu et.al.|[2207.02812v3](http://arxiv.org/abs/2207.02812v3)|**[link](https://github.com/yingchen001/cf-clip)**|
 |**2022-07-02**|**Noise and Edge Based Dual Branch Image Manipulation Detection**|Zhongyuan Zhang et.al.|[2207.00724v1](http://arxiv.org/abs/2207.00724v1)|**[link](https://github.com/kakashiz/nedb-net)**|
 |**2022-06-28**|**Rethinking Adversarial Examples for Location Privacy Protection**|Trung-Nghia Le et.al.|[2206.14020v1](http://arxiv.org/abs/2206.14020v1)|null|
 |**2022-06-25**|**Angular dependency of spatial frequency modulation in diffusion media**|Yun Chen et.al.|[2206.12580v1](http://arxiv.org/abs/2206.12580v1)|null|
@@ -341,9 +341,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-07-11**|**Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning**|Ting Yao et.al.|[2207.04978v1](http://arxiv.org/abs/2207.04978v1)|**[link](https://github.com/yehli/imagenetmodel)**|
-|**2022-07-11**|**Dual Vision Transformer**|Ting Yao et.al.|[2207.04976v1](http://arxiv.org/abs/2207.04976v1)|**[link](https://github.com/yehli/imagenetmodel)**|
+|**2022-07-11**|**Dual Vision Transformer**|Ting Yao et.al.|[2207.04976v2](http://arxiv.org/abs/2207.04976v2)|**[link](https://github.com/yehli/imagenetmodel)**|
 |**2022-07-11**|**TNT: Vision Transformer for Turbulence Simulations**|Yuchen Dang et.al.|[2207.04616v1](http://arxiv.org/abs/2207.04616v1)|null|
-|**2022-07-10**|**Depthformer : Multiscale Vision Transformer For Monocular Depth Estimation With Local Global Information Fusion**|Ashutosh Agarwal et.al.|[2207.04535v1](http://arxiv.org/abs/2207.04535v1)|**[link](https://github.com/ashutosh1807/depthformer)**|
+|**2022-07-10**|**Depthformer : Multiscale Vision Transformer For Monocular Depth Estimation With Local Global Information Fusion**|Ashutosh Agarwal et.al.|[2207.04535v2](http://arxiv.org/abs/2207.04535v2)|**[link](https://github.com/ashutosh1807/depthformer)**|
 |**2022-07-10**|**Facilitated machine learning for image-based fruit quality assessment in developing countries**|Manuel Knott et.al.|[2207.04523v1](http://arxiv.org/abs/2207.04523v1)|null|
 |**2022-07-08**|**Consecutive Pretraining: A Knowledge Transfer Learning Strategy with Relevant Unlabeled Data for Remote Sensing Domain**|Tong Zhang et.al.|[2207.03860v1](http://arxiv.org/abs/2207.03860v1)|null|
 |**2022-07-08**|**VidConv: A modernized 2D ConvNet for Efficient Video Recognition**|Chuong H. Nguyen et.al.|[2207.03782v1](http://arxiv.org/abs/2207.03782v1)|null|
@@ -876,7 +876,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-07-11**|**A Federated Cox Model with Non-Proportional Hazards**|Dekai Zhang et.al.|[2207.05050v1](http://arxiv.org/abs/2207.05050v1)|null|
 |**2022-07-11**|**Multimodal Multi-objective Optimization: Comparative Study of the State-of-the-Art**|Wenhua Li et.al.|[2207.04730v1](http://arxiv.org/abs/2207.04730v1)|**[link](https://github.com/wenhua-li/comparativestudyofmmop)**|
-|**2022-07-11**|**Multi-level Fusion of Wav2vec 2.0 and BERT for Multimodal Emotion Recognition**|Zihan Zhao et.al.|[2207.04697v1](http://arxiv.org/abs/2207.04697v1)|null|
+|**2022-07-11**|**Multi-level Fusion of Wav2vec 2.0 and BERT for Multimodal Emotion Recognition**|Zihan Zhao et.al.|[2207.04697v2](http://arxiv.org/abs/2207.04697v2)|null|
 |**2022-07-09**|**Freedom to Choose: Understanding Input Modality Preferences of People with Upper-body Motor Impairments for Activities of Daily Living**|Franklin Mingzhe Li et.al.|[2207.04344v1](http://arxiv.org/abs/2207.04344v1)|null|
 |**2022-07-09**|**Multimodal Image Registration of Raman Spectral Maps in Two Dimensional Materials by Strain and Doping Analysis**|Kirby Schmidt et.al.|[2207.04292v1](http://arxiv.org/abs/2207.04292v1)|null|
 |**2022-07-09**|**Adaptive Structural Similarity Preserving for Unsupervised Cross Modal Hashing**|Liang Li et.al.|[2207.04214v1](http://arxiv.org/abs/2207.04214v1)|null|
