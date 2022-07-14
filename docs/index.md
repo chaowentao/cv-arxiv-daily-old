@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.13
+## Updated on 2022.07.14
 
 ## SLAM
 
@@ -344,12 +344,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-07-12**|**Vision Transformer for NeRF-Based View Synthesis from a Single Input Image**|Kai-En Lin et.al.|[2207.05736v1](http://arxiv.org/abs/2207.05736v1)|null|
 |**2022-07-12**|**MSP-Former: Multi-Scale Projection Transformer for Single Image Desnowing**|Sixiang Chen et.al.|[2207.05621v1](http://arxiv.org/abs/2207.05621v1)|null|
-|**2022-07-12**|**LightViT: Towards Light-Weight Convolution-Free Vision Transformers**|Tao Huang et.al.|[2207.05557v1](http://arxiv.org/abs/2207.05557v1)|null|
+|**2022-07-12**|**LightViT: Towards Light-Weight Convolution-Free Vision Transformers**|Tao Huang et.al.|[2207.05557v1](http://arxiv.org/abs/2207.05557v1)|**[link](https://github.com/hunto/lightvit)**|
 |**2022-07-12**|**Long-term Leap Attention, Short-term Periodic Shift for Video Classification**|Hao Zhang et.al.|[2207.05526v1](http://arxiv.org/abs/2207.05526v1)|null|
-|**2022-07-12**|**Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios**|Jiashi Li et.al.|[2207.05501v1](http://arxiv.org/abs/2207.05501v1)|null|
+|**2022-07-12**|**Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios**|Jiashi Li et.al.|[2207.05501v2](http://arxiv.org/abs/2207.05501v2)|null|
 |**2022-07-12**|**Image and Model Transformation with Secret Key for Vision Transformer**|Hitoshi Kiya et.al.|[2207.05366v1](http://arxiv.org/abs/2207.05366v1)|null|
 |**2022-07-12**|**eX-ViT: A Novel eXplainable Vision Transformer for Weakly Supervised Semantic Segmentation**|Lu Yu et.al.|[2207.05358v1](http://arxiv.org/abs/2207.05358v1)|null|
-|**2022-07-12**|**Outpainting by Queries**|Kai Yao et.al.|[2207.05312v1](http://arxiv.org/abs/2207.05312v1)|null|
+|**2022-07-12**|**Outpainting by Queries**|Kai Yao et.al.|[2207.05312v1](http://arxiv.org/abs/2207.05312v1)|**[link](https://github.com/kaiseem/queryotr)**|
 |**2022-07-12**|**Trusted Multi-Scale Classification Framework for Whole Slide Image**|Ming Feng et.al.|[2207.05290v1](http://arxiv.org/abs/2207.05290v1)|null|
 |**2022-07-11**|**Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning**|Ting Yao et.al.|[2207.04978v1](http://arxiv.org/abs/2207.04978v1)|**[link](https://github.com/yehli/imagenetmodel)**|
 |**2022-07-11**|**Dual Vision Transformer**|Ting Yao et.al.|[2207.04976v2](http://arxiv.org/abs/2207.04976v2)|**[link](https://github.com/yehli/imagenetmodel)**|
@@ -1585,8 +1585,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-07-12**|**PAC-Bayesian Domain Adaptation Bounds for Multiclass Learners**|Anthony Sicilia et.al.|[2207.05685v1](http://arxiv.org/abs/2207.05685v1)|null|
-|**2022-07-12**|**Category-Level 6D Object Pose and Size Estimation using Self-Supervised Deep Prior Deformation Networks**|Jiehong Lin et.al.|[2207.05444v1](http://arxiv.org/abs/2207.05444v1)|null|
+|**2022-07-12**|**PAC-Bayesian Domain Adaptation Bounds for Multiclass Learners**|Anthony Sicilia et.al.|[2207.05685v1](http://arxiv.org/abs/2207.05685v1)|**[link](https://github.com/anthonysicilia/pacbayes-adaptation-uai2022)**|
+|**2022-07-12**|**Category-Level 6D Object Pose and Size Estimation using Self-Supervised Deep Prior Deformation Networks**|Jiehong Lin et.al.|[2207.05444v1](http://arxiv.org/abs/2207.05444v1)|**[link](https://github.com/jiehonglin/self-dpdn)**|
 |**2022-07-12**|**An Information-Theoretic Analysis for Transfer Learning: Error Bounds and Applications**|Xuetong Wu et.al.|[2207.05377v1](http://arxiv.org/abs/2207.05377v1)|null|
 |**2022-07-11**|**Real-Time And Robust 3D Object Detection with Roadside LiDARs**|Walter Zimmer et.al.|[2207.05200v1](http://arxiv.org/abs/2207.05200v1)|null|
 |**2022-07-11**|**Discovering Domain Disentanglement for Generalized Multi-source Domain Adaptation**|Zixin Wang et.al.|[2207.05070v1](http://arxiv.org/abs/2207.05070v1)|null|
@@ -2066,15 +2066,15 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-07-12**|**Latent Variable Models for Bayesian Causal Discovery**|Jithendaraa Subramanian et.al.|[2207.05723v1](http://arxiv.org/abs/2207.05723v1)|null|
-|**2022-07-12**|**PAC-Bayesian Domain Adaptation Bounds for Multiclass Learners**|Anthony Sicilia et.al.|[2207.05685v1](http://arxiv.org/abs/2207.05685v1)|null|
-|**2022-07-12**|**Zero-shot Cross-lingual Transfer is Under-specified Optimization**|Shijie Wu et.al.|[2207.05666v1](http://arxiv.org/abs/2207.05666v1)|null|
+|**2022-07-12**|**PAC-Bayesian Domain Adaptation Bounds for Multiclass Learners**|Anthony Sicilia et.al.|[2207.05685v1](http://arxiv.org/abs/2207.05685v1)|**[link](https://github.com/anthonysicilia/pacbayes-adaptation-uai2022)**|
+|**2022-07-12**|**Zero-shot Cross-lingual Transfer is Under-specified Optimization**|Shijie Wu et.al.|[2207.05666v1](http://arxiv.org/abs/2207.05666v1)|**[link](https://github.com/shijie-wu/crosslingual-nlp)**|
 |**2022-07-12**|**Dynamic Gradient Reactivation for Backward Compatible Person Re-identification**|Xiao Pan et.al.|[2207.05658v1](http://arxiv.org/abs/2207.05658v1)|null|
 |**2022-07-12**|**Compound Prototype Matching for Few-shot Action Recognition**|Yifei Huang et.al.|[2207.05515v1](http://arxiv.org/abs/2207.05515v1)|null|
 |**2022-07-12**|**A semi-supervised geometric-driven methodology for supervised fishing activity detection on multi-source AIS tracking messages**|Martha Dais Ferreira et.al.|[2207.05514v1](http://arxiv.org/abs/2207.05514v1)|null|
 |**2022-07-12**|**Transferability-Guided Cross-Domain Cross-Task Transfer Learning**|Yang Tan et.al.|[2207.05510v1](http://arxiv.org/abs/2207.05510v1)|null|
 |**2022-07-12**|**Modality-Aware Contrastive Instance Learning with Self-Distillation for Weakly-Supervised Audio-Visual Violence Detection**|Jiashuo Yu et.al.|[2207.05500v1](http://arxiv.org/abs/2207.05500v1)|**[link](https://github.com/JustinYuu/MACIL_SD)**|
 |**2022-07-12**|**A developmental approach for training deep belief networks**|Matteo Zambra et.al.|[2207.05473v1](http://arxiv.org/abs/2207.05473v1)|null|
-|**2022-07-12**|**Category-Level 6D Object Pose and Size Estimation using Self-Supervised Deep Prior Deformation Networks**|Jiehong Lin et.al.|[2207.05444v1](http://arxiv.org/abs/2207.05444v1)|null|
+|**2022-07-12**|**Category-Level 6D Object Pose and Size Estimation using Self-Supervised Deep Prior Deformation Networks**|Jiehong Lin et.al.|[2207.05444v1](http://arxiv.org/abs/2207.05444v1)|**[link](https://github.com/jiehonglin/self-dpdn)**|
 |**2022-07-12**|**A Generative deep learning approach for shape recognition of arbitrary objects from phaseless acoustic scattering data**|W. W. Ahmed et.al.|[2207.05433v1](http://arxiv.org/abs/2207.05433v1)|null|
 |**2022-07-12**|**A one-shot overlapping Schwarz method for component-based model reduction: application to nonlinear elasticity**|Angelo Iollo et.al.|[2207.05426v1](http://arxiv.org/abs/2207.05426v1)|null|
 |**2022-07-12**|**Multitask Learning from Augmented Auxiliary Data for Improving Speech Emotion Recognition**|Siddique Latif et.al.|[2207.05298v1](http://arxiv.org/abs/2207.05298v1)|null|
@@ -4259,7 +4259,7 @@ layout: default
 |**2022-07-11**|**DelightfulTTS 2: End-to-End Speech Synthesis with Adversarial Vector-Quantized Auto-Encoders**|Yanqing Liu et.al.|[2207.04646v1](http://arxiv.org/abs/2207.04646v1)|null|
 |**2022-07-09**|**Generative Surrogates for Fast Simulation: TPC Case**|Fedor Ratnikov et.al.|[2207.04340v1](http://arxiv.org/abs/2207.04340v1)|null|
 |**2022-07-09**|**Unsupervised Joint Image Transfer and Uncertainty Quantification using Patch Invariant Networks**|Christoph Angermann et.al.|[2207.04325v1](http://arxiv.org/abs/2207.04325v1)|**[link](https://github.com/anger-man/unsupervised-image-transfer-and-uq)**|
-|**2022-07-09**|**Video Coding Using Learned Latent GAN Compression**|Mustafa Shukor et.al.|[2207.04324v1](http://arxiv.org/abs/2207.04324v1)|null|
+|**2022-07-09**|**Video Coding Using Learned Latent GAN Compression**|Mustafa Shukor et.al.|[2207.04324v2](http://arxiv.org/abs/2207.04324v2)|null|
 |**2022-07-09**|**PI-Trans: Parallel-ConvMLP and Implicit-Transformation Based GAN for Cross-View Image Translation**|Bin Ren et.al.|[2207.04242v1](http://arxiv.org/abs/2207.04242v1)|null|
 |**2022-07-08**|**On Improving the Performance of Glitch Classification for Gravitational Wave Detection by using Generative Adversarial Networks**|Jianqi Yan et.al.|[2207.04001v1](http://arxiv.org/abs/2207.04001v1)|null|
 |**2022-07-08**|**Generative Adversarial Networks and Other Generative Models**|Markus Wenzel et.al.|[2207.03887v1](http://arxiv.org/abs/2207.03887v1)|null|
@@ -5112,7 +5112,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-07-07**|**GaitTAKE: Gait Recognition by Temporal Attention \\and Keypoint-guided Embedding**|Hung-Min Hsu et.al.|[2207.03608v1](http://arxiv.org/abs/2207.03608v1)|null|
+|**2022-07-07**|**GaitTAKE: Gait Recognition by Temporal Attention and Keypoint-guided Embedding**|Hung-Min Hsu et.al.|[2207.03608v2](http://arxiv.org/abs/2207.03608v2)|null|
 |**2022-06-30**|**CTrGAN: Cycle Transformers GAN for Gait Transfer**|Shahar Mahpod et.al.|[2206.15248v2](http://arxiv.org/abs/2206.15248v2)|null|
 |**2022-06-28**|**Learning Gait Representation from Massive Unlabelled Walking Videos: A Benchmark**|Chao Fan et.al.|[2206.13964v1](http://arxiv.org/abs/2206.13964v1)|**[link](https://github.com/shiqiyu/opengait)**|
 |**2022-06-28**|**A Comprehensive Survey on Deep Gait Recognition: Algorithms, Datasets and Challenges**|Chuanfu Shen et.al.|[2206.13732v1](http://arxiv.org/abs/2206.13732v1)|null|
