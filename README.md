@@ -207,7 +207,7 @@
 |**2022-07-10**|**Depthformer : Multiscale Vision Transformer For Monocular Depth Estimation With Local Global Information Fusion**|Ashutosh Agarwal et.al.|[2207.04535v2](http://arxiv.org/abs/2207.04535v2)|**[link](https://github.com/ashutosh1807/depthformer)**|
 |**2022-07-10**|**Facilitated machine learning for image-based fruit quality assessment in developing countries**|Manuel Knott et.al.|[2207.04523v1](http://arxiv.org/abs/2207.04523v1)|null|
 |**2022-07-08**|**Consecutive Pretraining: A Knowledge Transfer Learning Strategy with Relevant Unlabeled Data for Remote Sensing Domain**|Tong Zhang et.al.|[2207.03860v1](http://arxiv.org/abs/2207.03860v1)|**[link](https://github.com/zhangtong1/transfer_learning_cspt)**|
-|**2022-07-08**|**VidConv: A modernized 2D ConvNet for Efficient Video Recognition**|Chuong H. Nguyen et.al.|[2207.03782v1](http://arxiv.org/abs/2207.03782v1)|null|
+|**2022-07-08**|**VidConv: A modernized 2D ConvNet for Efficient Video Recognition**|Chuong H. Nguyen et.al.|[2207.03782v1](http://arxiv.org/abs/2207.03782v1)|**[link](https://github.com/cybercore-co-ltd/VidConv)**|
 |**2022-07-07**|**More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity**|Shiwei Liu et.al.|[2207.03620v1](http://arxiv.org/abs/2207.03620v1)|**[link](https://github.com/vita-group/slak)**|
 |**2022-07-05**|**Softmax-free Linear Transformers**|Jiachen Lu et.al.|[2207.03341v1](http://arxiv.org/abs/2207.03341v1)|**[link](https://github.com/fudan-zvg/soft)**|
 |**2022-07-07**|**Vision Transformers: State of the Art and Research Challenges**|Bo-Kai Ruan et.al.|[2207.03041v1](http://arxiv.org/abs/2207.03041v1)|null|
@@ -1447,7 +1447,7 @@
 |**2022-07-12**|**Category-Level 6D Object Pose and Size Estimation using Self-Supervised Deep Prior Deformation Networks**|Jiehong Lin et.al.|[2207.05444v1](http://arxiv.org/abs/2207.05444v1)|**[link](https://github.com/jiehonglin/self-dpdn)**|
 |**2022-07-12**|**An Information-Theoretic Analysis for Transfer Learning: Error Bounds and Applications**|Xuetong Wu et.al.|[2207.05377v1](http://arxiv.org/abs/2207.05377v1)|null|
 |**2022-07-11**|**Real-Time And Robust 3D Object Detection with Roadside LiDARs**|Walter Zimmer et.al.|[2207.05200v1](http://arxiv.org/abs/2207.05200v1)|null|
-|**2022-07-11**|**Discovering Domain Disentanglement for Generalized Multi-source Domain Adaptation**|Zixin Wang et.al.|[2207.05070v1](http://arxiv.org/abs/2207.05070v1)|null|
+|**2022-07-11**|**Discovering Domain Disentanglement for Generalized Multi-source Domain Adaptation**|Zixin Wang et.al.|[2207.05070v1](http://arxiv.org/abs/2207.05070v1)|**[link](https://github.com/jo-wang/vdd)**|
 |**2022-07-11**|**The HCCL System for the NIST SRE21**|Zhuo Li et.al.|[2207.04676v1](http://arxiv.org/abs/2207.04676v1)|null|
 |**2022-07-11**|**Gradual Domain Adaptation without Indexed Intermediate Domains**|Hong-You Chen et.al.|[2207.04587v1](http://arxiv.org/abs/2207.04587v1)|**[link](https://github.com/hongyouc/idol)**|
 |**2022-07-10**|**Domain Confused Contrastive Learning for Unsupervised Domain Adaptation**|Quanyu Long et.al.|[2207.04564v1](http://arxiv.org/abs/2207.04564v1)|null|
