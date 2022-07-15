@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.14
+## Updated on 2022.07.15
 
 ## SLAM
 
@@ -892,7 +892,7 @@ layout: default
 |**2022-07-13**|**High Power on-chip Integrated Laser**|Yair Antman et.al.|[2207.06279v1](http://arxiv.org/abs/2207.06279v1)|null|
 |**2022-07-11**|**Stochastic Functional Analysis and Multilevel Vector Field Anomaly Detection**|Julio E Castrillon-Candas et.al.|[2207.06229v1](http://arxiv.org/abs/2207.06229v1)|null|
 |**2022-07-13**|**MM-ALT: A Multimodal Automatic Lyric Transcription System**|Xiangming Gu et.al.|[2207.06127v1](http://arxiv.org/abs/2207.06127v1)|null|
-|**2022-07-12**|**pocoMC: A Python package for accelerated Bayesian inference in astronomy and cosmology**|Minas Karamanis et.al.|[2207.05660v1](http://arxiv.org/abs/2207.05660v1)|null|
+|**2022-07-12**|**pocoMC: A Python package for accelerated Bayesian inference in astronomy and cosmology**|Minas Karamanis et.al.|[2207.05660v1](http://arxiv.org/abs/2207.05660v1)|**[link](https://github.com/minaskar/pocomc)**|
 |**2022-07-12**|**Modality-Aware Contrastive Instance Learning with Self-Distillation for Weakly-Supervised Audio-Visual Violence Detection**|Jiashuo Yu et.al.|[2207.05500v1](http://arxiv.org/abs/2207.05500v1)|**[link](https://github.com/JustinYuu/MACIL_SD)**|
 |**2022-07-12**|**Building Korean Sign Language Augmentation (KoSLA) Corpus with Data Augmentation Technique**|Changnam An et.al.|[2207.05261v1](http://arxiv.org/abs/2207.05261v1)|null|
 |**2022-07-11**|**A Federated Cox Model with Non-Proportional Hazards**|Dekai Zhang et.al.|[2207.05050v1](http://arxiv.org/abs/2207.05050v1)|**[link](https://github.com/dkaizhang/federated-survival)**|
@@ -2084,7 +2084,7 @@ layout: default
 |**2022-07-13**|**Multiple Kernel Clustering with Dual Noise Minimization**|Junpu Zhang et.al.|[2207.06041v1](http://arxiv.org/abs/2207.06041v1)|null|
 |**2022-07-13**|**Unsupervised Recognition of Informative Features via Tensor Network Machine Learning and Quantum Entanglement Variations**|Sheng-Chen Bai et.al.|[2207.06031v1](http://arxiv.org/abs/2207.06031v1)|null|
 |**2022-07-13**|**SATTS: Speaker Attractor Text to Speech, Learning to Speak by Learning to Separate**|Nabarun Goswami et.al.|[2207.06011v1](http://arxiv.org/abs/2207.06011v1)|null|
-|**2022-07-13**|**Unsupervised Learning for Combinatorial Optimization with Principled Objective Design**|Haoyu Wang et.al.|[2207.05984v1](http://arxiv.org/abs/2207.05984v1)|null|
+|**2022-07-13**|**Unsupervised Learning for Combinatorial Optimization with Principled Objective Relaxation**|Haoyu Wang et.al.|[2207.05984v2](http://arxiv.org/abs/2207.05984v2)|**[link](https://github.com/graph-com/co_proxydesign)**|
 |**2022-07-13**|**Appearance-guided Attentive Self-Paced Learning for Unsupervised Salient Object Detection**|Huajun Zhou et.al.|[2207.05921v1](http://arxiv.org/abs/2207.05921v1)|**[link](https://github.com/moothes/a2s-v2)**|
 |**2022-07-12**|**REZCR: A Zero-shot Character Recognition Method via Radical Extraction**|Xiaolei Diao et.al.|[2207.05842v1](http://arxiv.org/abs/2207.05842v1)|null|
 |**2022-07-12**|**Shape-Aware Masking for Inpainting in Medical Imaging**|Yousef Yeganeh et.al.|[2207.05787v1](http://arxiv.org/abs/2207.05787v1)|null|
