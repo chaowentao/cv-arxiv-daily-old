@@ -344,7 +344,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-07-14**|**Convolutional Bypasses Are Better Vision Transformer Adapters**|Shibo Jie et.al.|[2207.07039v1](http://arxiv.org/abs/2207.07039v1)|null|
+|**2022-07-14**|**Convolutional Bypasses Are Better Vision Transformer Adapters**|Shibo Jie et.al.|[2207.07039v1](http://arxiv.org/abs/2207.07039v1)|**[link](https://github.com/jieshibo/petl-vit)**|
 |**2022-07-14**|**iColoriT: Towards Propagating Local Hint to the Right Region in Interactive Colorization by Leveraging Vision Transformer**|Sanghyeon Lee et.al.|[2207.06831v1](http://arxiv.org/abs/2207.06831v1)|null|
 |**2022-07-14**|**Deepfake Video Detection with Spatiotemporal Dropout Transformer**|Daichi Zhang et.al.|[2207.06612v1](http://arxiv.org/abs/2207.06612v1)|null|
 |**2022-07-13**|**Trans4Map: Revisiting Holistic Top-down Mapping from Egocentric Images to Allocentric Semantics with Vision Transformers**|Chang Chen et.al.|[2207.06205v1](http://arxiv.org/abs/2207.06205v1)|null|
@@ -2091,7 +2091,7 @@ layout: default
 |**2022-07-14**|**Fine-grained Few-shot Recognition by Deep Object Parsing**|Pengkai Zhu et.al.|[2207.07110v1](http://arxiv.org/abs/2207.07110v1)|null|
 |**2022-07-14**|**A Personalized Zero-Shot ECG Arrhythmia Monitoring System: From Sparse Representation Based Domain Adaption to Energy Efficient Abnormal Beat Detection for Practical ECG Surveillance**|Mehmet Yamaç et.al.|[2207.07089v1](http://arxiv.org/abs/2207.07089v1)|**[link](https://github.com/mertduman/zero-shot-ecg)**|
 |**2022-07-14**|**Parameter-Efficient Prompt Tuning Makes Generalized and Calibrated Neural Text Retrievers**|Weng Lam Tam et.al.|[2207.07087v1](http://arxiv.org/abs/2207.07087v1)|**[link](https://github.com/thudm/p-tuning-v2)**|
-|**2022-07-14**|**Convolutional Bypasses Are Better Vision Transformer Adapters**|Shibo Jie et.al.|[2207.07039v1](http://arxiv.org/abs/2207.07039v1)|null|
+|**2022-07-14**|**Convolutional Bypasses Are Better Vision Transformer Adapters**|Shibo Jie et.al.|[2207.07039v1](http://arxiv.org/abs/2207.07039v1)|**[link](https://github.com/jieshibo/petl-vit)**|
 |**2022-07-14**|**A Single Self-Supervised Model for Many Speech Modalities Enables Zero-Shot Modality Transfer**|Wei-Ning Hsu et.al.|[2207.07036v1](http://arxiv.org/abs/2207.07036v1)|null|
 |**2022-07-14**|**Adversarial Attacks on Monocular Pose Estimation**|Hemang Chawla et.al.|[2207.07032v1](http://arxiv.org/abs/2207.07032v1)|**[link](https://github.com/neurai-lab/mono-pose-attack)**|
 |**2022-07-14**|**Learning to translate by learning to communicate**|C. M. Downey et.al.|[2207.07025v1](http://arxiv.org/abs/2207.07025v1)|**[link](https://github.com/clmbrs/communication-translation)**|
