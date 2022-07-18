@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.17
+## Updated on 2022.07.18
 
 ## SLAM
 
@@ -345,7 +345,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-07-14**|**Convolutional Bypasses Are Better Vision Transformer Adapters**|Shibo Jie et.al.|[2207.07039v1](http://arxiv.org/abs/2207.07039v1)|**[link](https://github.com/jieshibo/petl-vit)**|
-|**2022-07-14**|**iColoriT: Towards Propagating Local Hint to the Right Region in Interactive Colorization by Leveraging Vision Transformer**|Sanghyeon Lee et.al.|[2207.06831v1](http://arxiv.org/abs/2207.06831v1)|null|
+|**2022-07-14**|**iColoriT: Towards Propagating Local Hint to the Right Region in Interactive Colorization by Leveraging Vision Transformer**|Sanghyeon Lee et.al.|[2207.06831v2](http://arxiv.org/abs/2207.06831v2)|null|
 |**2022-07-14**|**Deepfake Video Detection with Spatiotemporal Dropout Transformer**|Daichi Zhang et.al.|[2207.06612v1](http://arxiv.org/abs/2207.06612v1)|null|
 |**2022-07-13**|**Trans4Map: Revisiting Holistic Top-down Mapping from Egocentric Images to Allocentric Semantics with Vision Transformers**|Chang Chen et.al.|[2207.06205v1](http://arxiv.org/abs/2207.06205v1)|null|
 |**2022-07-12**|**Vision Transformer for NeRF-Based View Synthesis from a Single Input Image**|Kai-En Lin et.al.|[2207.05736v1](http://arxiv.org/abs/2207.05736v1)|null|
@@ -778,7 +778,7 @@ layout: default
 |**2022-06-24**|**Deep embedded clustering algorithm for clustering PACS repositories**|Teo Manojlović et.al.|[2206.12417v1](http://arxiv.org/abs/2206.12417v1)|null|
 |**2022-06-21**|**KTN: Knowledge Transfer Network for Learning Multi-person 2D-3D Correspondences**|Xuanhan Wang et.al.|[2206.10090v1](http://arxiv.org/abs/2206.10090v1)|**[link](https://github.com/stoa-xh91/humandensepose)**|
 |**2022-06-20**|**Self-Supervised Consistent Quantization for Fully Unsupervised Image Retrieval**|Guile Wu et.al.|[2206.09806v1](http://arxiv.org/abs/2206.09806v1)|null|
-|**2022-06-18**|**Embodied Scene-aware Human Pose Estimation**|Zhengyi Luo et.al.|[2206.09106v1](http://arxiv.org/abs/2206.09106v1)|null|
+|**2022-06-18**|**Embodied Scene-aware Human Pose Estimation**|Zhengyi Luo et.al.|[2206.09106v2](http://arxiv.org/abs/2206.09106v2)|null|
 |**2022-06-15**|**A Unified Sequence Interface for Vision Tasks**|Ting Chen et.al.|[2206.07669v1](http://arxiv.org/abs/2206.07669v1)|null|
 |**2022-06-15**|**Deep Multi-Task Networks For Occluded Pedestrian Pose Estimation**|Arindam Das et.al.|[2206.07510v1](http://arxiv.org/abs/2206.07510v1)|null|
 |**2022-06-13**|**GraphMLP: A Graph MLP-Like Architecture for 3D Human Pose Estimation**|Wenhao Li et.al.|[2206.06420v1](http://arxiv.org/abs/2206.06420v1)|null|
