@@ -192,6 +192,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-15**|**Parameterization of Cross-Token Relations with Relative Positional Encoding for Vision MLP**|Zhicai Wang et.al.|[2207.07284v1](http://arxiv.org/abs/2207.07284v1)|**[link](https://github.com/zhicaiwww/posmlp)**|
+|**2022-07-15**|**Lightweight Vision Transformer with Cross Feature Attention**|Youpeng Zhao et.al.|[2207.07268v1](http://arxiv.org/abs/2207.07268v1)|null|
 |**2022-07-14**|**Convolutional Bypasses Are Better Vision Transformer Adapters**|Shibo Jie et.al.|[2207.07039v1](http://arxiv.org/abs/2207.07039v1)|**[link](https://github.com/jieshibo/petl-vit)**|
 |**2022-07-14**|**iColoriT: Towards Propagating Local Hint to the Right Region in Interactive Colorization by Leveraging Vision Transformer**|Sanghyeon Lee et.al.|[2207.06831v2](http://arxiv.org/abs/2207.06831v2)|null|
 |**2022-07-14**|**Deepfake Video Detection with Spatiotemporal Dropout Transformer**|Daichi Zhang et.al.|[2207.06612v1](http://arxiv.org/abs/2207.06612v1)|null|
@@ -741,6 +743,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-15**|**Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models**|Rui Qian et.al.|[2207.07646v1](http://arxiv.org/abs/2207.07646v1)|null|
+|**2022-07-15**|**Brain MRI study for glioma segmentation using convolutional neural networks and original post-processing techniques with low computational demand**|José Gerardo Suárez-García Javier Miguel Hernández-López et.al.|[2207.07622v1](http://arxiv.org/abs/2207.07622v1)|null|
+|**2022-07-15**|**USegScene: Unsupervised Learning of Depth, Optical Flow and Ego-Motion with Semantic Guidance and Coupled Networks**|Johan Vertens et.al.|[2207.07469v1](http://arxiv.org/abs/2207.07469v1)|null|
+|**2022-07-15**|**Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space**|Lingwei Dang et.al.|[2207.07351v1](http://arxiv.org/abs/2207.07351v1)|**[link](https://github.com/droliven/diverse_sampling)**|
 |**2022-07-14**|**Egocentric Scene Understanding via Multimodal Spatial Rectifier**|Tien Do et.al.|[2207.07077v1](http://arxiv.org/abs/2207.07077v1)|**[link](https://github.com/tien-d/EgoDepthNormal)**|
 |**2022-07-14**|**A Single Self-Supervised Model for Many Speech Modalities Enables Zero-Shot Modality Transfer**|Wei-Ning Hsu et.al.|[2207.07036v1](http://arxiv.org/abs/2207.07036v1)|null|
 |**2022-07-14**|**Inertial Hallucinations -- When Wearable Inertial Devices Start Seeing Things**|Alessandro Masullo et.al.|[2207.06789v1](http://arxiv.org/abs/2207.06789v1)|null|
@@ -1448,6 +1454,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-15**|**Feed-Forward Source-Free Latent Domain Adaptation via Cross-Attention**|Ondrej Bohdal et.al.|[2207.07624v1](http://arxiv.org/abs/2207.07624v1)|null|
 |**2022-07-14**|**A Personalized Zero-Shot ECG Arrhythmia Monitoring System: From Sparse Representation Based Domain Adaption to Energy Efficient Abnormal Beat Detection for Practical ECG Surveillance**|Mehmet Yamaç et.al.|[2207.07089v1](http://arxiv.org/abs/2207.07089v1)|**[link](https://github.com/mertduman/zero-shot-ecg)**|
 |**2022-07-14**|**Refign: Align and Refine for Adaptation of Semantic Segmentation to Adverse Conditions**|David Bruggemann et.al.|[2207.06825v1](http://arxiv.org/abs/2207.06825v1)|**[link](https://github.com/brdav/refign)**|
 |**2022-07-14**|**A Multi-Modality Ovarian Tumor Ultrasound Image Dataset for Unsupervised Cross-Domain Semantic Segmentation**|Qi Zhao et.al.|[2207.06799v1](http://arxiv.org/abs/2207.06799v1)|**[link](https://github.com/cv516buaa/mmotu_ds2net)**|
@@ -1936,6 +1943,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-15**|**Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models**|Rui Qian et.al.|[2207.07646v1](http://arxiv.org/abs/2207.07646v1)|null|
+|**2022-07-15**|**Mixture-of-theories Training: Can We Find New Physics and Anomalies Better by Mixing Physical Theories?**|Sascha Caron et.al.|[2207.07631v1](http://arxiv.org/abs/2207.07631v1)|null|
+|**2022-07-15**|**GUSOT: Green and Unsupervised Single Object Tracking for Long Video Sequences**|Zhiruo Zhou et.al.|[2207.07629v1](http://arxiv.org/abs/2207.07629v1)|null|
+|**2022-07-15**|**MegaPortraits: One-shot Megapixel Neural Head Avatars**|Nikita Drobyshev et.al.|[2207.07621v1](http://arxiv.org/abs/2207.07621v1)|null|
+|**2022-07-15**|**Position Prediction as an Effective Pretraining Strategy**|Shuangfei Zhai et.al.|[2207.07611v1](http://arxiv.org/abs/2207.07611v1)|null|
+|**2022-07-15**|**USegScene: Unsupervised Learning of Depth, Optical Flow and Ego-Motion with Semantic Guidance and Coupled Networks**|Johan Vertens et.al.|[2207.07469v1](http://arxiv.org/abs/2207.07469v1)|null|
+|**2022-07-15**|**DeepSolar tracker: towards unsupervised assessment with open-source data of the accuracy of deep learning-based distributed PV mapping**|Gabriel Kasmi et.al.|[2207.07466v1](http://arxiv.org/abs/2207.07466v1)|**[link](https://github.com/gabrielkasmi/dsfrance)**|
+|**2022-07-15**|**Plex: Towards Reliability using Pretrained Large Model Extensions**|Dustin Tran et.al.|[2207.07411v1](http://arxiv.org/abs/2207.07411v1)|**[link](https://github.com/google/uncertainty-baselines)**|
+|**2022-07-15**|**Registration based Few-Shot Anomaly Detection**|Chaoqin Huang et.al.|[2207.07361v1](http://arxiv.org/abs/2207.07361v1)|**[link](https://github.com/mediabrain-sjtu/regad)**|
+|**2022-07-15**|**Enhancement by Your Aesthetic: An Intelligible Unsupervised Personalized Enhancer for Low-Light Images**|Naishan Zheng et.al.|[2207.07317v1](http://arxiv.org/abs/2207.07317v1)|null|
+|**2022-07-15**|**Direction-Aware Adaptive Online Neural Speech Enhancement with an Augmented Reality Headset in Real Noisy Conversational Environments**|Kouhei Sekiguchi et.al.|[2207.07296v1](http://arxiv.org/abs/2207.07296v1)|null|
+|**2022-07-15**|**WaveGAN: Frequency-aware GAN for High-Fidelity Few-shot Image Generation**|Mengping Yang et.al.|[2207.07288v1](http://arxiv.org/abs/2207.07288v1)|**[link](https://github.com/kobeshegu/eccv2022_wavegan)**|
+|**2022-07-15**|**ScaleNet: Searching for the Model to Scale**|Jiyang Xie et.al.|[2207.07267v1](http://arxiv.org/abs/2207.07267v1)|**[link](https://github.com/luminolx/scalenet)**|
+|**2022-07-14**|**Supervising Embedding Algorithms Using the Stress**|Ery Arias-Castro et.al.|[2207.07218v1](http://arxiv.org/abs/2207.07218v1)|null|
+|**2022-07-14**|**Contrastive Adapters for Foundation Model Group Robustness**|Michael Zhang et.al.|[2207.07180v1](http://arxiv.org/abs/2207.07180v1)|null|
+|**2022-07-14**|**Causal Graphs Underlying Generative Models: Path to Learning with Limited Data**|Samuel C. Hoffman et.al.|[2207.07174v1](http://arxiv.org/abs/2207.07174v1)|null|
+|**2022-07-14**|**K-level Reasoning for Zero-Shot Coordination in Hanabi**|Brandon Cui et.al.|[2207.07166v1](http://arxiv.org/abs/2207.07166v1)|null|
 |**2022-07-14**|**Fine-grained Few-shot Recognition by Deep Object Parsing**|Pengkai Zhu et.al.|[2207.07110v1](http://arxiv.org/abs/2207.07110v1)|null|
 |**2022-07-14**|**A Personalized Zero-Shot ECG Arrhythmia Monitoring System: From Sparse Representation Based Domain Adaption to Energy Efficient Abnormal Beat Detection for Practical ECG Surveillance**|Mehmet Yamaç et.al.|[2207.07089v1](http://arxiv.org/abs/2207.07089v1)|**[link](https://github.com/mertduman/zero-shot-ecg)**|
 |**2022-07-14**|**Parameter-Efficient Prompt Tuning Makes Generalized and Calibrated Neural Text Retrievers**|Weng Lam Tam et.al.|[2207.07087v1](http://arxiv.org/abs/2207.07087v1)|**[link](https://github.com/thudm/p-tuning-v2)**|
@@ -4156,6 +4180,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-15**|**Feasibility of Inconspicuous GAN-generated Adversarial Patches against Object Detection**|Svetlana Pavlitskaya et.al.|[2207.07347v1](http://arxiv.org/abs/2207.07347v1)|null|
+|**2022-07-15**|**Towards Better Dermoscopic Image Feature Representation Learning for Melanoma Classification**|ChengHui Yu et.al.|[2207.07303v1](http://arxiv.org/abs/2207.07303v1)|**[link](https://github.com/kirtsy/dermoscopicdataset)**|
+|**2022-07-15**|**Complementary Vanishing Graphs**|Craig Erickson et.al.|[2207.07294v1](http://arxiv.org/abs/2207.07294v1)|null|
+|**2022-07-15**|**WaveGAN: Frequency-aware GAN for High-Fidelity Few-shot Image Generation**|Mengping Yang et.al.|[2207.07288v1](http://arxiv.org/abs/2207.07288v1)|**[link](https://github.com/kobeshegu/eccv2022_wavegan)**|
+|**2022-07-15**|**Acceleration of 60 MeV proton beams in the commissioning experiment of SULF-10 PW laser**|A. X. Li et.al.|[2207.07265v1](http://arxiv.org/abs/2207.07265v1)|null|
 |**2022-07-14**|**RSD-GAN: Regularized Sobolev Defense GAN Against Speech-to-Text Adversarial Attacks**|Mohammad Esmaeilpour et.al.|[2207.06858v1](http://arxiv.org/abs/2207.06858v1)|null|
 |**2022-07-14**|**Continuous Facial Motion Deblurring**|Tae Bok Lee et.al.|[2207.06626v1](http://arxiv.org/abs/2207.06626v1)|null|
 |**2022-07-13**|**3D Concept Grounding on Neural Fields**|Yining Hong et.al.|[2207.06403v1](http://arxiv.org/abs/2207.06403v1)|null|
