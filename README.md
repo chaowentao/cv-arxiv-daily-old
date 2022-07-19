@@ -1,4 +1,4 @@
-## Updated on 2022.07.18
+## Updated on 2022.07.19
 
 ## Image Generation
 
@@ -194,12 +194,12 @@
 |---|---|---|---|---|
 |**2022-07-15**|**Parameterization of Cross-Token Relations with Relative Positional Encoding for Vision MLP**|Zhicai Wang et.al.|[2207.07284v1](http://arxiv.org/abs/2207.07284v1)|**[link](https://github.com/zhicaiwww/posmlp)**|
 |**2022-07-15**|**Lightweight Vision Transformer with Cross Feature Attention**|Youpeng Zhao et.al.|[2207.07268v1](http://arxiv.org/abs/2207.07268v1)|null|
-|**2022-07-14**|**Convolutional Bypasses Are Better Vision Transformer Adapters**|Shibo Jie et.al.|[2207.07039v1](http://arxiv.org/abs/2207.07039v1)|**[link](https://github.com/jieshibo/petl-vit)**|
+|**2022-07-14**|**Convolutional Bypasses Are Better Vision Transformer Adapters**|Shibo Jie et.al.|[2207.07039v2](http://arxiv.org/abs/2207.07039v2)|**[link](https://github.com/jieshibo/petl-vit)**|
 |**2022-07-14**|**iColoriT: Towards Propagating Local Hint to the Right Region in Interactive Colorization by Leveraging Vision Transformer**|Sanghyeon Lee et.al.|[2207.06831v2](http://arxiv.org/abs/2207.06831v2)|null|
 |**2022-07-14**|**Deepfake Video Detection with Spatiotemporal Dropout Transformer**|Daichi Zhang et.al.|[2207.06612v1](http://arxiv.org/abs/2207.06612v1)|null|
-|**2022-07-13**|**Trans4Map: Revisiting Holistic Top-down Mapping from Egocentric Images to Allocentric Semantics with Vision Transformers**|Chang Chen et.al.|[2207.06205v1](http://arxiv.org/abs/2207.06205v1)|null|
+|**2022-07-13**|**Trans4Map: Revisiting Holistic Top-down Mapping from Egocentric Images to Allocentric Semantics with Vision Transformers**|Chang Chen et.al.|[2207.06205v1](http://arxiv.org/abs/2207.06205v1)|**[link](https://github.com/jamycheung/trans4map)**|
 |**2022-07-12**|**Vision Transformer for NeRF-Based View Synthesis from a Single Input Image**|Kai-En Lin et.al.|[2207.05736v1](http://arxiv.org/abs/2207.05736v1)|null|
-|**2022-07-12**|**MSP-Former: Multi-Scale Projection Transformer for Single Image Desnowing**|Sixiang Chen et.al.|[2207.05621v1](http://arxiv.org/abs/2207.05621v1)|null|
+|**2022-07-12**|**MSP-Former: Multi-Scale Projection Transformer for Single Image Desnowing**|Sixiang Chen et.al.|[2207.05621v2](http://arxiv.org/abs/2207.05621v2)|null|
 |**2022-07-12**|**LightViT: Towards Light-Weight Convolution-Free Vision Transformers**|Tao Huang et.al.|[2207.05557v1](http://arxiv.org/abs/2207.05557v1)|**[link](https://github.com/hunto/lightvit)**|
 |**2022-07-12**|**Long-term Leap Attention, Short-term Periodic Shift for Video Classification**|Hao Zhang et.al.|[2207.05526v1](http://arxiv.org/abs/2207.05526v1)|null|
 |**2022-07-12**|**Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios**|Jiashi Li et.al.|[2207.05501v2](http://arxiv.org/abs/2207.05501v2)|null|
@@ -4191,7 +4191,7 @@
 |**2022-07-13**|**Contact behaviour of simulated rough spheres generated with spherical harmonics**|Deheng Wei et.al.|[2207.06361v1](http://arxiv.org/abs/2207.06361v1)|null|
 |**2022-07-13**|**GAN with an Auxiliary Regressor for the Fast Simulation of the Electromagnetic Calorimeter Response**|Alexander Rogachev et.al.|[2207.06329v1](http://arxiv.org/abs/2207.06329v1)|null|
 |**2022-07-13**|**SURIMI: Supervised Radio Map Augmentation with Deep Learning and a Generative Adversarial Network for Fingerprint-based Indoor Positioning**|Darwin Quezada-Gaibor et.al.|[2207.06120v1](http://arxiv.org/abs/2207.06120v1)|null|
-|**2022-07-13**|**Eliminating Gradient Conflict in Reference-based Line-art Colorization**|Zekun Li et.al.|[2207.06095v1](http://arxiv.org/abs/2207.06095v1)|**[link](https://github.com/kunkun0w0/sga)**|
+|**2022-07-13**|**Eliminating Gradient Conflict in Reference-based Line-Art Colorization**|Zekun Li et.al.|[2207.06095v2](http://arxiv.org/abs/2207.06095v2)|**[link](https://github.com/kunkun0w0/sga)**|
 |**2022-07-13**|**Efficient Augmentation for Imbalanced Deep Learning**|Damien Dablain et.al.|[2207.06080v1](http://arxiv.org/abs/2207.06080v1)|null|
 |**2022-07-13**|**Subband-based Generative Adversarial Network for Non-parallel Many-to-many Voice Conversion**|Jian Ma et.al.|[2207.06057v1](http://arxiv.org/abs/2207.06057v1)|null|
 |**2022-07-13**|**Decentralized Online Convex Optimization in Networked Systems**|Yiheng Lin et.al.|[2207.05950v1](http://arxiv.org/abs/2207.05950v1)|null|
