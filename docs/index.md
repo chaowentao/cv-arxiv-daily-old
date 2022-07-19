@@ -344,6 +344,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-18**|**Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations**|Hashmat Shadab Malik et.al.|[2207.08803v1](http://arxiv.org/abs/2207.08803v1)|**[link](https://github.com/hashmatshadab/apr)**|
+|**2022-07-18**|**Multi-manifold Attention for Vision Transformers**|Dimitrios Konstantinidis et.al.|[2207.08569v1](http://arxiv.org/abs/2207.08569v1)|null|
+|**2022-07-18**|**TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers**|Jihao Liu et.al.|[2207.08409v1](http://arxiv.org/abs/2207.08409v1)|**[link](https://github.com/sense-x/tokenmix)**|
+|**2022-07-17**|**Security Evaluation of Compressible Image Encryption for Privacy-Preserving Image Classification against Ciphertext-only Attacks**|Tatsuya Chuman et.al.|[2207.08109v1](http://arxiv.org/abs/2207.08109v1)|null|
+|**2022-07-16**|**SSMTL++: Revisiting Self-Supervised Multi-Task Learning for Video Anomaly Detection**|Antonio Barbalau et.al.|[2207.08003v1](http://arxiv.org/abs/2207.08003v1)|null|
+|**2022-07-16**|**Explainable vision transformer enabled convolutional neural network for plant disease identification: PlantXViT**|Poornima Singh Thakur et.al.|[2207.07919v1](http://arxiv.org/abs/2207.07919v1)|null|
 |**2022-07-15**|**Parameterization of Cross-Token Relations with Relative Positional Encoding for Vision MLP**|Zhicai Wang et.al.|[2207.07284v1](http://arxiv.org/abs/2207.07284v1)|**[link](https://github.com/zhicaiwww/posmlp)**|
 |**2022-07-15**|**Lightweight Vision Transformer with Cross Feature Attention**|Youpeng Zhao et.al.|[2207.07268v1](http://arxiv.org/abs/2207.07268v1)|null|
 |**2022-07-14**|**Convolutional Bypasses Are Better Vision Transformer Adapters**|Shibo Jie et.al.|[2207.07039v2](http://arxiv.org/abs/2207.07039v2)|**[link](https://github.com/jieshibo/petl-vit)**|
@@ -766,6 +772,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-16**|**Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation**|Juze Zhang et.al.|[2207.07900v1](http://arxiv.org/abs/2207.07900v1)|null|
+|**2022-07-15**|**Human keypoint detection for close proximity human-robot interaction**|Jan Docekal et.al.|[2207.07742v1](http://arxiv.org/abs/2207.07742v1)|null|
+|**2022-07-15**|**Adversarial Focal Loss: Asking Your Discriminator for Hard Examples**|Chen Liu et.al.|[2207.07739v1](http://arxiv.org/abs/2207.07739v1)|null|
 |**2022-07-13**|**Rapid Person Re-Identification via Sub-space Consistency Regularization**|Qingze Yin et.al.|[2207.05933v1](http://arxiv.org/abs/2207.05933v1)|null|
 |**2022-07-12**|**Learning to Estimate External Forces of Human Motion in Video**|Nathan Louis et.al.|[2207.05845v1](http://arxiv.org/abs/2207.05845v1)|**[link](https://github.com/michigancog/forcepose)**|
 |**2022-07-07**|**PoseGU: 3D Human Pose Estimation with Novel Human Pose Generator and Unbiased Learning**|Shannan Guan et.al.|[2207.03618v1](http://arxiv.org/abs/2207.03618v1)|null|
@@ -895,6 +904,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-18**|**Interplay of thermalization and strong disorder: Wave turbulence theory, numerical simulations, and experiments in multimode optical fibers**|Nicolas Berti et.al.|[2207.08680v1](http://arxiv.org/abs/2207.08680v1)|null|
+|**2022-07-18**|**Visual Representations of Physiological Signals for Fake Video Detection**|Kalin Stefanov et.al.|[2207.08380v1](http://arxiv.org/abs/2207.08380v1)|null|
+|**2022-07-18**|**Large-scale matrix optimization based multi microgrid topology design with a constrained differential evolution algorithm**|Wenhua Li et.al.|[2207.08327v1](http://arxiv.org/abs/2207.08327v1)|null|
+|**2022-07-17**|**The Importance Markov Chain**|Charly Andral et.al.|[2207.08271v1](http://arxiv.org/abs/2207.08271v1)|null|
+|**2022-07-17**|**Sub-Sharvin charge transport in graphene-based Corbino disk**|Adam Rycerz et.al.|[2207.08239v1](http://arxiv.org/abs/2207.08239v1)|null|
+|**2022-07-17**|**FashionViL: Fashion-Focused Vision-and-Language Representation Learning**|Xiao Han et.al.|[2207.08150v1](http://arxiv.org/abs/2207.08150v1)|**[link](https://github.com/brandonhanx/mmf)**|
+|**2022-07-17**|**A Multibias-mitigated and Sentiment Knowledge Enriched Transformer for Debiasing in Multimodal Conversational Emotion Recognition**|Jinglin Wang et.al.|[2207.08104v1](http://arxiv.org/abs/2207.08104v1)|null|
+|**2022-07-16**|**Visually-aware Acoustic Event Detection using Heterogeneous Graphs**|Amir Shirian et.al.|[2207.07935v1](http://arxiv.org/abs/2207.07935v1)|**[link](https://github.com/amirsh15/vaed_hetergraph)**|
+|**2022-07-16**|**Multimodal Dialog Systems with Dual Knowledge-enhanced Generative Pretrained Language Model**|Xiaolin Chen et.al.|[2207.07934v1](http://arxiv.org/abs/2207.07934v1)|null|
 |**2022-07-15**|**Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models**|Rui Qian et.al.|[2207.07646v1](http://arxiv.org/abs/2207.07646v1)|null|
 |**2022-07-15**|**Brain MRI study for glioma segmentation using convolutional neural networks and original post-processing techniques with low computational demand**|José Gerardo Suárez-García Javier Miguel Hernández-López et.al.|[2207.07622v1](http://arxiv.org/abs/2207.07622v1)|null|
 |**2022-07-15**|**USegScene: Unsupervised Learning of Depth, Optical Flow and Ego-Motion with Semantic Guidance and Coupled Networks**|Johan Vertens et.al.|[2207.07469v1](http://arxiv.org/abs/2207.07469v1)|null|
@@ -1606,6 +1624,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-18**|**Towards Diverse and Faithful One-shot Adaption of Generative Adversarial Networks**|Yabo Zhang et.al.|[2207.08736v1](http://arxiv.org/abs/2207.08736v1)|**[link](https://github.com/1170300521/DiFa)**|
+|**2022-07-18**|**Angular Gap: Reducing the Uncertainty of Image Difficulty through Model Calibration**|Bohua Peng et.al.|[2207.08525v1](http://arxiv.org/abs/2207.08525v1)|null|
+|**2022-07-17**|**Coupling Adversarial Learning with Selective Voting Strategy for Distribution Alignment in Partial Domain Adaptation**|Sandipan Choudhuri et.al.|[2207.08145v1](http://arxiv.org/abs/2207.08145v1)|null|
+|**2022-07-17**|**Source-free Unsupervised Domain Adaptation for Blind Image Quality Assessment**|Jianzhao Liu et.al.|[2207.08124v1](http://arxiv.org/abs/2207.08124v1)|null|
+|**2022-07-17**|**Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition**|Yansong Tang et.al.|[2207.08095v1](http://arxiv.org/abs/2207.08095v1)|**[link](https://github.com/shanice-l/st-cubism)**|
 |**2022-07-15**|**Feed-Forward Source-Free Latent Domain Adaptation via Cross-Attention**|Ondrej Bohdal et.al.|[2207.07624v1](http://arxiv.org/abs/2207.07624v1)|null|
 |**2022-07-14**|**A Personalized Zero-Shot ECG Arrhythmia Monitoring System: From Sparse Representation Based Domain Adaption to Energy Efficient Abnormal Beat Detection for Practical ECG Surveillance**|Mehmet Yamaç et.al.|[2207.07089v1](http://arxiv.org/abs/2207.07089v1)|**[link](https://github.com/mertduman/zero-shot-ecg)**|
 |**2022-07-14**|**Refign: Align and Refine for Adaptation of Semantic Segmentation to Adverse Conditions**|David Bruggemann et.al.|[2207.06825v1](http://arxiv.org/abs/2207.06825v1)|**[link](https://github.com/brdav/refign)**|
@@ -2095,6 +2118,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-18**|**Milky Way-like galaxies: stellar population properties of dynamically defined disks, bulges and stellar halos**|Sara Ortega-Martinez et.al.|[2207.08776v1](http://arxiv.org/abs/2207.08776v1)|null|
+|**2022-07-18**|**Towards Diverse and Faithful One-shot Adaption of Generative Adversarial Networks**|Yabo Zhang et.al.|[2207.08736v1](http://arxiv.org/abs/2207.08736v1)|**[link](https://github.com/1170300521/DiFa)**|
+|**2022-07-18**|**GOAL: Towards Benchmarking Few-Shot Sports Game Summarization**|Jiaan Wang et.al.|[2207.08635v1](http://arxiv.org/abs/2207.08635v1)|**[link](https://github.com/krystalan/goal)**|
+|**2022-07-18**|**FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs**|Ziqiang Li et.al.|[2207.08630v1](http://arxiv.org/abs/2207.08630v1)|**[link](https://github.com/iceli1007/fakeclr)**|
+|**2022-07-18**|**Dense Cross-Query-and-Support Attention Weighted Mask Aggregation for Few-Shot Segmentation**|Xinyu Shi et.al.|[2207.08549v1](http://arxiv.org/abs/2207.08549v1)|**[link](https://github.com/pawn-sxy/dcama)**|
+|**2022-07-18**|**Few-shot Fine-grained Image Classification via Multi-Frequency Neighborhood and Double-cross Modulation**|Hegui Zhu et.al.|[2207.08547v1](http://arxiv.org/abs/2207.08547v1)|null|
+|**2022-07-18**|**BrainCog: A Spiking Neural Network based Brain-inspired Cognitive Intelligence Engine for Brain-inspired AI and Brain Simulation**|Yi Zeng et.al.|[2207.08533v1](http://arxiv.org/abs/2207.08533v1)|null|
+|**2022-07-18**|**Angular Gap: Reducing the Uncertainty of Image Difficulty through Model Calibration**|Bohua Peng et.al.|[2207.08525v1](http://arxiv.org/abs/2207.08525v1)|null|
+|**2022-07-18**|**Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation**|Gensheng Pei et.al.|[2207.08485v1](http://arxiv.org/abs/2207.08485v1)|**[link](https://github.com/NUST-Machine-Intelligence-Laboratory/HFAN)**|
+|**2022-07-18**|**Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding**|Quande Liu et.al.|[2207.08455v1](http://arxiv.org/abs/2207.08455v1)|null|
+|**2022-07-18**|**STT: Soft Template Tuning for Few-Shot Adaptation**|Ping Yu et.al.|[2207.08408v1](http://arxiv.org/abs/2207.08408v1)|null|
+|**2022-07-17**|**CULT: Continual Unsupervised Learning with Typicality-Based Environment Detection**|Oliver Daniels-Koch et.al.|[2207.08309v1](http://arxiv.org/abs/2207.08309v1)|**[link](https://github.com/oliveradk/cult)**|
+|**2022-07-17**|**Less Training, More Repairing Please: Revisiting Automated Program Repair via Zero-shot Learning**|Chunqiu Steven Xia et.al.|[2207.08281v1](http://arxiv.org/abs/2207.08281v1)|null|
+|**2022-07-17**|**BIP: Boost Invariant Polynomials for Efficient Jet Tagging**|Jose M Munoz et.al.|[2207.08272v1](http://arxiv.org/abs/2207.08272v1)|null|
+|**2022-07-17**|**Online Lewis Weight Sampling**|David P. Woodruff et.al.|[2207.08268v1](http://arxiv.org/abs/2207.08268v1)|null|
+|**2022-07-17**|**Unsupervised Medical Image Translation with Adversarial Diffusion Models**|Muzaffer Özbey et.al.|[2207.08208v1](http://arxiv.org/abs/2207.08208v1)|null|
+|**2022-07-17**|**Stroke-Based Autoencoders: Self-Supervised Learners for Efficient Zero-Shot Chinese Character Recognition**|Zongze Chen et.al.|[2207.08191v1](http://arxiv.org/abs/2207.08191v1)|null|
+|**2022-07-17**|**Zero-Shot Temporal Action Detection via Vision-Language Prompting**|Sauradip Nag et.al.|[2207.08184v1](http://arxiv.org/abs/2207.08184v1)|**[link](https://github.com/sauradip/stale)**|
+|**2022-07-17**|**Task-aware Similarity Learning for Event-triggered Time Series**|Shaoyu Dou et.al.|[2207.08159v1](http://arxiv.org/abs/2207.08159v1)|null|
+|**2022-07-17**|**Can large language models reason about medical questions?**|Valentin Liévin et.al.|[2207.08143v1](http://arxiv.org/abs/2207.08143v1)|null|
 |**2022-07-15**|**Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models**|Rui Qian et.al.|[2207.07646v1](http://arxiv.org/abs/2207.07646v1)|null|
 |**2022-07-15**|**Mixture-of-theories Training: Can We Find New Physics and Anomalies Better by Mixing Physical Theories?**|Sascha Caron et.al.|[2207.07631v1](http://arxiv.org/abs/2207.07631v1)|null|
 |**2022-07-15**|**GUSOT: Green and Unsupervised Single Object Tracking for Long Video Sequences**|Zhiruo Zhou et.al.|[2207.07629v1](http://arxiv.org/abs/2207.07629v1)|null|
@@ -4332,6 +4375,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-18**|**Network medicine framework reveals generic herb-symptom effectiveness of Traditional Chinese Medicine**|Xiao Gan et.al.|[2207.08731v1](http://arxiv.org/abs/2207.08731v1)|null|
+|**2022-07-15**|**Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity**|Wei Zhou et.al.|[2207.08689v1](http://arxiv.org/abs/2207.08689v1)|**[link](https://github.com/weizhou-geek/srif)**|
+|**2022-07-18**|**FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs**|Ziqiang Li et.al.|[2207.08630v1](http://arxiv.org/abs/2207.08630v1)|**[link](https://github.com/iceli1007/fakeclr)**|
+|**2022-07-17**|**GANzilla: User-Driven Direction Discovery in Generative Adversarial Networks**|Noyan Evirgen et.al.|[2207.08320v1](http://arxiv.org/abs/2207.08320v1)|null|
+|**2022-07-17**|**MLP-GAN for Brain Vessel Image Segmentation**|Bin Xie et.al.|[2207.08265v1](http://arxiv.org/abs/2207.08265v1)|null|
+|**2022-07-17**|**Unsupervised Medical Image Translation with Adversarial Diffusion Models**|Muzaffer Özbey et.al.|[2207.08208v1](http://arxiv.org/abs/2207.08208v1)|null|
+|**2022-07-17**|**Editing Out-of-domain GAN Inversion via Differential Activations**|Haorui Song et.al.|[2207.08134v1](http://arxiv.org/abs/2207.08134v1)|null|
+|**2022-07-15**|**Combinatorics of generalized Dyck and Motzkin paths**|Li Gan et.al.|[2207.07664v1](http://arxiv.org/abs/2207.07664v1)|null|
 |**2022-07-15**|**Feasibility of Inconspicuous GAN-generated Adversarial Patches against Object Detection**|Svetlana Pavlitskaya et.al.|[2207.07347v1](http://arxiv.org/abs/2207.07347v1)|null|
 |**2022-07-15**|**Towards Better Dermoscopic Image Feature Representation Learning for Melanoma Classification**|ChengHui Yu et.al.|[2207.07303v1](http://arxiv.org/abs/2207.07303v1)|**[link](https://github.com/kirtsy/dermoscopicdataset)**|
 |**2022-07-15**|**Complementary Vanishing Graphs**|Craig Erickson et.al.|[2207.07294v1](http://arxiv.org/abs/2207.07294v1)|null|
