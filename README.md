@@ -62,6 +62,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-19**|**A subwavelength atomic array switched by a single Rydberg atom**|Kritsana Srakaew et.al.|[2207.09383v1](http://arxiv.org/abs/2207.09383v1)|null|
 |**2022-07-13**|**Semi-classical gravity phenomenology under the causal-conditional quantum measurement prescription**|Yubao Liu et.al.|[2207.05966v1](http://arxiv.org/abs/2207.05966v1)|null|
 |**2022-07-12**|**Emergent Schrödinger cat states during superradiant phase transitions**|Ri-Hua Zheng et.al.|[2207.05512v2](http://arxiv.org/abs/2207.05512v2)|null|
 |**2022-07-11**|**Topological Transformation and Free-Space Transport of Photonic Hopfions**|Yijie Shen et.al.|[2207.05074v1](http://arxiv.org/abs/2207.05074v1)|null|
@@ -192,6 +193,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-19**|**Towards Trustworthy Healthcare AI: Attention-Based Feature Learning for COVID-19 Screening With Chest Radiography**|Kai Ma et.al.|[2207.09312v1](http://arxiv.org/abs/2207.09312v1)|null|
+|**2022-07-18**|**Is Integer Arithmetic Enough for Deep Learning Training?**|Alireza Ghaffari et.al.|[2207.08822v1](http://arxiv.org/abs/2207.08822v1)|null|
 |**2022-07-18**|**Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations**|Hashmat Shadab Malik et.al.|[2207.08803v1](http://arxiv.org/abs/2207.08803v1)|**[link](https://github.com/hashmatshadab/apr)**|
 |**2022-07-18**|**Multi-manifold Attention for Vision Transformers**|Dimitrios Konstantinidis et.al.|[2207.08569v1](http://arxiv.org/abs/2207.08569v1)|null|
 |**2022-07-18**|**TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers**|Jihao Liu et.al.|[2207.08409v1](http://arxiv.org/abs/2207.08409v1)|**[link](https://github.com/sense-x/tokenmix)**|
@@ -620,6 +623,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-19**|**Computer Vision to the Rescue: Infant Postural Symmetry Estimation from Incongruent Annotations**|Xiaofei Huang et.al.|[2207.09352v1](http://arxiv.org/abs/2207.09352v1)|null|
+|**2022-07-19**|**DH-AUG: DH Forward Kinematics Model Driven Augmentation for 3D Human Pose Estimation**|Linzhi Huang et.al.|[2207.09303v1](http://arxiv.org/abs/2207.09303v1)|null|
 |**2022-07-16**|**Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation**|Juze Zhang et.al.|[2207.07900v1](http://arxiv.org/abs/2207.07900v1)|null|
 |**2022-07-15**|**Human keypoint detection for close proximity human-robot interaction**|Jan Docekal et.al.|[2207.07742v1](http://arxiv.org/abs/2207.07742v1)|null|
 |**2022-07-15**|**Adversarial Focal Loss: Asking Your Discriminator for Hard Examples**|Chen Liu et.al.|[2207.07739v1](http://arxiv.org/abs/2207.07739v1)|null|
@@ -752,6 +757,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-19**|**Balancing the trade-off between cost and reliability for wireless sensor networks: a multi-objective optimized deployment method**|Long Chen et.al.|[2207.09089v1](http://arxiv.org/abs/2207.09089v1)|**[link](https://github.com/iNet-WZU/CMOMPA)**|
+|**2022-07-17**|**Fusion of Physiological and Behavioural Signals on SPD Manifolds with Application to Stress and Pain Detection**|Yujin WU et.al.|[2207.08811v1](http://arxiv.org/abs/2207.08811v1)|null|
 |**2022-07-18**|**Interplay of thermalization and strong disorder: Wave turbulence theory, numerical simulations, and experiments in multimode optical fibers**|Nicolas Berti et.al.|[2207.08680v1](http://arxiv.org/abs/2207.08680v1)|null|
 |**2022-07-18**|**Visual Representations of Physiological Signals for Fake Video Detection**|Kalin Stefanov et.al.|[2207.08380v1](http://arxiv.org/abs/2207.08380v1)|null|
 |**2022-07-18**|**Large-scale matrix optimization based multi microgrid topology design with a constrained differential evolution algorithm**|Wenhua Li et.al.|[2207.08327v1](http://arxiv.org/abs/2207.08327v1)|null|
@@ -1472,6 +1479,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-19**|**Model independent measurements of Standard Model cross sections with Domain Adaptation**|Benedetta Camaiani et.al.|[2207.09293v1](http://arxiv.org/abs/2207.09293v1)|null|
+|**2022-07-19**|**Exploiting Inter-Sample Affinity for Knowability-Aware Universal Domain Adaptation**|Yifan Wang et.al.|[2207.09280v1](http://arxiv.org/abs/2207.09280v1)|null|
+|**2022-07-19**|**Similarity of Pre-trained and Fine-tuned Representations**|Thomas Goerttler et.al.|[2207.09225v1](http://arxiv.org/abs/2207.09225v1)|null|
+|**2022-07-19**|**VoloGAN: Adversarial Domain Adaptation for Synthetic Depth Data**|Sascha Kirch et.al.|[2207.09204v1](http://arxiv.org/abs/2207.09204v1)|null|
+|**2022-07-19**|**Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution**|Xiaoyu Dong et.al.|[2207.09156v1](http://arxiv.org/abs/2207.09156v1)|null|
+|**2022-07-19**|**ML-BPM: Multi-teacher Learning with Bidirectional Photometric Mixing for Open Compound Domain Adaptation in Semantic Segmentation**|Fei Pan et.al.|[2207.09045v1](http://arxiv.org/abs/2207.09045v1)|null|
+|**2022-07-18**|**Multi-step domain adaptation by adversarial attack to $\mathcal{H} Δ\mathcal{H}$-divergence**|Arip Asadulaev et.al.|[2207.08948v1](http://arxiv.org/abs/2207.08948v1)|null|
+|**2022-07-18**|**Prior Knowledge Guided Unsupervised Domain Adaptation**|Tao Sun et.al.|[2207.08877v1](http://arxiv.org/abs/2207.08877v1)|null|
 |**2022-07-18**|**Towards Diverse and Faithful One-shot Adaption of Generative Adversarial Networks**|Yabo Zhang et.al.|[2207.08736v1](http://arxiv.org/abs/2207.08736v1)|**[link](https://github.com/1170300521/DiFa)**|
 |**2022-07-18**|**Angular Gap: Reducing the Uncertainty of Image Difficulty through Model Calibration**|Bohua Peng et.al.|[2207.08525v1](http://arxiv.org/abs/2207.08525v1)|null|
 |**2022-07-17**|**Coupling Adversarial Learning with Selective Voting Strategy for Distribution Alignment in Partial Domain Adaptation**|Sandipan Choudhuri et.al.|[2207.08145v1](http://arxiv.org/abs/2207.08145v1)|null|
@@ -1966,6 +1981,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-19**|**Human-to-Robot Imitation in the Wild**|Shikhar Bahl et.al.|[2207.09450v1](http://arxiv.org/abs/2207.09450v1)|null|
+|**2022-07-19**|**Machine learning approach to genome of two-dimensional materials with flat electronic bands**|Anupam Bhattacharya et.al.|[2207.09444v1](http://arxiv.org/abs/2207.09444v1)|null|
+|**2022-07-19**|**Few-Shot Teamwork**|Elliot Fosong et.al.|[2207.09300v1](http://arxiv.org/abs/2207.09300v1)|null|
+|**2022-07-19**|**Don't Stop Learning: Towards Continual Learning for the CLIP Model**|Yuxuan Ding et.al.|[2207.09248v1](http://arxiv.org/abs/2207.09248v1)|null|
+|**2022-07-19**|**Assaying Out-Of-Distribution Generalization in Transfer Learning**|Florian Wenzel et.al.|[2207.09239v1](http://arxiv.org/abs/2207.09239v1)|null|
+|**2022-07-19**|**Similarity of Pre-trained and Fine-tuned Representations**|Thomas Goerttler et.al.|[2207.09225v1](http://arxiv.org/abs/2207.09225v1)|null|
+|**2022-07-19**|**Self-Supervision Can Be a Good Few-Shot Learner**|Yuning Lu et.al.|[2207.09176v1](http://arxiv.org/abs/2207.09176v1)|**[link](https://github.com/bbbdylan/unisiam)**|
+|**2022-07-19**|**FedX: Unsupervised Federated Learning with Cross Knowledge Distillation**|Sungwon Han et.al.|[2207.09158v1](http://arxiv.org/abs/2207.09158v1)|null|
+|**2022-07-19**|**On the cross-lingual transferability of multilingual prototypical models across NLU tasks**|Oralie Cattan et.al.|[2207.09157v1](http://arxiv.org/abs/2207.09157v1)|null|
+|**2022-07-19**|**ReBoot: Distributed statistical learning via refitting Bootstrap samples**|Yumeng Wang et.al.|[2207.09098v1](http://arxiv.org/abs/2207.09098v1)|null|
+|**2022-07-19**|**MHR-Net: Multiple-Hypothesis Reconstruction of Non-Rigid Shapes from 2D Views**|Haitian Zeng et.al.|[2207.09086v1](http://arxiv.org/abs/2207.09086v1)|null|
+|**2022-07-19**|**Few-shot Open-set Recognition Using Background as Unknowns**|Nan Song et.al.|[2207.09059v1](http://arxiv.org/abs/2207.09059v1)|null|
+|**2022-07-18**|**Multi-step domain adaptation by adversarial attack to $\mathcal{H} Δ\mathcal{H}$-divergence**|Arip Asadulaev et.al.|[2207.08948v1](http://arxiv.org/abs/2207.08948v1)|null|
+|**2022-07-18**|**Learning Sparsity-Promoting Regularizers using Bilevel Optimization**|Avrajit Ghosh et.al.|[2207.08939v1](http://arxiv.org/abs/2207.08939v1)|null|
+|**2022-07-18**|**Prior Knowledge Guided Unsupervised Domain Adaptation**|Tao Sun et.al.|[2207.08877v1](http://arxiv.org/abs/2207.08877v1)|null|
 |**2022-07-18**|**Milky Way-like galaxies: stellar population properties of dynamically defined disks, bulges and stellar halos**|Sara Ortega-Martinez et.al.|[2207.08776v1](http://arxiv.org/abs/2207.08776v1)|null|
 |**2022-07-18**|**Towards Diverse and Faithful One-shot Adaption of Generative Adversarial Networks**|Yabo Zhang et.al.|[2207.08736v1](http://arxiv.org/abs/2207.08736v1)|**[link](https://github.com/1170300521/DiFa)**|
 |**2022-07-18**|**GOAL: Towards Benchmarking Few-Shot Sports Game Summarization**|Jiaan Wang et.al.|[2207.08635v1](http://arxiv.org/abs/2207.08635v1)|**[link](https://github.com/krystalan/goal)**|
@@ -4223,13 +4253,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-19**|**Image Synthesis with Disentangled Attributes for Chest X-Ray Nodule Augmentation and Detection**|Zhenrong Shen et.al.|[2207.09389v1](http://arxiv.org/abs/2207.09389v1)|null|
+|**2022-07-19**|**Cycle Encoding of a StyleGAN Encoder for Improved Reconstruction and Editability**|Xudong Mao et.al.|[2207.09367v1](http://arxiv.org/abs/2207.09367v1)|null|
+|**2022-07-16**|**Do uHear? Validation of uHear App for Preliminary Screening of Hearing Ability in Soundscape Studies**|Zhen-Ting Ong et.al.|[2207.09221v1](http://arxiv.org/abs/2207.09221v1)|**[link](https://github.com/ntudsp/douhear)**|
+|**2022-07-19**|**VoloGAN: Adversarial Domain Adaptation for Synthetic Depth Data**|Sascha Kirch et.al.|[2207.09204v1](http://arxiv.org/abs/2207.09204v1)|null|
+|**2022-07-18**|**Capabilities, Limitations and Challenges of Style Transfer with CycleGANs: A Study on Automatic Ring Design Generation**|Tomas Cabezon Pedroso et.al.|[2207.08989v1](http://arxiv.org/abs/2207.08989v1)|null|
+|**2022-07-18**|**Audio Input Generates Continuous Frames to Synthesize Facial Video Using Generative Adiversarial Networks**|Hanhaodi Zhang et.al.|[2207.08813v1](http://arxiv.org/abs/2207.08813v1)|null|
 |**2022-07-18**|**Network medicine framework reveals generic herb-symptom effectiveness of Traditional Chinese Medicine**|Xiao Gan et.al.|[2207.08731v1](http://arxiv.org/abs/2207.08731v1)|null|
 |**2022-07-15**|**Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity**|Wei Zhou et.al.|[2207.08689v1](http://arxiv.org/abs/2207.08689v1)|**[link](https://github.com/weizhou-geek/srif)**|
 |**2022-07-18**|**FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs**|Ziqiang Li et.al.|[2207.08630v2](http://arxiv.org/abs/2207.08630v2)|**[link](https://github.com/iceli1007/fakeclr)**|
 |**2022-07-17**|**GANzilla: User-Driven Direction Discovery in Generative Adversarial Networks**|Noyan Evirgen et.al.|[2207.08320v1](http://arxiv.org/abs/2207.08320v1)|null|
 |**2022-07-17**|**MLP-GAN for Brain Vessel Image Segmentation**|Bin Xie et.al.|[2207.08265v1](http://arxiv.org/abs/2207.08265v1)|null|
 |**2022-07-17**|**Unsupervised Medical Image Translation with Adversarial Diffusion Models**|Muzaffer Özbey et.al.|[2207.08208v1](http://arxiv.org/abs/2207.08208v1)|null|
-|**2022-07-17**|**Editing Out-of-domain GAN Inversion via Differential Activations**|Haorui Song et.al.|[2207.08134v1](http://arxiv.org/abs/2207.08134v1)|null|
+|**2022-07-17**|**Editing Out-of-domain GAN Inversion via Differential Activations**|Haorui Song et.al.|[2207.08134v1](http://arxiv.org/abs/2207.08134v1)|**[link](https://github.com/haoruisong622/editing-out-of-domain)**|
 |**2022-07-15**|**Combinatorics of generalized Dyck and Motzkin paths**|Li Gan et.al.|[2207.07664v1](http://arxiv.org/abs/2207.07664v1)|null|
 |**2022-07-15**|**Feasibility of Inconspicuous GAN-generated Adversarial Patches against Object Detection**|Svetlana Pavlitskaya et.al.|[2207.07347v1](http://arxiv.org/abs/2207.07347v1)|null|
 |**2022-07-15**|**Towards Better Dermoscopic Image Feature Representation Learning for Melanoma Classification**|ChengHui Yu et.al.|[2207.07303v1](http://arxiv.org/abs/2207.07303v1)|**[link](https://github.com/kirtsy/dermoscopicdataset)**|
