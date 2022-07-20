@@ -1,4 +1,4 @@
-## Updated on 2022.07.19
+## Updated on 2022.07.20
 
 ## Image Generation
 
@@ -63,7 +63,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-07-13**|**Semi-classical gravity phenomenology under the causal-conditional quantum measurement prescription**|Yubao Liu et.al.|[2207.05966v1](http://arxiv.org/abs/2207.05966v1)|null|
-|**2022-07-12**|**Emergent Schrödinger cat states during superradiant phase transitions**|Ri-Hua Zheng et.al.|[2207.05512v1](http://arxiv.org/abs/2207.05512v1)|null|
+|**2022-07-12**|**Emergent Schrödinger cat states during superradiant phase transitions**|Ri-Hua Zheng et.al.|[2207.05512v2](http://arxiv.org/abs/2207.05512v2)|null|
 |**2022-07-11**|**Topological Transformation and Free-Space Transport of Photonic Hopfions**|Yijie Shen et.al.|[2207.05074v1](http://arxiv.org/abs/2207.05074v1)|null|
 |**2022-07-11**|**A Learned Radiance-Field Representation for Complex Luminaires**|Jorge Condor et.al.|[2207.05009v1](http://arxiv.org/abs/2207.05009v1)|null|
 |**2022-07-11**|**Self-healing of structured light: a review**|Yijie Shen et.al.|[2207.04767v1](http://arxiv.org/abs/2207.04767v1)|null|
@@ -1969,13 +1969,13 @@
 |**2022-07-18**|**Milky Way-like galaxies: stellar population properties of dynamically defined disks, bulges and stellar halos**|Sara Ortega-Martinez et.al.|[2207.08776v1](http://arxiv.org/abs/2207.08776v1)|null|
 |**2022-07-18**|**Towards Diverse and Faithful One-shot Adaption of Generative Adversarial Networks**|Yabo Zhang et.al.|[2207.08736v1](http://arxiv.org/abs/2207.08736v1)|**[link](https://github.com/1170300521/DiFa)**|
 |**2022-07-18**|**GOAL: Towards Benchmarking Few-Shot Sports Game Summarization**|Jiaan Wang et.al.|[2207.08635v1](http://arxiv.org/abs/2207.08635v1)|**[link](https://github.com/krystalan/goal)**|
-|**2022-07-18**|**FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs**|Ziqiang Li et.al.|[2207.08630v1](http://arxiv.org/abs/2207.08630v1)|**[link](https://github.com/iceli1007/fakeclr)**|
+|**2022-07-18**|**FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs**|Ziqiang Li et.al.|[2207.08630v2](http://arxiv.org/abs/2207.08630v2)|**[link](https://github.com/iceli1007/fakeclr)**|
 |**2022-07-18**|**Dense Cross-Query-and-Support Attention Weighted Mask Aggregation for Few-Shot Segmentation**|Xinyu Shi et.al.|[2207.08549v1](http://arxiv.org/abs/2207.08549v1)|**[link](https://github.com/pawn-sxy/dcama)**|
-|**2022-07-18**|**Few-shot Fine-grained Image Classification via Multi-Frequency Neighborhood and Double-cross Modulation**|Hegui Zhu et.al.|[2207.08547v1](http://arxiv.org/abs/2207.08547v1)|null|
+|**2022-07-18**|**Few-shot Fine-grained Image Classification via Multi-Frequency Neighborhood and Double-cross Modulation**|Hegui Zhu et.al.|[2207.08547v1](http://arxiv.org/abs/2207.08547v1)|**[link](https://github.com/chengqingli/ficnet)**|
 |**2022-07-18**|**BrainCog: A Spiking Neural Network based Brain-inspired Cognitive Intelligence Engine for Brain-inspired AI and Brain Simulation**|Yi Zeng et.al.|[2207.08533v1](http://arxiv.org/abs/2207.08533v1)|null|
 |**2022-07-18**|**Angular Gap: Reducing the Uncertainty of Image Difficulty through Model Calibration**|Bohua Peng et.al.|[2207.08525v1](http://arxiv.org/abs/2207.08525v1)|null|
-|**2022-07-18**|**Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation**|Gensheng Pei et.al.|[2207.08485v1](http://arxiv.org/abs/2207.08485v1)|**[link](https://github.com/NUST-Machine-Intelligence-Laboratory/HFAN)**|
-|**2022-07-18**|**Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding**|Quande Liu et.al.|[2207.08455v1](http://arxiv.org/abs/2207.08455v1)|null|
+|**2022-07-18**|**Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation**|Gensheng Pei et.al.|[2207.08485v2](http://arxiv.org/abs/2207.08485v2)|**[link](https://github.com/NUST-Machine-Intelligence-Laboratory/HFAN)**|
+|**2022-07-18**|**Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding**|Quande Liu et.al.|[2207.08455v2](http://arxiv.org/abs/2207.08455v2)|null|
 |**2022-07-18**|**STT: Soft Template Tuning for Few-Shot Adaptation**|Ping Yu et.al.|[2207.08408v1](http://arxiv.org/abs/2207.08408v1)|null|
 |**2022-07-17**|**CULT: Continual Unsupervised Learning with Typicality-Based Environment Detection**|Oliver Daniels-Koch et.al.|[2207.08309v1](http://arxiv.org/abs/2207.08309v1)|**[link](https://github.com/oliveradk/cult)**|
 |**2022-07-17**|**Less Training, More Repairing Please: Revisiting Automated Program Repair via Zero-shot Learning**|Chunqiu Steven Xia et.al.|[2207.08281v1](http://arxiv.org/abs/2207.08281v1)|null|
@@ -4117,7 +4117,7 @@
 |**2022-07-10**|**Progressively-connected Light Field Network for Efficient View Synthesis**|Peng Wang et.al.|[2207.04465v1](http://arxiv.org/abs/2207.04465v1)|null|
 |**2022-07-06**|**VMRF: View Matching Neural Radiance Fields**|Jiahui Zhang et.al.|[2207.02621v1](http://arxiv.org/abs/2207.02621v1)|null|
 |**2022-07-05**|**SNeRF: Stylized Neural Implicit Representations for 3D Scenes**|Thu Nguyen-Phuoc et.al.|[2207.02363v1](http://arxiv.org/abs/2207.02363v1)|null|
-|**2022-07-04**|**LaTeRF: Label and Text Driven Object Radiance Fields**|Ashkan Mirzaei et.al.|[2207.01583v2](http://arxiv.org/abs/2207.01583v2)|null|
+|**2022-07-04**|**LaTeRF: Label and Text Driven Object Radiance Fields**|Ashkan Mirzaei et.al.|[2207.01583v3](http://arxiv.org/abs/2207.01583v3)|null|
 |**2022-07-04**|**Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations**|Tianlong Chen et.al.|[2207.01164v1](http://arxiv.org/abs/2207.01164v1)|**[link](https://github.com/vita-group/aug-nerf)**|
 |**2022-06-29**|**NeRF, meet differential geometry!**|Thibaud Ehret et.al.|[2206.14938v1](http://arxiv.org/abs/2206.14938v1)|null|
 |**2022-06-24**|**Ev-NeRF: Event Based Neural Radiance Field**|Inwoo Hwang et.al.|[2206.12455v1](http://arxiv.org/abs/2206.12455v1)|null|
@@ -4225,7 +4225,7 @@
 |---|---|---|---|---|
 |**2022-07-18**|**Network medicine framework reveals generic herb-symptom effectiveness of Traditional Chinese Medicine**|Xiao Gan et.al.|[2207.08731v1](http://arxiv.org/abs/2207.08731v1)|null|
 |**2022-07-15**|**Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity**|Wei Zhou et.al.|[2207.08689v1](http://arxiv.org/abs/2207.08689v1)|**[link](https://github.com/weizhou-geek/srif)**|
-|**2022-07-18**|**FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs**|Ziqiang Li et.al.|[2207.08630v1](http://arxiv.org/abs/2207.08630v1)|**[link](https://github.com/iceli1007/fakeclr)**|
+|**2022-07-18**|**FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs**|Ziqiang Li et.al.|[2207.08630v2](http://arxiv.org/abs/2207.08630v2)|**[link](https://github.com/iceli1007/fakeclr)**|
 |**2022-07-17**|**GANzilla: User-Driven Direction Discovery in Generative Adversarial Networks**|Noyan Evirgen et.al.|[2207.08320v1](http://arxiv.org/abs/2207.08320v1)|null|
 |**2022-07-17**|**MLP-GAN for Brain Vessel Image Segmentation**|Bin Xie et.al.|[2207.08265v1](http://arxiv.org/abs/2207.08265v1)|null|
 |**2022-07-17**|**Unsupervised Medical Image Translation with Adversarial Diffusion Models**|Muzaffer Özbey et.al.|[2207.08208v1](http://arxiv.org/abs/2207.08208v1)|null|
