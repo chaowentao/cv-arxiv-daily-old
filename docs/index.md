@@ -345,6 +345,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-20**|**Locality Guidance for Improving Vision Transformers on Tiny Datasets**|Kehan Li et.al.|[2207.10026v1](http://arxiv.org/abs/2207.10026v1)|**[link](https://github.com/lkhl/tiny-transformers)**|
+|**2022-07-20**|**ViGAT: Bottom-up event recognition and explanation in video using factorized graph attention network**|Nikolaos Gkalelis et.al.|[2207.09927v1](http://arxiv.org/abs/2207.09927v1)|null|
+|**2022-07-20**|**Unsupervised Industrial Anomaly Detection via Pattern Generative and Contrastive Networks**|Jianfeng Huang et.al.|[2207.09792v1](http://arxiv.org/abs/2207.09792v1)|null|
+|**2022-07-20**|**AU-Supervised Convolutional Vision Transformers for Synthetic Facial Expression Recognition**|Shuyi Mao et.al.|[2207.09777v1](http://arxiv.org/abs/2207.09777v1)|**[link](https://github.com/msy1412/abaw4)**|
+|**2022-07-20**|**On the Versatile Uses of Partial Distance Correlation in Deep Learning**|Xingjian Zhen et.al.|[2207.09684v1](http://arxiv.org/abs/2207.09684v1)|**[link](https://github.com/zhenxingjian/partial_distance_correlation)**|
 |**2022-07-19**|**Towards Trustworthy Healthcare AI: Attention-Based Feature Learning for COVID-19 Screening With Chest Radiography**|Kai Ma et.al.|[2207.09312v1](http://arxiv.org/abs/2207.09312v1)|null|
 |**2022-07-18**|**Is Integer Arithmetic Enough for Deep Learning Training?**|Alireza Ghaffari et.al.|[2207.08822v1](http://arxiv.org/abs/2207.08822v1)|null|
 |**2022-07-18**|**Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations**|Hashmat Shadab Malik et.al.|[2207.08803v1](http://arxiv.org/abs/2207.08803v1)|**[link](https://github.com/hashmatshadab/apr)**|
@@ -775,8 +780,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-07-19**|**Computer Vision to the Rescue: Infant Postural Symmetry Estimation from Incongruent Annotations**|Xiaofei Huang et.al.|[2207.09352v1](http://arxiv.org/abs/2207.09352v1)|null|
-|**2022-07-19**|**DH-AUG: DH Forward Kinematics Model Driven Augmentation for 3D Human Pose Estimation**|Linzhi Huang et.al.|[2207.09303v1](http://arxiv.org/abs/2207.09303v1)|null|
+|**2022-07-20**|**OTPose: Occlusion-Aware Transformer for Pose Estimation in Sparsely-Labeled Videos**|Kyung-Min Jin et.al.|[2207.09725v1](http://arxiv.org/abs/2207.09725v1)|null|
+|**2022-07-19**|**Computer Vision to the Rescue: Infant Postural Symmetry Estimation from Incongruent Annotations**|Xiaofei Huang et.al.|[2207.09352v1](http://arxiv.org/abs/2207.09352v1)|**[link](https://github.com/ostadabbas/infant-postural-symmetry)**|
+|**2022-07-19**|**DH-AUG: DH Forward Kinematics Model Driven Augmentation for 3D Human Pose Estimation**|Linzhi Huang et.al.|[2207.09303v1](http://arxiv.org/abs/2207.09303v1)|**[link](https://github.com/hlz0606/dh-aug-dh-forward-kinematics-model-driven-augmentation-for-3d-human-pose-estimation)**|
 |**2022-07-16**|**Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation**|Juze Zhang et.al.|[2207.07900v1](http://arxiv.org/abs/2207.07900v1)|null|
 |**2022-07-15**|**Human keypoint detection for close proximity human-robot interaction**|Jan Docekal et.al.|[2207.07742v1](http://arxiv.org/abs/2207.07742v1)|null|
 |**2022-07-15**|**Adversarial Focal Loss: Asking Your Discriminator for Hard Examples**|Chen Liu et.al.|[2207.07739v1](http://arxiv.org/abs/2207.07739v1)|null|
@@ -909,6 +915,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-20**|**Wigner Function Tomography via Optical Parametric Amplification**|Mahmoud Kalash et.al.|[2207.10030v1](http://arxiv.org/abs/2207.10030v1)|null|
+|**2022-07-20**|**Multimodal Transformer for Automatic 3D Annotation and Object Detection**|Chang Liu et.al.|[2207.09805v1](http://arxiv.org/abs/2207.09805v1)|**[link](https://github.com/cliu2/mtrans)**|
 |**2022-07-19**|**Balancing the trade-off between cost and reliability for wireless sensor networks: a multi-objective optimized deployment method**|Long Chen et.al.|[2207.09089v1](http://arxiv.org/abs/2207.09089v1)|**[link](https://github.com/iNet-WZU/CMOMPA)**|
 |**2022-07-17**|**Fusion of Physiological and Behavioural Signals on SPD Manifolds with Application to Stress and Pain Detection**|Yujin WU et.al.|[2207.08811v1](http://arxiv.org/abs/2207.08811v1)|null|
 |**2022-07-18**|**Interplay of thermalization and strong disorder: Wave turbulence theory, numerical simulations, and experiments in multimode optical fibers**|Nicolas Berti et.al.|[2207.08680v1](http://arxiv.org/abs/2207.08680v1)|null|
@@ -1631,14 +1639,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-20**|**Generative Domain Adaptation for Face Anti-Spoofing**|Qianyu Zhou et.al.|[2207.10015v1](http://arxiv.org/abs/2207.10015v1)|null|
+|**2022-07-20**|**DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation**|Xin Lai et.al.|[2207.09988v1](http://arxiv.org/abs/2207.09988v1)|**[link](https://github.com/dvlab-research/decouplenet)**|
+|**2022-07-20**|**CoSMix: Compositional Semantic Mix for Domain Adaptation in 3D LiDAR Segmentation**|Cristiano Saltori et.al.|[2207.09778v1](http://arxiv.org/abs/2207.09778v1)|**[link](https://github.com/saltoricristiano/cosmix-uda)**|
+|**2022-07-20**|**GIPSO: Geometrically Informed Propagation for Online Adaptation in 3D LiDAR Segmentation**|Cristiano Saltori et.al.|[2207.09763v1](http://arxiv.org/abs/2207.09763v1)|**[link](https://github.com/saltoricristiano/gipso-sfouda)**|
+|**2022-07-20**|**Unsupervised Domain Adaptation for One-stage Object Detector using Offsets to Bounding Box**|Jayeon Yoo et.al.|[2207.09656v1](http://arxiv.org/abs/2207.09656v1)|null|
+|**2022-07-20**|**Learning from few examples: Classifying sex from retinal images via deep learning**|Aaron Berk et.al.|[2207.09624v1](http://arxiv.org/abs/2207.09624v1)|null|
+|**2022-07-20**|**Exploiting Domain Transferability for Collaborative Inter-level Domain Adaptive Object Detection**|Mirae Do et.al.|[2207.09613v1](http://arxiv.org/abs/2207.09613v1)|null|
 |**2022-07-19**|**Model independent measurements of Standard Model cross sections with Domain Adaptation**|Benedetta Camaiani et.al.|[2207.09293v1](http://arxiv.org/abs/2207.09293v1)|null|
 |**2022-07-19**|**Exploiting Inter-Sample Affinity for Knowability-Aware Universal Domain Adaptation**|Yifan Wang et.al.|[2207.09280v1](http://arxiv.org/abs/2207.09280v1)|null|
 |**2022-07-19**|**Similarity of Pre-trained and Fine-tuned Representations**|Thomas Goerttler et.al.|[2207.09225v1](http://arxiv.org/abs/2207.09225v1)|null|
 |**2022-07-19**|**VoloGAN: Adversarial Domain Adaptation for Synthetic Depth Data**|Sascha Kirch et.al.|[2207.09204v1](http://arxiv.org/abs/2207.09204v1)|null|
-|**2022-07-19**|**Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution**|Xiaoyu Dong et.al.|[2207.09156v1](http://arxiv.org/abs/2207.09156v1)|null|
+|**2022-07-19**|**Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution**|Xiaoyu Dong et.al.|[2207.09156v1](http://arxiv.org/abs/2207.09156v1)|**[link](https://github.com/palmdong/mmsr)**|
 |**2022-07-19**|**ML-BPM: Multi-teacher Learning with Bidirectional Photometric Mixing for Open Compound Domain Adaptation in Semantic Segmentation**|Fei Pan et.al.|[2207.09045v1](http://arxiv.org/abs/2207.09045v1)|null|
 |**2022-07-18**|**Multi-step domain adaptation by adversarial attack to $\mathcal{H} Δ\mathcal{H}$-divergence**|Arip Asadulaev et.al.|[2207.08948v1](http://arxiv.org/abs/2207.08948v1)|null|
-|**2022-07-18**|**Prior Knowledge Guided Unsupervised Domain Adaptation**|Tao Sun et.al.|[2207.08877v1](http://arxiv.org/abs/2207.08877v1)|null|
+|**2022-07-18**|**Prior Knowledge Guided Unsupervised Domain Adaptation**|Tao Sun et.al.|[2207.08877v1](http://arxiv.org/abs/2207.08877v1)|**[link](https://github.com/tsun/kuda)**|
 |**2022-07-18**|**Towards Diverse and Faithful One-shot Adaption of Generative Adversarial Networks**|Yabo Zhang et.al.|[2207.08736v1](http://arxiv.org/abs/2207.08736v1)|**[link](https://github.com/1170300521/DiFa)**|
 |**2022-07-18**|**Angular Gap: Reducing the Uncertainty of Image Difficulty through Model Calibration**|Bohua Peng et.al.|[2207.08525v1](http://arxiv.org/abs/2207.08525v1)|null|
 |**2022-07-17**|**Coupling Adversarial Learning with Selective Voting Strategy for Distribution Alignment in Partial Domain Adaptation**|Sandipan Choudhuri et.al.|[2207.08145v1](http://arxiv.org/abs/2207.08145v1)|null|
@@ -2133,6 +2148,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-20**|**Tailoring Self-Supervision for Supervised Learning**|WonJun Moon et.al.|[2207.10023v1](http://arxiv.org/abs/2207.10023v1)|**[link](https://github.com/wjun0830/localizable-rotation)**|
+|**2022-07-20**|**Secrets of Event-Based Optical Flow**|Shintaro Shiba et.al.|[2207.10022v1](http://arxiv.org/abs/2207.10022v1)|null|
+|**2022-07-20**|**Generative Domain Adaptation for Face Anti-Spoofing**|Qianyu Zhou et.al.|[2207.10015v1](http://arxiv.org/abs/2207.10015v1)|null|
+|**2022-07-20**|**DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation**|Xin Lai et.al.|[2207.09988v1](http://arxiv.org/abs/2207.09988v1)|**[link](https://github.com/dvlab-research/decouplenet)**|
+|**2022-07-20**|**Temporal and cross-modal attention for audio-visual zero-shot learning**|Otniel-Bogdan Mercea et.al.|[2207.09966v1](http://arxiv.org/abs/2207.09966v1)|**[link](https://github.com/explainableml/tcaf-gzsl)**|
+|**2022-07-20**|**Rethinking Few-Shot Class-Incremental Learning with Open-Set Hypothesis in Hyperbolic Geometry**|Yawen Cui et.al.|[2207.09963v1](http://arxiv.org/abs/2207.09963v1)|null|
+|**2022-07-20**|**An Efficient Framework for Few-shot Skeleton-based Temporal Action Segmentation**|Leiyang Xu et.al.|[2207.09925v1](http://arxiv.org/abs/2207.09925v1)|null|
+|**2022-07-20**|**Maximum Likelihood Imputation**|Jeongseop Han et.al.|[2207.09891v1](http://arxiv.org/abs/2207.09891v1)|null|
+|**2022-07-20**|**Everything is There in Latent Space: Attribute Editing and Attribute Style Manipulation by StyleGAN Latent Space Exploration**|Rishubh Parihar et.al.|[2207.09855v1](http://arxiv.org/abs/2207.09855v1)|null|
+|**2022-07-20**|**Unsupervised Industrial Anomaly Detection via Pattern Generative and Contrastive Networks**|Jianfeng Huang et.al.|[2207.09792v1](http://arxiv.org/abs/2207.09792v1)|null|
+|**2022-07-20**|**Unsupervised energy disaggregation via convolutional sparse coding**|Christian Aarset et.al.|[2207.09785v1](http://arxiv.org/abs/2207.09785v1)|null|
+|**2022-07-20**|**CoSMix: Compositional Semantic Mix for Domain Adaptation in 3D LiDAR Segmentation**|Cristiano Saltori et.al.|[2207.09778v1](http://arxiv.org/abs/2207.09778v1)|**[link](https://github.com/saltoricristiano/cosmix-uda)**|
+|**2022-07-20**|**GIPSO: Geometrically Informed Propagation for Online Adaptation in 3D LiDAR Segmentation**|Cristiano Saltori et.al.|[2207.09763v1](http://arxiv.org/abs/2207.09763v1)|**[link](https://github.com/saltoricristiano/gipso-sfouda)**|
+|**2022-07-20**|**Task-adaptive Spatial-Temporal Video Sampler for Few-shot Action Recognition**|Huabin Liu et.al.|[2207.09759v1](http://arxiv.org/abs/2207.09759v1)|null|
+|**2022-07-20**|**Interpreting Latent Spaces of Generative Models for Medical Images using Unsupervised Methods**|Julian Schön et.al.|[2207.09740v1](http://arxiv.org/abs/2207.09740v1)|**[link](https://github.com/julschoen/latent-space-exploration-ct)**|
+|**2022-07-20**|**Revisiting data augmentation for subspace clustering**|Maryam Abdolali et.al.|[2207.09728v1](http://arxiv.org/abs/2207.09728v1)|null|
+|**2022-07-20**|**Feature Representation Learning for Unsupervised Cross-domain Image Retrieval**|Conghui Hu et.al.|[2207.09721v1](http://arxiv.org/abs/2207.09721v1)|**[link](https://github.com/conghuihu/ucdir)**|
+|**2022-07-20**|**Intrinsic dimension estimation for discrete metrics**|Iuri Macocco et.al.|[2207.09688v1](http://arxiv.org/abs/2207.09688v1)|null|
+|**2022-07-20**|**Unsupervised Domain Adaptation for One-stage Object Detector using Offsets to Bounding Box**|Jayeon Yoo et.al.|[2207.09656v1](http://arxiv.org/abs/2207.09656v1)|null|
+|**2022-07-20**|**GenText: Unsupervised Artistic Text Generation via Decoupled Font and Texture Manipulation**|Qirui Huang et.al.|[2207.09649v1](http://arxiv.org/abs/2207.09649v1)|null|
 |**2022-07-19**|**Human-to-Robot Imitation in the Wild**|Shikhar Bahl et.al.|[2207.09450v1](http://arxiv.org/abs/2207.09450v1)|null|
 |**2022-07-19**|**Machine learning approach to genome of two-dimensional materials with flat electronic bands**|Anupam Bhattacharya et.al.|[2207.09444v1](http://arxiv.org/abs/2207.09444v1)|null|
 |**2022-07-19**|**Few-Shot Teamwork**|Elliot Fosong et.al.|[2207.09300v1](http://arxiv.org/abs/2207.09300v1)|null|
@@ -4405,6 +4440,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-20**|**Monocular 3D Object Reconstruction with GAN Inversion**|Junzhe Zhang et.al.|[2207.10061v1](http://arxiv.org/abs/2207.10061v1)|**[link](https://github.com/junzhezhang/mesh-inversion)**|
+|**2022-07-20**|**Difficulty-Aware Simulator for Open Set Recognition**|WonJun Moon et.al.|[2207.10024v1](http://arxiv.org/abs/2207.10024v1)|**[link](https://github.com/wjun0830/difficulty-aware-simulator)**|
+|**2022-07-20**|**Predictive Object-Centric Process Monitoring**|Timo Rohrer et.al.|[2207.10017v1](http://arxiv.org/abs/2207.10017v1)|null|
+|**2022-07-20**|**Embedded Point Iteration Based Recursive Algorithm for Online Identification of Nonlinear Regression Models**|Guang-Yong Chen et.al.|[2207.09958v1](http://arxiv.org/abs/2207.09958v1)|null|
+|**2022-07-20**|**Study and characterization of GaN MOS capacitors: planar versus trench topographies**|K. Mukherjee et.al.|[2207.09948v1](http://arxiv.org/abs/2207.09948v1)|null|
+|**2022-07-20**|**Everything is There in Latent Space: Attribute Editing and Attribute Style Manipulation by StyleGAN Latent Space Exploration**|Rishubh Parihar et.al.|[2207.09855v1](http://arxiv.org/abs/2207.09855v1)|null|
+|**2022-07-20**|**EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer**|Chenyu Yang et.al.|[2207.09840v1](http://arxiv.org/abs/2207.09840v1)|**[link](https://github.com/chenyu-yang-2000/elegant)**|
+|**2022-07-20**|**NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**|Chenfei Wu et.al.|[2207.09814v1](http://arxiv.org/abs/2207.09814v1)|null|
+|**2022-07-20**|**K-Means Based Constellation Optimization for Index Modulated Reconfigurable Intelligent Surfaces**|Hao Liu et.al.|[2207.09766v1](http://arxiv.org/abs/2207.09766v1)|null|
+|**2022-07-20**|**Interpreting Latent Spaces of Generative Models for Medical Images using Unsupervised Methods**|Julian Schön et.al.|[2207.09740v1](http://arxiv.org/abs/2207.09740v1)|**[link](https://github.com/julschoen/latent-space-exploration-ct)**|
+|**2022-07-19**|**Nature and Scalings of Density Fluctuations of Compressible MHD Turbulence with Applications to the Solar Wind**|Xiangrong Fu et.al.|[2207.09490v1](http://arxiv.org/abs/2207.09490v1)|null|
 |**2022-07-19**|**Image Synthesis with Disentangled Attributes for Chest X-Ray Nodule Augmentation and Detection**|Zhenrong Shen et.al.|[2207.09389v1](http://arxiv.org/abs/2207.09389v1)|null|
 |**2022-07-19**|**Cycle Encoding of a StyleGAN Encoder for Improved Reconstruction and Editability**|Xudong Mao et.al.|[2207.09367v1](http://arxiv.org/abs/2207.09367v1)|null|
 |**2022-07-16**|**Do uHear? Validation of uHear App for Preliminary Screening of Hearing Ability in Soundscape Studies**|Zhen-Ting Ong et.al.|[2207.09221v1](http://arxiv.org/abs/2207.09221v1)|**[link](https://github.com/ntudsp/douhear)**|
