@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.20
+## Updated on 2022.07.21
 
 ## SLAM
 
@@ -2136,7 +2136,7 @@ layout: default
 |**2022-07-19**|**Human-to-Robot Imitation in the Wild**|Shikhar Bahl et.al.|[2207.09450v1](http://arxiv.org/abs/2207.09450v1)|null|
 |**2022-07-19**|**Machine learning approach to genome of two-dimensional materials with flat electronic bands**|Anupam Bhattacharya et.al.|[2207.09444v1](http://arxiv.org/abs/2207.09444v1)|null|
 |**2022-07-19**|**Few-Shot Teamwork**|Elliot Fosong et.al.|[2207.09300v1](http://arxiv.org/abs/2207.09300v1)|null|
-|**2022-07-19**|**Don't Stop Learning: Towards Continual Learning for the CLIP Model**|Yuxuan Ding et.al.|[2207.09248v1](http://arxiv.org/abs/2207.09248v1)|null|
+|**2022-07-19**|**Don't Stop Learning: Towards Continual Learning for the CLIP Model**|Yuxuan Ding et.al.|[2207.09248v2](http://arxiv.org/abs/2207.09248v2)|null|
 |**2022-07-19**|**Assaying Out-Of-Distribution Generalization in Transfer Learning**|Florian Wenzel et.al.|[2207.09239v1](http://arxiv.org/abs/2207.09239v1)|null|
 |**2022-07-19**|**Similarity of Pre-trained and Fine-tuned Representations**|Thomas Goerttler et.al.|[2207.09225v1](http://arxiv.org/abs/2207.09225v1)|null|
 |**2022-07-19**|**Self-Supervision Can Be a Good Few-Shot Learner**|Yuning Lu et.al.|[2207.09176v1](http://arxiv.org/abs/2207.09176v1)|**[link](https://github.com/bbbdylan/unisiam)**|
