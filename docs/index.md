@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.21
+## Updated on 2022.07.22
 
 ## SLAM
 
@@ -2149,7 +2149,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-07-20**|**Tailoring Self-Supervision for Supervised Learning**|WonJun Moon et.al.|[2207.10023v1](http://arxiv.org/abs/2207.10023v1)|**[link](https://github.com/wjun0830/localizable-rotation)**|
-|**2022-07-20**|**Secrets of Event-Based Optical Flow**|Shintaro Shiba et.al.|[2207.10022v1](http://arxiv.org/abs/2207.10022v1)|null|
+|**2022-07-20**|**Secrets of Event-Based Optical Flow**|Shintaro Shiba et.al.|[2207.10022v2](http://arxiv.org/abs/2207.10022v2)|**[link](https://github.com/tub-rip/event_based_optical_flow)**|
 |**2022-07-20**|**Generative Domain Adaptation for Face Anti-Spoofing**|Qianyu Zhou et.al.|[2207.10015v1](http://arxiv.org/abs/2207.10015v1)|null|
 |**2022-07-20**|**DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation**|Xin Lai et.al.|[2207.09988v1](http://arxiv.org/abs/2207.09988v1)|**[link](https://github.com/dvlab-research/decouplenet)**|
 |**2022-07-20**|**Temporal and cross-modal attention for audio-visual zero-shot learning**|Otniel-Bogdan Mercea et.al.|[2207.09966v1](http://arxiv.org/abs/2207.09966v1)|**[link](https://github.com/explainableml/tcaf-gzsl)**|
@@ -4444,7 +4444,7 @@ layout: default
 |**2022-07-20**|**Difficulty-Aware Simulator for Open Set Recognition**|WonJun Moon et.al.|[2207.10024v1](http://arxiv.org/abs/2207.10024v1)|**[link](https://github.com/wjun0830/difficulty-aware-simulator)**|
 |**2022-07-20**|**Predictive Object-Centric Process Monitoring**|Timo Rohrer et.al.|[2207.10017v1](http://arxiv.org/abs/2207.10017v1)|null|
 |**2022-07-20**|**Embedded Point Iteration Based Recursive Algorithm for Online Identification of Nonlinear Regression Models**|Guang-Yong Chen et.al.|[2207.09958v1](http://arxiv.org/abs/2207.09958v1)|null|
-|**2022-07-20**|**Study and characterization of GaN MOS capacitors: planar versus trench topographies**|K. Mukherjee et.al.|[2207.09948v1](http://arxiv.org/abs/2207.09948v1)|null|
+|**2022-07-20**|**Study and characterization of GaN MOS capacitors: planar versus trench topographies**|K. Mukherjee et.al.|[2207.09948v2](http://arxiv.org/abs/2207.09948v2)|null|
 |**2022-07-20**|**Everything is There in Latent Space: Attribute Editing and Attribute Style Manipulation by StyleGAN Latent Space Exploration**|Rishubh Parihar et.al.|[2207.09855v1](http://arxiv.org/abs/2207.09855v1)|null|
 |**2022-07-20**|**EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer**|Chenyu Yang et.al.|[2207.09840v1](http://arxiv.org/abs/2207.09840v1)|**[link](https://github.com/chenyu-yang-2000/elegant)**|
 |**2022-07-20**|**NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**|Chenfei Wu et.al.|[2207.09814v1](http://arxiv.org/abs/2207.09814v1)|null|
