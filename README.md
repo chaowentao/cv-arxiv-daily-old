@@ -62,6 +62,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-21**|**Generalizable Patch-Based Neural Rendering**|Mohammed Suhail et.al.|[2207.10662v1](http://arxiv.org/abs/2207.10662v1)|null|
+|**2022-07-21**|**Multi-photon-addition amplified coherent state**|Xue-feng Zhan et.al.|[2207.10452v1](http://arxiv.org/abs/2207.10452v1)|null|
+|**2022-07-21**|**Synthesizing Light Field Video from Monocular Video**|Shrisudhan Govindarajan et.al.|[2207.10357v1](http://arxiv.org/abs/2207.10357v1)|**[link](https://github.com/ShrisudhanG/Synthesizing-Light-Field-Video-from-Monocular-Video)**|
 |**2022-07-19**|**A subwavelength atomic array switched by a single Rydberg atom**|Kritsana Srakaew et.al.|[2207.09383v1](http://arxiv.org/abs/2207.09383v1)|null|
 |**2022-07-13**|**Semi-classical gravity phenomenology under the causal-conditional quantum measurement prescription**|Yubao Liu et.al.|[2207.05966v1](http://arxiv.org/abs/2207.05966v1)|null|
 |**2022-07-12**|**Emergent Schrödinger cat states during superradiant phase transitions**|Ri-Hua Zheng et.al.|[2207.05512v2](http://arxiv.org/abs/2207.05512v2)|null|
@@ -193,6 +196,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-21**|**TinyViT: Fast Pretraining Distillation for Small Vision Transformers**|Kan Wu et.al.|[2207.10666v1](http://arxiv.org/abs/2207.10666v1)|**[link](https://github.com/microsoft/cream)**|
+|**2022-07-21**|**Towards Efficient Adversarial Training on Vision Transformers**|Boxi Wu et.al.|[2207.10498v1](http://arxiv.org/abs/2207.10498v1)|null|
+|**2022-07-21**|**An Efficient Spatio-Temporal Pyramid Transformer for Action Detection**|Yuetian Weng et.al.|[2207.10448v1](http://arxiv.org/abs/2207.10448v1)|null|
+|**2022-07-21**|**A Wavelet Transform and self-supervised learning-based framework for bearing fault diagnosis with limited labeled data**|Yuhong Jin et.al.|[2207.10432v1](http://arxiv.org/abs/2207.10432v1)|null|
+|**2022-07-21**|**SPIN: An Empirical Evaluation on Sharing Parameters of Isotropic Networks**|Chien-Yu Lin et.al.|[2207.10237v1](http://arxiv.org/abs/2207.10237v1)|**[link](https://github.com/apple/ml-spin)**|
+|**2022-07-20**|**MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis**|Yaqian Liang et.al.|[2207.10228v1](http://arxiv.org/abs/2207.10228v1)|null|
 |**2022-07-20**|**Locality Guidance for Improving Vision Transformers on Tiny Datasets**|Kehan Li et.al.|[2207.10026v1](http://arxiv.org/abs/2207.10026v1)|**[link](https://github.com/lkhl/tiny-transformers)**|
 |**2022-07-20**|**ViGAT: Bottom-up event recognition and explanation in video using factorized graph attention network**|Nikolaos Gkalelis et.al.|[2207.09927v1](http://arxiv.org/abs/2207.09927v1)|null|
 |**2022-07-20**|**Unsupervised Industrial Anomaly Detection via Pattern Generative and Contrastive Networks**|Jianfeng Huang et.al.|[2207.09792v1](http://arxiv.org/abs/2207.09792v1)|null|
@@ -628,6 +637,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-21**|**Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel Structure Aligning Network**|Aline Sindel et.al.|[2207.10506v1](http://arxiv.org/abs/2207.10506v1)|null|
 |**2022-07-20**|**OTPose: Occlusion-Aware Transformer for Pose Estimation in Sparsely-Labeled Videos**|Kyung-Min Jin et.al.|[2207.09725v1](http://arxiv.org/abs/2207.09725v1)|null|
 |**2022-07-19**|**Computer Vision to the Rescue: Infant Postural Symmetry Estimation from Incongruent Annotations**|Xiaofei Huang et.al.|[2207.09352v1](http://arxiv.org/abs/2207.09352v1)|**[link](https://github.com/ostadabbas/infant-postural-symmetry)**|
 |**2022-07-19**|**DH-AUG: DH Forward Kinematics Model Driven Augmentation for 3D Human Pose Estimation**|Linzhi Huang et.al.|[2207.09303v1](http://arxiv.org/abs/2207.09303v1)|**[link](https://github.com/hlz0606/dh-aug-dh-forward-kinematics-model-driven-augmentation-for-3d-human-pose-estimation)**|
@@ -763,6 +773,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-21**|**Disorder-enhanced transport in a chain of lossy dipoles strongly coupled to cavity photons**|Thomas F. Allard et.al.|[2207.10584v1](http://arxiv.org/abs/2207.10584v1)|null|
+|**2022-07-21**|**Unimodal vs. Multimodal Siamese Networks for Outfit Completion**|Mariya Hendriksen et.al.|[2207.10355v1](http://arxiv.org/abs/2207.10355v1)|null|
+|**2022-07-20**|**Multimodal Estimation of End Point Force During Quasi-dynamic and Dynamic Muscle Contractions Using Deep Learning**|Gelareh Hajian et.al.|[2207.10154v1](http://arxiv.org/abs/2207.10154v1)|null|
 |**2022-07-20**|**Wigner Function Tomography via Optical Parametric Amplification**|Mahmoud Kalash et.al.|[2207.10030v1](http://arxiv.org/abs/2207.10030v1)|null|
 |**2022-07-20**|**Multimodal Transformer for Automatic 3D Annotation and Object Detection**|Chang Liu et.al.|[2207.09805v1](http://arxiv.org/abs/2207.09805v1)|**[link](https://github.com/cliu2/mtrans)**|
 |**2022-07-19**|**Balancing the trade-off between cost and reliability for wireless sensor networks: a multi-objective optimized deployment method**|Long Chen et.al.|[2207.09089v1](http://arxiv.org/abs/2207.09089v1)|**[link](https://github.com/iNet-WZU/CMOMPA)**|
@@ -1487,6 +1500,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-21**|**Online Domain Adaptation for Semantic Segmentation in Ever-Changing Conditions**|Theodoros Panagiotakopoulos et.al.|[2207.10667v1](http://arxiv.org/abs/2207.10667v1)|**[link](https://github.com/theo2021/onda)**|
 |**2022-07-20**|**Generative Domain Adaptation for Face Anti-Spoofing**|Qianyu Zhou et.al.|[2207.10015v1](http://arxiv.org/abs/2207.10015v1)|null|
 |**2022-07-20**|**DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation**|Xin Lai et.al.|[2207.09988v1](http://arxiv.org/abs/2207.09988v1)|**[link](https://github.com/dvlab-research/decouplenet)**|
 |**2022-07-20**|**CoSMix: Compositional Semantic Mix for Domain Adaptation in 3D LiDAR Segmentation**|Cristiano Saltori et.al.|[2207.09778v1](http://arxiv.org/abs/2207.09778v1)|**[link](https://github.com/saltoricristiano/cosmix-uda)**|
@@ -1996,6 +2010,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-21**|**Online Domain Adaptation for Semantic Segmentation in Ever-Changing Conditions**|Theodoros Panagiotakopoulos et.al.|[2207.10667v1](http://arxiv.org/abs/2207.10667v1)|**[link](https://github.com/theo2021/onda)**|
+|**2022-07-21**|**Novel Class Discovery without Forgetting**|K J Joseph et.al.|[2207.10659v1](http://arxiv.org/abs/2207.10659v1)|null|
+|**2022-07-21**|**Unsupervised pre-training of graph transformers on patient population graphs**|Chantal Pellegrini et.al.|[2207.10603v1](http://arxiv.org/abs/2207.10603v1)|**[link](https://github.com/chantalmp/unsupervised_pre-training_of_graph_transformers_on_patient_population_graphs)**|
+|**2022-07-21**|**FDD Massive MIMO Channel Training Optimal Rate Distortion Bounds and the Efficiency of one-shot Schemes**|Mahdi Barzegar Khalilsarai et.al.|[2207.10591v1](http://arxiv.org/abs/2207.10591v1)|null|
+|**2022-07-21**|**Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression**|Yeying Jin et.al.|[2207.10564v1](http://arxiv.org/abs/2207.10564v1)|**[link](https://github.com/jinyeying/night-enhancement)**|
+|**2022-07-21**|**The MABe22 Benchmarks for Representation Learning of Multi-Agent Behavior**|Jennifer J. Sun et.al.|[2207.10553v1](http://arxiv.org/abs/2207.10553v1)|null|
+|**2022-07-21**|**Surrey System for DCASE 2022 Task 5: Few-shot Bioacoustic Event Detection with Segment-level Metric Learning**|Haohe Liu et.al.|[2207.10547v1](http://arxiv.org/abs/2207.10547v1)|null|
+|**2022-07-21**|**Correlation between bandwidth and frequency of plasmaspheric hiss uncovered with unsupervised machine learning**|Daniel Vech et.al.|[2207.10505v1](http://arxiv.org/abs/2207.10505v1)|null|
+|**2022-07-21**|**Fast Data Driven Estimation of Cluster Number in Multiplex Images using Embedded Density Outliers**|Spencer A. Thomas et.al.|[2207.10469v1](http://arxiv.org/abs/2207.10469v1)|null|
+|**2022-07-21**|**Deep Audio Waveform Prior**|Arnon Turetzky et.al.|[2207.10441v1](http://arxiv.org/abs/2207.10441v1)|null|
+|**2022-07-21**|**DC-ShadowNet: Single-Image Hard and Soft Shadow Removal Using Unsupervised Domain-Classifier Guided Network**|Yeying Jin et.al.|[2207.10434v1](http://arxiv.org/abs/2207.10434v1)|**[link](https://github.com/jinyeying/DC-ShadowNet-Hard-and-Soft-Shadow-Removal)**|
+|**2022-07-21**|**Convergence analysis of multi-step one-shot methods for linear inverse problems**|Marcella Bonazzoli et.al.|[2207.10372v1](http://arxiv.org/abs/2207.10372v1)|null|
+|**2022-07-21**|**Language Model Cascades**|David Dohan et.al.|[2207.10342v1](http://arxiv.org/abs/2207.10342v1)|null|
+|**2022-07-21**|**Efficient Search of Multiple Neural Architectures with Different Complexities via Importance Sampling**|Yuhei Noda et.al.|[2207.10334v1](http://arxiv.org/abs/2207.10334v1)|null|
+|**2022-07-21**|**Deep Learning for Unsupervised Anomaly Localization in Industrial Images: A Survey**|Xian Tao et.al.|[2207.10298v1](http://arxiv.org/abs/2207.10298v1)|null|
+|**2022-07-21**|**DeltaGAN: Towards Diverse Few-shot Image Generation with Sample-Specific Delta**|Yan Hong et.al.|[2207.10271v1](http://arxiv.org/abs/2207.10271v1)|**[link](https://github.com/bcmi/deltagan-few-shot-image-generation)**|
+|**2022-07-21**|**Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis**|Jeong-gi Kwak et.al.|[2207.10257v1](http://arxiv.org/abs/2207.10257v1)|**[link](https://github.com/jgkwak95/surf-gan)**|
+|**2022-07-21**|**Unsupervised Legendre-Galerkin Neural Network for Stiff Partial Differential Equations**|Junho Choi et.al.|[2207.10241v1](http://arxiv.org/abs/2207.10241v1)|null|
+|**2022-07-20**|**Bitwidth-Adaptive Quantization-Aware Neural Network Training: A Meta-Learning Approach**|Jiseok Youn et.al.|[2207.10188v1](http://arxiv.org/abs/2207.10188v1)|null|
+|**2022-07-20**|**2D GANs Meet Unsupervised Single-view 3D Reconstruction**|Feng Liu et.al.|[2207.10183v1](http://arxiv.org/abs/2207.10183v1)|null|
 |**2022-07-20**|**Tailoring Self-Supervision for Supervised Learning**|WonJun Moon et.al.|[2207.10023v1](http://arxiv.org/abs/2207.10023v1)|**[link](https://github.com/wjun0830/localizable-rotation)**|
 |**2022-07-20**|**Secrets of Event-Based Optical Flow**|Shintaro Shiba et.al.|[2207.10022v2](http://arxiv.org/abs/2207.10022v2)|**[link](https://github.com/tub-rip/event_based_optical_flow)**|
 |**2022-07-20**|**Generative Domain Adaptation for Face Anti-Spoofing**|Qianyu Zhou et.al.|[2207.10015v1](http://arxiv.org/abs/2207.10015v1)|null|
@@ -4176,6 +4210,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-21**|**Generalizable Patch-Based Neural Rendering**|Mohammed Suhail et.al.|[2207.10662v1](http://arxiv.org/abs/2207.10662v1)|null|
+|**2022-07-21**|**Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis**|Jeong-gi Kwak et.al.|[2207.10257v1](http://arxiv.org/abs/2207.10257v1)|**[link](https://github.com/jgkwak95/surf-gan)**|
 |**2022-07-14**|**Neural apparent BRDF fields for multiview photometric stereo**|Meghna Asthana et.al.|[2207.06793v1](http://arxiv.org/abs/2207.06793v1)|null|
 |**2022-07-12**|**Vision Transformer for NeRF-Based View Synthesis from a Single Input Image**|Kai-En Lin et.al.|[2207.05736v1](http://arxiv.org/abs/2207.05736v1)|null|
 |**2022-07-11**|**A Learned Radiance-Field Representation for Complex Luminaires**|Jorge Condor et.al.|[2207.05009v1](http://arxiv.org/abs/2207.05009v1)|null|
@@ -4288,6 +4324,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-21**|**Generative Multiplane Images: Making a 2D GAN 3D-Aware**|Xiaoming Zhao et.al.|[2207.10642v1](http://arxiv.org/abs/2207.10642v1)|**[link](https://github.com/apple/ml-gmpi)**|
+|**2022-07-21**|**Optimal precision for GANs**|Thibaut Issenhuth et.al.|[2207.10541v1](http://arxiv.org/abs/2207.10541v1)|null|
+|**2022-07-21**|**Improved Generative Model for Weakly Supervised Chest Anomaly Localization via Pseudo-paired Registration with Bilaterally Symmetrical Data Augmentation**|Kyung-Su Kim et.al.|[2207.10324v1](http://arxiv.org/abs/2207.10324v1)|null|
+|**2022-07-21**|**A Survey on Leveraging Pre-trained Generative Adversarial Networks for Image Editing and Restoration**|Ming Liu et.al.|[2207.10309v1](http://arxiv.org/abs/2207.10309v1)|**[link](https://github.com/csmliu/pretrained-gans)**|
+|**2022-07-21**|**Different Channels to Transmit Information in a Scattering Medium**|Xuyu Zhang et.al.|[2207.10270v1](http://arxiv.org/abs/2207.10270v1)|null|
+|**2022-07-21**|**Roles of scattered and ballistic photons in imaging through scattering media: a deep learning-based study**|Xuyu Zhan et.al.|[2207.10263v1](http://arxiv.org/abs/2207.10263v1)|null|
+|**2022-07-21**|**Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis**|Jeong-gi Kwak et.al.|[2207.10257v1](http://arxiv.org/abs/2207.10257v1)|**[link](https://github.com/jgkwak95/surf-gan)**|
+|**2022-07-21**|**SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition**|Dajian Zhong et.al.|[2207.10256v1](http://arxiv.org/abs/2207.10256v1)|null|
+|**2022-07-20**|**2D GANs Meet Unsupervised Single-view 3D Reconstruction**|Feng Liu et.al.|[2207.10183v1](http://arxiv.org/abs/2207.10183v1)|null|
 |**2022-07-20**|**Monocular 3D Object Reconstruction with GAN Inversion**|Junzhe Zhang et.al.|[2207.10061v1](http://arxiv.org/abs/2207.10061v1)|**[link](https://github.com/junzhezhang/mesh-inversion)**|
 |**2022-07-20**|**Difficulty-Aware Simulator for Open Set Recognition**|WonJun Moon et.al.|[2207.10024v1](http://arxiv.org/abs/2207.10024v1)|**[link](https://github.com/wjun0830/difficulty-aware-simulator)**|
 |**2022-07-20**|**Predictive Object-Centric Process Monitoring**|Timo Rohrer et.al.|[2207.10017v1](http://arxiv.org/abs/2207.10017v1)|null|
@@ -4295,7 +4340,7 @@
 |**2022-07-20**|**Study and characterization of GaN MOS capacitors: planar versus trench topographies**|K. Mukherjee et.al.|[2207.09948v2](http://arxiv.org/abs/2207.09948v2)|null|
 |**2022-07-20**|**Everything is There in Latent Space: Attribute Editing and Attribute Style Manipulation by StyleGAN Latent Space Exploration**|Rishubh Parihar et.al.|[2207.09855v1](http://arxiv.org/abs/2207.09855v1)|null|
 |**2022-07-20**|**EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer**|Chenyu Yang et.al.|[2207.09840v1](http://arxiv.org/abs/2207.09840v1)|**[link](https://github.com/chenyu-yang-2000/elegant)**|
-|**2022-07-20**|**NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**|Chenfei Wu et.al.|[2207.09814v1](http://arxiv.org/abs/2207.09814v1)|null|
+|**2022-07-20**|**NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis**|Chenfei Wu et.al.|[2207.09814v1](http://arxiv.org/abs/2207.09814v1)|**[link](https://github.com/microsoft/nuwa)**|
 |**2022-07-20**|**K-Means Based Constellation Optimization for Index Modulated Reconfigurable Intelligent Surfaces**|Hao Liu et.al.|[2207.09766v1](http://arxiv.org/abs/2207.09766v1)|null|
 |**2022-07-20**|**Interpreting Latent Spaces of Generative Models for Medical Images using Unsupervised Methods**|Julian Schön et.al.|[2207.09740v1](http://arxiv.org/abs/2207.09740v1)|**[link](https://github.com/julschoen/latent-space-exploration-ct)**|
 |**2022-07-19**|**Nature and Scalings of Density Fluctuations of Compressible MHD Turbulence with Applications to the Solar Wind**|Xiangrong Fu et.al.|[2207.09490v1](http://arxiv.org/abs/2207.09490v1)|null|
