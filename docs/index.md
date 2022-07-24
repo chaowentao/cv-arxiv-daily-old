@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.23
+## Updated on 2022.07.24
 
 ## SLAM
 
@@ -944,7 +944,7 @@ layout: default
 |**2022-07-15**|**Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models**|Rui Qian et.al.|[2207.07646v1](http://arxiv.org/abs/2207.07646v1)|null|
 |**2022-07-15**|**Brain MRI study for glioma segmentation using convolutional neural networks and original post-processing techniques with low computational demand**|José Gerardo Suárez-García Javier Miguel Hernández-López et.al.|[2207.07622v1](http://arxiv.org/abs/2207.07622v1)|null|
 |**2022-07-15**|**USegScene: Unsupervised Learning of Depth, Optical Flow and Ego-Motion with Semantic Guidance and Coupled Networks**|Johan Vertens et.al.|[2207.07469v1](http://arxiv.org/abs/2207.07469v1)|null|
-|**2022-07-15**|**Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space**|Lingwei Dang et.al.|[2207.07351v1](http://arxiv.org/abs/2207.07351v1)|**[link](https://github.com/droliven/diverse_sampling)**|
+|**2022-07-15**|**Diverse Human Motion Prediction via Gumbel-Softmax Sampling from an Auxiliary Space**|Lingwei Dang et.al.|[2207.07351v1](http://arxiv.org/abs/2207.07351v1)|**[link](https://github.com/Droliven/DHMP_jittor)**|
 |**2022-07-14**|**Egocentric Scene Understanding via Multimodal Spatial Rectifier**|Tien Do et.al.|[2207.07077v1](http://arxiv.org/abs/2207.07077v1)|**[link](https://github.com/tien-d/EgoDepthNormal)**|
 |**2022-07-14**|**A Single Self-Supervised Model for Many Speech Modalities Enables Zero-Shot Modality Transfer**|Wei-Ning Hsu et.al.|[2207.07036v1](http://arxiv.org/abs/2207.07036v1)|null|
 |**2022-07-14**|**Inertial Hallucinations -- When Wearable Inertial Devices Start Seeing Things**|Alessandro Masullo et.al.|[2207.06789v1](http://arxiv.org/abs/2207.06789v1)|null|
