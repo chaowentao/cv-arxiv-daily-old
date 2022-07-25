@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.24
+## Updated on 2022.07.25
 
 ## SLAM
 
@@ -357,7 +357,7 @@ layout: default
 |**2022-07-20**|**Locality Guidance for Improving Vision Transformers on Tiny Datasets**|Kehan Li et.al.|[2207.10026v1](http://arxiv.org/abs/2207.10026v1)|**[link](https://github.com/lkhl/tiny-transformers)**|
 |**2022-07-20**|**ViGAT: Bottom-up event recognition and explanation in video using factorized graph attention network**|Nikolaos Gkalelis et.al.|[2207.09927v1](http://arxiv.org/abs/2207.09927v1)|null|
 |**2022-07-20**|**Unsupervised Industrial Anomaly Detection via Pattern Generative and Contrastive Networks**|Jianfeng Huang et.al.|[2207.09792v1](http://arxiv.org/abs/2207.09792v1)|null|
-|**2022-07-20**|**AU-Supervised Convolutional Vision Transformers for Synthetic Facial Expression Recognition**|Shuyi Mao et.al.|[2207.09777v1](http://arxiv.org/abs/2207.09777v1)|**[link](https://github.com/msy1412/abaw4)**|
+|**2022-07-20**|**AU-Supervised Convolutional Vision Transformers for Synthetic Facial Expression Recognition**|Shuyi Mao et.al.|[2207.09777v2](http://arxiv.org/abs/2207.09777v2)|**[link](https://github.com/msy1412/abaw4)**|
 |**2022-07-20**|**On the Versatile Uses of Partial Distance Correlation in Deep Learning**|Xingjian Zhen et.al.|[2207.09684v1](http://arxiv.org/abs/2207.09684v1)|**[link](https://github.com/zhenxingjian/partial_distance_correlation)**|
 |**2022-07-19**|**Towards Trustworthy Healthcare AI: Attention-Based Feature Learning for COVID-19 Screening With Chest Radiography**|Kai Ma et.al.|[2207.09312v1](http://arxiv.org/abs/2207.09312v1)|null|
 |**2022-07-18**|**Is Integer Arithmetic Enough for Deep Learning Training?**|Alireza Ghaffari et.al.|[2207.08822v1](http://arxiv.org/abs/2207.08822v1)|null|
@@ -936,7 +936,7 @@ layout: default
 |**2022-07-18**|**Visual Representations of Physiological Signals for Fake Video Detection**|Kalin Stefanov et.al.|[2207.08380v1](http://arxiv.org/abs/2207.08380v1)|null|
 |**2022-07-18**|**Large-scale matrix optimization based multi microgrid topology design with a constrained differential evolution algorithm**|Wenhua Li et.al.|[2207.08327v1](http://arxiv.org/abs/2207.08327v1)|null|
 |**2022-07-17**|**The Importance Markov Chain**|Charly Andral et.al.|[2207.08271v1](http://arxiv.org/abs/2207.08271v1)|null|
-|**2022-07-17**|**Sub-Sharvin charge transport in graphene-based Corbino disk**|Adam Rycerz et.al.|[2207.08239v1](http://arxiv.org/abs/2207.08239v1)|null|
+|**2022-07-17**|**Sub-Sharvin charge transport in graphene-based Corbino disk**|Adam Rycerz et.al.|[2207.08239v2](http://arxiv.org/abs/2207.08239v2)|null|
 |**2022-07-17**|**FashionViL: Fashion-Focused Vision-and-Language Representation Learning**|Xiao Han et.al.|[2207.08150v1](http://arxiv.org/abs/2207.08150v1)|**[link](https://github.com/brandonhanx/mmf)**|
 |**2022-07-17**|**A Multibias-mitigated and Sentiment Knowledge Enriched Transformer for Debiasing in Multimodal Conversational Emotion Recognition**|Jinglin Wang et.al.|[2207.08104v1](http://arxiv.org/abs/2207.08104v1)|null|
 |**2022-07-16**|**Visually-aware Acoustic Event Detection using Heterogeneous Graphs**|Amir Shirian et.al.|[2207.07935v1](http://arxiv.org/abs/2207.07935v1)|**[link](https://github.com/amirsh15/vaed_hetergraph)**|
@@ -2179,7 +2179,7 @@ layout: default
 |**2022-07-21**|**Deep Learning for Unsupervised Anomaly Localization in Industrial Images: A Survey**|Xian Tao et.al.|[2207.10298v1](http://arxiv.org/abs/2207.10298v1)|null|
 |**2022-07-21**|**DeltaGAN: Towards Diverse Few-shot Image Generation with Sample-Specific Delta**|Yan Hong et.al.|[2207.10271v1](http://arxiv.org/abs/2207.10271v1)|**[link](https://github.com/bcmi/deltagan-few-shot-image-generation)**|
 |**2022-07-21**|**Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis**|Jeong-gi Kwak et.al.|[2207.10257v1](http://arxiv.org/abs/2207.10257v1)|**[link](https://github.com/jgkwak95/surf-gan)**|
-|**2022-07-21**|**Unsupervised Legendre-Galerkin Neural Network for Stiff Partial Differential Equations**|Junho Choi et.al.|[2207.10241v1](http://arxiv.org/abs/2207.10241v1)|null|
+|**2022-07-21**|**Unsupervised Legendre-Galerkin Neural Network for Stiff Partial Differential Equations**|Junho Choi et.al.|[2207.10241v2](http://arxiv.org/abs/2207.10241v2)|null|
 |**2022-07-20**|**Bitwidth-Adaptive Quantization-Aware Neural Network Training: A Meta-Learning Approach**|Jiseok Youn et.al.|[2207.10188v1](http://arxiv.org/abs/2207.10188v1)|null|
 |**2022-07-20**|**2D GANs Meet Unsupervised Single-view 3D Reconstruction**|Feng Liu et.al.|[2207.10183v1](http://arxiv.org/abs/2207.10183v1)|null|
 |**2022-07-20**|**Tailoring Self-Supervision for Supervised Learning**|WonJun Moon et.al.|[2207.10023v1](http://arxiv.org/abs/2207.10023v1)|**[link](https://github.com/wjun0830/localizable-rotation)**|
