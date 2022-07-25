@@ -196,6 +196,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-22**|**Facial Expression Recognition using Vanilla ViT backbones with MAE Pretraining**|Jia Li et.al.|[2207.11081v1](http://arxiv.org/abs/2207.11081v1)|null|
+|**2022-07-21**|**Focused Decoding Enables 3D Anatomical Detection by Transformers**|Bastian Wittmann et.al.|[2207.10774v1](http://arxiv.org/abs/2207.10774v1)|**[link](https://github.com/bwittmann/transoar)**|
 |**2022-07-21**|**TinyViT: Fast Pretraining Distillation for Small Vision Transformers**|Kan Wu et.al.|[2207.10666v1](http://arxiv.org/abs/2207.10666v1)|**[link](https://github.com/microsoft/cream)**|
 |**2022-07-21**|**Towards Efficient Adversarial Training on Vision Transformers**|Boxi Wu et.al.|[2207.10498v1](http://arxiv.org/abs/2207.10498v1)|null|
 |**2022-07-21**|**An Efficient Spatio-Temporal Pyramid Transformer for Action Detection**|Yuetian Weng et.al.|[2207.10448v1](http://arxiv.org/abs/2207.10448v1)|null|
@@ -637,6 +639,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-22**|**Learning Human Kinematics by Modeling Temporal Correlations between Joints for Video-based Human Pose Estimation**|Yonghao Dang et.al.|[2207.10971v1](http://arxiv.org/abs/2207.10971v1)|null|
+|**2022-07-22**|**Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection**|Hang Ye et.al.|[2207.10955v1](http://arxiv.org/abs/2207.10955v1)|**[link](https://github.com/AlvinYH/Faster-VoxelPose)**|
 |**2022-07-21**|**Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel Structure Aligning Network**|Aline Sindel et.al.|[2207.10506v1](http://arxiv.org/abs/2207.10506v1)|null|
 |**2022-07-20**|**OTPose: Occlusion-Aware Transformer for Pose Estimation in Sparsely-Labeled Videos**|Kyung-Min Jin et.al.|[2207.09725v1](http://arxiv.org/abs/2207.09725v1)|null|
 |**2022-07-19**|**Computer Vision to the Rescue: Infant Postural Symmetry Estimation from Incongruent Annotations**|Xiaofei Huang et.al.|[2207.09352v1](http://arxiv.org/abs/2207.09352v1)|**[link](https://github.com/ostadabbas/infant-postural-symmetry)**|
@@ -773,6 +777,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-22**|**Enhanced nonlinear optomechanics in a coupled-mode photonic crystal device**|Roel Burgwal et.al.|[2207.11114v1](http://arxiv.org/abs/2207.11114v1)|null|
+|**2022-07-22**|**Learning Generalized Non-Rigid Multimodal Biomedical Image Registration from Generic Point Set Data**|Zachary MC Baum et.al.|[2207.10994v1](http://arxiv.org/abs/2207.10994v1)|null|
+|**2022-07-22**|**Tell Me How You Feel: Designing Emotion-Aware Voicebots to Ease Pandemic Anxiety In Aging Citizens**|W. Mieleszczenko-Kowszewicz et.al.|[2207.10828v1](http://arxiv.org/abs/2207.10828v1)|null|
 |**2022-07-21**|**Disorder-enhanced transport in a chain of lossy dipoles strongly coupled to cavity photons**|Thomas F. Allard et.al.|[2207.10584v1](http://arxiv.org/abs/2207.10584v1)|null|
 |**2022-07-21**|**Unimodal vs. Multimodal Siamese Networks for Outfit Completion**|Mariya Hendriksen et.al.|[2207.10355v1](http://arxiv.org/abs/2207.10355v1)|null|
 |**2022-07-20**|**Multimodal Estimation of End Point Force During Quasi-dynamic and Dynamic Muscle Contractions Using Deep Learning**|Gelareh Hajian et.al.|[2207.10154v1](http://arxiv.org/abs/2207.10154v1)|null|
@@ -1500,6 +1507,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-21**|**Domain Generalization for Activity Recognition via Adaptive Feature Fusion**|Xin Qin et.al.|[2207.11221v1](http://arxiv.org/abs/2207.11221v1)|**[link](https://github.com/jindongwang/transferlearning)**|
+|**2022-07-22**|**Bi-directional Contrastive Learning for Domain Adaptive Semantic Segmentation**|Geon Lee et.al.|[2207.10892v1](http://arxiv.org/abs/2207.10892v1)|null|
+|**2022-07-22**|**Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation**|Hongbin Lin et.al.|[2207.10856v1](http://arxiv.org/abs/2207.10856v1)|**[link](https://github.com/hongbin98/proca)**|
+|**2022-07-21**|**Federated Semi-Supervised Domain Adaptation via Knowledge Transfer**|Madhureeta Das et.al.|[2207.10727v1](http://arxiv.org/abs/2207.10727v1)|null|
 |**2022-07-21**|**Online Domain Adaptation for Semantic Segmentation in Ever-Changing Conditions**|Theodoros Panagiotakopoulos et.al.|[2207.10667v1](http://arxiv.org/abs/2207.10667v1)|**[link](https://github.com/theo2021/onda)**|
 |**2022-07-20**|**Generative Domain Adaptation for Face Anti-Spoofing**|Qianyu Zhou et.al.|[2207.10015v1](http://arxiv.org/abs/2207.10015v1)|null|
 |**2022-07-20**|**DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation**|Xin Lai et.al.|[2207.09988v1](http://arxiv.org/abs/2207.09988v1)|**[link](https://github.com/dvlab-research/decouplenet)**|
@@ -2010,6 +2021,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-22**|**Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay**|Huan Liu et.al.|[2207.11213v1](http://arxiv.org/abs/2207.11213v1)|null|
+|**2022-07-22**|**Multi-Faceted Distillation of Base-Novel Commonality for Few-shot Object Detection**|Shuang Wu et.al.|[2207.11184v1](http://arxiv.org/abs/2207.11184v1)|**[link](https://github.com/wushuang1998/mfdc)**|
+|**2022-07-22**|**Rethinking Few-Shot Object Detection on a Multi-Domain Benchmark**|Kibok Lee et.al.|[2207.11169v1](http://arxiv.org/abs/2207.11169v1)|null|
+|**2022-07-22**|**Development of monitoring systems for anomaly detection using ASTD specifications**|El Jabri Chaymae et.al.|[2207.11134v1](http://arxiv.org/abs/2207.11134v1)|null|
+|**2022-07-22**|**Zero-Shot Video Captioning with Evolving Pseudo-Tokens**|Yoad Tewel et.al.|[2207.11100v1](http://arxiv.org/abs/2207.11100v1)|null|
+|**2022-07-22**|**Multi-Level Fine-Tuning, Data Augmentation, and Few-Shot Learning for Specialized Cyber Threat Intelligence**|Markus Bayer et.al.|[2207.11076v1](http://arxiv.org/abs/2207.11076v1)|null|
+|**2022-07-22**|**RealFlow: EM-based Realistic Optical Flow Dataset Generation from Videos**|Yunhui Han et.al.|[2207.11075v1](http://arxiv.org/abs/2207.11075v1)|**[link](https://github.com/megvii-research/realflow)**|
+|**2022-07-22**|**Latent Space Unsupervised Semantic Segmentation**|Knut J. Strømmen et.al.|[2207.11067v1](http://arxiv.org/abs/2207.11067v1)|null|
+|**2022-07-22**|**Learning Generalized Non-Rigid Multimodal Biomedical Image Registration from Generic Point Set Data**|Zachary MC Baum et.al.|[2207.10994v1](http://arxiv.org/abs/2207.10994v1)|null|
+|**2022-07-22**|**Few-shot Object Counting and Detection**|Thanh Nguyen et.al.|[2207.10988v1](http://arxiv.org/abs/2207.10988v1)|null|
+|**2022-07-22**|**Scale dependant layer for self-supervised nuclei encoding**|Peter Naylor et.al.|[2207.10950v1](http://arxiv.org/abs/2207.10950v1)|**[link](https://github.com/peterjacknaylor/scaledependantcnn)**|
+|**2022-07-22**|**Decoupled Adversarial Contrastive Learning for Self-supervised Adversarial Robustness**|Chaoning Zhang et.al.|[2207.10899v1](http://arxiv.org/abs/2207.10899v1)|**[link](https://github.com/pantheon5100/deacl)**|
+|**2022-07-22**|**Bi-directional Contrastive Learning for Domain Adaptive Semantic Segmentation**|Geon Lee et.al.|[2207.10892v1](http://arxiv.org/abs/2207.10892v1)|null|
+|**2022-07-22**|**Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation**|Sunghwan Hong et.al.|[2207.10866v1](http://arxiv.org/abs/2207.10866v1)|null|
+|**2022-07-22**|**Geodesic-Former: a Geodesic-Guided Few-shot 3D Point Cloud Instance Segmenter**|Tuan Ngo et.al.|[2207.10859v1](http://arxiv.org/abs/2207.10859v1)|null|
+|**2022-07-22**|**Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation**|Hongbin Lin et.al.|[2207.10856v1](http://arxiv.org/abs/2207.10856v1)|**[link](https://github.com/hongbin98/proca)**|
+|**2022-07-22**|**Few-shot Image Generation Using Discrete Content Representation**|Yan Hong et.al.|[2207.10833v1](http://arxiv.org/abs/2207.10833v1)|null|
+|**2022-07-21**|**Inductive and Transductive Few-Shot Video Classification via Appearance and Temporal Alignments**|Khoi D. Nguyen et.al.|[2207.10785v1](http://arxiv.org/abs/2207.10785v1)|null|
 |**2022-07-21**|**Online Domain Adaptation for Semantic Segmentation in Ever-Changing Conditions**|Theodoros Panagiotakopoulos et.al.|[2207.10667v1](http://arxiv.org/abs/2207.10667v1)|**[link](https://github.com/theo2021/onda)**|
 |**2022-07-21**|**Novel Class Discovery without Forgetting**|K J Joseph et.al.|[2207.10659v1](http://arxiv.org/abs/2207.10659v1)|null|
 |**2022-07-21**|**Unsupervised pre-training of graph transformers on patient population graphs**|Chantal Pellegrini et.al.|[2207.10603v1](http://arxiv.org/abs/2207.10603v1)|**[link](https://github.com/chantalmp/unsupervised_pre-training_of_graph_transformers_on_patient_population_graphs)**|
@@ -4324,6 +4353,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-22**|**Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation**|Hongbin Lin et.al.|[2207.10856v1](http://arxiv.org/abs/2207.10856v1)|**[link](https://github.com/hongbin98/proca)**|
+|**2022-07-21**|**ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases**|Jintai Chen et.al.|[2207.10670v1](http://arxiv.org/abs/2207.10670v1)|null|
 |**2022-07-21**|**Generative Multiplane Images: Making a 2D GAN 3D-Aware**|Xiaoming Zhao et.al.|[2207.10642v1](http://arxiv.org/abs/2207.10642v1)|**[link](https://github.com/apple/ml-gmpi)**|
 |**2022-07-21**|**Optimal precision for GANs**|Thibaut Issenhuth et.al.|[2207.10541v1](http://arxiv.org/abs/2207.10541v1)|null|
 |**2022-07-21**|**Improved Generative Model for Weakly Supervised Chest Anomaly Localization via Pseudo-paired Registration with Bilaterally Symmetrical Data Augmentation**|Kyung-Su Kim et.al.|[2207.10324v1](http://arxiv.org/abs/2207.10324v1)|null|
