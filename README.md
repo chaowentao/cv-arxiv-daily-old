@@ -1,4 +1,4 @@
-## Updated on 2022.07.25
+## Updated on 2022.07.26
 
 ## Image Generation
 
@@ -4255,7 +4255,7 @@
 |**2022-06-23**|**EventNeRF: Neural Radiance Fields from a Single Colour Event Camera**|Viktor Rudnev et.al.|[2206.11896v1](http://arxiv.org/abs/2206.11896v1)|null|
 |**2022-06-22**|**KiloNeuS: Implicit Neural Representations with Real-Time Global Illumination**|Stefano Esposito et.al.|[2206.10885v1](http://arxiv.org/abs/2206.10885v1)|null|
 |**2022-06-16**|**Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields**|Keqiang Sun et.al.|[2206.08361v1](http://arxiv.org/abs/2206.08361v1)|null|
-|**2022-06-16**|**FWD: Real-time Novel View Synthesis with Forward Warping and Depth**|Ang Cao et.al.|[2206.08355v2](http://arxiv.org/abs/2206.08355v2)|null|
+|**2022-06-16**|**FWD: Real-time Novel View Synthesis with Forward Warping and Depth**|Ang Cao et.al.|[2206.08355v2](http://arxiv.org/abs/2206.08355v2)|**[link](https://github.com/caoang327/fwd_code)**|
 |**2022-06-15**|**Neural Deformable Voxel Grid for Fast Optimization of Dynamic View Synthesis**|Xiang Guo et.al.|[2206.07698v1](http://arxiv.org/abs/2206.07698v1)|null|
 |**2022-06-14**|**Physics Informed Neural Fields for Smoke Reconstruction with Sparse Data**|Mengyu Chu et.al.|[2206.06577v1](http://arxiv.org/abs/2206.06577v1)|null|
 |**2022-06-13**|**RigNeRF: Fully Controllable Neural 3D Portraits**|ShahRukh Athar et.al.|[2206.06481v1](http://arxiv.org/abs/2206.06481v1)|null|
