@@ -62,6 +62,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-26**|**Building ideal paraxial optical skyrmions using rational maps**|C. Cisowski et.al.|[2207.12741v1](http://arxiv.org/abs/2207.12741v1)|null|
 |**2022-07-25**|**Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging**|Aupendu Kar et.al.|[2207.11894v2](http://arxiv.org/abs/2207.11894v2)|null|
 |**2022-07-24**|**Learning Generalizable Light Field Networks from Few Images**|Qian Li et.al.|[2207.11757v1](http://arxiv.org/abs/2207.11757v1)|null|
 |**2022-07-21**|**Generalizable Patch-Based Neural Rendering**|Mohammed Suhail et.al.|[2207.10662v1](http://arxiv.org/abs/2207.10662v1)|null|
@@ -648,6 +649,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-26**|**DETRs with Hybrid Matching**|Ding Jia et.al.|[2207.13080v1](http://arxiv.org/abs/2207.13080v1)|null|
+|**2022-07-26**|**KinePose: A temporally optimized inverse kinematics technique for 6DOF human pose estimation with biomechanical constraints**|Kevin Gildea et.al.|[2207.12841v1](http://arxiv.org/abs/2207.12841v1)|null|
+|**2022-07-25**|**Translating a Visual LEGO Manual to a Machine-Executable Plan**|Ruocheng Wang et.al.|[2207.12572v1](http://arxiv.org/abs/2207.12572v1)|null|
+|**2022-07-25**|**Live Stream Temporally Embedded 3D Human Body Pose and Shape Estimation**|Zhouping Wang et.al.|[2207.12537v1](http://arxiv.org/abs/2207.12537v1)|**[link](https://github.com/ostadabbas/tepose)**|
 |**2022-07-22**|**Learning Human Kinematics by Modeling Temporal Correlations between Joints for Video-based Human Pose Estimation**|Yonghao Dang et.al.|[2207.10971v1](http://arxiv.org/abs/2207.10971v1)|null|
 |**2022-07-22**|**Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection**|Hang Ye et.al.|[2207.10955v1](http://arxiv.org/abs/2207.10955v1)|**[link](https://github.com/AlvinYH/Faster-VoxelPose)**|
 |**2022-07-21**|**Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel Structure Aligning Network**|Aline Sindel et.al.|[2207.10506v1](http://arxiv.org/abs/2207.10506v1)|null|
@@ -786,6 +791,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-26**|**NewsStories: Illustrating articles with visual summaries**|Reuben Tan et.al.|[2207.13061v1](http://arxiv.org/abs/2207.13061v1)|**[link](https://github.com/newsstoriesdata/newsstories.github.io)**|
+|**2022-07-26**|**Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models**|Robin Rombach et.al.|[2207.13038v1](http://arxiv.org/abs/2207.13038v1)|**[link](https://github.com/compvis/latent-diffusion)**|
+|**2022-07-26**|**Multimodal Speech Emotion Recognition using Cross Attention with Aligned Audio and Text**|Yoonhyung Lee et.al.|[2207.12895v1](http://arxiv.org/abs/2207.12895v1)|null|
+|**2022-07-26**|**Multimodal-GuideNet: Gaze-Probe Bidirectional Guidance in Obstetric Ultrasound Scanning**|Qianhui Men et.al.|[2207.12833v1](http://arxiv.org/abs/2207.12833v1)|null|
+|**2022-07-26**|**Adaptive Asymmetric Label-guided Hashing for Multimedia Search**|Yitian Long et.al.|[2207.12625v1](http://arxiv.org/abs/2207.12625v1)|null|
+|**2022-07-26**|**Canonicity in power and modal logics of finite achronal width**|Robert Goldblatt et.al.|[2207.12596v1](http://arxiv.org/abs/2207.12596v1)|null|
+|**2022-07-25**|**Eliciting Multimodal Gesture+Speech Interactions in a Multi-Object Augmented Reality Environment**|Xiaoyan Zhou et.al.|[2207.12566v1](http://arxiv.org/abs/2207.12566v1)|null|
 |**2022-07-25**|**Continuous ErrP detections during multimodal human-robot interaction**|Su Kyoung Kim et.al.|[2207.12267v1](http://arxiv.org/abs/2207.12267v1)|null|
 |**2022-07-25**|**Representational Ethical Model Calibration**|Robert Carruthers et.al.|[2207.12043v1](http://arxiv.org/abs/2207.12043v1)|null|
 |**2022-07-25**|**Unleashing the potential of price-based congestion management schemes: a unifying approach to compare alternative models under multiple objectives**|Ennio Cascetta et.al.|[2207.12041v1](http://arxiv.org/abs/2207.12041v1)|null|
@@ -1526,6 +1538,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-26**|**Domain Adaptation under Open Set Label Shift**|Saurabh Garg et.al.|[2207.13048v1](http://arxiv.org/abs/2207.13048v1)|**[link](https://github.com/acmi-lab/open-set-label-shift)**|
+|**2022-07-26**|**Unsupervised Domain Adaptation for Video Transformers in Action Recognition**|Victor G. Turrisi da Costa et.al.|[2207.12842v1](http://arxiv.org/abs/2207.12842v1)|null|
 |**2022-07-25**|**MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation**|Tarun Kalluri et.al.|[2207.12389v1](http://arxiv.org/abs/2207.12389v1)|null|
 |**2022-07-25**|**Improving Pseudo Labels With Intra-Class Similarity for Unsupervised Domain Adaptation**|Jie Wang et.al.|[2207.12139v1](http://arxiv.org/abs/2207.12139v1)|**[link](https://github.com/02bigboy/tsrp)**|
 |**2022-07-25**|**Optimal Boxes: Boosting End-to-End Scene Text Recognition by Adjusting Annotated Bounding Boxes via Reinforcement Learning**|Jingqun Tang et.al.|[2207.11934v2](http://arxiv.org/abs/2207.11934v2)|null|
@@ -2049,6 +2063,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-26**|**NewsStories: Illustrating articles with visual summaries**|Reuben Tan et.al.|[2207.13061v1](http://arxiv.org/abs/2207.13061v1)|**[link](https://github.com/newsstoriesdata/newsstories.github.io)**|
+|**2022-07-26**|**Hansel: A Chinese Few-Shot and Zero-Shot Entity Linking Benchmark**|Zhenran Xu et.al.|[2207.13005v1](http://arxiv.org/abs/2207.13005v1)|**[link](https://github.com/imryanxu/hansel)**|
+|**2022-07-26**|**Incremental Few-Shot Semantic Segmentation via Embedding Adaptive-Update and Hyper-class Representation**|Guangchen Shi et.al.|[2207.12964v1](http://arxiv.org/abs/2207.12964v1)|null|
+|**2022-07-26**|**Unsupervised Domain Adaptation for Video Transformers in Action Recognition**|Victor G. Turrisi da Costa et.al.|[2207.12842v1](http://arxiv.org/abs/2207.12842v1)|null|
+|**2022-07-26**|**Skill requirements in job advertisements: A comparison of skill-categorization methods based on explanatory power in wage regressions**|Ziqiao Ao et.al.|[2207.12834v1](http://arxiv.org/abs/2207.12834v1)|null|
+|**2022-07-26**|**Multivariate Functional Outlier Detection using the FastMUOD Indices**|Oluwasegun Taiwo Ojo et.al.|[2207.12803v1](http://arxiv.org/abs/2207.12803v1)|null|
+|**2022-07-26**|**PIXEL: Physics-Informed Cell Representations for Fast and Accurate PDE Solvers**|Namgyu Kang et.al.|[2207.12800v1](http://arxiv.org/abs/2207.12800v1)|null|
+|**2022-07-26**|**Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training**|Haoxuan You et.al.|[2207.12661v1](http://arxiv.org/abs/2207.12661v1)|**[link](https://github.com/hxyou/msclip)**|
+|**2022-07-26**|**ProposalContrast: Unsupervised Pre-training for LiDAR-based 3D Object Detection**|Junbo Yin et.al.|[2207.12654v1](http://arxiv.org/abs/2207.12654v1)|**[link](https://github.com/yinjunbo/proposalcontrast)**|
+|**2022-07-25**|**Unsupervised Speaker Diarization that is Agnostic to Language, Overlap-Aware, and Tuning Free**|M. Iftekhar Tanveer et.al.|[2207.12504v1](http://arxiv.org/abs/2207.12504v1)|null|
 |**2022-07-25**|**Exploring CLIP for Assessing the Look and Feel of Images**|Jianyi Wang et.al.|[2207.12396v1](http://arxiv.org/abs/2207.12396v1)|null|
 |**2022-07-25**|**MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation**|Tarun Kalluri et.al.|[2207.12389v1](http://arxiv.org/abs/2207.12389v1)|null|
 |**2022-07-25**|**Contrastive Knowledge-Augmented Meta-Learning for Few-Shot Classification**|Rakshith Subramanyam et.al.|[2207.12346v1](http://arxiv.org/abs/2207.12346v1)|null|
@@ -4404,6 +4428,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-24**|**Assessment of a cost-effective headphone calibration procedure for soundscape evaluations**|Bhan Lam et.al.|[2207.12899v1](http://arxiv.org/abs/2207.12899v1)|**[link](https://github.com/ntudsp/ica22-calibration)**|
+|**2022-07-26**|**A new regularized Siegel-Weil type formula, part I**|David Ginzburg et.al.|[2207.12818v1](http://arxiv.org/abs/2207.12818v1)|null|
+|**2022-07-26**|**MOCVD growth and band offsets of ε-phase Ga2O3 on sapphire, GaN, AlN and YSZ substrates**|A F M Anhar Uddin Bhuiyan et.al.|[2207.12582v1](http://arxiv.org/abs/2207.12582v1)|null|
 |**2022-07-25**|**High-order nonlinear terahertz probing of the two-band superconductor MgB$_2$**|C. Reinhoffer et.al.|[2207.12361v1](http://arxiv.org/abs/2207.12361v1)|null|
 |**2022-07-25**|**Stable Parallel Training of Wasserstein Conditional Generative Adversarial Neural Networks**|Massimiliano Lupo Pasini et.al.|[2207.12315v1](http://arxiv.org/abs/2207.12315v1)|null|
 |**2022-07-25**|**Estimación de áreas de cultivo mediante Deep Learning y programación convencional**|Javier Caicedo et.al.|[2207.12310v1](http://arxiv.org/abs/2207.12310v1)|null|
