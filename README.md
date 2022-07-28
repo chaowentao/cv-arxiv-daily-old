@@ -1,4 +1,4 @@
-## Updated on 2022.07.27
+## Updated on 2022.07.28
 
 ## Image Generation
 
@@ -21,7 +21,7 @@
 |**2022-03-29**|**Pop-Out Motion: 3D-Aware Image Deformation via Learning the Shape Laplacian**|Jihyun Lee et.al.|[2203.15235v1](http://arxiv.org/abs/2203.15235v1)|null|
 |**2022-03-28**|**ObjectFormer for Image Manipulation Detection and Localization**|Junke Wang et.al.|[2203.14681v2](http://arxiv.org/abs/2203.14681v2)|null|
 |**2022-03-24**|**Semantic Image Manipulation with Background-guided Internal Learning**|Zhongping Zhang et.al.|[2203.12849v1](http://arxiv.org/abs/2203.12849v1)|null|
-|**2022-03-21**|**High-fidelity GAN Inversion with Padding Space**|Qingyan Bai et.al.|[2203.11105v1](http://arxiv.org/abs/2203.11105v1)|**[link](https://github.com/ezioby/padinv)**|
+|**2022-03-21**|**High-fidelity GAN Inversion with Padding Space**|Qingyan Bai et.al.|[2203.11105v2](http://arxiv.org/abs/2203.11105v2)|**[link](https://github.com/ezioby/padinv)**|
 |**2022-03-19**|**Volkit: A Performance-Portable Computer Vision Library for 3D Volumetric Data**|Stefan Zellmann et.al.|[2203.10213v1](http://arxiv.org/abs/2203.10213v1)|null|
 |**2022-03-15**|**SISL:Self-Supervised Image Signature Learning for Splicing Detection and Localization**|Susmit Agrawal et.al.|[2203.07824v1](http://arxiv.org/abs/2203.07824v1)|null|
 |**2022-03-08**|**Data augmentation with mixtures of max-entropy transformations for filling-level classification**|Apostolos Modas et.al.|[2203.04027v1](http://arxiv.org/abs/2203.04027v1)|null|
@@ -202,7 +202,7 @@
 |**2022-07-25**|**Self-Distilled Vision Transformer for Domain Generalization**|Maryam Sultana et.al.|[2207.12392v1](http://arxiv.org/abs/2207.12392v1)|**[link](https://github.com/maryam089/sdvit)**|
 |**2022-07-22**|**Applying Spatiotemporal Attention to Identify Distracted and Drowsy Driving with Vision Transformers**|Samay Lakhani et.al.|[2207.12148v1](http://arxiv.org/abs/2207.12148v1)|null|
 |**2022-07-25**|**Jigsaw-ViT: Learning Jigsaw Puzzles in Vision Transformer**|Yingyi Chen et.al.|[2207.11971v1](http://arxiv.org/abs/2207.11971v1)|null|
-|**2022-07-25**|**Behind Every Domain There is a Shift: Adapting Distortion-aware Vision Transformers for Panoramic Semantic Segmentation**|Jiaming Zhang et.al.|[2207.11860v1](http://arxiv.org/abs/2207.11860v1)|**[link](https://github.com/jamycheung/trans4pass)**|
+|**2022-07-25**|**Behind Every Domain There is a Shift: Adapting Distortion-aware Vision Transformers for Panoramic Semantic Segmentation**|Jiaming Zhang et.al.|[2207.11860v2](http://arxiv.org/abs/2207.11860v2)|**[link](https://github.com/jamycheung/trans4pass)**|
 |**2022-07-24**|**Improved Super Resolution of MR Images Using CNNs and Vision Transformers**|Dwarikanath Mahapatra et.al.|[2207.11748v1](http://arxiv.org/abs/2207.11748v1)|null|
 |**2022-07-24**|**Affective Behaviour Analysis Using Pretrained Model with Facial Priori**|Yifan Li et.al.|[2207.11679v1](http://arxiv.org/abs/2207.11679v1)|null|
 |**2022-07-24**|**MAR: Masked Autoencoders for Efficient Action Recognition**|Zhiwu Qing et.al.|[2207.11660v1](http://arxiv.org/abs/2207.11660v1)|null|
@@ -1545,7 +1545,7 @@
 |**2022-07-25**|**Optimal Boxes: Boosting End-to-End Scene Text Recognition by Adjusting Annotated Bounding Boxes via Reinforcement Learning**|Jingqun Tang et.al.|[2207.11934v2](http://arxiv.org/abs/2207.11934v2)|null|
 |**2022-07-25**|**Domain Adaptive Person Search**|Junjie Li et.al.|[2207.11898v1](http://arxiv.org/abs/2207.11898v1)|**[link](https://github.com/caposerenity/daps)**|
 |**2022-07-25**|**Sparse-based Domain Adaptation Network for OCTA Image Super-Resolution Reconstruction**|Huaying Hao et.al.|[2207.11882v1](http://arxiv.org/abs/2207.11882v1)|null|
-|**2022-07-25**|**Behind Every Domain There is a Shift: Adapting Distortion-aware Vision Transformers for Panoramic Semantic Segmentation**|Jiaming Zhang et.al.|[2207.11860v1](http://arxiv.org/abs/2207.11860v1)|**[link](https://github.com/jamycheung/trans4pass)**|
+|**2022-07-25**|**Behind Every Domain There is a Shift: Adapting Distortion-aware Vision Transformers for Panoramic Semantic Segmentation**|Jiaming Zhang et.al.|[2207.11860v2](http://arxiv.org/abs/2207.11860v2)|**[link](https://github.com/jamycheung/trans4pass)**|
 |**2022-07-24**|**Improving Test-Time Adaptation via Shift-agnostic Weight Regularization and Nearest Source Prototypes**|Sungha Choi et.al.|[2207.11707v1](http://arxiv.org/abs/2207.11707v1)|null|
 |**2022-07-23**|**Contrastive Monotonic Pixel-Level Modulation**|Kun Lu et.al.|[2207.11517v1](http://arxiv.org/abs/2207.11517v1)|**[link](https://github.com/lukun199/monopix)**|
 |**2022-07-22**|**PieTrack: An MOT solution based on synthetic data training and self-supervised domain adaptation**|Yirui Wang et.al.|[2207.11325v1](http://arxiv.org/abs/2207.11325v1)|null|
