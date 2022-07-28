@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-27**|**Multi-Forgery Detection Challenge 2022: Push the Frontier of Unconstrained and Diverse Forgery Detection**|Jianshu Li et.al.|[2207.13505v1](http://arxiv.org/abs/2207.13505v1)|null|
 |**2022-07-13**|**Supervised Attribute Information Removal and Reconstruction for Image Manipulation**|Nannan Li et.al.|[2207.06555v1](http://arxiv.org/abs/2207.06555v1)|**[link](https://github.com/nannanli999/airr)**|
 |**2022-07-06**|**Towards Counterfactual Image Manipulation via CLIP**|Yingchen Yu et.al.|[2207.02812v3](http://arxiv.org/abs/2207.02812v3)|**[link](https://github.com/yingchen001/cf-clip)**|
 |**2022-07-02**|**Noise and Edge Based Dual Branch Image Manipulation Detection**|Zhongyuan Zhang et.al.|[2207.00724v1](http://arxiv.org/abs/2207.00724v1)|**[link](https://github.com/kakashiz/nedb-net)**|
@@ -199,6 +200,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-24**|**Online Continual Learning with Contrastive Vision Transformer**|Zhen Wang et.al.|[2207.13516v1](http://arxiv.org/abs/2207.13516v1)|null|
+|**2022-07-27**|**Deep Clustering with Features from Self-Supervised Pretraining**|Xingzhi Zhou et.al.|[2207.13364v1](http://arxiv.org/abs/2207.13364v1)|null|
+|**2022-07-27**|**Convolutional Embedding Makes Hierarchical Vision Transformer Stronger**|Cong Wang et.al.|[2207.13317v1](http://arxiv.org/abs/2207.13317v1)|null|
 |**2022-07-25**|**Self-Distilled Vision Transformer for Domain Generalization**|Maryam Sultana et.al.|[2207.12392v1](http://arxiv.org/abs/2207.12392v1)|**[link](https://github.com/maryam089/sdvit)**|
 |**2022-07-22**|**Applying Spatiotemporal Attention to Identify Distracted and Drowsy Driving with Vision Transformers**|Samay Lakhani et.al.|[2207.12148v1](http://arxiv.org/abs/2207.12148v1)|null|
 |**2022-07-25**|**Jigsaw-ViT: Learning Jigsaw Puzzles in Vision Transformer**|Yingyi Chen et.al.|[2207.11971v1](http://arxiv.org/abs/2207.11971v1)|null|
@@ -791,6 +795,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-27**|**Reducing the Vision and Language Bias for Temporal Sentence Grounding**|Daizong Liu et.al.|[2207.13457v1](http://arxiv.org/abs/2207.13457v1)|null|
+|**2022-07-27**|**Power Law Rheology of Folded Protein Hydrogels**|Anders Aufderhorst-Roberts et.al.|[2207.13348v1](http://arxiv.org/abs/2207.13348v1)|null|
+|**2022-07-27**|**Fast optical refocusing through multimode fiber bend using Cake-Cutting Hadamard encoding algorithm to improve robustness**|Chuncheng Zhang et.al.|[2207.13334v1](http://arxiv.org/abs/2207.13334v1)|null|
+|**2022-07-27**|**Multimodal synchrotron X-ray diffraction across the superconducting transition of Sr$_{0.1}$Bi$_2$Se$_3$**|M. P. Smylie et.al.|[2207.13221v1](http://arxiv.org/abs/2207.13221v1)|null|
+|**2022-07-26**|**Multimodal Imaging-based Material Mass Density Estimation for Proton Therapy Using Physics-Constrained Deep Learning**|Chih-Wei Chang et.al.|[2207.13150v1](http://arxiv.org/abs/2207.13150v1)|null|
 |**2022-07-26**|**NewsStories: Illustrating articles with visual summaries**|Reuben Tan et.al.|[2207.13061v1](http://arxiv.org/abs/2207.13061v1)|**[link](https://github.com/newsstoriesdata/newsstories.github.io)**|
 |**2022-07-26**|**Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models**|Robin Rombach et.al.|[2207.13038v1](http://arxiv.org/abs/2207.13038v1)|**[link](https://github.com/compvis/latent-diffusion)**|
 |**2022-07-26**|**Multimodal Speech Emotion Recognition using Cross Attention with Aligned Audio and Text**|Yoonhyung Lee et.al.|[2207.12895v1](http://arxiv.org/abs/2207.12895v1)|null|
@@ -1538,6 +1547,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-27**|**Look Closer to Your Enemy: Learning to Attack via Teacher-student Mimicking**|Mingejie Wang et.al.|[2207.13381v1](http://arxiv.org/abs/2207.13381v1)|null|
+|**2022-07-27**|**Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation**|Jogendra Nath Kundu et.al.|[2207.13247v1](http://arxiv.org/abs/2207.13247v1)|**[link](https://github.com/val-iisc/stickerda)**|
+|**2022-07-27**|**Contrastive Image Synthesis and Self-supervised Feature Adaptation for Cross-Modality Biomedical Image Segmentation**|Xinrong Hu et.al.|[2207.13240v1](http://arxiv.org/abs/2207.13240v1)|null|
 |**2022-07-26**|**Domain Adaptation under Open Set Label Shift**|Saurabh Garg et.al.|[2207.13048v1](http://arxiv.org/abs/2207.13048v1)|**[link](https://github.com/acmi-lab/open-set-label-shift)**|
 |**2022-07-26**|**Unsupervised Domain Adaptation for Video Transformers in Action Recognition**|Victor G. Turrisi da Costa et.al.|[2207.12842v1](http://arxiv.org/abs/2207.12842v1)|null|
 |**2022-07-25**|**MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation**|Tarun Kalluri et.al.|[2207.12389v1](http://arxiv.org/abs/2207.12389v1)|null|
@@ -2063,6 +2075,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-27**|**Unsupervised Training for Neural TSP Solver**|Elīza Gaile et.al.|[2207.13667v1](http://arxiv.org/abs/2207.13667v1)|null|
+|**2022-07-27**|**Time to augment contrastive learning**|Arthur Aubret et.al.|[2207.13492v1](http://arxiv.org/abs/2207.13492v1)|null|
+|**2022-07-27**|**PASTA-GAN++: A Versatile Framework for High-Resolution Unpaired Virtual Try-on**|Zhenyu Xie et.al.|[2207.13475v1](http://arxiv.org/abs/2207.13475v1)|**[link](https://github.com/xiezhy6/pasta-gan-plusplus)**|
+|**2022-07-27**|**Leveraging GAN Priors for Few-Shot Part Segmentation**|Mengya Han et.al.|[2207.13428v1](http://arxiv.org/abs/2207.13428v1)|**[link](https://github.com/hanmengya1996/pftgan)**|
+|**2022-07-27**|**Statistical Keystroke Synthesis for Improved Bot Detection**|Daniel DeAlcala et.al.|[2207.13394v1](http://arxiv.org/abs/2207.13394v1)|null|
+|**2022-07-27**|**Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation**|Jogendra Nath Kundu et.al.|[2207.13247v1](http://arxiv.org/abs/2207.13247v1)|**[link](https://github.com/val-iisc/stickerda)**|
+|**2022-07-27**|**Contrastive Image Synthesis and Self-supervised Feature Adaptation for Cross-Modality Biomedical Image Segmentation**|Xinrong Hu et.al.|[2207.13240v1](http://arxiv.org/abs/2207.13240v1)|null|
+|**2022-07-27**|**Point-McBert: A Multi-choice Self-supervised Framework for Point Cloud Pre-training**|Kexue Fu et.al.|[2207.13226v1](http://arxiv.org/abs/2207.13226v1)|null|
+|**2022-07-26**|**Unsupervised Learning under Latent Label Shift**|Manley Roberts et.al.|[2207.13179v1](http://arxiv.org/abs/2207.13179v1)|**[link](https://github.com/manleyroberts/lls-ddfa)**|
+|**2022-07-26**|**Unsupervised Contrastive Learning of Image Representations from Ultrasound Videos with Hard Negative Mining**|Soumen Basu et.al.|[2207.13148v1](http://arxiv.org/abs/2207.13148v1)|null|
 |**2022-07-26**|**NewsStories: Illustrating articles with visual summaries**|Reuben Tan et.al.|[2207.13061v1](http://arxiv.org/abs/2207.13061v1)|**[link](https://github.com/newsstoriesdata/newsstories.github.io)**|
 |**2022-07-26**|**Hansel: A Chinese Few-Shot and Zero-Shot Entity Linking Benchmark**|Zhenran Xu et.al.|[2207.13005v1](http://arxiv.org/abs/2207.13005v1)|**[link](https://github.com/imryanxu/hansel)**|
 |**2022-07-26**|**Incremental Few-Shot Semantic Segmentation via Embedding Adaptive-Update and Hyper-class Representation**|Guangchen Shi et.al.|[2207.12964v1](http://arxiv.org/abs/2207.12964v1)|null|
@@ -4311,6 +4333,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 |**2022-07-25**|**Deforming Radiance Fields with Cages**|Tianhan Xu et.al.|[2207.12298v1](http://arxiv.org/abs/2207.12298v1)|null|
 |**2022-07-24**|**Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis**|Shuai Shen et.al.|[2207.11770v1](http://arxiv.org/abs/2207.11770v1)|null|
 |**2022-07-22**|**Neural-Sim: Learning to Generate Training Data with NeRF**|Yunhao Ge et.al.|[2207.11368v1](http://arxiv.org/abs/2207.11368v1)|**[link](https://github.com/gyhandy/neural-sim-nerf)**|
@@ -4428,6 +4451,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-27**|**Leveraging GAN Priors for Few-Shot Part Segmentation**|Mengya Han et.al.|[2207.13428v1](http://arxiv.org/abs/2207.13428v1)|**[link](https://github.com/hanmengya1996/pftgan)**|
+|**2022-07-27**|**Generator Knows What Discriminator Should Learn in Unconditional GANs**|Gayoung Lee et.al.|[2207.13320v1](http://arxiv.org/abs/2207.13320v1)|**[link](https://github.com/naver-ai/ggdr)**|
 |**2022-07-24**|**Assessment of a cost-effective headphone calibration procedure for soundscape evaluations**|Bhan Lam et.al.|[2207.12899v1](http://arxiv.org/abs/2207.12899v1)|**[link](https://github.com/ntudsp/ica22-calibration)**|
 |**2022-07-26**|**A new regularized Siegel-Weil type formula, part I**|David Ginzburg et.al.|[2207.12818v1](http://arxiv.org/abs/2207.12818v1)|null|
 |**2022-07-26**|**MOCVD growth and band offsets of ε-phase Ga2O3 on sapphire, GaN, AlN and YSZ substrates**|A F M Anhar Uddin Bhuiyan et.al.|[2207.12582v1](http://arxiv.org/abs/2207.12582v1)|null|
