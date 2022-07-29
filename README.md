@@ -200,6 +200,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-28**|**HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions**|Yongming Rao et.al.|[2207.14284v1](http://arxiv.org/abs/2207.14284v1)|**[link](https://github.com/raoyongming/hornet)**|
+|**2022-07-28**|**DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer**|Hao Li et.al.|[2207.13861v1](http://arxiv.org/abs/2207.13861v1)|null|
 |**2022-07-24**|**Online Continual Learning with Contrastive Vision Transformer**|Zhen Wang et.al.|[2207.13516v1](http://arxiv.org/abs/2207.13516v1)|null|
 |**2022-07-27**|**Deep Clustering with Features from Self-Supervised Pretraining**|Xingzhi Zhou et.al.|[2207.13364v1](http://arxiv.org/abs/2207.13364v1)|null|
 |**2022-07-27**|**Convolutional Embedding Makes Hierarchical Vision Transformer Stronger**|Cong Wang et.al.|[2207.13317v1](http://arxiv.org/abs/2207.13317v1)|null|
@@ -795,6 +797,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-28**|**Dialogue Enhancement and Listening Effort in Broadcast Audio: A Multimodal Evaluation**|Matteo Torcoli et.al.|[2207.14240v1](http://arxiv.org/abs/2207.14240v1)|null|
+|**2022-07-28**|**Towards highly efficient broadband superconducting quantum memory**|A. R. Matanin et.al.|[2207.14092v1](http://arxiv.org/abs/2207.14092v1)|null|
+|**2022-07-28**|**CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation**|Hao Sun et.al.|[2207.14087v1](http://arxiv.org/abs/2207.14087v1)|null|
+|**2022-07-28**|**Knowing Where and What: Unified Word Block Pretraining for Document Understanding**|Song Tao et.al.|[2207.13979v1](http://arxiv.org/abs/2207.13979v1)|**[link](https://github.com/taosong2019/utel)**|
+|**2022-07-28**|**Photonic sampled and quantized analog-to-digital converters on thin-film lithium niobate platform**|Donghe Tu et.al.|[2207.13972v1](http://arxiv.org/abs/2207.13972v1)|null|
 |**2022-07-27**|**Reducing the Vision and Language Bias for Temporal Sentence Grounding**|Daizong Liu et.al.|[2207.13457v1](http://arxiv.org/abs/2207.13457v1)|null|
 |**2022-07-27**|**Power Law Rheology of Folded Protein Hydrogels**|Anders Aufderhorst-Roberts et.al.|[2207.13348v1](http://arxiv.org/abs/2207.13348v1)|null|
 |**2022-07-27**|**Fast optical refocusing through multimode fiber bend using Cake-Cutting Hadamard encoding algorithm to improve robustness**|Chuncheng Zhang et.al.|[2207.13334v1](http://arxiv.org/abs/2207.13334v1)|null|
@@ -2075,6 +2082,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-28**|**Depth Field Networks for Generalizable Multi-view Scene Representation**|Vitor Guizilini et.al.|[2207.14287v1](http://arxiv.org/abs/2207.14287v1)|null|
+|**2022-07-28**|**CrAM: A Compression-Aware Minimizer**|Alexandra Peste et.al.|[2207.14200v1](http://arxiv.org/abs/2207.14200v1)|null|
+|**2022-07-28**|**PencilNet: Zero-Shot Sim-to-Real Transfer Learning for Robust Gate Perception in Autonomous Drone Racing**|Huy Xuan Pham et.al.|[2207.14131v1](http://arxiv.org/abs/2207.14131v1)|null|
+|**2022-07-28**|**MarkerMap: nonlinear marker selection for single-cell studies**|Nabeel Sarwar et.al.|[2207.14106v1](http://arxiv.org/abs/2207.14106v1)|null|
+|**2022-07-28**|**Unsupervised Frequent Pattern Mining for CEP**|Guy Shapira et.al.|[2207.14017v1](http://arxiv.org/abs/2207.14017v1)|null|
+|**2022-07-28**|**ClaSP -- Parameter-free Time Series Segmentation**|Arik Ermshaus et.al.|[2207.13987v1](http://arxiv.org/abs/2207.13987v1)|null|
 |**2022-07-27**|**Unsupervised Training for Neural TSP Solver**|Elīza Gaile et.al.|[2207.13667v1](http://arxiv.org/abs/2207.13667v1)|null|
 |**2022-07-27**|**Time to augment contrastive learning**|Arthur Aubret et.al.|[2207.13492v1](http://arxiv.org/abs/2207.13492v1)|null|
 |**2022-07-27**|**PASTA-GAN++: A Versatile Framework for High-Resolution Unpaired Virtual Try-on**|Zhenyu Xie et.al.|[2207.13475v1](http://arxiv.org/abs/2207.13475v1)|**[link](https://github.com/xiezhy6/pasta-gan-plusplus)**|
@@ -4451,6 +4464,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-28**|**Rewriting Geometric Rules of a GAN**|Sheng-Yu Wang et.al.|[2207.14288v1](http://arxiv.org/abs/2207.14288v1)|**[link](https://github.com/peterwang512/ganwarping)**|
+|**2022-07-28**|**Atmosphere of the mini-Neptune transiting the bright M dwarf GJ 3090 can be characterized**|J. M. Almenara et.al.|[2207.14121v1](http://arxiv.org/abs/2207.14121v1)|null|
+|**2022-07-28**|**A truncated Siegel-Weil formula and Borcherds forms**|Armando Gutierrez Terradillos et.al.|[2207.13961v1](http://arxiv.org/abs/2207.13961v1)|null|
+|**2022-07-28**|**On restricted projections to planes in $\mathbb{R}^3$**|Shengwen Gan et.al.|[2207.13844v1](http://arxiv.org/abs/2207.13844v1)|null|
 |**2022-07-27**|**Leveraging GAN Priors for Few-Shot Part Segmentation**|Mengya Han et.al.|[2207.13428v1](http://arxiv.org/abs/2207.13428v1)|**[link](https://github.com/hanmengya1996/pftgan)**|
 |**2022-07-27**|**Generator Knows What Discriminator Should Learn in Unconditional GANs**|Gayoung Lee et.al.|[2207.13320v1](http://arxiv.org/abs/2207.13320v1)|**[link](https://github.com/naver-ai/ggdr)**|
 |**2022-07-24**|**Assessment of a cost-effective headphone calibration procedure for soundscape evaluations**|Bhan Lam et.al.|[2207.12899v1](http://arxiv.org/abs/2207.12899v1)|**[link](https://github.com/ntudsp/ica22-calibration)**|
