@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.28
+## Updated on 2022.07.29
 
 ## SLAM
 
@@ -218,7 +218,7 @@ layout: default
 |**2022-07-26**|**Building ideal paraxial optical skyrmions using rational maps**|C. Cisowski et.al.|[2207.12741v1](http://arxiv.org/abs/2207.12741v1)|null|
 |**2022-07-25**|**Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging**|Aupendu Kar et.al.|[2207.11894v2](http://arxiv.org/abs/2207.11894v2)|null|
 |**2022-07-24**|**Learning Generalizable Light Field Networks from Few Images**|Qian Li et.al.|[2207.11757v1](http://arxiv.org/abs/2207.11757v1)|null|
-|**2022-07-21**|**Generalizable Patch-Based Neural Rendering**|Mohammed Suhail et.al.|[2207.10662v1](http://arxiv.org/abs/2207.10662v1)|null|
+|**2022-07-21**|**Generalizable Patch-Based Neural Rendering**|Mohammed Suhail et.al.|[2207.10662v2](http://arxiv.org/abs/2207.10662v2)|null|
 |**2022-07-21**|**Multi-photon-addition amplified coherent state**|Xue-feng Zhan et.al.|[2207.10452v1](http://arxiv.org/abs/2207.10452v1)|null|
 |**2022-07-21**|**Synthesizing Light Field Video from Monocular Video**|Shrisudhan Govindarajan et.al.|[2207.10357v1](http://arxiv.org/abs/2207.10357v1)|**[link](https://github.com/ShrisudhanG/Synthesizing-Light-Field-Video-from-Monocular-Video)**|
 |**2022-07-19**|**A subwavelength atomic array switched by a single Rydberg atom**|Kritsana Srakaew et.al.|[2207.09383v1](http://arxiv.org/abs/2207.09383v1)|null|
@@ -812,7 +812,7 @@ layout: default
 |**2022-07-22**|**Learning Human Kinematics by Modeling Temporal Correlations between Joints for Video-based Human Pose Estimation**|Yonghao Dang et.al.|[2207.10971v1](http://arxiv.org/abs/2207.10971v1)|null|
 |**2022-07-22**|**Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection**|Hang Ye et.al.|[2207.10955v1](http://arxiv.org/abs/2207.10955v1)|**[link](https://github.com/AlvinYH/Faster-VoxelPose)**|
 |**2022-07-21**|**Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel Structure Aligning Network**|Aline Sindel et.al.|[2207.10506v1](http://arxiv.org/abs/2207.10506v1)|null|
-|**2022-07-20**|**OTPose: Occlusion-Aware Transformer for Pose Estimation in Sparsely-Labeled Videos**|Kyung-Min Jin et.al.|[2207.09725v1](http://arxiv.org/abs/2207.09725v1)|null|
+|**2022-07-20**|**OTPose: Occlusion-Aware Transformer for Pose Estimation in Sparsely-Labeled Videos**|Kyung-Min Jin et.al.|[2207.09725v2](http://arxiv.org/abs/2207.09725v2)|null|
 |**2022-07-19**|**Computer Vision to the Rescue: Infant Postural Symmetry Estimation from Incongruent Annotations**|Xiaofei Huang et.al.|[2207.09352v1](http://arxiv.org/abs/2207.09352v1)|**[link](https://github.com/ostadabbas/infant-postural-symmetry)**|
 |**2022-07-19**|**DH-AUG: DH Forward Kinematics Model Driven Augmentation for 3D Human Pose Estimation**|Linzhi Huang et.al.|[2207.09303v1](http://arxiv.org/abs/2207.09303v1)|**[link](https://github.com/hlz0606/dh-aug-dh-forward-kinematics-model-driven-augmentation-for-3d-human-pose-estimation)**|
 |**2022-07-16**|**Mutual Adaptive Reasoning for Monocular 3D Multi-Person Pose Estimation**|Juze Zhang et.al.|[2207.07900v1](http://arxiv.org/abs/2207.07900v1)|null|
@@ -951,7 +951,7 @@ layout: default
 |**2022-07-27**|**Power Law Rheology of Folded Protein Hydrogels**|Anders Aufderhorst-Roberts et.al.|[2207.13348v1](http://arxiv.org/abs/2207.13348v1)|null|
 |**2022-07-27**|**Fast optical refocusing through multimode fiber bend using Cake-Cutting Hadamard encoding algorithm to improve robustness**|Chuncheng Zhang et.al.|[2207.13334v1](http://arxiv.org/abs/2207.13334v1)|null|
 |**2022-07-27**|**Multimodal synchrotron X-ray diffraction across the superconducting transition of Sr$_{0.1}$Bi$_2$Se$_3$**|M. P. Smylie et.al.|[2207.13221v1](http://arxiv.org/abs/2207.13221v1)|null|
-|**2022-07-26**|**Multimodal Imaging-based Material Mass Density Estimation for Proton Therapy Using Physics-Constrained Deep Learning**|Chih-Wei Chang et.al.|[2207.13150v1](http://arxiv.org/abs/2207.13150v1)|null|
+|**2022-07-26**|**Multimodal Imaging-based Material Mass Density Estimation for Proton Therapy Using Physics-Constrained Deep Learning**|Chih-Wei Chang et.al.|[2207.13150v2](http://arxiv.org/abs/2207.13150v2)|null|
 |**2022-07-26**|**NewsStories: Illustrating articles with visual summaries**|Reuben Tan et.al.|[2207.13061v1](http://arxiv.org/abs/2207.13061v1)|**[link](https://github.com/newsstoriesdata/newsstories.github.io)**|
 |**2022-07-26**|**Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models**|Robin Rombach et.al.|[2207.13038v1](http://arxiv.org/abs/2207.13038v1)|**[link](https://github.com/compvis/latent-diffusion)**|
 |**2022-07-26**|**Multimodal Speech Emotion Recognition using Cross Attention with Aligned Audio and Text**|Yoonhyung Lee et.al.|[2207.12895v1](http://arxiv.org/abs/2207.12895v1)|null|
@@ -1699,7 +1699,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-07-27**|**Look Closer to Your Enemy: Learning to Attack via Teacher-student Mimicking**|Mingejie Wang et.al.|[2207.13381v1](http://arxiv.org/abs/2207.13381v1)|null|
+|**2022-07-27**|**Look Closer to Your Enemy: Learning to Attack via Teacher-student Mimicking**|Mingejie Wang et.al.|[2207.13381v2](http://arxiv.org/abs/2207.13381v2)|null|
 |**2022-07-27**|**Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation**|Jogendra Nath Kundu et.al.|[2207.13247v1](http://arxiv.org/abs/2207.13247v1)|**[link](https://github.com/val-iisc/stickerda)**|
 |**2022-07-27**|**Contrastive Image Synthesis and Self-supervised Feature Adaptation for Cross-Modality Biomedical Image Segmentation**|Xinrong Hu et.al.|[2207.13240v1](http://arxiv.org/abs/2207.13240v1)|null|
 |**2022-07-26**|**Domain Adaptation under Open Set Label Shift**|Saurabh Garg et.al.|[2207.13048v1](http://arxiv.org/abs/2207.13048v1)|**[link](https://github.com/acmi-lab/open-set-label-shift)**|
@@ -2231,7 +2231,7 @@ layout: default
 |**2022-07-27**|**Time to augment contrastive learning**|Arthur Aubret et.al.|[2207.13492v1](http://arxiv.org/abs/2207.13492v1)|null|
 |**2022-07-27**|**PASTA-GAN++: A Versatile Framework for High-Resolution Unpaired Virtual Try-on**|Zhenyu Xie et.al.|[2207.13475v1](http://arxiv.org/abs/2207.13475v1)|**[link](https://github.com/xiezhy6/pasta-gan-plusplus)**|
 |**2022-07-27**|**Leveraging GAN Priors for Few-Shot Part Segmentation**|Mengya Han et.al.|[2207.13428v1](http://arxiv.org/abs/2207.13428v1)|**[link](https://github.com/hanmengya1996/pftgan)**|
-|**2022-07-27**|**Statistical Keystroke Synthesis for Improved Bot Detection**|Daniel DeAlcala et.al.|[2207.13394v1](http://arxiv.org/abs/2207.13394v1)|null|
+|**2022-07-27**|**Statistical Keystroke Synthesis for Improved Bot Detection**|Daniel DeAlcala et.al.|[2207.13394v2](http://arxiv.org/abs/2207.13394v2)|null|
 |**2022-07-27**|**Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation**|Jogendra Nath Kundu et.al.|[2207.13247v1](http://arxiv.org/abs/2207.13247v1)|**[link](https://github.com/val-iisc/stickerda)**|
 |**2022-07-27**|**Contrastive Image Synthesis and Self-supervised Feature Adaptation for Cross-Modality Biomedical Image Segmentation**|Xinrong Hu et.al.|[2207.13240v1](http://arxiv.org/abs/2207.13240v1)|null|
 |**2022-07-27**|**Point-McBert: A Multi-choice Self-supervised Framework for Point Cloud Pre-training**|Kexue Fu et.al.|[2207.13226v1](http://arxiv.org/abs/2207.13226v1)|null|
@@ -4489,7 +4489,7 @@ layout: default
 |**2022-07-25**|**Deforming Radiance Fields with Cages**|Tianhan Xu et.al.|[2207.12298v1](http://arxiv.org/abs/2207.12298v1)|null|
 |**2022-07-24**|**Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis**|Shuai Shen et.al.|[2207.11770v1](http://arxiv.org/abs/2207.11770v1)|null|
 |**2022-07-22**|**Neural-Sim: Learning to Generate Training Data with NeRF**|Yunhao Ge et.al.|[2207.11368v1](http://arxiv.org/abs/2207.11368v1)|**[link](https://github.com/gyhandy/neural-sim-nerf)**|
-|**2022-07-21**|**Generalizable Patch-Based Neural Rendering**|Mohammed Suhail et.al.|[2207.10662v1](http://arxiv.org/abs/2207.10662v1)|null|
+|**2022-07-21**|**Generalizable Patch-Based Neural Rendering**|Mohammed Suhail et.al.|[2207.10662v2](http://arxiv.org/abs/2207.10662v2)|null|
 |**2022-07-21**|**Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis**|Jeong-gi Kwak et.al.|[2207.10257v2](http://arxiv.org/abs/2207.10257v2)|**[link](https://github.com/jgkwak95/surf-gan)**|
 |**2022-07-14**|**Neural apparent BRDF fields for multiview photometric stereo**|Meghna Asthana et.al.|[2207.06793v1](http://arxiv.org/abs/2207.06793v1)|null|
 |**2022-07-12**|**Vision Transformer for NeRF-Based View Synthesis from a Single Input Image**|Kai-En Lin et.al.|[2207.05736v1](http://arxiv.org/abs/2207.05736v1)|null|
