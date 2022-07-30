@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.29
+## Updated on 2022.07.30
 
 ## SLAM
 
@@ -952,7 +952,7 @@ layout: default
 |**2022-07-28**|**Dialogue Enhancement and Listening Effort in Broadcast Audio: A Multimodal Evaluation**|Matteo Torcoli et.al.|[2207.14240v1](http://arxiv.org/abs/2207.14240v1)|null|
 |**2022-07-28**|**Towards highly efficient broadband superconducting quantum memory**|A. R. Matanin et.al.|[2207.14092v1](http://arxiv.org/abs/2207.14092v1)|null|
 |**2022-07-28**|**CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation**|Hao Sun et.al.|[2207.14087v1](http://arxiv.org/abs/2207.14087v1)|null|
-|**2022-07-28**|**Knowing Where and What: Unified Word Block Pretraining for Document Understanding**|Song Tao et.al.|[2207.13979v1](http://arxiv.org/abs/2207.13979v1)|**[link](https://github.com/taosong2019/utel)**|
+|**2022-07-28**|**Knowing Where and What: Unified Word Block Pretraining for Document Understanding**|Song Tao et.al.|[2207.13979v1](http://arxiv.org/abs/2207.13979v1)|null|
 |**2022-07-28**|**Photonic sampled and quantized analog-to-digital converters on thin-film lithium niobate platform**|Donghe Tu et.al.|[2207.13972v1](http://arxiv.org/abs/2207.13972v1)|null|
 |**2022-07-27**|**Reducing the Vision and Language Bias for Temporal Sentence Grounding**|Daizong Liu et.al.|[2207.13457v1](http://arxiv.org/abs/2207.13457v1)|null|
 |**2022-07-27**|**Power Law Rheology of Folded Protein Hydrogels**|Anders Aufderhorst-Roberts et.al.|[2207.13348v1](http://arxiv.org/abs/2207.13348v1)|null|
