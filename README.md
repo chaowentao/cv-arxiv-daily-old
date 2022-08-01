@@ -1,4 +1,4 @@
-## Updated on 2022.07.31
+## Updated on 2022.08.01
 
 ## Image Generation
 
@@ -800,7 +800,7 @@
 |**2022-07-28**|**Dialogue Enhancement and Listening Effort in Broadcast Audio: A Multimodal Evaluation**|Matteo Torcoli et.al.|[2207.14240v1](http://arxiv.org/abs/2207.14240v1)|null|
 |**2022-07-28**|**Towards highly efficient broadband superconducting quantum memory**|A. R. Matanin et.al.|[2207.14092v1](http://arxiv.org/abs/2207.14092v1)|null|
 |**2022-07-28**|**CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation**|Hao Sun et.al.|[2207.14087v1](http://arxiv.org/abs/2207.14087v1)|null|
-|**2022-07-28**|**Knowing Where and What: Unified Word Block Pretraining for Document Understanding**|Song Tao et.al.|[2207.13979v1](http://arxiv.org/abs/2207.13979v1)|null|
+|**2022-07-28**|**Knowing Where and What: Unified Word Block Pretraining for Document Understanding**|Song Tao et.al.|[2207.13979v2](http://arxiv.org/abs/2207.13979v2)|null|
 |**2022-07-28**|**Photonic sampled and quantized analog-to-digital converters on thin-film lithium niobate platform**|Donghe Tu et.al.|[2207.13972v1](http://arxiv.org/abs/2207.13972v1)|null|
 |**2022-07-27**|**Reducing the Vision and Language Bias for Temporal Sentence Grounding**|Daizong Liu et.al.|[2207.13457v1](http://arxiv.org/abs/2207.13457v1)|null|
 |**2022-07-27**|**Power Law Rheology of Folded Protein Hydrogels**|Anders Aufderhorst-Roberts et.al.|[2207.13348v1](http://arxiv.org/abs/2207.13348v1)|null|
@@ -1570,7 +1570,7 @@
 |**2022-07-22**|**PieTrack: An MOT solution based on synthetic data training and self-supervised domain adaptation**|Yirui Wang et.al.|[2207.11325v1](http://arxiv.org/abs/2207.11325v1)|null|
 |**2022-07-21**|**Domain Generalization for Activity Recognition via Adaptive Feature Fusion**|Xin Qin et.al.|[2207.11221v1](http://arxiv.org/abs/2207.11221v1)|**[link](https://github.com/jindongwang/transferlearning)**|
 |**2022-07-22**|**Bi-directional Contrastive Learning for Domain Adaptive Semantic Segmentation**|Geon Lee et.al.|[2207.10892v1](http://arxiv.org/abs/2207.10892v1)|null|
-|**2022-07-22**|**Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation**|Hongbin Lin et.al.|[2207.10856v1](http://arxiv.org/abs/2207.10856v1)|**[link](https://github.com/hongbin98/proca)**|
+|**2022-07-22**|**Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation**|Hongbin Lin et.al.|[2207.10856v2](http://arxiv.org/abs/2207.10856v2)|**[link](https://github.com/hongbin98/proca)**|
 |**2022-07-21**|**Federated Semi-Supervised Domain Adaptation via Knowledge Transfer**|Madhureeta Das et.al.|[2207.10727v2](http://arxiv.org/abs/2207.10727v2)|null|
 |**2022-07-21**|**Online Domain Adaptation for Semantic Segmentation in Ever-Changing Conditions**|Theodoros Panagiotakopoulos et.al.|[2207.10667v1](http://arxiv.org/abs/2207.10667v1)|**[link](https://github.com/theo2021/onda)**|
 |**2022-07-20**|**Generative Domain Adaptation for Face Anti-Spoofing**|Qianyu Zhou et.al.|[2207.10015v1](http://arxiv.org/abs/2207.10015v1)|null|
@@ -4479,7 +4479,7 @@
 |**2022-07-25**|**Contactless Excitation of Acoustic Resonance in Thin Wafers**|Gan Zhai et.al.|[2207.11913v1](http://arxiv.org/abs/2207.11913v1)|null|
 |**2022-07-24**|**HSH-carbon: A novel sp2-sp3 carbon allotrope with an ultrawide energy gap**|Jia-Qi Liu et.al.|[2207.11688v1](http://arxiv.org/abs/2207.11688v1)|null|
 |**2022-07-22**|**Accelerated and Quantitative 3D Semisolid MT/CEST Imaging using a Generative Adversarial Network (GAN-CEST)**|Jonah Weigand-Whittier et.al.|[2207.11297v1](http://arxiv.org/abs/2207.11297v1)|null|
-|**2022-07-22**|**Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation**|Hongbin Lin et.al.|[2207.10856v1](http://arxiv.org/abs/2207.10856v1)|**[link](https://github.com/hongbin98/proca)**|
+|**2022-07-22**|**Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation**|Hongbin Lin et.al.|[2207.10856v2](http://arxiv.org/abs/2207.10856v2)|**[link](https://github.com/hongbin98/proca)**|
 |**2022-07-21**|**ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases**|Jintai Chen et.al.|[2207.10670v1](http://arxiv.org/abs/2207.10670v1)|null|
 |**2022-07-21**|**Generative Multiplane Images: Making a 2D GAN 3D-Aware**|Xiaoming Zhao et.al.|[2207.10642v1](http://arxiv.org/abs/2207.10642v1)|**[link](https://github.com/apple/ml-gmpi)**|
 |**2022-07-21**|**Optimal precision for GANs**|Thibaut Issenhuth et.al.|[2207.10541v1](http://arxiv.org/abs/2207.10541v1)|null|
