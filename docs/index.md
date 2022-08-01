@@ -215,6 +215,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-29**|**Coherent resonant transmission**|H. S. Xu et.al.|[2207.14453v1](http://arxiv.org/abs/2207.14453v1)|null|
 |**2022-07-26**|**Building ideal paraxial optical skyrmions using rational maps**|C. Cisowski et.al.|[2207.12741v1](http://arxiv.org/abs/2207.12741v1)|null|
 |**2022-07-25**|**Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging**|Aupendu Kar et.al.|[2207.11894v2](http://arxiv.org/abs/2207.11894v2)|null|
 |**2022-07-24**|**Learning Generalizable Light Field Networks from Few Images**|Qian Li et.al.|[2207.11757v1](http://arxiv.org/abs/2207.11757v1)|null|
@@ -352,6 +353,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-29**|**Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models**|Ozan Özdenizci et.al.|[2207.14626v1](http://arxiv.org/abs/2207.14626v1)|**[link](https://github.com/igitugraz/weatherdiffusion)**|
+|**2022-07-29**|**ScaleFormer: Revisiting the Transformer-based Backbones from a Scale-wise Perspective for Medical Image Segmentation**|Huimin Huang et.al.|[2207.14552v1](http://arxiv.org/abs/2207.14552v1)|null|
 |**2022-07-28**|**HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions**|Yongming Rao et.al.|[2207.14284v1](http://arxiv.org/abs/2207.14284v1)|**[link](https://github.com/raoyongming/hornet)**|
 |**2022-07-28**|**DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer**|Hao Li et.al.|[2207.13861v1](http://arxiv.org/abs/2207.13861v1)|null|
 |**2022-07-24**|**Online Continual Learning with Contrastive Vision Transformer**|Zhen Wang et.al.|[2207.13516v1](http://arxiv.org/abs/2207.13516v1)|null|
@@ -949,6 +952,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-29**|**Multimodal SuperCon: Classifier for Drivers of Deforestation in Indonesia**|Bella Septina Ika Hartanti et.al.|[2207.14656v1](http://arxiv.org/abs/2207.14656v1)|**[link](https://github.com/bellasih/multimodal_supercon)**|
 |**2022-07-28**|**Dialogue Enhancement and Listening Effort in Broadcast Audio: A Multimodal Evaluation**|Matteo Torcoli et.al.|[2207.14240v1](http://arxiv.org/abs/2207.14240v1)|null|
 |**2022-07-28**|**Towards highly efficient broadband superconducting quantum memory**|A. R. Matanin et.al.|[2207.14092v1](http://arxiv.org/abs/2207.14092v1)|null|
 |**2022-07-28**|**CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation**|Hao Sun et.al.|[2207.14087v1](http://arxiv.org/abs/2207.14087v1)|null|
@@ -1706,6 +1710,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-29**|**StyleAM: Perception-Oriented Unsupervised Domain Adaption for Non-reference Image Quality Assessment**|Yiting Lu et.al.|[2207.14489v1](http://arxiv.org/abs/2207.14489v1)|null|
 |**2022-07-27**|**Look Closer to Your Enemy: Learning to Attack via Teacher-student Mimicking**|Mingejie Wang et.al.|[2207.13381v2](http://arxiv.org/abs/2207.13381v2)|null|
 |**2022-07-27**|**Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation**|Jogendra Nath Kundu et.al.|[2207.13247v1](http://arxiv.org/abs/2207.13247v1)|**[link](https://github.com/val-iisc/stickerda)**|
 |**2022-07-27**|**Contrastive Image Synthesis and Self-supervised Feature Adaptation for Cross-Modality Biomedical Image Segmentation**|Xinrong Hu et.al.|[2207.13240v1](http://arxiv.org/abs/2207.13240v1)|null|
@@ -2234,6 +2239,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-29**|**Multiple-hypothesis RNN-T Loss for Unsupervised Fine-tuning and Self-training of Neural Transducer**|Cong-Thanh Do et.al.|[2207.14736v1](http://arxiv.org/abs/2207.14736v1)|null|
+|**2022-07-29**|**Innate Dynamics and Identity Crisis of a Metal Surface Unveiled by Machine Learning of Atomic Environments**|Matteo Cioni et.al.|[2207.14622v1](http://arxiv.org/abs/2207.14622v1)|null|
+|**2022-07-29**|**Learning Prototype via Placeholder for Zero-shot Recognition**|Zaiquan Yang et.al.|[2207.14581v1](http://arxiv.org/abs/2207.14581v1)|**[link](https://github.com/zaiquanyang/lpl)**|
+|**2022-07-29**|**Cyclic Policy Distillation: Sample-Efficient Sim-to-Real Reinforcement Learning with Domain Randomization**|Yuki Kadokawa et.al.|[2207.14561v1](http://arxiv.org/abs/2207.14561v1)|null|
+|**2022-07-29**|**A One-Shot Reparameterization Method for Reducing the Loss of Tile Pruning on DNNs**|Yanchen Li et.al.|[2207.14545v1](http://arxiv.org/abs/2207.14545v1)|**[link](https://github.com/loonli/tiletrans)**|
+|**2022-07-29**|**Curriculum Learning for Data-Efficient Vision-Language Alignment**|Tejas Srinivasan et.al.|[2207.14525v1](http://arxiv.org/abs/2207.14525v1)|null|
+|**2022-07-29**|**Conservative Generator, Progressive Discriminator: Coordination of Adversaries in Few-shot Incremental Image Synthesis**|Chaerin Kong et.al.|[2207.14491v1](http://arxiv.org/abs/2207.14491v1)|null|
+|**2022-07-29**|**StyleAM: Perception-Oriented Unsupervised Domain Adaption for Non-reference Image Quality Assessment**|Yiting Lu et.al.|[2207.14489v1](http://arxiv.org/abs/2207.14489v1)|null|
+|**2022-07-29**|**A Survey of Learning on Small Data**|Xiaofeng Cao et.al.|[2207.14443v1](http://arxiv.org/abs/2207.14443v1)|null|
+|**2022-07-28**|**LAD: Language Models as Data for Zero-Shot Dialog**|Shikib Mehri et.al.|[2207.14393v1](http://arxiv.org/abs/2207.14393v1)|null|
+|**2022-07-28**|**Improving Few-shot News Recommendation via Cross-lingual Transfer**|Taicheng Guo et.al.|[2207.14370v1](http://arxiv.org/abs/2207.14370v1)|null|
 |**2022-07-28**|**Depth Field Networks for Generalizable Multi-view Scene Representation**|Vitor Guizilini et.al.|[2207.14287v1](http://arxiv.org/abs/2207.14287v1)|null|
 |**2022-07-28**|**CrAM: A Compression-Aware Minimizer**|Alexandra Peste et.al.|[2207.14200v1](http://arxiv.org/abs/2207.14200v1)|null|
 |**2022-07-28**|**PencilNet: Zero-Shot Sim-to-Real Transfer Learning for Robust Gate Perception in Autonomous Drone Racing**|Huy Xuan Pham et.al.|[2207.14131v1](http://arxiv.org/abs/2207.14131v1)|**[link](https://github.com/open-airlab/pencilnet)**|
@@ -4498,6 +4514,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-29**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741v1](http://arxiv.org/abs/2207.14741v1)|null|
+|**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 |**2022-07-25**|**Deforming Radiance Fields with Cages**|Tianhan Xu et.al.|[2207.12298v1](http://arxiv.org/abs/2207.12298v1)|null|
 |**2022-07-24**|**Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis**|Shuai Shen et.al.|[2207.11770v1](http://arxiv.org/abs/2207.11770v1)|null|
@@ -4616,6 +4634,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-29**|**GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond**|Kelvin C. K. Chan et.al.|[2207.14812v1](http://arxiv.org/abs/2207.14812v1)|**[link](https://github.com/open-mmlab/mmediting)**|
+|**2022-07-29**|**StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**|Guangcong Wang et.al.|[2207.14811v1](http://arxiv.org/abs/2207.14811v1)|**[link](https://github.com/wanggcong/stylelight)**|
+|**2022-07-29**|**SYNTA: A novel approach for deep learning-based image analysis in muscle histopathology using photo-realistic synthetic data**|Leonid Mill et.al.|[2207.14650v1](http://arxiv.org/abs/2207.14650v1)|null|
+|**2022-07-29**|**WISE: Whitebox Image Stylization by Example-based Learning**|Winfried Lötzsch et.al.|[2207.14606v1](http://arxiv.org/abs/2207.14606v1)|**[link](https://github.com/winfried-loetzsch/wise)**|
+|**2022-07-29**|**Image Augmentation for Satellite Images**|Oluwadara Adedeji et.al.|[2207.14580v1](http://arxiv.org/abs/2207.14580v1)|null|
+|**2022-07-29**|**Learning Phone Recognition from Unpaired Audio and Phone Sequences Based on Generative Adversarial Network**|Da-rong Liu et.al.|[2207.14568v1](http://arxiv.org/abs/2207.14568v1)|null|
+|**2022-07-29**|**Conservative Generator, Progressive Discriminator: Coordination of Adversaries in Few-shot Incremental Image Synthesis**|Chaerin Kong et.al.|[2207.14491v1](http://arxiv.org/abs/2207.14491v1)|null|
+|**2022-07-29**|**PC-GANs: Progressive Compensation Generative Adversarial Networks for Pan-sharpening**|Yinghui Xing et.al.|[2207.14451v1](http://arxiv.org/abs/2207.14451v1)|null|
+|**2022-07-29**|**3D Cartoon Face Generation with Controllable Expressions from a Single GAN Image**|Hao Wang et.al.|[2207.14425v1](http://arxiv.org/abs/2207.14425v1)|null|
 |**2022-07-28**|**Rewriting Geometric Rules of a GAN**|Sheng-Yu Wang et.al.|[2207.14288v1](http://arxiv.org/abs/2207.14288v1)|**[link](https://github.com/peterwang512/ganwarping)**|
 |**2022-07-28**|**Atmosphere of the mini-Neptune transiting the bright M dwarf GJ 3090 can be characterized**|J. M. Almenara et.al.|[2207.14121v1](http://arxiv.org/abs/2207.14121v1)|null|
 |**2022-07-28**|**A truncated Siegel-Weil formula and Borcherds forms**|Armando Gutierrez Terradillos et.al.|[2207.13961v1](http://arxiv.org/abs/2207.13961v1)|null|
