@@ -1,4 +1,4 @@
-## Updated on 2022.08.01
+## Updated on 2022.08.02
 
 ## Image Generation
 
@@ -207,7 +207,7 @@
 |**2022-07-28**|**DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer**|Hao Li et.al.|[2207.13861v1](http://arxiv.org/abs/2207.13861v1)|null|
 |**2022-07-24**|**Online Continual Learning with Contrastive Vision Transformer**|Zhen Wang et.al.|[2207.13516v1](http://arxiv.org/abs/2207.13516v1)|null|
 |**2022-07-27**|**Deep Clustering with Features from Self-Supervised Pretraining**|Xingzhi Zhou et.al.|[2207.13364v1](http://arxiv.org/abs/2207.13364v1)|null|
-|**2022-07-27**|**Convolutional Embedding Makes Hierarchical Vision Transformer Stronger**|Cong Wang et.al.|[2207.13317v1](http://arxiv.org/abs/2207.13317v1)|null|
+|**2022-07-27**|**Convolutional Embedding Makes Hierarchical Vision Transformer Stronger**|Cong Wang et.al.|[2207.13317v2](http://arxiv.org/abs/2207.13317v2)|null|
 |**2022-07-25**|**Self-Distilled Vision Transformer for Domain Generalization**|Maryam Sultana et.al.|[2207.12392v1](http://arxiv.org/abs/2207.12392v1)|**[link](https://github.com/maryam089/sdvit)**|
 |**2022-07-22**|**Applying Spatiotemporal Attention to Identify Distracted and Drowsy Driving with Vision Transformers**|Samay Lakhani et.al.|[2207.12148v1](http://arxiv.org/abs/2207.12148v1)|null|
 |**2022-07-25**|**Jigsaw-ViT: Learning Jigsaw Puzzles in Vision Transformer**|Yingyi Chen et.al.|[2207.11971v1](http://arxiv.org/abs/2207.11971v1)|null|
@@ -4362,7 +4362,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-07-29**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741v1](http://arxiv.org/abs/2207.14741v1)|null|
+|**2022-07-29**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741v2](http://arxiv.org/abs/2207.14741v2)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 |**2022-07-25**|**Deforming Radiance Fields with Cages**|Tianhan Xu et.al.|[2207.12298v1](http://arxiv.org/abs/2207.12298v1)|null|
