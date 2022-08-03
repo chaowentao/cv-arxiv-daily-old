@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.02
+## Updated on 2022.08.03
 
 ## SLAM
 
@@ -1723,7 +1723,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-01**|**Few-shot Adaptation Works with UnpredicTable Data**|Jun Shern Chan et.al.|[2208.01009v1](http://arxiv.org/abs/2208.01009v1)|**[link](https://github.com/junshern/few-shot-adaptation)**|
 |**2022-07-31**|**Feather-Light Fourier Domain Adaptation in Magnetic Resonance Imaging**|Ivan Zakazov et.al.|[2208.00474v1](http://arxiv.org/abs/2208.00474v1)|null|
-|**2022-07-30**|**Simplex Clustering via sBeta with Applications to Online Adjustments of Black-Box Predictions**|Florent Chiaroni et.al.|[2208.00287v1](http://arxiv.org/abs/2208.00287v1)|null|
+|**2022-07-30**|**Simplex Clustering via sBeta with Applications to Online Adjustment of Black-Box Predictions**|Florent Chiaroni et.al.|[2208.00287v2](http://arxiv.org/abs/2208.00287v2)|**[link](https://github.com/fchiaroni/clustering_softmax_predictions)**|
 |**2022-07-30**|**PolarMix: A General Data Augmentation Technique for LiDAR Point Clouds**|Aoran Xiao et.al.|[2208.00223v1](http://arxiv.org/abs/2208.00223v1)|null|
 |**2022-07-30**|**Learning Feature Decomposition for Domain Adaptive Monocular Depth Estimation**|Shao-Yuan Lo et.al.|[2208.00160v1](http://arxiv.org/abs/2208.00160v1)|null|
 |**2022-07-30**|**Adaptive Feature Fusion for Cooperative Perception using LiDAR Point Clouds**|D. Qiao et.al.|[2208.00116v1](http://arxiv.org/abs/2208.00116v1)|null|
@@ -2270,8 +2270,8 @@ layout: default
 |**2022-07-31**|**Scrutinizing Shipment Records To Thwart Illegal Timber Trade**|Debanjan Datta et.al.|[2208.00493v1](http://arxiv.org/abs/2208.00493v1)|null|
 |**2022-07-31**|**Mismatching-Aware Unsupervised Translation Quality Estimation For Low-Resource Languages**|Fatemeh Azadi et.al.|[2208.00463v1](http://arxiv.org/abs/2208.00463v1)|null|
 |**2022-07-31**|**One-Shot Medical Landmark Localization by Edge-Guided Transform and Noisy Landmark Refinement**|Zihao Yin et.al.|[2208.00453v1](http://arxiv.org/abs/2208.00453v1)|null|
-|**2022-07-31**|**Photon-Limited Blind Deconvolution using Unsupervised Iterative Kernel Estimation**|Yash Sanghvi et.al.|[2208.00451v1](http://arxiv.org/abs/2208.00451v1)|null|
-|**2022-07-31**|**Speckle2Speckle: Unsupervised Learning of Ultrasound Speckle Filtering Without Clean Data**|Rüdiger Göbl et.al.|[2208.00402v1](http://arxiv.org/abs/2208.00402v1)|null|
+|**2022-07-31**|**Photon-Limited Blind Deconvolution using Unsupervised Iterative Kernel Estimation**|Yash Sanghvi et.al.|[2208.00451v2](http://arxiv.org/abs/2208.00451v2)|null|
+|**2022-07-31**|**Speckle2Speckle: Unsupervised Learning of Ultrasound Speckle Filtering Without Clean Data**|Rüdiger Göbl et.al.|[2208.00402v1](http://arxiv.org/abs/2208.00402v1)|**[link](https://github.com/goeblr/speckle2speckle)**|
 |**2022-07-31**|**An Experimental Study on Learning Correlated Equilibrium in Routing Games**|Yixian Zhu et.al.|[2208.00391v1](http://arxiv.org/abs/2208.00391v1)|null|
 |**2022-07-31**|**Enlarging the notion of additivity of resource quantifiers**|L. F. Melo et.al.|[2208.00326v1](http://arxiv.org/abs/2208.00326v1)|null|
 |**2022-07-30**|**PrePARE: Predictive Proprioception for Agile Failure Event Detection in Robotic Exploration of Extreme Terrains**|Sharmita Dey et.al.|[2208.00322v1](http://arxiv.org/abs/2208.00322v1)|null|
