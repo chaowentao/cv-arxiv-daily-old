@@ -63,6 +63,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-01**|**Computing coherent light scattering on the millimetre scale using a recurrent neural network without training**|Laurynas Valantinas et.al.|[2208.01118v1](http://arxiv.org/abs/2208.01118v1)|null|
 |**2022-08-01**|**Modelling spatio-temporal dynamics of chiral coupling of quantum emitters to light fields in nanophotonic structures**|Jan Olthaus et.al.|[2208.00879v1](http://arxiv.org/abs/2208.00879v1)|null|
 |**2022-07-30**|**Distilled Low Rank Neural Radiance Field with Quantization for Light Field Compression**|Jinglei Shi et.al.|[2208.00164v1](http://arxiv.org/abs/2208.00164v1)|null|
 |**2022-07-29**|**Coherent resonant transmission**|H. S. Xu et.al.|[2207.14453v1](http://arxiv.org/abs/2207.14453v1)|null|
@@ -203,6 +204,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-02**|**A Novel Transformer Network with Shifted Window Cross-Attention for Spatiotemporal Weather Forecasting**|Alabi Bojesomo et.al.|[2208.01252v1](http://arxiv.org/abs/2208.01252v1)|null|
 |**2022-08-01**|**Understanding Adversarial Robustness of Vision Transformers via Cauchy Problem**|Zheng Wang et.al.|[2208.00906v1](http://arxiv.org/abs/2208.00906v1)|**[link](https://github.com/trustai/ode4robustvit)**|
 |**2022-07-25**|**$\textrm{D}^3\textrm{Former}$: Debiased Dual Distilled Transformer for Incremental Learning**|Abdelrahman Mohamed et.al.|[2208.00777v1](http://arxiv.org/abs/2208.00777v1)|null|
 |**2022-08-01**|**TransDeepLab: Convolution-Free Transformer-based DeepLab v3+ for Medical Image Segmentation**|Reza Azad et.al.|[2208.00713v1](http://arxiv.org/abs/2208.00713v1)|**[link](https://github.com/rezazad68/transdeeplab)**|
@@ -663,6 +665,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-02**|**UnrealEgo: A New Dataset for Robust Egocentric 3D Human Motion Capture**|Hiroyasu Akada et.al.|[2208.01633v1](http://arxiv.org/abs/2208.01633v1)|null|
 |**2022-07-29**|**Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation**|Qihao Liu et.al.|[2208.00090v1](http://arxiv.org/abs/2208.00090v1)|null|
 |**2022-07-26**|**DETRs with Hybrid Matching**|Ding Jia et.al.|[2207.13080v1](http://arxiv.org/abs/2207.13080v1)|**[link](https://github.com/HDETR/H-Deformable-DETR)**|
 |**2022-07-26**|**KinePose: A temporally optimized inverse kinematics technique for 6DOF human pose estimation with biomechanical constraints**|Kevin Gildea et.al.|[2207.12841v1](http://arxiv.org/abs/2207.12841v1)|null|
@@ -806,6 +809,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-01**|**UniPreCIS : A data pre-processing solution for collocated services on shared IoT**|Anirban Das et.al.|[2208.01394v1](http://arxiv.org/abs/2208.01394v1)|null|
+|**2022-08-02**|**Silo NLP's Participation at WAT2022**|Shantipriya Parida et.al.|[2208.01296v1](http://arxiv.org/abs/2208.01296v1)|null|
+|**2022-08-02**|**Can Gaze Beat Touch? A Fitts' Law Evaluation of Gaze, Touch, and Mouse Inputs**|Vijay Rajanna et.al.|[2208.01248v1](http://arxiv.org/abs/2208.01248v1)|null|
+|**2022-08-02**|**Dynamical encircling exceptional point in largely detuned multimode optomechanical system**|Dan Long et.al.|[2208.01228v1](http://arxiv.org/abs/2208.01228v1)|null|
+|**2022-08-01**|**Pose Uncertainty Aware Movement Synchrony Estimation via Spatial-Temporal Graph Transformer**|Jicheng Li et.al.|[2208.01161v1](http://arxiv.org/abs/2208.01161v1)|null|
+|**2022-08-01**|**Multimode Nonlinear Dynamics in Anomalous Dispersion Spatiotemporal Mode-locked Lasers**|Yuhang Wu et.al.|[2208.01146v1](http://arxiv.org/abs/2208.01146v1)|null|
+|**2022-07-29**|**Face-to-Face Contrastive Learning for Social Intelligence Question-Answering**|Alex Wilf et.al.|[2208.01036v1](http://arxiv.org/abs/2208.01036v1)|null|
 |**2022-08-01**|**Benchmarking Visual-Inertial Deep Multimodal Fusion for Relative Pose Regression and Odometry-aided Absolute Pose Regression**|Felix Ott et.al.|[2208.00919v1](http://arxiv.org/abs/2208.00919v1)|null|
 |**2022-08-01**|**Engineering multiple GHz mechanical modes in optomechanical crystal cavities**|Laura Mercadé et.al.|[2208.00890v1](http://arxiv.org/abs/2208.00890v1)|null|
 |**2022-08-01**|**Efficient in-situ generation of photon-memory entanglement in a nonlinear cavity**|Hoi-Kwan Lau et.al.|[2208.00886v1](http://arxiv.org/abs/2208.00886v1)|null|
@@ -1569,6 +1579,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-02**|**DAPDAG: Domain Adaptation via Perturbed DAG Reconstruction**|Yanke Li et.al.|[2208.01373v1](http://arxiv.org/abs/2208.01373v1)|null|
+|**2022-08-02**|**Making the Best of Both Worlds: A Domain-Oriented Transformer for Unsupervised Domain Adaptation**|Wenxuan Ma et.al.|[2208.01195v1](http://arxiv.org/abs/2208.01195v1)|null|
 |**2022-08-01**|**Few-shot Adaptation Works with UnpredicTable Data**|Jun Shern Chan et.al.|[2208.01009v1](http://arxiv.org/abs/2208.01009v1)|**[link](https://github.com/junshern/few-shot-adaptation)**|
 |**2022-07-31**|**Feather-Light Fourier Domain Adaptation in Magnetic Resonance Imaging**|Ivan Zakazov et.al.|[2208.00474v1](http://arxiv.org/abs/2208.00474v1)|null|
 |**2022-07-30**|**Simplex Clustering via sBeta with Applications to Online Adjustment of Black-Box Predictions**|Florent Chiaroni et.al.|[2208.00287v2](http://arxiv.org/abs/2208.00287v2)|**[link](https://github.com/fchiaroni/clustering_softmax_predictions)**|
@@ -2104,6 +2116,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-02**|**Enabling scalable clinical interpretation of ML-based phenotypes using real world data**|Owen Parsons et.al.|[2208.01607v1](http://arxiv.org/abs/2208.01607v1)|null|
+|**2022-08-02**|**Learning to Incorporate Texture Saliency Adaptive Attention to Image Cartoonization**|Xiang Gao et.al.|[2208.01587v1](http://arxiv.org/abs/2208.01587v1)|null|
+|**2022-08-02**|**Stochastic Deep Networks with Linear Competing Units for Model-Agnostic Meta-Learning**|Konstantinos Kalais et.al.|[2208.01573v1](http://arxiv.org/abs/2208.01573v1)|**[link](https://github.com/kkalais/stochlwta-ml)**|
+|**2022-08-02**|**The Curse of Low Task Diversity: On the Failure of Transfer Learning to Outperform MAML and Their Empirical Equivalence**|Brando Miranda et.al.|[2208.01545v1](http://arxiv.org/abs/2208.01545v1)|null|
+|**2022-08-02**|**DSR -- A dual subspace re-projection network for surface anomaly detection**|Vitjan Zavrtanik et.al.|[2208.01521v1](http://arxiv.org/abs/2208.01521v1)|**[link](https://github.com/vitjanz/dsr_anomaly_detection)**|
+|**2022-08-02**|**AlexaTM 20B: Few-Shot Learning Using a Large-Scale Multilingual Seq2Seq Model**|Saleh Soltan et.al.|[2208.01448v1](http://arxiv.org/abs/2208.01448v1)|null|
+|**2022-08-01**|**Unsupervised machine learning framework for discriminating major variants of concern during COVID-19**|Mingyue Kang et.al.|[2208.01439v1](http://arxiv.org/abs/2208.01439v1)|null|
+|**2022-08-02**|**Detecting Individual Decision-Making Style: Exploring Behavioral Stylometry in Chess**|Reid McIlroy-Young et.al.|[2208.01366v1](http://arxiv.org/abs/2208.01366v1)|**[link](https://github.com/csslab/behavioral-stylometry)**|
+|**2022-08-02**|**Multilingual Coreference Resolution in Multiparty Dialogue**|Boyuan Zheng et.al.|[2208.01307v1](http://arxiv.org/abs/2208.01307v1)|null|
+|**2022-08-02**|**Are Cluster Validity Measures (In)valid?**|Marek Gagolewski et.al.|[2208.01261v1](http://arxiv.org/abs/2208.01261v1)|**[link](https://github.com/gagolews/optim_cvi)**|
+|**2022-08-02**|**Making a Spiking Net Work: Robust brain-like unsupervised machine learning**|Peter G. Stratton et.al.|[2208.01204v1](http://arxiv.org/abs/2208.01204v1)|null|
+|**2022-08-02**|**Unsupervised quantum machine learning for fraud detection**|Oleksandr Kyriienko et.al.|[2208.01203v1](http://arxiv.org/abs/2208.01203v1)|null|
+|**2022-08-02**|**Making the Best of Both Worlds: A Domain-Oriented Transformer for Unsupervised Domain Adaptation**|Wenxuan Ma et.al.|[2208.01195v1](http://arxiv.org/abs/2208.01195v1)|null|
+|**2022-08-01**|**Robotic Interestingness via Human-Informed Few-Shot Object Detection**|Seungchan Kim et.al.|[2208.01084v1](http://arxiv.org/abs/2208.01084v1)|null|
 |**2022-08-01**|**Few-shot Adaptation Works with UnpredicTable Data**|Jun Shern Chan et.al.|[2208.01009v1](http://arxiv.org/abs/2208.01009v1)|**[link](https://github.com/junshern/few-shot-adaptation)**|
 |**2022-08-01**|**Multi-Document Summarization with Centroid-Based Pretraining**|Ratish Puduppully et.al.|[2208.01006v1](http://arxiv.org/abs/2208.01006v1)|**[link](https://github.com/ratishsp/centrum)**|
 |**2022-08-01**|**Bayesian inference of petrophysical properties with generative spectral induced polarization models**|Charles L. Bérubé et.al.|[2208.00957v1](http://arxiv.org/abs/2208.00957v1)|null|
@@ -4399,6 +4425,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-02**|**T4DT: Tensorizing Time for Learning Temporal 3D Visual Data**|Mikhail Usvyatsov et.al.|[2208.01421v1](http://arxiv.org/abs/2208.01421v1)|**[link](https://github.com/aelphy/t4dt)**|
 |**2022-08-01**|**DoF-NeRF: Depth-of-Field Meets Neural Radiance Fields**|Zijin Wu et.al.|[2208.00945v1](http://arxiv.org/abs/2208.00945v1)|**[link](https://github.com/zijinwuzijin/dof-nerf)**|
 |**2022-07-30**|**MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures**|Zhiqin Chen et.al.|[2208.00277v1](http://arxiv.org/abs/2208.00277v1)|null|
 |**2022-07-30**|**Distilled Low Rank Neural Radiance Field with Quantization for Light Field Compression**|Jinglei Shi et.al.|[2208.00164v1](http://arxiv.org/abs/2208.00164v1)|null|
@@ -4522,6 +4549,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-02**|**Learning to Incorporate Texture Saliency Adaptive Attention to Image Cartoonization**|Xiang Gao et.al.|[2208.01587v1](http://arxiv.org/abs/2208.01587v1)|null|
+|**2022-07-30**|**Investigation of robustness and numerical stability of multiple regression and PCA in modeling world development data**|Chen Ye Gan et.al.|[2208.01549v1](http://arxiv.org/abs/2208.01549v1)|null|
+|**2022-08-01**|**A Deep Generative Model for Feasible and Diverse Population Synthesis**|Eui-Jin Kim et.al.|[2208.01403v1](http://arxiv.org/abs/2208.01403v1)|null|
+|**2022-08-02**|**Explicit Use of Fourier Spectrum in Generative Adversarial Networks**|Soroush Sheikh Gargar et.al.|[2208.01265v1](http://arxiv.org/abs/2208.01265v1)|null|
+|**2022-08-02**|**A Multifaceted Benchmarking of Synthetic Electronic Health Record Generation Models**|Chao Yan et.al.|[2208.01230v1](http://arxiv.org/abs/2208.01230v1)|null|
 |**2022-08-01**|**AdaWCT: Adaptive Whitening and Coloring Style Injection**|Antoine Dufour et.al.|[2208.00921v1](http://arxiv.org/abs/2208.00921v1)|null|
 |**2022-08-01**|**Quaternary MgSiN_2-GaN alloy semiconductors for deep UV applications**|Ozan Dernek et.al.|[2208.00908v1](http://arxiv.org/abs/2208.00908v1)|null|
 |**2022-08-01**|**GANDSE: Generative Adversarial Network based Design Space Exploration for Neural Network Accelerator Design**|Lang Feng et.al.|[2208.00800v1](http://arxiv.org/abs/2208.00800v1)|null|
@@ -5467,6 +5499,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-02**|**GaitGL: Learning Discriminative Global-Local Feature Representations for Gait Recognition**|Beibei Lin et.al.|[2208.01380v1](http://arxiv.org/abs/2208.01380v1)|null|
 |**2022-07-24**|**Progressive Feature Learning for Realistic Cloth-Changing Gait Recognition**|Xuqian Ren et.al.|[2207.11720v1](http://arxiv.org/abs/2207.11720v1)|null|
 |**2022-07-07**|**GaitTAKE: Gait Recognition by Temporal Attention and Keypoint-guided Embedding**|Hung-Min Hsu et.al.|[2207.03608v2](http://arxiv.org/abs/2207.03608v2)|null|
 |**2022-06-30**|**CTrGAN: Cycle Transformers GAN for Gait Transfer**|Shahar Mahpod et.al.|[2206.15248v2](http://arxiv.org/abs/2206.15248v2)|null|
