@@ -356,6 +356,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-03**|**GPPF: A General Perception Pre-training Framework via Sparsely Activated Multi-Task Learning**|Benyuan Sun et.al.|[2208.02148v1](http://arxiv.org/abs/2208.02148v1)|null|
+|**2022-08-03**|**SSformer: A Lightweight Transformer for Semantic Segmentation**|Wentao Shi et.al.|[2208.02034v1](http://arxiv.org/abs/2208.02034v1)|null|
+|**2022-08-03**|**Multi-Feature Vision Transformer via Self-Supervised Representation Learning for Improvement of COVID-19 Diagnosis**|Xiao Qi et.al.|[2208.01843v1](http://arxiv.org/abs/2208.01843v1)|**[link](https://github.com/endiqq/multi-feature-vit)**|
+|**2022-08-03**|**Learning Prior Feature and Attention Enhanced Image Inpainting**|Chenjie Cao et.al.|[2208.01837v1](http://arxiv.org/abs/2208.01837v1)|**[link](https://github.com/ewrfcas/MAE-FAR)**|
+|**2022-08-02**|**Two-Stream Transformer Architecture for Long Video Understanding**|Edward Fish et.al.|[2208.01753v1](http://arxiv.org/abs/2208.01753v1)|null|
 |**2022-08-02**|**A Novel Transformer Network with Shifted Window Cross-Attention for Spatiotemporal Weather Forecasting**|Alabi Bojesomo et.al.|[2208.01252v1](http://arxiv.org/abs/2208.01252v1)|null|
 |**2022-08-01**|**Understanding Adversarial Robustness of Vision Transformers via Cauchy Problem**|Zheng Wang et.al.|[2208.00906v1](http://arxiv.org/abs/2208.00906v1)|**[link](https://github.com/trustai/ode4robustvit)**|
 |**2022-07-25**|**$\textrm{D}^3\textrm{Former}$: Debiased Dual Distilled Transformer for Incremental Learning**|Abdelrahman Mohamed et.al.|[2208.00777v1](http://arxiv.org/abs/2208.00777v1)|null|
@@ -961,6 +966,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-03**|**AdaCat: Adaptive Categorical Discretization for Autoregressive Models**|Qiyang Li et.al.|[2208.02246v1](http://arxiv.org/abs/2208.02246v1)|**[link](https://github.com/colinqiyangli/adacat)**|
+|**2022-08-03**|**Multimodal sensor fusion in the latent representation space**|Robert J. Piechocki et.al.|[2208.02183v1](http://arxiv.org/abs/2208.02183v1)|null|
+|**2022-08-03**|**A Feature-space Multimodal Data Augmentation Technique for Text-video Retrieval**|Alex Falcon et.al.|[2208.02080v1](http://arxiv.org/abs/2208.02080v1)|null|
+|**2022-08-03**|**Zero-Shot Style Transfer for Gesture Animation driven by Text and Speech using Adversarial Disentanglement of Multimodal Style Encoding**|Mireille Fares et.al.|[2208.01917v1](http://arxiv.org/abs/2208.01917v1)|null|
+|**2022-08-03**|**Multimodal Generation of Novel Action Appearances for Synthetic-to-Real Recognition of Activities of Daily Living**|Zdravko Marinov et.al.|[2208.01910v1](http://arxiv.org/abs/2208.01910v1)|null|
+|**2022-08-03**|**Flow Annealed Importance Sampling Bootstrap**|Laurence Illing Midgley et.al.|[2208.01893v1](http://arxiv.org/abs/2208.01893v1)|**[link](https://github.com/lollcat/fab-torch)**|
+|**2022-08-03**|**TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation**|Jun Wang et.al.|[2208.01813v1](http://arxiv.org/abs/2208.01813v1)|null|
 |**2022-08-01**|**UniPreCIS : A data pre-processing solution for collocated services on shared IoT**|Anirban Das et.al.|[2208.01394v1](http://arxiv.org/abs/2208.01394v1)|null|
 |**2022-08-02**|**Silo NLP's Participation at WAT2022**|Shantipriya Parida et.al.|[2208.01296v1](http://arxiv.org/abs/2208.01296v1)|**[link](https://github.com/shantipriyap/silonlp_wat2022)**|
 |**2022-08-02**|**Can Gaze Beat Touch? A Fitts' Law Evaluation of Gaze, Touch, and Mouse Inputs**|Vijay Rajanna et.al.|[2208.01248v1](http://arxiv.org/abs/2208.01248v1)|null|
@@ -1731,6 +1743,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-03**|**DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture**|Navjot Kaur et.al.|[2208.02205v1](http://arxiv.org/abs/2208.02205v1)|null|
+|**2022-08-03**|**Interpretable bilinear attention network with domain adaptation improves drug-target prediction**|Peizhen Bai et.al.|[2208.02194v1](http://arxiv.org/abs/2208.02194v1)|**[link](https://github.com/pz-white/drugban)**|
 |**2022-08-02**|**DAPDAG: Domain Adaptation via Perturbed DAG Reconstruction**|Yanke Li et.al.|[2208.01373v1](http://arxiv.org/abs/2208.01373v1)|null|
 |**2022-08-02**|**Making the Best of Both Worlds: A Domain-Oriented Transformer for Unsupervised Domain Adaptation**|Wenxuan Ma et.al.|[2208.01195v1](http://arxiv.org/abs/2208.01195v1)|null|
 |**2022-08-01**|**Few-shot Adaptation Works with UnpredicTable Data**|Jun Shern Chan et.al.|[2208.01009v1](http://arxiv.org/abs/2208.01009v1)|**[link](https://github.com/junshern/few-shot-adaptation)**|
@@ -1745,7 +1759,7 @@ layout: default
 |**2022-07-27**|**Contrastive Image Synthesis and Self-supervised Feature Adaptation for Cross-Modality Biomedical Image Segmentation**|Xinrong Hu et.al.|[2207.13240v1](http://arxiv.org/abs/2207.13240v1)|null|
 |**2022-07-26**|**Domain Adaptation under Open Set Label Shift**|Saurabh Garg et.al.|[2207.13048v1](http://arxiv.org/abs/2207.13048v1)|**[link](https://github.com/acmi-lab/open-set-label-shift)**|
 |**2022-07-26**|**Unsupervised Domain Adaptation for Video Transformers in Action Recognition**|Victor G. Turrisi da Costa et.al.|[2207.12842v1](http://arxiv.org/abs/2207.12842v1)|null|
-|**2022-07-25**|**MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation**|Tarun Kalluri et.al.|[2207.12389v1](http://arxiv.org/abs/2207.12389v1)|null|
+|**2022-07-25**|**MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation**|Tarun Kalluri et.al.|[2207.12389v1](http://arxiv.org/abs/2207.12389v1)|**[link](https://github.com/ViLab-UCSD/MemSAC_ECCV2022)**|
 |**2022-07-25**|**Improving Pseudo Labels With Intra-Class Similarity for Unsupervised Domain Adaptation**|Jie Wang et.al.|[2207.12139v1](http://arxiv.org/abs/2207.12139v1)|**[link](https://github.com/02bigboy/tsrp)**|
 |**2022-07-25**|**Optimal Boxes: Boosting End-to-End Scene Text Recognition by Adjusting Annotated Bounding Boxes via Reinforcement Learning**|Jingqun Tang et.al.|[2207.11934v2](http://arxiv.org/abs/2207.11934v2)|null|
 |**2022-07-25**|**Domain Adaptive Person Search**|Junjie Li et.al.|[2207.11898v1](http://arxiv.org/abs/2207.11898v1)|**[link](https://github.com/caposerenity/daps)**|
@@ -2268,6 +2282,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-03**|**Free-HeadGAN: Neural Talking Head Synthesis with Explicit Gaze Control**|Michail Christos Doukas et.al.|[2208.02210v1](http://arxiv.org/abs/2208.02210v1)|null|
+|**2022-08-03**|**A Simple and Tighter Derivation of Achievability for Classical Communication over Quantum Channels**|Hao-Chung Cheng et.al.|[2208.02132v1](http://arxiv.org/abs/2208.02132v1)|null|
+|**2022-08-03**|**MTGFlow: Unsupervised Multivariate Time Series Anomaly Detection via Dynamic Graph and Entity-aware Normalizing Flow**|Qihang Zhou et.al.|[2208.02108v1](http://arxiv.org/abs/2208.02108v1)|null|
+|**2022-08-03**|**Edge-Based Self-Supervision for Semi-Supervised Few-Shot Microscopy Image Cell Segmentation**|Youssef Dawoud et.al.|[2208.02105v1](http://arxiv.org/abs/2208.02105v1)|null|
+|**2022-08-03**|**Unsupervised Discovery of Semantic Concepts in Satellite Imagery with Style-based Wavelet-driven Generative Models**|Nikos Kostagiolas et.al.|[2208.02089v1](http://arxiv.org/abs/2208.02089v1)|null|
+|**2022-08-03**|**Cross-lingual Approaches for the Detection of Adverse Drug Reactions in German from a Patient's Perspective**|Lisa Raithel et.al.|[2208.02031v1](http://arxiv.org/abs/2208.02031v1)|null|
+|**2022-08-03**|**Zero-Shot Style Transfer for Gesture Animation driven by Text and Speech using Adversarial Disentanglement of Multimodal Style Encoding**|Mireille Fares et.al.|[2208.01917v1](http://arxiv.org/abs/2208.01917v1)|null|
+|**2022-08-03**|**XCon: Learning with Experts for Fine-grained Category Discovery**|Yixin Fei et.al.|[2208.01898v1](http://arxiv.org/abs/2208.01898v1)|**[link](https://github.com/yixxin/xcon)**|
+|**2022-08-03**|**Quantifying Temporal Privacy Leakage in Continuous Event Data Publishing**|Majid Rafiei et.al.|[2208.01886v1](http://arxiv.org/abs/2208.01886v1)|null|
+|**2022-08-03**|**Medical image registration using unsupervised deep neural network: A scoping literature review**|Samaneh Abbasi et.al.|[2208.01825v1](http://arxiv.org/abs/2208.01825v1)|null|
+|**2022-08-03**|**Benchmarking zero-shot and few-shot approaches for tokenization, tagging, and dependency parsing of Tagalog text**|Angelina Aquino et.al.|[2208.01814v1](http://arxiv.org/abs/2208.01814v1)|null|
+|**2022-08-02**|**Exploring Gender Bias in Retrieval Models**|Dhanasekar Sundararaman et.al.|[2208.01755v1](http://arxiv.org/abs/2208.01755v1)|null|
+|**2022-08-02**|**No Pattern, No Recognition: a Survey about Reproducibility and Distortion Issues of Text Clustering and Topic Modeling**|Marília Costa Rosendo Silva et.al.|[2208.01712v1](http://arxiv.org/abs/2208.01712v1)|null|
 |**2022-08-02**|**Enabling scalable clinical interpretation of ML-based phenotypes using real world data**|Owen Parsons et.al.|[2208.01607v1](http://arxiv.org/abs/2208.01607v1)|null|
 |**2022-08-02**|**Learning to Incorporate Texture Saliency Adaptive Attention to Image Cartoonization**|Xiang Gao et.al.|[2208.01587v1](http://arxiv.org/abs/2208.01587v1)|null|
 |**2022-08-02**|**Stochastic Deep Networks with Linear Competing Units for Model-Agnostic Meta-Learning**|Konstantinos Kalais et.al.|[2208.01573v1](http://arxiv.org/abs/2208.01573v1)|**[link](https://github.com/kkalais/stochlwta-ml)**|
@@ -4701,6 +4728,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-03**|**Unsupervised Discovery of Semantic Concepts in Satellite Imagery with Style-based Wavelet-driven Generative Models**|Nikos Kostagiolas et.al.|[2208.02089v1](http://arxiv.org/abs/2208.02089v1)|null|
 |**2022-08-02**|**Learning to Incorporate Texture Saliency Adaptive Attention to Image Cartoonization**|Xiang Gao et.al.|[2208.01587v1](http://arxiv.org/abs/2208.01587v1)|null|
 |**2022-07-30**|**Investigation of robustness and numerical stability of multiple regression and PCA in modeling world development data**|Chen Ye Gan et.al.|[2208.01549v1](http://arxiv.org/abs/2208.01549v1)|null|
 |**2022-08-01**|**A Deep Generative Model for Feasible and Diverse Population Synthesis**|Eui-Jin Kim et.al.|[2208.01403v1](http://arxiv.org/abs/2208.01403v1)|null|
