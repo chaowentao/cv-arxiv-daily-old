@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.03
+## Updated on 2022.08.04
 
 ## SLAM
 
@@ -962,7 +962,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-01**|**UniPreCIS : A data pre-processing solution for collocated services on shared IoT**|Anirban Das et.al.|[2208.01394v1](http://arxiv.org/abs/2208.01394v1)|null|
-|**2022-08-02**|**Silo NLP's Participation at WAT2022**|Shantipriya Parida et.al.|[2208.01296v1](http://arxiv.org/abs/2208.01296v1)|null|
+|**2022-08-02**|**Silo NLP's Participation at WAT2022**|Shantipriya Parida et.al.|[2208.01296v1](http://arxiv.org/abs/2208.01296v1)|**[link](https://github.com/shantipriyap/silonlp_wat2022)**|
 |**2022-08-02**|**Can Gaze Beat Touch? A Fitts' Law Evaluation of Gaze, Touch, and Mouse Inputs**|Vijay Rajanna et.al.|[2208.01248v1](http://arxiv.org/abs/2208.01248v1)|null|
 |**2022-08-02**|**Dynamical encircling exceptional point in largely detuned multimode optomechanical system**|Dan Long et.al.|[2208.01228v1](http://arxiv.org/abs/2208.01228v1)|null|
 |**2022-08-01**|**Pose Uncertainty Aware Movement Synchrony Estimation via Spatial-Temporal Graph Transformer**|Jicheng Li et.al.|[2208.01161v1](http://arxiv.org/abs/2208.01161v1)|null|
@@ -974,7 +974,7 @@ layout: default
 |**2022-07-26**|**Infant movement classification through pressure distribution analysis -- added value for research and clinical implementation**|Tomas Kulvicius et.al.|[2208.00884v1](http://arxiv.org/abs/2208.00884v1)|null|
 |**2022-07-31**|**GraphMFT: A Graph Attention based Multimodal Fusion Technique for Emotion Recognition in Conversation**|Jiang Li et.al.|[2208.00339v1](http://arxiv.org/abs/2208.00339v1)|null|
 |**2022-07-29**|**Multimodal SuperCon: Classifier for Drivers of Deforestation in Indonesia**|Bella Septina Ika Hartanti et.al.|[2207.14656v1](http://arxiv.org/abs/2207.14656v1)|**[link](https://github.com/bellasih/multimodal_supercon)**|
-|**2022-07-28**|**Dialogue Enhancement and Listening Effort in Broadcast Audio: A Multimodal Evaluation**|Matteo Torcoli et.al.|[2207.14240v1](http://arxiv.org/abs/2207.14240v1)|null|
+|**2022-07-28**|**Dialogue Enhancement and Listening Effort in Broadcast Audio: A Multimodal Evaluation**|Matteo Torcoli et.al.|[2207.14240v2](http://arxiv.org/abs/2207.14240v2)|null|
 |**2022-07-28**|**Towards highly efficient broadband superconducting quantum memory**|A. R. Matanin et.al.|[2207.14092v1](http://arxiv.org/abs/2207.14092v1)|null|
 |**2022-07-28**|**CubeMLP: A MLP-based Model for Multimodal Sentiment Analysis and Depression Estimation**|Hao Sun et.al.|[2207.14087v1](http://arxiv.org/abs/2207.14087v1)|null|
 |**2022-07-28**|**Knowing Where and What: Unified Word Block Pretraining for Document Understanding**|Song Tao et.al.|[2207.13979v2](http://arxiv.org/abs/2207.13979v2)|null|
@@ -1734,7 +1734,7 @@ layout: default
 |**2022-08-02**|**DAPDAG: Domain Adaptation via Perturbed DAG Reconstruction**|Yanke Li et.al.|[2208.01373v1](http://arxiv.org/abs/2208.01373v1)|null|
 |**2022-08-02**|**Making the Best of Both Worlds: A Domain-Oriented Transformer for Unsupervised Domain Adaptation**|Wenxuan Ma et.al.|[2208.01195v1](http://arxiv.org/abs/2208.01195v1)|null|
 |**2022-08-01**|**Few-shot Adaptation Works with UnpredicTable Data**|Jun Shern Chan et.al.|[2208.01009v1](http://arxiv.org/abs/2208.01009v1)|**[link](https://github.com/junshern/few-shot-adaptation)**|
-|**2022-07-31**|**Feather-Light Fourier Domain Adaptation in Magnetic Resonance Imaging**|Ivan Zakazov et.al.|[2208.00474v1](http://arxiv.org/abs/2208.00474v1)|null|
+|**2022-07-31**|**Feather-Light Fourier Domain Adaptation in Magnetic Resonance Imaging**|Ivan Zakazov et.al.|[2208.00474v1](http://arxiv.org/abs/2208.00474v1)|**[link](https://github.com/kechua/feather-light-fourier-domain-adaptation)**|
 |**2022-07-30**|**Simplex Clustering via sBeta with Applications to Online Adjustment of Black-Box Predictions**|Florent Chiaroni et.al.|[2208.00287v2](http://arxiv.org/abs/2208.00287v2)|**[link](https://github.com/fchiaroni/clustering_softmax_predictions)**|
 |**2022-07-30**|**PolarMix: A General Data Augmentation Technique for LiDAR Point Clouds**|Aoran Xiao et.al.|[2208.00223v1](http://arxiv.org/abs/2208.00223v1)|null|
 |**2022-07-30**|**Learning Feature Decomposition for Domain Adaptive Monocular Depth Estimation**|Shao-Yuan Lo et.al.|[2208.00160v1](http://arxiv.org/abs/2208.00160v1)|null|
@@ -2273,8 +2273,8 @@ layout: default
 |**2022-08-02**|**Stochastic Deep Networks with Linear Competing Units for Model-Agnostic Meta-Learning**|Konstantinos Kalais et.al.|[2208.01573v1](http://arxiv.org/abs/2208.01573v1)|**[link](https://github.com/kkalais/stochlwta-ml)**|
 |**2022-08-02**|**The Curse of Low Task Diversity: On the Failure of Transfer Learning to Outperform MAML and Their Empirical Equivalence**|Brando Miranda et.al.|[2208.01545v1](http://arxiv.org/abs/2208.01545v1)|null|
 |**2022-08-02**|**DSR -- A dual subspace re-projection network for surface anomaly detection**|Vitjan Zavrtanik et.al.|[2208.01521v1](http://arxiv.org/abs/2208.01521v1)|**[link](https://github.com/vitjanz/dsr_anomaly_detection)**|
-|**2022-08-02**|**AlexaTM 20B: Few-Shot Learning Using a Large-Scale Multilingual Seq2Seq Model**|Saleh Soltan et.al.|[2208.01448v1](http://arxiv.org/abs/2208.01448v1)|null|
-|**2022-08-01**|**Unsupervised machine learning framework for discriminating major variants of concern during COVID-19**|Mingyue Kang et.al.|[2208.01439v1](http://arxiv.org/abs/2208.01439v1)|null|
+|**2022-08-02**|**AlexaTM 20B: Few-Shot Learning Using a Large-Scale Multilingual Seq2Seq Model**|Saleh Soltan et.al.|[2208.01448v2](http://arxiv.org/abs/2208.01448v2)|null|
+|**2022-08-01**|**Unsupervised machine learning framework for discriminating major variants of concern during COVID-19**|Mingyue Kang et.al.|[2208.01439v1](http://arxiv.org/abs/2208.01439v1)|**[link](https://github.com/ai-covariants/analysis-mutations)**|
 |**2022-08-02**|**Detecting Individual Decision-Making Style: Exploring Behavioral Stylometry in Chess**|Reid McIlroy-Young et.al.|[2208.01366v1](http://arxiv.org/abs/2208.01366v1)|**[link](https://github.com/csslab/behavioral-stylometry)**|
 |**2022-08-02**|**Multilingual Coreference Resolution in Multiparty Dialogue**|Boyuan Zheng et.al.|[2208.01307v1](http://arxiv.org/abs/2208.01307v1)|null|
 |**2022-08-02**|**Are Cluster Validity Measures (In)valid?**|Marek Gagolewski et.al.|[2208.01261v1](http://arxiv.org/abs/2208.01261v1)|**[link](https://github.com/gagolews/optim_cvi)**|
@@ -4715,7 +4715,7 @@ layout: default
 |**2022-07-29**|**Generating Complex 4D Expression Transitions by Learning Face Landmark Trajectories**|Naima Otberdout et.al.|[2208.00050v1](http://arxiv.org/abs/2208.00050v1)|null|
 |**2022-07-29**|**GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond**|Kelvin C. K. Chan et.al.|[2207.14812v1](http://arxiv.org/abs/2207.14812v1)|**[link](https://github.com/open-mmlab/mmediting)**|
 |**2022-07-29**|**StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**|Guangcong Wang et.al.|[2207.14811v1](http://arxiv.org/abs/2207.14811v1)|**[link](https://github.com/wanggcong/stylelight)**|
-|**2022-07-29**|**SYNTA: A novel approach for deep learning-based image analysis in muscle histopathology using photo-realistic synthetic data**|Leonid Mill et.al.|[2207.14650v1](http://arxiv.org/abs/2207.14650v1)|null|
+|**2022-07-29**|**SYNTA: A novel approach for deep learning-based image analysis in muscle histopathology using photo-realistic synthetic data**|Leonid Mill et.al.|[2207.14650v2](http://arxiv.org/abs/2207.14650v2)|null|
 |**2022-07-29**|**WISE: Whitebox Image Stylization by Example-based Learning**|Winfried Lötzsch et.al.|[2207.14606v1](http://arxiv.org/abs/2207.14606v1)|**[link](https://github.com/winfried-loetzsch/wise)**|
 |**2022-07-29**|**Image Augmentation for Satellite Images**|Oluwadara Adedeji et.al.|[2207.14580v1](http://arxiv.org/abs/2207.14580v1)|null|
 |**2022-07-29**|**Learning Phone Recognition from Unpaired Audio and Phone Sequences Based on Generative Adversarial Network**|Da-rong Liu et.al.|[2207.14568v1](http://arxiv.org/abs/2207.14568v1)|null|
@@ -5651,7 +5651,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-02**|**GaitGL: Learning Discriminative Global-Local Feature Representations for Gait Recognition**|Beibei Lin et.al.|[2208.01380v1](http://arxiv.org/abs/2208.01380v1)|null|
+|**2022-08-02**|**GaitGL: Learning Discriminative Global-Local Feature Representations for Gait Recognition**|Beibei Lin et.al.|[2208.01380v1](http://arxiv.org/abs/2208.01380v1)|**[link](https://github.com/bb12346/gaitgl)**|
 |**2022-07-24**|**Progressive Feature Learning for Realistic Cloth-Changing Gait Recognition**|Xuqian Ren et.al.|[2207.11720v1](http://arxiv.org/abs/2207.11720v1)|null|
 |**2022-07-07**|**GaitTAKE: Gait Recognition by Temporal Attention and Keypoint-guided Embedding**|Hung-Min Hsu et.al.|[2207.03608v2](http://arxiv.org/abs/2207.03608v2)|null|
 |**2022-06-30**|**CTrGAN: Cycle Transformers GAN for Gait Transfer**|Shahar Mahpod et.al.|[2206.15248v2](http://arxiv.org/abs/2206.15248v2)|null|
