@@ -204,6 +204,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-04**|**DropKey**|Bonan Li et.al.|[2208.02646v1](http://arxiv.org/abs/2208.02646v1)|null|
+|**2022-08-04**|**MVSFormer: Learning Robust Image Representations via Transformers and Temperature-based Depth for Multi-View Stereo**|Chenjie Cao et.al.|[2208.02541v1](http://arxiv.org/abs/2208.02541v1)|null|
 |**2022-08-03**|**GPPF: A General Perception Pre-training Framework via Sparsely Activated Multi-Task Learning**|Benyuan Sun et.al.|[2208.02148v2](http://arxiv.org/abs/2208.02148v2)|null|
 |**2022-08-03**|**SSformer: A Lightweight Transformer for Semantic Segmentation**|Wentao Shi et.al.|[2208.02034v1](http://arxiv.org/abs/2208.02034v1)|**[link](https://github.com/shiwt03/ssformer)**|
 |**2022-08-03**|**Multi-Feature Vision Transformer via Self-Supervised Representation Learning for Improvement of COVID-19 Diagnosis**|Xiao Qi et.al.|[2208.01843v1](http://arxiv.org/abs/2208.01843v1)|**[link](https://github.com/endiqq/multi-feature-vit)**|
@@ -814,9 +816,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-04**|**Decoherence quantification through commutation relations decay for open quantum harmonic oscillators**|Igor G. Vladimirov et.al.|[2208.02534v1](http://arxiv.org/abs/2208.02534v1)|null|
+|**2022-08-04**|**Prompt Tuning for Generative Multimodal Pretrained Models**|Hao Yang et.al.|[2208.02532v1](http://arxiv.org/abs/2208.02532v1)|**[link](https://github.com/ofa-sys/ofa)**|
 |**2022-08-03**|**AdaCat: Adaptive Categorical Discretization for Autoregressive Models**|Qiyang Li et.al.|[2208.02246v1](http://arxiv.org/abs/2208.02246v1)|**[link](https://github.com/colinqiyangli/adacat)**|
 |**2022-08-03**|**Multimodal sensor fusion in the latent representation space**|Robert J. Piechocki et.al.|[2208.02183v1](http://arxiv.org/abs/2208.02183v1)|null|
-|**2022-08-03**|**A Feature-space Multimodal Data Augmentation Technique for Text-video Retrieval**|Alex Falcon et.al.|[2208.02080v1](http://arxiv.org/abs/2208.02080v1)|null|
+|**2022-08-03**|**A Feature-space Multimodal Data Augmentation Technique for Text-video Retrieval**|Alex Falcon et.al.|[2208.02080v1](http://arxiv.org/abs/2208.02080v1)|**[link](https://github.com/aranciokov/fsmmda_videoretrieval)**|
 |**2022-08-03**|**Zero-Shot Style Transfer for Gesture Animation driven by Text and Speech using Adversarial Disentanglement of Multimodal Style Encoding**|Mireille Fares et.al.|[2208.01917v1](http://arxiv.org/abs/2208.01917v1)|null|
 |**2022-08-03**|**Multimodal Generation of Novel Action Appearances for Synthetic-to-Real Recognition of Activities of Daily Living**|Zdravko Marinov et.al.|[2208.01910v1](http://arxiv.org/abs/2208.01910v1)|null|
 |**2022-08-03**|**Flow Annealed Importance Sampling Bootstrap**|Laurence Illing Midgley et.al.|[2208.01893v1](http://arxiv.org/abs/2208.01893v1)|**[link](https://github.com/lollcat/fab-torch)**|
@@ -1591,6 +1595,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-04**|**Cluster-to-adapt: Few Shot Domain Adaptation for Semantic Segmentation across Disjoint Labels**|Tarun Kalluri et.al.|[2208.02804v1](http://arxiv.org/abs/2208.02804v1)|null|
 |**2022-08-03**|**DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture**|Navjot Kaur et.al.|[2208.02205v1](http://arxiv.org/abs/2208.02205v1)|**[link](https://github.com/nka77/dahitra)**|
 |**2022-08-03**|**Interpretable bilinear attention network with domain adaptation improves drug-target prediction**|Peizhen Bai et.al.|[2208.02194v1](http://arxiv.org/abs/2208.02194v1)|**[link](https://github.com/pz-white/drugban)**|
 |**2022-08-02**|**DAPDAG: Domain Adaptation via Perturbed DAG Reconstruction**|Yanke Li et.al.|[2208.01373v1](http://arxiv.org/abs/2208.01373v1)|null|
@@ -2130,11 +2135,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-04**|**Expanding Language-Image Pretrained Models for General Video Recognition**|Bolin Ni et.al.|[2208.02816v1](http://arxiv.org/abs/2208.02816v1)|**[link](https://github.com/microsoft/VideoX/tree/master/X-CLIP)**|
+|**2022-08-04**|**Cluster-to-adapt: Few Shot Domain Adaptation for Semantic Segmentation across Disjoint Labels**|Tarun Kalluri et.al.|[2208.02804v1](http://arxiv.org/abs/2208.02804v1)|null|
+|**2022-08-04**|**Unsupervised Graph Spectral Feature Denoising for Crop Yield Prediction**|Saghar Bagheri et.al.|[2208.02714v1](http://arxiv.org/abs/2208.02714v1)|null|
+|**2022-08-04**|**Impact Makes a Sound and Sound Makes an Impact: Sound Guides Representations and Explorations**|Xufeng Zhao et.al.|[2208.02680v1](http://arxiv.org/abs/2208.02680v1)|null|
+|**2022-08-04**|**ZeroMesh: Zero-shot Single-view 3D Mesh Reconstruction**|Xianghui Yang et.al.|[2208.02676v1](http://arxiv.org/abs/2208.02676v1)|null|
+|**2022-08-04**|**ACSGRegNet: A Deep Learning-based Framework for Unsupervised Joint Affine and Diffeomorphic Registration of Lumbar Spine CT via Cross- and Self-Attention Fusion**|Xiaoru Gao et.al.|[2208.02642v1](http://arxiv.org/abs/2208.02642v1)|null|
+|**2022-08-04**|**SOMPT22: A Surveillance Oriented Multi-Pedestrian Tracking Dataset**|Fatih Emre Simsek et.al.|[2208.02580v1](http://arxiv.org/abs/2208.02580v1)|null|
+|**2022-08-04**|**RAZE: Region Guided Self-Supervised Gaze Representation Learning**|Neeru Dubey et.al.|[2208.02485v1](http://arxiv.org/abs/2208.02485v1)|null|
+|**2022-08-04**|**Transferable Multi-Agent Reinforcement Learning with Dynamic Participating Agents**|Xuting Tang et.al.|[2208.02424v1](http://arxiv.org/abs/2208.02424v1)|null|
+|**2022-08-04**|**Deep Semi-Supervised and Self-Supervised Learning for Diabetic Retinopathy Detection**|Jose Miguel Arrieta Ramos et.al.|[2208.02408v1](http://arxiv.org/abs/2208.02408v1)|null|
+|**2022-08-04**|**Domestic Activity Clustering from Audio via Depthwise Separable Convolutional Autoencoder Network**|Yanxiong Li et.al.|[2208.02406v1](http://arxiv.org/abs/2208.02406v1)|null|
+|**2022-08-03**|**Improving Meta-Learning Generalization with Activation-Based Early-Stopping**|Simon Guiroy et.al.|[2208.02377v1](http://arxiv.org/abs/2208.02377v1)|null|
+|**2022-08-03**|**Differentiable Predictive Control with Safety Guarantees: A Control Barrier Function Approach**|Wenceslao Shaw Cortez et.al.|[2208.02319v1](http://arxiv.org/abs/2208.02319v1)|null|
+|**2022-08-03**|**Unsupervised Flow Refinement near Motion Boundaries**|Shuzhi Yu et.al.|[2208.02305v1](http://arxiv.org/abs/2208.02305v1)|null|
 |**2022-08-03**|**Free-HeadGAN: Neural Talking Head Synthesis with Explicit Gaze Control**|Michail Christos Doukas et.al.|[2208.02210v1](http://arxiv.org/abs/2208.02210v1)|null|
 |**2022-08-03**|**A Simple and Tighter Derivation of Achievability for Classical Communication over Quantum Channels**|Hao-Chung Cheng et.al.|[2208.02132v1](http://arxiv.org/abs/2208.02132v1)|null|
 |**2022-08-03**|**MTGFlow: Unsupervised Multivariate Time Series Anomaly Detection via Dynamic Graph and Entity-aware Normalizing Flow**|Qihang Zhou et.al.|[2208.02108v1](http://arxiv.org/abs/2208.02108v1)|null|
 |**2022-08-03**|**Edge-Based Self-Supervision for Semi-Supervised Few-Shot Microscopy Image Cell Segmentation**|Youssef Dawoud et.al.|[2208.02105v1](http://arxiv.org/abs/2208.02105v1)|null|
-|**2022-08-03**|**Unsupervised Discovery of Semantic Concepts in Satellite Imagery with Style-based Wavelet-driven Generative Models**|Nikos Kostagiolas et.al.|[2208.02089v1](http://arxiv.org/abs/2208.02089v1)|null|
+|**2022-08-03**|**Unsupervised Discovery of Semantic Concepts in Satellite Imagery with Style-based Wavelet-driven Generative Models**|Nikos Kostagiolas et.al.|[2208.02089v1](http://arxiv.org/abs/2208.02089v1)|**[link](https://github.com/kostagiolasn/Unsupervised-Discovery-of-Semantic-Concepts-in-Satellite-Imagery-with-Style-based-Wavelet-driven-Gen)**|
 |**2022-08-03**|**Cross-lingual Approaches for the Detection of Adverse Drug Reactions in German from a Patient's Perspective**|Lisa Raithel et.al.|[2208.02031v1](http://arxiv.org/abs/2208.02031v1)|null|
 |**2022-08-03**|**Zero-Shot Style Transfer for Gesture Animation driven by Text and Speech using Adversarial Disentanglement of Multimodal Style Encoding**|Mireille Fares et.al.|[2208.01917v1](http://arxiv.org/abs/2208.01917v1)|null|
 |**2022-08-03**|**XCon: Learning with Experts for Fine-grained Category Discovery**|Yixin Fei et.al.|[2208.01898v1](http://arxiv.org/abs/2208.01898v1)|**[link](https://github.com/yixxin/xcon)**|
@@ -4452,6 +4471,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-04**|**360Roam: Real-Time Indoor Roaming Using Geometry-Aware ${360^\circ}$ Radiance Fields**|Huajian Huang et.al.|[2208.02705v1](http://arxiv.org/abs/2208.02705v1)|null|
 |**2022-08-02**|**T4DT: Tensorizing Time for Learning Temporal 3D Visual Data**|Mikhail Usvyatsov et.al.|[2208.01421v1](http://arxiv.org/abs/2208.01421v1)|**[link](https://github.com/aelphy/t4dt)**|
 |**2022-08-01**|**DoF-NeRF: Depth-of-Field Meets Neural Radiance Fields**|Zijin Wu et.al.|[2208.00945v1](http://arxiv.org/abs/2208.00945v1)|**[link](https://github.com/zijinwuzijin/dof-nerf)**|
 |**2022-07-30**|**MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures**|Zhiqin Chen et.al.|[2208.00277v1](http://arxiv.org/abs/2208.00277v1)|null|
@@ -4576,7 +4596,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-03**|**Unsupervised Discovery of Semantic Concepts in Satellite Imagery with Style-based Wavelet-driven Generative Models**|Nikos Kostagiolas et.al.|[2208.02089v1](http://arxiv.org/abs/2208.02089v1)|null|
+|**2022-08-04**|**Visually Evaluating Generative Adversarial Networks Using Itself under Multivariate Time Series**|Qilong Pan et.al.|[2208.02649v1](http://arxiv.org/abs/2208.02649v1)|null|
+|**2022-08-04**|**A Representation Modeling Based Language GAN with Completely Random Initialization**|Da Ren et.al.|[2208.02531v1](http://arxiv.org/abs/2208.02531v1)|null|
+|**2022-08-03**|**Towards Generating Large Synthetic Phytoplankton Datasets for Efficient Monitoring of Harmful Algal Blooms**|Nitpreet Bamra et.al.|[2208.02332v1](http://arxiv.org/abs/2208.02332v1)|null|
+|**2022-08-03**|**Fourier-Jacobi models of Deligne-Lusztig characters and depth zero local descent for unitary groups**|Dongwen Liu et.al.|[2208.02308v1](http://arxiv.org/abs/2208.02308v1)|null|
+|**2022-08-03**|**Unsupervised Discovery of Semantic Concepts in Satellite Imagery with Style-based Wavelet-driven Generative Models**|Nikos Kostagiolas et.al.|[2208.02089v1](http://arxiv.org/abs/2208.02089v1)|**[link](https://github.com/kostagiolasn/Unsupervised-Discovery-of-Semantic-Concepts-in-Satellite-Imagery-with-Style-based-Wavelet-driven-Gen)**|
 |**2022-08-02**|**Learning to Incorporate Texture Saliency Adaptive Attention to Image Cartoonization**|Xiang Gao et.al.|[2208.01587v1](http://arxiv.org/abs/2208.01587v1)|null|
 |**2022-07-30**|**Investigation of robustness and numerical stability of multiple regression and PCA in modeling world development data**|Chen Ye Gan et.al.|[2208.01549v1](http://arxiv.org/abs/2208.01549v1)|null|
 |**2022-08-01**|**A Deep Generative Model for Feasible and Diverse Population Synthesis**|Eui-Jin Kim et.al.|[2208.01403v1](http://arxiv.org/abs/2208.01403v1)|null|
