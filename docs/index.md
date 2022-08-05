@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.04
+## Updated on 2022.08.05
 
 ## SLAM
 
@@ -356,8 +356,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-03**|**GPPF: A General Perception Pre-training Framework via Sparsely Activated Multi-Task Learning**|Benyuan Sun et.al.|[2208.02148v1](http://arxiv.org/abs/2208.02148v1)|null|
-|**2022-08-03**|**SSformer: A Lightweight Transformer for Semantic Segmentation**|Wentao Shi et.al.|[2208.02034v1](http://arxiv.org/abs/2208.02034v1)|null|
+|**2022-08-03**|**GPPF: A General Perception Pre-training Framework via Sparsely Activated Multi-Task Learning**|Benyuan Sun et.al.|[2208.02148v2](http://arxiv.org/abs/2208.02148v2)|null|
+|**2022-08-03**|**SSformer: A Lightweight Transformer for Semantic Segmentation**|Wentao Shi et.al.|[2208.02034v1](http://arxiv.org/abs/2208.02034v1)|**[link](https://github.com/shiwt03/ssformer)**|
 |**2022-08-03**|**Multi-Feature Vision Transformer via Self-Supervised Representation Learning for Improvement of COVID-19 Diagnosis**|Xiao Qi et.al.|[2208.01843v1](http://arxiv.org/abs/2208.01843v1)|**[link](https://github.com/endiqq/multi-feature-vit)**|
 |**2022-08-03**|**Learning Prior Feature and Attention Enhanced Image Inpainting**|Chenjie Cao et.al.|[2208.01837v1](http://arxiv.org/abs/2208.01837v1)|**[link](https://github.com/ewrfcas/MAE-FAR)**|
 |**2022-08-02**|**Two-Stream Transformer Architecture for Long Video Understanding**|Edward Fish et.al.|[2208.01753v1](http://arxiv.org/abs/2208.01753v1)|null|
@@ -1743,7 +1743,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-03**|**DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture**|Navjot Kaur et.al.|[2208.02205v1](http://arxiv.org/abs/2208.02205v1)|null|
+|**2022-08-03**|**DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture**|Navjot Kaur et.al.|[2208.02205v1](http://arxiv.org/abs/2208.02205v1)|**[link](https://github.com/nka77/dahitra)**|
 |**2022-08-03**|**Interpretable bilinear attention network with domain adaptation improves drug-target prediction**|Peizhen Bai et.al.|[2208.02194v1](http://arxiv.org/abs/2208.02194v1)|**[link](https://github.com/pz-white/drugban)**|
 |**2022-08-02**|**DAPDAG: Domain Adaptation via Perturbed DAG Reconstruction**|Yanke Li et.al.|[2208.01373v1](http://arxiv.org/abs/2208.01373v1)|null|
 |**2022-08-02**|**Making the Best of Both Worlds: A Domain-Oriented Transformer for Unsupervised Domain Adaptation**|Wenxuan Ma et.al.|[2208.01195v1](http://arxiv.org/abs/2208.01195v1)|null|
