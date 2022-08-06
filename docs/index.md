@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.05
+## Updated on 2022.08.06
 
 ## SLAM
 
@@ -2287,10 +2287,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-04**|**Expanding Language-Image Pretrained Models for General Video Recognition**|Bolin Ni et.al.|[2208.02816v1](http://arxiv.org/abs/2208.02816v1)|**[link](https://github.com/microsoft/VideoX/tree/master/X-CLIP)**|
+|**2022-08-04**|**Expanding Language-Image Pretrained Models for General Video Recognition**|Bolin Ni et.al.|[2208.02816v1](http://arxiv.org/abs/2208.02816v1)|**[link](https://github.com/microsoft/videox)**|
 |**2022-08-04**|**Cluster-to-adapt: Few Shot Domain Adaptation for Semantic Segmentation across Disjoint Labels**|Tarun Kalluri et.al.|[2208.02804v1](http://arxiv.org/abs/2208.02804v1)|null|
 |**2022-08-04**|**Unsupervised Graph Spectral Feature Denoising for Crop Yield Prediction**|Saghar Bagheri et.al.|[2208.02714v1](http://arxiv.org/abs/2208.02714v1)|null|
-|**2022-08-04**|**Impact Makes a Sound and Sound Makes an Impact: Sound Guides Representations and Explorations**|Xufeng Zhao et.al.|[2208.02680v1](http://arxiv.org/abs/2208.02680v1)|null|
+|**2022-08-04**|**Impact Makes a Sound and Sound Makes an Impact: Sound Guides Representations and Explorations**|Xufeng Zhao et.al.|[2208.02680v1](http://arxiv.org/abs/2208.02680v1)|**[link](https://github.com/xf-zhao/iscm)**|
 |**2022-08-04**|**ZeroMesh: Zero-shot Single-view 3D Mesh Reconstruction**|Xianghui Yang et.al.|[2208.02676v1](http://arxiv.org/abs/2208.02676v1)|null|
 |**2022-08-04**|**ACSGRegNet: A Deep Learning-based Framework for Unsupervised Joint Affine and Diffeomorphic Registration of Lumbar Spine CT via Cross- and Self-Attention Fusion**|Xiaoru Gao et.al.|[2208.02642v1](http://arxiv.org/abs/2208.02642v1)|null|
 |**2022-08-04**|**SOMPT22: A Surveillance Oriented Multi-Pedestrian Tracking Dataset**|Fatih Emre Simsek et.al.|[2208.02580v1](http://arxiv.org/abs/2208.02580v1)|null|
@@ -4762,7 +4762,7 @@ layout: default
 |**2022-08-01**|**Quaternary MgSiN_2-GaN alloy semiconductors for deep UV applications**|Ozan Dernek et.al.|[2208.00908v1](http://arxiv.org/abs/2208.00908v1)|null|
 |**2022-08-01**|**GANDSE: Generative Adversarial Network based Design Space Exploration for Neural Network Accelerator Design**|Lang Feng et.al.|[2208.00800v1](http://arxiv.org/abs/2208.00800v1)|null|
 |**2022-07-28**|**A Hybrid CNN-LSTM model for Video Deepfake Detection by Leveraging Optical Flow Features**|Pallabi Saikia et.al.|[2208.00788v1](http://arxiv.org/abs/2208.00788v1)|null|
-|**2022-08-01**|**AvatarGen: a 3D Generative Model for Animatable Human Avatars**|Jianfeng Zhang et.al.|[2208.00561v1](http://arxiv.org/abs/2208.00561v1)|null|
+|**2022-08-01**|**AvatarGen: a 3D Generative Model for Animatable Human Avatars**|Jianfeng Zhang et.al.|[2208.00561v1](http://arxiv.org/abs/2208.00561v1)|**[link](https://github.com/jfzhang95/avatargen)**|
 |**2022-07-31**|**Design What You Desire: Icon Generation from Orthogonal Application and Theme Labels**|Yinpeng Chen et.al.|[2208.00439v1](http://arxiv.org/abs/2208.00439v1)|null|
 |**2022-07-29**|**Generating Complex 4D Expression Transitions by Learning Face Landmark Trajectories**|Naima Otberdout et.al.|[2208.00050v1](http://arxiv.org/abs/2208.00050v1)|null|
 |**2022-07-29**|**GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond**|Kelvin C. K. Chan et.al.|[2207.14812v1](http://arxiv.org/abs/2207.14812v1)|**[link](https://github.com/open-mmlab/mmediting)**|
