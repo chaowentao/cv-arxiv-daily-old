@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.07
+## Updated on 2022.08.08
 
 ## SLAM
 
@@ -2294,7 +2294,7 @@ layout: default
 |**2022-08-04**|**ZeroMesh: Zero-shot Single-view 3D Mesh Reconstruction**|Xianghui Yang et.al.|[2208.02676v1](http://arxiv.org/abs/2208.02676v1)|null|
 |**2022-08-04**|**ACSGRegNet: A Deep Learning-based Framework for Unsupervised Joint Affine and Diffeomorphic Registration of Lumbar Spine CT via Cross- and Self-Attention Fusion**|Xiaoru Gao et.al.|[2208.02642v1](http://arxiv.org/abs/2208.02642v1)|null|
 |**2022-08-04**|**SOMPT22: A Surveillance Oriented Multi-Pedestrian Tracking Dataset**|Fatih Emre Simsek et.al.|[2208.02580v1](http://arxiv.org/abs/2208.02580v1)|null|
-|**2022-08-04**|**RAZE: Region Guided Self-Supervised Gaze Representation Learning**|Neeru Dubey et.al.|[2208.02485v1](http://arxiv.org/abs/2208.02485v1)|null|
+|**2022-08-04**|**RAZE: Region Guided Self-Supervised Gaze Representation Learning**|Neeru Dubey et.al.|[2208.02485v2](http://arxiv.org/abs/2208.02485v2)|null|
 |**2022-08-04**|**Transferable Multi-Agent Reinforcement Learning with Dynamic Participating Agents**|Xuting Tang et.al.|[2208.02424v1](http://arxiv.org/abs/2208.02424v1)|null|
 |**2022-08-04**|**Deep Semi-Supervised and Self-Supervised Learning for Diabetic Retinopathy Detection**|Jose Miguel Arrieta Ramos et.al.|[2208.02408v1](http://arxiv.org/abs/2208.02408v1)|null|
 |**2022-08-04**|**Domestic Activity Clustering from Audio via Depthwise Separable Convolutional Autoencoder Network**|Yanxiong Li et.al.|[2208.02406v1](http://arxiv.org/abs/2208.02406v1)|**[link](https://github.com/vinceasvp/domestic-activity-clustering-from-audio)**|
