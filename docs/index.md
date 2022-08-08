@@ -356,6 +356,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-04**|**Self-Ensembling Vision Transformer (SEViT) for Robust Medical Image Classification**|Faris Almalik et.al.|[2208.02851v1](http://arxiv.org/abs/2208.02851v1)|null|
 |**2022-08-04**|**DropKey**|Bonan Li et.al.|[2208.02646v1](http://arxiv.org/abs/2208.02646v1)|null|
 |**2022-08-04**|**MVSFormer: Learning Robust Image Representations via Transformers and Temperature-based Depth for Multi-View Stereo**|Chenjie Cao et.al.|[2208.02541v1](http://arxiv.org/abs/2208.02541v1)|null|
 |**2022-08-03**|**GPPF: A General Perception Pre-training Framework via Sparsely Activated Multi-Task Learning**|Benyuan Sun et.al.|[2208.02148v2](http://arxiv.org/abs/2208.02148v2)|null|
@@ -968,6 +969,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-05**|**PGX: A Multi-level GNN Explanation Framework Based on Separate Knowledge Distillation Processes**|Tien-Cuong Bui et.al.|[2208.03075v1](http://arxiv.org/abs/2208.03075v1)|null|
+|**2022-08-05**|**Hybrid Multimodal Feature Extraction, Mining and Fusion for Sentiment Analysis**|Jia Li et.al.|[2208.03051v1](http://arxiv.org/abs/2208.03051v1)|null|
 |**2022-08-04**|**Decoherence quantification through commutation relations decay for open quantum harmonic oscillators**|Igor G. Vladimirov et.al.|[2208.02534v1](http://arxiv.org/abs/2208.02534v1)|null|
 |**2022-08-04**|**Prompt Tuning for Generative Multimodal Pretrained Models**|Hao Yang et.al.|[2208.02532v1](http://arxiv.org/abs/2208.02532v1)|**[link](https://github.com/ofa-sys/ofa)**|
 |**2022-08-03**|**AdaCat: Adaptive Categorical Discretization for Autoregressive Models**|Qiyang Li et.al.|[2208.02246v1](http://arxiv.org/abs/2208.02246v1)|**[link](https://github.com/colinqiyangli/adacat)**|
@@ -1747,6 +1750,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-05**|**RadTex: Learning Efficient Radiograph Representations from Text Reports**|Keegan Quigley et.al.|[2208.03218v1](http://arxiv.org/abs/2208.03218v1)|null|
+|**2022-08-05**|**Joint Attention-Driven Domain Fusion and Noise-Tolerant Learning for Multi-Source Domain Adaptation**|Tong Xu et.al.|[2208.02947v1](http://arxiv.org/abs/2208.02947v1)|null|
+|**2022-08-05**|**Applied monocular reconstruction of parametric faces with domain engineering**|Igor Borovikov et.al.|[2208.02935v1](http://arxiv.org/abs/2208.02935v1)|null|
 |**2022-08-04**|**Cluster-to-adapt: Few Shot Domain Adaptation for Semantic Segmentation across Disjoint Labels**|Tarun Kalluri et.al.|[2208.02804v1](http://arxiv.org/abs/2208.02804v1)|null|
 |**2022-08-03**|**DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture**|Navjot Kaur et.al.|[2208.02205v1](http://arxiv.org/abs/2208.02205v1)|**[link](https://github.com/nka77/dahitra)**|
 |**2022-08-03**|**Interpretable bilinear attention network with domain adaptation improves drug-target prediction**|Peizhen Bai et.al.|[2208.02194v1](http://arxiv.org/abs/2208.02194v1)|**[link](https://github.com/pz-white/drugban)**|
@@ -2287,6 +2293,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-05**|**Few-shot Learning with Retrieval Augmented Language Model**|Gautier Izacard et.al.|[2208.03299v1](http://arxiv.org/abs/2208.03299v1)|null|
+|**2022-08-05**|**Convolutional Ensembling based Few-Shot Defect Detection Technique**|Soumyajit Karmakar et.al.|[2208.03288v1](http://arxiv.org/abs/2208.03288v1)|null|
+|**2022-08-05**|**3D Pose Based Feedback for Physical Exercises**|Ziyi Zhao et.al.|[2208.03257v1](http://arxiv.org/abs/2208.03257v1)|null|
+|**2022-08-05**|**Improving Task Generalization via Unified Schema Prompt**|Wanjun Zhong et.al.|[2208.03229v1](http://arxiv.org/abs/2208.03229v1)|null|
+|**2022-08-05**|**Large vocabulary speech recognition for languages of Africa: multilingual modeling and self-supervised learning**|Sandy Ritchie et.al.|[2208.03067v1](http://arxiv.org/abs/2208.03067v1)|null|
+|**2022-08-05**|**Joint Attention-Driven Domain Fusion and Noise-Tolerant Learning for Multi-Source Domain Adaptation**|Tong Xu et.al.|[2208.02947v1](http://arxiv.org/abs/2208.02947v1)|null|
+|**2022-08-04**|**Solving the Baby Intuitions Benchmark with a Hierarchically Bayesian Theory of Mind**|Tan Zhi-Xuan et.al.|[2208.02914v1](http://arxiv.org/abs/2208.02914v1)|null|
+|**2022-08-04**|**Unsupervised Tissue Segmentation via Deep Constrained Gaussian Network**|Yang Nan et.al.|[2208.02912v1](http://arxiv.org/abs/2208.02912v1)|null|
+|**2022-08-04**|**Grasp Stability Prediction with Sim-to-Real Transfer from Tactile Sensing**|Zilin Si et.al.|[2208.02885v1](http://arxiv.org/abs/2208.02885v1)|null|
+|**2022-08-04**|**Embedding Alignment for Unsupervised Federated Learning via Smart Data Exchange**|Satyavrat Wagle et.al.|[2208.02856v1](http://arxiv.org/abs/2208.02856v1)|null|
+|**2022-08-04**|**Subgame perfect Nash equilibrium for dynamic pricing competition with finite planning horizon**|Niloofar Fadavi et.al.|[2208.02842v1](http://arxiv.org/abs/2208.02842v1)|null|
 |**2022-08-04**|**Expanding Language-Image Pretrained Models for General Video Recognition**|Bolin Ni et.al.|[2208.02816v1](http://arxiv.org/abs/2208.02816v1)|**[link](https://github.com/microsoft/videox)**|
 |**2022-08-04**|**Cluster-to-adapt: Few Shot Domain Adaptation for Semantic Segmentation across Disjoint Labels**|Tarun Kalluri et.al.|[2208.02804v1](http://arxiv.org/abs/2208.02804v1)|null|
 |**2022-08-04**|**Unsupervised Graph Spectral Feature Denoising for Crop Yield Prediction**|Saghar Bagheri et.al.|[2208.02714v1](http://arxiv.org/abs/2208.02714v1)|null|
@@ -4748,6 +4765,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-05**|**Construction of English Resume Corpus and Test with Pre-trained Language Models**|Chengguang Gan et.al.|[2208.03219v1](http://arxiv.org/abs/2208.03219v1)|null|
+|**2022-08-05**|**Dynamic Adaptive and Adversarial Graph Convolutional Network for Traffic Forecasting**|Juyong Jiang et.al.|[2208.03063v1](http://arxiv.org/abs/2208.03063v1)|null|
+|**2022-08-05**|**Towards No.1 in CLUE Semantic Matching Challenge: Pre-trained Language Model Erlangshen with Propensity-Corrected Loss**|Junjie Wang et.al.|[2208.02959v1](http://arxiv.org/abs/2208.02959v1)|**[link](https://github.com/idea-ccnl/fengshenbang-lm)**|
+|**2022-08-05**|**Learning to Generate 3D Shapes from a Single Example**|Rundi Wu et.al.|[2208.02946v1](http://arxiv.org/abs/2208.02946v1)|null|
+|**2022-08-04**|**Beyond Stationary Simulation; Modern Approaches to Stochastic Modelling**|Pejman Shamsipour et.al.|[2208.02875v1](http://arxiv.org/abs/2208.02875v1)|null|
+|**2022-08-04**|**Latent Multi-Relation Reasoning for GAN-Prior based Image Super-Resolution**|Jiahui Zhang et.al.|[2208.02861v1](http://arxiv.org/abs/2208.02861v1)|null|
 |**2022-08-04**|**Visually Evaluating Generative Adversarial Networks Using Itself under Multivariate Time Series**|Qilong Pan et.al.|[2208.02649v1](http://arxiv.org/abs/2208.02649v1)|**[link](https://github.com/jack-pan-ai/GaussianGANs)**|
 |**2022-08-04**|**A Representation Modeling Based Language GAN with Completely Random Initialization**|Da Ren et.al.|[2208.02531v1](http://arxiv.org/abs/2208.02531v1)|null|
 |**2022-08-03**|**Towards Generating Large Synthetic Phytoplankton Datasets for Efficient Monitoring of Harmful Algal Blooms**|Nitpreet Bamra et.al.|[2208.02332v1](http://arxiv.org/abs/2208.02332v1)|null|
