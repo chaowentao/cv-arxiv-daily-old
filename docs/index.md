@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.08
+## Updated on 2022.08.09
 
 ## SLAM
 
@@ -356,9 +356,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-04**|**Self-Ensembling Vision Transformer (SEViT) for Robust Medical Image Classification**|Faris Almalik et.al.|[2208.02851v1](http://arxiv.org/abs/2208.02851v1)|null|
-|**2022-08-04**|**DropKey**|Bonan Li et.al.|[2208.02646v1](http://arxiv.org/abs/2208.02646v1)|null|
-|**2022-08-04**|**MVSFormer: Learning Robust Image Representations via Transformers and Temperature-based Depth for Multi-View Stereo**|Chenjie Cao et.al.|[2208.02541v1](http://arxiv.org/abs/2208.02541v1)|null|
+|**2022-08-04**|**Self-Ensembling Vision Transformer (SEViT) for Robust Medical Image Classification**|Faris Almalik et.al.|[2208.02851v1](http://arxiv.org/abs/2208.02851v1)|**[link](https://github.com/faresmalik/sevit)**|
+|**2022-08-04**|**DropKey**|Bonan Li et.al.|[2208.02646v2](http://arxiv.org/abs/2208.02646v2)|null|
+|**2022-08-04**|**MVSFormer: Multi-View Stereo with Pre-trained Vision Transformers and Temperature-based Depth**|Chenjie Cao et.al.|[2208.02541v2](http://arxiv.org/abs/2208.02541v2)|null|
 |**2022-08-03**|**GPPF: A General Perception Pre-training Framework via Sparsely Activated Multi-Task Learning**|Benyuan Sun et.al.|[2208.02148v2](http://arxiv.org/abs/2208.02148v2)|null|
 |**2022-08-03**|**SSformer: A Lightweight Transformer for Semantic Segmentation**|Wentao Shi et.al.|[2208.02034v1](http://arxiv.org/abs/2208.02034v1)|**[link](https://github.com/shiwt03/ssformer)**|
 |**2022-08-03**|**Multi-Feature Vision Transformer via Self-Supervised Representation Learning for Improvement of COVID-19 Diagnosis**|Xiao Qi et.al.|[2208.01843v1](http://arxiv.org/abs/2208.01843v1)|**[link](https://github.com/endiqq/multi-feature-vit)**|
@@ -1758,7 +1758,7 @@ layout: default
 |**2022-08-03**|**Interpretable bilinear attention network with domain adaptation improves drug-target prediction**|Peizhen Bai et.al.|[2208.02194v1](http://arxiv.org/abs/2208.02194v1)|**[link](https://github.com/pz-white/drugban)**|
 |**2022-08-02**|**DAPDAG: Domain Adaptation via Perturbed DAG Reconstruction**|Yanke Li et.al.|[2208.01373v1](http://arxiv.org/abs/2208.01373v1)|null|
 |**2022-08-02**|**Making the Best of Both Worlds: A Domain-Oriented Transformer for Unsupervised Domain Adaptation**|Wenxuan Ma et.al.|[2208.01195v1](http://arxiv.org/abs/2208.01195v1)|null|
-|**2022-08-01**|**Few-shot Adaptation Works with UnpredicTable Data**|Jun Shern Chan et.al.|[2208.01009v1](http://arxiv.org/abs/2208.01009v1)|**[link](https://github.com/junshern/few-shot-adaptation)**|
+|**2022-08-01**|**Few-shot Adaptation Works with UnpredicTable Data**|Jun Shern Chan et.al.|[2208.01009v2](http://arxiv.org/abs/2208.01009v2)|**[link](https://github.com/junshern/few-shot-adaptation)**|
 |**2022-07-31**|**Feather-Light Fourier Domain Adaptation in Magnetic Resonance Imaging**|Ivan Zakazov et.al.|[2208.00474v1](http://arxiv.org/abs/2208.00474v1)|**[link](https://github.com/kechua/feather-light-fourier-domain-adaptation)**|
 |**2022-07-30**|**Simplex Clustering via sBeta with Applications to Online Adjustment of Black-Box Predictions**|Florent Chiaroni et.al.|[2208.00287v2](http://arxiv.org/abs/2208.00287v2)|**[link](https://github.com/fchiaroni/clustering_softmax_predictions)**|
 |**2022-07-30**|**PolarMix: A General Data Augmentation Technique for LiDAR Point Clouds**|Aoran Xiao et.al.|[2208.00223v1](http://arxiv.org/abs/2208.00223v1)|null|
@@ -2293,7 +2293,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-05**|**Few-shot Learning with Retrieval Augmented Language Model**|Gautier Izacard et.al.|[2208.03299v1](http://arxiv.org/abs/2208.03299v1)|null|
+|**2022-08-05**|**Few-shot Learning with Retrieval Augmented Language Models**|Gautier Izacard et.al.|[2208.03299v2](http://arxiv.org/abs/2208.03299v2)|null|
 |**2022-08-05**|**Convolutional Ensembling based Few-Shot Defect Detection Technique**|Soumyajit Karmakar et.al.|[2208.03288v1](http://arxiv.org/abs/2208.03288v1)|null|
 |**2022-08-05**|**3D Pose Based Feedback for Physical Exercises**|Ziyi Zhao et.al.|[2208.03257v1](http://arxiv.org/abs/2208.03257v1)|null|
 |**2022-08-05**|**Improving Task Generalization via Unified Schema Prompt**|Wanjun Zhong et.al.|[2208.03229v1](http://arxiv.org/abs/2208.03229v1)|null|
@@ -2301,7 +2301,7 @@ layout: default
 |**2022-08-05**|**Joint Attention-Driven Domain Fusion and Noise-Tolerant Learning for Multi-Source Domain Adaptation**|Tong Xu et.al.|[2208.02947v1](http://arxiv.org/abs/2208.02947v1)|null|
 |**2022-08-04**|**Solving the Baby Intuitions Benchmark with a Hierarchically Bayesian Theory of Mind**|Tan Zhi-Xuan et.al.|[2208.02914v1](http://arxiv.org/abs/2208.02914v1)|null|
 |**2022-08-04**|**Unsupervised Tissue Segmentation via Deep Constrained Gaussian Network**|Yang Nan et.al.|[2208.02912v1](http://arxiv.org/abs/2208.02912v1)|null|
-|**2022-08-04**|**Grasp Stability Prediction with Sim-to-Real Transfer from Tactile Sensing**|Zilin Si et.al.|[2208.02885v1](http://arxiv.org/abs/2208.02885v1)|null|
+|**2022-08-04**|**Grasp Stability Prediction with Sim-to-Real Transfer from Tactile Sensing**|Zilin Si et.al.|[2208.02885v1](http://arxiv.org/abs/2208.02885v1)|**[link](https://github.com/CMURoboTouch/Taxim)**|
 |**2022-08-04**|**Embedding Alignment for Unsupervised Federated Learning via Smart Data Exchange**|Satyavrat Wagle et.al.|[2208.02856v1](http://arxiv.org/abs/2208.02856v1)|null|
 |**2022-08-04**|**Subgame perfect Nash equilibrium for dynamic pricing competition with finite planning horizon**|Niloofar Fadavi et.al.|[2208.02842v1](http://arxiv.org/abs/2208.02842v1)|null|
 |**2022-08-04**|**Expanding Language-Image Pretrained Models for General Video Recognition**|Bolin Ni et.al.|[2208.02816v1](http://arxiv.org/abs/2208.02816v1)|**[link](https://github.com/microsoft/videox)**|
@@ -4643,7 +4643,7 @@ layout: default
 |**2022-08-04**|**360Roam: Real-Time Indoor Roaming Using Geometry-Aware ${360^\circ}$ Radiance Fields**|Huajian Huang et.al.|[2208.02705v1](http://arxiv.org/abs/2208.02705v1)|null|
 |**2022-08-02**|**T4DT: Tensorizing Time for Learning Temporal 3D Visual Data**|Mikhail Usvyatsov et.al.|[2208.01421v1](http://arxiv.org/abs/2208.01421v1)|**[link](https://github.com/aelphy/t4dt)**|
 |**2022-08-01**|**DoF-NeRF: Depth-of-Field Meets Neural Radiance Fields**|Zijin Wu et.al.|[2208.00945v1](http://arxiv.org/abs/2208.00945v1)|**[link](https://github.com/zijinwuzijin/dof-nerf)**|
-|**2022-07-30**|**MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures**|Zhiqin Chen et.al.|[2208.00277v1](http://arxiv.org/abs/2208.00277v1)|null|
+|**2022-07-30**|**MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures**|Zhiqin Chen et.al.|[2208.00277v2](http://arxiv.org/abs/2208.00277v2)|**[link](https://github.com/google-research/jax3d)**|
 |**2022-07-30**|**Distilled Low Rank Neural Radiance Field with Quantization for Light Field Compression**|Jinglei Shi et.al.|[2208.00164v1](http://arxiv.org/abs/2208.00164v1)|null|
 |**2022-07-29**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741v2](http://arxiv.org/abs/2207.14741v2)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
@@ -4766,7 +4766,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-05**|**Construction of English Resume Corpus and Test with Pre-trained Language Models**|Chengguang Gan et.al.|[2208.03219v1](http://arxiv.org/abs/2208.03219v1)|null|
-|**2022-08-05**|**Dynamic Adaptive and Adversarial Graph Convolutional Network for Traffic Forecasting**|Juyong Jiang et.al.|[2208.03063v1](http://arxiv.org/abs/2208.03063v1)|null|
+|**2022-08-05**|**Dynamic Adaptive and Adversarial Graph Convolutional Network for Traffic Forecasting**|Juyong Jiang et.al.|[2208.03063v1](http://arxiv.org/abs/2208.03063v1)|**[link](https://github.com/juyongjiang/daagcn)**|
 |**2022-08-05**|**Towards No.1 in CLUE Semantic Matching Challenge: Pre-trained Language Model Erlangshen with Propensity-Corrected Loss**|Junjie Wang et.al.|[2208.02959v1](http://arxiv.org/abs/2208.02959v1)|**[link](https://github.com/idea-ccnl/fengshenbang-lm)**|
 |**2022-08-05**|**Learning to Generate 3D Shapes from a Single Example**|Rundi Wu et.al.|[2208.02946v1](http://arxiv.org/abs/2208.02946v1)|null|
 |**2022-08-04**|**Beyond Stationary Simulation; Modern Approaches to Stochastic Modelling**|Pejman Shamsipour et.al.|[2208.02875v1](http://arxiv.org/abs/2208.02875v1)|null|
