@@ -63,6 +63,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-07**|**Transport properties of vertical heterostructures under light irradiation**|Pascal Stadler et.al.|[2208.03702v1](http://arxiv.org/abs/2208.03702v1)|null|
+|**2022-08-07**|**Cosmological perturbations in the spatially covariant gravity with a dynamical lapse function**|Xue-Zheng Zhu et.al.|[2208.03629v1](http://arxiv.org/abs/2208.03629v1)|null|
 |**2022-08-01**|**Computing coherent light scattering on the millimetre scale using a recurrent neural network without training**|Laurynas Valantinas et.al.|[2208.01118v1](http://arxiv.org/abs/2208.01118v1)|null|
 |**2022-08-01**|**Modelling spatio-temporal dynamics of chiral coupling of quantum emitters to light fields in nanophotonic structures**|Jan Olthaus et.al.|[2208.00879v1](http://arxiv.org/abs/2208.00879v1)|null|
 |**2022-07-30**|**Distilled Low Rank Neural Radiance Field with Quantization for Light Field Compression**|Jinglei Shi et.al.|[2208.00164v1](http://arxiv.org/abs/2208.00164v1)|null|
@@ -204,6 +206,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-08**|**3D Vision with Transformers: A Survey**|Jean Lahoud et.al.|[2208.04309v1](http://arxiv.org/abs/2208.04309v1)|null|
+|**2022-08-08**|**Understanding Masked Image Modeling via Learning Occlusion Invariant Feature**|Xiangwen Kong et.al.|[2208.04164v1](http://arxiv.org/abs/2208.04164v1)|null|
+|**2022-08-08**|**Efficient Neural Net Approaches in Metal Casting Defect Detection**|Rohit Lal et.al.|[2208.04150v1](http://arxiv.org/abs/2208.04150v1)|null|
+|**2022-08-08**|**Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model**|Di Wang et.al.|[2208.03987v1](http://arxiv.org/abs/2208.03987v1)|**[link](https://github.com/vitae-transformer/remote-sensing-rvsa)**|
+|**2022-08-06**|**MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer**|Chaoqiang Zhao et.al.|[2208.03543v1](http://arxiv.org/abs/2208.03543v1)|**[link](https://github.com/zxcqlf/monovit)**|
+|**2022-08-06**|**Analysing the Memorability of a Procedural Crime-Drama TV Series, CSI**|Sean Cummins et.al.|[2208.03479v1](http://arxiv.org/abs/2208.03479v1)|null|
 |**2022-08-04**|**Self-Ensembling Vision Transformer (SEViT) for Robust Medical Image Classification**|Faris Almalik et.al.|[2208.02851v1](http://arxiv.org/abs/2208.02851v1)|**[link](https://github.com/faresmalik/sevit)**|
 |**2022-08-04**|**DropKey**|Bonan Li et.al.|[2208.02646v2](http://arxiv.org/abs/2208.02646v2)|null|
 |**2022-08-04**|**MVSFormer: Multi-View Stereo with Pre-trained Vision Transformers and Temperature-based Depth**|Chenjie Cao et.al.|[2208.02541v2](http://arxiv.org/abs/2208.02541v2)|null|
@@ -673,6 +681,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-08**|**MetaGraspNet: A Large-Scale Benchmark Dataset for Scene-Aware Ambidextrous Bin Picking via Physics-based Metaverse Synthesis**|Maximilian Gilles et.al.|[2208.03963v1](http://arxiv.org/abs/2208.03963v1)|null|
+|**2022-08-07**|**Jointformer: Single-Frame Lifting Transformer with Error Prediction and Refinement for 3D Human Pose Estimation**|Sebastian Lutz et.al.|[2208.03704v1](http://arxiv.org/abs/2208.03704v1)|null|
+|**2022-08-07**|**CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization**|Yujiao Shi et.al.|[2208.03660v1](http://arxiv.org/abs/2208.03660v1)|null|
+|**2022-08-06**|**IVT: An End-to-End Instance-guided Video Transformer for 3D Pose Estimation**|Zhongwei Qiu et.al.|[2208.03431v1](http://arxiv.org/abs/2208.03431v1)|null|
 |**2022-08-02**|**UnrealEgo: A New Dataset for Robust Egocentric 3D Human Motion Capture**|Hiroyasu Akada et.al.|[2208.01633v1](http://arxiv.org/abs/2208.01633v1)|null|
 |**2022-07-29**|**Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation**|Qihao Liu et.al.|[2208.00090v1](http://arxiv.org/abs/2208.00090v1)|null|
 |**2022-07-26**|**DETRs with Hybrid Matching**|Ding Jia et.al.|[2207.13080v1](http://arxiv.org/abs/2207.13080v1)|**[link](https://github.com/HDETR/H-Deformable-DETR)**|
@@ -817,6 +829,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-08**|**Snowpack Estimation in Key Mountainous Water Basins from Openly-Available, Multimodal Data Sources**|Malachy Moran et.al.|[2208.04246v1](http://arxiv.org/abs/2208.04246v1)|null|
+|**2022-08-07**|**Spectral Shaping in a Multimode Fiber by All-fiber Modulation**|Zohar Finkelstein et.al.|[2208.03778v1](http://arxiv.org/abs/2208.03778v1)|null|
 |**2022-08-05**|**PGX: A Multi-level GNN Explanation Framework Based on Separate Knowledge Distillation Processes**|Tien-Cuong Bui et.al.|[2208.03075v1](http://arxiv.org/abs/2208.03075v1)|null|
 |**2022-08-05**|**Hybrid Multimodal Feature Extraction, Mining and Fusion for Sentiment Analysis**|Jia Li et.al.|[2208.03051v1](http://arxiv.org/abs/2208.03051v1)|null|
 |**2022-08-04**|**Decoherence quantification through commutation relations decay for open quantum harmonic oscillators**|Igor G. Vladimirov et.al.|[2208.02534v1](http://arxiv.org/abs/2208.02534v1)|null|
@@ -1598,6 +1612,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-07**|**Vernacular Search Query Translation with Unsupervised Domain Adaptation**|Mandar Kulkarni et.al.|[2208.03711v1](http://arxiv.org/abs/2208.03711v1)|null|
+|**2022-08-05**|**Seamless Iterative Semi-Supervised Correction of Imperfect Labels in Microscopy Images**|Marawan Elbatel et.al.|[2208.03327v1](http://arxiv.org/abs/2208.03327v1)|**[link](https://github.com/marwankefah/SISSI)**|
 |**2022-08-05**|**RadTex: Learning Efficient Radiograph Representations from Text Reports**|Keegan Quigley et.al.|[2208.03218v1](http://arxiv.org/abs/2208.03218v1)|null|
 |**2022-08-05**|**Joint Attention-Driven Domain Fusion and Noise-Tolerant Learning for Multi-Source Domain Adaptation**|Tong Xu et.al.|[2208.02947v1](http://arxiv.org/abs/2208.02947v1)|null|
 |**2022-08-05**|**Applied monocular reconstruction of parametric faces with domain engineering**|Igor Borovikov et.al.|[2208.02935v1](http://arxiv.org/abs/2208.02935v1)|null|
@@ -2141,6 +2157,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-08**|**Self-Supervised Contrastive Representation Learning for 3D Mesh Segmentation**|Ayaan Haque et.al.|[2208.04278v1](http://arxiv.org/abs/2208.04278v1)|null|
+|**2022-08-08**|**SsaA: A Self-supervised auto-Annotation System for Online Visual Inspection and Manufacturing Automation**|Jiawei Li et.al.|[2208.04173v1](http://arxiv.org/abs/2208.04173v1)|null|
+|**2022-08-08**|**Object Detection Using Sim2Real Domain Randomization for Robotic Applications**|Dániel Horváth et.al.|[2208.04171v1](http://arxiv.org/abs/2208.04171v1)|null|
+|**2022-08-08**|**Neural Set Function Extensions: Learning with Discrete Functions in High Dimensions**|Nikolaos Karalias et.al.|[2208.04055v1](http://arxiv.org/abs/2208.04055v1)|null|
+|**2022-08-08**|**Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model**|Di Wang et.al.|[2208.03987v1](http://arxiv.org/abs/2208.03987v1)|**[link](https://github.com/vitae-transformer/remote-sensing-rvsa)**|
+|**2022-08-08**|**Semantic Enhanced Text-to-SQL Parsing via Iteratively Learning Schema Linking Graph**|Aiwei Liu et.al.|[2208.03903v1](http://arxiv.org/abs/2208.03903v1)|null|
+|**2022-08-07**|**Vernacular Search Query Translation with Unsupervised Domain Adaptation**|Mandar Kulkarni et.al.|[2208.03711v1](http://arxiv.org/abs/2208.03711v1)|null|
+|**2022-08-07**|**A Game-Theoretic Perspective of Generalization in Reinforcement Learning**|Chang Yang et.al.|[2208.03650v1](http://arxiv.org/abs/2208.03650v1)|null|
+|**2022-08-07**|**Training Process of Unsupervised Learning Architecture for Gravity Spy Dataset**|Yusuke Sakai et.al.|[2208.03623v1](http://arxiv.org/abs/2208.03623v1)|null|
+|**2022-08-07**|**An Unsupervised Learning Approach for Spectrum Allocation in Terahertz Communication Systems**|Akram Shafie et.al.|[2208.03618v1](http://arxiv.org/abs/2208.03618v1)|null|
+|**2022-08-07**|**Continual Learning for Tumor Classification in Histopathology Images**|Veena Kaustaban et.al.|[2208.03609v1](http://arxiv.org/abs/2208.03609v1)|null|
+|**2022-08-06**|**HSIC-InfoGAN: Learning Unsupervised Disentangled Representations by Maximising Approximated Mutual Information**|Xiao Liu et.al.|[2208.03563v1](http://arxiv.org/abs/2208.03563v1)|null|
+|**2022-08-06**|**FRBSTATS: A web-based platform for visualization of fast radio burst properties**|Apostolos Spanakis-Misirlis et.al.|[2208.03508v1](http://arxiv.org/abs/2208.03508v1)|null|
+|**2022-08-06**|**Contrastive Positive Mining for Unsupervised 3D Action Representation Learning**|Haoyuan Zhang et.al.|[2208.03497v1](http://arxiv.org/abs/2208.03497v1)|null|
+|**2022-08-06**|**HaloAE: An HaloNet based Local Transformer Auto-Encoder for Anomaly Detection and Localization**|E. Mathian et.al.|[2208.03486v1](http://arxiv.org/abs/2208.03486v1)|null|
+|**2022-08-05**|**IDLat: An Importance-Driven Latent Generation Method for Scientific Data**|Jingyi Shen et.al.|[2208.03345v1](http://arxiv.org/abs/2208.03345v1)|null|
 |**2022-08-05**|**Few-shot Learning with Retrieval Augmented Language Models**|Gautier Izacard et.al.|[2208.03299v2](http://arxiv.org/abs/2208.03299v2)|null|
 |**2022-08-05**|**Convolutional Ensembling based Few-Shot Defect Detection Technique**|Soumyajit Karmakar et.al.|[2208.03288v1](http://arxiv.org/abs/2208.03288v1)|null|
 |**2022-08-05**|**3D Pose Based Feedback for Physical Exercises**|Ziyi Zhao et.al.|[2208.03257v1](http://arxiv.org/abs/2208.03257v1)|null|
@@ -4613,6 +4645,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-08**|**Towards Semantic Communications: Deep Learning-Based Image Semantic Coding**|Danlan Huang et.al.|[2208.04094v1](http://arxiv.org/abs/2208.04094v1)|null|
+|**2022-08-08**|**Inflating 2D Convolution Weights for Efficient Generation of 3D Medical Images**|Yanbin Liu et.al.|[2208.03934v1](http://arxiv.org/abs/2208.03934v1)|null|
+|**2022-08-07**|**Hierarchical Semantic Regularization of Latent Spaces in StyleGANs**|Tejan Karmali et.al.|[2208.03764v1](http://arxiv.org/abs/2208.03764v1)|null|
+|**2022-08-07**|**Star formation inefficiency and Kennicutt-Schmidt laws in early-type galaxies**|Brian Jiang et.al.|[2208.03735v1](http://arxiv.org/abs/2208.03735v1)|null|
+|**2022-08-07**|**Gacha Game: When Prospect Theory Meets Optimal Pricing**|Tan Gan et.al.|[2208.03602v1](http://arxiv.org/abs/2208.03602v1)|null|
+|**2022-08-06**|**Exceptional set estimates for orthogonal and radial projections in $\mathbb{R}^n$**|Paige Dote et.al.|[2208.03597v1](http://arxiv.org/abs/2208.03597v1)|null|
+|**2022-08-06**|**Dark Energy and Neutrino Superfluids**|Andrea Addazi et.al.|[2208.03591v1](http://arxiv.org/abs/2208.03591v1)|null|
+|**2022-08-06**|**A comparison of a commercial hydrodynamics TCAD solver and Fermi kinetics transport convergence for GaN HEMTs**|Ashwin Tunga et.al.|[2208.03576v1](http://arxiv.org/abs/2208.03576v1)|null|
+|**2022-08-06**|**Real-time Neural Dense Elevation Mapping for Urban Terrain with Uncertainty Estimations**|Bowen Yang et.al.|[2208.03467v1](http://arxiv.org/abs/2208.03467v1)|null|
+|**2022-08-05**|**Keys to Better Image Inpainting: Structure and Texture Go Hand in Hand**|Jitesh Jain et.al.|[2208.03382v1](http://arxiv.org/abs/2208.03382v1)|null|
+|**2022-08-05**|**Perceptual Artifacts Localization for Inpainting**|Lingzhi Zhang et.al.|[2208.03357v1](http://arxiv.org/abs/2208.03357v1)|**[link](https://github.com/owenzlz/pal4inpaint)**|
 |**2022-08-05**|**Construction of English Resume Corpus and Test with Pre-trained Language Models**|Chengguang Gan et.al.|[2208.03219v1](http://arxiv.org/abs/2208.03219v1)|null|
 |**2022-08-05**|**Dynamic Adaptive and Adversarial Graph Convolutional Network for Traffic Forecasting**|Juyong Jiang et.al.|[2208.03063v1](http://arxiv.org/abs/2208.03063v1)|**[link](https://github.com/juyongjiang/daagcn)**|
 |**2022-08-05**|**Towards No.1 in CLUE Semantic Matching Challenge: Pre-trained Language Model Erlangshen with Propensity-Corrected Loss**|Junjie Wang et.al.|[2208.02959v1](http://arxiv.org/abs/2208.02959v1)|**[link](https://github.com/idea-ccnl/fengshenbang-lm)**|
