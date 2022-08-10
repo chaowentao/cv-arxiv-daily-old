@@ -358,6 +358,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-09**|**How Well Do Vision Transformers (VTs) Transfer To The Non-Natural Image Domain? An Empirical Study Involving Art Classification**|Vincent Tonkes et.al.|[2208.04693v1](http://arxiv.org/abs/2208.04693v1)|null|
+|**2022-08-08**|**Occlusion-Aware Instance Segmentation via BiLayer Network Architectures**|Lei Ke et.al.|[2208.04438v1](http://arxiv.org/abs/2208.04438v1)|**[link](https://github.com/lkeab/BCNet)**|
 |**2022-08-08**|**3D Vision with Transformers: A Survey**|Jean Lahoud et.al.|[2208.04309v1](http://arxiv.org/abs/2208.04309v1)|**[link](https://github.com/lahoud/3d-vision-transformers)**|
 |**2022-08-08**|**Understanding Masked Image Modeling via Learning Occlusion Invariant Feature**|Xiangwen Kong et.al.|[2208.04164v1](http://arxiv.org/abs/2208.04164v1)|null|
 |**2022-08-08**|**Efficient Neural Net Approaches in Metal Casting Defect Detection**|Rohit Lal et.al.|[2208.04150v1](http://arxiv.org/abs/2208.04150v1)|null|
@@ -1764,6 +1766,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-09**|**Unsupervised Domain Adaptation for Point Cloud Semantic Segmentation via Graph Matching**|Yikai Bian et.al.|[2208.04510v1](http://arxiv.org/abs/2208.04510v1)|null|
 |**2022-08-07**|**Vernacular Search Query Translation with Unsupervised Domain Adaptation**|Mandar Kulkarni et.al.|[2208.03711v1](http://arxiv.org/abs/2208.03711v1)|null|
 |**2022-08-05**|**Seamless Iterative Semi-Supervised Correction of Imperfect Labels in Microscopy Images**|Marawan Elbatel et.al.|[2208.03327v1](http://arxiv.org/abs/2208.03327v1)|**[link](https://github.com/marwankefah/SISSI)**|
 |**2022-08-05**|**RadTex: Learning Efficient Radiograph Representations from Text Reports**|Keegan Quigley et.al.|[2208.03218v1](http://arxiv.org/abs/2208.03218v1)|null|
@@ -2309,6 +2312,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-09**|**Early Stage Sparse Retrieval with Entity Linking**|Dahlia Shehata et.al.|[2208.04887v1](http://arxiv.org/abs/2208.04887v1)|null|
+|**2022-08-09**|**Unsupervised Question Clarity Prediction Through Retrieved Item Coherency**|Negar Arabzadeh et.al.|[2208.04882v1](http://arxiv.org/abs/2208.04882v1)|null|
+|**2022-08-09**|**sim2real: Cardiac MR Image Simulation-to-Real Translation via Unsupervised GANs**|Sina Amirrajab et.al.|[2208.04874v1](http://arxiv.org/abs/2208.04874v1)|null|
+|**2022-08-09**|**Delineating complex ferroelectric domain structures via second harmonic generation spectral imaging**|Wei Li et.al.|[2208.04540v1](http://arxiv.org/abs/2208.04540v1)|null|
+|**2022-08-09**|**Motif-based Graph Representation Learning with Application to Chemical Molecules**|Yifei Wang et.al.|[2208.04529v1](http://arxiv.org/abs/2208.04529v1)|**[link](https://github.com/yifeiwang15/motifconv)**|
+|**2022-08-09**|**Unsupervised Domain Adaptation for Point Cloud Semantic Segmentation via Graph Matching**|Yikai Bian et.al.|[2208.04510v1](http://arxiv.org/abs/2208.04510v1)|null|
+|**2022-08-09**|**Speaker-adaptive Lip Reading with User-dependent Padding**|Minsu Kim et.al.|[2208.04498v1](http://arxiv.org/abs/2208.04498v1)|null|
+|**2022-08-08**|**Txt2Img-MHN: Remote Sensing Image Generation from Text Using Modern Hopfield Networks**|Yonghao Xu et.al.|[2208.04441v1](http://arxiv.org/abs/2208.04441v1)|null|
+|**2022-08-08**|**Contrast-Phys: Unsupervised Video-based Remote Physiological Measurement via Spatiotemporal Contrast**|Zhaodong Sun et.al.|[2208.04378v1](http://arxiv.org/abs/2208.04378v1)|**[link](https://github.com/zhaodongsun/contrast-phys)**|
+|**2022-08-08**|**Predicting the minimum control time of quantum protocols with artificial neural networks**|Sofia Sevitz et.al.|[2208.04362v1](http://arxiv.org/abs/2208.04362v1)|null|
+|**2022-08-07**|**Implementation of fast ICA using memristor crossbar arrays for blind image source separations**|Pavan Kumar Reddy Boppidi et.al.|[2208.04317v1](http://arxiv.org/abs/2208.04317v1)|null|
 |**2022-08-08**|**Self-Supervised Contrastive Representation Learning for 3D Mesh Segmentation**|Ayaan Haque et.al.|[2208.04278v1](http://arxiv.org/abs/2208.04278v1)|null|
 |**2022-08-08**|**SsaA: A Self-supervised auto-Annotation System for Online Visual Inspection and Manufacturing Automation**|Jiawei Li et.al.|[2208.04173v1](http://arxiv.org/abs/2208.04173v1)|null|
 |**2022-08-08**|**Object Detection Using Sim2Real Domain Randomization for Robotic Applications**|Dániel Horváth et.al.|[2208.04171v1](http://arxiv.org/abs/2208.04171v1)|null|
@@ -4797,6 +4811,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-09**|**sim2real: Cardiac MR Image Simulation-to-Real Translation via Unsupervised GANs**|Sina Amirrajab et.al.|[2208.04874v1](http://arxiv.org/abs/2208.04874v1)|null|
+|**2022-08-09**|**Longitudinal Prediction of Postnatal Brain Magnetic Resonance Images via a Metamorphic Generative Adversarial Network**|Yunzhi Huang et.al.|[2208.04825v1](http://arxiv.org/abs/2208.04825v1)|null|
+|**2022-08-09**|**Improved Multiple-Image-Based Reflection Removal Algorithm Using Deep Neural Networks**|Tingtian Li et.al.|[2208.04679v1](http://arxiv.org/abs/2208.04679v1)|null|
+|**2022-08-09**|**Disentangled Representation Learning Using ($β$-)VAE and GAN**|Mohammad Haghir Ebrahimabadi et.al.|[2208.04549v1](http://arxiv.org/abs/2208.04549v1)|null|
+|**2022-08-09**|**Attribute Controllable Beautiful Caucasian Face Generation by Aesthetics Driven Reinforcement Learning**|Xin Jin et.al.|[2208.04517v1](http://arxiv.org/abs/2208.04517v1)|null|
 |**2022-08-08**|**Towards Semantic Communications: Deep Learning-Based Image Semantic Coding**|Danlan Huang et.al.|[2208.04094v1](http://arxiv.org/abs/2208.04094v1)|null|
 |**2022-08-08**|**Inflating 2D Convolution Weights for Efficient Generation of 3D Medical Images**|Yanbin Liu et.al.|[2208.03934v1](http://arxiv.org/abs/2208.03934v1)|null|
 |**2022-08-07**|**Hierarchical Semantic Regularization of Latent Spaces in StyleGANs**|Tejan Karmali et.al.|[2208.03764v1](http://arxiv.org/abs/2208.03764v1)|null|
