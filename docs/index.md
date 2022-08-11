@@ -358,7 +358,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-09**|**How Well Do Vision Transformers (VTs) Transfer To The Non-Natural Image Domain? An Empirical Study Involving Art Classification**|Vincent Tonkes et.al.|[2208.04693v1](http://arxiv.org/abs/2208.04693v1)|null|
+|**2022-08-10**|**Auto-ViT-Acc: An FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization**|Zhengang Li et.al.|[2208.05163v1](http://arxiv.org/abs/2208.05163v1)|null|
+|**2022-08-10**|**Ghost-free High Dynamic Range Imaging with Context-aware Transformer**|Zhen Liu et.al.|[2208.05114v1](http://arxiv.org/abs/2208.05114v1)|**[link](https://github.com/megvii-research/hdr-transformer)**|
+|**2022-08-09**|**CoViT: Real-time phylogenetics for the SARS-CoV-2 pandemic using Vision Transformers**|Zuher Jahshan et.al.|[2208.05004v1](http://arxiv.org/abs/2208.05004v1)|**[link](https://github.com/zuherjahshan/covit)**|
+|**2022-08-07**|**U-Net vs Transformer: Is U-Net Outdated in Medical Image Registration?**|Xi Jia et.al.|[2208.04939v1](http://arxiv.org/abs/2208.04939v1)|null|
+|**2022-08-09**|**How Well Do Vision Transformers (VTs) Transfer To The Non-Natural Image Domain? An Empirical Study Involving Art Classification**|Vincent Tonkes et.al.|[2208.04693v1](http://arxiv.org/abs/2208.04693v1)|**[link](https://github.com/indooradventurer/vittransferlearningforartclassification)**|
 |**2022-08-08**|**Occlusion-Aware Instance Segmentation via BiLayer Network Architectures**|Lei Ke et.al.|[2208.04438v1](http://arxiv.org/abs/2208.04438v1)|**[link](https://github.com/lkeab/BCNet)**|
 |**2022-08-08**|**3D Vision with Transformers: A Survey**|Jean Lahoud et.al.|[2208.04309v1](http://arxiv.org/abs/2208.04309v1)|**[link](https://github.com/lahoud/3d-vision-transformers)**|
 |**2022-08-08**|**Understanding Masked Image Modeling via Learning Occlusion Invariant Feature**|Xiangwen Kong et.al.|[2208.04164v1](http://arxiv.org/abs/2208.04164v1)|null|
@@ -983,6 +987,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-09**|**Programming Nonlinear Propagation for Efficient Optical Learning Machines**|Ilker Oguz et.al.|[2208.04951v1](http://arxiv.org/abs/2208.04951v1)|null|
+|**2022-08-09**|**Multiscale Autoencoder with Structural-Functional Attention Network for Alzheimer's Disease Prediction**|Yongcheng Zong et.al.|[2208.04945v1](http://arxiv.org/abs/2208.04945v1)|null|
 |**2022-08-08**|**Snowpack Estimation in Key Mountainous Water Basins from Openly-Available, Multimodal Data Sources**|Malachy Moran et.al.|[2208.04246v1](http://arxiv.org/abs/2208.04246v1)|**[link](https://github.com/seiris21/ucb2022.snowcast)**|
 |**2022-08-07**|**Spectral Shaping in a Multimode Fiber by All-fiber Modulation**|Zohar Finkelstein et.al.|[2208.03778v1](http://arxiv.org/abs/2208.03778v1)|null|
 |**2022-08-05**|**PGX: A Multi-level GNN Explanation Framework Based on Separate Knowledge Distillation Processes**|Tien-Cuong Bui et.al.|[2208.03075v1](http://arxiv.org/abs/2208.03075v1)|null|
@@ -1766,6 +1772,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-10**|**Dual Domain-Adversarial Learning for Audio-Visual Saliency Prediction**|Yingzi Fan et.al.|[2208.05220v1](http://arxiv.org/abs/2208.05220v1)|null|
+|**2022-08-10**|**Continual Machine Reading Comprehension via Uncertainty-aware Fixed Memory and Adversarial Domain Adaptation**|Zhijing Wu et.al.|[2208.05217v1](http://arxiv.org/abs/2208.05217v1)|null|
+|**2022-08-10**|**EXTERN: Leveraging Endo-Temporal Regularization for Black-box Video Domain Adaptation**|Yuecong Xu et.al.|[2208.05187v1](http://arxiv.org/abs/2208.05187v1)|null|
 |**2022-08-09**|**Unsupervised Domain Adaptation for Point Cloud Semantic Segmentation via Graph Matching**|Yikai Bian et.al.|[2208.04510v1](http://arxiv.org/abs/2208.04510v1)|null|
 |**2022-08-07**|**Vernacular Search Query Translation with Unsupervised Domain Adaptation**|Mandar Kulkarni et.al.|[2208.03711v1](http://arxiv.org/abs/2208.03711v1)|null|
 |**2022-08-05**|**Seamless Iterative Semi-Supervised Correction of Imperfect Labels in Microscopy Images**|Marawan Elbatel et.al.|[2208.03327v1](http://arxiv.org/abs/2208.03327v1)|**[link](https://github.com/marwankefah/SISSI)**|
@@ -2312,6 +2321,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-10**|**EvolveHypergraph: Group-Aware Dynamic Relational Reasoning for Trajectory Prediction**|Jiachen Li et.al.|[2208.05470v1](http://arxiv.org/abs/2208.05470v1)|null|
+|**2022-08-10**|**The Analysis about Building Cross-lingual Sememe Knowledge Base Based on Deep Clustering Network**|Xiaoran Li et.al.|[2208.05462v1](http://arxiv.org/abs/2208.05462v1)|null|
+|**2022-08-10**|**Flexible Unsupervised Learning for Massive MIMO Subarray Hybrid Beamforming**|Hamed Hojatian et.al.|[2208.05443v1](http://arxiv.org/abs/2208.05443v1)|null|
+|**2022-08-10**|**Non-Contrastive Self-Supervised Learning of Utterance-Level Speech Representations**|Jaejin Cho et.al.|[2208.05413v1](http://arxiv.org/abs/2208.05413v1)|**[link](https://github.com/hyperion-ml/hyperion)**|
+|**2022-08-10**|**MD-Net: Multi-Detector for Local Feature Extraction**|Emanuele Santellani et.al.|[2208.05350v1](http://arxiv.org/abs/2208.05350v1)|null|
+|**2022-08-10**|**Diversifying Design of Nucleic Acid Aptamers Using Unsupervised Machine Learning**|Siba Moussa et.al.|[2208.05341v1](http://arxiv.org/abs/2208.05341v1)|null|
+|**2022-08-09**|**Association Between Neighborhood Factors and Adult Obesity in Shelby County, Tennessee: Geospatial Machine Learning Approach**|Whitney S Brakefield et.al.|[2208.05335v1](http://arxiv.org/abs/2208.05335v1)|null|
+|**2022-08-10**|**Generative Transfer Learning: Covid-19 Classification with a few Chest X-ray Images**|Suvarna Kadam et.al.|[2208.05305v1](http://arxiv.org/abs/2208.05305v1)|**[link](https://github.com/suvarnak/generativefslcovid)**|
+|**2022-08-10**|**Dual Domain-Adversarial Learning for Audio-Visual Saliency Prediction**|Yingzi Fan et.al.|[2208.05220v1](http://arxiv.org/abs/2208.05220v1)|null|
+|**2022-08-10**|**EXTERN: Leveraging Endo-Temporal Regularization for Black-box Video Domain Adaptation**|Yuecong Xu et.al.|[2208.05187v1](http://arxiv.org/abs/2208.05187v1)|null|
+|**2022-08-10**|**TagRec++: Hierarchical Label Aware Attention Network for Question Categorization**|Venktesh Viswanathan et.al.|[2208.05152v1](http://arxiv.org/abs/2208.05152v1)|null|
+|**2022-08-10**|**Prior Knowledge based Advanced Persistent Threats Detection for IoT in a Realistic Benchmark**|Yu Shen et.al.|[2208.05089v1](http://arxiv.org/abs/2208.05089v1)|null|
+|**2022-08-09**|**Heterogeneous Multi-agent Zero-Shot Coordination by Coevolution**|Ke Xue et.al.|[2208.04957v1](http://arxiv.org/abs/2208.04957v1)|null|
 |**2022-08-09**|**Early Stage Sparse Retrieval with Entity Linking**|Dahlia Shehata et.al.|[2208.04887v2](http://arxiv.org/abs/2208.04887v2)|null|
 |**2022-08-09**|**Unsupervised Question Clarity Prediction Through Retrieved Item Coherency**|Negar Arabzadeh et.al.|[2208.04882v1](http://arxiv.org/abs/2208.04882v1)|null|
 |**2022-08-09**|**sim2real: Cardiac MR Image Simulation-to-Real Translation via Unsupervised GANs**|Sina Amirrajab et.al.|[2208.04874v1](http://arxiv.org/abs/2208.04874v1)|null|
@@ -4811,6 +4833,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-10**|**Fabrication and transfer print based integration of free-standing GaN membrane micro-lenses onto semiconductor chips**|Nils Kolja Wessling et.al.|[2208.05275v1](http://arxiv.org/abs/2208.05275v1)|null|
+|**2022-08-09**|**Generative Data Augmentation Guided by Triplet Loss for Speech Emotion Recognition**|Shijun Wang et.al.|[2208.04994v1](http://arxiv.org/abs/2208.04994v1)|null|
 |**2022-08-09**|**sim2real: Cardiac MR Image Simulation-to-Real Translation via Unsupervised GANs**|Sina Amirrajab et.al.|[2208.04874v1](http://arxiv.org/abs/2208.04874v1)|null|
 |**2022-08-09**|**Longitudinal Prediction of Postnatal Brain Magnetic Resonance Images via a Metamorphic Generative Adversarial Network**|Yunzhi Huang et.al.|[2208.04825v1](http://arxiv.org/abs/2208.04825v1)|null|
 |**2022-08-09**|**Improved Multiple-Image-Based Reflection Removal Algorithm Using Deep Neural Networks**|Tingtian Li et.al.|[2208.04679v2](http://arxiv.org/abs/2208.04679v2)|null|
