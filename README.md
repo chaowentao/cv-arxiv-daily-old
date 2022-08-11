@@ -1,4 +1,4 @@
-## Updated on 2022.08.10
+## Updated on 2022.08.11
 
 ## Image Generation
 
@@ -211,7 +211,7 @@
 |**2022-08-08**|**3D Vision with Transformers: A Survey**|Jean Lahoud et.al.|[2208.04309v1](http://arxiv.org/abs/2208.04309v1)|**[link](https://github.com/lahoud/3d-vision-transformers)**|
 |**2022-08-08**|**Understanding Masked Image Modeling via Learning Occlusion Invariant Feature**|Xiangwen Kong et.al.|[2208.04164v1](http://arxiv.org/abs/2208.04164v1)|null|
 |**2022-08-08**|**Efficient Neural Net Approaches in Metal Casting Defect Detection**|Rohit Lal et.al.|[2208.04150v1](http://arxiv.org/abs/2208.04150v1)|null|
-|**2022-08-08**|**Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model**|Di Wang et.al.|[2208.03987v1](http://arxiv.org/abs/2208.03987v1)|**[link](https://github.com/vitae-transformer/remote-sensing-rvsa)**|
+|**2022-08-08**|**Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model**|Di Wang et.al.|[2208.03987v2](http://arxiv.org/abs/2208.03987v2)|**[link](https://github.com/vitae-transformer/remote-sensing-rvsa)**|
 |**2022-08-06**|**MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer**|Chaoqiang Zhao et.al.|[2208.03543v1](http://arxiv.org/abs/2208.03543v1)|**[link](https://github.com/zxcqlf/monovit)**|
 |**2022-08-06**|**Analysing the Memorability of a Procedural Crime-Drama TV Series, CSI**|Sean Cummins et.al.|[2208.03479v1](http://arxiv.org/abs/2208.03479v1)|null|
 |**2022-08-04**|**Self-Ensembling Vision Transformer (SEViT) for Robust Medical Image Classification**|Faris Almalik et.al.|[2208.02851v1](http://arxiv.org/abs/2208.02851v1)|**[link](https://github.com/faresmalik/sevit)**|
@@ -2160,7 +2160,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-09**|**Early Stage Sparse Retrieval with Entity Linking**|Dahlia Shehata et.al.|[2208.04887v1](http://arxiv.org/abs/2208.04887v1)|null|
+|**2022-08-09**|**Early Stage Sparse Retrieval with Entity Linking**|Dahlia Shehata et.al.|[2208.04887v2](http://arxiv.org/abs/2208.04887v2)|null|
 |**2022-08-09**|**Unsupervised Question Clarity Prediction Through Retrieved Item Coherency**|Negar Arabzadeh et.al.|[2208.04882v1](http://arxiv.org/abs/2208.04882v1)|null|
 |**2022-08-09**|**sim2real: Cardiac MR Image Simulation-to-Real Translation via Unsupervised GANs**|Sina Amirrajab et.al.|[2208.04874v1](http://arxiv.org/abs/2208.04874v1)|null|
 |**2022-08-09**|**Delineating complex ferroelectric domain structures via second harmonic generation spectral imaging**|Wei Li et.al.|[2208.04540v1](http://arxiv.org/abs/2208.04540v1)|null|
@@ -2175,7 +2175,7 @@
 |**2022-08-08**|**SsaA: A Self-supervised auto-Annotation System for Online Visual Inspection and Manufacturing Automation**|Jiawei Li et.al.|[2208.04173v1](http://arxiv.org/abs/2208.04173v1)|null|
 |**2022-08-08**|**Object Detection Using Sim2Real Domain Randomization for Robotic Applications**|Dániel Horváth et.al.|[2208.04171v1](http://arxiv.org/abs/2208.04171v1)|null|
 |**2022-08-08**|**Neural Set Function Extensions: Learning with Discrete Functions in High Dimensions**|Nikolaos Karalias et.al.|[2208.04055v1](http://arxiv.org/abs/2208.04055v1)|null|
-|**2022-08-08**|**Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model**|Di Wang et.al.|[2208.03987v1](http://arxiv.org/abs/2208.03987v1)|**[link](https://github.com/vitae-transformer/remote-sensing-rvsa)**|
+|**2022-08-08**|**Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model**|Di Wang et.al.|[2208.03987v2](http://arxiv.org/abs/2208.03987v2)|**[link](https://github.com/vitae-transformer/remote-sensing-rvsa)**|
 |**2022-08-08**|**Semantic Enhanced Text-to-SQL Parsing via Iteratively Learning Schema Linking Graph**|Aiwei Liu et.al.|[2208.03903v1](http://arxiv.org/abs/2208.03903v1)|null|
 |**2022-08-07**|**Vernacular Search Query Translation with Unsupervised Domain Adaptation**|Mandar Kulkarni et.al.|[2208.03711v1](http://arxiv.org/abs/2208.03711v1)|null|
 |**2022-08-07**|**A Game-Theoretic Perspective of Generalization in Reinforcement Learning**|Chang Yang et.al.|[2208.03650v1](http://arxiv.org/abs/2208.03650v1)|null|
@@ -4661,7 +4661,7 @@
 |---|---|---|---|---|
 |**2022-08-09**|**sim2real: Cardiac MR Image Simulation-to-Real Translation via Unsupervised GANs**|Sina Amirrajab et.al.|[2208.04874v1](http://arxiv.org/abs/2208.04874v1)|null|
 |**2022-08-09**|**Longitudinal Prediction of Postnatal Brain Magnetic Resonance Images via a Metamorphic Generative Adversarial Network**|Yunzhi Huang et.al.|[2208.04825v1](http://arxiv.org/abs/2208.04825v1)|null|
-|**2022-08-09**|**Improved Multiple-Image-Based Reflection Removal Algorithm Using Deep Neural Networks**|Tingtian Li et.al.|[2208.04679v1](http://arxiv.org/abs/2208.04679v1)|null|
+|**2022-08-09**|**Improved Multiple-Image-Based Reflection Removal Algorithm Using Deep Neural Networks**|Tingtian Li et.al.|[2208.04679v2](http://arxiv.org/abs/2208.04679v2)|null|
 |**2022-08-09**|**Disentangled Representation Learning Using ($β$-)VAE and GAN**|Mohammad Haghir Ebrahimabadi et.al.|[2208.04549v1](http://arxiv.org/abs/2208.04549v1)|null|
 |**2022-08-09**|**Attribute Controllable Beautiful Caucasian Face Generation by Aesthetics Driven Reinforcement Learning**|Xin Jin et.al.|[2208.04517v1](http://arxiv.org/abs/2208.04517v1)|null|
 |**2022-08-08**|**Towards Semantic Communications: Deep Learning-Based Image Semantic Coding**|Danlan Huang et.al.|[2208.04094v1](http://arxiv.org/abs/2208.04094v1)|null|
