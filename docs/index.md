@@ -156,6 +156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-11**|**Language-Guided Face Animation by Recurrent StyleGAN-based Generator**|Tiankai Hang et.al.|[2208.05617v1](http://arxiv.org/abs/2208.05617v1)|**[link](https://github.com/tiankaihang/language-guided-animation)**|
 |**2022-07-27**|**Multi-Forgery Detection Challenge 2022: Push the Frontier of Unconstrained and Diverse Forgery Detection**|Jianshu Li et.al.|[2207.13505v1](http://arxiv.org/abs/2207.13505v1)|null|
 |**2022-07-13**|**Supervised Attribute Information Removal and Reconstruction for Image Manipulation**|Nannan Li et.al.|[2207.06555v1](http://arxiv.org/abs/2207.06555v1)|**[link](https://github.com/nannanli999/airr)**|
 |**2022-07-06**|**Towards Counterfactual Image Manipulation via CLIP**|Yingchen Yu et.al.|[2207.02812v3](http://arxiv.org/abs/2207.02812v3)|**[link](https://github.com/yingchen001/cf-clip)**|
@@ -358,6 +359,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-11**|**Semi-supervised Vision Transformers at Scale**|Zhaowei Cai et.al.|[2208.05688v1](http://arxiv.org/abs/2208.05688v1)|null|
 |**2022-08-10**|**Auto-ViT-Acc: An FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization**|Zhengang Li et.al.|[2208.05163v1](http://arxiv.org/abs/2208.05163v1)|null|
 |**2022-08-10**|**Ghost-free High Dynamic Range Imaging with Context-aware Transformer**|Zhen Liu et.al.|[2208.05114v1](http://arxiv.org/abs/2208.05114v1)|**[link](https://github.com/megvii-research/hdr-transformer)**|
 |**2022-08-09**|**CoViT: Real-time phylogenetics for the SARS-CoV-2 pandemic using Vision Transformers**|Zuher Jahshan et.al.|[2208.05004v1](http://arxiv.org/abs/2208.05004v1)|**[link](https://github.com/zuherjahshan/covit)**|
@@ -987,6 +989,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
+|**2022-08-11**|**Phase Matching for Multimode Four-Wave Mixing in Few-Mode Fibers and Nano-Rib Waveguides**|Tasnad Kernetzky et.al.|[2208.05894v1](http://arxiv.org/abs/2208.05894v1)|null|
 |**2022-08-09**|**Programming Nonlinear Propagation for Efficient Optical Learning Machines**|Ilker Oguz et.al.|[2208.04951v1](http://arxiv.org/abs/2208.04951v1)|null|
 |**2022-08-09**|**Multiscale Autoencoder with Structural-Functional Attention Network for Alzheimer's Disease Prediction**|Yongcheng Zong et.al.|[2208.04945v1](http://arxiv.org/abs/2208.04945v1)|null|
 |**2022-08-08**|**Snowpack Estimation in Key Mountainous Water Basins from Openly-Available, Multimodal Data Sources**|Malachy Moran et.al.|[2208.04246v1](http://arxiv.org/abs/2208.04246v1)|**[link](https://github.com/seiris21/ucb2022.snowcast)**|
@@ -1772,6 +1776,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-11**|**Domain-Specific Text Generation for Machine Translation**|Yasmin Moslem et.al.|[2208.05909v1](http://arxiv.org/abs/2208.05909v1)|**[link](https://github.com/ymoslem/mt-lm)**|
+|**2022-08-11**|**Disentangled Modeling of Domain and Relevance for Adaptable Dense Retrieval**|Jingtao Zhan et.al.|[2208.05753v1](http://arxiv.org/abs/2208.05753v1)|**[link](https://github.com/jingtaozhan/disentangled-retriever)**|
 |**2022-08-10**|**Dual Domain-Adversarial Learning for Audio-Visual Saliency Prediction**|Yingzi Fan et.al.|[2208.05220v1](http://arxiv.org/abs/2208.05220v1)|null|
 |**2022-08-10**|**Continual Machine Reading Comprehension via Uncertainty-aware Fixed Memory and Adversarial Domain Adaptation**|Zhijing Wu et.al.|[2208.05217v1](http://arxiv.org/abs/2208.05217v1)|null|
 |**2022-08-10**|**EXTERN: Leveraging Endo-Temporal Regularization for Black-box Video Domain Adaptation**|Yuecong Xu et.al.|[2208.05187v1](http://arxiv.org/abs/2208.05187v1)|null|
@@ -2321,6 +2327,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-11**|**Face Morphing Attacks and Face Image Quality: The Effect of Morphing and the Unsupervised Attack Detection by Quality**|Biying Fu et.al.|[2208.05864v1](http://arxiv.org/abs/2208.05864v1)|null|
+|**2022-08-11**|**Language Tokens: A Frustratingly Simple Approach Improves Zero-Shot Performance of Multilingual Translation**|Muhammad ElNokrashy et.al.|[2208.05852v1](http://arxiv.org/abs/2208.05852v1)|null|
+|**2022-08-11**|**Unsupervised Face Morphing Attack Detection via Self-paced Anomaly Detection**|Meiling Fang et.al.|[2208.05787v1](http://arxiv.org/abs/2208.05787v1)|**[link](https://github.com/meilfang/spl-mad)**|
+|**2022-08-11**|**Disentangled Modeling of Domain and Relevance for Adaptable Dense Retrieval**|Jingtao Zhan et.al.|[2208.05753v1](http://arxiv.org/abs/2208.05753v1)|**[link](https://github.com/jingtaozhan/disentangled-retriever)**|
+|**2022-08-11**|**FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing**|Jingbo Zhang et.al.|[2208.05751v1](http://arxiv.org/abs/2208.05751v1)|null|
+|**2022-08-11**|**One-shot purity distillation with local noisy operations and one-way classical communication**|Sayantan Chakraborty et.al.|[2208.05628v1](http://arxiv.org/abs/2208.05628v1)|null|
+|**2022-08-11**|**FIGO: Enhanced Fingerprint Identification Approach Using GAN and One Shot Learning Techniques**|Ibrahim Yilmaz et.al.|[2208.05615v1](http://arxiv.org/abs/2208.05615v1)|null|
+|**2022-08-11**|**Memorizing Complementation Network for Few-Shot Class-Incremental Learning**|Zhong Ji et.al.|[2208.05610v1](http://arxiv.org/abs/2208.05610v1)|null|
+|**2022-08-10**|**Patching open-vocabulary models by interpolating weights**|Gabriel Ilharco et.al.|[2208.05592v1](http://arxiv.org/abs/2208.05592v1)|**[link](https://github.com/mlfoundations/patching)**|
+|**2022-08-10**|**Exploiting Hierarchical Dependence Structures for Unsupervised Rank Fusion in Information Retrieval**|J. Hermosillo-Valadez et.al.|[2208.05574v1](http://arxiv.org/abs/2208.05574v1)|null|
+|**2022-08-10**|**SSDBCODI: Semi-Supervised Density-Based Clustering with Outliers Detection Integrated**|Jiahao Deng et.al.|[2208.05561v1](http://arxiv.org/abs/2208.05561v1)|null|
+|**2022-08-10**|**Quantum-enhanced cluster detection in physical images**|Jason L. Pereira et.al.|[2208.05522v1](http://arxiv.org/abs/2208.05522v1)|null|
 |**2022-08-10**|**EvolveHypergraph: Group-Aware Dynamic Relational Reasoning for Trajectory Prediction**|Jiachen Li et.al.|[2208.05470v1](http://arxiv.org/abs/2208.05470v1)|null|
 |**2022-08-10**|**The Analysis about Building Cross-lingual Sememe Knowledge Base Based on Deep Clustering Network**|Xiaoran Li et.al.|[2208.05462v1](http://arxiv.org/abs/2208.05462v1)|null|
 |**2022-08-10**|**Flexible Unsupervised Learning for Massive MIMO Subarray Hybrid Beamforming**|Hamed Hojatian et.al.|[2208.05443v1](http://arxiv.org/abs/2208.05443v1)|null|
@@ -4708,6 +4726,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
+|**2022-08-11**|**FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing**|Jingbo Zhang et.al.|[2208.05751v1](http://arxiv.org/abs/2208.05751v1)|null|
 |**2022-08-04**|**360Roam: Real-Time Indoor Roaming Using Geometry-Aware ${360^\circ}$ Radiance Fields**|Huajian Huang et.al.|[2208.02705v1](http://arxiv.org/abs/2208.02705v1)|null|
 |**2022-08-02**|**T4DT: Tensorizing Time for Learning Temporal 3D Visual Data**|Mikhail Usvyatsov et.al.|[2208.01421v1](http://arxiv.org/abs/2208.01421v1)|**[link](https://github.com/aelphy/t4dt)**|
 |**2022-08-01**|**DoF-NeRF: Depth-of-Field Meets Neural Radiance Fields**|Zijin Wu et.al.|[2208.00945v1](http://arxiv.org/abs/2208.00945v1)|**[link](https://github.com/zijinwuzijin/dof-nerf)**|
@@ -4833,6 +4853,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-11**|**Family based HLA imputation and optimization of haplo-identical transplants**|Zuriya Ansbacher-Feldman et.al.|[2208.05882v1](http://arxiv.org/abs/2208.05882v1)|null|
+|**2022-08-11**|**TOI-2196 b: Rare planet in the hot Neptune desert transiting a G-type star**|Carina M. Persson et.al.|[2208.05797v1](http://arxiv.org/abs/2208.05797v1)|null|
+|**2022-08-11**|**A deep-learning approach for reconstructing 3D turbulent flows from 2D observation data**|Mustafa Z. Yousif et.al.|[2208.05754v1](http://arxiv.org/abs/2208.05754v1)|null|
+|**2022-08-11**|**FIGO: Enhanced Fingerprint Identification Approach Using GAN and One Shot Learning Techniques**|Ibrahim Yilmaz et.al.|[2208.05615v1](http://arxiv.org/abs/2208.05615v1)|null|
 |**2022-08-10**|**Fabrication and transfer print based integration of free-standing GaN membrane micro-lenses onto semiconductor chips**|Nils Kolja Wessling et.al.|[2208.05275v1](http://arxiv.org/abs/2208.05275v1)|null|
 |**2022-08-09**|**Generative Data Augmentation Guided by Triplet Loss for Speech Emotion Recognition**|Shijun Wang et.al.|[2208.04994v1](http://arxiv.org/abs/2208.04994v1)|null|
 |**2022-08-09**|**sim2real: Cardiac MR Image Simulation-to-Real Translation via Unsupervised GANs**|Sina Amirrajab et.al.|[2208.04874v1](http://arxiv.org/abs/2208.04874v1)|null|
