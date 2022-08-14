@@ -1005,7 +1005,7 @@ layout: default
 |**2022-08-03**|**Zero-Shot Style Transfer for Gesture Animation driven by Text and Speech using Adversarial Disentanglement of Multimodal Style Encoding**|Mireille Fares et.al.|[2208.01917v1](http://arxiv.org/abs/2208.01917v1)|null|
 |**2022-08-03**|**Multimodal Generation of Novel Action Appearances for Synthetic-to-Real Recognition of Activities of Daily Living**|Zdravko Marinov et.al.|[2208.01910v1](http://arxiv.org/abs/2208.01910v1)|null|
 |**2022-08-03**|**Flow Annealed Importance Sampling Bootstrap**|Laurence Illing Midgley et.al.|[2208.01893v1](http://arxiv.org/abs/2208.01893v1)|**[link](https://github.com/lollcat/fab-torch)**|
-|**2022-08-03**|**TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation**|Jun Wang et.al.|[2208.01813v1](http://arxiv.org/abs/2208.01813v1)|null|
+|**2022-08-03**|**TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation**|Jun Wang et.al.|[2208.01813v1](http://arxiv.org/abs/2208.01813v1)|**[link](https://github.com/HenryJunW/TAG)**|
 |**2022-08-01**|**UniPreCIS : A data pre-processing solution for collocated services on shared IoT**|Anirban Das et.al.|[2208.01394v1](http://arxiv.org/abs/2208.01394v1)|null|
 |**2022-08-02**|**Silo NLP's Participation at WAT2022**|Shantipriya Parida et.al.|[2208.01296v1](http://arxiv.org/abs/2208.01296v1)|**[link](https://github.com/shantipriyap/silonlp_wat2022)**|
 |**2022-08-02**|**Can Gaze Beat Touch? A Fitts' Law Evaluation of Gaze, Touch, and Mouse Inputs**|Vijay Rajanna et.al.|[2208.01248v1](http://arxiv.org/abs/2208.01248v1)|null|
