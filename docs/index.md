@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.13
+## Updated on 2022.08.14
 
 ## SLAM
 
@@ -4853,7 +4853,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-11**|**Family based HLA imputation and optimization of haplo-identical transplants**|Zuriya Ansbacher-Feldman et.al.|[2208.05882v1](http://arxiv.org/abs/2208.05882v1)|null|
+|**2022-08-11**|**Family based HLA imputation and optimization of haplo-identical transplants**|Zuriya Ansbacher-Feldman et.al.|[2208.05882v1](http://arxiv.org/abs/2208.05882v1)|**[link](https://github.com/zuriyaansbacher/gramm)**|
 |**2022-08-11**|**TOI-2196 b: Rare planet in the hot Neptune desert transiting a G-type star**|Carina M. Persson et.al.|[2208.05797v1](http://arxiv.org/abs/2208.05797v1)|null|
 |**2022-08-11**|**A deep-learning approach for reconstructing 3D turbulent flows from 2D observation data**|Mustafa Z. Yousif et.al.|[2208.05754v1](http://arxiv.org/abs/2208.05754v1)|null|
 |**2022-08-11**|**FIGO: Enhanced Fingerprint Identification Approach Using GAN and One Shot Learning Techniques**|Ibrahim Yilmaz et.al.|[2208.05615v1](http://arxiv.org/abs/2208.05615v1)|null|
