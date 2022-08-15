@@ -64,6 +64,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-12**|**Twisted Lattice Nanocavity Based on Mode Locking in Momentum Space**|Ren-Min Ma et.al.|[2208.06158v1](http://arxiv.org/abs/2208.06158v1)|null|
 |**2022-08-07**|**Transport properties of vertical heterostructures under light irradiation**|Pascal Stadler et.al.|[2208.03702v1](http://arxiv.org/abs/2208.03702v1)|null|
 |**2022-08-07**|**Cosmological perturbations in the spatially covariant gravity with a dynamical lapse function**|Xue-Zheng Zhu et.al.|[2208.03629v1](http://arxiv.org/abs/2208.03629v1)|null|
 |**2022-08-01**|**Computing coherent light scattering on the millimetre scale using a recurrent neural network without training**|Laurynas Valantinas et.al.|[2208.01118v1](http://arxiv.org/abs/2208.01118v1)|null|
@@ -207,6 +208,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-12**|**BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers**|Zhiliang Peng et.al.|[2208.06366v1](http://arxiv.org/abs/2208.06366v1)|null|
+|**2022-08-11**|**Shifted Windows Transformers for Medical Image Quality Assessment**|Caner Ozer et.al.|[2208.06034v1](http://arxiv.org/abs/2208.06034v1)|null|
 |**2022-08-11**|**Semi-supervised Vision Transformers at Scale**|Zhaowei Cai et.al.|[2208.05688v1](http://arxiv.org/abs/2208.05688v1)|null|
 |**2022-08-10**|**Auto-ViT-Acc: An FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization**|Zhengang Li et.al.|[2208.05163v1](http://arxiv.org/abs/2208.05163v1)|null|
 |**2022-08-10**|**Ghost-free High Dynamic Range Imaging with Context-aware Transformer**|Zhen Liu et.al.|[2208.05114v1](http://arxiv.org/abs/2208.05114v1)|**[link](https://github.com/megvii-research/hdr-transformer)**|
@@ -837,6 +840,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-10**|**An Empirical Exploration of Cross-domain Alignment between Language and Electroencephalogram**|William Han et.al.|[2208.06348v1](http://arxiv.org/abs/2208.06348v1)|null|
+|**2022-08-12**|**Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning**|Zhendong Wang et.al.|[2208.06193v1](http://arxiv.org/abs/2208.06193v1)|null|
 |**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
 |**2022-08-11**|**Phase Matching for Multimode Four-Wave Mixing in Few-Mode Fibers and Nano-Rib Waveguides**|Tasnad Kernetzky et.al.|[2208.05894v1](http://arxiv.org/abs/2208.05894v1)|null|
 |**2022-08-09**|**Programming Nonlinear Propagation for Efficient Optical Learning Machines**|Ilker Oguz et.al.|[2208.04951v1](http://arxiv.org/abs/2208.04951v1)|null|
@@ -1624,6 +1629,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-12**|**Private Domain Adaptation from a Public Source**|Raef Bassily et.al.|[2208.06135v1](http://arxiv.org/abs/2208.06135v1)|null|
+|**2022-08-12**|**Exploring High-quality Target Domain Information for Unsupervised Domain Adaptive Semantic Segmentation**|Junjie Li et.al.|[2208.06100v1](http://arxiv.org/abs/2208.06100v1)|**[link](https://github.com/ljjcoder/ehtdi)**|
+|**2022-08-12**|**Domain-invariant Prototypes for Semantic Segmentation**|Zhengeng Yang et.al.|[2208.06087v1](http://arxiv.org/abs/2208.06087v1)|null|
 |**2022-08-11**|**Domain-Specific Text Generation for Machine Translation**|Yasmin Moslem et.al.|[2208.05909v1](http://arxiv.org/abs/2208.05909v1)|**[link](https://github.com/ymoslem/mt-lm)**|
 |**2022-08-11**|**Disentangled Modeling of Domain and Relevance for Adaptable Dense Retrieval**|Jingtao Zhan et.al.|[2208.05753v1](http://arxiv.org/abs/2208.05753v1)|**[link](https://github.com/jingtaozhan/disentangled-retriever)**|
 |**2022-08-10**|**Dual Domain-Adversarial Learning for Audio-Visual Saliency Prediction**|Yingzi Fan et.al.|[2208.05220v1](http://arxiv.org/abs/2208.05220v1)|null|
@@ -2175,6 +2183,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-12**|**Function Classes for Identifiable Nonlinear Independent Component Analysis**|Simon Buchholz et.al.|[2208.06406v1](http://arxiv.org/abs/2208.06406v1)|null|
+|**2022-08-12**|**Low Emission Building Control with Zero-Shot Reinforcement Learning**|Scott R. Jeen et.al.|[2208.06385v1](http://arxiv.org/abs/2208.06385v1)|null|
+|**2022-08-12**|**Robotic Inspection and Characterization of Subsurface Defects on Concrete Structures Using Impact Sounding**|Ejup Hoxha et.al.|[2208.06305v1](http://arxiv.org/abs/2208.06305v1)|null|
+|**2022-08-12**|**A sub-sampling algorithm preventing outliers**|L. Deldossi et.al.|[2208.06218v1](http://arxiv.org/abs/2208.06218v1)|null|
+|**2022-08-12**|**Measuring incompatibility and clustering quantum observables with a quantum switch**|Ning Gao et.al.|[2208.06210v1](http://arxiv.org/abs/2208.06210v1)|null|
+|**2022-08-12**|**Multiplex Heterogeneous Graph Convolutional Network**|Pengyang Yu et.al.|[2208.06129v1](http://arxiv.org/abs/2208.06129v1)|**[link](https://github.com/nsssjss/mhgcn)**|
+|**2022-08-12**|**Exploring High-quality Target Domain Information for Unsupervised Domain Adaptive Semantic Segmentation**|Junjie Li et.al.|[2208.06100v1](http://arxiv.org/abs/2208.06100v1)|**[link](https://github.com/ljjcoder/ehtdi)**|
+|**2022-08-12**|**Domain-invariant Prototypes for Semantic Segmentation**|Zhengeng Yang et.al.|[2208.06087v1](http://arxiv.org/abs/2208.06087v1)|null|
 |**2022-08-11**|**Face Morphing Attacks and Face Image Quality: The Effect of Morphing and the Unsupervised Attack Detection by Quality**|Biying Fu et.al.|[2208.05864v2](http://arxiv.org/abs/2208.05864v2)|null|
 |**2022-08-11**|**Language Tokens: A Frustratingly Simple Approach Improves Zero-Shot Performance of Multilingual Translation**|Muhammad ElNokrashy et.al.|[2208.05852v1](http://arxiv.org/abs/2208.05852v1)|null|
 |**2022-08-11**|**Unsupervised Face Morphing Attack Detection via Self-paced Anomaly Detection**|Meiling Fang et.al.|[2208.05787v1](http://arxiv.org/abs/2208.05787v1)|**[link](https://github.com/meilfang/spl-mad)**|
@@ -4701,6 +4717,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-12**|**Scale-free Photo-realistic Adversarial Pattern Attack**|Xiangbo Gao et.al.|[2208.06222v1](http://arxiv.org/abs/2208.06222v1)|null|
+|**2022-08-12**|**Image Translation Based Nuclei Segmentation for Immunohistochemistry Images**|Roger Trullo et.al.|[2208.06202v1](http://arxiv.org/abs/2208.06202v1)|null|
+|**2022-08-12**|**The Lyman-$α$ Emission in a C1.4 Solar Flare Observed by the Extreme Ultraviolet Imager aboard Solar Orbiter**|Ying Li et.al.|[2208.06182v1](http://arxiv.org/abs/2208.06182v1)|null|
+|**2022-08-12**|**TBI-GAN: An Adversarial Learning Approach for Data Synthesis on Traumatic Brain Segmentation**|Xiangyu Zhao et.al.|[2208.06099v1](http://arxiv.org/abs/2208.06099v1)|null|
+|**2022-08-12**|**Multiple RISs Assisted Cell-Free Networks With Two-timescale CSI: Performance Analysis and System Design**|Xu Gan et.al.|[2208.06072v1](http://arxiv.org/abs/2208.06072v1)|null|
 |**2022-08-11**|**Family based HLA imputation and optimization of haplo-identical transplants**|Zuriya Ansbacher-Feldman et.al.|[2208.05882v1](http://arxiv.org/abs/2208.05882v1)|**[link](https://github.com/zuriyaansbacher/gramm)**|
 |**2022-08-11**|**TOI-2196 b: Rare planet in the hot Neptune desert transiting a G-type star**|Carina M. Persson et.al.|[2208.05797v2](http://arxiv.org/abs/2208.05797v2)|null|
 |**2022-08-11**|**A deep-learning approach for reconstructing 3D turbulent flows from 2D observation data**|Mustafa Z. Yousif et.al.|[2208.05754v1](http://arxiv.org/abs/2208.05754v1)|null|
