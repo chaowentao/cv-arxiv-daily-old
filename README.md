@@ -1,4 +1,4 @@
-## Updated on 2022.08.14
+## Updated on 2022.08.15
 
 ## Image Generation
 
@@ -844,7 +844,7 @@
 |**2022-08-08**|**Snowpack Estimation in Key Mountainous Water Basins from Openly-Available, Multimodal Data Sources**|Malachy Moran et.al.|[2208.04246v1](http://arxiv.org/abs/2208.04246v1)|**[link](https://github.com/seiris21/ucb2022.snowcast)**|
 |**2022-08-07**|**Spectral Shaping in a Multimode Fiber by All-fiber Modulation**|Zohar Finkelstein et.al.|[2208.03778v1](http://arxiv.org/abs/2208.03778v1)|null|
 |**2022-08-05**|**PGX: A Multi-level GNN Explanation Framework Based on Separate Knowledge Distillation Processes**|Tien-Cuong Bui et.al.|[2208.03075v1](http://arxiv.org/abs/2208.03075v1)|null|
-|**2022-08-05**|**Hybrid Multimodal Feature Extraction, Mining and Fusion for Sentiment Analysis**|Jia Li et.al.|[2208.03051v1](http://arxiv.org/abs/2208.03051v1)|null|
+|**2022-08-05**|**Hybrid Multimodal Feature Extraction, Mining and Fusion for Sentiment Analysis**|Jia Li et.al.|[2208.03051v2](http://arxiv.org/abs/2208.03051v2)|null|
 |**2022-08-04**|**Decoherence quantification through commutation relations decay for open quantum harmonic oscillators**|Igor G. Vladimirov et.al.|[2208.02534v1](http://arxiv.org/abs/2208.02534v1)|null|
 |**2022-08-04**|**Prompt Tuning for Generative Multimodal Pretrained Models**|Hao Yang et.al.|[2208.02532v1](http://arxiv.org/abs/2208.02532v1)|**[link](https://github.com/ofa-sys/ofa)**|
 |**2022-08-03**|**AdaCat: Adaptive Categorical Discretization for Autoregressive Models**|Qiyang Li et.al.|[2208.02246v1](http://arxiv.org/abs/2208.02246v1)|**[link](https://github.com/colinqiyangli/adacat)**|
@@ -2175,7 +2175,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-11**|**Face Morphing Attacks and Face Image Quality: The Effect of Morphing and the Unsupervised Attack Detection by Quality**|Biying Fu et.al.|[2208.05864v1](http://arxiv.org/abs/2208.05864v1)|null|
+|**2022-08-11**|**Face Morphing Attacks and Face Image Quality: The Effect of Morphing and the Unsupervised Attack Detection by Quality**|Biying Fu et.al.|[2208.05864v2](http://arxiv.org/abs/2208.05864v2)|null|
 |**2022-08-11**|**Language Tokens: A Frustratingly Simple Approach Improves Zero-Shot Performance of Multilingual Translation**|Muhammad ElNokrashy et.al.|[2208.05852v1](http://arxiv.org/abs/2208.05852v1)|null|
 |**2022-08-11**|**Unsupervised Face Morphing Attack Detection via Self-paced Anomaly Detection**|Meiling Fang et.al.|[2208.05787v1](http://arxiv.org/abs/2208.05787v1)|**[link](https://github.com/meilfang/spl-mad)**|
 |**2022-08-11**|**Disentangled Modeling of Domain and Relevance for Adaptable Dense Retrieval**|Jingtao Zhan et.al.|[2208.05753v1](http://arxiv.org/abs/2208.05753v1)|**[link](https://github.com/jingtaozhan/disentangled-retriever)**|
@@ -4702,7 +4702,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-08-11**|**Family based HLA imputation and optimization of haplo-identical transplants**|Zuriya Ansbacher-Feldman et.al.|[2208.05882v1](http://arxiv.org/abs/2208.05882v1)|**[link](https://github.com/zuriyaansbacher/gramm)**|
-|**2022-08-11**|**TOI-2196 b: Rare planet in the hot Neptune desert transiting a G-type star**|Carina M. Persson et.al.|[2208.05797v1](http://arxiv.org/abs/2208.05797v1)|null|
+|**2022-08-11**|**TOI-2196 b: Rare planet in the hot Neptune desert transiting a G-type star**|Carina M. Persson et.al.|[2208.05797v2](http://arxiv.org/abs/2208.05797v2)|null|
 |**2022-08-11**|**A deep-learning approach for reconstructing 3D turbulent flows from 2D observation data**|Mustafa Z. Yousif et.al.|[2208.05754v1](http://arxiv.org/abs/2208.05754v1)|null|
 |**2022-08-11**|**FIGO: Enhanced Fingerprint Identification Approach Using GAN and One Shot Learning Techniques**|Ibrahim Yilmaz et.al.|[2208.05615v1](http://arxiv.org/abs/2208.05615v1)|null|
 |**2022-08-10**|**Fabrication and transfer print based integration of free-standing GaN membrane micro-lenses onto semiconductor chips**|Nils Kolja Wessling et.al.|[2208.05275v1](http://arxiv.org/abs/2208.05275v1)|null|
