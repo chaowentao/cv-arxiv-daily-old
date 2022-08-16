@@ -1,4 +1,4 @@
-## Updated on 2022.08.15
+## Updated on 2022.08.16
 
 ## Image Generation
 
@@ -214,7 +214,7 @@
 |**2022-08-10**|**Auto-ViT-Acc: An FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization**|Zhengang Li et.al.|[2208.05163v1](http://arxiv.org/abs/2208.05163v1)|null|
 |**2022-08-10**|**Ghost-free High Dynamic Range Imaging with Context-aware Transformer**|Zhen Liu et.al.|[2208.05114v1](http://arxiv.org/abs/2208.05114v1)|**[link](https://github.com/megvii-research/hdr-transformer)**|
 |**2022-08-09**|**CoViT: Real-time phylogenetics for the SARS-CoV-2 pandemic using Vision Transformers**|Zuher Jahshan et.al.|[2208.05004v1](http://arxiv.org/abs/2208.05004v1)|**[link](https://github.com/zuherjahshan/covit)**|
-|**2022-08-07**|**U-Net vs Transformer: Is U-Net Outdated in Medical Image Registration?**|Xi Jia et.al.|[2208.04939v1](http://arxiv.org/abs/2208.04939v1)|null|
+|**2022-08-07**|**U-Net vs Transformer: Is U-Net Outdated in Medical Image Registration?**|Xi Jia et.al.|[2208.04939v2](http://arxiv.org/abs/2208.04939v2)|null|
 |**2022-08-09**|**How Well Do Vision Transformers (VTs) Transfer To The Non-Natural Image Domain? An Empirical Study Involving Art Classification**|Vincent Tonkes et.al.|[2208.04693v1](http://arxiv.org/abs/2208.04693v1)|**[link](https://github.com/indooradventurer/vittransferlearningforartclassification)**|
 |**2022-08-08**|**Occlusion-Aware Instance Segmentation via BiLayer Network Architectures**|Lei Ke et.al.|[2208.04438v1](http://arxiv.org/abs/2208.04438v1)|**[link](https://github.com/lkeab/BCNet)**|
 |**2022-08-08**|**3D Vision with Transformers: A Survey**|Jean Lahoud et.al.|[2208.04309v1](http://arxiv.org/abs/2208.04309v1)|**[link](https://github.com/lahoud/3d-vision-transformers)**|
@@ -858,7 +858,7 @@
 |**2022-08-03**|**Zero-Shot Style Transfer for Gesture Animation driven by Text and Speech using Adversarial Disentanglement of Multimodal Style Encoding**|Mireille Fares et.al.|[2208.01917v1](http://arxiv.org/abs/2208.01917v1)|null|
 |**2022-08-03**|**Multimodal Generation of Novel Action Appearances for Synthetic-to-Real Recognition of Activities of Daily Living**|Zdravko Marinov et.al.|[2208.01910v1](http://arxiv.org/abs/2208.01910v1)|null|
 |**2022-08-03**|**Flow Annealed Importance Sampling Bootstrap**|Laurence Illing Midgley et.al.|[2208.01893v1](http://arxiv.org/abs/2208.01893v1)|**[link](https://github.com/lollcat/fab-torch)**|
-|**2022-08-03**|**TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation**|Jun Wang et.al.|[2208.01813v1](http://arxiv.org/abs/2208.01813v1)|**[link](https://github.com/HenryJunW/TAG)**|
+|**2022-08-03**|**TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation**|Jun Wang et.al.|[2208.01813v2](http://arxiv.org/abs/2208.01813v2)|**[link](https://github.com/HenryJunW/TAG)**|
 |**2022-08-01**|**UniPreCIS : A data pre-processing solution for collocated services on shared IoT**|Anirban Das et.al.|[2208.01394v1](http://arxiv.org/abs/2208.01394v1)|null|
 |**2022-08-02**|**Silo NLP's Participation at WAT2022**|Shantipriya Parida et.al.|[2208.01296v1](http://arxiv.org/abs/2208.01296v1)|**[link](https://github.com/shantipriyap/silonlp_wat2022)**|
 |**2022-08-02**|**Can Gaze Beat Touch? A Fitts' Law Evaluation of Gaze, Touch, and Mouse Inputs**|Vijay Rajanna et.al.|[2208.01248v1](http://arxiv.org/abs/2208.01248v1)|null|
