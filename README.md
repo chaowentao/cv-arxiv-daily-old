@@ -64,6 +64,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-13**|**Progressive Multi-scale Light Field Networks**|David Li et.al.|[2208.06710v1](http://arxiv.org/abs/2208.06710v1)|null|
+|**2022-08-12**|**View Sub-sampling and Reconstruction for Efficient Light Field Compression**|Yang Chen et.al.|[2208.06464v1](http://arxiv.org/abs/2208.06464v1)|null|
 |**2022-08-12**|**Twisted Lattice Nanocavity Based on Mode Locking in Momentum Space**|Ren-Min Ma et.al.|[2208.06158v1](http://arxiv.org/abs/2208.06158v1)|null|
 |**2022-08-07**|**Transport properties of vertical heterostructures under light irradiation**|Pascal Stadler et.al.|[2208.03702v1](http://arxiv.org/abs/2208.03702v1)|null|
 |**2022-08-07**|**Cosmological perturbations in the spatially covariant gravity with a dynamical lapse function**|Xue-Zheng Zhu et.al.|[2208.03629v1](http://arxiv.org/abs/2208.03629v1)|null|
@@ -208,6 +210,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-10**|**PatchDropout: Economizing Vision Transformers Using Patch Dropout**|Yue Liu et.al.|[2208.07220v1](http://arxiv.org/abs/2208.07220v1)|null|
+|**2022-08-15**|**A Vision Transformer-Based Approach to Bearing Fault Classification via Vibration Signals**|Abid Hasan Zim et.al.|[2208.07070v1](http://arxiv.org/abs/2208.07070v1)|null|
+|**2022-08-15**|**Self-Supervised Vision Transformers for Malware Detection**|Sachith Seneviratne et.al.|[2208.07049v1](http://arxiv.org/abs/2208.07049v1)|null|
+|**2022-08-14**|**Shuffle Instances-based Vision Transformer for Pancreatic Cancer ROSE Image Classification**|Tianyi Zhang et.al.|[2208.06833v1](http://arxiv.org/abs/2208.06833v1)|**[link](https://github.com/sagizty/mil-si)**|
+|**2022-08-13**|**Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models**|Xingyu Xie et.al.|[2208.06677v1](http://arxiv.org/abs/2208.06677v1)|null|
+|**2022-08-12**|**When CNN Meet with ViT: Towards Semi-Supervised Learning for Multi-Class Medical Image Semantic Segmentation**|Ziyang Wang et.al.|[2208.06449v1](http://arxiv.org/abs/2208.06449v1)|null|
 |**2022-08-12**|**BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers**|Zhiliang Peng et.al.|[2208.06366v1](http://arxiv.org/abs/2208.06366v1)|null|
 |**2022-08-11**|**Shifted Windows Transformers for Medical Image Quality Assessment**|Caner Ozer et.al.|[2208.06034v1](http://arxiv.org/abs/2208.06034v1)|null|
 |**2022-08-11**|**Semi-supervised Vision Transformers at Scale**|Zhaowei Cai et.al.|[2208.05688v1](http://arxiv.org/abs/2208.05688v1)|null|
@@ -840,6 +848,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-14**|**Construction of Bias-preserving Operations for Pair-cat Code**|Ming Yuan et.al.|[2208.06913v1](http://arxiv.org/abs/2208.06913v1)|null|
+|**2022-08-13**|**Finite Sample Complexity of Sequential Monte Carlo Estimators on Multimodal Target Distributions**|Joseph Mathews et.al.|[2208.06672v1](http://arxiv.org/abs/2208.06672v1)|null|
+|**2022-08-13**|**Self-Contained Entity Discovery from Captioned Videos**|Melika Ayoughi et.al.|[2208.06662v1](http://arxiv.org/abs/2208.06662v1)|**[link](https://github.com/melika-ayoughi/self-contained-video-entity-discovery)**|
+|**2022-08-13**|**ULDGNN: A Fragmented UI Layer Detector Based on Graph Neural Networks**|Jiazhi Li et.al.|[2208.06658v1](http://arxiv.org/abs/2208.06658v1)|null|
+|**2022-08-13**|**Experimental observation of spontaneous emission of space-time wavepacket in a multimode optical fiber**|Karolina Stefańska et.al.|[2208.06598v1](http://arxiv.org/abs/2208.06598v1)|null|
 |**2022-08-10**|**An Empirical Exploration of Cross-domain Alignment between Language and Electroencephalogram**|William Han et.al.|[2208.06348v1](http://arxiv.org/abs/2208.06348v1)|null|
 |**2022-08-12**|**Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning**|Zhendong Wang et.al.|[2208.06193v1](http://arxiv.org/abs/2208.06193v1)|null|
 |**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
@@ -1629,6 +1642,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-15**|**Unsupervised Video Domain Adaptation: A Disentanglement Perspective**|Pengfei Wei et.al.|[2208.07365v1](http://arxiv.org/abs/2208.07365v1)|**[link](https://github.com/ldkong1205/transvae)**|
+|**2022-08-15**|**Benchmarking Validation Methods for Unsupervised Domain Adaptation**|Kevin Musgrave et.al.|[2208.07360v1](http://arxiv.org/abs/2208.07360v1)|null|
+|**2022-08-13**|**Learning to Infer Counterfactuals: Meta-Learning for Estimating Multiple Imbalanced Treatment Effects**|Guanglin Zhou et.al.|[2208.06748v1](http://arxiv.org/abs/2208.06748v1)|null|
+|**2022-08-13**|**Combating Label Distribution Shift for Active Domain Adaptation**|Sehyun Hwang et.al.|[2208.06604v1](http://arxiv.org/abs/2208.06604v1)|null|
+|**2022-08-13**|**Memory Efficient Temporal & Visual Graph Model for Unsupervised Video Domain Adaptation**|Xinyue Hu et.al.|[2208.06554v1](http://arxiv.org/abs/2208.06554v1)|null|
+|**2022-08-12**|**Automated Utterance Labeling of Conversations Using Natural Language Processing**|Maria Laricheva et.al.|[2208.06525v1](http://arxiv.org/abs/2208.06525v1)|null|
+|**2022-08-12**|**Continual Unsupervised Domain Adaptation for Semantic Segmentation using a Class-Specific Transfer**|Robert A. Marsden et.al.|[2208.06507v1](http://arxiv.org/abs/2208.06507v1)|null|
 |**2022-08-12**|**Private Domain Adaptation from a Public Source**|Raef Bassily et.al.|[2208.06135v1](http://arxiv.org/abs/2208.06135v1)|null|
 |**2022-08-12**|**Exploring High-quality Target Domain Information for Unsupervised Domain Adaptive Semantic Segmentation**|Junjie Li et.al.|[2208.06100v1](http://arxiv.org/abs/2208.06100v1)|**[link](https://github.com/ljjcoder/ehtdi)**|
 |**2022-08-12**|**Domain-invariant Prototypes for Semantic Segmentation**|Zhengeng Yang et.al.|[2208.06087v1](http://arxiv.org/abs/2208.06087v1)|null|
@@ -2183,6 +2203,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-15**|**Unsupervised Video Domain Adaptation: A Disentanglement Perspective**|Pengfei Wei et.al.|[2208.07365v1](http://arxiv.org/abs/2208.07365v1)|**[link](https://github.com/ldkong1205/transvae)**|
+|**2022-08-15**|**Benchmarking Validation Methods for Unsupervised Domain Adaptation**|Kevin Musgrave et.al.|[2208.07360v1](http://arxiv.org/abs/2208.07360v1)|null|
+|**2022-08-15**|**Retrieval-efficiency trade-off of Unsupervised Keyword Extraction**|Blaž Škrlj et.al.|[2208.07262v1](http://arxiv.org/abs/2208.07262v1)|null|
+|**2022-08-15**|**One-shot Generative Prior Learned from Hankel-k-space for Parallel Imaging Reconstruction**|Hong Peng et.al.|[2208.07181v1](http://arxiv.org/abs/2208.07181v1)|null|
+|**2022-08-15**|**Z-BERT-A: a zero-shot Pipeline for Unknown Intent detection**|Daniele Comi et.al.|[2208.07084v1](http://arxiv.org/abs/2208.07084v1)|**[link](https://github.com/gt4sd/zberta)**|
+|**2022-08-15**|**Hierarchical Attention Network for Few-Shot Object Detection via Meta-Contrastive Learning**|Dongwoo Park et.al.|[2208.07039v1](http://arxiv.org/abs/2208.07039v1)|**[link](https://github.com/infinity7428/hANMCL)**|
+|**2022-08-15**|**ARIEL: Adversarial Graph Contrastive Learning**|Shengyu Feng et.al.|[2208.06956v1](http://arxiv.org/abs/2208.06956v1)|null|
+|**2022-08-14**|**Visual Localization via Few-Shot Scene Region Classification**|Siyan Dong et.al.|[2208.06933v1](http://arxiv.org/abs/2208.06933v1)|null|
+|**2022-08-14**|**Single-channel EOG-based human-machine interface with exploratory assessments using harmonic source separation**|Çağatay Demirel et.al.|[2208.06920v1](http://arxiv.org/abs/2208.06920v1)|null|
+|**2022-08-14**|**Limits of an AI program for solving college math problems**|Ernest Davis et.al.|[2208.06906v1](http://arxiv.org/abs/2208.06906v1)|null|
+|**2022-08-14**|**Frouros: A Python library for drift detection in Machine Learning problems**|Jaime Céspedes Sisniega et.al.|[2208.06868v1](http://arxiv.org/abs/2208.06868v1)|**[link](https://github.com/ifca/frouros)**|
+|**2022-08-14**|**Virgo: Scalable Unsupervised Classification of Cosmological Shock Waves**|Max Lamparth et.al.|[2208.06859v1](http://arxiv.org/abs/2208.06859v1)|null|
+|**2022-08-14**|**Light Weight Character and Shape Recognition for Autonomous Drones**|Neetigya Poddar et.al.|[2208.06804v1](http://arxiv.org/abs/2208.06804v1)|null|
+|**2022-08-13**|**DS-MVSNet: Unsupervised Multi-view Stereo via Depth Synthesis**|Jingliang Li et.al.|[2208.06674v1](http://arxiv.org/abs/2208.06674v1)|null|
+|**2022-08-13**|**Bidirectional Feature Globalization for Few-shot Semantic Segmentation of 3D Point Cloud Scenes**|Yongqiang Mao et.al.|[2208.06671v1](http://arxiv.org/abs/2208.06671v1)|null|
+|**2022-08-13**|**Online Refinement of a Scene Recognition Model for Mobile Robots by Observing Human's Interaction with Environments**|Shigemichi Matsuzaki et.al.|[2208.06636v1](http://arxiv.org/abs/2208.06636v1)|null|
+|**2022-08-13**|**CANdito: Improving Payload-based Detection of Attacks on Controller Area Networks**|Stefano Longari et.al.|[2208.06628v1](http://arxiv.org/abs/2208.06628v1)|null|
+|**2022-08-13**|**Interpreting BERT-based Text Similarity via Activation and Saliency Maps**|Itzik Malkiel et.al.|[2208.06612v1](http://arxiv.org/abs/2208.06612v1)|null|
+|**2022-08-13**|**Memory Efficient Temporal & Visual Graph Model for Unsupervised Video Domain Adaptation**|Xinyue Hu et.al.|[2208.06554v1](http://arxiv.org/abs/2208.06554v1)|null|
+|**2022-08-12**|**Continual Unsupervised Domain Adaptation for Semantic Segmentation using a Class-Specific Transfer**|Robert A. Marsden et.al.|[2208.06507v1](http://arxiv.org/abs/2208.06507v1)|null|
 |**2022-08-12**|**Function Classes for Identifiable Nonlinear Independent Component Analysis**|Simon Buchholz et.al.|[2208.06406v1](http://arxiv.org/abs/2208.06406v1)|null|
 |**2022-08-12**|**Low Emission Building Control with Zero-Shot Reinforcement Learning**|Scott R. Jeen et.al.|[2208.06385v1](http://arxiv.org/abs/2208.06385v1)|null|
 |**2022-08-12**|**Robotic Inspection and Characterization of Subsurface Defects on Concrete Structures Using Impact Sounding**|Ejup Hoxha et.al.|[2208.06305v1](http://arxiv.org/abs/2208.06305v1)|null|
@@ -4590,6 +4630,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-15**|**DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images**|Bing Wang et.al.|[2208.07227v1](http://arxiv.org/abs/2208.07227v1)|**[link](https://github.com/vlar-group/dm-nerf)**|
 |**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
 |**2022-08-11**|**FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing**|Jingbo Zhang et.al.|[2208.05751v1](http://arxiv.org/abs/2208.05751v1)|null|
 |**2022-08-04**|**360Roam: Real-Time Indoor Roaming Using Geometry-Aware ${360^\circ}$ Radiance Fields**|Huajian Huang et.al.|[2208.02705v1](http://arxiv.org/abs/2208.02705v1)|null|
@@ -4717,6 +4758,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-15**|**Magneto-elastic coupling in a sinusoidal modulated magnet Cr$_2$GaN**|Huican Mao et.al.|[2208.07019v1](http://arxiv.org/abs/2208.07019v1)|null|
+|**2022-08-13**|**A new way of video compression via forward-referencing using deep learning**|S. M. A. K. Rajin et.al.|[2208.06678v1](http://arxiv.org/abs/2208.06678v1)|null|
+|**2022-08-13**|**Self-supervised Matting-specific Portrait Enhancement and Generation**|Yangyang Xu Zeyang Zhou et.al.|[2208.06601v1](http://arxiv.org/abs/2208.06601v1)|**[link](https://github.com/cnnlstm/stylegan_matting)**|
+|**2022-08-15**|**Generating Pixel Art Character Sprites using GANs**|Flávio Coutinho et.al.|[2208.06413v1](http://arxiv.org/abs/2208.06413v1)|null|
 |**2022-08-12**|**Scale-free Photo-realistic Adversarial Pattern Attack**|Xiangbo Gao et.al.|[2208.06222v1](http://arxiv.org/abs/2208.06222v1)|null|
 |**2022-08-12**|**Image Translation Based Nuclei Segmentation for Immunohistochemistry Images**|Roger Trullo et.al.|[2208.06202v1](http://arxiv.org/abs/2208.06202v1)|null|
 |**2022-08-12**|**The Lyman-$α$ Emission in a C1.4 Solar Flare Observed by the Extreme Ultraviolet Imager aboard Solar Orbiter**|Ying Li et.al.|[2208.06182v1](http://arxiv.org/abs/2208.06182v1)|null|
