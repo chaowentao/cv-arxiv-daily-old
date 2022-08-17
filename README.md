@@ -64,6 +64,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-16**|**Rain Removal from Light Field Images with 4D Convolution and Multi-scale Gaussian Process**|Tao Yan et.al.|[2208.07735v1](http://arxiv.org/abs/2208.07735v1)|null|
+|**2022-08-15**|**Arcsine Laws of Light**|V. G. Ramesh et.al.|[2208.07432v1](http://arxiv.org/abs/2208.07432v1)|null|
 |**2022-08-13**|**Progressive Multi-scale Light Field Networks**|David Li et.al.|[2208.06710v1](http://arxiv.org/abs/2208.06710v1)|null|
 |**2022-08-12**|**View Sub-sampling and Reconstruction for Efficient Light Field Compression**|Yang Chen et.al.|[2208.06464v1](http://arxiv.org/abs/2208.06464v1)|null|
 |**2022-08-12**|**Twisted Lattice Nanocavity Based on Mode Locking in Momentum Space**|Ren-Min Ma et.al.|[2208.06158v1](http://arxiv.org/abs/2208.06158v1)|null|
@@ -210,6 +212,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-16**|**Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model**|Xiulong Yang et.al.|[2208.07791v1](http://arxiv.org/abs/2208.07791v1)|null|
 |**2022-08-10**|**PatchDropout: Economizing Vision Transformers Using Patch Dropout**|Yue Liu et.al.|[2208.07220v1](http://arxiv.org/abs/2208.07220v1)|null|
 |**2022-08-15**|**A Vision Transformer-Based Approach to Bearing Fault Classification via Vibration Signals**|Abid Hasan Zim et.al.|[2208.07070v1](http://arxiv.org/abs/2208.07070v1)|null|
 |**2022-08-15**|**Self-Supervised Vision Transformers for Malware Detection**|Sachith Seneviratne et.al.|[2208.07049v1](http://arxiv.org/abs/2208.07049v1)|**[link](https://github.com/sachith500/sherlock)**|
@@ -700,6 +703,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-16**|**PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation**|Wentao Jiang et.al.|[2208.07755v1](http://arxiv.org/abs/2208.07755v1)|null|
 |**2022-08-08**|**MetaGraspNet: A Large-Scale Benchmark Dataset for Scene-Aware Ambidextrous Bin Picking via Physics-based Metaverse Synthesis**|Maximilian Gilles et.al.|[2208.03963v1](http://arxiv.org/abs/2208.03963v1)|null|
 |**2022-08-07**|**Jointformer: Single-Frame Lifting Transformer with Error Prediction and Refinement for 3D Human Pose Estimation**|Sebastian Lutz et.al.|[2208.03704v1](http://arxiv.org/abs/2208.03704v1)|null|
 |**2022-08-07**|**CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization**|Yujiao Shi et.al.|[2208.03660v1](http://arxiv.org/abs/2208.03660v1)|null|
@@ -848,6 +852,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-16**|**Efficient Multimodal Transformer with Dual-Level Feature Restoration for Robust Multimodal Sentiment Analysis**|Licai Sun et.al.|[2208.07589v1](http://arxiv.org/abs/2208.07589v1)|null|
 |**2022-08-14**|**Construction of Bias-preserving Operations for Pair-cat Code**|Ming Yuan et.al.|[2208.06913v1](http://arxiv.org/abs/2208.06913v1)|null|
 |**2022-08-13**|**Finite Sample Complexity of Sequential Monte Carlo Estimators on Multimodal Target Distributions**|Joseph Mathews et.al.|[2208.06672v1](http://arxiv.org/abs/2208.06672v1)|null|
 |**2022-08-13**|**Self-Contained Entity Discovery from Captioned Videos**|Melika Ayoughi et.al.|[2208.06662v1](http://arxiv.org/abs/2208.06662v1)|**[link](https://github.com/melika-ayoughi/self-contained-video-entity-discovery)**|
@@ -1642,6 +1647,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-16**|**Unsupervised Domain Adaptation for Segmentation with Black-box Source Model**|Xiaofeng Liu et.al.|[2208.07769v1](http://arxiv.org/abs/2208.07769v1)|null|
+|**2022-08-16**|**Subtype-Aware Dynamic Unsupervised Domain Adaptation**|Xiaofeng Liu et.al.|[2208.07754v1](http://arxiv.org/abs/2208.07754v1)|null|
+|**2022-08-16**|**Gradual Test-Time Adaptation by Self-Training and Style Transfer**|Robert A. Marsden et.al.|[2208.07736v1](http://arxiv.org/abs/2208.07736v1)|null|
+|**2022-08-16**|**Unsupervised domain adaptation semantic segmentation of high-resolution remote sensing imagery with invariant domain-level context memory**|Jingru Zhu et.al.|[2208.07722v1](http://arxiv.org/abs/2208.07722v1)|**[link](https://github.com/RS-CSU/MemoryAdaptNet-master)**|
+|**2022-08-16**|**Uncertainty-guided Source-free Domain Adaptation**|Subhankar Roy et.al.|[2208.07591v1](http://arxiv.org/abs/2208.07591v1)|**[link](https://github.com/roysubhankar/uncertainty-sfda)**|
+|**2022-08-16**|**Human-to-Robot Manipulability Domain Adaptation with Parallel Transport and Manifold-Aware ICP**|Anna Reithmeir et.al.|[2208.07588v1](http://arxiv.org/abs/2208.07588v1)|null|
+|**2022-08-15**|**Deep Unsupervised Domain Adaptation: A Review of Recent Advances and Perspectives**|Xiaofeng Liu et.al.|[2208.07422v1](http://arxiv.org/abs/2208.07422v1)|null|
 |**2022-08-15**|**Unsupervised Video Domain Adaptation: A Disentanglement Perspective**|Pengfei Wei et.al.|[2208.07365v1](http://arxiv.org/abs/2208.07365v1)|**[link](https://github.com/ldkong1205/transvae)**|
 |**2022-08-15**|**Benchmarking Validation Methods for Unsupervised Domain Adaptation**|Kevin Musgrave et.al.|[2208.07360v1](http://arxiv.org/abs/2208.07360v1)|null|
 |**2022-08-13**|**Learning to Infer Counterfactuals: Meta-Learning for Estimating Multiple Imbalanced Treatment Effects**|Guanglin Zhou et.al.|[2208.06748v1](http://arxiv.org/abs/2208.06748v1)|null|
@@ -2203,9 +2215,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-16**|**Interactive and Visual Prompt Engineering for Ad-hoc Task Adaptation with Large Language Models**|Hendrik Strobelt et.al.|[2208.07852v1](http://arxiv.org/abs/2208.07852v1)|null|
+|**2022-08-16**|**Training Latent Variable Models with Auto-encoding Variational Bayes: A Tutorial**|Yang Zhi-Han et.al.|[2208.07818v1](http://arxiv.org/abs/2208.07818v1)|**[link](https://github.com/zhihanyang2022/aevb-tutorial)**|
+|**2022-08-16**|**Unsupervised Domain Adaptation for Segmentation with Black-box Source Model**|Xiaofeng Liu et.al.|[2208.07769v1](http://arxiv.org/abs/2208.07769v1)|null|
+|**2022-08-16**|**Subtype-Aware Dynamic Unsupervised Domain Adaptation**|Xiaofeng Liu et.al.|[2208.07754v1](http://arxiv.org/abs/2208.07754v1)|null|
+|**2022-08-16**|**Gradual Test-Time Adaptation by Self-Training and Style Transfer**|Robert A. Marsden et.al.|[2208.07736v1](http://arxiv.org/abs/2208.07736v1)|null|
+|**2022-08-16**|**Role of Data Augmentation in Unsupervised Anomaly Detection**|Jaemin Yoo et.al.|[2208.07734v1](http://arxiv.org/abs/2208.07734v1)|null|
+|**2022-08-16**|**Complex-Valued K-means Clustering for Interpolative Separable Density Fitting to Large-Scale Hybrid Functional Ab Initio Molecular Dynamics with Plane-Wave Basis Sets**|Jielan Li et.al.|[2208.07731v1](http://arxiv.org/abs/2208.07731v1)|null|
+|**2022-08-16**|**Unsupervised domain adaptation semantic segmentation of high-resolution remote sensing imagery with invariant domain-level context memory**|Jingru Zhu et.al.|[2208.07722v1](http://arxiv.org/abs/2208.07722v1)|**[link](https://github.com/RS-CSU/MemoryAdaptNet-master)**|
+|**2022-08-16**|**Online Learning for Non-monotone Submodular Maximization: From Full Information to Bandit Feedback**|Qixin Zhang et.al.|[2208.07632v1](http://arxiv.org/abs/2208.07632v1)|null|
+|**2022-08-16**|**HVS-Inspired Signal Degradation Network for Just Noticeable Difference Estimation**|Jian Jin et.al.|[2208.07583v1](http://arxiv.org/abs/2208.07583v1)|**[link](https://github.com/jianjin008/hvs-sd-jnd)**|
+|**2022-08-15**|**Conv-Adapter: Exploring Parameter Efficient Transfer Learning for ConvNets**|Hao Chen et.al.|[2208.07463v1](http://arxiv.org/abs/2208.07463v1)|null|
+|**2022-08-15**|**Deep Unsupervised Domain Adaptation: A Review of Recent Advances and Perspectives**|Xiaofeng Liu et.al.|[2208.07422v1](http://arxiv.org/abs/2208.07422v1)|null|
 |**2022-08-15**|**Unsupervised Video Domain Adaptation: A Disentanglement Perspective**|Pengfei Wei et.al.|[2208.07365v1](http://arxiv.org/abs/2208.07365v1)|**[link](https://github.com/ldkong1205/transvae)**|
 |**2022-08-15**|**Benchmarking Validation Methods for Unsupervised Domain Adaptation**|Kevin Musgrave et.al.|[2208.07360v1](http://arxiv.org/abs/2208.07360v1)|null|
-|**2022-08-15**|**Retrieval-efficiency trade-off of Unsupervised Keyword Extraction**|Blaž Škrlj et.al.|[2208.07262v1](http://arxiv.org/abs/2208.07262v1)|null|
+|**2022-08-15**|**Retrieval-efficiency trade-off of Unsupervised Keyword Extraction**|Blaž Škrlj et.al.|[2208.07262v1](http://arxiv.org/abs/2208.07262v1)|**[link](https://github.com/skblaz/rakun2)**|
 |**2022-08-15**|**One-shot Generative Prior Learned from Hankel-k-space for Parallel Imaging Reconstruction**|Hong Peng et.al.|[2208.07181v1](http://arxiv.org/abs/2208.07181v1)|null|
 |**2022-08-15**|**Z-BERT-A: a zero-shot Pipeline for Unknown Intent detection**|Daniele Comi et.al.|[2208.07084v1](http://arxiv.org/abs/2208.07084v1)|**[link](https://github.com/gt4sd/zberta)**|
 |**2022-08-15**|**Hierarchical Attention Network for Few-Shot Object Detection via Meta-Contrastive Learning**|Dongwoo Park et.al.|[2208.07039v2](http://arxiv.org/abs/2208.07039v2)|**[link](https://github.com/infinity7428/hANMCL)**|
@@ -4758,6 +4782,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-12**|**Hyperparameter Optimization of Generative Adversarial Network Models for High-Energy Physics Simulations**|Vincent Dumont et.al.|[2208.07715v1](http://arxiv.org/abs/2208.07715v1)|null|
+|**2022-08-16**|**Enhancement to Training of Bidirectional GAN : An Approach to Demystify Tax Fraud**|Priya Mehta et.al.|[2208.07675v1](http://arxiv.org/abs/2208.07675v1)|null|
+|**2022-08-16**|**DRAGON: Decentralized Fault Tolerance in Edge Federations**|Shreshth Tuli et.al.|[2208.07658v1](http://arxiv.org/abs/2208.07658v1)|**[link](https://github.com/imperial-qore/dragon)**|
 |**2022-08-15**|**Magneto-elastic coupling in a sinusoidal modulated magnet Cr$_2$GaN**|Huican Mao et.al.|[2208.07019v1](http://arxiv.org/abs/2208.07019v1)|null|
 |**2022-08-13**|**A new way of video compression via forward-referencing using deep learning**|S. M. A. K. Rajin et.al.|[2208.06678v1](http://arxiv.org/abs/2208.06678v1)|null|
 |**2022-08-13**|**Self-supervised Matting-specific Portrait Enhancement and Generation**|Yangyang Xu Zeyang Zhou et.al.|[2208.06601v1](http://arxiv.org/abs/2208.06601v1)|**[link](https://github.com/cnnlstm/stylegan_matting)**|
