@@ -1,4 +1,4 @@
-## Updated on 2022.08.17
+## Updated on 2022.08.18
 
 ## Image Generation
 
@@ -212,6 +212,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-17**|**Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation**|Chengxi Zeng et.al.|[2208.08315v1](http://arxiv.org/abs/2208.08315v1)|**[link](https://github.com/simonzeng7108/video-transunet)**|
+|**2022-08-17**|**Transformer Vs. MLP-Mixer Exponential Expressive Gap For NLP Problems**|Dan Navon et.al.|[2208.08191v1](http://arxiv.org/abs/2208.08191v1)|null|
+|**2022-08-17**|**Data-Efficient Vision Transformers for Multi-Label Disease Classification on Chest Radiographs**|Finn Behrendt et.al.|[2208.08166v1](http://arxiv.org/abs/2208.08166v1)|null|
+|**2022-08-16**|**ViT-ReT: Vision and Recurrent Transformer Neural Networks for Human Activity Recognition in Videos**|James Wensel et.al.|[2208.07929v1](http://arxiv.org/abs/2208.07929v1)|null|
 |**2022-08-16**|**Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model**|Xiulong Yang et.al.|[2208.07791v1](http://arxiv.org/abs/2208.07791v1)|null|
 |**2022-08-10**|**PatchDropout: Economizing Vision Transformers Using Patch Dropout**|Yue Liu et.al.|[2208.07220v1](http://arxiv.org/abs/2208.07220v1)|null|
 |**2022-08-15**|**A Vision Transformer-Based Approach to Bearing Fault Classification via Vibration Signals**|Abid Hasan Zim et.al.|[2208.07070v1](http://arxiv.org/abs/2208.07070v1)|null|
@@ -703,6 +707,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-17**|**MoCapDeform: Monocular 3D Human Motion Capture in Deformable Scenes**|Zhi Li et.al.|[2208.08439v1](http://arxiv.org/abs/2208.08439v1)|**[link](https://github.com/malefikus/mocapdeform)**|
+|**2022-08-17**|**Blind-Spot Collision Detection System for Commercial Vehicles Using Multi Deep CNN Architecture**|Muhammad Muzammel et.al.|[2208.08224v1](http://arxiv.org/abs/2208.08224v1)|null|
 |**2022-08-16**|**PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation**|Wentao Jiang et.al.|[2208.07755v1](http://arxiv.org/abs/2208.07755v1)|null|
 |**2022-08-08**|**MetaGraspNet: A Large-Scale Benchmark Dataset for Scene-Aware Ambidextrous Bin Picking via Physics-based Metaverse Synthesis**|Maximilian Gilles et.al.|[2208.03963v1](http://arxiv.org/abs/2208.03963v1)|null|
 |**2022-08-07**|**Jointformer: Single-Frame Lifting Transformer with Error Prediction and Refinement for 3D Human Pose Estimation**|Sebastian Lutz et.al.|[2208.03704v1](http://arxiv.org/abs/2208.03704v1)|null|
@@ -852,6 +858,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-17**|**Leukocyte Classification using Multimodal Architecture Enhanced by Knowledge Distillation**|Litao Yang et.al.|[2208.08331v1](http://arxiv.org/abs/2208.08331v1)|null|
+|**2022-08-17**|**Multimodal foundation models are better simulators of the human brain**|Haoyu Lu et.al.|[2208.08263v1](http://arxiv.org/abs/2208.08263v1)|**[link](https://github.com/rerv/brivl-brain)**|
+|**2022-08-17**|**Understanding Long Documents with Different Position-Aware Attentions**|Hai Pham et.al.|[2208.08201v1](http://arxiv.org/abs/2208.08201v1)|null|
+|**2022-08-17**|**Progressive Cross-modal Knowledge Distillation for Human Action Recognition**|Jianyuan Ni et.al.|[2208.08090v1](http://arxiv.org/abs/2208.08090v1)|null|
+|**2022-08-17**|**Multimodal Lecture Presentations Dataset: Understanding Multimodality in Educational Slides**|Dong Won Lee et.al.|[2208.08080v1](http://arxiv.org/abs/2208.08080v1)|null|
+|**2022-08-17**|**What Artificial Neural Networks Can Tell Us About Human Language Acquisition**|Alex Warstadt et.al.|[2208.07998v1](http://arxiv.org/abs/2208.07998v1)|null|
+|**2022-08-16**|**Transceiver designs to attain the entanglement assisted communications capacity**|Ali Cox et.al.|[2208.07979v1](http://arxiv.org/abs/2208.07979v1)|null|
 |**2022-08-16**|**Efficient Multimodal Transformer with Dual-Level Feature Restoration for Robust Multimodal Sentiment Analysis**|Licai Sun et.al.|[2208.07589v1](http://arxiv.org/abs/2208.07589v1)|null|
 |**2022-08-14**|**Construction of Bias-preserving Operations for Pair-cat Code**|Ming Yuan et.al.|[2208.06913v1](http://arxiv.org/abs/2208.06913v1)|null|
 |**2022-08-13**|**Finite Sample Complexity of Sequential Monte Carlo Estimators on Multimodal Target Distributions**|Joseph Mathews et.al.|[2208.06672v1](http://arxiv.org/abs/2208.06672v1)|null|
@@ -1647,6 +1660,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-17**|**Summarizing Patients Problems from Hospital Progress Notes Using Pre-trained Sequence-to-Sequence Models**|Yanjun Gao et.al.|[2208.08408v1](http://arxiv.org/abs/2208.08408v1)|null|
+|**2022-08-17**|**LAMA-Net: Unsupervised Domain Adaptation via Latent Alignment and Manifold Learning for RUL Prediction**|Manu Joseph et.al.|[2208.08388v1](http://arxiv.org/abs/2208.08388v1)|null|
+|**2022-08-17**|**Domestic sound event detection by shift consistency mean-teacher training and adversarial domain adaptation**|Fang-Ching Chen et.al.|[2208.08131v1](http://arxiv.org/abs/2208.08131v1)|null|
+|**2022-08-17**|**Cross-Domain Few-Shot Classification via Inter-Source Stylization**|Huali Xu et.al.|[2208.08015v1](http://arxiv.org/abs/2208.08015v1)|null|
 |**2022-08-16**|**Unsupervised Domain Adaptation for Segmentation with Black-box Source Model**|Xiaofeng Liu et.al.|[2208.07769v1](http://arxiv.org/abs/2208.07769v1)|null|
 |**2022-08-16**|**Subtype-Aware Dynamic Unsupervised Domain Adaptation**|Xiaofeng Liu et.al.|[2208.07754v1](http://arxiv.org/abs/2208.07754v1)|null|
 |**2022-08-16**|**Gradual Test-Time Adaptation by Self-Training and Style Transfer**|Robert A. Marsden et.al.|[2208.07736v1](http://arxiv.org/abs/2208.07736v1)|null|
@@ -2215,6 +2232,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-17**|**LAMA-Net: Unsupervised Domain Adaptation via Latent Alignment and Manifold Learning for RUL Prediction**|Manu Joseph et.al.|[2208.08388v1](http://arxiv.org/abs/2208.08388v1)|null|
+|**2022-08-17**|**Open Long-Tailed Recognition in a Dynamic World**|Ziwei Liu et.al.|[2208.08349v1](http://arxiv.org/abs/2208.08349v1)|null|
+|**2022-08-17**|**An Efficient Coarse-to-Fine Facet-Aware Unsupervised Summarization Framework based on Semantic Blocks**|Xinnian Liang et.al.|[2208.08253v1](http://arxiv.org/abs/2208.08253v1)|null|
+|**2022-08-17**|**AHEAD: A Triple Attention Based Heterogeneous Graph Anomaly Detection Approach**|Shujie Yang et.al.|[2208.08200v1](http://arxiv.org/abs/2208.08200v1)|null|
+|**2022-08-17**|**Evaluation of 3D GANs for Lung Tissue Modelling in Pulmonary CT**|Sam Ellis et.al.|[2208.08184v1](http://arxiv.org/abs/2208.08184v1)|null|
+|**2022-08-17**|**Gradient-Based Meta-Learning Using Uncertainty to Weigh Loss for Few-Shot Learning**|Lin Ding et.al.|[2208.08135v1](http://arxiv.org/abs/2208.08135v1)|null|
+|**2022-08-17**|**PCC: Paraphrasing with Bottom-k Sampling and Cyclic Learning for Curriculum Data Augmentation**|Hongyuan Lu et.al.|[2208.08110v1](http://arxiv.org/abs/2208.08110v1)|null|
+|**2022-08-17**|**Constrained Few-Shot Learning: Human-Like Low Sample Complexity Learning and Non-Episodic Text Classification**|Jaron Mar et.al.|[2208.08089v1](http://arxiv.org/abs/2208.08089v1)|null|
+|**2022-08-17**|**A Sequence Tagging based Framework for Few-Shot Relation Extraction**|Xukun Luo et.al.|[2208.08053v1](http://arxiv.org/abs/2208.08053v1)|null|
+|**2022-08-17**|**Few-shot Named Entity Recognition with Entity-level Prototypical Network Enhanced by Dispersedly Distributed Prototypes**|Bin Ji et.al.|[2208.08023v1](http://arxiv.org/abs/2208.08023v1)|null|
+|**2022-08-17**|**Cross-Domain Few-Shot Classification via Inter-Source Stylization**|Huali Xu et.al.|[2208.08015v1](http://arxiv.org/abs/2208.08015v1)|null|
 |**2022-08-16**|**Interactive and Visual Prompt Engineering for Ad-hoc Task Adaptation with Large Language Models**|Hendrik Strobelt et.al.|[2208.07852v1](http://arxiv.org/abs/2208.07852v1)|null|
 |**2022-08-16**|**Training Latent Variable Models with Auto-encoding Variational Bayes: A Tutorial**|Yang Zhi-Han et.al.|[2208.07818v1](http://arxiv.org/abs/2208.07818v1)|**[link](https://github.com/zhihanyang2022/aevb-tutorial)**|
 |**2022-08-16**|**Unsupervised Domain Adaptation for Segmentation with Black-box Source Model**|Xiaofeng Liu et.al.|[2208.07769v1](http://arxiv.org/abs/2208.07769v1)|null|
@@ -4654,6 +4682,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-16**|**Casual Indoor HDR Radiance Capture from Omnidirectional Images**|Pulkit Gera et.al.|[2208.07903v1](http://arxiv.org/abs/2208.07903v1)|null|
 |**2022-08-15**|**DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images**|Bing Wang et.al.|[2208.07227v1](http://arxiv.org/abs/2208.07227v1)|**[link](https://github.com/vlar-group/dm-nerf)**|
 |**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
 |**2022-08-11**|**FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing**|Jingbo Zhang et.al.|[2208.05751v1](http://arxiv.org/abs/2208.05751v1)|null|
@@ -4782,6 +4811,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-17**|**Probing local emission properties in InGaN/GaN quantum wells by scanning tunneling luminescence microscopy**|Mylène Sauty et.al.|[2208.08298v1](http://arxiv.org/abs/2208.08298v1)|null|
+|**2022-08-17**|**ParaColorizer: Realistic Image Colorization using Parallel Generative Networks**|Himanshu Kumar et.al.|[2208.08295v1](http://arxiv.org/abs/2208.08295v1)|null|
+|**2022-08-16**|**Novel Deep Learning Approach to Derive Cytokeratin Expression and Epithelium Segmentation from DAPI**|Felix Jakob Segerer et.al.|[2208.08284v1](http://arxiv.org/abs/2208.08284v1)|null|
+|**2022-08-17**|**Evaluation of 3D GANs for Lung Tissue Modelling in Pulmonary CT**|Sam Ellis et.al.|[2208.08184v1](http://arxiv.org/abs/2208.08184v1)|null|
+|**2022-08-17**|**An Empirical Study on the Membership Inference Attack against Tabular Data Synthesis Models**|Jihyeon Hyeong et.al.|[2208.08114v1](http://arxiv.org/abs/2208.08114v1)|**[link](https://github.com/jayoungkim408/mia)**|
+|**2022-08-17**|**Implementation of Multi-channel Active Noise Control based on Back-propagation Mechanism**|Zhengding Luo et.al.|[2208.08086v1](http://arxiv.org/abs/2208.08086v1)|null|
+|**2022-08-17**|**A Hybrid SFANC-FxNLMS Algorithm for Active Noise Control based on Deep Learning**|Zhengding Luo et.al.|[2208.08082v1](http://arxiv.org/abs/2208.08082v1)|**[link](https://github.com/luo-zhengding/sfanc-fxnlms-anc-algorithm-based-on-deep-learning)**|
+|**2022-08-17**|**Few-shot Named Entity Recognition with Entity-level Prototypical Network Enhanced by Dispersedly Distributed Prototypes**|Bin Ji et.al.|[2208.08023v1](http://arxiv.org/abs/2208.08023v1)|null|
+|**2022-08-17**|**Interference Cancellation GAN Framework for Dynamic Channels**|Hung T. Nguyen et.al.|[2208.08019v1](http://arxiv.org/abs/2208.08019v1)|null|
+|**2022-08-16**|**Federated Multi-Discriminator BiWGAN-GP based Collaborative Anomaly Detection for Virtualized Network Slicing**|Weili Wang et.al.|[2208.07985v1](http://arxiv.org/abs/2208.07985v1)|null|
 |**2022-08-12**|**Hyperparameter Optimization of Generative Adversarial Network Models for High-Energy Physics Simulations**|Vincent Dumont et.al.|[2208.07715v1](http://arxiv.org/abs/2208.07715v1)|null|
 |**2022-08-16**|**Enhancement to Training of Bidirectional GAN : An Approach to Demystify Tax Fraud**|Priya Mehta et.al.|[2208.07675v1](http://arxiv.org/abs/2208.07675v1)|null|
 |**2022-08-16**|**DRAGON: Decentralized Fault Tolerance in Edge Federations**|Shreshth Tuli et.al.|[2208.07658v1](http://arxiv.org/abs/2208.07658v1)|**[link](https://github.com/imperial-qore/dragon)**|
