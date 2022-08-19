@@ -1,4 +1,4 @@
-## Updated on 2022.08.18
+## Updated on 2022.08.19
 
 ## Image Generation
 
@@ -212,7 +212,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-17**|**Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation**|Chengxi Zeng et.al.|[2208.08315v1](http://arxiv.org/abs/2208.08315v1)|**[link](https://github.com/simonzeng7108/video-transunet)**|
+|**2022-08-17**|**Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation**|Chengxi Zeng et.al.|[2208.08315v2](http://arxiv.org/abs/2208.08315v2)|**[link](https://github.com/simonzeng7108/video-transunet)**|
 |**2022-08-17**|**Transformer Vs. MLP-Mixer Exponential Expressive Gap For NLP Problems**|Dan Navon et.al.|[2208.08191v1](http://arxiv.org/abs/2208.08191v1)|null|
 |**2022-08-17**|**Data-Efficient Vision Transformers for Multi-Label Disease Classification on Chest Radiographs**|Finn Behrendt et.al.|[2208.08166v1](http://arxiv.org/abs/2208.08166v1)|null|
 |**2022-08-16**|**ViT-ReT: Vision and Recurrent Transformer Neural Networks for Human Activity Recognition in Videos**|James Wensel et.al.|[2208.07929v1](http://arxiv.org/abs/2208.07929v1)|null|
