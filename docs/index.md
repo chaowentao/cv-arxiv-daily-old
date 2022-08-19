@@ -216,6 +216,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-18**|**NeIF: Representing General Reflectance as Neural Intrinsics Fields for Uncalibrated Photometric Stereo**|Zongrui Li et.al.|[2208.08897v1](http://arxiv.org/abs/2208.08897v1)|null|
+|**2022-08-17**|**Photoinduced Pseudospin Polarization in a Three-Orbital Hubbard Model**|Kenji Yonemitsu et.al.|[2208.08531v1](http://arxiv.org/abs/2208.08531v1)|null|
+|**2022-08-17**|**Infinite Distances and Factorization**|John Stout et.al.|[2208.08444v1](http://arxiv.org/abs/2208.08444v1)|null|
 |**2022-08-16**|**Rain Removal from Light Field Images with 4D Convolution and Multi-scale Gaussian Process**|Tao Yan et.al.|[2208.07735v1](http://arxiv.org/abs/2208.07735v1)|null|
 |**2022-08-15**|**Arcsine Laws of Light**|V. G. Ramesh et.al.|[2208.07432v1](http://arxiv.org/abs/2208.07432v1)|null|
 |**2022-08-13**|**Progressive Multi-scale Light Field Networks**|David Li et.al.|[2208.06710v1](http://arxiv.org/abs/2208.06710v1)|null|
@@ -364,6 +367,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-18**|**The 8-Point Algorithm as an Inductive Bias for Relative Pose Prediction by ViTs**|Chris Rockwell et.al.|[2208.08988v1](http://arxiv.org/abs/2208.08988v1)|null|
+|**2022-08-18**|**Prompt Vision Transformer for Domain Generalization**|Zangwei Zheng et.al.|[2208.08914v1](http://arxiv.org/abs/2208.08914v1)|null|
+|**2022-08-17**|**Conviformers: Convolutionally guided Vision Transformer**|Mohit Vaishnav et.al.|[2208.08900v1](http://arxiv.org/abs/2208.08900v1)|null|
 |**2022-08-17**|**Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation**|Chengxi Zeng et.al.|[2208.08315v2](http://arxiv.org/abs/2208.08315v2)|**[link](https://github.com/simonzeng7108/video-transunet)**|
 |**2022-08-17**|**Transformer Vs. MLP-Mixer Exponential Expressive Gap For NLP Problems**|Dan Navon et.al.|[2208.08191v1](http://arxiv.org/abs/2208.08191v1)|null|
 |**2022-08-17**|**Data-Efficient Vision Transformers for Multi-Label Disease Classification on Chest Radiographs**|Finn Behrendt et.al.|[2208.08166v1](http://arxiv.org/abs/2208.08166v1)|null|
@@ -1010,6 +1016,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-18**|**Stable Object Reorientation using Contact Plane Registration**|Richard Li et.al.|[2208.08962v1](http://arxiv.org/abs/2208.08962v1)|null|
+|**2022-08-18**|**Learning-based estimation of in-situ wind speed from underwater acoustics**|Matteo Zambra et.al.|[2208.08912v1](http://arxiv.org/abs/2208.08912v1)|null|
+|**2022-08-16**|**"Are you okay, honey?": Recognizing Emotions among Couples Managing Diabetes in Daily Life using Multimodal Real-World Smartwatch Data**|George Boateng et.al.|[2208.08909v1](http://arxiv.org/abs/2208.08909v1)|null|
+|**2022-08-18**|**Multi-modal imaging using a cascaded microscope design**|Xi Yang et.al.|[2208.08875v1](http://arxiv.org/abs/2208.08875v1)|null|
 |**2022-08-17**|**Leukocyte Classification using Multimodal Architecture Enhanced by Knowledge Distillation**|Litao Yang et.al.|[2208.08331v1](http://arxiv.org/abs/2208.08331v1)|null|
 |**2022-08-17**|**Multimodal foundation models are better simulators of the human brain**|Haoyu Lu et.al.|[2208.08263v1](http://arxiv.org/abs/2208.08263v1)|**[link](https://github.com/rerv/brivl-brain)**|
 |**2022-08-17**|**Understanding Long Documents with Different Position-Aware Attentions**|Hai Pham et.al.|[2208.08201v1](http://arxiv.org/abs/2208.08201v1)|null|
@@ -1812,6 +1822,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-18**|**Semi-supervised domain adaptation with CycleGAN guided by a downstream task loss**|Annika Mütze et.al.|[2208.08815v1](http://arxiv.org/abs/2208.08815v1)|null|
+|**2022-08-18**|**Domain-Specific Risk Minimization**|Yi-Fan Zhang et.al.|[2208.08661v1](http://arxiv.org/abs/2208.08661v1)|null|
+|**2022-08-18**|**Domain Camera Adaptation and Collaborative Multiple Feature Clustering for Unsupervised Person Re-ID**|Yuanpeng Tu et.al.|[2208.08624v1](http://arxiv.org/abs/2208.08624v1)|null|
+|**2022-08-18**|**Contrastive Semi-supervised Learning for Domain Adaptive Segmentation Across Similar Anatomical Structures**|Ran Gu et.al.|[2208.08605v1](http://arxiv.org/abs/2208.08605v1)|null|
 |**2022-08-17**|**Summarizing Patients Problems from Hospital Progress Notes Using Pre-trained Sequence-to-Sequence Models**|Yanjun Gao et.al.|[2208.08408v1](http://arxiv.org/abs/2208.08408v1)|null|
 |**2022-08-17**|**LAMA-Net: Unsupervised Domain Adaptation via Latent Alignment and Manifold Learning for RUL Prediction**|Manu Joseph et.al.|[2208.08388v1](http://arxiv.org/abs/2208.08388v1)|null|
 |**2022-08-17**|**Domestic sound event detection by shift consistency mean-teacher training and adversarial domain adaptation**|Fang-Ching Chen et.al.|[2208.08131v1](http://arxiv.org/abs/2208.08131v1)|null|
@@ -2384,6 +2398,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-18**|**Stable Object Reorientation using Contact Plane Registration**|Richard Li et.al.|[2208.08962v1](http://arxiv.org/abs/2208.08962v1)|null|
+|**2022-08-17**|**Autism spectrum disorder classification based on interpersonal neural synchrony: Can classification be improved by dyadic neural biomarkers using unsupervised graph representation learning?**|Christian Gerloff et.al.|[2208.08902v1](http://arxiv.org/abs/2208.08902v1)|null|
+|**2022-08-18**|**NeIF: Representing General Reflectance as Neural Intrinsics Fields for Uncalibrated Photometric Stereo**|Zongrui Li et.al.|[2208.08897v1](http://arxiv.org/abs/2208.08897v1)|null|
+|**2022-08-18**|**Designing, Modeling, and Optimizing Data-Intensive Computing Systems**|Gagandeep Singh et.al.|[2208.08886v1](http://arxiv.org/abs/2208.08886v1)|null|
+|**2022-08-17**|**SensorSCAN: Self-Supervised Learning and Deep Clustering for Fault Diagnosis in Chemical Processes**|Maksim Golyadkin et.al.|[2208.08879v1](http://arxiv.org/abs/2208.08879v1)|null|
+|**2022-08-18**|**Unsupervised Interpretable Learning of Phases From Many-Qubit Systems**|Nicolas Sadoune et.al.|[2208.08850v1](http://arxiv.org/abs/2208.08850v1)|null|
+|**2022-08-18**|**Outlier Detection using Self-Organizing Maps for Automated Blood Cell Analysis**|Stefan Röhrl et.al.|[2208.08834v1](http://arxiv.org/abs/2208.08834v1)|null|
+|**2022-08-18**|**Siamese Prototypical Contrastive Learning**|Shentong Mo et.al.|[2208.08819v1](http://arxiv.org/abs/2208.08819v1)|null|
+|**2022-08-18**|**Exploiting Sentiment and Common Sense for Zero-shot Stance Detection**|Yun Luo et.al.|[2208.08797v1](http://arxiv.org/abs/2208.08797v1)|null|
+|**2022-08-18**|**Speech Representation Disentanglement with Adversarial Mutual Information Learning for One-shot Voice Conversion**|SiCheng Yang et.al.|[2208.08757v1](http://arxiv.org/abs/2208.08757v1)|null|
+|**2022-08-18**|**Active PETs: Active Data Annotation Prioritisation for Few-Shot Claim Verification with Pattern Exploiting Training**|Xia Zeng et.al.|[2208.08749v1](http://arxiv.org/abs/2208.08749v1)|null|
+|**2022-08-18**|**Communication-Efficient Decentralized Online Continuous DR-Submodular Maximization**|Qixin Zhang et.al.|[2208.08681v1](http://arxiv.org/abs/2208.08681v1)|null|
+|**2022-08-18**|**MulZDG: Multilingual Code-Switching Framework for Zero-shot Dialogue Generation**|Yongkang Liu et.al.|[2208.08629v1](http://arxiv.org/abs/2208.08629v1)|null|
+|**2022-08-18**|**Domain Camera Adaptation and Collaborative Multiple Feature Clustering for Unsupervised Person Re-ID**|Yuanpeng Tu et.al.|[2208.08624v1](http://arxiv.org/abs/2208.08624v1)|null|
 |**2022-08-17**|**LAMA-Net: Unsupervised Domain Adaptation via Latent Alignment and Manifold Learning for RUL Prediction**|Manu Joseph et.al.|[2208.08388v1](http://arxiv.org/abs/2208.08388v1)|null|
 |**2022-08-17**|**Open Long-Tailed Recognition in a Dynamic World**|Ziwei Liu et.al.|[2208.08349v1](http://arxiv.org/abs/2208.08349v1)|null|
 |**2022-08-17**|**An Efficient Coarse-to-Fine Facet-Aware Unsupervised Summarization Framework based on Semantic Blocks**|Xinnian Liang et.al.|[2208.08253v1](http://arxiv.org/abs/2208.08253v1)|null|
@@ -4834,6 +4862,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-18**|**Neural Capture of Animatable 3D Human from Monocular Video**|Gusi Te et.al.|[2208.08728v1](http://arxiv.org/abs/2208.08728v1)|null|
 |**2022-08-16**|**Casual Indoor HDR Radiance Capture from Omnidirectional Images**|Pulkit Gera et.al.|[2208.07903v1](http://arxiv.org/abs/2208.07903v1)|null|
 |**2022-08-15**|**DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images**|Bing Wang et.al.|[2208.07227v1](http://arxiv.org/abs/2208.07227v1)|**[link](https://github.com/vlar-group/dm-nerf)**|
 |**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
@@ -4963,6 +4992,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-18**|**Mind the Gap in Distilling StyleGANs**|Guodong Xu et.al.|[2208.08840v1](http://arxiv.org/abs/2208.08840v1)|**[link](https://github.com/xuguodong03/stylekd)**|
+|**2022-08-18**|**Semi-supervised domain adaptation with CycleGAN guided by a downstream task loss**|Annika Mütze et.al.|[2208.08815v1](http://arxiv.org/abs/2208.08815v1)|null|
+|**2022-08-18**|**A systematic study of spin-dependent recombination in GaAs1-xNx as a function of nitrogen content**|A. C. Ulibarri et.al.|[2208.08785v1](http://arxiv.org/abs/2208.08785v1)|null|
+|**2022-08-18**|**Scaling nanowire-supported GaN quantum dots to the sub-10-nm limit, yielding complete suppression of the giant built-in potential**|Swagata Bhunia et.al.|[2208.08724v1](http://arxiv.org/abs/2208.08724v1)|null|
+|**2022-08-18**|**Musika! Fast Infinite Waveform Music Generation**|Marco Pasini et.al.|[2208.08706v1](http://arxiv.org/abs/2208.08706v1)|**[link](https://github.com/marcoppasini/musika)**|
+|**2022-08-18**|**The GaN yellow-luminescence-related surface state and its interaction with air**|Yury Turkulets et.al.|[2208.08663v1](http://arxiv.org/abs/2208.08663v1)|null|
+|**2022-08-18**|**Generating Synthetic Clinical Data that Capture Class Imbalanced Distributions with Generative Adversarial Networks: Example using Antiretroviral Therapy for HIV**|Nicholas I-Hsien Kuo et.al.|[2208.08655v1](http://arxiv.org/abs/2208.08655v1)|null|
+|**2022-08-17**|**Text-to-Image Generation via Implicit Visual Guidance and Hypernetwork**|Xin Yuan et.al.|[2208.08493v1](http://arxiv.org/abs/2208.08493v1)|null|
+|**2022-08-17**|**Performance Evaluation of Selective Fixed-filter Active Noise Control based on Different Convolutional Neural Networks**|Zhengding Luo et.al.|[2208.08440v1](http://arxiv.org/abs/2208.08440v1)|null|
 |**2022-08-17**|**Probing local emission properties in InGaN/GaN quantum wells by scanning tunneling luminescence microscopy**|Mylène Sauty et.al.|[2208.08298v1](http://arxiv.org/abs/2208.08298v1)|null|
 |**2022-08-17**|**ParaColorizer: Realistic Image Colorization using Parallel Generative Networks**|Himanshu Kumar et.al.|[2208.08295v1](http://arxiv.org/abs/2208.08295v1)|null|
 |**2022-08-16**|**Novel Deep Learning Approach to Derive Cytokeratin Expression and Epithelium Segmentation from DAPI**|Felix Jakob Segerer et.al.|[2208.08284v1](http://arxiv.org/abs/2208.08284v1)|null|
