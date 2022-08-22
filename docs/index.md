@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.21
+## Updated on 2022.08.22
 
 ## SLAM
 
@@ -216,7 +216,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-18**|**NeIF: Representing General Reflectance as Neural Intrinsics Fields for Uncalibrated Photometric Stereo**|Zongrui Li et.al.|[2208.08897v1](http://arxiv.org/abs/2208.08897v1)|null|
+|**2022-08-18**|**NeIF: Representing General Reflectance as Neural Intrinsics Fields for Uncalibrated Photometric Stereo**|Zongrui Li et.al.|[2208.08897v2](http://arxiv.org/abs/2208.08897v2)|null|
 |**2022-08-17**|**Photoinduced Pseudospin Polarization in a Three-Orbital Hubbard Model**|Kenji Yonemitsu et.al.|[2208.08531v1](http://arxiv.org/abs/2208.08531v1)|null|
 |**2022-08-17**|**Infinite Distances and Factorization**|John Stout et.al.|[2208.08444v1](http://arxiv.org/abs/2208.08444v1)|null|
 |**2022-08-16**|**Rain Removal from Light Field Images with 4D Convolution and Multi-scale Gaussian Process**|Tao Yan et.al.|[2208.07735v1](http://arxiv.org/abs/2208.07735v1)|null|
@@ -866,10 +866,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-17**|**MoCapDeform: Monocular 3D Human Motion Capture in Deformable Scenes**|Zhi Li et.al.|[2208.08439v1](http://arxiv.org/abs/2208.08439v1)|**[link](https://github.com/malefikus/mocapdeform)**|
-|**2022-08-17**|**Blind-Spot Collision Detection System for Commercial Vehicles Using Multi Deep CNN Architecture**|Muhammad Muzammel et.al.|[2208.08224v1](http://arxiv.org/abs/2208.08224v1)|null|
+|**2022-08-17**|**Blind-Spot Collision Detection System for Commercial Vehicles Using Multi Deep CNN Architecture**|Muhammad Muzammel et.al.|[2208.08224v2](http://arxiv.org/abs/2208.08224v2)|null|
 |**2022-08-16**|**PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation**|Wentao Jiang et.al.|[2208.07755v1](http://arxiv.org/abs/2208.07755v1)|null|
 |**2022-08-08**|**MetaGraspNet: A Large-Scale Benchmark Dataset for Scene-Aware Ambidextrous Bin Picking via Physics-based Metaverse Synthesis**|Maximilian Gilles et.al.|[2208.03963v1](http://arxiv.org/abs/2208.03963v1)|null|
-|**2022-08-07**|**Jointformer: Single-Frame Lifting Transformer with Error Prediction and Refinement for 3D Human Pose Estimation**|Sebastian Lutz et.al.|[2208.03704v1](http://arxiv.org/abs/2208.03704v1)|null|
+|**2022-08-07**|**Jointformer: Single-Frame Lifting Transformer with Error Prediction and Refinement for 3D Human Pose Estimation**|Sebastian Lutz et.al.|[2208.03704v1](http://arxiv.org/abs/2208.03704v1)|**[link](https://github.com/seblutz/JointFormer)**|
 |**2022-08-07**|**CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization**|Yujiao Shi et.al.|[2208.03660v1](http://arxiv.org/abs/2208.03660v1)|null|
 |**2022-08-06**|**IVT: An End-to-End Instance-guided Video Transformer for 3D Pose Estimation**|Zhongwei Qiu et.al.|[2208.03431v1](http://arxiv.org/abs/2208.03431v1)|null|
 |**2022-08-02**|**UnrealEgo: A New Dataset for Robust Egocentric 3D Human Motion Capture**|Hiroyasu Akada et.al.|[2208.01633v1](http://arxiv.org/abs/2208.01633v1)|null|
@@ -2400,7 +2400,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-18**|**Stable Object Reorientation using Contact Plane Registration**|Richard Li et.al.|[2208.08962v1](http://arxiv.org/abs/2208.08962v1)|null|
 |**2022-08-17**|**Autism spectrum disorder classification based on interpersonal neural synchrony: Can classification be improved by dyadic neural biomarkers using unsupervised graph representation learning?**|Christian Gerloff et.al.|[2208.08902v1](http://arxiv.org/abs/2208.08902v1)|null|
-|**2022-08-18**|**NeIF: Representing General Reflectance as Neural Intrinsics Fields for Uncalibrated Photometric Stereo**|Zongrui Li et.al.|[2208.08897v1](http://arxiv.org/abs/2208.08897v1)|null|
+|**2022-08-18**|**NeIF: Representing General Reflectance as Neural Intrinsics Fields for Uncalibrated Photometric Stereo**|Zongrui Li et.al.|[2208.08897v2](http://arxiv.org/abs/2208.08897v2)|null|
 |**2022-08-18**|**Designing, Modeling, and Optimizing Data-Intensive Computing Systems**|Gagandeep Singh et.al.|[2208.08886v1](http://arxiv.org/abs/2208.08886v1)|null|
 |**2022-08-17**|**SensorSCAN: Self-Supervised Learning and Deep Clustering for Fault Diagnosis in Chemical Processes**|Maksim Golyadkin et.al.|[2208.08879v1](http://arxiv.org/abs/2208.08879v1)|null|
 |**2022-08-18**|**Unsupervised Interpretable Learning of Phases From Many-Qubit Systems**|Nicolas Sadoune et.al.|[2208.08850v1](http://arxiv.org/abs/2208.08850v1)|null|
