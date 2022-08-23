@@ -1,4 +1,4 @@
-## Updated on 2022.08.22
+## Updated on 2022.08.23
 
 ## Image Generation
 
@@ -219,7 +219,7 @@
 |**2022-08-18**|**The 8-Point Algorithm as an Inductive Bias for Relative Pose Prediction by ViTs**|Chris Rockwell et.al.|[2208.08988v1](http://arxiv.org/abs/2208.08988v1)|null|
 |**2022-08-18**|**Prompt Vision Transformer for Domain Generalization**|Zangwei Zheng et.al.|[2208.08914v1](http://arxiv.org/abs/2208.08914v1)|null|
 |**2022-08-17**|**Conviformers: Convolutionally guided Vision Transformer**|Mohit Vaishnav et.al.|[2208.08900v1](http://arxiv.org/abs/2208.08900v1)|null|
-|**2022-08-17**|**Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation**|Chengxi Zeng et.al.|[2208.08315v2](http://arxiv.org/abs/2208.08315v2)|**[link](https://github.com/simonzeng7108/video-transunet)**|
+|**2022-08-17**|**Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation**|Chengxi Zeng et.al.|[2208.08315v3](http://arxiv.org/abs/2208.08315v3)|**[link](https://github.com/simonzeng7108/video-transunet)**|
 |**2022-08-17**|**Transformer Vs. MLP-Mixer Exponential Expressive Gap For NLP Problems**|Dan Navon et.al.|[2208.08191v1](http://arxiv.org/abs/2208.08191v1)|null|
 |**2022-08-17**|**Data-Efficient Vision Transformers for Multi-Label Disease Classification on Chest Radiographs**|Finn Behrendt et.al.|[2208.08166v1](http://arxiv.org/abs/2208.08166v1)|null|
 |**2022-08-16**|**ViT-ReT: Vision and Recurrent Transformer Neural Networks for Human Activity Recognition in Videos**|James Wensel et.al.|[2208.07929v1](http://arxiv.org/abs/2208.07929v1)|null|
@@ -867,7 +867,7 @@
 |---|---|---|---|---|
 |**2022-08-15**|**Undersampling Raster Scans in Spectromicroscopy for reduced dose and faster measurements**|Oliver Townsend et.al.|[2208.09470v1](http://arxiv.org/abs/2208.09470v1)|null|
 |**2022-08-19**|**ModSelect: Automatic Modality Selection for Synthetic-to-Real Domain Generalization**|Zdravko Marinov et.al.|[2208.09414v1](http://arxiv.org/abs/2208.09414v1)|null|
-|**2022-08-19**|**Dance Style Transfer with Cross-modal Transformer**|Wenjie Yin et.al.|[2208.09406v1](http://arxiv.org/abs/2208.09406v1)|null|
+|**2022-08-19**|**Dance Style Transfer with Cross-modal Transformer**|Wenjie Yin et.al.|[2208.09406v2](http://arxiv.org/abs/2208.09406v2)|null|
 |**2022-08-18**|**VAuLT: Augmenting the Vision-and-Language Transformer with the Propagation of Deep Language Representations**|Georgios Chochlakis et.al.|[2208.09021v1](http://arxiv.org/abs/2208.09021v1)|**[link](https://github.com/gchochla/vault)**|
 |**2022-08-18**|**Stable Object Reorientation using Contact Plane Registration**|Richard Li et.al.|[2208.08962v1](http://arxiv.org/abs/2208.08962v1)|null|
 |**2022-08-18**|**Learning-based estimation of in-situ wind speed from underwater acoustics**|Matteo Zambra et.al.|[2208.08912v1](http://arxiv.org/abs/2208.08912v1)|null|
@@ -877,7 +877,7 @@
 |**2022-08-17**|**Multimodal foundation models are better simulators of the human brain**|Haoyu Lu et.al.|[2208.08263v1](http://arxiv.org/abs/2208.08263v1)|**[link](https://github.com/rerv/brivl-brain)**|
 |**2022-08-17**|**Understanding Long Documents with Different Position-Aware Attentions**|Hai Pham et.al.|[2208.08201v1](http://arxiv.org/abs/2208.08201v1)|null|
 |**2022-08-17**|**Progressive Cross-modal Knowledge Distillation for Human Action Recognition**|Jianyuan Ni et.al.|[2208.08090v1](http://arxiv.org/abs/2208.08090v1)|null|
-|**2022-08-17**|**Multimodal Lecture Presentations Dataset: Understanding Multimodality in Educational Slides**|Dong Won Lee et.al.|[2208.08080v1](http://arxiv.org/abs/2208.08080v1)|null|
+|**2022-08-17**|**Multimodal Lecture Presentations Dataset: Understanding Multimodality in Educational Slides**|Dong Won Lee et.al.|[2208.08080v1](http://arxiv.org/abs/2208.08080v1)|**[link](https://github.com/dondongwon/mlpdataset)**|
 |**2022-08-17**|**What Artificial Neural Networks Can Tell Us About Human Language Acquisition**|Alex Warstadt et.al.|[2208.07998v1](http://arxiv.org/abs/2208.07998v1)|null|
 |**2022-08-16**|**Transceiver designs to attain the entanglement assisted communications capacity**|Ali Cox et.al.|[2208.07979v1](http://arxiv.org/abs/2208.07979v1)|null|
 |**2022-08-16**|**Efficient Multimodal Transformer with Dual-Level Feature Restoration for Robust Multimodal Sentiment Analysis**|Licai Sun et.al.|[2208.07589v1](http://arxiv.org/abs/2208.07589v1)|null|
