@@ -216,6 +216,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-22**|**Excitonic Bloch-Siegert shift in CsPbI3 perovskite quantum dots**|Yuxuan Li et.al.|[2208.10045v1](http://arxiv.org/abs/2208.10045v1)|null|
+|**2022-08-20**|**Learning Sub-Pixel Disparity Distribution for Light Field Depth Estimation**|Wentao Chao et.al.|[2208.09688v1](http://arxiv.org/abs/2208.09688v1)|**[link](https://github.com/chaowentao/subfocal)**|
 |**2022-08-19**|**Neural Light Field Estimation for Street Scenes with Differentiable Virtual Object Insertion**|Zian Wang et.al.|[2208.09480v1](http://arxiv.org/abs/2208.09480v1)|null|
 |**2022-08-18**|**NeIF: Representing General Reflectance as Neural Intrinsics Fields for Uncalibrated Photometric Stereo**|Zongrui Li et.al.|[2208.08897v2](http://arxiv.org/abs/2208.08897v2)|null|
 |**2022-08-17**|**Photoinduced Pseudospin Polarization in a Three-Orbital Hubbard Model**|Kenji Yonemitsu et.al.|[2208.08531v1](http://arxiv.org/abs/2208.08531v1)|null|
@@ -368,6 +370,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-22**|**ProtoPFormer: Concentrating on Prototypical Parts in Vision Transformers for Interpretable Image Recognition**|Mengqi Xue et.al.|[2208.10431v1](http://arxiv.org/abs/2208.10431v1)|**[link](https://github.com/zju-vipa/protopformer)**|
+|**2022-08-20**|**Analyzing Adversarial Robustness of Vision Transformers against Spatial and Spectral Attacks**|Gihyun Kim et.al.|[2208.09602v1](http://arxiv.org/abs/2208.09602v1)|null|
+|**2022-08-19**|**A Dual Modality Approach For (Zero-Shot) Multi-Label Classification**|Shichao Xu et.al.|[2208.09562v1](http://arxiv.org/abs/2208.09562v1)|null|
+|**2022-08-19**|**Accelerating Vision Transformer Training via a Patch Sampling Schedule**|Bradley McDanel et.al.|[2208.09520v1](http://arxiv.org/abs/2208.09520v1)|**[link](https://github.com/bradmcdanel/pss)**|
 |**2022-08-18**|**The 8-Point Algorithm as an Inductive Bias for Relative Pose Prediction by ViTs**|Chris Rockwell et.al.|[2208.08988v1](http://arxiv.org/abs/2208.08988v1)|null|
 |**2022-08-18**|**Prompt Vision Transformer for Domain Generalization**|Zangwei Zheng et.al.|[2208.08914v1](http://arxiv.org/abs/2208.08914v1)|null|
 |**2022-08-17**|**Conviformers: Convolutionally guided Vision Transformer**|Mohit Vaishnav et.al.|[2208.08900v1](http://arxiv.org/abs/2208.08900v1)|null|
@@ -866,6 +872,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-22**|**MetaFi: Device-Free Pose Estimation via Commodity WiFi for Metaverse Avatar Simulation**|Jianfei Yang et.al.|[2208.10414v1](http://arxiv.org/abs/2208.10414v1)|null|
+|**2022-08-22**|**PoseBERT: A Generic Transformer Module for Temporal 3D Human Modeling**|Fabien Baradel et.al.|[2208.10211v1](http://arxiv.org/abs/2208.10211v1)|**[link](https://github.com/naver/posebert)**|
 |**2022-08-17**|**MoCapDeform: Monocular 3D Human Motion Capture in Deformable Scenes**|Zhi Li et.al.|[2208.08439v1](http://arxiv.org/abs/2208.08439v1)|**[link](https://github.com/malefikus/mocapdeform)**|
 |**2022-08-17**|**Blind-Spot Collision Detection System for Commercial Vehicles Using Multi Deep CNN Architecture**|Muhammad Muzammel et.al.|[2208.08224v2](http://arxiv.org/abs/2208.08224v2)|null|
 |**2022-08-16**|**PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation**|Wentao Jiang et.al.|[2208.07755v1](http://arxiv.org/abs/2208.07755v1)|null|
@@ -1017,6 +1025,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-22**|**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**|Wenhui Wang et.al.|[2208.10442v1](http://arxiv.org/abs/2208.10442v1)|null|
 |**2022-08-15**|**Undersampling Raster Scans in Spectromicroscopy for reduced dose and faster measurements**|Oliver Townsend et.al.|[2208.09470v1](http://arxiv.org/abs/2208.09470v1)|null|
 |**2022-08-19**|**ModSelect: Automatic Modality Selection for Synthetic-to-Real Domain Generalization**|Zdravko Marinov et.al.|[2208.09414v1](http://arxiv.org/abs/2208.09414v1)|null|
 |**2022-08-19**|**Dance Style Transfer with Cross-modal Transformer**|Wenjie Yin et.al.|[2208.09406v2](http://arxiv.org/abs/2208.09406v2)|null|
@@ -1827,6 +1836,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-21**|**MentorGNN: Deriving Curriculum for Pre-Training GNNs**|Dawei Zhou et.al.|[2208.09905v1](http://arxiv.org/abs/2208.09905v1)|null|
+|**2022-08-21**|**Depth-Assisted ResiDualGAN for Cross-Domain Aerial Images Semantic Segmentation**|Yang Zhao et.al.|[2208.09823v1](http://arxiv.org/abs/2208.09823v1)|null|
+|**2022-08-20**|**General-to-Specific Transfer Labeling for Domain Adaptable Keyphrase Generation**|Rui Meng et.al.|[2208.09606v1](http://arxiv.org/abs/2208.09606v1)|null|
+|**2022-08-20**|**Contrastive Domain Adaptation for Early Misinformation Detection: A Case Study on COVID-19**|Zhenrui Yue et.al.|[2208.09578v1](http://arxiv.org/abs/2208.09578v1)|null|
 |**2022-08-19**|**A Physics-based Domain Adaptation framework for modelling and forecasting building energy systems**|Zack Xuereb Conti et.al.|[2208.09456v1](http://arxiv.org/abs/2208.09456v1)|null|
 |**2022-08-19**|**ModSelect: Automatic Modality Selection for Synthetic-to-Real Domain Generalization**|Zdravko Marinov et.al.|[2208.09414v1](http://arxiv.org/abs/2208.09414v1)|null|
 |**2022-08-19**|**TTT-UCDR: Test-time Training for Universal Cross-Domain Retrieval**|Soumava Paul et.al.|[2208.09198v1](http://arxiv.org/abs/2208.09198v1)|null|
@@ -2408,6 +2421,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-22**|**FurryGAN: High Quality Foreground-aware Image Synthesis**|Jeongmin Bae et.al.|[2208.10422v1](http://arxiv.org/abs/2208.10422v1)|null|
+|**2022-08-22**|**One Model, Any CSP: Graph Neural Networks as Fast Global Search Heuristics for Constraint Satisfaction**|Jan Tönshoff et.al.|[2208.10227v1](http://arxiv.org/abs/2208.10227v1)|null|
+|**2022-08-22**|**Dynamic Adaptive Threshold based Learning for Noisy Annotations Robust Facial Expression Recognition**|Darshan Gera et.al.|[2208.10221v1](http://arxiv.org/abs/2208.10221v1)|null|
+|**2022-08-22**|**MetaRF: Differentiable Random Forest for Reaction Yield Prediction with a Few Trails**|Kexin Chen et.al.|[2208.10083v1](http://arxiv.org/abs/2208.10083v1)|null|
+|**2022-08-22**|**Reference-Limited Compositional Zero-Shot Learning**|Siteng Huang et.al.|[2208.10046v1](http://arxiv.org/abs/2208.10046v1)|null|
+|**2022-08-21**|**SeNMFk-SPLIT: Large Corpora Topic Modeling by Semantic Non-negative Matrix Factorization with Automatic Model Selection**|Maksim E. Eren et.al.|[2208.09942v1](http://arxiv.org/abs/2208.09942v1)|null|
+|**2022-08-21**|**Semantic-enhanced Image Clustering**|Shaotian Cai et.al.|[2208.09849v1](http://arxiv.org/abs/2208.09849v1)|null|
+|**2022-08-21**|**A Contrastive Pre-training Approach to Learn Discriminative Autoencoder for Dense Retrieval**|Xinyu Ma et.al.|[2208.09846v1](http://arxiv.org/abs/2208.09846v1)|null|
+|**2022-08-21**|**qDWI-Morph: Motion-compensated quantitative Diffusion-Weighted MRI analysis for fetal lung maturity assessment**|Yael Zaffrani-Reznikov et.al.|[2208.09836v1](http://arxiv.org/abs/2208.09836v1)|null|
+|**2022-08-21**|**Depth-Assisted ResiDualGAN for Cross-Domain Aerial Images Semantic Segmentation**|Yang Zhao et.al.|[2208.09823v1](http://arxiv.org/abs/2208.09823v1)|null|
+|**2022-08-21**|**Z-Code++: A Pre-trained Language Model Optimized for Abstractive Summarization**|Pengcheng He et.al.|[2208.09770v1](http://arxiv.org/abs/2208.09770v1)|null|
+|**2022-08-20**|**C$^{2}$IMUFS: Complementary and Consensus Learning-based Incomplete Multi-view Unsupervised Feature Selection**|Yanyong Huang et.al.|[2208.09736v1](http://arxiv.org/abs/2208.09736v1)|null|
+|**2022-08-20**|**Learning Primitive-aware Discriminative Representations for FSL**|Jianpeng Yang et.al.|[2208.09717v1](http://arxiv.org/abs/2208.09717v1)|null|
+|**2022-08-20**|**The \emph{R}-Process Alliance: Chemo-Dynamically Tagged Groups II. An Extended Sample of Halo $r$-Process-Enhanced Stars**|Derek Shank et.al.|[2208.09712v1](http://arxiv.org/abs/2208.09712v1)|null|
+|**2022-08-20**|**Improving Multilayer-Perceptron(MLP)-based Network Anomaly Detection with Birch Clustering on CICIDS-2017 Dataset**|Yuhua Yin et.al.|[2208.09711v1](http://arxiv.org/abs/2208.09711v1)|null|
+|**2022-08-20**|**Few-Shot Learning of Accurate Folding Landscape for Protein Structure Prediction**|Jun Zhang et.al.|[2208.09652v1](http://arxiv.org/abs/2208.09652v1)|null|
+|**2022-08-20**|**Representing Knowledge by Spans: A Knowledge-Enhanced Model for Information Extraction**|Jiacheng Li et.al.|[2208.09625v1](http://arxiv.org/abs/2208.09625v1)|null|
+|**2022-08-19**|**A Dual Modality Approach For (Zero-Shot) Multi-Label Classification**|Shichao Xu et.al.|[2208.09562v1](http://arxiv.org/abs/2208.09562v1)|null|
+|**2022-08-19**|**Evaluating Diverse Knowledge Sources for Online One-shot Learning of Novel Tasks**|James R. Kirk et.al.|[2208.09554v1](http://arxiv.org/abs/2208.09554v1)|null|
 |**2022-08-19**|**Sparse Optimization for Unsupervised Extractive Summarization of Long Documents with the Frank-Wolfe Algorithm**|Alicia Y. Tsai et.al.|[2208.09454v1](http://arxiv.org/abs/2208.09454v1)|null|
 |**2022-08-19**|**A Novel Plug-and-Play Approach for Adversarially Robust Generalization**|Deepak Maurya et.al.|[2208.09449v1](http://arxiv.org/abs/2208.09449v1)|null|
 |**2022-08-19**|**Hierarchical Compositional Representations for Few-shot Action Recognition**|Changzhen Li et.al.|[2208.09424v1](http://arxiv.org/abs/2208.09424v1)|null|
@@ -5011,6 +5043,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-22**|**Plasma heating and nanoflare caused by slow-mode wave in a coronal loop**|Fanxiaoyu Xia et.al.|[2208.10029v1](http://arxiv.org/abs/2208.10029v1)|null|
+|**2022-08-21**|**Instability and Local Minima in GAN Training with Kernel Discriminators**|Evan Becker et.al.|[2208.09938v1](http://arxiv.org/abs/2208.09938v1)|null|
+|**2022-08-21**|**Improving GANs for Long-Tailed Data through Group Spectral Regularization**|Harsh Rangwani et.al.|[2208.09932v1](http://arxiv.org/abs/2208.09932v1)|null|
+|**2022-08-20**|**TopoDiff: A Performance and Constraint-Guided Diffusion Model for Topology Optimization**|François Mazé et.al.|[2208.09591v1](http://arxiv.org/abs/2208.09591v1)|null|
 |**2022-08-19**|**Ballistic Thermal Transport at Sub-10 nm Laser-Induced Hot Spots in GaN Crystal**|Dezhao Huang et.al.|[2208.09376v1](http://arxiv.org/abs/2208.09376v1)|null|
 |**2022-08-18**|**Mind the Gap in Distilling StyleGANs**|Guodong Xu et.al.|[2208.08840v1](http://arxiv.org/abs/2208.08840v1)|**[link](https://github.com/xuguodong03/stylekd)**|
 |**2022-08-18**|**Semi-supervised domain adaptation with CycleGAN guided by a downstream task loss**|Annika Mütze et.al.|[2208.08815v1](http://arxiv.org/abs/2208.08815v1)|null|
