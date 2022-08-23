@@ -873,7 +873,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-08-22**|**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**|Wenhui Wang et.al.|[2208.10442v1](http://arxiv.org/abs/2208.10442v1)|null|
+|**2022-08-22**|**Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**|Wenhui Wang et.al.|[2208.10442v1](http://arxiv.org/abs/2208.10442v1)|**[link](https://github.com/microsoft/unilm/tree/master/beit)**|
 |**2022-08-15**|**Undersampling Raster Scans in Spectromicroscopy for reduced dose and faster measurements**|Oliver Townsend et.al.|[2208.09470v1](http://arxiv.org/abs/2208.09470v1)|null|
 |**2022-08-19**|**ModSelect: Automatic Modality Selection for Synthetic-to-Real Domain Generalization**|Zdravko Marinov et.al.|[2208.09414v1](http://arxiv.org/abs/2208.09414v1)|null|
 |**2022-08-19**|**Dance Style Transfer with Cross-modal Transformer**|Wenjie Yin et.al.|[2208.09406v2](http://arxiv.org/abs/2208.09406v2)|null|
