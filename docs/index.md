@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.23
+## Updated on 2022.08.24
 
 ## SLAM
 
@@ -1032,7 +1032,7 @@ layout: default
 |**2022-08-18**|**VAuLT: Augmenting the Vision-and-Language Transformer with the Propagation of Deep Language Representations**|Georgios Chochlakis et.al.|[2208.09021v1](http://arxiv.org/abs/2208.09021v1)|**[link](https://github.com/gchochla/vault)**|
 |**2022-08-18**|**Stable Object Reorientation using Contact Plane Registration**|Richard Li et.al.|[2208.08962v1](http://arxiv.org/abs/2208.08962v1)|null|
 |**2022-08-18**|**Learning-based estimation of in-situ wind speed from underwater acoustics**|Matteo Zambra et.al.|[2208.08912v1](http://arxiv.org/abs/2208.08912v1)|null|
-|**2022-08-16**|**"Are you okay, honey?": Recognizing Emotions among Couples Managing Diabetes in Daily Life using Multimodal Real-World Smartwatch Data**|George Boateng et.al.|[2208.08909v1](http://arxiv.org/abs/2208.08909v1)|null|
+|**2022-08-16**|**"Are you okay, honey?": Recognizing Emotions among Couples Managing Diabetes in Daily Life using Multimodal Real-World Smartwatch Data**|George Boateng et.al.|[2208.08909v2](http://arxiv.org/abs/2208.08909v2)|null|
 |**2022-08-18**|**Multi-modal imaging using a cascaded microscope design**|Xi Yang et.al.|[2208.08875v1](http://arxiv.org/abs/2208.08875v1)|null|
 |**2022-08-17**|**Leukocyte Classification using Multimodal Architecture Enhanced by Knowledge Distillation**|Litao Yang et.al.|[2208.08331v1](http://arxiv.org/abs/2208.08331v1)|null|
 |**2022-08-17**|**Multimodal foundation models are better simulators of the human brain**|Haoyu Lu et.al.|[2208.08263v1](http://arxiv.org/abs/2208.08263v1)|**[link](https://github.com/rerv/brivl-brain)**|
@@ -1846,7 +1846,7 @@ layout: default
 |**2022-08-19**|**Cross-Domain Evaluation of a Deep Learning-Based Type Inference System**|Bernd Gruner et.al.|[2208.09189v1](http://arxiv.org/abs/2208.09189v1)|**[link](https://gitlab.com/dlr-dw/type-inference)**|
 |**2022-08-19**|**Effective Transfer Learning for Low-Resource Natural Language Understanding**|Zihan Liu et.al.|[2208.09180v1](http://arxiv.org/abs/2208.09180v1)|null|
 |**2022-08-18**|**Semi-supervised domain adaptation with CycleGAN guided by a downstream task loss**|Annika Mütze et.al.|[2208.08815v1](http://arxiv.org/abs/2208.08815v1)|null|
-|**2022-08-18**|**Domain-Specific Risk Minimization**|Yi-Fan Zhang et.al.|[2208.08661v1](http://arxiv.org/abs/2208.08661v1)|null|
+|**2022-08-18**|**Domain-Specific Risk Minimization**|Yi-Fan Zhang et.al.|[2208.08661v2](http://arxiv.org/abs/2208.08661v2)|null|
 |**2022-08-18**|**Domain Camera Adaptation and Collaborative Multiple Feature Clustering for Unsupervised Person Re-ID**|Yuanpeng Tu et.al.|[2208.08624v1](http://arxiv.org/abs/2208.08624v1)|null|
 |**2022-08-18**|**Contrastive Semi-supervised Learning for Domain Adaptive Segmentation Across Similar Anatomical Structures**|Ran Gu et.al.|[2208.08605v1](http://arxiv.org/abs/2208.08605v1)|null|
 |**2022-08-17**|**Summarizing Patients Problems from Hospital Progress Notes Using Pre-trained Sequence-to-Sequence Models**|Yanjun Gao et.al.|[2208.08408v1](http://arxiv.org/abs/2208.08408v1)|null|
