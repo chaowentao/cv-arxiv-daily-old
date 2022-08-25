@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.24
+## Updated on 2022.08.25
 
 ## SLAM
 
@@ -1028,7 +1028,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-23**|**Enhanced Opposition Differential Evolution Algorithm for Multimodal Optimization**|Shatendra Singh et.al.|[2208.11066v1](http://arxiv.org/abs/2208.11066v1)|null|
-|**2022-08-23**|**Multi-Modal Representation Learning with SAT for Commodity Verification**|Chenchen Han et.al.|[2208.11064v1](http://arxiv.org/abs/2208.11064v1)|**[link](https://github.com/hanchenchen/ccks2022-track2-solution)**|
+|**2022-08-23**|**Multi-Modal Representation Learning with Self-Adaptive Thresholds for Commodity Verification**|Chenchen Han et.al.|[2208.11064v2](http://arxiv.org/abs/2208.11064v2)|**[link](https://github.com/hanchenchen/ccks2022-track2-solution)**|
 |**2022-08-23**|**Large-Scale Traffic Congestion Prediction based on Multimodal Fusion and Representation Mapping**|Bodong Zhou et.al.|[2208.11061v1](http://arxiv.org/abs/2208.11061v1)|null|
 |**2022-08-23**|**3D-printed facet-attached optical elements for connecting VCSEL and photodiodes to fiber arrays and multi-core fibers**|Pascal Maier et.al.|[2208.11005v1](http://arxiv.org/abs/2208.11005v1)|null|
 |**2022-08-23**|**VILT: Video Instructions Linking for Complex Tasks**|Sophie Fischer et.al.|[2208.10858v1](http://arxiv.org/abs/2208.10858v1)|**[link](https://github.com/grill-lab/vilt)**|
@@ -1853,7 +1853,7 @@ layout: default
 |**2022-08-23**|**Threshold-adaptive Unsupervised Focal Loss for Domain Adaptation of Semantic Segmentation**|Weihao Yan et.al.|[2208.10716v1](http://arxiv.org/abs/2208.10716v1)|null|
 |**2022-08-22**|**Toward Better Target Representation for Source-Free and Black-Box Domain Adaptation**|Qucheng Peng et.al.|[2208.10531v1](http://arxiv.org/abs/2208.10531v1)|null|
 |**2022-08-21**|**MentorGNN: Deriving Curriculum for Pre-Training GNNs**|Dawei Zhou et.al.|[2208.09905v1](http://arxiv.org/abs/2208.09905v1)|null|
-|**2022-08-21**|**Depth-Assisted ResiDualGAN for Cross-Domain Aerial Images Semantic Segmentation**|Yang Zhao et.al.|[2208.09823v1](http://arxiv.org/abs/2208.09823v1)|null|
+|**2022-08-21**|**Depth-Assisted ResiDualGAN for Cross-Domain Aerial Images Semantic Segmentation**|Yang Zhao et.al.|[2208.09823v1](http://arxiv.org/abs/2208.09823v1)|**[link](https://github.com/miemieyanga/ResiDualGAN-DRDG)**|
 |**2022-08-20**|**General-to-Specific Transfer Labeling for Domain Adaptable Keyphrase Generation**|Rui Meng et.al.|[2208.09606v1](http://arxiv.org/abs/2208.09606v1)|null|
 |**2022-08-20**|**Contrastive Domain Adaptation for Early Misinformation Detection: A Case Study on COVID-19**|Zhenrui Yue et.al.|[2208.09578v1](http://arxiv.org/abs/2208.09578v1)|null|
 |**2022-08-19**|**A Physics-based Domain Adaptation framework for modelling and forecasting building energy systems**|Zack Xuereb Conti et.al.|[2208.09456v1](http://arxiv.org/abs/2208.09456v1)|null|
@@ -2441,11 +2441,11 @@ layout: default
 |**2022-08-23**|**Towards Open Set Video Anomaly Detection**|Yuansheng Zhu et.al.|[2208.11113v1](http://arxiv.org/abs/2208.11113v1)|null|
 |**2022-08-23**|**Consistency Regularization for Domain Adaptation**|Kian Boon Koh et.al.|[2208.11084v1](http://arxiv.org/abs/2208.11084v1)|**[link](https://github.com/kw01sg/crda)**|
 |**2022-08-23**|**Adversarial Feature Augmentation for Cross-domain Few-shot Classification**|Yanxu Hu et.al.|[2208.11021v1](http://arxiv.org/abs/2208.11021v1)|**[link](https://github.com/youthhoo/afa_for_few_shot_learning)**|
-|**2022-08-23**|**AniWho : A Quick and Accurate Way to Classify Anime Character Faces in Images**|Martinus Grady Naftali et.al.|[2208.11012v1](http://arxiv.org/abs/2208.11012v1)|**[link](https://github.com/mgradyn/AniWho)**|
+|**2022-08-23**|**AniWho : A Quick and Accurate Way to Classify Anime Character Faces in Images**|Martinus Grady Naftali et.al.|[2208.11012v2](http://arxiv.org/abs/2208.11012v2)|**[link](https://github.com/mgradyn/AniWho)**|
 |**2022-08-23**|**Evaluate Confidence Instead of Perplexity for Zero-shot Commonsense Reasoning**|Letian Peng et.al.|[2208.11007v1](http://arxiv.org/abs/2208.11007v1)|null|
 |**2022-08-23**|**Unsupervised Anomaly Localization with Structural Feature-Autoencoders**|Felix Meissen et.al.|[2208.10992v1](http://arxiv.org/abs/2208.10992v1)|**[link](https://github.com/felime/feature-autoencoder)**|
 |**2022-08-23**|**ULISSE: A Tool for One-shot Sky Exploration and its Application to Active Galactic Nuclei Detection**|Lars Doorenbos et.al.|[2208.10984v1](http://arxiv.org/abs/2208.10984v1)|**[link](https://github.com/larsdoorenbos/ulisse)**|
-|**2022-08-23**|**FS-BAN: Born-Again Networks for Domain Generalization Few-Shot Classification**|Yunqing Zhao et.al.|[2208.10930v1](http://arxiv.org/abs/2208.10930v1)|null|
+|**2022-08-23**|**FS-BAN: Born-Again Networks for Domain Generalization Few-Shot Classification**|Yunqing Zhao et.al.|[2208.10930v2](http://arxiv.org/abs/2208.10930v2)|null|
 |**2022-08-23**|**StyleTalker: One-shot Style-based Audio-driven Talking Head Video Generation**|Dongchan Min et.al.|[2208.10922v1](http://arxiv.org/abs/2208.10922v1)|null|
 |**2022-08-23**|**Transfer Learning Application of Self-supervised Learning in ARPES**|Sandy Adhitia Ekahana et.al.|[2208.10893v1](http://arxiv.org/abs/2208.10893v1)|null|
 |**2022-08-23**|**FocusFormer: Focusing on What We Need via Architecture Sampler**|Jing Liu et.al.|[2208.10861v1](http://arxiv.org/abs/2208.10861v1)|null|
