@@ -79,7 +79,7 @@
 |**2022-08-12**|**Twisted Lattice Nanocavity Based on Mode Locking in Momentum Space**|Ren-Min Ma et.al.|[2208.06158v1](http://arxiv.org/abs/2208.06158v1)|null|
 |**2022-08-07**|**Transport properties of vertical heterostructures under light irradiation**|Pascal Stadler et.al.|[2208.03702v1](http://arxiv.org/abs/2208.03702v1)|null|
 |**2022-08-07**|**Cosmological perturbations in the spatially covariant gravity with a dynamical lapse function**|Xue-Zheng Zhu et.al.|[2208.03629v1](http://arxiv.org/abs/2208.03629v1)|null|
-|**2022-08-01**|**Computing coherent light scattering on the millimetre scale using a recurrent neural network without training**|Laurynas Valantinas et.al.|[2208.01118v1](http://arxiv.org/abs/2208.01118v1)|null|
+|**2022-08-01**|**Computing coherent light scattering on the millimetre scale using a recurrent neural network without training**|Laurynas Valantinas et.al.|[2208.01118v1](http://arxiv.org/abs/2208.01118v1)|**[link](https://github.com/corilim/macromax)**|
 |**2022-08-01**|**Modelling spatio-temporal dynamics of chiral coupling of quantum emitters to light fields in nanophotonic structures**|Jan Olthaus et.al.|[2208.00879v1](http://arxiv.org/abs/2208.00879v1)|null|
 |**2022-07-30**|**Distilled Low Rank Neural Radiance Field with Quantization for Light Field Compression**|Jinglei Shi et.al.|[2208.00164v1](http://arxiv.org/abs/2208.00164v1)|null|
 |**2022-07-29**|**Coherent resonant transmission**|H. S. Xu et.al.|[2207.14453v1](http://arxiv.org/abs/2207.14453v1)|null|
@@ -728,6 +728,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-25**|**FusePose: IMU-Vision Sensor Fusion in Kinematic Space for Parametric Human Pose Estimation**|Yiming Bao et.al.|[2208.11960v1](http://arxiv.org/abs/2208.11960v1)|null|
 |**2022-08-23**|**ZoomNAS: Searching for Whole-body Human Pose Estimation in the Wild**|Lumin Xu et.al.|[2208.11547v1](http://arxiv.org/abs/2208.11547v1)|**[link](https://github.com/jin-s13/COCO-WholeBody)**|
 |**2022-08-24**|**Self-Supervised Endoscopic Image Key-Points Matching**|Manel Farhat et.al.|[2208.11424v1](http://arxiv.org/abs/2208.11424v1)|**[link](https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching)**|
 |**2022-08-22**|**MetaFi: Device-Free Pose Estimation via Commodity WiFi for Metaverse Avatar Simulation**|Jianfei Yang et.al.|[2208.10414v1](http://arxiv.org/abs/2208.10414v1)|null|
@@ -883,6 +884,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-25**|**Supervised Contrastive Learning for Affect Modelling**|Kosmas Pinitas et.al.|[2208.12238v1](http://arxiv.org/abs/2208.12238v1)|**[link](https://github.com/kpinitas/supervised-contrastive-learning-for-affect-modeling)**|
+|**2022-08-25**|**Contrastive Audio-Language Learning for Music**|Ilaria Manco et.al.|[2208.12208v1](http://arxiv.org/abs/2208.12208v1)|**[link](https://github.com/ilaria-manco/muscall)**|
+|**2022-08-25**|**The ReprGesture entry to the GENEA Challenge 2022**|Sicheng Yang et.al.|[2208.12133v1](http://arxiv.org/abs/2208.12133v1)|**[link](https://github.com/YoungSeng/ReprGesture)**|
+|**2022-08-25**|**The Sustainable Response Strategy to COVID-19: Pandemic Urban Zoning Based on Multimodal Transport Data**|Yufei Wang et.al.|[2208.12119v1](http://arxiv.org/abs/2208.12119v1)|null|
+|**2022-08-25**|**Multimode theory of electron hole transverse instability**|Xiang Chen et.al.|[2208.12093v1](http://arxiv.org/abs/2208.12093v1)|**[link](https://github.com/ihutch/multimodeeh)**|
+|**2022-08-25**|**Cross-Modality Gated Attention Fusion for Multimodal Sentiment Analysis**|Ming Jiang et.al.|[2208.11893v1](http://arxiv.org/abs/2208.11893v1)|null|
+|**2022-08-25**|**Interpretable Multimodal Emotion Recognition using Hybrid Fusion of Speech and Image Data**|Puneet Kumar et.al.|[2208.11868v1](http://arxiv.org/abs/2208.11868v1)|**[link](https://github.com/mintelligence-group/speechimg_emorec)**|
 |**2022-08-24**|**Hybrid Fusion Based Interpretable Multimodal Emotion Recognition with Insufficient Labelled Data**|Puneet Kumar et.al.|[2208.11450v1](http://arxiv.org/abs/2208.11450v1)|null|
 |**2022-08-24**|**ICANet: A Method of Short Video Emotion Recognition Driven by Multimodal Data**|Xuecheng Wu et.al.|[2208.11346v1](http://arxiv.org/abs/2208.11346v1)|null|
 |**2022-08-24**|**FashionVQA: A Domain-Specific Visual Question Answering System**|Min Wang et.al.|[2208.11253v1](http://arxiv.org/abs/2208.11253v1)|null|
@@ -1706,6 +1714,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-25**|**Multi-Scale Multi-Target Domain Adaptation for Angle Closure Classification**|Zhen Qiu et.al.|[2208.12157v1](http://arxiv.org/abs/2208.12157v1)|null|
+|**2022-08-25**|**Image Based Food Energy Estimation With Depth Domain Adaptation**|Gautham Vinod et.al.|[2208.12153v1](http://arxiv.org/abs/2208.12153v1)|null|
 |**2022-08-24**|**AGO-Net: Association-Guided 3D Point Cloud Object Detection Network**|Liang Du et.al.|[2208.11658v1](http://arxiv.org/abs/2208.11658v1)|null|
 |**2022-08-23**|**Consistency Regularization for Domain Adaptation**|Kian Boon Koh et.al.|[2208.11084v1](http://arxiv.org/abs/2208.11084v1)|**[link](https://github.com/kw01sg/crda)**|
 |**2022-08-23**|**IMPaSh: A Novel Domain-shift Resistant Representation for Colorectal Cancer Tissue Classification**|Trinh Thi Le Vuong et.al.|[2208.11052v1](http://arxiv.org/abs/2208.11052v1)|**[link](https://github.com/trinhvg/impash)**|
@@ -2297,6 +2307,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-25**|**MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining**|Xiaoyi Dong et.al.|[2208.12262v1](http://arxiv.org/abs/2208.12262v1)|null|
+|**2022-08-25**|**Contrastive Audio-Language Learning for Music**|Ilaria Manco et.al.|[2208.12208v1](http://arxiv.org/abs/2208.12208v1)|**[link](https://github.com/ilaria-manco/muscall)**|
+|**2022-08-25**|**Learning to regulate 3D head shape by removing occluding hair from in-the-wild images**|Sohan Anisetty et.al.|[2208.12078v1](http://arxiv.org/abs/2208.12078v1)|null|
+|**2022-08-25**|**PREVENT: An Unsupervised Approach to Predict Software Failures in Production**|Giovanni Denaro et.al.|[2208.11939v1](http://arxiv.org/abs/2208.11939v1)|**[link](https://github.com/usi-star/prevent)**|
+|**2022-08-25**|**Comparing Storm Resolving Models and Climates via Unsupervised Machine Learning**|Griffin Mooers et.al.|[2208.11843v1](http://arxiv.org/abs/2208.11843v1)|null|
+|**2022-08-25**|**Refine and Represent: Region-to-Object Representation Learning**|Akash Gokul et.al.|[2208.11821v1](http://arxiv.org/abs/2208.11821v1)|**[link](https://github.com/kkallidromitis/r2o)**|
+|**2022-08-25**|**Skeleton Prototype Contrastive Learning with Multi-Level Graph Relation Modeling for Unsupervised Person Re-Identification**|Haocong Rao et.al.|[2208.11814v1](http://arxiv.org/abs/2208.11814v1)|**[link](https://github.com/kali-hac/spc-mgr)**|
+|**2022-08-24**|**Towards Unsupervised HPO for Outlier Detection**|Yue Zhao et.al.|[2208.11727v1](http://arxiv.org/abs/2208.11727v1)|null|
 |**2022-08-24**|**Improving video retrieval using multilingual knowledge transfer**|Avinash Madasu et.al.|[2208.11553v2](http://arxiv.org/abs/2208.11553v2)|null|
 |**2022-08-24**|**Unsupervised Structure-Consistent Image-to-Image Translation**|Shima Shahfar et.al.|[2208.11546v1](http://arxiv.org/abs/2208.11546v1)|null|
 |**2022-08-24**|**A novel method for data augmentation: Nine Dot Moving Least Square (ND-MLS)**|Wen Yang et.al.|[2208.11532v1](http://arxiv.org/abs/2208.11532v1)|null|
@@ -2306,7 +2324,7 @@
 |**2022-08-24**|**nanoNET: Machine Learning Platform for Predicting Nanoparticles Distribution in a Polymer Matrix**|Kumar Ayush et.al.|[2208.11448v1](http://arxiv.org/abs/2208.11448v1)|null|
 |**2022-08-24**|**Improved Zero-Shot Audio Tagging & Classification with Patchout Spectrogram Transformers**|Paul Primus et.al.|[2208.11402v1](http://arxiv.org/abs/2208.11402v1)|null|
 |**2022-08-24**|**Efficient Data-Driven Network Functions**|Zhiyuan Yao et.al.|[2208.11385v1](http://arxiv.org/abs/2208.11385v1)|null|
-|**2022-08-24**|**Deep Hyperspectral and Multispectral Image Fusion with Inter-image Variability**|Xiuheng Wang et.al.|[2208.11376v1](http://arxiv.org/abs/2208.11376v1)|null|
+|**2022-08-24**|**Deep Hyperspectral and Multispectral Image Fusion with Inter-image Variability**|Xiuheng Wang et.al.|[2208.11376v1](http://arxiv.org/abs/2208.11376v1)|**[link](https://github.com/xiuheng-wang/difiv_release)**|
 |**2022-08-24**|**RZSR: Reference-based Zero-Shot Super-Resolution with Depth Guided Self-Exemplars**|Jun-Sang Yoo et.al.|[2208.11313v1](http://arxiv.org/abs/2208.11313v1)|**[link](https://github.com/junsang7777/rzsr)**|
 |**2022-08-24**|**Federated Learning via Decentralized Dataset Distillation in Resource-Constrained Edge Environments**|Rui Song et.al.|[2208.11311v1](http://arxiv.org/abs/2208.11311v1)|null|
 |**2022-08-24**|**Semi-Supervised and Unsupervised Deep Visual Learning: A Survey**|Yanbei Chen et.al.|[2208.11296v1](http://arxiv.org/abs/2208.11296v1)|null|
@@ -4957,6 +4975,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-25**|**Adversarial Bayesian Simulation**|Yuexi Wang et.al.|[2208.12113v1](http://arxiv.org/abs/2208.12113v1)|null|
+|**2022-08-25**|**Combating Mode Collapse in GANs via Manifold Entropy Estimation**|Haozhe Liu et.al.|[2208.12055v1](http://arxiv.org/abs/2208.12055v1)|null|
+|**2022-08-25**|**Massive Data Generation for Deep Learning-aided Wireless Systems Using Meta Learning and Generative Adversarial Network**|Jinhong Kim et.al.|[2208.11910v1](http://arxiv.org/abs/2208.11910v1)|null|
+|**2022-08-25**|**High-Fidelity Image Inpainting with GAN Inversion**|Yongsheng Yu et.al.|[2208.11850v1](http://arxiv.org/abs/2208.11850v1)|null|
+|**2022-08-24**|**GAN-based generative modelling for dermatological applications -- comparative study**|Sandra Carrasco Limeros et.al.|[2208.11702v1](http://arxiv.org/abs/2208.11702v1)|**[link](https://github.com/aidotse/stylegan2-ada-pytorch)**|
 |**2022-08-24**|**Generative Adversarial Network (GAN) based Image-Deblurring**|Yuhong Lu et.al.|[2208.11622v1](http://arxiv.org/abs/2208.11622v1)|null|
 |**2022-08-24**|**Unrestricted Black-box Adversarial Attack Using GAN with Limited Queries**|Dongbin Na et.al.|[2208.11613v1](http://arxiv.org/abs/2208.11613v1)|**[link](https://github.com/ndb796/latenthsja)**|
 |**2022-08-24**|**AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models**|Nithin Gopalakrishnan Nair et.al.|[2208.11284v1](http://arxiv.org/abs/2208.11284v1)|null|
