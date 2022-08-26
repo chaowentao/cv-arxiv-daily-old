@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.25
+## Updated on 2022.08.26
 
 ## SLAM
 
@@ -388,7 +388,7 @@ layout: default
 |**2022-08-17**|**Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation**|Chengxi Zeng et.al.|[2208.08315v3](http://arxiv.org/abs/2208.08315v3)|**[link](https://github.com/simonzeng7108/video-transunet)**|
 |**2022-08-17**|**Transformer Vs. MLP-Mixer Exponential Expressive Gap For NLP Problems**|Dan Navon et.al.|[2208.08191v1](http://arxiv.org/abs/2208.08191v1)|null|
 |**2022-08-17**|**Data-Efficient Vision Transformers for Multi-Label Disease Classification on Chest Radiographs**|Finn Behrendt et.al.|[2208.08166v1](http://arxiv.org/abs/2208.08166v1)|null|
-|**2022-08-16**|**ViT-ReT: Vision and Recurrent Transformer Neural Networks for Human Activity Recognition in Videos**|James Wensel et.al.|[2208.07929v1](http://arxiv.org/abs/2208.07929v1)|null|
+|**2022-08-16**|**ViT-ReT: Vision and Recurrent Transformer Neural Networks for Human Activity Recognition in Videos**|James Wensel et.al.|[2208.07929v2](http://arxiv.org/abs/2208.07929v2)|null|
 |**2022-08-16**|**Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model**|Xiulong Yang et.al.|[2208.07791v1](http://arxiv.org/abs/2208.07791v1)|null|
 |**2022-08-10**|**PatchDropout: Economizing Vision Transformers Using Patch Dropout**|Yue Liu et.al.|[2208.07220v1](http://arxiv.org/abs/2208.07220v1)|null|
 |**2022-08-15**|**A Vision Transformer-Based Approach to Bearing Fault Classification via Vibration Signals**|Abid Hasan Zim et.al.|[2208.07070v1](http://arxiv.org/abs/2208.07070v1)|null|
@@ -881,7 +881,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-23**|**ZoomNAS: Searching for Whole-body Human Pose Estimation in the Wild**|Lumin Xu et.al.|[2208.11547v1](http://arxiv.org/abs/2208.11547v1)|**[link](https://github.com/jin-s13/COCO-WholeBody)**|
-|**2022-08-24**|**Self-Supervised Endoscopic Image Key-Points Matching**|Manel Farhat et.al.|[2208.11424v1](http://arxiv.org/abs/2208.11424v1)|null|
+|**2022-08-24**|**Self-Supervised Endoscopic Image Key-Points Matching**|Manel Farhat et.al.|[2208.11424v1](http://arxiv.org/abs/2208.11424v1)|**[link](https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching)**|
 |**2022-08-22**|**MetaFi: Device-Free Pose Estimation via Commodity WiFi for Metaverse Avatar Simulation**|Jianfei Yang et.al.|[2208.10414v1](http://arxiv.org/abs/2208.10414v1)|null|
 |**2022-08-22**|**PoseBERT: A Generic Transformer Module for Temporal 3D Human Modeling**|Fabien Baradel et.al.|[2208.10211v1](http://arxiv.org/abs/2208.10211v1)|**[link](https://github.com/naver/posebert)**|
 |**2022-08-17**|**MoCapDeform: Monocular 3D Human Motion Capture in Deformable Scenes**|Zhi Li et.al.|[2208.08439v1](http://arxiv.org/abs/2208.08439v1)|**[link](https://github.com/malefikus/mocapdeform)**|
@@ -1862,7 +1862,7 @@ layout: default
 |**2022-08-23**|**Consistency Regularization for Domain Adaptation**|Kian Boon Koh et.al.|[2208.11084v1](http://arxiv.org/abs/2208.11084v1)|**[link](https://github.com/kw01sg/crda)**|
 |**2022-08-23**|**IMPaSh: A Novel Domain-shift Resistant Representation for Colorectal Cancer Tissue Classification**|Trinh Thi Le Vuong et.al.|[2208.11052v1](http://arxiv.org/abs/2208.11052v1)|**[link](https://github.com/trinhvg/impash)**|
 |**2022-08-23**|**Multimodal Across Domains Gaze Target Detection**|Francesco Tonini et.al.|[2208.10822v1](http://arxiv.org/abs/2208.10822v1)|**[link](https://github.com/francescotonini/multimodal-across-domains-gaze-target-detection)**|
-|**2022-08-23**|**Threshold-adaptive Unsupervised Focal Loss for Domain Adaptation of Semantic Segmentation**|Weihao Yan et.al.|[2208.10716v1](http://arxiv.org/abs/2208.10716v1)|null|
+|**2022-08-23**|**Threshold-adaptive Unsupervised Focal Loss for Domain Adaptation of Semantic Segmentation**|Weihao Yan et.al.|[2208.10716v1](http://arxiv.org/abs/2208.10716v1)|**[link](https://github.com/ywher/TUFL)**|
 |**2022-08-22**|**Toward Better Target Representation for Source-Free and Black-Box Domain Adaptation**|Qucheng Peng et.al.|[2208.10531v1](http://arxiv.org/abs/2208.10531v1)|null|
 |**2022-08-21**|**MentorGNN: Deriving Curriculum for Pre-Training GNNs**|Dawei Zhou et.al.|[2208.09905v1](http://arxiv.org/abs/2208.09905v1)|null|
 |**2022-08-21**|**Depth-Assisted ResiDualGAN for Cross-Domain Aerial Images Semantic Segmentation**|Yang Zhao et.al.|[2208.09823v1](http://arxiv.org/abs/2208.09823v1)|**[link](https://github.com/miemieyanga/ResiDualGAN-DRDG)**|
@@ -2449,7 +2449,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-24**|**Improving video retrieval using multilingual knowledge transfer**|Avinash Madasu et.al.|[2208.11553v1](http://arxiv.org/abs/2208.11553v1)|null|
+|**2022-08-24**|**Improving video retrieval using multilingual knowledge transfer**|Avinash Madasu et.al.|[2208.11553v2](http://arxiv.org/abs/2208.11553v2)|null|
 |**2022-08-24**|**Unsupervised Structure-Consistent Image-to-Image Translation**|Shima Shahfar et.al.|[2208.11546v1](http://arxiv.org/abs/2208.11546v1)|null|
 |**2022-08-24**|**A novel method for data augmentation: Nine Dot Moving Least Square (ND-MLS)**|Wen Yang et.al.|[2208.11532v1](http://arxiv.org/abs/2208.11532v1)|null|
 |**2022-08-24**|**PSSAT: A Perturbed Semantic Structure Awareness Transferring Method for Perturbation-Robust Slot Filling**|Guanting Dong et.al.|[2208.11508v1](http://arxiv.org/abs/2208.11508v1)|null|
