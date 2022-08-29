@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-26**|**Selective manipulation of disentangled representations for privacy-aware facial image processing**|Sander De Coninck et.al.|[2208.12632v1](http://arxiv.org/abs/2208.12632v1)|null|
 |**2022-08-24**|**Unsupervised Structure-Consistent Image-to-Image Translation**|Shima Shahfar et.al.|[2208.11546v1](http://arxiv.org/abs/2208.11546v1)|null|
 |**2022-08-11**|**Language-Guided Face Animation by Recurrent StyleGAN-based Generator**|Tiankai Hang et.al.|[2208.05617v1](http://arxiv.org/abs/2208.05617v1)|**[link](https://github.com/tiankaihang/language-guided-animation)**|
 |**2022-07-27**|**Multi-Forgery Detection Challenge 2022: Push the Frontier of Unconstrained and Diverse Forgery Detection**|Jianshu Li et.al.|[2207.13505v1](http://arxiv.org/abs/2207.13505v1)|null|
@@ -65,6 +66,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-26**|**SOFFLFM: Super-resolution optical fluctuation Fourier light-field microscopy**|Haixin Huang et.al.|[2208.12599v1](http://arxiv.org/abs/2208.12599v1)|null|
+|**2022-08-25**|**VEViD: Vision Enhancement via Virtual diffraction and coherent Detection**|Callen MacPhee et.al.|[2208.12366v1](http://arxiv.org/abs/2208.12366v1)|null|
 |**2022-08-24**|**AutoDeconJ: a GPU accelerated ImageJ plugin for 3D light field deconvolution with optimal iteration numbers predicting**|C. Q. Su et.al.|[2208.11422v1](http://arxiv.org/abs/2208.11422v1)|null|
 |**2022-08-22**|**Excitonic Bloch-Siegert shift in CsPbI3 perovskite quantum dots**|Yuxuan Li et.al.|[2208.10045v1](http://arxiv.org/abs/2208.10045v1)|null|
 |**2022-08-20**|**Learning Sub-Pixel Disparity Distribution for Light Field Depth Estimation**|Wentao Chao et.al.|[2208.09688v1](http://arxiv.org/abs/2208.09688v1)|**[link](https://github.com/chaowentao/subfocal)**|
@@ -220,6 +223,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-26**|**VMFormer: End-to-End Video Matting with Transformer**|Jiachen Li et.al.|[2208.12801v1](http://arxiv.org/abs/2208.12801v1)|null|
 |**2022-08-24**|**On a Built-in Conflict between Deep Learning and Systematic Generalization**|Yuanpeng Li et.al.|[2208.11633v1](http://arxiv.org/abs/2208.11633v1)|**[link](https://github.com/yuanpeng16/bcdlsg)**|
 |**2022-08-20**|**An End-to-End OCR Framework for Robust Arabic-Handwriting Recognition using a Novel Transformers-based Model and an Innovative 270 Million-Words Multi-Font Corpus of Classical Arabic with Diacritics**|Aly Mostafa et.al.|[2208.11484v1](http://arxiv.org/abs/2208.11484v1)|null|
 |**2022-08-24**|**A Deep Learning Approach Using Masked Image Modeling for Reconstruction of Undersampled K-spaces**|Kyler Larsen et.al.|[2208.11472v1](http://arxiv.org/abs/2208.11472v1)|**[link](https://github.com/Aopsmath99/MIMMRI)**|
@@ -884,6 +888,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-26**|**Learning Multi-Modal Brain Tumor Segmentation from Privileged Semi-Paired MRI Images with Curriculum Disentanglement Learning**|Zecheng Liu et.al.|[2208.12781v1](http://arxiv.org/abs/2208.12781v1)|null|
+|**2022-08-26**|**TFusion: Transformer based N-to-One Multimodal Fusion Block**|Zecheng Liu et.al.|[2208.12776v1](http://arxiv.org/abs/2208.12776v1)|null|
+|**2022-08-26**|**AiM: Taking Answers in Mind to Correct Chinese Cloze Tests in Educational Applications**|Yusen Zhang et.al.|[2208.12505v1](http://arxiv.org/abs/2208.12505v1)|null|
 |**2022-08-25**|**Supervised Contrastive Learning for Affect Modelling**|Kosmas Pinitas et.al.|[2208.12238v1](http://arxiv.org/abs/2208.12238v1)|**[link](https://github.com/kpinitas/supervised-contrastive-learning-for-affect-modeling)**|
 |**2022-08-25**|**Contrastive Audio-Language Learning for Music**|Ilaria Manco et.al.|[2208.12208v1](http://arxiv.org/abs/2208.12208v1)|**[link](https://github.com/ilaria-manco/muscall)**|
 |**2022-08-25**|**The ReprGesture entry to the GENEA Challenge 2022**|Sicheng Yang et.al.|[2208.12133v1](http://arxiv.org/abs/2208.12133v1)|**[link](https://github.com/YoungSeng/ReprGesture)**|
@@ -1714,6 +1721,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-25**|**A Compact Pretraining Approach for Neural Language Models**|Shahriar Golchin et.al.|[2208.12367v1](http://arxiv.org/abs/2208.12367v1)|null|
 |**2022-08-25**|**Multi-Scale Multi-Target Domain Adaptation for Angle Closure Classification**|Zhen Qiu et.al.|[2208.12157v1](http://arxiv.org/abs/2208.12157v1)|null|
 |**2022-08-25**|**Image Based Food Energy Estimation With Depth Domain Adaptation**|Gautham Vinod et.al.|[2208.12153v1](http://arxiv.org/abs/2208.12153v1)|null|
 |**2022-08-24**|**AGO-Net: Association-Guided 3D Point Cloud Object Detection Network**|Liang Du et.al.|[2208.11658v1](http://arxiv.org/abs/2208.11658v1)|null|
@@ -2307,6 +2315,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-26**|**Learning Multi-Modal Brain Tumor Segmentation from Privileged Semi-Paired MRI Images with Curriculum Disentanglement Learning**|Zecheng Liu et.al.|[2208.12781v1](http://arxiv.org/abs/2208.12781v1)|null|
+|**2022-08-26**|**Disentangle and Remerge: Interventional Knowledge Distillation for Few-Shot Object Detection from A Conditional Causal Perspective**|Jiangmeng Li et.al.|[2208.12681v1](http://arxiv.org/abs/2208.12681v1)|null|
+|**2022-08-26**|**Confusion Matrices and Accuracy Statistics for Binary Classifiers Using Unlabeled Data: The Diagnostic Test Approach**|Richard Evans et.al.|[2208.12664v1](http://arxiv.org/abs/2208.12664v1)|null|
+|**2022-08-26**|**From WSI-level to Patch-level: Structure Prior Guided Binuclear Cell Fine-grained Detection**|Baomin Wang et.al.|[2208.12623v1](http://arxiv.org/abs/2208.12623v1)|null|
+|**2022-08-26**|**Unsupervised Spike Depth Estimation via Cross-modality Cross-domain Knowledge Transfer**|Jiaming Liu et.al.|[2208.12527v1](http://arxiv.org/abs/2208.12527v1)|**[link](https://github.com/theia-4869/bicross)**|
+|**2022-08-26**|**Cross-Lingual Cross-Modal Retrieval with Noise-Robust Learning**|Yabing Wang et.al.|[2208.12526v1](http://arxiv.org/abs/2208.12526v1)|**[link](https://github.com/huiguanlab/nrccr)**|
+|**2022-08-26**|**Visual processing in context of reinforcement learning**|Hlynur Davíð Hlynsson et.al.|[2208.12525v1](http://arxiv.org/abs/2208.12525v1)|null|
+|**2022-08-26**|**Concept-Based Techniques for "Musicologist-friendly" Explanations in a Deep Music Classifier**|Francesco Foscarin et.al.|[2208.12485v1](http://arxiv.org/abs/2208.12485v1)|null|
+|**2022-08-26**|**Towards Higher-order Topological Consistency for Unsupervised Network Alignment**|Qingqiang Sun et.al.|[2208.12463v1](http://arxiv.org/abs/2208.12463v1)|null|
+|**2022-08-26**|**AutoQGS: Auto-Prompt for Low-Resource Knowledge-based Question Generation from SPARQL**|Guanming Xiong et.al.|[2208.12461v1](http://arxiv.org/abs/2208.12461v1)|**[link](https://github.com/jimxionggm/autoqgs)**|
+|**2022-08-26**|**WALOP-South: A Four-Camera One-Shot Imaging Polarimeter for PASIPHAE Survey. Paper II -- Polarimetric Modelling and Calibration**|Siddharth Maharana et.al.|[2208.12441v1](http://arxiv.org/abs/2208.12441v1)|null|
+|**2022-08-26**|**Robust Prototypical Few-Shot Organ Segmentation with Regularized Neural-ODEs**|Prashant Pandey et.al.|[2208.12428v1](http://arxiv.org/abs/2208.12428v1)|null|
+|**2022-08-26**|**MuLan: A Joint Embedding of Music Audio and Natural Language**|Qingqing Huang et.al.|[2208.12415v1](http://arxiv.org/abs/2208.12415v1)|null|
+|**2022-08-26**|**Parotid Gland MR Image Segmentation Based on Contrastive Learning**|Zi'an Xu et.al.|[2208.12413v1](http://arxiv.org/abs/2208.12413v1)|null|
+|**2022-08-26**|**Few-Shot Learning Meets Transformer: Unified Query-Support Transformers for Few-Shot Classification**|Xixi Wang et.al.|[2208.12398v1](http://arxiv.org/abs/2208.12398v1)|null|
+|**2022-08-25**|**Light-weight probing of unsupervised representations for Reinforcement Learning**|Wancong Zhang et.al.|[2208.12345v1](http://arxiv.org/abs/2208.12345v1)|**[link](https://github.com/kevinghst/lightweight_rl_probe)**|
 |**2022-08-25**|**MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining**|Xiaoyi Dong et.al.|[2208.12262v1](http://arxiv.org/abs/2208.12262v1)|null|
 |**2022-08-25**|**Contrastive Audio-Language Learning for Music**|Ilaria Manco et.al.|[2208.12208v1](http://arxiv.org/abs/2208.12208v1)|**[link](https://github.com/ilaria-manco/muscall)**|
 |**2022-08-25**|**Learning to regulate 3D head shape by removing occluding hair from in-the-wild images**|Sohan Anisetty et.al.|[2208.12078v1](http://arxiv.org/abs/2208.12078v1)|null|
@@ -4975,6 +4999,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-24**|**Prerequisite-driven Q-matrix Refinement for Learner Knowledge Assessment: A Case Study in Online Learning Context**|Wenbin Gan et.al.|[2208.12642v1](http://arxiv.org/abs/2208.12642v1)|null|
+|**2022-08-26**|**PNPCoin: Distributed Computing on Bitcoin infrastructure**|Martin Kolář et.al.|[2208.12628v1](http://arxiv.org/abs/2208.12628v1)|null|
+|**2022-08-26**|**Socially Fair Reinforcement Learning**|Debmalya Mandal et.al.|[2208.12584v1](http://arxiv.org/abs/2208.12584v1)|null|
+|**2022-08-26**|**Itemset Utility Maximization with Correlation Measure**|Jiahui Chen et.al.|[2208.12551v1](http://arxiv.org/abs/2208.12551v1)|null|
+|**2022-08-26**|**Training and Tuning Generative Neural Radiance Fields for Attribute-Conditional 3D-Aware Face Generation**|Jichao Zhang et.al.|[2208.12550v1](http://arxiv.org/abs/2208.12550v1)|**[link](https://github.com/zhangqianhui/tt-gnerf)**|
+|**2022-08-26**|**Learning From Positive and Unlabeled Data Using Observer-GAN**|Omar Zamzam et.al.|[2208.12477v1](http://arxiv.org/abs/2208.12477v1)|null|
+|**2022-08-26**|**Temporal Fuzzy Utility Maximization with Remaining Measure**|Shicheng Wan et.al.|[2208.12439v1](http://arxiv.org/abs/2208.12439v1)|null|
+|**2022-08-26**|**User-Controllable Latent Transformer for StyleGAN Image Layout Editing**|Yuki Endo et.al.|[2208.12408v1](http://arxiv.org/abs/2208.12408v1)|**[link](https://github.com/endo-yuki-t/UserControllableLT)**|
+|**2022-08-26**|**Revisit on spectral geometric mean**|Luyining Gan et.al.|[2208.12407v1](http://arxiv.org/abs/2208.12407v1)|null|
+|**2022-08-25**|**Bokeh-Loss GAN: Multi-Stage Adversarial Training for Realistic Edge-Aware Bokeh**|Brian Lee et.al.|[2208.12343v1](http://arxiv.org/abs/2208.12343v1)|null|
 |**2022-08-25**|**Adversarial Bayesian Simulation**|Yuexi Wang et.al.|[2208.12113v1](http://arxiv.org/abs/2208.12113v1)|null|
 |**2022-08-25**|**Combating Mode Collapse in GANs via Manifold Entropy Estimation**|Haozhe Liu et.al.|[2208.12055v1](http://arxiv.org/abs/2208.12055v1)|null|
 |**2022-08-25**|**Massive Data Generation for Deep Learning-aided Wireless Systems Using Meta Learning and Generative Adversarial Network**|Jinhong Kim et.al.|[2208.11910v1](http://arxiv.org/abs/2208.11910v1)|null|
