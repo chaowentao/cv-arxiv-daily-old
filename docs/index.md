@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.29
+## Updated on 2022.08.30
 
 ## SLAM
 
@@ -377,7 +377,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-08-26**|**VMFormer: End-to-End Video Matting with Transformer**|Jiachen Li et.al.|[2208.12801v1](http://arxiv.org/abs/2208.12801v1)|null|
 |**2022-08-24**|**On a Built-in Conflict between Deep Learning and Systematic Generalization**|Yuanpeng Li et.al.|[2208.11633v1](http://arxiv.org/abs/2208.11633v1)|**[link](https://github.com/yuanpeng16/bcdlsg)**|
-|**2022-08-20**|**An End-to-End OCR Framework for Robust Arabic-Handwriting Recognition using a Novel Transformers-based Model and an Innovative 270 Million-Words Multi-Font Corpus of Classical Arabic with Diacritics**|Aly Mostafa et.al.|[2208.11484v1](http://arxiv.org/abs/2208.11484v1)|null|
+|**2022-08-20**|**An End-to-End OCR Framework for Robust Arabic-Handwriting Recognition using a Novel Transformers-based Model and an Innovative 270 Million-Words Multi-Font Corpus of Classical Arabic with Diacritics**|Aly Mostafa et.al.|[2208.11484v2](http://arxiv.org/abs/2208.11484v2)|null|
 |**2022-08-24**|**A Deep Learning Approach Using Masked Image Modeling for Reconstruction of Undersampled K-spaces**|Kyler Larsen et.al.|[2208.11472v1](http://arxiv.org/abs/2208.11472v1)|**[link](https://github.com/Aopsmath99/MIMMRI)**|
 |**2022-08-24**|**Federated Self-Supervised Contrastive Learning and Masked Autoencoder for Dermatological Disease Diagnosis**|Yawen Wu et.al.|[2208.11278v1](http://arxiv.org/abs/2208.11278v1)|null|
 |**2022-08-23**|**FocusFormer: Focusing on What We Need via Architecture Sampler**|Jing Liu et.al.|[2208.10861v1](http://arxiv.org/abs/2208.10861v1)|null|
@@ -1873,7 +1873,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-08-25**|**A Compact Pretraining Approach for Neural Language Models**|Shahriar Golchin et.al.|[2208.12367v1](http://arxiv.org/abs/2208.12367v1)|null|
+|**2022-08-25**|**A Compact Pretraining Approach for Neural Language Models**|Shahriar Golchin et.al.|[2208.12367v2](http://arxiv.org/abs/2208.12367v2)|**[link](https://github.com/shahriargolchin/compact-pretraining)**|
 |**2022-08-25**|**Multi-Scale Multi-Target Domain Adaptation for Angle Closure Classification**|Zhen Qiu et.al.|[2208.12157v1](http://arxiv.org/abs/2208.12157v1)|null|
 |**2022-08-25**|**Image Based Food Energy Estimation With Depth Domain Adaptation**|Gautham Vinod et.al.|[2208.12153v1](http://arxiv.org/abs/2208.12153v1)|null|
 |**2022-08-24**|**AGO-Net: Association-Guided 3D Point Cloud Object Detection Network**|Liang Du et.al.|[2208.11658v1](http://arxiv.org/abs/2208.11658v1)|null|
@@ -1883,7 +1883,7 @@ layout: default
 |**2022-08-23**|**Threshold-adaptive Unsupervised Focal Loss for Domain Adaptation of Semantic Segmentation**|Weihao Yan et.al.|[2208.10716v1](http://arxiv.org/abs/2208.10716v1)|**[link](https://github.com/ywher/TUFL)**|
 |**2022-08-22**|**Toward Better Target Representation for Source-Free and Black-Box Domain Adaptation**|Qucheng Peng et.al.|[2208.10531v1](http://arxiv.org/abs/2208.10531v1)|null|
 |**2022-08-21**|**MentorGNN: Deriving Curriculum for Pre-Training GNNs**|Dawei Zhou et.al.|[2208.09905v1](http://arxiv.org/abs/2208.09905v1)|null|
-|**2022-08-21**|**Depth-Assisted ResiDualGAN for Cross-Domain Aerial Images Semantic Segmentation**|Yang Zhao et.al.|[2208.09823v1](http://arxiv.org/abs/2208.09823v1)|**[link](https://github.com/miemieyanga/ResiDualGAN-DRDG)**|
+|**2022-08-21**|**Depth-Assisted ResiDualGAN for Cross-Domain Aerial Images Semantic Segmentation**|Yang Zhao et.al.|[2208.09823v2](http://arxiv.org/abs/2208.09823v2)|**[link](https://github.com/miemieyanga/ResiDualGAN-DRDG)**|
 |**2022-08-20**|**General-to-Specific Transfer Labeling for Domain Adaptable Keyphrase Generation**|Rui Meng et.al.|[2208.09606v1](http://arxiv.org/abs/2208.09606v1)|null|
 |**2022-08-20**|**Contrastive Domain Adaptation for Early Misinformation Detection: A Case Study on COVID-19**|Zhenrui Yue et.al.|[2208.09578v1](http://arxiv.org/abs/2208.09578v1)|null|
 |**2022-08-19**|**A Physics-based Domain Adaptation framework for modelling and forecasting building energy systems**|Zack Xuereb Conti et.al.|[2208.09456v1](http://arxiv.org/abs/2208.09456v1)|null|
@@ -2474,7 +2474,7 @@ layout: default
 |**2022-08-26**|**Unsupervised Spike Depth Estimation via Cross-modality Cross-domain Knowledge Transfer**|Jiaming Liu et.al.|[2208.12527v1](http://arxiv.org/abs/2208.12527v1)|**[link](https://github.com/theia-4869/bicross)**|
 |**2022-08-26**|**Cross-Lingual Cross-Modal Retrieval with Noise-Robust Learning**|Yabing Wang et.al.|[2208.12526v1](http://arxiv.org/abs/2208.12526v1)|**[link](https://github.com/huiguanlab/nrccr)**|
 |**2022-08-26**|**Visual processing in context of reinforcement learning**|Hlynur Davíð Hlynsson et.al.|[2208.12525v1](http://arxiv.org/abs/2208.12525v1)|null|
-|**2022-08-26**|**Concept-Based Techniques for "Musicologist-friendly" Explanations in a Deep Music Classifier**|Francesco Foscarin et.al.|[2208.12485v1](http://arxiv.org/abs/2208.12485v1)|null|
+|**2022-08-26**|**Concept-Based Techniques for "Musicologist-friendly" Explanations in a Deep Music Classifier**|Francesco Foscarin et.al.|[2208.12485v2](http://arxiv.org/abs/2208.12485v2)|null|
 |**2022-08-26**|**Towards Higher-order Topological Consistency for Unsupervised Network Alignment**|Qingqiang Sun et.al.|[2208.12463v1](http://arxiv.org/abs/2208.12463v1)|null|
 |**2022-08-26**|**AutoQGS: Auto-Prompt for Low-Resource Knowledge-based Question Generation from SPARQL**|Guanming Xiong et.al.|[2208.12461v1](http://arxiv.org/abs/2208.12461v1)|**[link](https://github.com/jimxionggm/autoqgs)**|
 |**2022-08-26**|**WALOP-South: A Four-Camera One-Shot Imaging Polarimeter for PASIPHAE Survey. Paper II -- Polarimetric Modelling and Calibration**|Siddharth Maharana et.al.|[2208.12441v1](http://arxiv.org/abs/2208.12441v1)|null|
