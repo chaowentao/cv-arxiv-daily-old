@@ -1,4 +1,4 @@
-## Updated on 2022.08.30
+## Updated on 2022.08.31
 
 ## Image Generation
 
@@ -241,7 +241,7 @@
 |**2022-08-19**|**Accelerating Vision Transformer Training via a Patch Sampling Schedule**|Bradley McDanel et.al.|[2208.09520v1](http://arxiv.org/abs/2208.09520v1)|**[link](https://github.com/bradmcdanel/pss)**|
 |**2022-08-18**|**The 8-Point Algorithm as an Inductive Bias for Relative Pose Prediction by ViTs**|Chris Rockwell et.al.|[2208.08988v1](http://arxiv.org/abs/2208.08988v1)|null|
 |**2022-08-18**|**Prompt Vision Transformer for Domain Generalization**|Zangwei Zheng et.al.|[2208.08914v1](http://arxiv.org/abs/2208.08914v1)|null|
-|**2022-08-17**|**Conviformers: Convolutionally guided Vision Transformer**|Mohit Vaishnav et.al.|[2208.08900v1](http://arxiv.org/abs/2208.08900v1)|**[link](https://github.com/vaishnavmohit/Conviformer)**|
+|**2022-08-17**|**Conviformers: Convolutionally guided Vision Transformer**|Mohit Vaishnav et.al.|[2208.08900v2](http://arxiv.org/abs/2208.08900v2)|**[link](https://github.com/vaishnavmohit/Conviformer)**|
 |**2022-08-17**|**Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation**|Chengxi Zeng et.al.|[2208.08315v3](http://arxiv.org/abs/2208.08315v3)|**[link](https://github.com/simonzeng7108/video-transunet)**|
 |**2022-08-17**|**Transformer Vs. MLP-Mixer Exponential Expressive Gap For NLP Problems**|Dan Navon et.al.|[2208.08191v1](http://arxiv.org/abs/2208.08191v1)|null|
 |**2022-08-17**|**Data-Efficient Vision Transformers for Multi-Label Disease Classification on Chest Radiographs**|Finn Behrendt et.al.|[2208.08166v1](http://arxiv.org/abs/2208.08166v1)|null|
@@ -2340,7 +2340,7 @@
 |**2022-08-29**|**Turn-Taking Prediction for Natural Conversational Speech**|Shuo-yiin Chang et.al.|[2208.13321v1](http://arxiv.org/abs/2208.13321v1)|null|
 |**2022-08-28**|**Contrastive Feature Learning for Fault Detection and Diagnostics in Railway Applications**|Katharina Rombach et.al.|[2208.13288v1](http://arxiv.org/abs/2208.13288v1)|null|
 |**2022-08-28**|**Unsupervised diffeomorphic cardiac image registration using parameterization of the deformation field**|Ameneh Sheikhjafari et.al.|[2208.13275v1](http://arxiv.org/abs/2208.13275v1)|null|
-|**2022-08-28**|**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**|Kaizhi Zheng et.al.|[2208.13266v1](http://arxiv.org/abs/2208.13266v1)|null|
+|**2022-08-28**|**JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents**|Kaizhi Zheng et.al.|[2208.13266v2](http://arxiv.org/abs/2208.13266v2)|null|
 |**2022-08-28**|**Towards Accurate Reconstruction of 3D Scene Shape from A Single Monocular Image**|Wei Yin et.al.|[2208.13241v1](http://arxiv.org/abs/2208.13241v1)|null|
 |**2022-08-28**|**Learning Heterogeneous Interaction Strengths by Trajectory Prediction with Graph Neural Network**|Seungwoong Ha et.al.|[2208.13179v1](http://arxiv.org/abs/2208.13179v1)|**[link](https://github.com/nokpil/rain)**|
 |**2022-08-28**|**RUAD: unsupervised anomaly detection in HPC systems**|Martin Molan et.al.|[2208.13169v1](http://arxiv.org/abs/2208.13169v1)|null|
@@ -2349,7 +2349,7 @@
 |**2022-08-27**|**On Unsupervised Training of Link Grammar Based Language Models**|Nikolay Mikhaylovskiy et.al.|[2208.13021v1](http://arxiv.org/abs/2208.13021v1)|null|
 |**2022-08-27**|**Deep Kernel Learning of Dynamical Models from High-Dimensional Noisy Data**|Nicolò Botteghi et.al.|[2208.12975v1](http://arxiv.org/abs/2208.12975v1)|null|
 |**2022-08-27**|**Conditional investment strategy in evolutionary trust games with repeated group interactions**|Linjie Liu et.al.|[2208.12953v1](http://arxiv.org/abs/2208.12953v1)|null|
-|**2022-08-26**|**Building the Intent Landscape of Real-World Conversational Corpora with Extractive Question-Answering Transformers**|Jean-Philippe Corbeil et.al.|[2208.12886v1](http://arxiv.org/abs/2208.12886v1)|null|
+|**2022-08-26**|**Building the Intent Landscape of Real-World Conversational Corpora with Extractive Question-Answering Transformers**|Jean-Philippe Corbeil et.al.|[2208.12886v2](http://arxiv.org/abs/2208.12886v2)|null|
 |**2022-08-26**|**Learning Multi-Modal Brain Tumor Segmentation from Privileged Semi-Paired MRI Images with Curriculum Disentanglement Learning**|Zecheng Liu et.al.|[2208.12781v1](http://arxiv.org/abs/2208.12781v1)|null|
 |**2022-08-26**|**Disentangle and Remerge: Interventional Knowledge Distillation for Few-Shot Object Detection from A Conditional Causal Perspective**|Jiangmeng Li et.al.|[2208.12681v1](http://arxiv.org/abs/2208.12681v1)|null|
 |**2022-08-26**|**Confusion Matrices and Accuracy Statistics for Binary Classifiers Using Unlabeled Data: The Diagnostic Test Approach**|Richard Evans et.al.|[2208.12664v1](http://arxiv.org/abs/2208.12664v1)|null|
