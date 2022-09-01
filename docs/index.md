@@ -219,6 +219,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-31**|**High fidelity generation of complex optical field through scattering medium with iterative wavefront optimization**|Hui Liu et.al.|[2208.14836v1](http://arxiv.org/abs/2208.14836v1)|null|
 |**2022-08-26**|**SOFFLFM: Super-resolution optical fluctuation Fourier light-field microscopy**|Haixin Huang et.al.|[2208.12599v1](http://arxiv.org/abs/2208.12599v1)|null|
 |**2022-08-25**|**VEViD: Vision Enhancement via Virtual diffraction and coherent Detection**|Callen MacPhee et.al.|[2208.12366v1](http://arxiv.org/abs/2208.12366v1)|null|
 |**2022-08-24**|**AutoDeconJ: a GPU accelerated ImageJ plugin for 3D light field deconvolution with optimal iteration numbers predicting**|C. Q. Su et.al.|[2208.11422v1](http://arxiv.org/abs/2208.11422v1)|null|
@@ -376,6 +377,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-31**|**EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing**|Qihua Feng et.al.|[2208.14657v1](http://arxiv.org/abs/2208.14657v1)|null|
+|**2022-08-31**|**SIM-Trans: Structure Information Modeling Transformer for Fine-grained Visual Categorization**|Hongbo Sun et.al.|[2208.14607v1](http://arxiv.org/abs/2208.14607v1)|**[link](https://github.com/pku-icst-mipl/sim-trans_acmmm2022)**|
 |**2022-08-29**|**Open-Set Semi-Supervised Object Detection**|Yen-Cheng Liu et.al.|[2208.13722v1](http://arxiv.org/abs/2208.13722v1)|null|
 |**2022-08-28**|**An Unsupervised Learning-based Framework for Effective Representation Extraction of Reactor Accidents**|Chengyuan Li et.al.|[2208.13147v1](http://arxiv.org/abs/2208.13147v1)|null|
 |**2022-08-28**|**ClusTR: Exploring Efficient Self-attention via Clustering for Vision Transformers**|Yutong Xie et.al.|[2208.13138v1](http://arxiv.org/abs/2208.13138v1)|null|
@@ -1047,6 +1050,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-31**|**GRILLBot: An Assistant for Real-World Tasks with Neural Semantic Parsing and Graph-Based Representations**|Carlos Gemmell et.al.|[2208.14884v1](http://arxiv.org/abs/2208.14884v1)|null|
 |**2022-08-30**|**GaitFi: Robust Device-Free Human Identification via WiFi and Vision Multimodal Learning**|Lang Deng et.al.|[2208.14326v1](http://arxiv.org/abs/2208.14326v1)|null|
 |**2022-08-29**|**Tackling Multimodal Device Distributions in Inverse Photonic Design using Invertible Neural Networks**|Michel Frising et.al.|[2208.14212v1](http://arxiv.org/abs/2208.14212v1)|null|
 |**2022-08-30**|**Exploring the Role of Electro-Tactile and Kinesthetic Feedback in Telemanipulation Task**|Daria Trinitatova et.al.|[2208.14180v1](http://arxiv.org/abs/2208.14180v1)|null|
@@ -1888,6 +1892,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-31**|**Feature Alignment by Uncertainty and Self-Training for Source-Free Unsupervised Domain Adaptation**|JoonHo Lee et.al.|[2208.14888v1](http://arxiv.org/abs/2208.14888v1)|null|
+|**2022-08-31**|**Domain Shift-oriented Machine Anomalous Sound Detection Model Based on Self-Supervised Learning**|Jing-ke Yan et.al.|[2208.14812v1](http://arxiv.org/abs/2208.14812v1)|null|
+|**2022-08-31**|**Transfering Low-Frequency Features for Domain Adaptation**|Zhaowen Li et.al.|[2208.14706v1](http://arxiv.org/abs/2208.14706v1)|null|
+|**2022-08-31**|**AWADA: Attention-Weighted Adversarial Domain Adaptation for Object Detection**|Maximilian Menke et.al.|[2208.14662v1](http://arxiv.org/abs/2208.14662v1)|null|
+|**2022-08-31**|**Segmentation-guided Domain Adaptation and Data Harmonization of Multi-device Retinal Optical Coherence Tomography using Cycle-Consistent Generative Adversarial Networks**|Shuo Chen et.al.|[2208.14635v1](http://arxiv.org/abs/2208.14635v1)|null|
+|**2022-08-31**|**Few-shot Adaptive Object Detection with Cross-Domain CutMix**|Yuzuru Nakamura et.al.|[2208.14586v1](http://arxiv.org/abs/2208.14586v1)|null|
 |**2022-08-27**|**CLUDA : Contrastive Learning in Unsupervised Domain Adaptation for Semantic Segmentation**|Midhun Vayyat et.al.|[2208.14227v1](http://arxiv.org/abs/2208.14227v1)|null|
 |**2022-08-30**|**Identifying Latent Causal Content for Multi-Source Domain Adaptation**|Yuhang Liu et.al.|[2208.14161v1](http://arxiv.org/abs/2208.14161v1)|null|
 |**2022-08-30**|**Sim-to-Real Transfer of Robotic Assembly with Visual Inputs Using CycleGAN and Force Control**|Chengjie Yuan et.al.|[2208.14104v1](http://arxiv.org/abs/2208.14104v1)|null|
@@ -2493,6 +2503,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-31**|**Few-Shot Learning for Clinical Natural Language Processing Using Siamese Neural Networks**|David Oniani et.al.|[2208.14923v1](http://arxiv.org/abs/2208.14923v1)|null|
+|**2022-08-31**|**LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**|Jihye Park et.al.|[2208.14889v1](http://arxiv.org/abs/2208.14889v1)|**[link](https://github.com/KU-CVLAB/LANIT)**|
+|**2022-08-31**|**Feature Alignment by Uncertainty and Self-Training for Source-Free Unsupervised Domain Adaptation**|JoonHo Lee et.al.|[2208.14888v1](http://arxiv.org/abs/2208.14888v1)|null|
+|**2022-08-31**|**Binary Representation via Jointly Personalized Sparse Hashing**|Xiaoqin Wang et.al.|[2208.14883v1](http://arxiv.org/abs/2208.14883v1)|null|
+|**2022-08-31**|**Automatic Identification of Coal and Rock/Gangue Based on DenseNet and Gaussian Process**|Yufan Li et.al.|[2208.14871v1](http://arxiv.org/abs/2208.14871v1)|null|
+|**2022-08-31**|**Deep Anomaly Detection and Search via Reinforcement Learning**|Chao Chen et.al.|[2208.14834v1](http://arxiv.org/abs/2208.14834v1)|null|
+|**2022-08-31**|**Predicting Flaky Tests Categories using Few-Shot Learning**|Amal Akli et.al.|[2208.14799v1](http://arxiv.org/abs/2208.14799v1)|null|
+|**2022-08-31**|**LexMAE: Lexicon-Bottlenecked Pretraining for Large-Scale Retrieval**|Tao Shen et.al.|[2208.14754v1](http://arxiv.org/abs/2208.14754v1)|null|
+|**2022-08-31**|**Transfering Low-Frequency Features for Domain Adaptation**|Zhaowen Li et.al.|[2208.14706v1](http://arxiv.org/abs/2208.14706v1)|null|
+|**2022-08-31**|**NeurIPS'22 Cross-Domain MetaDL competition: Design and baseline results**|Dustin Carrión-Ojeda et.al.|[2208.14686v1](http://arxiv.org/abs/2208.14686v1)|null|
+|**2022-08-31**|**AWADA: Attention-Weighted Adversarial Domain Adaptation for Object Detection**|Maximilian Menke et.al.|[2208.14662v1](http://arxiv.org/abs/2208.14662v1)|null|
+|**2022-08-31**|**EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing**|Qihua Feng et.al.|[2208.14657v1](http://arxiv.org/abs/2208.14657v1)|null|
+|**2022-08-31**|**Few-shot Adaptive Object Detection with Cross-Domain CutMix**|Yuzuru Nakamura et.al.|[2208.14586v1](http://arxiv.org/abs/2208.14586v1)|null|
+|**2022-08-30**|**TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos**|Soufiane Belharbi et.al.|[2208.14542v1](http://arxiv.org/abs/2208.14542v1)|**[link](https://github.com/sbelharbi/tcam-wsol-video)**|
+|**2022-08-30**|**Constraining Representations Yields Models That Know What They Don't Know**|Joao Monteiro et.al.|[2208.14488v1](http://arxiv.org/abs/2208.14488v1)|null|
 |**2022-08-30**|**AutoWS-Bench-101: Benchmarking Automated Weak Supervision with 100 Labels**|Nicholas Roberts et.al.|[2208.14362v1](http://arxiv.org/abs/2208.14362v1)|null|
 |**2022-08-30**|**Denoising Architecture for Unsupervised Anomaly Detection in Time-Series**|Wadie Skaf et.al.|[2208.14337v1](http://arxiv.org/abs/2208.14337v1)|null|
 |**2022-08-30**|**Beyond Supervised Continual Learning: a Review**|Benedikt Bagus et.al.|[2208.14307v1](http://arxiv.org/abs/2208.14307v1)|null|
@@ -5075,6 +5100,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-31**|**Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces**|Yihao Zhi et.al.|[2208.14851v1](http://arxiv.org/abs/2208.14851v1)|**[link](https://github.com/zyhbili/Dual-Space-NeRF)**|
 |**2022-08-30**|**A Portable Multiscopic Camera for Novel View and Time Synthesis in Dynamic Scenes**|Tianjia Zhang et.al.|[2208.14433v1](http://arxiv.org/abs/2208.14433v1)|null|
 |**2022-08-24**|**PeRFception: Perception using Radiance Fields**|Yoonwoo Jeong et.al.|[2208.11537v1](http://arxiv.org/abs/2208.11537v1)|**[link](https://github.com/POSTECH-CVLab/PeRFception)**|
 |**2022-08-24**|**E-NeRF: Neural Radiance Fields from a Moving Event Camera**|Simon Klenk et.al.|[2208.11300v1](http://arxiv.org/abs/2208.11300v1)|null|
@@ -5208,6 +5234,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-31**|**AWADA: Attention-Weighted Adversarial Domain Adaptation for Object Detection**|Maximilian Menke et.al.|[2208.14662v1](http://arxiv.org/abs/2208.14662v1)|null|
+|**2022-08-30**|**Lesion-Specific Prediction with Discriminator-Based Supervised Guided Attention Module Enabled GANs in Multiple Sclerosis**|Jueqi Wang et.al.|[2208.14533v1](http://arxiv.org/abs/2208.14533v1)|null|
 |**2022-08-30**|**Controllable 3D Generative Adversarial Face Model via Disentangling Shape and Appearance**|Fariborz Taherkhani et.al.|[2208.14263v1](http://arxiv.org/abs/2208.14263v1)|**[link](https://github.com/aashishrai3799/3DFaceCAM)**|
 |**2022-08-27**|**A Generic Algorithm for Top-K On-Shelf Utility Mining**|Jiahui Chen et.al.|[2208.14230v1](http://arxiv.org/abs/2208.14230v1)|null|
 |**2022-08-30**|**Airway measurement by refinement of synthetic images improves mortality prediction in idiopathic pulmonary fibrosis**|Ashkan Pakzad et.al.|[2208.14141v1](http://arxiv.org/abs/2208.14141v1)|null|
