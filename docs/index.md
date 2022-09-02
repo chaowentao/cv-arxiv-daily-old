@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.01
+## Updated on 2022.09.02
 
 ## SLAM
 
@@ -5242,7 +5242,7 @@ layout: default
 |**2022-08-29**|**Deformable Image Registration using Unsupervised Deep Learning for CBCT-guided Abdominal Radiotherapy**|Huiqiao Xie et.al.|[2208.13686v1](http://arxiv.org/abs/2208.13686v1)|null|
 |**2022-08-29**|**Chosen methods of improving object recognition of small objects with weak recognizable features**|Magdalena Stachoń et.al.|[2208.13591v1](http://arxiv.org/abs/2208.13591v1)|null|
 |**2022-08-29**|**Porous Semiconductors: Growth and Applications**|Colm O'Dwyer et.al.|[2208.13466v1](http://arxiv.org/abs/2208.13466v1)|null|
-|**2022-08-27**|**On GANs perpetuating biases for face verification**|Sasikanth Kotti et.al.|[2208.13061v1](http://arxiv.org/abs/2208.13061v1)|null|
+|**2022-08-27**|**On Biased Behavior of GANs for Face Verification**|Sasikanth Kotti et.al.|[2208.13061v2](http://arxiv.org/abs/2208.13061v2)|null|
 |**2022-08-27**|**Emergent Spatial Characteristics from Strategic Games Simulated on Random and Real Networks**|Louis Zhao et.al.|[2208.13059v1](http://arxiv.org/abs/2208.13059v1)|null|
 |**2022-08-27**|**Zero Forcing with Random Sets**|Bryan Curtis et.al.|[2208.12899v1](http://arxiv.org/abs/2208.12899v1)|null|
 |**2022-08-24**|**Prerequisite-driven Q-matrix Refinement for Learner Knowledge Assessment: A Case Study in Online Learning Context**|Wenbin Gan et.al.|[2208.12642v1](http://arxiv.org/abs/2208.12642v1)|null|
