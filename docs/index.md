@@ -219,6 +219,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-01**|**Conservation of a Half-Integer Angular Momentum in Nonlinear Optics with a Polarization Möbius Strip**|Martin Luttmann et.al.|[2209.00454v1](http://arxiv.org/abs/2209.00454v1)|null|
 |**2022-08-31**|**High fidelity generation of complex optical field through scattering medium with iterative wavefront optimization**|Hui Liu et.al.|[2208.14836v1](http://arxiv.org/abs/2208.14836v1)|null|
 |**2022-08-26**|**SOFFLFM: Super-resolution optical fluctuation Fourier light-field microscopy**|Haixin Huang et.al.|[2208.12599v1](http://arxiv.org/abs/2208.12599v1)|null|
 |**2022-08-25**|**VEViD: Vision Enhancement via Virtual diffraction and coherent Detection**|Callen MacPhee et.al.|[2208.12366v1](http://arxiv.org/abs/2208.12366v1)|null|
@@ -893,6 +894,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-01**|**Optimising 2D Pose Representation: Improve Accuracy, Stability and Generalisability Within Unsupervised 2D-3D Human Pose Estimation**|Peter Hardy et.al.|[2209.00618v1](http://arxiv.org/abs/2209.00618v1)|null|
 |**2022-08-27**|**Learning to SLAM on the Fly in Unknown Environments: A Continual Learning Approach for Drones in Visually Ambiguous Scenes**|Ali Safa et.al.|[2208.12997v1](http://arxiv.org/abs/2208.12997v1)|null|
 |**2022-08-25**|**FusePose: IMU-Vision Sensor Fusion in Kinematic Space for Parametric Human Pose Estimation**|Yiming Bao et.al.|[2208.11960v1](http://arxiv.org/abs/2208.11960v1)|null|
 |**2022-08-23**|**ZoomNAS: Searching for Whole-body Human Pose Estimation in the Wild**|Lumin Xu et.al.|[2208.11547v1](http://arxiv.org/abs/2208.11547v1)|**[link](https://github.com/jin-s13/COCO-WholeBody)**|
@@ -1050,6 +1052,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-01**|**Progressive Fusion for Multimodal Integration**|Shiv Shankar et.al.|[2209.00302v1](http://arxiv.org/abs/2209.00302v1)|null|
+|**2022-08-31**|**Class-Aware Attention for Multimodal Trajectory Prediction**|Bimsara Pathiraja et.al.|[2209.00062v1](http://arxiv.org/abs/2209.00062v1)|null|
 |**2022-08-31**|**GRILLBot: An Assistant for Real-World Tasks with Neural Semantic Parsing and Graph-Based Representations**|Carlos Gemmell et.al.|[2208.14884v1](http://arxiv.org/abs/2208.14884v1)|null|
 |**2022-08-30**|**GaitFi: Robust Device-Free Human Identification via WiFi and Vision Multimodal Learning**|Lang Deng et.al.|[2208.14326v1](http://arxiv.org/abs/2208.14326v1)|null|
 |**2022-08-29**|**Tackling Multimodal Device Distributions in Inverse Photonic Design using Invertible Neural Networks**|Michel Frising et.al.|[2208.14212v1](http://arxiv.org/abs/2208.14212v1)|null|
@@ -2503,6 +2507,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-01**|**Optimising 2D Pose Representation: Improve Accuracy, Stability and Generalisability Within Unsupervised 2D-3D Human Pose Estimation**|Peter Hardy et.al.|[2209.00618v1](http://arxiv.org/abs/2209.00618v1)|null|
+|**2022-09-01**|**Unsupervised Simplification of Legal Texts**|Mert Cemri et.al.|[2209.00557v1](http://arxiv.org/abs/2209.00557v1)|null|
+|**2022-09-01**|**A New Knowledge Distillation Network for Incremental Few-Shot Surface Defect Detection**|Chen Sun et.al.|[2209.00519v1](http://arxiv.org/abs/2209.00519v1)|null|
+|**2022-09-01**|**TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transformer and Normalized Cut**|Yangtao Wang et.al.|[2209.00383v1](http://arxiv.org/abs/2209.00383v1)|null|
+|**2022-09-01**|**Learning Generative Embeddings using an Optimal Subsampling Policy for Tensor Sketching**|Chandrajit Bajaj et.al.|[2209.00372v1](http://arxiv.org/abs/2209.00372v1)|null|
+|**2022-09-01**|**Find the Funding: Entity Linking with Incomplete Funding Knowledge Bases**|Gizem Aydin et.al.|[2209.00351v1](http://arxiv.org/abs/2209.00351v1)|null|
+|**2022-09-01**|**Unsupervised EHR-based Phenotyping via Matrix and Tensor Decompositions**|Florian Becker et.al.|[2209.00322v1](http://arxiv.org/abs/2209.00322v1)|null|
+|**2022-09-01**|**Isotropic Representation Can Improve Dense Retrieval**|Euna Jung et.al.|[2209.00218v1](http://arxiv.org/abs/2209.00218v1)|null|
+|**2022-08-31**|**The Fellowship of the Authors: Disambiguating Names from Social Network Context**|Ryan Muther et.al.|[2209.00133v1](http://arxiv.org/abs/2209.00133v1)|null|
+|**2022-08-31**|**Supervised Contrastive Learning with Hard Negative Samples**|Ruijie Jiang et.al.|[2209.00078v1](http://arxiv.org/abs/2209.00078v1)|null|
 |**2022-08-31**|**Few-Shot Learning for Clinical Natural Language Processing Using Siamese Neural Networks**|David Oniani et.al.|[2208.14923v1](http://arxiv.org/abs/2208.14923v1)|null|
 |**2022-08-31**|**LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**|Jihye Park et.al.|[2208.14889v1](http://arxiv.org/abs/2208.14889v1)|**[link](https://github.com/KU-CVLAB/LANIT)**|
 |**2022-08-31**|**Feature Alignment by Uncertainty and Self-Training for Source-Free Unsupervised Domain Adaptation**|JoonHo Lee et.al.|[2208.14888v1](http://arxiv.org/abs/2208.14888v1)|null|
@@ -5234,6 +5248,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-01**|**Properties and device performance of BN thin films grown on GaN by pulsed laser deposition**|Abhijit Biswas et.al.|[2209.00643v1](http://arxiv.org/abs/2209.00643v1)|null|
+|**2022-09-01**|**Lip-to-Speech Synthesis for Arbitrary Speakers in the Wild**|Sindhu B Hegde et.al.|[2209.00642v1](http://arxiv.org/abs/2209.00642v1)|null|
+|**2022-09-01**|**Fair mapping**|Sébastien Gambs et.al.|[2209.00617v1](http://arxiv.org/abs/2209.00617v1)|null|
+|**2022-09-01**|**REMOT: A Region-to-Whole Framework for Realistic Human Motion Transfer**|Quanwei Yang et.al.|[2209.00475v1](http://arxiv.org/abs/2209.00475v1)|null|
+|**2022-09-01**|**On the detection of morphing attacks generated by GANs**|Laurent Colbois et.al.|[2209.00404v1](http://arxiv.org/abs/2209.00404v1)|null|
+|**2022-09-01**|**Gait Recognition in the Wild with Multi-hop Temporal Switch**|Jinkai Zheng et.al.|[2209.00355v1](http://arxiv.org/abs/2209.00355v1)|null|
 |**2022-08-31**|**AWADA: Attention-Weighted Adversarial Domain Adaptation for Object Detection**|Maximilian Menke et.al.|[2208.14662v1](http://arxiv.org/abs/2208.14662v1)|null|
 |**2022-08-30**|**Lesion-Specific Prediction with Discriminator-Based Supervised Guided Attention Module Enabled GANs in Multiple Sclerosis**|Jueqi Wang et.al.|[2208.14533v1](http://arxiv.org/abs/2208.14533v1)|null|
 |**2022-08-30**|**Controllable 3D Generative Adversarial Face Model via Disentangling Shape and Appearance**|Fariborz Taherkhani et.al.|[2208.14263v1](http://arxiv.org/abs/2208.14263v1)|**[link](https://github.com/aashishrai3799/3DFaceCAM)**|
@@ -6287,6 +6307,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-01**|**Gait Recognition in the Wild with Multi-hop Temporal Switch**|Jinkai Zheng et.al.|[2209.00355v1](http://arxiv.org/abs/2209.00355v1)|null|
 |**2022-08-30**|**GaitFi: Robust Device-Free Human Identification via WiFi and Vision Multimodal Learning**|Lang Deng et.al.|[2208.14326v1](http://arxiv.org/abs/2208.14326v1)|null|
 |**2022-08-02**|**GaitGL: Learning Discriminative Global-Local Feature Representations for Gait Recognition**|Beibei Lin et.al.|[2208.01380v1](http://arxiv.org/abs/2208.01380v1)|**[link](https://github.com/bb12346/gaitgl)**|
 |**2022-07-24**|**Progressive Feature Learning for Realistic Cloth-Changing Gait Recognition**|Xuqian Ren et.al.|[2207.11720v1](http://arxiv.org/abs/2207.11720v1)|null|
