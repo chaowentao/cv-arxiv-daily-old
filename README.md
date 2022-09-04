@@ -1,4 +1,4 @@
-## Updated on 2022.09.03
+## Updated on 2022.09.04
 
 ## Image Generation
 
@@ -2364,7 +2364,7 @@
 |**2022-09-01**|**Unsupervised EHR-based Phenotyping via Matrix and Tensor Decompositions**|Florian Becker et.al.|[2209.00322v1](http://arxiv.org/abs/2209.00322v1)|null|
 |**2022-09-01**|**Isotropic Representation Can Improve Dense Retrieval**|Euna Jung et.al.|[2209.00218v1](http://arxiv.org/abs/2209.00218v1)|null|
 |**2022-08-31**|**The Fellowship of the Authors: Disambiguating Names from Social Network Context**|Ryan Muther et.al.|[2209.00133v1](http://arxiv.org/abs/2209.00133v1)|null|
-|**2022-08-31**|**Supervised Contrastive Learning with Hard Negative Samples**|Ruijie Jiang et.al.|[2209.00078v1](http://arxiv.org/abs/2209.00078v1)|null|
+|**2022-08-31**|**Supervised Contrastive Learning with Hard Negative Samples**|Ruijie Jiang et.al.|[2209.00078v1](http://arxiv.org/abs/2209.00078v1)|**[link](https://github.com/rjiang03/h-scl)**|
 |**2022-08-31**|**Few-Shot Learning for Clinical Natural Language Processing Using Siamese Neural Networks**|David Oniani et.al.|[2208.14923v1](http://arxiv.org/abs/2208.14923v1)|null|
 |**2022-08-31**|**LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**|Jihye Park et.al.|[2208.14889v1](http://arxiv.org/abs/2208.14889v1)|**[link](https://github.com/KU-CVLAB/LANIT)**|
 |**2022-08-31**|**Feature Alignment by Uncertainty and Self-Training for Source-Free Unsupervised Domain Adaptation**|JoonHo Lee et.al.|[2208.14888v1](http://arxiv.org/abs/2208.14888v1)|null|
