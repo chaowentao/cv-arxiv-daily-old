@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.04
+## Updated on 2022.09.05
 
 ## SLAM
 
@@ -219,7 +219,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-09-01**|**Conservation of a Half-Integer Angular Momentum in Nonlinear Optics with a Polarization Möbius Strip**|Martin Luttmann et.al.|[2209.00454v1](http://arxiv.org/abs/2209.00454v1)|null|
+|**2022-09-01**|**Conservation of a Half-Integer Angular Momentum in Nonlinear Optics with a Polarization Möbius Strip**|Martin Luttmann et.al.|[2209.00454v2](http://arxiv.org/abs/2209.00454v2)|null|
 |**2022-08-31**|**High fidelity generation of complex optical field through scattering medium with iterative wavefront optimization**|Hui Liu et.al.|[2208.14836v1](http://arxiv.org/abs/2208.14836v1)|null|
 |**2022-08-26**|**SOFFLFM: Super-resolution optical fluctuation Fourier light-field microscopy**|Haixin Huang et.al.|[2208.12599v1](http://arxiv.org/abs/2208.12599v1)|null|
 |**2022-08-25**|**VEViD: Vision Enhancement via Virtual diffraction and coherent Detection**|Callen MacPhee et.al.|[2208.12366v1](http://arxiv.org/abs/2208.12366v1)|null|
@@ -1065,7 +1065,7 @@ layout: default
 |**2022-08-29**|**Correlated frequency noise in a multimode acoustic resonator induced by two-level systems and ionizing radiation**|Nuttamas Tubsrinuan et.al.|[2208.13410v1](http://arxiv.org/abs/2208.13410v1)|null|
 |**2022-08-26**|**Learning Multi-Modal Brain Tumor Segmentation from Privileged Semi-Paired MRI Images with Curriculum Disentanglement Learning**|Zecheng Liu et.al.|[2208.12781v1](http://arxiv.org/abs/2208.12781v1)|null|
 |**2022-08-26**|**TFusion: Transformer based N-to-One Multimodal Fusion Block**|Zecheng Liu et.al.|[2208.12776v1](http://arxiv.org/abs/2208.12776v1)|null|
-|**2022-08-26**|**AiM: Taking Answers in Mind to Correct Chinese Cloze Tests in Educational Applications**|Yusen Zhang et.al.|[2208.12505v1](http://arxiv.org/abs/2208.12505v1)|null|
+|**2022-08-26**|**AiM: Taking Answers in Mind to Correct Chinese Cloze Tests in Educational Applications**|Yusen Zhang et.al.|[2208.12505v1](http://arxiv.org/abs/2208.12505v1)|**[link](https://github.com/yusenzhang826/aim)**|
 |**2022-08-25**|**Supervised Contrastive Learning for Affect Modelling**|Kosmas Pinitas et.al.|[2208.12238v1](http://arxiv.org/abs/2208.12238v1)|**[link](https://github.com/kpinitas/supervised-contrastive-learning-for-affect-modeling)**|
 |**2022-08-25**|**Contrastive Audio-Language Learning for Music**|Ilaria Manco et.al.|[2208.12208v1](http://arxiv.org/abs/2208.12208v1)|**[link](https://github.com/ilaria-manco/muscall)**|
 |**2022-08-25**|**The ReprGesture entry to the GENEA Challenge 2022**|Sicheng Yang et.al.|[2208.12133v1](http://arxiv.org/abs/2208.12133v1)|**[link](https://github.com/YoungSeng/ReprGesture)**|
@@ -5260,7 +5260,7 @@ layout: default
 |**2022-08-27**|**A Generic Algorithm for Top-K On-Shelf Utility Mining**|Jiahui Chen et.al.|[2208.14230v1](http://arxiv.org/abs/2208.14230v1)|null|
 |**2022-08-30**|**Airway measurement by refinement of synthetic images improves mortality prediction in idiopathic pulmonary fibrosis**|Ashkan Pakzad et.al.|[2208.14141v1](http://arxiv.org/abs/2208.14141v1)|**[link](https://github.com/ashkanpakzad/atn)**|
 |**2022-08-29**|**Deformable Image Registration using Unsupervised Deep Learning for CBCT-guided Abdominal Radiotherapy**|Huiqiao Xie et.al.|[2208.13686v1](http://arxiv.org/abs/2208.13686v1)|null|
-|**2022-08-29**|**Chosen methods of improving object recognition of small objects with weak recognizable features**|Magdalena Stachoń et.al.|[2208.13591v1](http://arxiv.org/abs/2208.13591v1)|null|
+|**2022-08-29**|**Chosen methods of improving small object recognition with weak recognizable features**|Magdalena Stachoń et.al.|[2208.13591v2](http://arxiv.org/abs/2208.13591v2)|null|
 |**2022-08-29**|**Porous Semiconductors: Growth and Applications**|Colm O'Dwyer et.al.|[2208.13466v1](http://arxiv.org/abs/2208.13466v1)|null|
 |**2022-08-27**|**On Biased Behavior of GANs for Face Verification**|Sasikanth Kotti et.al.|[2208.13061v2](http://arxiv.org/abs/2208.13061v2)|null|
 |**2022-08-27**|**Emergent Spatial Characteristics from Strategic Games Simulated on Random and Real Networks**|Louis Zhao et.al.|[2208.13059v1](http://arxiv.org/abs/2208.13059v1)|null|
