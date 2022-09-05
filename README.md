@@ -226,6 +226,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-02**|**Transformers in Remote Sensing: A Survey**|Abdulaziz Amer Aleissaee et.al.|[2209.01206v1](http://arxiv.org/abs/2209.01206v1)|null|
 |**2022-08-31**|**EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing**|Qihua Feng et.al.|[2208.14657v1](http://arxiv.org/abs/2208.14657v1)|**[link](https://github.com/onlinehuazai/evit)**|
 |**2022-08-31**|**SIM-Trans: Structure Information Modeling Transformer for Fine-grained Visual Categorization**|Hongbo Sun et.al.|[2208.14607v1](http://arxiv.org/abs/2208.14607v1)|**[link](https://github.com/pku-icst-mipl/sim-trans_acmmm2022)**|
 |**2022-08-29**|**Open-Set Semi-Supervised Object Detection**|Yen-Cheng Liu et.al.|[2208.13722v1](http://arxiv.org/abs/2208.13722v1)|null|
@@ -751,7 +752,7 @@
 |**2022-08-22**|**PoseBERT: A Generic Transformer Module for Temporal 3D Human Modeling**|Fabien Baradel et.al.|[2208.10211v1](http://arxiv.org/abs/2208.10211v1)|**[link](https://github.com/naver/posebert)**|
 |**2022-08-17**|**MoCapDeform: Monocular 3D Human Motion Capture in Deformable Scenes**|Zhi Li et.al.|[2208.08439v1](http://arxiv.org/abs/2208.08439v1)|**[link](https://github.com/malefikus/mocapdeform)**|
 |**2022-08-17**|**Blind-Spot Collision Detection System for Commercial Vehicles Using Multi Deep CNN Architecture**|Muhammad Muzammel et.al.|[2208.08224v2](http://arxiv.org/abs/2208.08224v2)|null|
-|**2022-08-16**|**PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation**|Wentao Jiang et.al.|[2208.07755v1](http://arxiv.org/abs/2208.07755v1)|null|
+|**2022-08-16**|**PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation**|Wentao Jiang et.al.|[2208.07755v1](http://arxiv.org/abs/2208.07755v1)|**[link](https://github.com/wtjiang98/PoseTrans)**|
 |**2022-08-08**|**MetaGraspNet: A Large-Scale Benchmark Dataset for Scene-Aware Ambidextrous Bin Picking via Physics-based Metaverse Synthesis**|Maximilian Gilles et.al.|[2208.03963v1](http://arxiv.org/abs/2208.03963v1)|null|
 |**2022-08-07**|**Jointformer: Single-Frame Lifting Transformer with Error Prediction and Refinement for 3D Human Pose Estimation**|Sebastian Lutz et.al.|[2208.03704v1](http://arxiv.org/abs/2208.03704v1)|**[link](https://github.com/seblutz/JointFormer)**|
 |**2022-08-07**|**CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization**|Yujiao Shi et.al.|[2208.03660v1](http://arxiv.org/abs/2208.03660v1)|null|
@@ -900,6 +901,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-02**|**Multimodal Information Fusion for Glaucoma and DR Classification**|Yihao Li et.al.|[2209.00979v1](http://arxiv.org/abs/2209.00979v1)|null|
+|**2022-09-02**|**3D Path Planning and Obstacle Avoidance Algorithms for Obstacle-Overcoming Robots**|Yuanhao huang et.al.|[2209.00871v1](http://arxiv.org/abs/2209.00871v1)|null|
+|**2022-09-02**|**Storage of 1650 modes of single photons at telecom wavelength**|Shi-Hai Wei et.al.|[2209.00802v1](http://arxiv.org/abs/2209.00802v1)|null|
 |**2022-09-01**|**Progressive Fusion for Multimodal Integration**|Shiv Shankar et.al.|[2209.00302v1](http://arxiv.org/abs/2209.00302v1)|null|
 |**2022-08-31**|**Class-Aware Attention for Multimodal Trajectory Prediction**|Bimsara Pathiraja et.al.|[2209.00062v1](http://arxiv.org/abs/2209.00062v1)|null|
 |**2022-08-31**|**GRILLBot: An Assistant for Real-World Tasks with Neural Semantic Parsing and Graph-Based Representations**|Carlos Gemmell et.al.|[2208.14884v1](http://arxiv.org/abs/2208.14884v1)|null|
@@ -1744,6 +1748,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-02**|**Domain Adaptation from Scratch**|Eyal Ben-David et.al.|[2209.00830v1](http://arxiv.org/abs/2209.00830v1)|**[link](https://github.com/eyalbd2/scratchda)**|
+|**2022-09-01**|**Enabling Country-Scale Land Cover Mapping with Meter-Resolution Satellite Imagery**|Xin-Yi Tong et.al.|[2209.00727v1](http://arxiv.org/abs/2209.00727v1)|null|
 |**2022-08-31**|**Feature Alignment by Uncertainty and Self-Training for Source-Free Unsupervised Domain Adaptation**|JoonHo Lee et.al.|[2208.14888v1](http://arxiv.org/abs/2208.14888v1)|null|
 |**2022-08-31**|**Domain Shift-oriented Machine Anomalous Sound Detection Model Based on Self-Supervised Learning**|Jing-ke Yan et.al.|[2208.14812v1](http://arxiv.org/abs/2208.14812v1)|null|
 |**2022-08-31**|**Transfering Low-Frequency Features for Domain Adaptation**|Zhaowen Li et.al.|[2208.14706v1](http://arxiv.org/abs/2208.14706v1)|null|
@@ -2355,6 +2361,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-02**|**Hierarchical Relational Learning for Few-Shot Knowledge Graph Completion**|Han Wu et.al.|[2209.01205v1](http://arxiv.org/abs/2209.01205v1)|null|
+|**2022-09-02**|**Estimation of Correlation Matrices from Limited time series Data using Machine Learning**|Nikhil Easaw et.al.|[2209.01198v1](http://arxiv.org/abs/2209.01198v1)|null|
+|**2022-09-02**|**IMG2IMU: Applying Knowledge from Large-Scale Images to IMU Applications via Contrastive Learning**|Hyungjun Yoon et.al.|[2209.00945v1](http://arxiv.org/abs/2209.00945v1)|null|
+|**2022-09-02**|**Multi-modal Contrastive Representation Learning for Entity Alignment**|Zhenxi Lin et.al.|[2209.00891v1](http://arxiv.org/abs/2209.00891v1)|**[link](https://github.com/lzxlin/mclea)**|
+|**2022-09-02**|**Mapping the ocular surface from monocular videos with an application to dry eye disease grading**|Ikram Brahim et.al.|[2209.00886v1](http://arxiv.org/abs/2209.00886v1)|null|
+|**2022-09-02**|**Three Learning Stages and Accuracy-Efficiency Tradeoff of Restricted Boltzmann Machines**|Lennart Dabelow et.al.|[2209.00873v1](http://arxiv.org/abs/2209.00873v1)|**[link](https://gitlab.com/lennartdw/xminirbm)**|
+|**2022-09-02**|**FOLIO: Natural Language Reasoning with First-Order Logic**|Simeng Han et.al.|[2209.00840v1](http://arxiv.org/abs/2209.00840v1)|**[link](https://github.com/yale-lily/folio)**|
+|**2022-09-02**|**Artifact-Tolerant Clustering-Guided Contrastive Embedding Learning for Ophthalmic Images**|Min Shi et.al.|[2209.00773v1](http://arxiv.org/abs/2209.00773v1)|**[link](https://github.com/codesharea/eyelearn)**|
+|**2022-09-02**|**Exact Decomposition of Quantum Channels for Non-IID Quantum Federated Learning**|Haimeng Zhao et.al.|[2209.00768v1](http://arxiv.org/abs/2209.00768v1)|**[link](https://github.com/jasonzhm/quantum-fed-infer)**|
+|**2022-09-01**|**Enabling Country-Scale Land Cover Mapping with Meter-Resolution Satellite Imagery**|Xin-Yi Tong et.al.|[2209.00727v1](http://arxiv.org/abs/2209.00727v1)|null|
+|**2022-09-01**|**Generalizing intrusion detection for heterogeneous networks: A stacked-unsupervised federated learning approach**|Gustavo de Carvalho Bertoli et.al.|[2209.00721v1](http://arxiv.org/abs/2209.00721v1)|null|
+|**2022-09-01**|**Zero-Shot Multi-Modal Artist-Controlled Retrieval and Exploration of 3D Object Sets**|Kristofer Schlachter et.al.|[2209.00682v1](http://arxiv.org/abs/2209.00682v1)|null|
+|**2022-09-01**|**Exploring traditional machine learning for identification of pathological auscultations**|Haroldas Razvadauskas et.al.|[2209.00672v1](http://arxiv.org/abs/2209.00672v1)|null|
+|**2022-09-01**|**Self-supervised Representation Learning on Electronic Health Records with Graph Kernel Infomax**|Hao-Ren Yao et.al.|[2209.00655v1](http://arxiv.org/abs/2209.00655v1)|null|
 |**2022-09-01**|**Optimising 2D Pose Representation: Improve Accuracy, Stability and Generalisability Within Unsupervised 2D-3D Human Pose Estimation**|Peter Hardy et.al.|[2209.00618v1](http://arxiv.org/abs/2209.00618v1)|null|
 |**2022-09-01**|**Unsupervised Simplification of Legal Texts**|Mert Cemri et.al.|[2209.00557v1](http://arxiv.org/abs/2209.00557v1)|null|
 |**2022-09-01**|**A New Knowledge Distillation Network for Incremental Few-Shot Surface Defect Detection**|Chen Sun et.al.|[2209.00519v1](http://arxiv.org/abs/2209.00519v1)|null|
@@ -4962,6 +4982,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-02**|**CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**|Alexandra Carlson et.al.|[2209.01194v1](http://arxiv.org/abs/2209.01194v1)|null|
+|**2022-09-01**|**On Quantizing Implicit Neural Representations**|Cameron Gordon et.al.|[2209.01019v1](http://arxiv.org/abs/2209.01019v1)|null|
 |**2022-08-31**|**Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces**|Yihao Zhi et.al.|[2208.14851v1](http://arxiv.org/abs/2208.14851v1)|**[link](https://github.com/zyhbili/Dual-Space-NeRF)**|
 |**2022-08-30**|**A Portable Multiscopic Camera for Novel View and Time Synthesis in Dynamic Scenes**|Tianjia Zhang et.al.|[2208.14433v1](http://arxiv.org/abs/2208.14433v1)|null|
 |**2022-08-24**|**PeRFception: Perception using Radiance Fields**|Yoonwoo Jeong et.al.|[2208.11537v1](http://arxiv.org/abs/2208.11537v1)|**[link](https://github.com/POSTECH-CVLab/PeRFception)**|
@@ -5096,6 +5118,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-02**|**Optimal Coordination in Generalized Principal-Agent Problems: A Revisit and Extensions**|Jiarui Gan et.al.|[2209.01146v1](http://arxiv.org/abs/2209.01146v1)|null|
+|**2022-09-02**|**Multiband effects in thermoelectric and electrical transport properties of kagome superconductors $A$V$_3$Sb$_5$ ($A$ = K, Rb, Cs)**|Xinrun Mi et.al.|[2209.01089v1](http://arxiv.org/abs/2209.01089v1)|null|
+|**2022-09-01**|**Exploring Gradient-based Multi-directional Controls in GANs**|Zikun Chen et.al.|[2209.00698v1](http://arxiv.org/abs/2209.00698v1)|null|
 |**2022-09-01**|**Properties and device performance of BN thin films grown on GaN by pulsed laser deposition**|Abhijit Biswas et.al.|[2209.00643v1](http://arxiv.org/abs/2209.00643v1)|null|
 |**2022-09-01**|**Lip-to-Speech Synthesis for Arbitrary Speakers in the Wild**|Sindhu B Hegde et.al.|[2209.00642v1](http://arxiv.org/abs/2209.00642v1)|null|
 |**2022-09-01**|**Fair mapping**|Sébastien Gambs et.al.|[2209.00617v1](http://arxiv.org/abs/2209.00617v1)|null|
