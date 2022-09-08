@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.07
+## Updated on 2022.09.08
 
 ## SLAM
 
@@ -1929,7 +1929,7 @@ layout: default
 |**2022-09-02**|**Domain Adaptation from Scratch**|Eyal Ben-David et.al.|[2209.00830v1](http://arxiv.org/abs/2209.00830v1)|**[link](https://github.com/eyalbd2/scratchda)**|
 |**2022-09-01**|**Enabling Country-Scale Land Cover Mapping with Meter-Resolution Satellite Imagery**|Xin-Yi Tong et.al.|[2209.00727v1](http://arxiv.org/abs/2209.00727v1)|null|
 |**2022-08-31**|**Feature Alignment by Uncertainty and Self-Training for Source-Free Unsupervised Domain Adaptation**|JoonHo Lee et.al.|[2208.14888v1](http://arxiv.org/abs/2208.14888v1)|null|
-|**2022-08-31**|**Domain Shift-oriented Machine Anomalous Sound Detection Model Based on Self-Supervised Learning**|Jing-ke Yan et.al.|[2208.14812v2](http://arxiv.org/abs/2208.14812v2)|null|
+|**2022-08-31**|**Domain Shift-oriented Machine Anomalous Sound Detection Model Based on Self-Supervised Learning**|Jing-ke Yan et.al.|[2208.14812v3](http://arxiv.org/abs/2208.14812v3)|null|
 |**2022-08-31**|**Transfering Low-Frequency Features for Domain Adaptation**|Zhaowen Li et.al.|[2208.14706v1](http://arxiv.org/abs/2208.14706v1)|null|
 |**2022-08-31**|**AWADA: Attention-Weighted Adversarial Domain Adaptation for Object Detection**|Maximilian Menke et.al.|[2208.14662v1](http://arxiv.org/abs/2208.14662v1)|null|
 |**2022-08-31**|**Segmentation-guided Domain Adaptation and Data Harmonization of Multi-device Retinal Optical Coherence Tomography using Cycle-Consistent Generative Adversarial Networks**|Shuo Chen et.al.|[2208.14635v1](http://arxiv.org/abs/2208.14635v1)|null|
@@ -2548,7 +2548,7 @@ layout: default
 |**2022-09-06**|**Zero-shot Aspect-level Sentiment Classification via Explicit Utilization of Aspect-to-Document Sentiment Composition**|Pengfei Deng et.al.|[2209.02276v1](http://arxiv.org/abs/2209.02276v1)|null|
 |**2022-09-06**|**Automatic Code Documentation Generation Using GPT-3**|Junaed Younus Khan et.al.|[2209.02235v1](http://arxiv.org/abs/2209.02235v1)|null|
 |**2022-09-06**|**Few-Shot Document-Level Event Argument Extraction**|Xianjun Yang et.al.|[2209.02203v1](http://arxiv.org/abs/2209.02203v1)|**[link](https://github.com/xianjun-yang/fewdocae)**|
-|**2022-09-05**|**Learning Canonical Embeddings for Unsupervised Shape Correspondence with Locally Linear Transformations**|Pan He et.al.|[2209.02152v1](http://arxiv.org/abs/2209.02152v1)|null|
+|**2022-09-05**|**Learning Canonical Embeddings for Unsupervised Shape Correspondence with Locally Linear Transformations**|Pan He et.al.|[2209.02152v2](http://arxiv.org/abs/2209.02152v2)|null|
 |**2022-09-05**|**Evaluating the Susceptibility of Pre-Trained Language Models via Handcrafted Adversarial Examples**|Hezekiah J. Branch et.al.|[2209.02128v1](http://arxiv.org/abs/2209.02128v1)|null|
 |**2022-09-05**|**Design of the topology for contrastive visual-textual alignment**|Zhun Sun et.al.|[2209.02127v1](http://arxiv.org/abs/2209.02127v1)|null|
 |**2022-09-05**|**A Study on Representation Transfer for Few-Shot Learning**|Chun-Nam Yu et.al.|[2209.02073v1](http://arxiv.org/abs/2209.02073v1)|null|
@@ -5323,7 +5323,7 @@ layout: default
 |**2022-09-05**|**Facial Expression Translation using Landmark Guided GANs**|Hao Tang et.al.|[2209.02136v1](http://arxiv.org/abs/2209.02136v1)|null|
 |**2022-09-05**|**Dynamics of Fourier Modes in Torus Generative Adversarial Networks**|Ángel González-Prieto et.al.|[2209.01842v1](http://arxiv.org/abs/2209.01842v1)|null|
 |**2022-09-05**|**"Is your explanation stable?": A Robustness Evaluation Framework for Feature Attribution**|Yuyou Gan et.al.|[2209.01782v1](http://arxiv.org/abs/2209.01782v1)|null|
-|**2022-09-05**|**Exploiting Pre-trained Feature Networks for Generative Adversarial Networks in Audio-domain Loop Generation**|Yen-Tung Yeh et.al.|[2209.01751v1](http://arxiv.org/abs/2209.01751v1)|null|
+|**2022-09-05**|**Exploiting Pre-trained Feature Networks for Generative Adversarial Networks in Audio-domain Loop Generation**|Yen-Tung Yeh et.al.|[2209.01751v1](http://arxiv.org/abs/2209.01751v1)|**[link](https://github.com/arthurddd/pjloop-gan)**|
 |**2022-09-04**|**Time-domain speech super-resolution with GAN based modeling for telephony speaker verification**|Saurabh Kataria et.al.|[2209.01702v1](http://arxiv.org/abs/2209.01702v1)|null|
 |**2022-09-04**|**Latent Preserving Generative Adversarial Network for Imbalance classification**|Tanmoy Dam et.al.|[2209.01555v1](http://arxiv.org/abs/2209.01555v1)|null|
 |**2022-09-04**|**An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling**|Tsu-Jui Fu et.al.|[2209.01540v1](http://arxiv.org/abs/2209.01540v1)|null|
