@@ -1,4 +1,4 @@
-## Updated on 2022.09.08
+## Updated on 2022.09.09
 
 ## Image Generation
 
@@ -917,7 +917,7 @@
 |**2022-09-05**|**Federated Transfer Learning with Multimodal Data**|Yulian Sun et.al.|[2209.03137v1](http://arxiv.org/abs/2209.03137v1)|null|
 |**2022-09-07**|**DM$^2$S$^2$: Deep Multi-Modal Sequence Sets with Hierarchical Modality Attention**|Shunsuke Kitada et.al.|[2209.03126v1](http://arxiv.org/abs/2209.03126v1)|null|
 |**2022-09-07**|**Benchmarking Multimodal Variational Autoencoders: GeBiD Dataset and Toolkit**|Gabriela Sejnova et.al.|[2209.03048v1](http://arxiv.org/abs/2209.03048v1)|**[link](https://github.com/gabinsane/multimodal-vae-comparison)**|
-|**2022-09-07**|**Improving the Cross-Lingual Generalisation in Visual Question Answering**|Farhad Nooralahzadeh et.al.|[2209.02982v1](http://arxiv.org/abs/2209.02982v1)|null|
+|**2022-09-07**|**Improving the Cross-Lingual Generalisation in Visual Question Answering**|Farhad Nooralahzadeh et.al.|[2209.02982v1](http://arxiv.org/abs/2209.02982v1)|**[link](https://github.com/nooralahzadeh/clg-vqa)**|
 |**2022-09-07**|**VGStore: A Multimodal Extension to SPARQL for Querying RDF Scene Graph**|Yanzeng Li et.al.|[2209.02981v1](http://arxiv.org/abs/2209.02981v1)|**[link](https://github.com/pkumod/vgstore)**|
 |**2022-09-07**|**Self-supervised multimodal neuroimaging yields predictive representations for a spectrum of Alzheimer's phenotypes**|Alex Fedorov et.al.|[2209.02876v1](http://arxiv.org/abs/2209.02876v1)|null|
 |**2022-09-06**|**Fusion of Satellite Images and Weather Data with Transformer Networks for Downy Mildew Disease Detection**|William Maillet et.al.|[2209.02797v1](http://arxiv.org/abs/2209.02797v1)|null|
@@ -2405,13 +2405,13 @@
 |**2022-09-07**|**Automatic setup of 18 MeV electron beamline using machine learning**|Francesco Maria Velotti et.al.|[2209.03183v1](http://arxiv.org/abs/2209.03183v1)|null|
 |**2022-09-07**|**On the Convergence of the ELBO to Entropy Sums**|Jörg Lücke et.al.|[2209.03077v1](http://arxiv.org/abs/2209.03077v1)|null|
 |**2022-09-07**|**Not All Instances Contribute Equally: Instance-adaptive Class Representation Learning for Few-Shot Visual Recognition**|Mengya Han et.al.|[2209.03034v1](http://arxiv.org/abs/2209.03034v1)|null|
-|**2022-09-07**|**Improving the Cross-Lingual Generalisation in Visual Question Answering**|Farhad Nooralahzadeh et.al.|[2209.02982v1](http://arxiv.org/abs/2209.02982v1)|null|
+|**2022-09-07**|**Improving the Cross-Lingual Generalisation in Visual Question Answering**|Farhad Nooralahzadeh et.al.|[2209.02982v1](http://arxiv.org/abs/2209.02982v1)|**[link](https://github.com/nooralahzadeh/clg-vqa)**|
 |**2022-09-07**|**A Weakly Supervised Learning Framework for Salient Object Detection via Hybrid Labels**|Runmin Cong et.al.|[2209.02957v1](http://arxiv.org/abs/2209.02957v1)|null|
 |**2022-09-07**|**Self-supervised multimodal neuroimaging yields predictive representations for a spectrum of Alzheimer's phenotypes**|Alex Fedorov et.al.|[2209.02876v1](http://arxiv.org/abs/2209.02876v1)|null|
 |**2022-09-06**|**Unsupervised Scene Sketch to Photo Synthesis**|Jiayun Wang et.al.|[2209.02834v1](http://arxiv.org/abs/2209.02834v1)|null|
 |**2022-09-06**|**Annealing Optimization for Progressive Learning with Stochastic Approximation**|Christos Mavridis et.al.|[2209.02826v1](http://arxiv.org/abs/2209.02826v1)|null|
 |**2022-09-06**|**Multilingual Bidirectional Unsupervised Translation Through Multilingual Finetuning and Back-Translation**|Bryan Li et.al.|[2209.02821v1](http://arxiv.org/abs/2209.02821v1)|null|
-|**2022-09-06**|**Depression Symptoms Modelling from Social Media Text: An Active Learning Approach**|Nawshad Farruque et.al.|[2209.02765v1](http://arxiv.org/abs/2209.02765v1)|null|
+|**2022-09-06**|**Depression Symptoms Modelling from Social Media Text: An Active Learning Approach**|Nawshad Farruque et.al.|[2209.02765v2](http://arxiv.org/abs/2209.02765v2)|null|
 |**2022-09-06**|**Language-aware Domain Generalization Network for Cross-Scene Hyperspectral Image Classification**|Yuxiang Zhang et.al.|[2209.02700v1](http://arxiv.org/abs/2209.02700v1)|null|
 |**2022-09-06**|**Building Surrogate Models of Nuclear Density Functional Theory with Gaussian Processesand Autoencoders**|Marc Verriere et.al.|[2209.02467v1](http://arxiv.org/abs/2209.02467v1)|null|
 |**2022-09-06**|**Monolingual alignment of word senses and definitions in lexicographical resources**|Sina Ahmadi et.al.|[2209.02465v1](http://arxiv.org/abs/2209.02465v1)|null|
@@ -5191,7 +5191,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-09-07**|**Joint Learning of Deep Texture and High-Frequency Features for Computer-Generated Image Detection**|Qiang Xu et.al.|[2209.03322v1](http://arxiv.org/abs/2209.03322v1)|null|
+|**2022-09-07**|**Joint Learning of Deep Texture and High-Frequency Features for Computer-Generated Image Detection**|Qiang Xu et.al.|[2209.03322v1](http://arxiv.org/abs/2209.03322v1)|**[link](https://github.com/191578010/tada-net)**|
 |**2022-09-07**|**First-principles predictions of tunable half metallicity in zigzag GaN nanoribbons with possible applications in CO detection and spintronics**|Rachana Yogi et.al.|[2209.03078v1](http://arxiv.org/abs/2209.03078v1)|null|
 |**2022-09-07**|**Fengshenbang 1.0: Being the Foundation of Chinese Cognitive Intelligence**|Junjie Wang et.al.|[2209.02970v1](http://arxiv.org/abs/2209.02970v1)|null|
 |**2022-09-07**|**Can GAN-induced Attribute Manipulations Impact Face Recognition?**|Sudipta Banerjee et.al.|[2209.02941v1](http://arxiv.org/abs/2209.02941v1)|null|
