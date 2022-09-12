@@ -382,6 +382,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-09**|**EchoCoTr: Estimation of the Left Ventricular Ejection Fraction from Spatiotemporal Echocardiography**|Rand Muhtaseb et.al.|[2209.04242v1](http://arxiv.org/abs/2209.04242v1)|null|
 |**2022-09-07**|**Prior Knowledge-Guided Attention in Self-Supervised Vision Transformers**|Kevin Miao et.al.|[2209.03745v1](http://arxiv.org/abs/2209.03745v1)|null|
 |**2022-09-08**|**Multi-Granularity Prediction for Scene Text Recognition**|Peng Wang et.al.|[2209.03592v1](http://arxiv.org/abs/2209.03592v1)|null|
 |**2022-09-08**|**Video Vision Transformers for Violence Detection**|Sanskar Singh et.al.|[2209.03561v1](http://arxiv.org/abs/2209.03561v1)|null|
@@ -1069,6 +1070,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-09**|**MIntRec: A New Dataset for Multimodal Intent Recognition**|Hanlei Zhang et.al.|[2209.04355v1](http://arxiv.org/abs/2209.04355v1)|null|
+|**2022-09-09**|**Modelling Patient Trajectories Using Multimodal Information**|João Figueira Silva et.al.|[2209.04224v1](http://arxiv.org/abs/2209.04224v1)|null|
 |**2022-09-08**|**Few-photon transport via a multimode nonlinear cavity: theory and applications**|Yunkai Wang et.al.|[2209.03877v1](http://arxiv.org/abs/2209.03877v1)|null|
 |**2022-09-08**|**SE(3)-DiffusionFields: Learning cost functions for joint grasp and motion optimization through diffusion**|Julen Urain et.al.|[2209.03855v1](http://arxiv.org/abs/2209.03855v1)|null|
 |**2022-09-07**|**Evaluating Temporal Patterns in Applied Infant Affect Recognition**|Allen Chang et.al.|[2209.03496v1](http://arxiv.org/abs/2209.03496v1)|null|
@@ -1937,6 +1940,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-08**|**Non-autoregressive Error Correction for CTC-based ASR with Phone-conditioned Masked LM**|Hayato Futami et.al.|[2209.04062v1](http://arxiv.org/abs/2209.04062v1)|null|
 |**2022-09-08**|**Generalized One-shot Domain Adaption of Generative Adversarial Networks**|Zicheng Zhang et.al.|[2209.03665v1](http://arxiv.org/abs/2209.03665v1)|**[link](https://github.com/thevoidname/generalized-one-shot-gan-adaption)**|
 |**2022-09-07**|**Information Maximization for Extreme Pose Face Recognition**|Mohammad Saeed Ebrahimi Saadabadi et.al.|[2209.03456v1](http://arxiv.org/abs/2209.03456v1)|null|
 |**2022-09-07**|**Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow**|Xingchao Liu et.al.|[2209.03003v1](http://arxiv.org/abs/2209.03003v1)|null|
@@ -2561,6 +2565,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-07**|**Multi-NeuS: 3D Head Portraits from Single Image with Neural Implicit Functions**|Egor Burkov et.al.|[2209.04436v1](http://arxiv.org/abs/2209.04436v1)|null|
+|**2022-09-09**|**Unsupervised segmentation of biomedical hyperspectral image data: tackling high dimensionality with convolutional autoencoders**|Ciaran Bench et.al.|[2209.04375v1](http://arxiv.org/abs/2209.04375v1)|null|
+|**2022-09-09**|**Ranking-Enhanced Unsupervised Sentence Representation Learning**|Yeon Seonwoo et.al.|[2209.04333v1](http://arxiv.org/abs/2209.04333v1)|null|
+|**2022-09-09**|**One-Shot Open-Set Skeleton-Based Action Recognition**|Stefano Berti et.al.|[2209.04288v1](http://arxiv.org/abs/2209.04288v1)|null|
+|**2022-09-09**|**Anomaly Detection through Unsupervised Federated Learning**|Mirko Nardi et.al.|[2209.04184v1](http://arxiv.org/abs/2209.04184v1)|null|
+|**2022-09-09**|**Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects**|Ziyu Wang et.al.|[2209.04183v1](http://arxiv.org/abs/2209.04183v1)|null|
+|**2022-09-09**|**Adapting to Non-Centered Languages for Zero-shot Multilingual Translation**|Zhi Qu et.al.|[2209.04138v1](http://arxiv.org/abs/2209.04138v1)|**[link](https://github.com/zhiqu22/adapnoncenter)**|
+|**2022-09-09**|**clusterBMA: Bayesian model averaging for clustering**|Owen Forbes et.al.|[2209.04117v1](http://arxiv.org/abs/2209.04117v1)|**[link](https://github.com/of2/clusterbma)**|
+|**2022-09-09**|**Gaussian Process Koopman Mode Decomposition**|Takahiro Kawashima et.al.|[2209.04111v1](http://arxiv.org/abs/2209.04111v1)|null|
 |**2022-09-08**|**IDIAPers @ Causal News Corpus 2022: Efficient Causal Relation Identification Through a Prompt-based Few-shot Approach**|Sergio Burdisso et.al.|[2209.03895v1](http://arxiv.org/abs/2209.03895v1)|null|
 |**2022-09-08**|**Applying Transformer-based Text Summarization for Keyphrase Generation**|Anna Glazkova et.al.|[2209.03791v1](http://arxiv.org/abs/2209.03791v1)|null|
 |**2022-09-08**|**Unsupervised Video Object Segmentation via Prototype Memory Network**|Minhyeok Lee et.al.|[2209.03712v1](http://arxiv.org/abs/2209.03712v1)|null|
@@ -5225,6 +5238,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-09**|**Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects**|Ziyu Wang et.al.|[2209.04183v1](http://arxiv.org/abs/2209.04183v1)|null|
+|**2022-09-08**|**im2nerf: Image to Neural Radiance Field in the Wild**|Lu Mi et.al.|[2209.04061v1](http://arxiv.org/abs/2209.04061v1)|null|
 |**2022-09-08**|**PixTrack: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment**|Prajwal Chidananda et.al.|[2209.03910v1](http://arxiv.org/abs/2209.03910v1)|null|
 |**2022-09-07**|**Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations**|Vadim Tschernezki et.al.|[2209.03494v1](http://arxiv.org/abs/2209.03494v1)|null|
 |**2022-08-29**|**Volume Rendering Digest (for NeRF)**|Andrea Tagliasacchi et.al.|[2209.02417v1](http://arxiv.org/abs/2209.02417v1)|null|
@@ -5364,6 +5379,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-09**|**Improved Masked Image Generation with Token-Critic**|José Lezama et.al.|[2209.04439v1](http://arxiv.org/abs/2209.04439v1)|null|
+|**2022-09-09**|**Pathology Synthesis of 3D Consistent Cardiac MR Im-ages Using 2D VAEs and GANs**|Sina Amirrajab et.al.|[2209.04223v1](http://arxiv.org/abs/2209.04223v1)|**[link](https://github.com/sinaamirrajab/cardiacpathologysynthesis)**|
+|**2022-09-09**|**Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects**|Ziyu Wang et.al.|[2209.04183v1](http://arxiv.org/abs/2209.04183v1)|null|
+|**2022-09-09**|**A Fast Algorithm for Onboard Atmospheric Powered Descent Guidance**|Yushu Chen et.al.|[2209.04157v1](http://arxiv.org/abs/2209.04157v1)|null|
 |**2022-09-08**|**Text-Free Learning of a Natural Language Interface for Pretrained Face Generators**|Xiaodan Du et.al.|[2209.03953v1](http://arxiv.org/abs/2209.03953v1)|**[link](https://github.com/duxiaodan/fast_text2stylegan)**|
 |**2022-09-08**|**Generalized One-shot Domain Adaption of Generative Adversarial Networks**|Zicheng Zhang et.al.|[2209.03665v1](http://arxiv.org/abs/2209.03665v1)|**[link](https://github.com/thevoidname/generalized-one-shot-gan-adaption)**|
 |**2022-09-08**|**A Secure and Efficient Multi-Object Grasping Detection Approach for Robotic Arms**|Hui Wang et.al.|[2209.03511v1](http://arxiv.org/abs/2209.03511v1)|null|
