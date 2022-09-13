@@ -200,7 +200,7 @@ if __name__ == "__main__":
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
 
-        data,data_web = get_daily_papers(topic, query = keyword, max_results = 10) # 20
+        data,data_web = get_daily_papers(topic, query = keyword, max_results = 20) # 20
         data_collector.append(data)
         data_collector_web.append(data_web)
 
@@ -208,6 +208,8 @@ if __name__ == "__main__":
 
     # update README.md file
     json_file = "cv-arxiv-daily.json"
+    with open(json_file,'w')as a:
+        print("create " + json_file)
 #     if ~os.path.exists(json_file):
 #         with open(json_file,'w')as a:
 #             print("create " + json_file)
@@ -219,6 +221,8 @@ if __name__ == "__main__":
 
     # update docs/index.md file
     json_file = "./docs/cv-arxiv-daily-web.json"
+    with open(json_file,'w')as a:
+        print("create " + json_file)
 #     if ~os.path.exists(json_file):
 #         with open(json_file,'w')as a:
 #             print("create " + json_file)
