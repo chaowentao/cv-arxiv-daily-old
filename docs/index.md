@@ -219,6 +219,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-11**|**Synthetic Wavelength Imaging -- Utilizing Spectral Correlations for High-Precision Time-of-Flight Sensing**|Florian Willomitzer et.al.|[2209.04941v1](http://arxiv.org/abs/2209.04941v1)|null|
+|**2022-09-11**|**Polarization-Shaped Strong Field Control over Valley Polarization with Mid-IR Light**|Igor Tyulnev et.al.|[2209.04928v1](http://arxiv.org/abs/2209.04928v1)|null|
 |**2022-09-06**|**Will a single two-level atom simultaneously scatter two photons?**|Luke Masters et.al.|[2209.02547v1](http://arxiv.org/abs/2209.02547v1)|null|
 |**2022-09-06**|**LRT: An Efficient Low-Light Restoration Transformer for Dark Light Field Images**|Shansi Zhang et.al.|[2209.02197v1](http://arxiv.org/abs/2209.02197v1)|null|
 |**2022-09-05**|**Benchmarking the cosmological master equations**|Thomas Colas et.al.|[2209.01929v1](http://arxiv.org/abs/2209.01929v1)|null|
@@ -382,6 +384,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-07**|**Transfer Learning and Vision Transformer based State-of-Health prediction of Lithium-Ion Batteries**|Pengyu Fu et.al.|[2209.05253v1](http://arxiv.org/abs/2209.05253v1)|null|
+|**2022-09-12**|**Vision Transformer with Convolutional Encoder-Decoder for Hand Gesture Recognition using 24 GHz Doppler Radar**|Kavinda Kehelella et.al.|[2209.05032v1](http://arxiv.org/abs/2209.05032v1)|null|
 |**2022-09-09**|**EchoCoTr: Estimation of the Left Ventricular Ejection Fraction from Spatiotemporal Echocardiography**|Rand Muhtaseb et.al.|[2209.04242v1](http://arxiv.org/abs/2209.04242v1)|null|
 |**2022-09-07**|**Prior Knowledge-Guided Attention in Self-Supervised Vision Transformers**|Kevin Miao et.al.|[2209.03745v1](http://arxiv.org/abs/2209.03745v1)|null|
 |**2022-09-08**|**Multi-Granularity Prediction for Scene Text Recognition**|Peng Wang et.al.|[2209.03592v1](http://arxiv.org/abs/2209.03592v1)|null|
@@ -1070,6 +1074,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-12**|**Landmark Enhanced Multimodal Graph Learning for Deepfake Video Detection**|Zhiyuan Yan et.al.|[2209.05419v1](http://arxiv.org/abs/2209.05419v1)|null|
+|**2022-09-12**|**Generating Functions and Automatic Differentiation for Photon-Number-Resolved Simulations with Multimode Gaussian States**|Erik Fitzke et.al.|[2209.05330v1](http://arxiv.org/abs/2209.05330v1)|null|
+|**2022-09-12**|**SANCL: Multimodal Review Helpfulness Prediction with Selective Attention and Natural Contrastive Learning**|Wei Han et.al.|[2209.05040v1](http://arxiv.org/abs/2209.05040v1)|**[link](https://github.com/clement25/sancl)**|
+|**2022-09-12**|**TMSS: An End-to-End Transformer-based Multimodal Network for Segmentation and Survival Prediction**|Numan Saeed et.al.|[2209.05036v1](http://arxiv.org/abs/2209.05036v1)|null|
+|**2022-09-11**|**MAiVAR: Multimodal Audio-Image and Video Action Recognizer**|Muhammad Bilal Shaikh et.al.|[2209.04780v1](http://arxiv.org/abs/2209.04780v1)|null|
+|**2022-09-10**|**Parallel MCMC Algorithms: Theoretical Foundations, Algorithm Design, Case Studies**|Nathan E. Glatt-Holtz et.al.|[2209.04750v1](http://arxiv.org/abs/2209.04750v1)|null|
 |**2022-09-09**|**MIntRec: A New Dataset for Multimodal Intent Recognition**|Hanlei Zhang et.al.|[2209.04355v1](http://arxiv.org/abs/2209.04355v1)|**[link](https://github.com/thuiar/mintrec)**|
 |**2022-09-09**|**Modelling Patient Trajectories Using Multimodal Information**|João Figueira Silva et.al.|[2209.04224v1](http://arxiv.org/abs/2209.04224v1)|**[link](https://github.com/bioinformatics-ua/patienttm)**|
 |**2022-09-08**|**Few-photon transport via a multimode nonlinear cavity: theory and applications**|Yunkai Wang et.al.|[2209.03877v1](http://arxiv.org/abs/2209.03877v1)|null|
@@ -1940,6 +1950,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-12**|**Unified State Representation Learning under Data Augmentation**|Taylor Hearn et.al.|[2209.05302v1](http://arxiv.org/abs/2209.05302v1)|**[link](https://github.com/SVJayanthi/dmcontrol-generalization-benchmark)**|
+|**2022-09-12**|**Domain Adaptation for Question Answering via Question Classification**|Zhenrui Yue et.al.|[2209.04998v1](http://arxiv.org/abs/2209.04998v1)|null|
+|**2022-09-10**|**Unsupervised Domain Adaptation for Extra Features in the Target Domain Using Optimal Transport**|Toshimitsu Aritake et.al.|[2209.04594v1](http://arxiv.org/abs/2209.04594v1)|null|
+|**2022-09-09**|**PoliTO-IIT-CINI Submission to the EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition**|Mirco Planamente et.al.|[2209.04525v1](http://arxiv.org/abs/2209.04525v1)|null|
 |**2022-09-08**|**Non-autoregressive Error Correction for CTC-based ASR with Phone-conditioned Masked LM**|Hayato Futami et.al.|[2209.04062v1](http://arxiv.org/abs/2209.04062v1)|**[link](https://github.com/emonosuke/emoasr)**|
 |**2022-09-08**|**Generalized One-shot Domain Adaption of Generative Adversarial Networks**|Zicheng Zhang et.al.|[2209.03665v1](http://arxiv.org/abs/2209.03665v1)|**[link](https://github.com/thevoidname/generalized-one-shot-gan-adaption)**|
 |**2022-09-07**|**Information Maximization for Extreme Pose Face Recognition**|Mohammad Saeed Ebrahimi Saadabadi et.al.|[2209.03456v1](http://arxiv.org/abs/2209.03456v1)|null|
@@ -2565,6 +2579,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-12**|**Adaptive 3D Localization of 2D Freehand Ultrasound Brain Images**|Pak-Hei Yeung et.al.|[2209.05477v1](http://arxiv.org/abs/2209.05477v1)|null|
+|**2022-09-12**|**Unified State Representation Learning under Data Augmentation**|Taylor Hearn et.al.|[2209.05302v1](http://arxiv.org/abs/2209.05302v1)|**[link](https://github.com/SVJayanthi/dmcontrol-generalization-benchmark)**|
+|**2022-09-12**|**$β$-CapsNet: Learning Disentangled Representation for CapsNet by Information Bottleneck**|Ming-fei Hu et.al.|[2209.05239v1](http://arxiv.org/abs/2209.05239v1)|null|
+|**2022-09-12**|**Amortised Inference in Structured Generative Models with Explaining Away**|Changmin Yu et.al.|[2209.05212v1](http://arxiv.org/abs/2209.05212v1)|null|
+|**2022-09-12**|**Prototypical few-shot segmentation for cross-institution male pelvic structures with spatial registration**|Yiwen Li et.al.|[2209.05160v1](http://arxiv.org/abs/2209.05160v1)|**[link](https://github.com/kate-sann5100/crossinstitutionfewshotsegmentation)**|
+|**2022-09-11**|**Unsupervised Learning of 3D Scene Flow with 3D Odometry Assistance**|Guangming Wang et.al.|[2209.04945v1](http://arxiv.org/abs/2209.04945v1)|null|
+|**2022-09-11**|**Towards Weak Source Coding**|Aman Chawla et.al.|[2209.04765v1](http://arxiv.org/abs/2209.04765v1)|null|
+|**2022-09-10**|**Unsupervised Liu-type Shrinkage Estimators for Mixture of Regression Models**|Elsayed Ghanem et.al.|[2209.04739v1](http://arxiv.org/abs/2209.04739v1)|null|
+|**2022-09-10**|**Adaptive Meta-learner via Gradient Similarity for Few-shot Text Classification**|Tianyi Lei et.al.|[2209.04702v1](http://arxiv.org/abs/2209.04702v1)|null|
+|**2022-09-10**|**A Comparative Study on Unsupervised Anomaly Detection for Time Series: Experiments and Analysis**|Yan Zhao et.al.|[2209.04635v1](http://arxiv.org/abs/2209.04635v1)|null|
 |**2022-09-07**|**Multi-NeuS: 3D Head Portraits from Single Image with Neural Implicit Functions**|Egor Burkov et.al.|[2209.04436v1](http://arxiv.org/abs/2209.04436v1)|null|
 |**2022-09-09**|**Unsupervised segmentation of biomedical hyperspectral image data: tackling high dimensionality with convolutional autoencoders**|Ciaran Bench et.al.|[2209.04375v1](http://arxiv.org/abs/2209.04375v1)|**[link](https://github.com/ciaranbench/unsupervised-hsi-seg)**|
 |**2022-09-09**|**Ranking-Enhanced Unsupervised Sentence Representation Learning**|Yeon Seonwoo et.al.|[2209.04333v1](http://arxiv.org/abs/2209.04333v1)|**[link](https://github.com/yeonsw/rankencoder)**|
@@ -5238,6 +5262,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-12**|**StructNeRF: Neural Radiance Fields for Indoor Scenes with Structural Hints**|Zheng Chen et.al.|[2209.05277v1](http://arxiv.org/abs/2209.05277v1)|null|
 |**2022-09-09**|**Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects**|Ziyu Wang et.al.|[2209.04183v1](http://arxiv.org/abs/2209.04183v1)|null|
 |**2022-09-08**|**im2nerf: Image to Neural Radiance Field in the Wild**|Lu Mi et.al.|[2209.04061v1](http://arxiv.org/abs/2209.04061v1)|null|
 |**2022-09-08**|**PixTrack: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment**|Prajwal Chidananda et.al.|[2209.03910v1](http://arxiv.org/abs/2209.03910v1)|null|
@@ -5379,6 +5404,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-12**|**Divergent phonon angular momentum driven by temperature and strain**|Young-Jae Choi et.al.|[2209.05033v1](http://arxiv.org/abs/2209.05033v1)|null|
+|**2022-09-11**|**Vec2Face-v2: Unveil Human Faces from their Blackbox Features via Attention-based Network in Face Recognition**|Thanh-Dat Truong et.al.|[2209.04920v1](http://arxiv.org/abs/2209.04920v1)|null|
+|**2022-09-11**|**Backtesting Trading Strategies with GAN To Avoid Overfitting**|Ao Sun et.al.|[2209.04895v1](http://arxiv.org/abs/2209.04895v1)|null|
 |**2022-09-09**|**Improved Masked Image Generation with Token-Critic**|José Lezama et.al.|[2209.04439v1](http://arxiv.org/abs/2209.04439v1)|null|
 |**2022-09-09**|**Pathology Synthesis of 3D Consistent Cardiac MR Im-ages Using 2D VAEs and GANs**|Sina Amirrajab et.al.|[2209.04223v1](http://arxiv.org/abs/2209.04223v1)|**[link](https://github.com/sinaamirrajab/cardiacpathologysynthesis)**|
 |**2022-09-09**|**Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects**|Ziyu Wang et.al.|[2209.04183v1](http://arxiv.org/abs/2209.04183v1)|null|
