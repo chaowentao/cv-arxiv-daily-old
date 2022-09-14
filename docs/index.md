@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.13
+## Updated on 2022.09.14
 
 ## Image Generation
 
@@ -151,7 +151,7 @@ layout: default
 |**2022-09-05**|**Modelling Business Agreements in the Multimodal Transportation Domain through Ontological Smart Contracts**|Mario Scrocca et.al.|[2209.05463v1](http://arxiv.org/abs/2209.05463v1)|null|
 |**2022-09-12**|**Landmark Enhanced Multimodal Graph Learning for Deepfake Video Detection**|Zhiyuan Yan et.al.|[2209.05419v1](http://arxiv.org/abs/2209.05419v1)|null|
 |**2022-09-12**|**Generating Functions and Automatic Differentiation for Photon-Number-Resolved Simulations with Multimode Gaussian States**|Erik Fitzke et.al.|[2209.05330v1](http://arxiv.org/abs/2209.05330v1)|null|
-|**2022-09-12**|**SANCL: Multimodal Review Helpfulness Prediction with Selective Attention and Natural Contrastive Learning**|Wei Han et.al.|[2209.05040v1](http://arxiv.org/abs/2209.05040v1)|**[link](https://github.com/clement25/sancl)**|
+|**2022-09-12**|**SANCL: Multimodal Review Helpfulness Prediction with Selective Attention and Natural Contrastive Learning**|Wei Han et.al.|[2209.05040v2](http://arxiv.org/abs/2209.05040v2)|**[link](https://github.com/clement25/sancl)**|
 |**2022-09-12**|**TMSS: An End-to-End Transformer-based Multimodal Network for Segmentation and Survival Prediction**|Numan Saeed et.al.|[2209.05036v1](http://arxiv.org/abs/2209.05036v1)|null|
 |**2022-09-11**|**MAiVAR: Multimodal Audio-Image and Video Action Recognizer**|Muhammad Bilal Shaikh et.al.|[2209.04780v1](http://arxiv.org/abs/2209.04780v1)|null|
 |**2022-09-10**|**Parallel MCMC Algorithms: Theoretical Foundations, Algorithm Design, Case Studies**|Nathan E. Glatt-Holtz et.al.|[2209.04750v1](http://arxiv.org/abs/2209.04750v1)|null|
@@ -199,7 +199,7 @@ layout: default
 |**2022-08-16**|**Casual Indoor HDR Radiance Capture from Omnidirectional Images**|Pulkit Gera et.al.|[2208.07903v1](http://arxiv.org/abs/2208.07903v1)|null|
 |**2022-08-15**|**DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images**|Bing Wang et.al.|[2208.07227v1](http://arxiv.org/abs/2208.07227v1)|**[link](https://github.com/vlar-group/dm-nerf)**|
 |**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
-|**2022-08-11**|**FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing**|Jingbo Zhang et.al.|[2208.05751v1](http://arxiv.org/abs/2208.05751v1)|null|
+|**2022-08-11**|**FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing**|Jingbo Zhang et.al.|[2208.05751v2](http://arxiv.org/abs/2208.05751v2)|null|
 |**2022-08-04**|**360Roam: Real-Time Indoor Roaming Using Geometry-Aware ${360^\circ}$ Radiance Fields**|Huajian Huang et.al.|[2208.02705v1](http://arxiv.org/abs/2208.02705v1)|null|
 |**2022-08-02**|**T4DT: Tensorizing Time for Learning Temporal 3D Visual Data**|Mikhail Usvyatsov et.al.|[2208.01421v1](http://arxiv.org/abs/2208.01421v1)|**[link](https://github.com/aelphy/t4dt)**|
 |**2022-08-01**|**DoF-NeRF: Depth-of-Field Meets Neural Radiance Fields**|Zijin Wu et.al.|[2208.00945v1](http://arxiv.org/abs/2208.00945v1)|**[link](https://github.com/zijinwuzijin/dof-nerf)**|
@@ -257,13 +257,13 @@ layout: default
 |**2022-09-12**|**Unified State Representation Learning under Data Augmentation**|Taylor Hearn et.al.|[2209.05302v1](http://arxiv.org/abs/2209.05302v1)|**[link](https://github.com/SVJayanthi/dmcontrol-generalization-benchmark)**|
 |**2022-09-12**|**$β$-CapsNet: Learning Disentangled Representation for CapsNet by Information Bottleneck**|Ming-fei Hu et.al.|[2209.05239v1](http://arxiv.org/abs/2209.05239v1)|null|
 |**2022-09-12**|**Amortised Inference in Structured Generative Models with Explaining Away**|Changmin Yu et.al.|[2209.05212v1](http://arxiv.org/abs/2209.05212v1)|null|
-|**2022-09-12**|**Prototypical few-shot segmentation for cross-institution male pelvic structures with spatial registration**|Yiwen Li et.al.|[2209.05160v1](http://arxiv.org/abs/2209.05160v1)|**[link](https://github.com/kate-sann5100/crossinstitutionfewshotsegmentation)**|
+|**2022-09-12**|**Prototypical few-shot segmentation for cross-institution male pelvic structures with spatial registration**|Yiwen Li et.al.|[2209.05160v2](http://arxiv.org/abs/2209.05160v2)|**[link](https://github.com/kate-sann5100/crossinstitutionfewshotsegmentation)**|
 |**2022-09-11**|**Unsupervised Learning of 3D Scene Flow with 3D Odometry Assistance**|Guangming Wang et.al.|[2209.04945v1](http://arxiv.org/abs/2209.04945v1)|null|
 |**2022-09-11**|**Towards Weak Source Coding**|Aman Chawla et.al.|[2209.04765v1](http://arxiv.org/abs/2209.04765v1)|null|
 |**2022-09-10**|**Unsupervised Liu-type Shrinkage Estimators for Mixture of Regression Models**|Elsayed Ghanem et.al.|[2209.04739v1](http://arxiv.org/abs/2209.04739v1)|null|
 |**2022-09-10**|**Adaptive Meta-learner via Gradient Similarity for Few-shot Text Classification**|Tianyi Lei et.al.|[2209.04702v1](http://arxiv.org/abs/2209.04702v1)|null|
 |**2022-09-10**|**A Comparative Study on Unsupervised Anomaly Detection for Time Series: Experiments and Analysis**|Yan Zhao et.al.|[2209.04635v1](http://arxiv.org/abs/2209.04635v1)|null|
-|**2022-09-10**|**Adversarial Learning-based Stance Classifier for COVID-19-related Health Policies**|eng Xie et.al.|[2209.04631v1](http://arxiv.org/abs/2209.04631v1)|null|
+|**2022-09-10**|**Adversarial Learning-based Stance Classifier for COVID-19-related Health Policies**|Feng Xie et.al.|[2209.04631v2](http://arxiv.org/abs/2209.04631v2)|null|
 |**2022-09-10**|**Code Compliance Assessment as a Learning Problem**|Neela Sawant et.al.|[2209.04602v1](http://arxiv.org/abs/2209.04602v1)|null|
 |**2022-09-10**|**Preserving Privacy in Federated Learning with Ensemble Cross-Domain Knowledge Distillation**|Xuan Gong et.al.|[2209.04599v1](http://arxiv.org/abs/2209.04599v1)|null|
 |**2022-09-10**|**Unsupervised Domain Adaptation for Extra Features in the Target Domain Using Optimal Transport**|Toshimitsu Aritake et.al.|[2209.04594v1](http://arxiv.org/abs/2209.04594v1)|null|
