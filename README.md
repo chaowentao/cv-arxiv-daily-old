@@ -1,4 +1,4 @@
-## Updated on 2022.09.14
+## Updated on 2022.09.15
 
 ## Image Generation
 
@@ -152,7 +152,7 @@
 |**2022-09-12**|**A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language**|Bing Su et.al.|[2209.05481v1](http://arxiv.org/abs/2209.05481v1)|null|
 |**2022-09-12**|**Landmark Enhanced Multimodal Graph Learning for Deepfake Video Detection**|Zhiyuan Yan et.al.|[2209.05419v1](http://arxiv.org/abs/2209.05419v1)|null|
 |**2022-09-12**|**Generating Functions and Automatic Differentiation for Photon-Number-Resolved Simulations with Multimode Gaussian States**|Erik Fitzke et.al.|[2209.05330v1](http://arxiv.org/abs/2209.05330v1)|null|
-|**2022-09-12**|**SANCL: Multimodal Review Helpfulness Prediction with Selective Attention and Natural Contrastive Learning**|Wei Han et.al.|[2209.05040v2](http://arxiv.org/abs/2209.05040v2)|**[link](https://github.com/clement25/sancl)**|
+|**2022-09-12**|**SANCL: Multimodal Review Helpfulness Prediction with Selective Attention and Natural Contrastive Learning**|Wei Han et.al.|[2209.05040v3](http://arxiv.org/abs/2209.05040v3)|**[link](https://github.com/declare-lab/sancl)**|
 |**2022-09-12**|**TMSS: An End-to-End Transformer-based Multimodal Network for Segmentation and Survival Prediction**|Numan Saeed et.al.|[2209.05036v1](http://arxiv.org/abs/2209.05036v1)|null|
 |**2022-09-11**|**MAiVAR: Multimodal Audio-Image and Video Action Recognizer**|Muhammad Bilal Shaikh et.al.|[2209.04780v1](http://arxiv.org/abs/2209.04780v1)|null|
 |**2022-09-10**|**Parallel MCMC Algorithms: Theoretical Foundations, Algorithm Design, Case Studies**|Nathan E. Glatt-Holtz et.al.|[2209.04750v1](http://arxiv.org/abs/2209.04750v1)|null|
@@ -216,7 +216,7 @@
 |---|---|---|---|---|
 |**2022-09-13**|**StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation**|Adyasha Maharana et.al.|[2209.06192v1](http://arxiv.org/abs/2209.06192v1)|**[link](https://github.com/adymaharana/storydalle)**|
 |**2022-09-13**|**Comparative analysis of segmentation and generative models for fingerprint retrieval task**|Megh Patel et.al.|[2209.06172v1](http://arxiv.org/abs/2209.06172v1)|null|
-|**2022-09-13**|**Virtual Underwater Datasets for Autonomous Inspections**|oannis Polymenis et.al.|[2209.06013v1](http://arxiv.org/abs/2209.06013v1)|null|
+|**2022-09-13**|**Virtual Underwater Datasets for Autonomous Inspections**|Ioannis Polymenis et.al.|[2209.06013v2](http://arxiv.org/abs/2209.06013v2)|null|
 |**2022-09-13**|**Document Image Binarization in JPEG Compressed Domain using Dual Discriminator Generative Adversarial Networks**|Bulla Rajesh et.al.|[2209.05921v1](http://arxiv.org/abs/2209.05921v1)|null|
 |**2022-09-13**|**Dual-Scale Single Image Dehazing Via Neural Augmentation**|Zhengguo Li et.al.|[2209.05913v1](http://arxiv.org/abs/2209.05913v1)|null|
 |**2022-09-13**|**Selective Direct Bonding of High Thermal Conductivity 3C-SiC Film to \b{eta}-Ga2O3 for Top-Side Heat Extraction**|Jianbo Liang et.al.|[2209.05669v1](http://arxiv.org/abs/2209.05669v1)|null|
