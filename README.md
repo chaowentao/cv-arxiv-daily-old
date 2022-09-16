@@ -1,4 +1,4 @@
-## Updated on 2022.09.15
+## Updated on 2022.09.16
 
 ## Image Generation
 
@@ -43,7 +43,7 @@
 |**2022-09-13**|**Quadrature-averaged homodyne detection for cavity parameter estimation**|Giada R. La Gala et.al.|[2209.05807v1](http://arxiv.org/abs/2209.05807v1)|null|
 |**2022-09-11**|**Synthetic Wavelength Imaging -- Utilizing Spectral Correlations for High-Precision Time-of-Flight Sensing**|Florian Willomitzer et.al.|[2209.04941v1](http://arxiv.org/abs/2209.04941v1)|null|
 |**2022-09-11**|**Polarization-Shaped Strong Field Control over Valley Polarization with Mid-IR Light**|Igor Tyulnev et.al.|[2209.04928v1](http://arxiv.org/abs/2209.04928v1)|null|
-|**2022-09-06**|**Will a single two-level atom simultaneously scatter two photons?**|Luke Masters et.al.|[2209.02547v1](http://arxiv.org/abs/2209.02547v1)|null|
+|**2022-09-06**|**Will a single two-level atom simultaneously scatter two photons?**|Luke Masters et.al.|[2209.02547v2](http://arxiv.org/abs/2209.02547v2)|null|
 |**2022-09-06**|**LRT: An Efficient Low-Light Restoration Transformer for Dark Light Field Images**|Shansi Zhang et.al.|[2209.02197v1](http://arxiv.org/abs/2209.02197v1)|null|
 |**2022-09-05**|**Benchmarking the cosmological master equations**|Thomas Colas et.al.|[2209.01929v1](http://arxiv.org/abs/2209.01929v1)|null|
 |**2022-09-05**|**Macroscopic quantum mechanics in gravitational-wave observatories and beyond**|Roman Schnabel et.al.|[2209.01840v1](http://arxiv.org/abs/2209.01840v1)|null|
@@ -201,7 +201,7 @@
 |**2022-08-01**|**DoF-NeRF: Depth-of-Field Meets Neural Radiance Fields**|Zijin Wu et.al.|[2208.00945v1](http://arxiv.org/abs/2208.00945v1)|**[link](https://github.com/zijinwuzijin/dof-nerf)**|
 |**2022-07-30**|**MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures**|Zhiqin Chen et.al.|[2208.00277v2](http://arxiv.org/abs/2208.00277v2)|**[link](https://github.com/google-research/jax3d)**|
 |**2022-07-30**|**Distilled Low Rank Neural Radiance Field with Quantization for Light Field Compression**|Jinglei Shi et.al.|[2208.00164v1](http://arxiv.org/abs/2208.00164v1)|null|
-|**2022-07-29**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741v2](http://arxiv.org/abs/2207.14741v2)|null|
+|**2022-07-29**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741v3](http://arxiv.org/abs/2207.14741v3)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 |**2022-07-25**|**Deforming Radiance Fields with Cages**|Tianhan Xu et.al.|[2207.12298v1](http://arxiv.org/abs/2207.12298v1)|null|
@@ -240,7 +240,7 @@
 |**2022-09-07**|**Fengshenbang 1.0: Being the Foundation of Chinese Cognitive Intelligence**|Junjie Wang et.al.|[2209.02970v1](http://arxiv.org/abs/2209.02970v1)|null|
 |**2022-09-07**|**Can GAN-induced Attribute Manipulations Impact Face Recognition?**|Sudipta Banerjee et.al.|[2209.02941v1](http://arxiv.org/abs/2209.02941v1)|null|
 |**2022-09-06**|**DC-Art-GAN: Stable Procedural Content Generation using DC-GANs for Digital Art**|Rohit Gandikota et.al.|[2209.02847v1](http://arxiv.org/abs/2209.02847v1)|null|
-|**2022-09-06**|**Studying Bias in GANs through the Lens of Race**|Vongani H. Maluleke et.al.|[2209.02836v1](http://arxiv.org/abs/2209.02836v1)|null|
+|**2022-09-06**|**Studying Bias in GANs through the Lens of Race**|Vongani H. Maluleke et.al.|[2209.02836v2](http://arxiv.org/abs/2209.02836v2)|null|
 |**2022-09-06**|**Single-Stage Broad Multi-Instance Multi-Label Learning (BMIML) with Diverse Inter-Correlations and its application to medical image classification**|Qi Lai et.al.|[2209.02625v1](http://arxiv.org/abs/2209.02625v1)|null|
 |**2022-09-05**|**Facial Expression Translation using Landmark Guided GANs**|Hao Tang et.al.|[2209.02136v1](http://arxiv.org/abs/2209.02136v1)|null|
 |**2022-09-05**|**Dynamics of Fourier Modes in Torus Generative Adversarial Networks**|Ángel González-Prieto et.al.|[2209.01842v1](http://arxiv.org/abs/2209.01842v1)|null|
@@ -252,13 +252,13 @@
 |**2022-09-14**|**MUST-VQA: MUltilingual Scene-text VQA**|Emanuele Vivoli et.al.|[2209.06730v1](http://arxiv.org/abs/2209.06730v1)|null|
 |**2022-09-14**|**Efficient Unsupervised Learning for Plankton Images**|Paolo Didier Alfano et.al.|[2209.06726v1](http://arxiv.org/abs/2209.06726v1)|null|
 |**2022-09-14**|**On Language Clustering: A Non-parametric Statistical Approach**|Anagh Chattopadhyay et.al.|[2209.06720v1](http://arxiv.org/abs/2209.06720v1)|null|
-|**2022-09-14**|**Natural Language Inference Prompts for Zero-shot Emotion Classification in Text across Corpora**|Flor Miriam Plaza-del-Arco et.al.|[2209.06701v1](http://arxiv.org/abs/2209.06701v1)|**[link](https://github.com/fmplaza/zsl_nli_emotion_prompts)**|
+|**2022-09-14**|**Natural Language Inference Prompts for Zero-shot Emotion Classification in Text across Corpora**|Flor Miriam Plaza-del-Arco et.al.|[2209.06701v2](http://arxiv.org/abs/2209.06701v2)|**[link](https://github.com/fmplaza/zsl_nli_emotion_prompts)**|
 |**2022-09-14**|**FreeGaze: Resource-efficient Gaze Estimation via Frequency Domain Contrastive Learning**|Lingyu Du et.al.|[2209.06692v1](http://arxiv.org/abs/2209.06692v1)|null|
 |**2022-09-14**|**Tackling the Unique Challenges of Low-frequency Solar Polarimetry with the Square Kilometre Array Low Precursor: Pipeline Implementation**|Devojyoti Kansabanik et.al.|[2209.06666v1](http://arxiv.org/abs/2209.06666v1)|null|
 |**2022-09-14**|**SPACE-3: Unified Dialog Model Pre-training for Task-Oriented Dialog Understanding and Generation**|Wanwei He et.al.|[2209.06664v1](http://arxiv.org/abs/2209.06664v1)|null|
 |**2022-09-12**|**One-Shot Doc Snippet Detection: Powering Search in Document Beyond Text**|Abhinav Java et.al.|[2209.06584v1](http://arxiv.org/abs/2209.06584v1)|null|
 |**2022-09-13**|**A Clustering Method Based on Information Entropy Payload**|Shaodong Deng et.al.|[2209.06582v1](http://arxiv.org/abs/2209.06582v1)|null|
-|**2022-09-14**|**Graph Contrastive Learning with Personalized Augmentation**|Xin Zhang et.al.|[2209.06560v1](http://arxiv.org/abs/2209.06560v1)|null|
+|**2022-09-14**|**Graph Contrastive Learning with Personalized Augmentation**|Xin Zhang et.al.|[2209.06560v2](http://arxiv.org/abs/2209.06560v2)|null|
 |**2022-09-14**|**Scalable Spatiotemporal Graph Neural Networks**|Andrea Cini et.al.|[2209.06520v1](http://arxiv.org/abs/2209.06520v1)|null|
 |**2022-09-14**|**Prompt Combines Paraphrase: Teaching Pre-trained Models to Understand Rare Biomedical Words**|Haochun Wang et.al.|[2209.06453v1](http://arxiv.org/abs/2209.06453v1)|**[link](https://github.com/s65b40/prompt_n_paraphrase)**|
 |**2022-09-14**|**Viewer-Centred Surface Completion for Unsupervised Domain Adaptation in 3D Object Detection**|Darren Tsai et.al.|[2209.06407v1](http://arxiv.org/abs/2209.06407v1)|**[link](https://github.com/darrenjkt/SEE-VCN)**|
