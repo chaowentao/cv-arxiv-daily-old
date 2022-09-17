@@ -1,4 +1,4 @@
-## Updated on 2022.09.16
+## Updated on 2022.09.17
 
 ## Image Generation
 
