@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.18
+## Updated on 2022.09.19
 
 ## Image Generation
 
@@ -85,7 +85,7 @@ layout: default
 |**2022-09-15**|**Can We Solve 3D Vision Tasks Starting from A 2D Vision Transformer?**|Yi Wang et.al.|[2209.07026v1](http://arxiv.org/abs/2209.07026v1)|**[link](https://github.com/reimilia/simple3d-former)**|
 |**2022-09-15**|**PriorLane: A Prior Knowledge Enhanced Lane Detection Approach Based on Transformer**|Qibo Qiu et.al.|[2209.06994v1](http://arxiv.org/abs/2209.06994v1)|**[link](https://github.com/vincentqqb/priorlane)**|
 |**2022-09-14**|**On the interplay of adversarial robustness and architecture components: patches, convolution and attention**|Francesco Croce et.al.|[2209.06953v1](http://arxiv.org/abs/2209.06953v1)|null|
-|**2022-09-14**|**PaLI: A Jointly-Scaled Multilingual Language-Image Model**|Xi Chen et.al.|[2209.06794v1](http://arxiv.org/abs/2209.06794v1)|null|
+|**2022-09-14**|**PaLI: A Jointly-Scaled Multilingual Language-Image Model**|Xi Chen et.al.|[2209.06794v2](http://arxiv.org/abs/2209.06794v2)|null|
 |**2022-09-14**|**Transformers and CNNs both Beat Humans on SBIR**|Omar Seddati et.al.|[2209.06629v1](http://arxiv.org/abs/2209.06629v1)|null|
 |**2022-09-13**|**DMTNet: Dynamic Multi-scale Network for Dual-pixel Images Defocus Deblurring with Transformer**|Dafeng Zhang et.al.|[2209.06040v1](http://arxiv.org/abs/2209.06040v1)|null|
 |**2022-09-13**|**A lightweight Transformer-based model for fish landmark detection**|Alzayat Saleh et.al.|[2209.05777v1](http://arxiv.org/abs/2209.05777v1)|null|
@@ -152,7 +152,7 @@ layout: default
 |**2022-09-15**|**A Temporal Densely Connected Recurrent Network for Event-based Human Pose Estimation**|Zhanpeng Shao et.al.|[2209.07034v1](http://arxiv.org/abs/2209.07034v1)|**[link](https://github.com/xavier-zw/tdensernn_pose)**|
 |**2022-09-15**|**M^4I: Multi-modal Models Membership Inference**|Pingyi Hu et.al.|[2209.06997v1](http://arxiv.org/abs/2209.06997v1)|**[link](https://github.com/multimodalmi/multimodal-membership-inference)**|
 |**2022-09-14**|**Unprotected edge modes in quantum spin Hall insulator candidate materials**|Nguyen Minh Nguyen et.al.|[2209.06912v1](http://arxiv.org/abs/2209.06912v1)|null|
-|**2022-09-14**|**PaLI: A Jointly-Scaled Multilingual Language-Image Model**|Xi Chen et.al.|[2209.06794v1](http://arxiv.org/abs/2209.06794v1)|null|
+|**2022-09-14**|**PaLI: A Jointly-Scaled Multilingual Language-Image Model**|Xi Chen et.al.|[2209.06794v2](http://arxiv.org/abs/2209.06794v2)|null|
 |**2022-09-14**|**CCOM-HuQin: an Annotated Multimodal Chinese Fiddle Performance Dataset**|Yu Zhang et.al.|[2209.06496v1](http://arxiv.org/abs/2209.06496v1)|null|
 |**2022-09-14**|**Graph Perceiver IO: A General Architecture for Graph Structured Data**|Seyun Bae et.al.|[2209.06418v1](http://arxiv.org/abs/2209.06418v1)|null|
 |**2022-09-13**|**Self-supervised Multi-Modal Video Forgery Attack Detection**|Chenhui Zhao et.al.|[2209.06345v1](http://arxiv.org/abs/2209.06345v1)|null|
@@ -166,7 +166,7 @@ layout: default
 |**2022-09-12**|**A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language**|Bing Su et.al.|[2209.05481v1](http://arxiv.org/abs/2209.05481v1)|null|
 |**2022-09-12**|**Landmark Enhanced Multimodal Graph Learning for Deepfake Video Detection**|Zhiyuan Yan et.al.|[2209.05419v1](http://arxiv.org/abs/2209.05419v1)|null|
 |**2022-09-12**|**Generating Functions and Automatic Differentiation for Photon-Number-Resolved Simulations with Multimode Gaussian States**|Erik Fitzke et.al.|[2209.05330v1](http://arxiv.org/abs/2209.05330v1)|null|
-|**2022-09-12**|**SANCL: Multimodal Review Helpfulness Prediction with Selective Attention and Natural Contrastive Learning**|Wei Han et.al.|[2209.05040v3](http://arxiv.org/abs/2209.05040v3)|**[link](https://github.com/declare-lab/sancl)**|
+|**2022-09-12**|**SANCL: Multimodal Review Helpfulness Prediction with Selective Attention and Natural Contrastive Learning**|Wei Han et.al.|[2209.05040v4](http://arxiv.org/abs/2209.05040v4)|**[link](https://github.com/declare-lab/sancl)**|
 |**2022-09-12**|**TMSS: An End-to-End Transformer-based Multimodal Network for Segmentation and Survival Prediction**|Numan Saeed et.al.|[2209.05036v1](http://arxiv.org/abs/2209.05036v1)|null|
 |**2022-09-11**|**MAiVAR: Multimodal Audio-Image and Video Action Recognizer**|Muhammad Bilal Shaikh et.al.|[2209.04780v1](http://arxiv.org/abs/2209.04780v1)|null|
 |**2022-09-10**|**Parallel MCMC Algorithms: Theoretical Foundations, Algorithm Design, Case Studies**|Nathan E. Glatt-Holtz et.al.|[2209.04750v1](http://arxiv.org/abs/2209.04750v1)|null|
@@ -255,14 +255,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-15**|**Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models**|Manli Shu et.al.|[2209.07511v1](http://arxiv.org/abs/2209.07511v1)|null|
 |**2022-09-15**|**Unsupervised Opinion Summarization Using Approximate Geodesics**|Somnath Basu Roy Chowdhury et.al.|[2209.07496v1](http://arxiv.org/abs/2209.07496v1)|null|
-|**2022-09-15**|**Gollum: A Gold Standard for Large Scale Multi Source Knowledge Graph Matching**|Sven Hertling et.al.|[2209.07479v1](http://arxiv.org/abs/2209.07479v1)|null|
+|**2022-09-15**|**Gollum: A Gold Standard for Large Scale Multi Source Knowledge Graph Matching**|Sven Hertling et.al.|[2209.07479v2](http://arxiv.org/abs/2209.07479v2)|null|
 |**2022-09-15**|**Compositional generalization through abstract representations in human and artificial neural networks**|Takuya Ito et.al.|[2209.07431v1](http://arxiv.org/abs/2209.07431v1)|null|
 |**2022-09-15**|**Astromorphic Self-Repair of Neuromorphic Hardware Systems**|Zhuangyu Han et.al.|[2209.07428v1](http://arxiv.org/abs/2209.07428v1)|null|
 |**2022-09-15**|**Evolving Zero Cost Proxies For Neural Architecture Scoring**|Yash Akhauri et.al.|[2209.07413v1](http://arxiv.org/abs/2209.07413v1)|null|
-|**2022-09-15**|**Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion**|Chen Chen et.al.|[2209.07299v1](http://arxiv.org/abs/2209.07299v1)|**[link](https://github.com/chenchens190009/kg-s2s)**|
+|**2022-09-15**|**Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion**|Chen Chen et.al.|[2209.07299v2](http://arxiv.org/abs/2209.07299v2)|**[link](https://github.com/chenchens190009/kg-s2s)**|
 |**2022-09-15**|**Linear Transformations for Cross-lingual Sentiment Analysis**|Pavel Přibáň et.al.|[2209.07244v1](http://arxiv.org/abs/2209.07244v1)|**[link](https://github.com/pauli31/linear-transformation-4-cs-sa)**|
 |**2022-09-15**|**ProAPT: Projection of APT Threats with Deep Reinforcement Learning**|Motahareh Dehghan et.al.|[2209.07215v1](http://arxiv.org/abs/2209.07215v1)|null|
-|**2022-09-15**|**One-Shot Transfer of Affordance Regions? AffCorrs!**|Denis Hadjivelichkov et.al.|[2209.07147v1](http://arxiv.org/abs/2209.07147v1)|null|
+|**2022-09-15**|**One-Shot Transfer of Affordance Regions? AffCorrs!**|Denis Hadjivelichkov et.al.|[2209.07147v2](http://arxiv.org/abs/2209.07147v2)|null|
 |**2022-09-15**|**uChecker: Masked Pretrained Language Models as Unsupervised Chinese Spelling Checkers**|Piji Li et.al.|[2209.07068v1](http://arxiv.org/abs/2209.07068v1)|null|
 |**2022-09-15**|**Exploring Visual Interpretability for Contrastive Language-Image Pre-training**|Yi Li et.al.|[2209.07046v1](http://arxiv.org/abs/2209.07046v1)|null|
 |**2022-09-15**|**Fair Inference for Discrete Latent Variable Models**|Rashidul Islam et.al.|[2209.07044v1](http://arxiv.org/abs/2209.07044v1)|null|
