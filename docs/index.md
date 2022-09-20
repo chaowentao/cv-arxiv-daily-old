@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.19
+## Updated on 2022.09.20
 
 ## Image Generation
 
@@ -86,7 +86,7 @@ layout: default
 |**2022-09-15**|**Hydra Attention: Efficient Attention with Many Heads**|Daniel Bolya et.al.|[2209.07484v1](http://arxiv.org/abs/2209.07484v1)|null|
 |**2022-09-15**|**On the Surprising Effectiveness of Transformers in Low-Labeled Video Recognition**|Farrukh Rahman et.al.|[2209.07474v1](http://arxiv.org/abs/2209.07474v1)|null|
 |**2022-09-15**|**A Light Recipe to Train Robust Vision Transformers**|Edoardo Debenedetti et.al.|[2209.07399v1](http://arxiv.org/abs/2209.07399v1)|**[link](https://github.com/dedeswim/vits-robustness-torch)**|
-|**2022-09-15**|**Can We Solve 3D Vision Tasks Starting from A 2D Vision Transformer?**|Yi Wang et.al.|[2209.07026v1](http://arxiv.org/abs/2209.07026v1)|**[link](https://github.com/reimilia/simple3d-former)**|
+|**2022-09-15**|**Can We Solve 3D Vision Tasks Starting from A 2D Vision Transformer?**|Yi Wang et.al.|[2209.07026v2](http://arxiv.org/abs/2209.07026v2)|**[link](https://github.com/reimilia/simple3d-former)**|
 |**2022-09-15**|**PriorLane: A Prior Knowledge Enhanced Lane Detection Approach Based on Transformer**|Qibo Qiu et.al.|[2209.06994v1](http://arxiv.org/abs/2209.06994v1)|**[link](https://github.com/vincentqqb/priorlane)**|
 |**2022-09-14**|**On the interplay of adversarial robustness and architecture components: patches, convolution and attention**|Francesco Croce et.al.|[2209.06953v1](http://arxiv.org/abs/2209.06953v1)|null|
 |**2022-09-14**|**PaLI: A Jointly-Scaled Multilingual Language-Image Model**|Xi Chen et.al.|[2209.06794v2](http://arxiv.org/abs/2209.06794v2)|null|
@@ -271,7 +271,7 @@ layout: default
 |**2022-09-15**|**Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models**|Manli Shu et.al.|[2209.07511v1](http://arxiv.org/abs/2209.07511v1)|null|
 |**2022-09-15**|**Unsupervised Opinion Summarization Using Approximate Geodesics**|Somnath Basu Roy Chowdhury et.al.|[2209.07496v1](http://arxiv.org/abs/2209.07496v1)|null|
 |**2022-09-15**|**Gollum: A Gold Standard for Large Scale Multi Source Knowledge Graph Matching**|Sven Hertling et.al.|[2209.07479v2](http://arxiv.org/abs/2209.07479v2)|null|
-|**2022-09-15**|**Compositional generalization through abstract representations in human and artificial neural networks**|Takuya Ito et.al.|[2209.07431v1](http://arxiv.org/abs/2209.07431v1)|null|
+|**2022-09-15**|**Compositional generalization through abstract representations in human and artificial neural networks**|Takuya Ito et.al.|[2209.07431v2](http://arxiv.org/abs/2209.07431v2)|null|
 |**2022-09-15**|**Astromorphic Self-Repair of Neuromorphic Hardware Systems**|Zhuangyu Han et.al.|[2209.07428v1](http://arxiv.org/abs/2209.07428v1)|null|
 |**2022-09-15**|**Evolving Zero Cost Proxies For Neural Architecture Scoring**|Yash Akhauri et.al.|[2209.07413v1](http://arxiv.org/abs/2209.07413v1)|null|
 |**2022-09-15**|**Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion**|Chen Chen et.al.|[2209.07299v2](http://arxiv.org/abs/2209.07299v2)|**[link](https://github.com/chenchens190009/kg-s2s)**|
@@ -282,5 +282,5 @@ layout: default
 |**2022-09-15**|**Exploring Visual Interpretability for Contrastive Language-Image Pre-training**|Yi Li et.al.|[2209.07046v1](http://arxiv.org/abs/2209.07046v1)|null|
 |**2022-09-15**|**Fair Inference for Discrete Latent Variable Models**|Rashidul Islam et.al.|[2209.07044v1](http://arxiv.org/abs/2209.07044v1)|null|
 |**2022-09-15**|**Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach**|Yue Yu et.al.|[2209.06995v1](http://arxiv.org/abs/2209.06995v1)|**[link](https://github.com/yueyu1030/patron)**|
-|**2022-09-15**|**Learning from Future: A Novel Self-Training Framework for Semantic Segmentation**|Ye Du et.al.|[2209.06993v1](http://arxiv.org/abs/2209.06993v1)|null|
+|**2022-09-15**|**Learning from Future: A Novel Self-Training Framework for Semantic Segmentation**|Ye Du et.al.|[2209.06993v2](http://arxiv.org/abs/2209.06993v2)|**[link](https://github.com/usr922/fst)**|
 
