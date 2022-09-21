@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.20
+## Updated on 2022.09.21
 
 ## Image Generation
 
@@ -114,7 +114,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-19**|**D&D: Learning Human Dynamics from Dynamic Camera**|Jiefeng Li et.al.|[2209.08790v1](http://arxiv.org/abs/2209.08790v1)|**[link](https://github.com/jeff-sjtu/dnd)**|
-|**2022-09-19**|**Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**|Sunghwan Hong et.al.|[2209.08742v1](http://arxiv.org/abs/2209.08742v1)|null|
+|**2022-09-19**|**Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**|Sunghwan Hong et.al.|[2209.08742v2](http://arxiv.org/abs/2209.08742v2)|null|
 |**2022-09-16**|**PPT: token-Pruned Pose Transformer for monocular and multi-view human pose estimation**|Haoyu Ma et.al.|[2209.08194v1](http://arxiv.org/abs/2209.08194v1)|**[link](https://github.com/howiema/ppt)**|
 |**2022-09-15**|**Online Marker-free Extrinsic Camera Calibration using Person Keypoint Detections**|Bastian Pätzold et.al.|[2209.07393v1](http://arxiv.org/abs/2209.07393v1)|**[link](https://github.com/ais-bonn/extrcamcalib_personkeypoints)**|
 |**2022-09-15**|**A Temporal Densely Connected Recurrent Network for Event-based Human Pose Estimation**|Zhanpeng Shao et.al.|[2209.07034v1](http://arxiv.org/abs/2209.07034v1)|**[link](https://github.com/xavier-zw/tdensernn_pose)**|
@@ -174,7 +174,7 @@ layout: default
 |**2022-09-14**|**Graph Perceiver IO: A General Architecture for Graph Structured Data**|Seyun Bae et.al.|[2209.06418v1](http://arxiv.org/abs/2209.06418v1)|null|
 |**2022-09-13**|**Self-supervised Multi-Modal Video Forgery Attack Detection**|Chenhui Zhao et.al.|[2209.06345v1](http://arxiv.org/abs/2209.06345v1)|null|
 |**2022-09-13**|**Do Androids Laugh at Electric Sheep? Humor "Understanding" Benchmarks from The New Yorker Caption Contest**|Jack Hessel et.al.|[2209.06293v1](http://arxiv.org/abs/2209.06293v1)|null|
-|**2022-09-13**|**Computational Sarcasm Analysis on Social Media: A Systematic Review**|Faria Binte Kader et.al.|[2209.06170v1](http://arxiv.org/abs/2209.06170v1)|null|
+|**2022-09-13**|**Computational Sarcasm Analysis on Social Media: A Systematic Review**|Faria Binte Kader et.al.|[2209.06170v2](http://arxiv.org/abs/2209.06170v2)|null|
 |**2022-09-13**|**Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows**|Keisuke Shirai et.al.|[2209.05840v1](http://arxiv.org/abs/2209.05840v1)|null|
 |**2022-09-13**|**A virtual reality-based method for examining audiovisual prosody perception**|Hartmut Meister et.al.|[2209.05745v1](http://arxiv.org/abs/2209.05745v1)|null|
 |**2022-09-13**|**GrASPE: Graph based Multimodal Fusion for Robot Navigation in Unstructured Outdoor Environments**|Kasun Weerakoon et.al.|[2209.05722v1](http://arxiv.org/abs/2209.05722v1)|null|
@@ -259,7 +259,7 @@ layout: default
 |**2022-09-19**|**An ICA-Based HVAC Load Disaggregation Method Using Smart Meter Data**|Hyeonjin Kim et.al.|[2209.09165v1](http://arxiv.org/abs/2209.09165v1)|null|
 |**2022-09-19**|**RESHAPE: Explaining Accounting Anomalies in Financial Statement Audits by enhancing SHapley Additive exPlanations**|Ricardo Müller et.al.|[2209.09157v1](http://arxiv.org/abs/2209.09157v1)|null|
 |**2022-09-19**|**How to Adapt Pre-trained Vision-and-Language Models to a Text-only Input?**|Lovisa Hagström et.al.|[2209.08982v1](http://arxiv.org/abs/2209.08982v1)|**[link](https://github.com/lovhag/adapt-pre-trained-vl-models-to-text)**|
-|**2022-09-19**|**Zero-shot Active Visual Search (ZAVIS): Intelligent Object Search for Robotic Assistants**|Jeongeun Park et.al.|[2209.08803v1](http://arxiv.org/abs/2209.08803v1)|null|
+|**2022-09-19**|**Active Visual Search in the Wild**|Jeongeun Park et.al.|[2209.08803v2](http://arxiv.org/abs/2209.08803v2)|null|
 |**2022-09-19**|**AutoLV: Automatic Lecture Video Generator**|Wenbin Wang et.al.|[2209.08795v1](http://arxiv.org/abs/2209.08795v1)|null|
 |**2022-09-19**|**Scale Attention for Learning Deep Face Representation: A Study Against Visual Scale Variation**|Hailin Shi et.al.|[2209.08788v1](http://arxiv.org/abs/2209.08788v1)|null|
 |**2022-09-18**|**RVSL: Robust Vehicle Similarity Learning in Real Hazy Scenes Based on Semi-supervised Learning**|Wei-Ting Chen et.al.|[2209.08630v1](http://arxiv.org/abs/2209.08630v1)|**[link](https://github.com/cihsaing/rvsl-robust-vehicle-similarity-learning--eccv22)**|
@@ -279,7 +279,7 @@ layout: default
 |**2022-09-16**|**Versatile Skill Control via Self-supervised Adversarial Imitation of Unlabeled Mixed Motions**|Chenhao Li et.al.|[2209.07899v1](http://arxiv.org/abs/2209.07899v1)|null|
 |**2022-09-16**|**Dynamics-informed deconvolutional neural networks for super-resolution identification of regime changes in epidemiological time series**|Jose M. G. Vilar et.al.|[2209.07802v1](http://arxiv.org/abs/2209.07802v1)|null|
 |**2022-09-16**|**Possible Stories: Evaluating Situated Commonsense Reasoning under Multiple Possible Scenarios**|Mana Ashida et.al.|[2209.07760v1](http://arxiv.org/abs/2209.07760v1)|null|
-|**2022-09-16**|**Code as Policies: Language Model Programs for Embodied Control**|Jacky Liang et.al.|[2209.07753v1](http://arxiv.org/abs/2209.07753v1)|null|
+|**2022-09-16**|**Code as Policies: Language Model Programs for Embodied Control**|Jacky Liang et.al.|[2209.07753v2](http://arxiv.org/abs/2209.07753v2)|null|
 |**2022-09-16**|**SF-DST: Few-Shot Self-Feeding Reading Comprehension Dialogue State Tracking with Auxiliary Task**|Jihyun Lee et.al.|[2209.07742v1](http://arxiv.org/abs/2209.07742v1)|null|
 |**2022-09-16**|**Deliberated Domain Bridging for Domain Adaptive Semantic Segmentation**|Lin Chen et.al.|[2209.07695v1](http://arxiv.org/abs/2209.07695v1)|**[link](https://github.com/xiaoachen98/DDB)**|
 |**2022-09-16**|**Text and Patterns: For Effective Chain of Thought, It Takes Two to Tango**|Aman Madaan et.al.|[2209.07686v1](http://arxiv.org/abs/2209.07686v1)|null|
