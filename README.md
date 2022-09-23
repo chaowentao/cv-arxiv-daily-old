@@ -1,4 +1,4 @@
-## Updated on 2022.09.22
+## Updated on 2022.09.23
 
 ## Image Generation
 
@@ -86,7 +86,7 @@
 |**2022-09-16**|**PPT: token-Pruned Pose Transformer for monocular and multi-view human pose estimation**|Haoyu Ma et.al.|[2209.08194v1](http://arxiv.org/abs/2209.08194v1)|**[link](https://github.com/howiema/ppt)**|
 |**2022-09-16**|**Quantum Vision Transformers**|El Amine Cherrat et.al.|[2209.08167v1](http://arxiv.org/abs/2209.08167v1)|null|
 |**2022-09-16**|**Self-Supervised Learning of Phenotypic Representations from Cell Images with Weak Labels**|Jan Oscar Cross-Zamirski et.al.|[2209.07819v1](http://arxiv.org/abs/2209.07819v1)|null|
-|**2022-09-16**|**ConvFormer: Closing the Gap Between CNN and Vision Transformers**|Zimian Wei et.al.|[2209.07738v1](http://arxiv.org/abs/2209.07738v1)|null|
+|**2022-09-16**|**ConvFormer: Closing the Gap Between CNN and Vision Transformers**|Zimian Wei et.al.|[2209.07738v2](http://arxiv.org/abs/2209.07738v2)|null|
 |**2022-09-16**|**A Mosquito is Worth 16x16 Larvae: Evaluation of Deep Learning Architectures for Mosquito Larvae Classification**|Aswin Surya et.al.|[2209.07718v1](http://arxiv.org/abs/2209.07718v1)|**[link](https://github.com/thenerd31/vit-cnn-mosquito-image-classification)**|
 |**2022-09-16**|**Hybrid Window Attention Based Transformer Architecture for Brain Tumor Segmentation**|Himashi Peiris et.al.|[2209.07704v1](http://arxiv.org/abs/2209.07704v1)|**[link](https://github.com/himashi92/vizviva_fets_2022)**|
 |**2022-09-15**|**Medical Image Segmentation using LeViT-UNet++: A Case Study on GI Tract Data**|Praneeth Nemani et.al.|[2209.07515v1](http://arxiv.org/abs/2209.07515v1)|null|
@@ -147,7 +147,7 @@
 |**2022-09-21**|**Identification of Adaptive Driving Style Preference through Implicit Inputs in SAE L2 Vehicles**|Zhaobo K. Zheng et.al.|[2209.10536v1](http://arxiv.org/abs/2209.10536v1)|null|
 |**2022-09-21**|**FV2ES: A Fully End2End Multimodal System for Fast Yet Effective Video Emotion Recognition Inference**|Qinglan Wei et.al.|[2209.10170v1](http://arxiv.org/abs/2209.10170v1)|**[link](https://github.com/qlwei89/fv2es)**|
 |**2022-09-20**|**MTR-A: 1st Place Solution for 2022 Waymo Open Dataset Challenge -- Motion Prediction**|Shaoshuai Shi et.al.|[2209.10033v1](http://arxiv.org/abs/2209.10033v1)|null|
-|**2022-09-14**|**Predicting Drug-Drug Interactions using Deep Generative Models on Graphs**|Nhat Khang Ngo et.al.|[2209.09941v1](http://arxiv.org/abs/2209.09941v1)|null|
+|**2022-09-14**|**Predicting Drug-Drug Interactions using Deep Generative Models on Graphs**|Nhat Khang Ngo et.al.|[2209.09941v1](http://arxiv.org/abs/2209.09941v1)|**[link](https://github.com/hysonlab/drug-interactions)**|
 |**2022-09-20**|**Superpixel Generation and Clustering for Weakly Supervised Brain Tumor Segmentation in MR Images**|Jay J. Yoo et.al.|[2209.09930v1](http://arxiv.org/abs/2209.09930v1)|null|
 |**2022-09-20**|**Synapse: Interactive Guidance by Demonstration with Trial-and-Error Support for Older Adults to Use Smartphone Apps**|Xiaofu Jin et.al.|[2209.09596v1](http://arxiv.org/abs/2209.09596v1)|null|
 |**2022-09-20**|**Cross-modal Learning for Image-Guided Point Cloud Shape Completion**|Emanuele Aiello et.al.|[2209.09552v1](http://arxiv.org/abs/2209.09552v1)|**[link](https://github.com/diegovalsesia/xmfnet)**|
@@ -180,7 +180,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-09-19**|**Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields**|Dominic Maggio et.al.|[2209.09050v1](http://arxiv.org/abs/2209.09050v1)|null|
-|**2022-09-19**|**NeRF-SOS: Any-View Self-supervised Object Segmentation from Complex Real-World Scenes**|Zhiwen Fan et.al.|[2209.08776v2](http://arxiv.org/abs/2209.08776v2)|null|
+|**2022-09-19**|**NeRF-SOS: Any-View Self-supervised Object Segmentation from Complex Real-World Scenes**|Zhiwen Fan et.al.|[2209.08776v3](http://arxiv.org/abs/2209.08776v3)|**[link](https://github.com/vita-group/nerf-sos)**|
 |**2022-09-19**|**Density-aware NeRF Ensembles: Quantifying Predictive Uncertainty in Neural Radiance Fields**|Niko Sünderhauf et.al.|[2209.08718v1](http://arxiv.org/abs/2209.08718v1)|null|
 |**2022-09-18**|**ActiveNeRF: Learning where to See with Uncertainty Estimation**|Xuran Pan et.al.|[2209.08546v1](http://arxiv.org/abs/2209.08546v1)|null|
 |**2022-09-18**|**LATITUDE: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF**|Zhenxin Zhu et.al.|[2209.08498v1](http://arxiv.org/abs/2209.08498v1)|**[link](https://github.com/jike5/LATITUDE)**|
@@ -216,7 +216,7 @@
 |---|---|---|---|---|
 |**2022-09-21**|**Mandarin Singing Voice Synthesis with Denoising Diffusion Probabilistic Wasserstein GAN**|Yin-Ping Cho et.al.|[2209.10446v1](http://arxiv.org/abs/2209.10446v1)|null|
 |**2022-09-21**|**LatentGaze: Cross-Domain Gaze Estimation through Gaze-Aware Analytic Latent Code Manipulation**|Isack Lee et.al.|[2209.10171v1](http://arxiv.org/abs/2209.10171v1)|**[link](https://github.com/leeisack/latentgaze)**|
-|**2022-09-21**|**Boosting Star-GANs for Voice Conversion with Contrastive Discriminator**|Shijing Si et.al.|[2209.10088v1](http://arxiv.org/abs/2209.10088v1)|null|
+|**2022-09-21**|**Boosting Star-GANs for Voice Conversion with Contrastive Discriminator**|Shijing Si et.al.|[2209.10088v2](http://arxiv.org/abs/2209.10088v2)|null|
 |**2022-09-21**|**A first-principles investigation of the linear thermal expansion coefficients of BeF$_2$: Giant thermal expansion**|Chee Kwan Gan et.al.|[2209.10087v1](http://arxiv.org/abs/2209.10087v1)|null|
 |**2022-09-20**|**Improving GANs with A Dynamic Discriminator**|Ceyuan Yang et.al.|[2209.09897v1](http://arxiv.org/abs/2209.09897v1)|null|
 |**2022-09-20**|**High-resolution synthesis of high-density breast mammograms: Application to improved fairness in deep learning based mass detection**|Lidia Garrucho et.al.|[2209.09809v1](http://arxiv.org/abs/2209.09809v1)|null|
@@ -254,7 +254,7 @@
 |**2022-09-21**|**An NWDAF Approach to 5G Core Network Signaling Traffic: Analysis and Characterization**|Dimitrios Michael Manias et.al.|[2209.10428v1](http://arxiv.org/abs/2209.10428v1)|null|
 |**2022-09-21**|**Consecutive Knowledge Meta-Adaptation Learning for Unsupervised Medical Diagnosis**|Yumin Zhang et.al.|[2209.10425v1](http://arxiv.org/abs/2209.10425v1)|null|
 |**2022-09-20**|**An Information-Theoretic and Contrastive Learning-based Approach for Identifying Code Statements Causing Software Vulnerability**|Van Nguyen et.al.|[2209.10414v1](http://arxiv.org/abs/2209.10414v1)|**[link](https://github.com/vannguyennd/livuitcl)**|
-|**2022-09-21**|**WeLM: A Well-Read Pre-trained Language Model for Chinese**|Hui Su et.al.|[2209.10372v1](http://arxiv.org/abs/2209.10372v1)|null|
+|**2022-09-21**|**WeLM: A Well-Read Pre-trained Language Model for Chinese**|Hui Su et.al.|[2209.10372v2](http://arxiv.org/abs/2209.10372v2)|null|
 |**2022-09-21**|**MulBot: Unsupervised Bot Detection Based on Multivariate Time Series**|Lorenzo Mannocci et.al.|[2209.10361v1](http://arxiv.org/abs/2209.10361v1)|null|
 |**2022-09-21**|**Continual VQA for Disaster Response Systems**|Aditya Kane et.al.|[2209.10320v1](http://arxiv.org/abs/2209.10320v1)|null|
 |**2022-09-21**|**I2DFormer: Learning Image to Document Attention for Zero-Shot Image Classification**|Muhammad Ferjad Naeem et.al.|[2209.10304v1](http://arxiv.org/abs/2209.10304v1)|null|
