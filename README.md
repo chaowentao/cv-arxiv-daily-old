@@ -1,4 +1,4 @@
-## Updated on 2022.09.25
+## Updated on 2022.09.26
 
 ## Image Generation
 
@@ -157,7 +157,7 @@
 |**2022-09-20**|**Synapse: Interactive Guidance by Demonstration with Trial-and-Error Support for Older Adults to Use Smartphone Apps**|Xiaofu Jin et.al.|[2209.09596v1](http://arxiv.org/abs/2209.09596v1)|null|
 |**2022-09-20**|**Cross-modal Learning for Image-Guided Point Cloud Shape Completion**|Emanuele Aiello et.al.|[2209.09552v1](http://arxiv.org/abs/2209.09552v1)|**[link](https://github.com/diegovalsesia/xmfnet)**|
 |**2022-09-20**|**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**|Pan Lu et.al.|[2209.09513v1](http://arxiv.org/abs/2209.09513v1)|null|
-|**2022-09-19**|**Audio-Visual Fusion for Emotion Recognition in the Valence-Arousal Space Using Joint Cross-Attention**|R Gnana Praveen et.al.|[2209.09068v1](http://arxiv.org/abs/2209.09068v1)|null|
+|**2022-09-19**|**Audio-Visual Fusion for Emotion Recognition in the Valence-Arousal Space Using Joint Cross-Attention**|R Gnana Praveen et.al.|[2209.09068v1](http://arxiv.org/abs/2209.09068v1)|**[link](https://github.com/praveena2j/joint-cross-attention-for-audio-visual-fusion)**|
 |**2022-09-15**|**LAVIS: A Library for Language-Vision Intelligence**|Dongxu Li et.al.|[2209.09019v1](http://arxiv.org/abs/2209.09019v1)|**[link](https://github.com/salesforce/lavis)**|
 |**2022-09-19**|**How to Adapt Pre-trained Vision-and-Language Models to a Text-only Input?**|Lovisa Hagström et.al.|[2209.08982v1](http://arxiv.org/abs/2209.08982v1)|**[link](https://github.com/lovhag/adapt-pre-trained-vl-models-to-text)**|
 |**2022-09-19**|**The Biased Artist: Exploiting Cultural Biases via Homoglyphs in Text-Guided Image Generation Models**|Lukas Struppek et.al.|[2209.08891v1](http://arxiv.org/abs/2209.08891v1)|**[link](https://github.com/lukasstruppek/the-biased-artist)**|
@@ -214,8 +214,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-09-22**|**CMGAN: Conformer-Based Metric-GAN for Monaural Speech Enhancement**|Sherif Abdulatif et.al.|[2209.11112v1](http://arxiv.org/abs/2209.11112v1)|**[link](https://github.com/ruizhecao96/cmgan)**|
-|**2022-09-22**|**MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation**|Junyoung Seo et.al.|[2209.11047v1](http://arxiv.org/abs/2209.11047v1)|null|
+|**2022-09-22**|**CMGAN: Conformer-Based Metric-GAN for Monaural Speech Enhancement**|Sherif Abdulatif et.al.|[2209.11112v2](http://arxiv.org/abs/2209.11112v2)|**[link](https://github.com/ruizhecao96/cmgan)**|
+|**2022-09-22**|**MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation**|Junyoung Seo et.al.|[2209.11047v2](http://arxiv.org/abs/2209.11047v2)|null|
 |**2022-09-22**|**Structure Guided Manifolds for Discovery of Disease Characteristics**|Siyu Liu et.al.|[2209.11015v1](http://arxiv.org/abs/2209.11015v1)|null|
 |**2022-09-22**|**Fingerprints of carbon defects in vibrational spectra of gallium nitride (GaN) consider-ing the isotope effect**|I. Gamov et.al.|[2209.10893v1](http://arxiv.org/abs/2209.10893v1)|null|
 |**2022-09-22**|**MnTTS: An Open-Source Mongolian Text-to-Speech Synthesis Dataset and Accompanied Baseline**|Yifan Hu et.al.|[2209.10848v1](http://arxiv.org/abs/2209.10848v1)|**[link](https://github.com/walker-hyf/mntts)**|
@@ -272,7 +272,7 @@
 |**2022-09-21**|**MulBot: Unsupervised Bot Detection Based on Multivariate Time Series**|Lorenzo Mannocci et.al.|[2209.10361v1](http://arxiv.org/abs/2209.10361v1)|null|
 |**2022-09-21**|**Continual VQA for Disaster Response Systems**|Aditya Kane et.al.|[2209.10320v1](http://arxiv.org/abs/2209.10320v1)|null|
 |**2022-09-21**|**I2DFormer: Learning Image to Document Attention for Zero-Shot Image Classification**|Muhammad Ferjad Naeem et.al.|[2209.10304v1](http://arxiv.org/abs/2209.10304v1)|null|
-|**2022-09-21**|**Fast Few shot Self-attentive Semi-supervised Political Inclination Prediction**|Souvic Chakraborty et.al.|[2209.10292v1](http://arxiv.org/abs/2209.10292v1)|null|
+|**2022-09-21**|**Fast Few shot Self-attentive Semi-supervised Political Inclination Prediction**|Souvic Chakraborty et.al.|[2209.10292v2](http://arxiv.org/abs/2209.10292v2)|null|
 |**2022-09-21**|**AirFi: Empowering WiFi-based Passive Human Gesture Recognition to Unseen Environment via Domain Generalization**|Dazhuo Wang et.al.|[2209.10285v1](http://arxiv.org/abs/2209.10285v1)|null|
 |**2022-09-21**|**Query-Guided Networks for Few-shot Fine-grained Classification and Person Search**|Bharti Munjal et.al.|[2209.10250v1](http://arxiv.org/abs/2209.10250v1)|null|
 |**2022-09-21**|**On the Rate-Memory Tradeoff of D2D Coded Caching with Three Users**|Wuqu Wang et.al.|[2209.10225v1](http://arxiv.org/abs/2209.10225v1)|null|
