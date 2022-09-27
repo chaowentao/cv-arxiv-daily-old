@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.26
+## Updated on 2022.09.27
 
 ## Image Generation
 
@@ -148,7 +148,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-09-22**|**Evaluating Agent Interactions Through Episodic Knowledge Graphs**|Selene Báez Santamaría et.al.|[2209.11746v1](http://arxiv.org/abs/2209.11746v1)|null|
+|**2022-09-22**|**Evaluating Agent Interactions Through Episodic Knowledge Graphs**|Selene Báez Santamaría et.al.|[2209.11746v2](http://arxiv.org/abs/2209.11746v2)|null|
 |**2022-09-23**|**Photonic interface between subcarrier wave and dual rail encodings**|K. S. Melnik et.al.|[2209.11719v1](http://arxiv.org/abs/2209.11719v1)|null|
 |**2022-09-23**|**Design of a Multimodal Fingertip Sensor for Dynamic Manipulation**|Andrew SaLoutos et.al.|[2209.11368v1](http://arxiv.org/abs/2209.11368v1)|null|
 |**2022-09-22**|**Controlling the direction of steady electric fields in liquid using non-antiperiodic potentials**|Aref Hashemi et.al.|[2209.11169v1](http://arxiv.org/abs/2209.11169v1)|null|
@@ -184,7 +184,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-19**|**Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields**|Dominic Maggio et.al.|[2209.09050v1](http://arxiv.org/abs/2209.09050v1)|null|
-|**2022-09-19**|**NeRF-SOS: Any-View Self-supervised Object Segmentation from Complex Real-World Scenes**|Zhiwen Fan et.al.|[2209.08776v3](http://arxiv.org/abs/2209.08776v3)|**[link](https://github.com/vita-group/nerf-sos)**|
+|**2022-09-19**|**NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes**|Zhiwen Fan et.al.|[2209.08776v4](http://arxiv.org/abs/2209.08776v4)|**[link](https://github.com/vita-group/nerf-sos)**|
 |**2022-09-19**|**Density-aware NeRF Ensembles: Quantifying Predictive Uncertainty in Neural Radiance Fields**|Niko Sünderhauf et.al.|[2209.08718v1](http://arxiv.org/abs/2209.08718v1)|null|
 |**2022-09-18**|**ActiveNeRF: Learning where to See with Uncertainty Estimation**|Xuran Pan et.al.|[2209.08546v1](http://arxiv.org/abs/2209.08546v1)|null|
 |**2022-09-18**|**LATITUDE: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF**|Zhenxin Zhu et.al.|[2209.08498v1](http://arxiv.org/abs/2209.08498v1)|**[link](https://github.com/jike5/LATITUDE)**|
@@ -220,10 +220,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-23**|**Conditional GANs for Sonar Image Filtering with Applications to Underwater Occupancy Mapping**|Tianxiang Lin et.al.|[2209.11757v1](http://arxiv.org/abs/2209.11757v1)|null|
 |**2022-09-23**|**Impact of random alloy fluctuations on the carrier distribution in multi-color (In,Ga)N/GaN quantum well systems**|Michael O'Donovan et.al.|[2209.11657v1](http://arxiv.org/abs/2209.11657v1)|null|
-|**2022-09-23**|**Modular Degradation Simulation and Restoration for Under-Display Camera**|Yang Zhou et.al.|[2209.11455v1](http://arxiv.org/abs/2209.11455v1)|null|
+|**2022-09-23**|**Modular Degradation Simulation and Restoration for Under-Display Camera**|Yang Zhou et.al.|[2209.11455v1](http://arxiv.org/abs/2209.11455v1)|**[link](https://github.com/summerparadise-0922/mpgnet)**|
 |**2022-09-22**|**CMGAN: Conformer-Based Metric-GAN for Monaural Speech Enhancement**|Sherif Abdulatif et.al.|[2209.11112v2](http://arxiv.org/abs/2209.11112v2)|**[link](https://github.com/ruizhecao96/cmgan)**|
 |**2022-09-22**|**MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation**|Junyoung Seo et.al.|[2209.11047v2](http://arxiv.org/abs/2209.11047v2)|null|
-|**2022-09-22**|**Structure Guided Manifolds for Discovery of Disease Characteristics**|Siyu Liu et.al.|[2209.11015v1](http://arxiv.org/abs/2209.11015v1)|null|
+|**2022-09-22**|**Structure Guided Manifolds for Discovery of Disease Characteristics**|Siyu Liu et.al.|[2209.11015v2](http://arxiv.org/abs/2209.11015v2)|null|
 |**2022-09-22**|**Fingerprints of carbon defects in vibrational spectra of gallium nitride (GaN) consider-ing the isotope effect**|I. Gamov et.al.|[2209.10893v1](http://arxiv.org/abs/2209.10893v1)|null|
 |**2022-09-22**|**MnTTS: An Open-Source Mongolian Text-to-Speech Synthesis Dataset and Accompanied Baseline**|Yifan Hu et.al.|[2209.10848v1](http://arxiv.org/abs/2209.10848v1)|**[link](https://github.com/walker-hyf/mntts)**|
 |**2022-09-22**|**IntereStyle: Encoding an Interest Region for Robust StyleGAN Inversion**|Seungjun Moon et.al.|[2209.10811v1](http://arxiv.org/abs/2209.10811v1)|null|
@@ -231,7 +231,7 @@ layout: default
 |**2022-09-22**|**Some branching laws for symmetric spaces**|Bent Orsted et.al.|[2209.10755v1](http://arxiv.org/abs/2209.10755v1)|null|
 |**2022-09-21**|**Mandarin Singing Voice Synthesis with Denoising Diffusion Probabilistic Wasserstein GAN**|Yin-Ping Cho et.al.|[2209.10446v1](http://arxiv.org/abs/2209.10446v1)|null|
 |**2022-09-21**|**LatentGaze: Cross-Domain Gaze Estimation through Gaze-Aware Analytic Latent Code Manipulation**|Isack Lee et.al.|[2209.10171v1](http://arxiv.org/abs/2209.10171v1)|**[link](https://github.com/leeisack/latentgaze)**|
-|**2022-09-21**|**Boosting Star-GANs for Voice Conversion with Contrastive Discriminator**|Shijing Si et.al.|[2209.10088v2](http://arxiv.org/abs/2209.10088v2)|null|
+|**2022-09-21**|**Boosting Star-GANs for Voice Conversion with Contrastive Discriminator**|Shijing Si et.al.|[2209.10088v3](http://arxiv.org/abs/2209.10088v3)|null|
 |**2022-09-21**|**A first-principles investigation of the linear thermal expansion coefficients of BeF$_2$: Giant thermal expansion**|Chee Kwan Gan et.al.|[2209.10087v1](http://arxiv.org/abs/2209.10087v1)|null|
 |**2022-09-20**|**Improving GANs with A Dynamic Discriminator**|Ceyuan Yang et.al.|[2209.09897v1](http://arxiv.org/abs/2209.09897v1)|null|
 |**2022-09-20**|**High-resolution synthesis of high-density breast mammograms: Application to improved fairness in deep learning based mass detection**|Lidia Garrucho et.al.|[2209.09809v1](http://arxiv.org/abs/2209.09809v1)|null|
