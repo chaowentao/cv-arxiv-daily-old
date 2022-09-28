@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.27
+## Updated on 2022.09.28
 
 ## Image Generation
 
@@ -82,7 +82,7 @@ layout: default
 |**2022-09-25**|**All are Worth Words: a ViT Backbone for Score-based Diffusion Models**|Fan Bao et.al.|[2209.12152v1](http://arxiv.org/abs/2209.12152v1)|null|
 |**2022-09-23**|**Wide-Area Geolocalization with a Limited Field of View Camera**|Lena M. Downes et.al.|[2209.11854v1](http://arxiv.org/abs/2209.11854v1)|null|
 |**2022-09-23**|**NasHD: Efficient ViT Architecture Performance Ranking using Hyperdimensional Computing**|Dongning Ma et.al.|[2209.11356v1](http://arxiv.org/abs/2209.11356v1)|null|
-|**2022-09-22**|**Colonoscopy Landmark Detection using Vision Transformers**|Aniruddha Tamhane et.al.|[2209.11304v1](http://arxiv.org/abs/2209.11304v1)|null|
+|**2022-09-22**|**Colonoscopy Landmark Detection using Vision Transformers**|Aniruddha Tamhane et.al.|[2209.11304v2](http://arxiv.org/abs/2209.11304v2)|null|
 |**2022-09-20**|**Traffic Accident Risk Forecasting using Contextual Vision Transformers**|Khaled Saleh et.al.|[2209.11180v1](http://arxiv.org/abs/2209.11180v1)|null|
 |**2022-09-18**|**EEG-Based Epileptic Seizure Prediction Using Temporal Multi-Channel Transformers**|Ricardo V. Godoy et.al.|[2209.11172v1](http://arxiv.org/abs/2209.11172v1)|null|
 |**2022-09-22**|**Pretraining the Vision Transformer using self-supervised methods for vision based Deep Reinforcement Learning**|Manuel Goulão et.al.|[2209.10901v1](http://arxiv.org/abs/2209.10901v1)|**[link](https://github.com/mgoulao/tov-vicreg)**|
@@ -240,7 +240,7 @@ layout: default
 |**2022-09-22**|**Some branching laws for symmetric spaces**|Bent Orsted et.al.|[2209.10755v1](http://arxiv.org/abs/2209.10755v1)|null|
 |**2022-09-21**|**Mandarin Singing Voice Synthesis with Denoising Diffusion Probabilistic Wasserstein GAN**|Yin-Ping Cho et.al.|[2209.10446v1](http://arxiv.org/abs/2209.10446v1)|null|
 |**2022-09-21**|**LatentGaze: Cross-Domain Gaze Estimation through Gaze-Aware Analytic Latent Code Manipulation**|Isack Lee et.al.|[2209.10171v1](http://arxiv.org/abs/2209.10171v1)|**[link](https://github.com/leeisack/latentgaze)**|
-|**2022-09-21**|**Boosting Star-GANs for Voice Conversion with Contrastive Discriminator**|Shijing Si et.al.|[2209.10088v3](http://arxiv.org/abs/2209.10088v3)|null|
+|**2022-09-21**|**Boosting Star-GANs for Voice Conversion with Contrastive Discriminator**|Shijing Si et.al.|[2209.10088v4](http://arxiv.org/abs/2209.10088v4)|null|
 |**2022-09-21**|**A first-principles investigation of the linear thermal expansion coefficients of BeF$_2$: Giant thermal expansion**|Chee Kwan Gan et.al.|[2209.10087v1](http://arxiv.org/abs/2209.10087v1)|null|
 |**2022-09-20**|**Improving GANs with A Dynamic Discriminator**|Ceyuan Yang et.al.|[2209.09897v1](http://arxiv.org/abs/2209.09897v1)|null|
 |**2022-09-20**|**High-resolution synthesis of high-density breast mammograms: Application to improved fairness in deep learning based mass detection**|Lidia Garrucho et.al.|[2209.09809v1](http://arxiv.org/abs/2209.09809v1)|null|
@@ -257,13 +257,13 @@ layout: default
 |**2022-09-26**|**Text Summarization with Oracle Expectation**|Yumo Xu et.al.|[2209.12714v1](http://arxiv.org/abs/2209.12714v1)|**[link](https://github.com/yumoxu/oreo)**|
 |**2022-09-26**|**Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts**|Joel Jang et.al.|[2209.12711v1](http://arxiv.org/abs/2209.12711v1)|**[link](https://github.com/joeljang/negated-prompts-for-llms)**|
 |**2022-09-26**|**Deep Manifold Hashing: A Divide-and-Conquer Approach for Semi-Paired Unsupervised Cross-Modal Retrieval**|Yufeng Shi et.al.|[2209.12599v1](http://arxiv.org/abs/2209.12599v1)|null|
-|**2022-09-26**|**Meta-Learning a Cross-lingual Manifold for Semantic Parsing**|Tom Sherborne Mirella Lapata et.al.|[2209.12577v1](http://arxiv.org/abs/2209.12577v1)|null|
+|**2022-09-26**|**Meta-Learning a Cross-lingual Manifold for Semantic Parsing**|Tom Sherborne et.al.|[2209.12577v2](http://arxiv.org/abs/2209.12577v2)|null|
 |**2022-09-26**|**Information-Theoretic Hashing for Zero-Shot Cross-Modal Retrieval**|Yufeng Shi et.al.|[2209.12491v1](http://arxiv.org/abs/2209.12491v1)|null|
 |**2022-09-26**|**Visual Anomaly Detection Via Partition Memory Bank Module and Error Estimation**|Peng Xing et.al.|[2209.12441v1](http://arxiv.org/abs/2209.12441v1)|null|
 |**2022-09-26**|**Self-Supervised Guided Segmentation Framework for Unsupervised Anomaly Detection**|Peng Xing et.al.|[2209.12440v1](http://arxiv.org/abs/2209.12440v1)|null|
 |**2022-09-26**|**Real-time Anomaly Detection for Multivariate Data Streams**|Kenneth Odoh et.al.|[2209.12398v1](http://arxiv.org/abs/2209.12398v1)|null|
-|**2022-09-26**|**News Summarization and Evaluation in the Era of GPT-3**|Tanya Goyal et.al.|[2209.12356v1](http://arxiv.org/abs/2209.12356v1)|null|
-|**2022-09-25**|**Unsupervised Reward Shaping for a Robotic Sequential Picking Task from Visual Observations in a Logistics Scenario**|Vittorio Giammarino et.al.|[2209.12350v1](http://arxiv.org/abs/2209.12350v1)|null|
+|**2022-09-26**|**News Summarization and Evaluation in the Era of GPT-3**|Tanya Goyal et.al.|[2209.12356v1](http://arxiv.org/abs/2209.12356v1)|**[link](https://github.com/tagoyal/factuality-datasets)**|
+|**2022-09-25**|**Unsupervised Reward Shaping for a Robotic Sequential Picking Task from Visual Observations in a Logistics Scenario**|Vittorio Giammarino et.al.|[2209.12350v1](http://arxiv.org/abs/2209.12350v1)|**[link](https://github.com/vittoriogiammarino/bootstrapping-rl-4-sequential-picking)**|
 |**2022-09-25**|**Exploiting Trust for Resilient Hypothesis Testing with Malicious Robots**|Matthew Cavorsi et.al.|[2209.12285v1](http://arxiv.org/abs/2209.12285v1)|null|
 |**2022-09-25**|**VAESim: A probabilistic approach for self-supervised prototype discovery**|Matteo Ferrante et.al.|[2209.12279v1](http://arxiv.org/abs/2209.12279v1)|**[link](https://github.com/matteoferrante/vaesim)**|
 |**2022-09-25**|**Collaboration of Pre-trained Models Makes Better Few-shot Learner**|Renrui Zhang et.al.|[2209.12255v1](http://arxiv.org/abs/2209.12255v1)|null|
@@ -279,7 +279,7 @@ layout: default
 |**2022-09-23**|**One-Shot Reachability Analysis of Neural Network Dynamical Systems**|Shaoru Chen et.al.|[2209.11827v1](http://arxiv.org/abs/2209.11827v1)|null|
 |**2022-09-23**|**Composite Layers for Deep Anomaly Detection on 3D Point Clouds**|Alberto Floris et.al.|[2209.11796v1](http://arxiv.org/abs/2209.11796v1)|null|
 |**2022-09-23**|**Promptagator: Few-shot Dense Retrieval From 8 Examples**|Zhuyun Dai et.al.|[2209.11755v1](http://arxiv.org/abs/2209.11755v1)|null|
-|**2022-09-23**|**BioKlustering: a web app for semi-supervised learning of maximally imbalanced genomic data**|Samuel Ozminkowski et.al.|[2209.11730v1](http://arxiv.org/abs/2209.11730v1)|null|
+|**2022-09-23**|**BioKlustering: a web app for semi-supervised learning of maximally imbalanced genomic data**|Samuel Ozminkowski et.al.|[2209.11730v2](http://arxiv.org/abs/2209.11730v2)|**[link](https://github.com/solislemuslab/bioklustering)**|
 |**2022-09-23**|**View-Invariant Skeleton-based Action Recognition via Global-Local Contrastive Learning**|Cunling Bian et.al.|[2209.11634v1](http://arxiv.org/abs/2209.11634v1)|null|
 |**2022-09-23**|**From Weakly Supervised Learning to Active Learning**|Vivien Cabannes et.al.|[2209.11629v1](http://arxiv.org/abs/2209.11629v1)|null|
 |**2022-09-23**|**MAGIC: Mask-Guided Image Synthesis by Inverting a Quasi-Robust Classifier**|Mozhdeh Rouhsedaghat et.al.|[2209.11549v1](http://arxiv.org/abs/2209.11549v1)|null|
