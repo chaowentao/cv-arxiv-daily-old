@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.28
+## Updated on 2022.09.29
 
 ## Image Generation
 
@@ -88,7 +88,7 @@ layout: default
 |**2022-09-18**|**EEG-Based Epileptic Seizure Prediction Using Temporal Multi-Channel Transformers**|Ricardo V. Godoy et.al.|[2209.11172v1](http://arxiv.org/abs/2209.11172v1)|null|
 |**2022-09-22**|**Pretraining the Vision Transformer using self-supervised methods for vision based Deep Reinforcement Learning**|Manuel Goulão et.al.|[2209.10901v1](http://arxiv.org/abs/2209.10901v1)|**[link](https://github.com/mgoulao/tov-vicreg)**|
 |**2022-09-21**|**PicT: A Slim Weakly Supervised Vision Transformer for Pavement Distress Classification**|Wenhao Tang et.al.|[2209.10074v1](http://arxiv.org/abs/2209.10074v1)|null|
-|**2022-09-19**|**Multi-Task Vision Transformer for Semi-Supervised Driver Distraction Detection**|Yunsheng Ma et.al.|[2209.09178v1](http://arxiv.org/abs/2209.09178v1)|**[link](https://github.com/purduedigitaltwin/vit-dd)**|
+|**2022-09-19**|**ViT-DD: Multi-Task Vision Transformer for Semi-Supervised Driver Distraction Detection**|Yunsheng Ma et.al.|[2209.09178v2](http://arxiv.org/abs/2209.09178v2)|**[link](https://github.com/purduedigitaltwin/vit-dd)**|
 |**2022-09-19**|**Panoramic Vision Transformer for Saliency Detection in 360° Videos**|Heeseung Yun et.al.|[2209.08956v1](http://arxiv.org/abs/2209.08956v1)|null|
 |**2022-09-19**|**Estimating Brain Age with Global and Local Dependencies**|Yanwu Yang et.al.|[2209.08933v1](http://arxiv.org/abs/2209.08933v1)|null|
 |**2022-09-19**|**HiMFR: A Hybrid Masked Face Recognition Through Face Inpainting**|Md Imran Hosen et.al.|[2209.08930v1](http://arxiv.org/abs/2209.08930v1)|**[link](https://github.com/mdhosen/himfr)**|
@@ -149,7 +149,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-27**|**Motion Transformer with Global Intention Localization and Local Movement Refinement**|Shaoshuai Shi et.al.|[2209.13508v1](http://arxiv.org/abs/2209.13508v1)|**[link](https://github.com/sshaoshuai/mtr)**|
-|**2022-09-27**|**Draw Your Art Dream: Diverse Digital Art Synthesis with Multimodal Guided Diffusion**|Huang Nisha et.al.|[2209.13360v1](http://arxiv.org/abs/2209.13360v1)|**[link](https://github.com/haha-lisa/mgad-multimodal-guided-artwork-diffusion)**|
+|**2022-09-27**|**Draw Your Art Dream: Diverse Digital Art Synthesis with Multimodal Guided Diffusion**|Nisha Huang et.al.|[2209.13360v2](http://arxiv.org/abs/2209.13360v2)|**[link](https://github.com/haha-lisa/mgad-multimodal-guided-artwork-diffusion)**|
 |**2022-09-27**|**SuperYOLO: Super Resolution Assisted Object Detection in Multimodal Remote Sensing Imagery**|Jiaqing Zhang et.al.|[2209.13351v1](http://arxiv.org/abs/2209.13351v1)|**[link](https://github.com/icey-zhang/SuperYOLO)**|
 |**2022-09-27**|**Mirrors-light-atoms entanglement in ring optomechanical cavity**|Oumayma El Bir et.al.|[2209.13228v1](http://arxiv.org/abs/2209.13228v1)|null|
 |**2022-09-27**|**Towards Multimodal Multitask Scene Understanding Models for Indoor Mobile Agents**|Yao-Hung Hubert Tsai et.al.|[2209.13156v1](http://arxiv.org/abs/2209.13156v1)|null|
@@ -174,7 +174,7 @@ layout: default
 |**2022-09-21**|**Dodging the Data Bottleneck: Automatic Subtitling with Automatically Segmented ST Corpora**|Sara Papi et.al.|[2209.10608v1](http://arxiv.org/abs/2209.10608v1)|null|
 |**2022-09-21**|**Identification of Adaptive Driving Style Preference through Implicit Inputs in SAE L2 Vehicles**|Zhaobo K. Zheng et.al.|[2209.10536v1](http://arxiv.org/abs/2209.10536v1)|null|
 |**2022-09-21**|**FV2ES: A Fully End2End Multimodal System for Fast Yet Effective Video Emotion Recognition Inference**|Qinglan Wei et.al.|[2209.10170v1](http://arxiv.org/abs/2209.10170v1)|**[link](https://github.com/qlwei89/fv2es)**|
-|**2022-09-20**|**MTR-A: 1st Place Solution for 2022 Waymo Open Dataset Challenge -- Motion Prediction**|Shaoshuai Shi et.al.|[2209.10033v1](http://arxiv.org/abs/2209.10033v1)|null|
+|**2022-09-20**|**MTR-A: 1st Place Solution for 2022 Waymo Open Dataset Challenge -- Motion Prediction**|Shaoshuai Shi et.al.|[2209.10033v1](http://arxiv.org/abs/2209.10033v1)|**[link](https://github.com/sshaoshuai/mtr)**|
 |**2022-09-20**|**Superpixel Generation and Clustering for Weakly Supervised Brain Tumor Segmentation in MR Images**|Jay J. Yoo et.al.|[2209.09930v1](http://arxiv.org/abs/2209.09930v1)|null|
 |**2022-09-20**|**Synapse: Interactive Guidance by Demonstration with Trial-and-Error Support for Older Adults to Use Smartphone Apps**|Xiaofu Jin et.al.|[2209.09596v1](http://arxiv.org/abs/2209.09596v1)|null|
 |**2022-09-20**|**Cross-modal Learning for Image-Guided Point Cloud Shape Completion**|Emanuele Aiello et.al.|[2209.09552v1](http://arxiv.org/abs/2209.09552v1)|**[link](https://github.com/diegovalsesia/xmfnet)**|
