@@ -1,4 +1,4 @@
-## Updated on 2022.09.30
+## Updated on 2022.10.01
 
 ## Image Generation
 
@@ -76,7 +76,7 @@
 |---|---|---|---|---|
 |**2022-09-29**|**Effective Vision Transformer Training: A Data-Centric Perspective**|Benjia Zhou et.al.|[2209.15006v1](http://arxiv.org/abs/2209.15006v1)|null|
 |**2022-09-29**|**Dilated Neighborhood Attention Transformer**|Ali Hassani et.al.|[2209.15001v1](http://arxiv.org/abs/2209.15001v1)|**[link](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)**|
-|**2022-09-28**|**UNesT: Local Spatial Representation Learning with Hierarchical Transformer for Efficient Medical Segmentation**|Xin Yu et.al.|[2209.14378v1](http://arxiv.org/abs/2209.14378v1)|null|
+|**2022-09-28**|**UNesT: Local Spatial Representation Learning with Hierarchical Transformer for Efficient Medical Segmentation**|Xin Yu et.al.|[2209.14378v1](http://arxiv.org/abs/2209.14378v1)|**[link](https://github.com/project-monai/model-zoo)**|
 |**2022-09-28**|**360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance**|Shreyas Kulkarni et.al.|[2209.14265v1](http://arxiv.org/abs/2209.14265v1)|null|
 |**2022-09-28**|**Exploring the Relationship between Architecture and Adversarially Robust Generalization**|Shiyu Tang et.al.|[2209.14105v1](http://arxiv.org/abs/2209.14105v1)|null|
 |**2022-09-28**|**Motion Transformer for Unsupervised Image Animation**|Jiale Tao et.al.|[2209.14024v1](http://arxiv.org/abs/2209.14024v1)|**[link](https://github.com/jialetao/motrans)**|
@@ -95,7 +95,7 @@
 |**2022-09-22**|**Pretraining the Vision Transformer using self-supervised methods for vision based Deep Reinforcement Learning**|Manuel Goulão et.al.|[2209.10901v1](http://arxiv.org/abs/2209.10901v1)|**[link](https://github.com/mgoulao/tov-vicreg)**|
 |**2022-09-21**|**PicT: A Slim Weakly Supervised Vision Transformer for Pavement Distress Classification**|Wenhao Tang et.al.|[2209.10074v1](http://arxiv.org/abs/2209.10074v1)|null|
 |**2022-09-19**|**ViT-DD: Multi-Task Vision Transformer for Semi-Supervised Driver Distraction Detection**|Yunsheng Ma et.al.|[2209.09178v2](http://arxiv.org/abs/2209.09178v2)|**[link](https://github.com/purduedigitaltwin/vit-dd)**|
-|**2022-09-19**|**Panoramic Vision Transformer for Saliency Detection in 360° Videos**|Heeseung Yun et.al.|[2209.08956v1](http://arxiv.org/abs/2209.08956v1)|null|
+|**2022-09-19**|**Panoramic Vision Transformer for Saliency Detection in 360° Videos**|Heeseung Yun et.al.|[2209.08956v1](http://arxiv.org/abs/2209.08956v1)|**[link](https://github.com/hs-yn/paver)**|
 |**2022-09-19**|**Estimating Brain Age with Global and Local Dependencies**|Yanwu Yang et.al.|[2209.08933v1](http://arxiv.org/abs/2209.08933v1)|null|
 |**2022-09-19**|**HiMFR: A Hybrid Masked Face Recognition Through Face Inpainting**|Md Imran Hosen et.al.|[2209.08930v1](http://arxiv.org/abs/2209.08930v1)|**[link](https://github.com/mdhosen/himfr)**|
 |**2022-09-19**|**Attentive Symmetric Autoencoder for Brain MRI Segmentation**|Junjia Huang et.al.|[2209.08887v1](http://arxiv.org/abs/2209.08887v1)|**[link](https://github.com/lhaof/asa)**|
