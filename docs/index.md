@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.02
+## Updated on 2022.10.03
 
 ## Image Generation
 
@@ -148,7 +148,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-09-29**|**Evaluating Research Dataset Recommendations in a Living Lab**|Jüri Keller et.al.|[2209.14843v1](http://arxiv.org/abs/2209.14843v1)|null|
+|**2022-09-29**|**Evaluating Research Dataset Recommendations in a Living Lab**|Jüri Keller et.al.|[2209.14843v2](http://arxiv.org/abs/2209.14843v2)|null|
 |**2022-09-29**|**Make-A-Video: Text-to-Video Generation without Text-Video Data**|Uriel Singer et.al.|[2209.14792v1](http://arxiv.org/abs/2209.14792v1)|null|
 |**2022-09-29**|**Scaling transformation of the multimode nonlinear Schrödinger equation for physics-informed neural networks**|Ivan Chuprov et.al.|[2209.14641v1](http://arxiv.org/abs/2209.14641v1)|null|
 |**2022-09-28**|**Multi-mode Gaussian State Analysis with Total Photon Counting**|Arik Avagyan et.al.|[2209.14453v1](http://arxiv.org/abs/2209.14453v1)|null|
@@ -193,7 +193,7 @@ layout: default
 |**2022-09-25**|**Enforcing safety for vision-based controllers via Control Barrier Functions and Neural Radiance Fields**|Mukun Tong et.al.|[2209.12266v1](http://arxiv.org/abs/2209.12266v1)|null|
 |**2022-09-24**|**NeRF-Loc: Transformer-Based Object Localization Within Neural Radiance Fields**|Jiankai Sun et.al.|[2209.12068v1](http://arxiv.org/abs/2209.12068v1)|null|
 |**2022-09-19**|**Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields**|Dominic Maggio et.al.|[2209.09050v1](http://arxiv.org/abs/2209.09050v1)|null|
-|**2022-09-19**|**NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes**|Zhiwen Fan et.al.|[2209.08776v4](http://arxiv.org/abs/2209.08776v4)|**[link](https://github.com/vita-group/nerf-sos)**|
+|**2022-09-19**|**NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes**|Zhiwen Fan et.al.|[2209.08776v5](http://arxiv.org/abs/2209.08776v5)|**[link](https://github.com/vita-group/nerf-sos)**|
 |**2022-09-19**|**Density-aware NeRF Ensembles: Quantifying Predictive Uncertainty in Neural Radiance Fields**|Niko Sünderhauf et.al.|[2209.08718v1](http://arxiv.org/abs/2209.08718v1)|null|
 |**2022-09-18**|**ActiveNeRF: Learning where to See with Uncertainty Estimation**|Xuran Pan et.al.|[2209.08546v1](http://arxiv.org/abs/2209.08546v1)|null|
 |**2022-09-18**|**LATITUDE: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF**|Zhenxin Zhu et.al.|[2209.08498v1](http://arxiv.org/abs/2209.08498v1)|**[link](https://github.com/jike5/LATITUDE)**|
@@ -220,7 +220,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-29**|**Estimation of Electrical Characteristics of Inhomogeneous Walls Using Generative Adversarial Networks**|Kainat Yasmeen et.al.|[2209.14805v1](http://arxiv.org/abs/2209.14805v1)|null|
 |**2022-09-29**|**R2C-GAN: Restore-to-Classify GANs for Blind X-Ray Restoration and COVID-19 Classification**|Mete Ahishali et.al.|[2209.14770v1](http://arxiv.org/abs/2209.14770v1)|**[link](https://github.com/meteahishali/r2c-gan)**|
-|**2022-09-29**|**Creative Painting with Latent Diffusion Models**|Xianchao Wu et.al.|[2209.14697v1](http://arxiv.org/abs/2209.14697v1)|null|
+|**2022-09-29**|**Creative Painting with Latent Diffusion Models**|Xianchao Wu et.al.|[2209.14697v2](http://arxiv.org/abs/2209.14697v2)|null|
 |**2022-09-29**|**Circularly Polarized Fabry-Perot Cavity Sensing Antenna Design using Generative Model**|Kainat Yasmeen et.al.|[2209.14550v1](http://arxiv.org/abs/2209.14550v1)|null|
 |**2022-09-29**|**Semantics-Guided Object Removal for Facial Images: with Broad Applicability and Robust Style Preservation**|Jookyung Song et.al.|[2209.14479v1](http://arxiv.org/abs/2209.14479v1)|null|
 |**2022-09-28**|**Data Augmentation using Feature Generation for Volumetric Medical Images**|Khushboo Mehra et.al.|[2209.14097v1](http://arxiv.org/abs/2209.14097v1)|null|
@@ -236,7 +236,7 @@ layout: default
 |**2022-09-26**|**Exploring Attention GAN for Vehicle Motion Prediction**|Carlos Gómez-Huélamo et.al.|[2209.12674v1](http://arxiv.org/abs/2209.12674v1)|**[link](https://github.com/cram3r95/mapfe4mp)**|
 |**2022-09-26**|**Multi-Task Adversarial Training Algorithm for Multi-Speaker Neural Text-to-Speech**|Yusuke Nakai et.al.|[2209.12549v1](http://arxiv.org/abs/2209.12549v1)|null|
 |**2022-09-25**|**Safety-compliant Generative Adversarial Networks for Human Trajectory Forecasting**|Parth Kothari et.al.|[2209.12243v1](http://arxiv.org/abs/2209.12243v1)|null|
-|**2022-09-24**|**Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models**|Qing Lyu et.al.|[2209.12104v1](http://arxiv.org/abs/2209.12104v1)|null|
+|**2022-09-24**|**Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models**|Qing Lyu et.al.|[2209.12104v2](http://arxiv.org/abs/2209.12104v2)|null|
 |**2022-09-24**|**Controllable Face Manipulation and UV Map Generation by Self-supervised Learning**|Yuanming Li et.al.|[2209.12050v1](http://arxiv.org/abs/2209.12050v1)|null|
 |**2022-09-24**|**Raising the Bar on the Evaluation of Out-of-Distribution Detection**|Jishnu Mukhoti et.al.|[2209.11960v1](http://arxiv.org/abs/2209.11960v1)|null|
 |**2022-09-24**|**Self-supervised Image Clustering from Multiple Incomplete Views via Constrastive Complementary Generation**|Jiatai Wang et.al.|[2209.11927v1](http://arxiv.org/abs/2209.11927v1)|null|
