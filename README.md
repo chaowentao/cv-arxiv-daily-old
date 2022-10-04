@@ -1,4 +1,4 @@
-## Updated on 2022.10.03
+## Updated on 2022.10.04
 
 ## Image Generation
 
@@ -78,11 +78,11 @@
 |**2022-09-30**|**Diffusion-based Image Translation using Disentangled Style and Content Representation**|Gihyun Kwon et.al.|[2209.15264v1](http://arxiv.org/abs/2209.15264v1)|**[link](https://github.com/anon294384/diffuseit)**|
 |**2022-09-30**|**Dual Progressive Transformations for Weakly Supervised Semantic Segmentation**|Dongjian Huo et.al.|[2209.15211v1](http://arxiv.org/abs/2209.15211v1)|**[link](https://github.com/huodongjian0603/crt)**|
 |**2022-09-30**|**MobileViTv3: Mobile-Friendly Vision Transformer with Simple and Effective Fusion of Local, Global and Input Features**|Shakti N. Wadekar et.al.|[2209.15159v1](http://arxiv.org/abs/2209.15159v1)|**[link](https://github.com/microndla/mobilevitv3)**|
-|**2022-09-29**|**3D UX-Net: A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation**|Ho Hin Lee et.al.|[2209.15076v1](http://arxiv.org/abs/2209.15076v1)|**[link](https://github.com/masilab/3dux-net)**|
+|**2022-09-29**|**3D UX-Net: A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation**|Ho Hin Lee et.al.|[2209.15076v2](http://arxiv.org/abs/2209.15076v2)|**[link](https://github.com/masilab/3dux-net)**|
 |**2022-09-29**|**Effective Vision Transformer Training: A Data-Centric Perspective**|Benjia Zhou et.al.|[2209.15006v1](http://arxiv.org/abs/2209.15006v1)|null|
 |**2022-09-29**|**Dilated Neighborhood Attention Transformer**|Ali Hassani et.al.|[2209.15001v1](http://arxiv.org/abs/2209.15001v1)|**[link](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)**|
 |**2022-09-28**|**UNesT: Local Spatial Representation Learning with Hierarchical Transformer for Efficient Medical Segmentation**|Xin Yu et.al.|[2209.14378v1](http://arxiv.org/abs/2209.14378v1)|**[link](https://github.com/project-monai/model-zoo)**|
-|**2022-09-28**|**360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance**|Shreyas Kulkarni et.al.|[2209.14265v1](http://arxiv.org/abs/2209.14265v1)|null|
+|**2022-09-28**|**360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance**|Shreyas Kulkarni et.al.|[2209.14265v2](http://arxiv.org/abs/2209.14265v2)|**[link](https://github.com/metaslam/360fusionnerf)**|
 |**2022-09-28**|**Exploring the Relationship between Architecture and Adversarially Robust Generalization**|Shiyu Tang et.al.|[2209.14105v1](http://arxiv.org/abs/2209.14105v1)|null|
 |**2022-09-28**|**Motion Transformer for Unsupervised Image Animation**|Jiale Tao et.al.|[2209.14024v1](http://arxiv.org/abs/2209.14024v1)|**[link](https://github.com/jialetao/motrans)**|
 |**2022-09-28**|**DeViT: Deformed Vision Transformers in Video Inpainting**|Jiayin Cai et.al.|[2209.13925v1](http://arxiv.org/abs/2209.13925v1)|null|
@@ -170,7 +170,7 @@
 |**2022-09-25**|**Multimodal Learning with Channel-Mixing and Masked Autoencoder on Facial Action Unit Detection**|Xiang Zhang et.al.|[2209.12244v1](http://arxiv.org/abs/2209.12244v1)|null|
 |**2022-09-25**|**Safety-compliant Generative Adversarial Networks for Human Trajectory Forecasting**|Parth Kothari et.al.|[2209.12243v1](http://arxiv.org/abs/2209.12243v1)|null|
 |**2022-09-25**|**Multimodal Exponentially Modified Gaussian Oscillators**|Christopher Hahne et.al.|[2209.12202v1](http://arxiv.org/abs/2209.12202v1)|**[link](https://github.com/hahnec/multimodal_emg)**|
-|**2022-09-24**|**Facilitating Self-monitored Physical Rehabilitation with Virtual Reality and Haptic feedback**|Yu Jiang et.al.|[2209.12018v1](http://arxiv.org/abs/2209.12018v1)|null|
+|**2022-09-24**|**Facilitating Self-monitored Physical Rehabilitation with Virtual Reality and Haptic feedback**|Yu Jiang et.al.|[2209.12018v2](http://arxiv.org/abs/2209.12018v2)|null|
 |**2022-09-24**|**Deep Neural Networks for Visual Reasoning**|Thao Minh Le et.al.|[2209.11990v1](http://arxiv.org/abs/2209.11990v1)|null|
 |**2022-09-24**|**Hybrid Multimodal Fusion for Humor Detection**|Haojie Xu et.al.|[2209.11949v1](http://arxiv.org/abs/2209.11949v1)|null|
 |**2022-09-23**|**Photonic interface between subcarrier wave and dual rail encodings**|K. S. Melnik et.al.|[2209.11719v1](http://arxiv.org/abs/2209.11719v1)|null|
@@ -183,7 +183,7 @@
 |**2022-09-30**|**Understanding Pure CLIP Guidance for Voxel Grid NeRF Models**|Han-Hung Lee et.al.|[2209.15172v1](http://arxiv.org/abs/2209.15172v1)|null|
 |**2022-09-29**|**DreamFusion: Text-to-3D using 2D Diffusion**|Ben Poole et.al.|[2209.14988v1](http://arxiv.org/abs/2209.14988v1)|null|
 |**2022-09-29**|**SymmNeRF: Learning to Explore Symmetry Prior for Single-View View Synthesis**|Xingyi Li et.al.|[2209.14819v1](http://arxiv.org/abs/2209.14819v1)|**[link](https://github.com/xingyi-li/symmnerf)**|
-|**2022-09-28**|**360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance**|Shreyas Kulkarni et.al.|[2209.14265v1](http://arxiv.org/abs/2209.14265v1)|null|
+|**2022-09-28**|**360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance**|Shreyas Kulkarni et.al.|[2209.14265v2](http://arxiv.org/abs/2209.14265v2)|**[link](https://github.com/metaslam/360fusionnerf)**|
 |**2022-09-27**|**OmniNeRF: Hybriding Omnidirectional Distance and Radiance fields for Neural Surface Reconstruction**|Jiaming Shen et.al.|[2209.13433v1](http://arxiv.org/abs/2209.13433v1)|null|
 |**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung et.al.|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
 |**2022-09-27**|**WaterNeRF: Neural Radiance Fields for Underwater Scenes**|Advaith Venkatramanan Sethuraman et.al.|[2209.13091v1](http://arxiv.org/abs/2209.13091v1)|null|
