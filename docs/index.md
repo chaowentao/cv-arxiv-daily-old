@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.04
+## Updated on 2022.10.05
 
 ## Image Generation
 
@@ -83,7 +83,7 @@ layout: default
 |**2022-10-03**|**Attention Distillation: self-supervised vision transformer students need more guidance**|Kai Wang et.al.|[2210.00944v1](http://arxiv.org/abs/2210.00944v1)|null|
 |**2022-10-03**|**A Strong Transfer Baseline for RGB-D Fusion in Vision Transformers**|Georgios Tziafas et.al.|[2210.00843v1](http://arxiv.org/abs/2210.00843v1)|null|
 |**2022-10-02**|**Deep-OCTA: Ensemble Deep Learning Approaches for Diabetic Retinopathy Analysis on OCTA Images**|Junlin Hou et.al.|[2210.00515v1](http://arxiv.org/abs/2210.00515v1)|**[link](https://github.com/fdu-vts/drac)**|
-|**2022-10-01**|**Concurrent Recognition and Segmentation with Adaptive Segment Tokens**|Tsung-Wei Ke et.al.|[2210.00314v1](http://arxiv.org/abs/2210.00314v1)|null|
+|**2022-10-01**|**CAST: Concurrent Recognition and Segmentation with Adaptive Segment Tokens**|Tsung-Wei Ke et.al.|[2210.00314v2](http://arxiv.org/abs/2210.00314v2)|null|
 |**2022-10-01**|**EAPruning: Evolutionary Pruning for Vision Transformers and CNNs**|Qingyuan Li et.al.|[2210.00181v1](http://arxiv.org/abs/2210.00181v1)|null|
 |**2022-09-30**|**Impact of Face Image Quality Estimation on Presentation Attack Detection**|Carlos Aravena et.al.|[2209.15489v1](http://arxiv.org/abs/2209.15489v1)|null|
 |**2022-09-30**|**Diffusion-based Image Translation using Disentangled Style and Content Representation**|Gihyun Kwon et.al.|[2209.15264v1](http://arxiv.org/abs/2209.15264v1)|**[link](https://github.com/anon294384/diffuseit)**|
@@ -113,7 +113,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-10-03**|**Heatmap Distribution Matching for Human Pose Estimation**|Haoxuan Qu et.al.|[2210.00740v1](http://arxiv.org/abs/2210.00740v1)|null|
+|**2022-10-03**|**Heatmap Distribution Matching for Human Pose Estimation**|Haoxuan Qu et.al.|[2210.00740v2](http://arxiv.org/abs/2210.00740v2)|null|
 |**2022-09-28**|**Category-Level Global Camera Pose Estimation with Multi-Hypothesis Point Cloud Correspondences**|Jun-Jee Chao et.al.|[2209.14419v1](http://arxiv.org/abs/2209.14419v1)|null|
 |**2022-09-28**|**Obj2Seq: Formatting Objects as Sequences with Class Prompt for Visual Tasks**|Zhiyang Chen et.al.|[2209.13948v1](http://arxiv.org/abs/2209.13948v1)|**[link](https://github.com/casia-iva-lab/obj2seq)**|
 |**2022-09-28**|**USEEK: Unsupervised SE(3)-Equivariant 3D Keypoints for Generalizable Manipulation**|Zhengrong Xue et.al.|[2209.13864v1](http://arxiv.org/abs/2209.13864v1)|null|
@@ -222,12 +222,12 @@ layout: default
 |**2022-10-03**|**Visual Prompt Tuning for Generative Transfer Learning**|Kihyuk Sohn et.al.|[2210.00990v1](http://arxiv.org/abs/2210.00990v1)|null|
 |**2022-10-03**|**Membership Inference Attacks Against Text-to-image Generation Models**|Yixin Wu et.al.|[2210.00968v1](http://arxiv.org/abs/2210.00968v1)|null|
 |**2022-10-03**|**UnGANable: Defending Against GAN-based Face Manipulation**|Zheng Li et.al.|[2210.00957v1](http://arxiv.org/abs/2210.00957v1)|null|
-|**2022-10-03**|**Improving Sample Quality of Diffusion Model Using Self-Attention Guidance**|Susung Hong et.al.|[2210.00939v1](http://arxiv.org/abs/2210.00939v1)|null|
+|**2022-10-03**|**Improving Sample Quality of Diffusion Models Using Self-Attention Guidance**|Susung Hong et.al.|[2210.00939v2](http://arxiv.org/abs/2210.00939v2)|null|
 |**2022-10-03**|**Efficient acoustic feature transformation in mismatched environments using a Guided-GAN**|Walter Heymans et.al.|[2210.00721v1](http://arxiv.org/abs/2210.00721v1)|null|
 |**2022-10-01**|**Evaluation of Pre-Trained CNN Models for Geographic Fake Image Detection**|Sid Ahmed Fezza et.al.|[2210.00361v1](http://arxiv.org/abs/2210.00361v1)|null|
 |**2022-09-30**|**Improving 3D-aware Image Synthesis with A Geometry-aware Discriminator**|Zifan Shi et.al.|[2209.15637v1](http://arxiv.org/abs/2209.15637v1)|null|
 |**2022-09-30**|**TabDDPM: Modelling Tabular Data with Diffusion Models**|Akim Kotelnikov et.al.|[2209.15421v1](http://arxiv.org/abs/2209.15421v1)|**[link](https://github.com/rotot0/tab-ddpm)**|
-|**2022-09-30**|**restricted projections to lines in $\mathbb{R}^3$**|Shengwen Gan et.al.|[2209.15152v1](http://arxiv.org/abs/2209.15152v1)|null|
+|**2022-09-30**|**An exceptional set estimate for restricted projections to lines in $\mathbb{R}^3$**|Shengwen Gan et.al.|[2209.15152v2](http://arxiv.org/abs/2209.15152v2)|null|
 |**2022-09-29**|**Augmentation Backdoors**|Joseph Rance et.al.|[2209.15139v1](http://arxiv.org/abs/2209.15139v1)|**[link](https://github.com/slkdfjslkjfd/augmentation_backdoors)**|
 |**2022-09-29**|**Estimation of Electrical Characteristics of Inhomogeneous Walls Using Generative Adversarial Networks**|Kainat Yasmeen et.al.|[2209.14805v1](http://arxiv.org/abs/2209.14805v1)|null|
 |**2022-09-29**|**R2C-GAN: Restore-to-Classify GANs for Blind X-Ray Restoration and COVID-19 Classification**|Mete Ahishali et.al.|[2209.14770v1](http://arxiv.org/abs/2209.14770v1)|**[link](https://github.com/meteahishali/r2c-gan)**|
