@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.05
+## Updated on 2022.10.06
 
 ## Image Generation
 
@@ -219,7 +219,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-10-02**|**GANTouch: An Attack-Resilient Framework for Touch-based Continuous Authentication System**|Mohit Agrawal et.al.|[2210.01594v1](http://arxiv.org/abs/2210.01594v1)|**[link](https://github.com/midas-research/gantouch-tbiom)**|
-|**2022-10-04**|**Note on Entanglement Entropy for Primary Fermion Fields in JT Gravity**|Chang-Zhong Guo Collaboration et.al.|[2210.01545v1](http://arxiv.org/abs/2210.01545v1)|null|
+|**2022-10-04**|**Note on Entanglement Entropy for Primary Fermion Fields in JT Gravity**|Chang-Zhong Guo et.al.|[2210.01545v2](http://arxiv.org/abs/2210.01545v2)|null|
 |**2022-10-04**|**MyElas: An automatized tool-kit for high-throughput calculation, post-processing and visualization of elasticity and related properties of solids**|Hao Wang et.al.|[2210.01367v1](http://arxiv.org/abs/2210.01367v1)|null|
 |**2022-10-03**|**MultiLoad-GAN: A GAN-Based Synthetic Load Group Generation Method Considering Spatial-Temporal Correlations**|Yi Hu et.al.|[2210.01167v1](http://arxiv.org/abs/2210.01167v1)|null|
 |**2022-10-03**|**WaveFit: An Iterative and Non-autoregressive Neural Vocoder based on Fixed-Point Iteration**|Yuma Koizumi et.al.|[2210.01029v1](http://arxiv.org/abs/2210.01029v1)|null|
@@ -227,7 +227,7 @@ layout: default
 |**2022-10-03**|**Membership Inference Attacks Against Text-to-image Generation Models**|Yixin Wu et.al.|[2210.00968v1](http://arxiv.org/abs/2210.00968v1)|null|
 |**2022-10-03**|**UnGANable: Defending Against GAN-based Face Manipulation**|Zheng Li et.al.|[2210.00957v1](http://arxiv.org/abs/2210.00957v1)|null|
 |**2022-10-03**|**Improving Sample Quality of Diffusion Models Using Self-Attention Guidance**|Susung Hong et.al.|[2210.00939v2](http://arxiv.org/abs/2210.00939v2)|null|
-|**2022-10-03**|**Efficient acoustic feature transformation in mismatched environments using a Guided-GAN**|Walter Heymans et.al.|[2210.00721v1](http://arxiv.org/abs/2210.00721v1)|null|
+|**2022-10-03**|**Efficient acoustic feature transformation in mismatched environments using a Guided-GAN**|Walter Heymans et.al.|[2210.00721v2](http://arxiv.org/abs/2210.00721v2)|null|
 |**2022-10-01**|**Evaluation of Pre-Trained CNN Models for Geographic Fake Image Detection**|Sid Ahmed Fezza et.al.|[2210.00361v1](http://arxiv.org/abs/2210.00361v1)|null|
 |**2022-09-30**|**Improving 3D-aware Image Synthesis with A Geometry-aware Discriminator**|Zifan Shi et.al.|[2209.15637v1](http://arxiv.org/abs/2209.15637v1)|null|
 |**2022-09-30**|**TabDDPM: Modelling Tabular Data with Diffusion Models**|Akim Kotelnikov et.al.|[2209.15421v1](http://arxiv.org/abs/2209.15421v1)|**[link](https://github.com/rotot0/tab-ddpm)**|
