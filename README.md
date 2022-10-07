@@ -1,4 +1,4 @@
-## Updated on 2022.10.06
+## Updated on 2022.10.07
 
 ## Image Generation
 
@@ -89,7 +89,7 @@
 |**2022-09-30**|**Impact of Face Image Quality Estimation on Presentation Attack Detection**|Carlos Aravena et.al.|[2209.15489v1](http://arxiv.org/abs/2209.15489v1)|null|
 |**2022-09-30**|**Diffusion-based Image Translation using Disentangled Style and Content Representation**|Gihyun Kwon et.al.|[2209.15264v1](http://arxiv.org/abs/2209.15264v1)|**[link](https://github.com/anon294384/diffuseit)**|
 |**2022-09-30**|**Dual Progressive Transformations for Weakly Supervised Semantic Segmentation**|Dongjian Huo et.al.|[2209.15211v1](http://arxiv.org/abs/2209.15211v1)|**[link](https://github.com/huodongjian0603/crt)**|
-|**2022-09-30**|**MobileViTv3: Mobile-Friendly Vision Transformer with Simple and Effective Fusion of Local, Global and Input Features**|Shakti N. Wadekar et.al.|[2209.15159v1](http://arxiv.org/abs/2209.15159v1)|**[link](https://github.com/microndla/mobilevitv3)**|
+|**2022-09-30**|**MobileViTv3: Mobile-Friendly Vision Transformer with Simple and Effective Fusion of Local, Global and Input Features**|Shakti N. Wadekar et.al.|[2209.15159v2](http://arxiv.org/abs/2209.15159v2)|**[link](https://github.com/microndla/mobilevitv3)**|
 |**2022-09-29**|**3D UX-Net: A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation**|Ho Hin Lee et.al.|[2209.15076v2](http://arxiv.org/abs/2209.15076v2)|**[link](https://github.com/masilab/3dux-net)**|
 |**2022-09-29**|**Effective Vision Transformer Training: A Data-Centric Perspective**|Benjia Zhou et.al.|[2209.15006v1](http://arxiv.org/abs/2209.15006v1)|null|
 |**2022-09-29**|**Dilated Neighborhood Attention Transformer**|Ali Hassani et.al.|[2209.15001v1](http://arxiv.org/abs/2209.15001v1)|**[link](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)**|
@@ -221,7 +221,7 @@
 |**2022-10-04**|**On the Robustness of Deep Clustering Models: Adversarial Attacks and Defenses**|Anshuman Chhabra et.al.|[2210.01940v1](http://arxiv.org/abs/2210.01940v1)|null|
 |**2022-10-04**|**Computing hydrodynamic interactions in confined doubly-periodic geometries in linear time**|Aref Hashemi et.al.|[2210.01837v1](http://arxiv.org/abs/2210.01837v1)|null|
 |**2022-10-02**|**GANTouch: An Attack-Resilient Framework for Touch-based Continuous Authentication System**|Mohit Agrawal et.al.|[2210.01594v1](http://arxiv.org/abs/2210.01594v1)|**[link](https://github.com/midas-research/gantouch-tbiom)**|
-|**2022-10-04**|**Note on Entanglement Entropy for Primary Fermion Fields in JT Gravity**|Chang-Zhong Guo et.al.|[2210.01545v2](http://arxiv.org/abs/2210.01545v2)|null|
+|**2022-10-04**|**A Note on Entanglement Entropy for Primary Fermion Fields in JT Gravity**|Chang-Zhong Guo et.al.|[2210.01545v3](http://arxiv.org/abs/2210.01545v3)|null|
 |**2022-10-04**|**MyElas: An automatized tool-kit for high-throughput calculation, post-processing and visualization of elasticity and related properties of solids**|Hao Wang et.al.|[2210.01367v1](http://arxiv.org/abs/2210.01367v1)|null|
 |**2022-10-03**|**MultiLoad-GAN: A GAN-Based Synthetic Load Group Generation Method Considering Spatial-Temporal Correlations**|Yi Hu et.al.|[2210.01167v1](http://arxiv.org/abs/2210.01167v1)|null|
 |**2022-10-03**|**WaveFit: An Iterative and Non-autoregressive Neural Vocoder based on Fixed-Point Iteration**|Yuma Koizumi et.al.|[2210.01029v1](http://arxiv.org/abs/2210.01029v1)|null|
@@ -229,7 +229,7 @@
 |**2022-10-03**|**Membership Inference Attacks Against Text-to-image Generation Models**|Yixin Wu et.al.|[2210.00968v1](http://arxiv.org/abs/2210.00968v1)|null|
 |**2022-10-03**|**UnGANable: Defending Against GAN-based Face Manipulation**|Zheng Li et.al.|[2210.00957v1](http://arxiv.org/abs/2210.00957v1)|null|
 |**2022-10-03**|**Improving Sample Quality of Diffusion Models Using Self-Attention Guidance**|Susung Hong et.al.|[2210.00939v2](http://arxiv.org/abs/2210.00939v2)|null|
-|**2022-10-03**|**Efficient acoustic feature transformation in mismatched environments using a Guided-GAN**|Walter Heymans et.al.|[2210.00721v2](http://arxiv.org/abs/2210.00721v2)|null|
+|**2022-10-03**|**Efficient acoustic feature transformation in mismatched environments using a Guided-GAN**|Walter Heymans et.al.|[2210.00721v3](http://arxiv.org/abs/2210.00721v3)|null|
 |**2022-10-01**|**Evaluation of Pre-Trained CNN Models for Geographic Fake Image Detection**|Sid Ahmed Fezza et.al.|[2210.00361v1](http://arxiv.org/abs/2210.00361v1)|null|
 |**2022-09-30**|**Improving 3D-aware Image Synthesis with A Geometry-aware Discriminator**|Zifan Shi et.al.|[2209.15637v1](http://arxiv.org/abs/2209.15637v1)|null|
 |**2022-09-30**|**TabDDPM: Modelling Tabular Data with Diffusion Models**|Akim Kotelnikov et.al.|[2209.15421v1](http://arxiv.org/abs/2209.15421v1)|**[link](https://github.com/rotot0/tab-ddpm)**|
@@ -249,7 +249,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-05**|**Ask Me Anything: A simple strategy for prompting language models**|Simran Arora et.al.|[2210.02441v1](http://arxiv.org/abs/2210.02441v1)|**[link](https://github.com/hazyresearch/ama_prompting)**|
+|**2022-10-05**|**Ask Me Anything: A simple strategy for prompting language models**|Simran Arora et.al.|[2210.02441v2](http://arxiv.org/abs/2210.02441v2)|**[link](https://github.com/hazyresearch/ama_prompting)**|
 |**2022-10-05**|**DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics**|Ivan Kapelyukh et.al.|[2210.02438v1](http://arxiv.org/abs/2210.02438v1)|null|
 |**2022-10-05**|**Decomposed Prompting: A Modular Approach for Solving Complex Tasks**|Tushar Khot et.al.|[2210.02406v1](http://arxiv.org/abs/2210.02406v1)|null|
 |**2022-10-05**|**Geometry Driven Progressive Warping for One-Shot Face Animation**|Yatao Zhong et.al.|[2210.02391v1](http://arxiv.org/abs/2210.02391v1)|null|
