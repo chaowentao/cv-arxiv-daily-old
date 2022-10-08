@@ -1,4 +1,4 @@
-## Updated on 2022.10.07
+## Updated on 2022.10.08
 
 ## Image Generation
 
@@ -270,7 +270,7 @@
 |**2022-10-06**|**Fully Unsupervised Training of Few-shot Keyword Spotting**|Dongjune Lee et.al.|[2210.02732v1](http://arxiv.org/abs/2210.02732v1)|null|
 |**2022-10-06**|**U3E: Unsupervised and Erasure-based Evidence Extraction for Machine Reading Comprehension**|Suzhe He et.al.|[2210.02621v1](http://arxiv.org/abs/2210.02621v1)|null|
 |**2022-10-05**|**Revisiting Syllables in Language Modelling and their Application on Low-Resource Machine Translation**|Arturo Oncevay et.al.|[2210.02509v1](http://arxiv.org/abs/2210.02509v1)|null|
-|**2022-10-05**|**Large Language Models are Pretty Good Zero-Shot Video Game Bug Detectors**|Mohammad Reza Taesiri et.al.|[2210.02506v1](http://arxiv.org/abs/2210.02506v1)|null|
+|**2022-10-05**|**Large Language Models are Pretty Good Zero-Shot Video Game Bug Detectors**|Mohammad Reza Taesiri et.al.|[2210.02506v1](http://arxiv.org/abs/2210.02506v1)|**[link](https://github.com/asgaardlab/LLMxBugs)**|
 |**2022-10-05**|**Depth Is All You Need for Monocular 3D Detection**|Dennis Park et.al.|[2210.02493v1](http://arxiv.org/abs/2210.02493v1)|null|
 |**2022-10-05**|**BaseTransformers: Attention over base data-points for One Shot Learning**|Mayug Maniparambil et.al.|[2210.02476v1](http://arxiv.org/abs/2210.02476v1)|**[link](https://github.com/mayug/basetransformers)**|
 |**2022-10-05**|**Machine Learning Classification of Fast Radio Bursts: II. Unsupervised Methods**|Jia-Ming Zhu-Ge et.al.|[2210.02471v1](http://arxiv.org/abs/2210.02471v1)|null|
