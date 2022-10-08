@@ -258,7 +258,7 @@ layout: default
 |**2022-10-06**|**CLIP model is an Efficient Continual Learner**|Vishal Thengane et.al.|[2210.03114v1](http://arxiv.org/abs/2210.03114v1)|**[link](https://github.com/vgthengane/continual-clip)**|
 |**2022-10-06**|**Env-Aware Anomaly Detection: Ignore Style Changes, Stay True to Content!**|Stefan Smeu et.al.|[2210.03103v1](http://arxiv.org/abs/2210.03103v1)|null|
 |**2022-10-06**|**VIMA: General Robot Manipulation with Multimodal Prompts**|Yunfan Jiang et.al.|[2210.03094v1](http://arxiv.org/abs/2210.03094v1)|null|
-|**2022-10-06**|**Few-Shot Calibration of Set Predictors via Meta-Learned Cross-Validation-Based Conformal Prediction**|Sangwoo Park et.al.|[2210.03067v1](http://arxiv.org/abs/2210.03067v1)|null|
+|**2022-10-06**|**Few-Shot Calibration of Set Predictors via Meta-Learned Cross-Validation-Based Conformal Prediction**|Sangwoo Park et.al.|[2210.03067v1](http://arxiv.org/abs/2210.03067v1)|**[link](https://github.com/kclip/meta-xb)**|
 |**2022-10-06**|**Retrieval of Soft Prompt Enhances Zero-Shot Task Generalization**|Seonghyeon Ye et.al.|[2210.03029v1](http://arxiv.org/abs/2210.03029v1)|**[link](https://github.com/seonghyeonye/rospr)**|
 |**2022-10-06**|**Cross-Modality Domain Adaptation for Freespace Detection: A Simple yet Effective Baseline**|Yuanbin Wang et.al.|[2210.02991v1](http://arxiv.org/abs/2210.02991v1)|null|
 |**2022-10-06**|**Guess the Instruction! Making Language Models Stronger Zero-Shot Learners**|Seonghyeon Ye et.al.|[2210.02969v1](http://arxiv.org/abs/2210.02969v1)|**[link](https://github.com/seonghyeonye/flipped-learning)**|
@@ -281,6 +281,6 @@ layout: default
 |**2022-10-05**|**Machine learning classification of fast radio bursts: I. supervised methods**|Jia-Wei Luo et.al.|[2210.02463v1](http://arxiv.org/abs/2210.02463v1)|null|
 |**2022-10-05**|**Ask Me Anything: A simple strategy for prompting language models**|Simran Arora et.al.|[2210.02441v2](http://arxiv.org/abs/2210.02441v2)|**[link](https://github.com/hazyresearch/ama_prompting)**|
 |**2022-10-05**|**DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics**|Ivan Kapelyukh et.al.|[2210.02438v1](http://arxiv.org/abs/2210.02438v1)|null|
-|**2022-10-05**|**Decomposed Prompting: A Modular Approach for Solving Complex Tasks**|Tushar Khot et.al.|[2210.02406v1](http://arxiv.org/abs/2210.02406v1)|null|
+|**2022-10-05**|**Decomposed Prompting: A Modular Approach for Solving Complex Tasks**|Tushar Khot et.al.|[2210.02406v1](http://arxiv.org/abs/2210.02406v1)|**[link](https://github.com/allenai/decomp)**|
 |**2022-10-05**|**Geometry Driven Progressive Warping for One-Shot Face Animation**|Yatao Zhong et.al.|[2210.02391v1](http://arxiv.org/abs/2210.02391v1)|null|
 
