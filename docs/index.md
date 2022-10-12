@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.11
+## Updated on 2022.10.12
 
 ## Image Generation
 
@@ -115,7 +115,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-10-10**|**Self-Supervised 3D Human Pose Estimation in Static Video Via Neural Rendering**|Luca Schmidtke et.al.|[2210.04514v1](http://arxiv.org/abs/2210.04514v1)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
-|**2022-10-09**|**AMPose: Alternatively Mixed Global-Local Attention Model for 3D Human Pose Estimation**|Hongxin Lin et.al.|[2210.04216v1](http://arxiv.org/abs/2210.04216v1)|null|
+|**2022-10-09**|**AMPose: Alternatively Mixed Global-Local Attention Model for 3D Human Pose Estimation**|Hongxin Lin et.al.|[2210.04216v2](http://arxiv.org/abs/2210.04216v2)|null|
 |**2022-10-08**|**(Fusionformer):Exploiting the Joint Motion Synergy with Fusion Network Based On Transformer for 3D Human Pose Estimation**|Xinwei Yu et.al.|[2210.04006v1](http://arxiv.org/abs/2210.04006v1)|null|
 |**2022-10-05**|**Decanus to Legatus: Synthetic training for 2D-3D human pose lifting**|Yue Zhu et.al.|[2210.02231v1](http://arxiv.org/abs/2210.02231v1)|**[link](https://github.com/zhuyue0324/decanus-to-legatus)**|
 |**2022-10-04**|**Centroid Distance Keypoint Detector for Colored Point Clouds**|Hanzhe Teng et.al.|[2210.01298v1](http://arxiv.org/abs/2210.01298v1)|**[link](https://github.com/ucr-robotics/ced_detector)**|
@@ -253,7 +253,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-10-10**|**What the DAAM: Interpreting Stable Diffusion Using Cross Attention**|Raphael Tang et.al.|[2210.04885v1](http://arxiv.org/abs/2210.04885v1)|**[link](https://github.com/castorini/daam)**|
+|**2022-10-10**|**What the DAAM: Interpreting Stable Diffusion Using Cross Attention**|Raphael Tang et.al.|[2210.04885v2](http://arxiv.org/abs/2210.04885v2)|**[link](https://github.com/castorini/daam)**|
 |**2022-10-10**|**CORE: A Retrieve-then-Edit Framework for Counterfactual Data Generation**|Tanay Dixit et.al.|[2210.04873v1](http://arxiv.org/abs/2210.04873v1)|**[link](https://github.com/tanay2001/core)**|
 |**2022-10-10**|**FS-DETR: Few-Shot DEtection TRansformer with prompting and without re-training**|Adrian Bulat et.al.|[2210.04845v1](http://arxiv.org/abs/2210.04845v1)|null|
 |**2022-10-10**|**Multi-Modal Fusion by Meta-Initialization**|Matthew T. Jackson et.al.|[2210.04843v1](http://arxiv.org/abs/2210.04843v1)|**[link](https://github.com/s-a-malik/multi-few)**|
@@ -269,7 +269,7 @@ layout: default
 |**2022-10-10**|**Unsupervised Domain Adaptive Fundus Image Segmentation with Few Labeled Source Data**|Qianbi Yu et.al.|[2210.04379v1](http://arxiv.org/abs/2210.04379v1)|null|
 |**2022-10-09**|**Unsupervised RGB-to-Thermal Domain Adaptation via Multi-Domain Attention Network**|Lu Gan et.al.|[2210.04367v1](http://arxiv.org/abs/2210.04367v1)|**[link](https://github.com/ganlumomo/thermal-uda-attention)**|
 |**2022-10-09**|**ELIGN: Expectation Alignment as a Multi-Agent Intrinsic Reward**|Zixian Ma et.al.|[2210.04365v1](http://arxiv.org/abs/2210.04365v1)|**[link](https://github.com/stanfordvl/alignment)**|
-|**2022-10-09**|**ASDOT: Any-Shot Data-to-Text Generation with Pretrained Language Models**|Jiannan Xiang et.al.|[2210.04325v1](http://arxiv.org/abs/2210.04325v1)|**[link](https://github.com/szxiangjn/any-shot-data2text)**|
+|**2022-10-09**|**ASDOT: Any-Shot Data-to-Text Generation with Pretrained Language Models**|Jiannan Xiang et.al.|[2210.04325v2](http://arxiv.org/abs/2210.04325v2)|**[link](https://github.com/szxiangjn/any-shot-data2text)**|
 |**2022-10-09**|**QAScore -- An Unsupervised Unreferenced Metric for the Question Generation Evaluation**|Tianbo Ji et.al.|[2210.04320v1](http://arxiv.org/abs/2210.04320v1)|null|
 |**2022-10-09**|**Learning to Decompose Visual Features with Latent Textual Prompts**|Feng Wang et.al.|[2210.04287v1](http://arxiv.org/abs/2210.04287v1)|null|
 |**2022-10-09**|**3D Reconstruction of Sculptures from Single Images via Unsupervised Domain Adaptation on Implicit Models**|Ziyi Chang et.al.|[2210.04265v1](http://arxiv.org/abs/2210.04265v1)|**[link](https://github.com/mrzzy2021/sculpturerecon)**|
