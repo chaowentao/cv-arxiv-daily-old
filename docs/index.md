@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.13
+## Updated on 2022.10.14
 
 ## Image Generation
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-10-12**|**Leveraging Off-the-shelf Diffusion Model for Multi-attribute Fashion Image Manipulation**|Chaerin Kong et.al.|[2210.05872v1](http://arxiv.org/abs/2210.05872v1)|null|
 |**2022-10-10**|**Bridging CLIP and StyleGAN through Latent Alignment for Image Editing**|Wanfeng Zheng et.al.|[2210.04506v1](http://arxiv.org/abs/2210.04506v1)|null|
-|**2022-10-08**|**CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable, and Controllable Text-Guided Image Manipulation**|Chenliang Zhou et.al.|[2210.03919v1](http://arxiv.org/abs/2210.03919v1)|null|
+|**2022-10-08**|**CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable, and Controllable Text-Guided Image Manipulation**|Chenliang Zhou et.al.|[2210.03919v2](http://arxiv.org/abs/2210.03919v2)|null|
 |**2022-10-05**|**LDEdit: Towards Generalized Text Guided Image Manipulation via Latent Diffusion Models**|Paramanand Chandramouli et.al.|[2210.02249v1](http://arxiv.org/abs/2210.02249v1)|null|
 |**2022-10-04**|**CFL-Net: Image Forgery Localization Using Contrastive Learning**|Fahim Faisal Niloy et.al.|[2210.02182v1](http://arxiv.org/abs/2210.02182v1)|**[link](https://github.com/niloy193/cflnet)**|
 |**2022-08-30**|**Robust Sound-Guided Image Manipulation**|Seung Hyun Lee et.al.|[2208.14114v2](http://arxiv.org/abs/2208.14114v2)|null|
@@ -151,13 +151,13 @@ layout: default
 |**2022-10-12**|**Foundation Transformers**|Hongyu Wang et.al.|[2210.06423v1](http://arxiv.org/abs/2210.06423v1)|null|
 |**2022-10-12**|**One does not fit all! On the Complementarity of Vision Encoders for Vision and Language Tasks**|Gregor Geigle et.al.|[2210.06379v1](http://arxiv.org/abs/2210.06379v1)|null|
 |**2022-10-12**|**On Markovianity and classicality in multilevel spin-boson models**|Dariusz Chruściński et.al.|[2210.06199v1](http://arxiv.org/abs/2210.06199v1)|null|
-|**2022-10-12**|**Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning**|Yuchong Sun et.al.|[2210.06031v1](http://arxiv.org/abs/2210.06031v1)|null|
+|**2022-10-12**|**Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning**|Yuchong Sun et.al.|[2210.06031v1](http://arxiv.org/abs/2210.06031v1)|**[link](https://github.com/microsoft/xpretrain)**|
 |**2022-10-12**|**Non-Autoregressive Machine Translation with Translation Memories**|Jitao Xu et.al.|[2210.06020v1](http://arxiv.org/abs/2210.06020v1)|null|
-|**2022-10-12**|**Hate-CLIPper: Multimodal Hateful Meme Classification based on Cross-modal Interaction of CLIP Features**|Gokul Karthik Kumar et.al.|[2210.05916v1](http://arxiv.org/abs/2210.05916v1)|**[link](https://github.com/gokulkarthik/hateclipper)**|
+|**2022-10-12**|**Hate-CLIPper: Multimodal Hateful Meme Classification based on Cross-modal Interaction of CLIP Features**|Gokul Karthik Kumar et.al.|[2210.05916v2](http://arxiv.org/abs/2210.05916v2)|**[link](https://github.com/gokulkarthik/hateclipper)**|
 |**2022-10-12**|**Pathology Steered Stratification Network for Subtype Identification in Alzheimer's Disease**|Enze Xu et.al.|[2210.05880v1](http://arxiv.org/abs/2210.05880v1)|null|
 |**2022-10-12**|**LiveSeg: Unsupervised Multimodal Temporal Segmentation of Long Livestream Videos**|Jielin Qiu et.al.|[2210.05840v1](http://arxiv.org/abs/2210.05840v1)|null|
 |**2022-10-11**|**Underspecification in Scene Description-to-Depiction Tasks**|Ben Hutchinson et.al.|[2210.05815v1](http://arxiv.org/abs/2210.05815v1)|null|
-|**2022-10-11**|**Transfer Learning with Joint Fine-Tuning for Multimodal Sentiment Analysis**|Guilherme Lourenço de Toledo et.al.|[2210.05790v1](http://arxiv.org/abs/2210.05790v1)|null|
+|**2022-10-11**|**Transfer Learning with Joint Fine-Tuning for Multimodal Sentiment Analysis**|Guilherme Lourenço de Toledo et.al.|[2210.05790v1](http://arxiv.org/abs/2210.05790v1)|**[link](https://github.com/guitld/Transfer-Learning-with-Joint-Fine-Tuning-for-Multimodal-Sentiment-Analysis)**|
 |**2022-10-11**|**ViLPAct: A Benchmark for Compositional Generalization on Multimodal Human Activities**|Terry Yue Zhuo et.al.|[2210.05556v1](http://arxiv.org/abs/2210.05556v1)|null|
 |**2022-10-11**|**Exploring Interactions and Regulations in Collaborative Learning: An Interdisciplinary Multimodal Dataset**|Yante Li et.al.|[2210.05419v1](http://arxiv.org/abs/2210.05419v1)|null|
 |**2022-10-11**|**MAP: Modality-Agnostic Uncertainty-Aware Vision-Language Pre-training Model**|Yatai Ji et.al.|[2210.05335v1](http://arxiv.org/abs/2210.05335v1)|**[link](https://github.com/iigroup/map)**|
@@ -187,7 +187,7 @@ layout: default
 |**2022-10-11**|**X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360$^{\circ} $ Insufficient RGB-D Views**|Haoyi Zhu et.al.|[2210.05135v1](http://arxiv.org/abs/2210.05135v1)|**[link](https://github.com/haoyizhu/xnerf)**|
 |**2022-10-10**|**NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields**|Arunkumar Byravan et.al.|[2210.04932v1](http://arxiv.org/abs/2210.04932v1)|null|
 |**2022-10-10**|**EVA3D: Compositional 3D Human Generation from 2D Image Collections**|Fangzhou Hong et.al.|[2210.04888v1](http://arxiv.org/abs/2210.04888v1)|null|
-|**2022-10-10**|**NerfAcc: A General NeRF Acceleration Toolbox**|Ruilong Li et.al.|[2210.04847v1](http://arxiv.org/abs/2210.04847v1)|**[link](https://github.com/kair-bair/nerfacc)**|
+|**2022-10-10**|**NerfAcc: A General NeRF Acceleration Toolbox**|Ruilong Li et.al.|[2210.04847v2](http://arxiv.org/abs/2210.04847v2)|**[link](https://github.com/kair-bair/nerfacc)**|
 |**2022-10-10**|**SiNeRF: Sinusoidal Neural Radiance Fields for Joint Pose Estimation and Scene Reconstruction**|Yitong Xia et.al.|[2210.04553v1](http://arxiv.org/abs/2210.04553v1)|null|
 |**2022-10-09**|**Robustifying the Multi-Scale Representation of Neural Radiance Fields**|Nishant Jain et.al.|[2210.04233v1](http://arxiv.org/abs/2210.04233v1)|null|
 |**2022-10-09**|**Estimating Neural Reflectance Field from Radiance Field using Tree Structures**|Xiu Li et.al.|[2210.04217v1](http://arxiv.org/abs/2210.04217v1)|null|
@@ -227,7 +227,7 @@ layout: default
 |**2022-10-12**|**M$^3$Video: Masked Motion Modeling for Self-Supervised Video Representation Learning**|Xinyu Sun et.al.|[2210.06096v1](http://arxiv.org/abs/2210.06096v1)|null|
 |**2022-10-12**|**Generative Adversarial Nets: Can we generate a new dataset based on only one training set?**|Lan V. Truong et.al.|[2210.06005v1](http://arxiv.org/abs/2210.06005v1)|null|
 |**2022-10-12**|**Leveraging Off-the-shelf Diffusion Model for Multi-attribute Fashion Image Manipulation**|Chaerin Kong et.al.|[2210.05872v1](http://arxiv.org/abs/2210.05872v1)|null|
-|**2022-10-11**|**Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance**|Chen Henry Wu et.al.|[2210.05559v1](http://arxiv.org/abs/2210.05559v1)|null|
+|**2022-10-11**|**Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance**|Chen Henry Wu et.al.|[2210.05559v1](http://arxiv.org/abs/2210.05559v1)|**[link](https://github.com/chenwu98/cycle-diffusion)**|
 |**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v1](http://arxiv.org/abs/2210.05509v1)|null|
 |**2022-10-11**|**FreGAN: Exploiting Frequency Components for Training GANs under Limited Data**|Mengping Yang et.al.|[2210.05461v1](http://arxiv.org/abs/2210.05461v1)|**[link](https://github.com/kobeshegu/fregan_neurips2022)**|
 |**2022-10-11**|**GAN You Hear Me? Reclaiming Unconditional Speech Synthesis from Diffusion Models**|Matthew Baas et.al.|[2210.05271v1](http://arxiv.org/abs/2210.05271v1)|**[link](https://github.com/rf5/simple-asgan)**|
@@ -259,9 +259,9 @@ layout: default
 |**2022-10-12**|**Learning Multi-resolution Functional Maps with Spectral Attention for Robust Shape Matching**|Lei Li et.al.|[2210.06373v1](http://arxiv.org/abs/2210.06373v1)|null|
 |**2022-10-12**|**Self-Attention Message Passing for Contrastive Few-Shot Learning**|Ojas Kishorkumar Shirekar et.al.|[2210.06339v1](http://arxiv.org/abs/2210.06339v1)|**[link](https://github.com/ojss/samptransfer)**|
 |**2022-10-12**|**SQuId: Measuring Speech Naturalness in Many Languages**|Thibault Sellam et.al.|[2210.06324v1](http://arxiv.org/abs/2210.06324v1)|null|
-|**2022-10-12**|**Semantic Cross Attention for Few-shot Learning**|Bin Xiao et.al.|[2210.06311v1](http://arxiv.org/abs/2210.06311v1)|null|
-|**2022-10-12**|**FontTransformer: Few-shot High-resolution Chinese Glyph Image Synthesis via Stacked Transformers**|Yitian Liu et.al.|[2210.06301v1](http://arxiv.org/abs/2210.06301v1)|null|
-|**2022-10-12**|**Generalised Mutual Information for Discriminative Clustering**|Ohl Louis et.al.|[2210.06300v1](http://arxiv.org/abs/2210.06300v1)|null|
+|**2022-10-12**|**Semantic Cross Attention for Few-shot Learning**|Bin Xiao et.al.|[2210.06311v1](http://arxiv.org/abs/2210.06311v1)|**[link](https://github.com/uobinxiao/semantic_cross_attention_fsl)**|
+|**2022-10-12**|**FontTransformer: Few-shot High-resolution Chinese Glyph Image Synthesis via Stacked Transformers**|Yitian Liu et.al.|[2210.06301v2](http://arxiv.org/abs/2210.06301v2)|null|
+|**2022-10-12**|**Generalised Mutual Information for Discriminative Clustering**|Louis Ohl et.al.|[2210.06300v2](http://arxiv.org/abs/2210.06300v2)|null|
 |**2022-10-12**|**Zero-Shot On-the-Fly Event Schema Induction**|Rotem Dror et.al.|[2210.06254v1](http://arxiv.org/abs/2210.06254v1)|null|
 |**2022-10-12**|**Hierarchical Instance Mixing across Domains in Aerial Segmentation**|Edoardo Arnaudo et.al.|[2210.06216v1](http://arxiv.org/abs/2210.06216v1)|null|
 |**2022-10-12**|**Anomaly Detection using Generative Models and Sum-Product Networks in Mammography Scans**|Marc Dietrichstein et.al.|[2210.06188v1](http://arxiv.org/abs/2210.06188v1)|null|
