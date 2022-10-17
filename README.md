@@ -1,4 +1,4 @@
-## Updated on 2022.10.16
+## Updated on 2022.10.17
 
 ## Image Generation
 
@@ -77,7 +77,7 @@
 |**2022-10-13**|**How to Train Vision Transformer on Small-scale Datasets?**|Hanan Gani et.al.|[2210.07240v1](http://arxiv.org/abs/2210.07240v1)|**[link](https://github.com/hananshafi/vits-for-small-scale-datasets)**|
 |**2022-10-13**|**Feature-Proxy Transformer for Few-Shot Segmentation**|Jian-Wei Zhang et.al.|[2210.06908v1](http://arxiv.org/abs/2210.06908v1)|**[link](https://github.com/jarvis73/fptrans)**|
 |**2022-10-13**|**Q-ViT: Accurate and Fully Quantized Low-bit Vision Transformer**|Yanjing Li et.al.|[2210.06707v1](http://arxiv.org/abs/2210.06707v1)|**[link](https://github.com/yanjingli0202/q-vit)**|
-|**2022-10-12**|**S4ND: Modeling Images and Videos as Multidimensional Signals Using State Spaces**|Eric Nguyen et.al.|[2210.06583v1](http://arxiv.org/abs/2210.06583v1)|null|
+|**2022-10-12**|**S4ND: Modeling Images and Videos as Multidimensional Signals Using State Spaces**|Eric Nguyen et.al.|[2210.06583v2](http://arxiv.org/abs/2210.06583v2)|null|
 |**2022-10-12**|**Prompt Generation Networks for Efficient Adaptation of Frozen Vision Transformers**|Jochem Loedeman et.al.|[2210.06466v1](http://arxiv.org/abs/2210.06466v1)|**[link](https://github.com/jochemloedeman/pgn)**|
 |**2022-10-12**|**Token-Label Alignment for Vision Transformers**|Han Xiao et.al.|[2210.06455v1](http://arxiv.org/abs/2210.06455v1)|**[link](https://github.com/euphoria16/tl-align)**|
 |**2022-10-12**|**Foundation Transformers**|Hongyu Wang et.al.|[2210.06423v1](http://arxiv.org/abs/2210.06423v1)|null|
@@ -109,7 +109,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-12**|**Uplift and Upsample: Efficient 3D Human Pose Estimation with Uplifting Transformers**|Moritz Einfalt et.al.|[2210.06110v1](http://arxiv.org/abs/2210.06110v1)|**[link](https://github.com/goldbricklemon/uplift-upsample-3dhpe)**|
+|**2022-10-12**|**Uplift and Upsample: Efficient 3D Human Pose Estimation with Uplifting Transformers**|Moritz Einfalt et.al.|[2210.06110v2](http://arxiv.org/abs/2210.06110v2)|**[link](https://github.com/goldbricklemon/uplift-upsample-3dhpe)**|
 |**2022-10-11**|**ACRNet: Attention Cube Regression Network for Multi-view Real-time 3D Human Pose Estimation in Telemedicine**|Boce Hu et.al.|[2210.05130v1](http://arxiv.org/abs/2210.05130v1)|**[link](https://github.com/bocehu/acrnet)**|
 |**2022-10-10**|**Self-Supervised 3D Human Pose Estimation in Static Video Via Neural Rendering**|Luca Schmidtke et.al.|[2210.04514v1](http://arxiv.org/abs/2210.04514v1)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
@@ -155,7 +155,7 @@
 |**2022-10-12**|**Nonlinear optical generation of entangled squeezed states in lossy nonorthogonal quasimodes: an analytic solution**|Colin Vendromin et.al.|[2210.06521v1](http://arxiv.org/abs/2210.06521v1)|null|
 |**2022-10-12**|**Foundation Transformers**|Hongyu Wang et.al.|[2210.06423v1](http://arxiv.org/abs/2210.06423v1)|null|
 |**2022-10-12**|**One does not fit all! On the Complementarity of Vision Encoders for Vision and Language Tasks**|Gregor Geigle et.al.|[2210.06379v1](http://arxiv.org/abs/2210.06379v1)|null|
-|**2022-10-12**|**On Markovianity and classicality in multilevel spin-boson models**|Dariusz Chruściński et.al.|[2210.06199v1](http://arxiv.org/abs/2210.06199v1)|null|
+|**2022-10-12**|**On Markovianity and classicality in multilevel spin-boson models**|Dariusz Chruściński et.al.|[2210.06199v2](http://arxiv.org/abs/2210.06199v2)|null|
 |**2022-10-12**|**Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning**|Yuchong Sun et.al.|[2210.06031v1](http://arxiv.org/abs/2210.06031v1)|**[link](https://github.com/microsoft/xpretrain)**|
 |**2022-10-12**|**Non-Autoregressive Machine Translation with Translation Memories**|Jitao Xu et.al.|[2210.06020v1](http://arxiv.org/abs/2210.06020v1)|null|
 |**2022-10-12**|**Hate-CLIPper: Multimodal Hateful Meme Classification based on Cross-modal Interaction of CLIP Features**|Gokul Karthik Kumar et.al.|[2210.05916v2](http://arxiv.org/abs/2210.05916v2)|**[link](https://github.com/gokulkarthik/hateclipper)**|
@@ -214,7 +214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-13**|**Measurement of the Lc to D0 production cross-section ratio in peripheral PbPb collisions**|LHCb collaboration et.al.|[2210.06939v1](http://arxiv.org/abs/2210.06939v1)|null|
+|**2022-10-13**|**Measurement of the $Λ_c^+$ to $D^0$ production cross-section ratio in peripheral PbPb collisions**|LHCb collaboration et.al.|[2210.06939v2](http://arxiv.org/abs/2210.06939v2)|null|
 |**2022-10-13**|**Learning Physical Dynamics with Subequivariant Graph Neural Networks**|Jiaqi Han et.al.|[2210.06876v1](http://arxiv.org/abs/2210.06876v1)|null|
 |**2022-10-13**|**Federated Learning for Tabular Data: Exploring Potential Risk to Privacy**|Han Wu et.al.|[2210.06856v1](http://arxiv.org/abs/2210.06856v1)|null|
 |**2022-10-13**|**Retrospectives on the Embodied AI Workshop**|Matt Deitke et.al.|[2210.06849v1](http://arxiv.org/abs/2210.06849v1)|null|
@@ -258,7 +258,7 @@
 |**2022-10-13**|**Language Models of Code are Few-Shot Commonsense Learners**|Aman Madaan et.al.|[2210.07128v1](http://arxiv.org/abs/2210.07128v1)|**[link](https://github.com/madaan/cocogen)**|
 |**2022-10-13**|**Dissipative residual layers for unsupervised implicit parameterization of data manifolds**|Viktor Reshniak et.al.|[2210.07100v1](http://arxiv.org/abs/2210.07100v1)|null|
 |**2022-10-13**|**Few-Shot Visual Question Generation: A Novel Task and Benchmark Datasets**|Anurag Roy et.al.|[2210.07076v1](http://arxiv.org/abs/2210.07076v1)|null|
-|**2022-10-13**|**CLASP: Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing**|Andy Rosenbaum et.al.|[2210.07074v1](http://arxiv.org/abs/2210.07074v1)|null|
+|**2022-10-13**|**CLASP: Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing**|Andy Rosenbaum et.al.|[2210.07074v2](http://arxiv.org/abs/2210.07074v2)|null|
 |**2022-10-13**|**Prompt-based Connective Prediction Method for Fine-grained Implicit Discourse Relation Recognition**|Hao Zhou et.al.|[2210.07032v1](http://arxiv.org/abs/2210.07032v1)|**[link](https://github.com/zh-i9/pcp-for-idrr)**|
 |**2022-10-13**|**Rebalanced Zero-shot Learning**|Zihan Ye et.al.|[2210.07031v1](http://arxiv.org/abs/2210.07031v1)|null|
 |**2022-10-13**|**CROP: Zero-shot Cross-lingual Named Entity Recognition with Multilingual Labeled Sequence Translation**|Jian Yang et.al.|[2210.07022v1](http://arxiv.org/abs/2210.07022v1)|**[link](https://github.com/YuweiYin/CROP)**|
