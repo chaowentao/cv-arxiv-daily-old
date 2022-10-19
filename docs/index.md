@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.18
+## Updated on 2022.10.19
 
 ## Image Generation
 
@@ -47,7 +47,7 @@ layout: default
 |**2022-10-17**|**Creation of non-classical states of light in a chiral waveguide**|Kevin Kleinbeck et.al.|[2210.09216v1](http://arxiv.org/abs/2210.09216v1)|null|
 |**2022-10-14**|**End-to-end joint optimization of metasurface and image processing for compact snapshot hyperspectral imaging**|Qiangbo Zhang et.al.|[2210.07684v1](http://arxiv.org/abs/2210.07684v1)|null|
 |**2022-10-14**|**Optical coherent feedback control of a mechanical oscillator**|Maryse Ernzer et.al.|[2210.07674v1](http://arxiv.org/abs/2210.07674v1)|null|
-|**2022-10-14**|**NOCaL: Calibration-Free Semi-Supervised Learning of Odometry and Camera Intrinsics**|Ryan Griffiths et.al.|[2210.07435v1](http://arxiv.org/abs/2210.07435v1)|null|
+|**2022-10-14**|**NOCaL: Calibration-Free Semi-Supervised Learning of Odometry and Camera Intrinsics**|Ryan Griffiths et.al.|[2210.07435v2](http://arxiv.org/abs/2210.07435v2)|null|
 |**2022-10-12**|**Realization of an atomic quantum Hall system in four dimensions**|Jean-Baptiste Bouhiron et.al.|[2210.06322v1](http://arxiv.org/abs/2210.06322v1)|null|
 |**2022-10-06**|**Spectroscopic localization of atomic sample plane for precise digital holography**|Jian Zhao et.al.|[2210.02721v1](http://arxiv.org/abs/2210.02721v1)|null|
 |**2022-10-04**|**A Novel Light Field Coding Scheme Based on Deep Belief Network and Weighted Binary Images for Additive Layered Displays**|Sally Khaidem et.al.|[2210.01447v1](http://arxiv.org/abs/2210.01447v1)|null|
@@ -87,7 +87,7 @@ layout: default
 |**2022-10-15**|**Distributionally Robust Multiclass Classification and Applications in Deep Image Classifiers**|Ruidi Chen et.al.|[2210.08198v1](http://arxiv.org/abs/2210.08198v1)|null|
 |**2022-10-15**|**Linear Video Transformer with Feature Fixation**|Kaiyue Lu et.al.|[2210.08164v1](http://arxiv.org/abs/2210.08164v1)|null|
 |**2022-10-14**|**Optimizing Vision Transformers for Medical Image Segmentation and Few-Shot Domain Adaptation**|Qianying Liu et.al.|[2210.08066v1](http://arxiv.org/abs/2210.08066v1)|null|
-|**2022-10-14**|**Vision Transformer Visualization: What Neurons Tell and How Neurons Behave?**|Van-Anh Nguyen et.al.|[2210.07646v1](http://arxiv.org/abs/2210.07646v1)|**[link](https://github.com/bym1902/vit_visualization)**|
+|**2022-10-14**|**Vision Transformer Visualization: What Neurons Tell and How Neurons Behave?**|Van-Anh Nguyen et.al.|[2210.07646v2](http://arxiv.org/abs/2210.07646v2)|**[link](https://github.com/bym1902/vit_visualization)**|
 |**2022-10-14**|**When Adversarial Training Meets Vision Transformers: Recipes from Training to Architecture**|Yichuan Mo et.al.|[2210.07540v1](http://arxiv.org/abs/2210.07540v1)|**[link](https://github.com/mo666666/when-adversarial-training-meets-vision-transformers)**|
 |**2022-10-13**|**How to Train Vision Transformer on Small-scale Datasets?**|Hanan Gani et.al.|[2210.07240v1](http://arxiv.org/abs/2210.07240v1)|**[link](https://github.com/hananshafi/vits-for-small-scale-datasets)**|
 |**2022-10-13**|**Feature-Proxy Transformer for Few-Shot Segmentation**|Jian-Wei Zhang et.al.|[2210.06908v1](http://arxiv.org/abs/2210.06908v1)|**[link](https://github.com/jarvis73/fptrans)**|
@@ -221,8 +221,8 @@ layout: default
 |**2022-10-17**|**Non-Contrastive Learning Meets Language-Image Pre-Training**|Jinghao Zhou et.al.|[2210.09304v1](http://arxiv.org/abs/2210.09304v1)|null|
 |**2022-10-17**|**Vision-Language Pre-training: Basics, Recent Advances, and Future Trends**|Zhe Gan et.al.|[2210.09263v1](http://arxiv.org/abs/2210.09263v1)|null|
 |**2022-10-17**|**Prompting GPT-3 To Be Reliable**|Chenglei Si et.al.|[2210.09150v1](http://arxiv.org/abs/2210.09150v1)|**[link](https://github.com/noviscl/gpt3-reliability)**|
-|**2022-10-17**|**HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks**|Aibek Alanov et.al.|[2210.08884v1](http://arxiv.org/abs/2210.08884v1)|**[link](https://github.com/macderru/hyperdomainnet)**|
-|**2022-10-16**|**Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective**|Ping Yang et.al.|[2210.08590v1](http://arxiv.org/abs/2210.08590v1)|**[link](https://github.com/idea-ccnl/fengshenbang-lm)**|
+|**2022-10-17**|**HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks**|Aibek Alanov et.al.|[2210.08884v2](http://arxiv.org/abs/2210.08884v2)|**[link](https://github.com/macderru/hyperdomainnet)**|
+|**2022-10-16**|**Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective**|Ping Yang et.al.|[2210.08590v2](http://arxiv.org/abs/2210.08590v2)|**[link](https://github.com/idea-ccnl/fengshenbang-lm)**|
 |**2022-10-16**|**DiffGAR: Model-Agnostic Restoration from Generative Artifacts Using Image-to-Image Diffusion Models**|Yueqin Yin et.al.|[2210.08573v1](http://arxiv.org/abs/2210.08573v1)|null|
 |**2022-10-16**|**Investigating the Robustness of Natural Language Generation from Logical Forms via Counterfactual Samples**|Chengyuan Liu et.al.|[2210.08548v1](http://arxiv.org/abs/2210.08548v1)|**[link](https://github.com/liuchengyuan123/l2tviacounterfactualsamples)**|
 |**2022-10-16**|**Model Independent Approach of the JUNO $^8$B Solar Neutrino Program**|JUNO Collaboration et.al.|[2210.08437v1](http://arxiv.org/abs/2210.08437v1)|null|
@@ -241,7 +241,7 @@ layout: default
 |**2022-10-13**|**Novel applications of Generative Adversarial Networks (GANs) and Convolutional Neural Networks (CNNs) in the analysis of ultrafast electron diffraction (UED) images**|Hazem Daoud et.al.|[2210.07279v1](http://arxiv.org/abs/2210.07279v1)|null|
 |**2022-10-13**|**Learning Physical Dynamics with Subequivariant Graph Neural Networks**|Jiaqi Han et.al.|[2210.06876v1](http://arxiv.org/abs/2210.06876v1)|null|
 |**2022-10-13**|**Federated Learning for Tabular Data: Exploring Potential Risk to Privacy**|Han Wu et.al.|[2210.06856v1](http://arxiv.org/abs/2210.06856v1)|null|
-|**2022-10-13**|**Retrospectives on the Embodied AI Workshop**|Matt Deitke et.al.|[2210.06849v1](http://arxiv.org/abs/2210.06849v1)|null|
+|**2022-10-13**|**Retrospectives on the Embodied AI Workshop**|Matt Deitke et.al.|[2210.06849v2](http://arxiv.org/abs/2210.06849v2)|null|
 |**2022-10-12**|**AniFaceGAN: Animatable 3D-Aware Face Image Generation for Video Avatars**|Yue Wu et.al.|[2210.06465v1](http://arxiv.org/abs/2210.06465v1)|null|
 |**2022-10-12**|**CoRRECT: A Deep Unfolding Framework for Motion-Corrected Quantitative R2* Mapping**|Xiaojian Xu et.al.|[2210.06330v1](http://arxiv.org/abs/2210.06330v1)|null|
 |**2022-10-12**|**Wavefront sets and descent method for finite symplectic groups**|Zhifeng Peng et.al.|[2210.06263v1](http://arxiv.org/abs/2210.06263v1)|null|
@@ -279,7 +279,7 @@ layout: default
 |**2022-10-17**|**GeoThermalCloud: Machine Learning for Geothermal Resource Exploration**|Maruti K. Mudunuru et.al.|[2210.08685v1](http://arxiv.org/abs/2210.08685v1)|**[link](https://github.com/smarttensors/geothermalcloud.jl)**|
 |**2022-10-17**|**Regularized Data Programming with Bayesian Priors**|Jacqueline R. M. A. Maasch et.al.|[2210.08677v1](http://arxiv.org/abs/2210.08677v1)|null|
 |**2022-10-16**|**Learning to Sample and Aggregate: Few-shot Reasoning over Temporal Knowledge Graphs**|Ruijie Wang et.al.|[2210.08654v1](http://arxiv.org/abs/2210.08654v1)|null|
-|**2022-10-16**|**Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective**|Ping Yang et.al.|[2210.08590v1](http://arxiv.org/abs/2210.08590v1)|**[link](https://github.com/idea-ccnl/fengshenbang-lm)**|
+|**2022-10-16**|**Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective**|Ping Yang et.al.|[2210.08590v2](http://arxiv.org/abs/2210.08590v2)|**[link](https://github.com/idea-ccnl/fengshenbang-lm)**|
 |**2022-10-16**|**Nowhere to Hide: A Lightweight Unsupervised Detector against Adversarial Examples**|Hui Liu et.al.|[2210.08579v1](http://arxiv.org/abs/2210.08579v1)|null|
 |**2022-10-16**|**STAR: Zero-Shot Chinese Character Recognition with Stroke- and Radical-Level Decompositions**|Jinshan Zeng et.al.|[2210.08490v1](http://arxiv.org/abs/2210.08490v1)|null|
 |**2022-10-16**|**TLDW: Extreme Multimodal Summarisation of News Videos**|Peggy Tang et.al.|[2210.08481v1](http://arxiv.org/abs/2210.08481v1)|null|
