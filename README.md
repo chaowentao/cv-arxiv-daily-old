@@ -1,4 +1,4 @@
-## Updated on 2022.10.19
+## Updated on 2022.10.20
 
 ## Image Generation
 
@@ -75,8 +75,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-10-18**|**Number-Adaptive Prototype Learning for 3D Point Cloud Semantic Segmentation**|Yangheng Zhao et.al.|[2210.09948v1](http://arxiv.org/abs/2210.09948v1)|null|
-|**2022-10-18**|**Sequence and Circle: Exploring the Relationship Between Patches**|Zhengyang Yu et.al.|[2210.09871v1](http://arxiv.org/abs/2210.09871v1)|null|
-|**2022-10-18**|**Decoupling Features in Hierarchical Propagation for Video Object Segmentation**|Zongxin Yang et.al.|[2210.09782v1](http://arxiv.org/abs/2210.09782v1)|null|
+|**2022-10-18**|**Sequence and Circle: Exploring the Relationship Between Patches**|Zhengyang Yu et.al.|[2210.09871v2](http://arxiv.org/abs/2210.09871v2)|null|
+|**2022-10-18**|**Decoupling Features in Hierarchical Propagation for Video Object Segmentation**|Zongxin Yang et.al.|[2210.09782v2](http://arxiv.org/abs/2210.09782v2)|**[link](https://github.com/z-x-yang/AOT)**|
 |**2022-10-18**|**ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design**|Haoran You et.al.|[2210.09573v1](http://arxiv.org/abs/2210.09573v1)|null|
 |**2022-10-18**|**Swinv2-Imagen: Hierarchical Vision Transformer Diffusion Models for Text-to-Image Generation**|Ruijun Li et.al.|[2210.09549v1](http://arxiv.org/abs/2210.09549v1)|null|
 |**2022-10-14**|**oViT: An Accurate Second-Order Pruning Framework for Vision Transformers**|Denis Kuznedelev et.al.|[2210.09223v1](http://arxiv.org/abs/2210.09223v1)|null|
@@ -96,7 +96,7 @@
 |**2022-10-12**|**S4ND: Modeling Images and Videos as Multidimensional Signals Using State Spaces**|Eric Nguyen et.al.|[2210.06583v2](http://arxiv.org/abs/2210.06583v2)|null|
 |**2022-10-12**|**Prompt Generation Networks for Efficient Adaptation of Frozen Vision Transformers**|Jochem Loedeman et.al.|[2210.06466v1](http://arxiv.org/abs/2210.06466v1)|**[link](https://github.com/jochemloedeman/pgn)**|
 |**2022-10-12**|**Token-Label Alignment for Vision Transformers**|Han Xiao et.al.|[2210.06455v1](http://arxiv.org/abs/2210.06455v1)|**[link](https://github.com/euphoria16/tl-align)**|
-|**2022-10-12**|**Foundation Transformers**|Hongyu Wang et.al.|[2210.06423v1](http://arxiv.org/abs/2210.06423v1)|null|
+|**2022-10-12**|**Foundation Transformers**|Hongyu Wang et.al.|[2210.06423v2](http://arxiv.org/abs/2210.06423v2)|null|
 |**2022-10-12**|**Distilling Knowledge from Language Models for Video-based Action Anticipation**|Sayontan Ghosh et.al.|[2210.05991v1](http://arxiv.org/abs/2210.05991v1)|null|
 |**2022-10-12**|**GGViT:Multistream Vision Transformer Network in Face2Face Facial Reenactment Detection**|Haotian Wu et.al.|[2210.05990v1](http://arxiv.org/abs/2210.05990v1)|null|
 |**2022-10-12**|**Bridging the Gap Between Vision Transformers and Convolutional Neural Networks on Small Datasets**|Zhiying Lu et.al.|[2210.05958v1](http://arxiv.org/abs/2210.05958v1)|**[link](https://github.com/arieseirack/dhvt)**|
@@ -200,7 +200,7 @@
 |**2022-10-04**|**SelfNeRF: Fast Training NeRF for Human from Monocular Self-rotating Video**|Bo Peng et.al.|[2210.01651v1](http://arxiv.org/abs/2210.01651v1)|null|
 |**2022-10-03**|**NARF22: Neural Articulated Radiance Fields for Configuration-Aware Rendering**|Stanley Lewis et.al.|[2210.01166v1](http://arxiv.org/abs/2210.01166v1)|null|
 |**2022-10-02**|**IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis**|Weicai Ye et.al.|[2210.00647v1](http://arxiv.org/abs/2210.00647v1)|**[link](https://github.com/zju3dv/intrinsicnerf)**|
-|**2022-10-02**|**Unsupervised Multi-View Object Segmentation Using Radiance Field Propagation**|Xinhang Liu et.al.|[2210.00489v1](http://arxiv.org/abs/2210.00489v1)|null|
+|**2022-10-02**|**Unsupervised Multi-View Object Segmentation Using Radiance Field Propagation**|Xinhang Liu et.al.|[2210.00489v2](http://arxiv.org/abs/2210.00489v2)|null|
 |**2022-10-01**|**NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review**|Kyle Gao et.al.|[2210.00379v1](http://arxiv.org/abs/2210.00379v1)|null|
 |**2022-10-01**|**Structure-Aware NeRF without Posed Camera via Epipolar Constraint**|Shu Chen et.al.|[2210.00183v1](http://arxiv.org/abs/2210.00183v1)|**[link](https://github.com/xtu-pr-lab/sanerf)**|
 |**2022-09-30**|**Improving 3D-aware Image Synthesis with A Geometry-aware Discriminator**|Zifan Shi et.al.|[2209.15637v1](http://arxiv.org/abs/2209.15637v1)|null|
