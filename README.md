@@ -1,4 +1,4 @@
-## Updated on 2022.10.20
+## Updated on 2022.10.21
 
 ## Image Generation
 
@@ -151,7 +151,7 @@
 |**2022-10-18**|**Team OS's System for Dialogue Robot Competition 2022**|Yuki Kubo et.al.|[2210.09928v1](http://arxiv.org/abs/2210.09928v1)|null|
 |**2022-10-18**|**Multimodal Image Fusion based on Hybrid CNN-Transformer and Non-local Cross-modal Attention**|Yu Yuan et.al.|[2210.09847v1](http://arxiv.org/abs/2210.09847v1)|**[link](https://github.com/pandayuanyu/hcfusion)**|
 |**2022-10-18**|**Personality-adapted multimodal dialogue system**|Tamotsu Miyama et.al.|[2210.09761v1](http://arxiv.org/abs/2210.09761v1)|null|
-|**2022-10-18**|**Using Language to Extend to Unseen Domains**|Lisa Dunlap et.al.|[2210.09520v1](http://arxiv.org/abs/2210.09520v1)|null|
+|**2022-10-18**|**Using Language to Extend to Unseen Domains**|Lisa Dunlap et.al.|[2210.09520v2](http://arxiv.org/abs/2210.09520v2)|null|
 |**2022-10-17**|**Real-Time Driver Monitoring Systems through Modality and View Analysis**|Yiming Ma et.al.|[2210.09441v1](http://arxiv.org/abs/2210.09441v1)|null|
 |**2022-10-17**|**Multimodal Shared Autonomy for Social Navigation Assistance of Telepresence Robots**|Kenechukwu C. Mbanisi et.al.|[2210.09411v1](http://arxiv.org/abs/2210.09411v1)|null|
 |**2022-10-17**|**Vision-Language Pre-training: Basics, Recent Advances, and Future Trends**|Zhe Gan et.al.|[2210.09263v1](http://arxiv.org/abs/2210.09263v1)|null|
@@ -181,7 +181,7 @@
 |---|---|---|---|---|
 |**2022-10-18**|**Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation**|Yunzhi Lin et.al.|[2210.10108v1](http://arxiv.org/abs/2210.10108v1)|null|
 |**2022-10-18**|**ARAH: Animatable Volume Rendering of Articulated Human SDFs**|Shaofei Wang et.al.|[2210.10036v1](http://arxiv.org/abs/2210.10036v1)|null|
-|**2022-10-17**|**Differentiable Physics Simulation of Dynamics-Augmented Neural Objects**|Simon Le Cleac'h et.al.|[2210.09420v1](http://arxiv.org/abs/2210.09420v1)|null|
+|**2022-10-17**|**Differentiable Physics Simulation of Dynamics-Augmented Neural Objects**|Simon Le Cleac'h et.al.|[2210.09420v2](http://arxiv.org/abs/2210.09420v2)|null|
 |**2022-10-15**|**SPIDR: SDF-based Neural Point Fields for Illumination and Deformation**|Ruofan Liang et.al.|[2210.08398v1](http://arxiv.org/abs/2210.08398v1)|null|
 |**2022-10-15**|**IBL-NeRF: Image-Based Lighting Formulation of Neural Radiance Fields**|Changwoon Choi et.al.|[2210.08202v1](http://arxiv.org/abs/2210.08202v1)|null|
 |**2022-10-13**|**3D GAN Inversion with Pose Optimization**|Jaehoon Ko et.al.|[2210.07301v2](http://arxiv.org/abs/2210.07301v2)|null|
@@ -214,7 +214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-19**|**Impact of Doping and Geometry on Breakdown Voltage of Semi-Vertical GaN-on-Si MOS Capacitors**|D. Favero et.al.|[2210.10558v1](http://arxiv.org/abs/2210.10558v1)|null|
+|**2022-10-19**|**Impact of Doping and Geometry on Breakdown Voltage of Semi-Vertical GaN-on-Si MOS Capacitors**|D. Favero et.al.|[2210.10558v2](http://arxiv.org/abs/2210.10558v2)|null|
 |**2022-10-19**|**Multi-view Gait Recognition based on Siamese Vision Transformer**|Yanchen Yang et.al.|[2210.10421v1](http://arxiv.org/abs/2210.10421v1)|null|
 |**2022-10-19**|**Real Image Super-Resolution using GAN through modeling of LR and HR process**|Rao Muhammad Umer et.al.|[2210.10413v1](http://arxiv.org/abs/2210.10413v1)|null|
 |**2022-10-18**|**Landmark Enforcement and Style Manipulation for Generative Morphing**|Samuel Price et.al.|[2210.10182v1](http://arxiv.org/abs/2210.10182v1)|null|
