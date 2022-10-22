@@ -282,5 +282,5 @@ layout: default
 |**2022-10-19**|**TabLLM: Few-shot Classification of Tabular Data with Large Language Models**|Stefan Hegselmann et.al.|[2210.10723v1](http://arxiv.org/abs/2210.10723v1)|null|
 |**2022-10-19**|**CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion**|Philippe Weinzaepfel et.al.|[2210.10716v1](http://arxiv.org/abs/2210.10716v1)|null|
 |**2022-10-19**|**Schema-aware Reference as Prompt Improves Data-Efficient Relational Triple and Event Extraction**|Yunzhi Yao et.al.|[2210.10709v1](http://arxiv.org/abs/2210.10709v1)|**[link](https://github.com/zjunlp/RAP)**|
-|**2022-10-19**|**Incorporating Relevance Feedback for Information-Seeking Retrieval using Few-Shot Document Re-Ranking**|Tim Baumgärtner et.al.|[2210.10695v1](http://arxiv.org/abs/2210.10695v1)|null|
+|**2022-10-19**|**Incorporating Relevance Feedback for Information-Seeking Retrieval using Few-Shot Document Re-Ranking**|Tim Baumgärtner et.al.|[2210.10695v1](http://arxiv.org/abs/2210.10695v1)|**[link](https://github.com/ukplab/incorporating-relevance)**|
 
