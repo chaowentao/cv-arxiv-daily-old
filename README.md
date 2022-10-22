@@ -1,4 +1,4 @@
-## Updated on 2022.10.21
+## Updated on 2022.10.22
 
 ## Image Generation
 
@@ -214,7 +214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-19**|**Analysis of Ring Galaxies Detected Using Deep Learning with Real and Simulated Data**|Harish Krishakumar et.al.|[2210.11428v1](http://arxiv.org/abs/2210.11428v1)|null|
+|**2022-10-19**|**Analysis of Ring Galaxies Detected Using Deep Learning with Real and Simulated Data**|Harish Krishnakumar et.al.|[2210.11428v1](http://arxiv.org/abs/2210.11428v1)|null|
 |**2022-10-19**|**Hierarchical Deep Learning with Generative Adversarial Network for Automatic Cardiac Diagnosis from ECG Signals**|Zekai Wang et.al.|[2210.11408v1](http://arxiv.org/abs/2210.11408v1)|null|
 |**2022-10-20**|**PalGAN: Image Colorization with Palette Generative Adversarial Networks**|Yi Wang et.al.|[2210.11204v1](http://arxiv.org/abs/2210.11204v1)|**[link](https://github.com/shepnerd/palgan)**|
 |**2022-10-20**|**Facial Expression Video Generation Based-On Spatio-temporal Convolutional GAN: FEV-GAN**|Hamza Bouzid et.al.|[2210.11182v1](http://arxiv.org/abs/2210.11182v1)|null|
