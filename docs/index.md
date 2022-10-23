@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.22
+## Updated on 2022.10.23
 
 ## Image Generation
 
@@ -79,7 +79,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-10-20**|**GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network**|Jheng-Wei Su et.al.|[2210.11419v1](http://arxiv.org/abs/2210.11419v1)|null|
-|**2022-10-20**|**General Image Descriptors for Open World Image Retrieval using ViT CLIP**|Marcos V. Conde et.al.|[2210.11141v1](http://arxiv.org/abs/2210.11141v1)|null|
+|**2022-10-20**|**General Image Descriptors for Open World Image Retrieval using ViT CLIP**|Marcos V. Conde et.al.|[2210.11141v1](http://arxiv.org/abs/2210.11141v1)|**[link](https://github.com/ivanaer/g-universal-clip)**|
 |**2022-10-20**|**SimpleClick: Interactive Image Segmentation with Simple Vision Transformers**|Qin Liu et.al.|[2210.11006v1](http://arxiv.org/abs/2210.11006v1)|**[link](https://github.com/uncbiag/simpleclick)**|
 |**2022-10-19**|**A Unified View of Masked Image Modeling**|Zhiliang Peng et.al.|[2210.10615v1](http://arxiv.org/abs/2210.10615v1)|null|
 |**2022-10-19**|**Cross-Modal Fusion Distillation for Fine-Grained Sketch-Based Image Retrieval**|Abhra Chaudhuri et.al.|[2210.10486v1](http://arxiv.org/abs/2210.10486v1)|null|
@@ -262,7 +262,7 @@ layout: default
 |**2022-10-20**|**Disentangling Reasoning Capabilities from Language Models with Compositional Reasoning Transformers**|Wanjun Zhong et.al.|[2210.11265v1](http://arxiv.org/abs/2210.11265v1)|null|
 |**2022-10-20**|**Towards Mitigating the Problem of Insufficient and Ambiguous Supervision in Online Crowdsourcing Annotation**|Qian-Wei Wang et.al.|[2210.11194v1](http://arxiv.org/abs/2210.11194v1)|null|
 |**2022-10-20**|**Multi-hypothesis 3D human pose estimation metrics favor miscalibrated distributions**|Paweł A. Pierzchlewicz et.al.|[2210.11179v1](http://arxiv.org/abs/2210.11179v1)|**[link](https://github.com/sinzlab/cgnf)**|
-|**2022-10-20**|**General Image Descriptors for Open World Image Retrieval using ViT CLIP**|Marcos V. Conde et.al.|[2210.11141v1](http://arxiv.org/abs/2210.11141v1)|null|
+|**2022-10-20**|**General Image Descriptors for Open World Image Retrieval using ViT CLIP**|Marcos V. Conde et.al.|[2210.11141v1](http://arxiv.org/abs/2210.11141v1)|**[link](https://github.com/ivanaer/g-universal-clip)**|
 |**2022-10-20**|**Investigating Quantum Many-Body Systems with Tensor Networks, Machine Learning and Quantum Computers**|Korbinian Kottmann et.al.|[2210.11130v1](http://arxiv.org/abs/2210.11130v1)|null|
 |**2022-10-20**|**Robust One-Shot Singing Voice Conversion**|Naoya Takahashi et.al.|[2210.11096v1](http://arxiv.org/abs/2210.11096v1)|null|
 |**2022-10-20**|**Weighted Maximum Likelihood for Controller Tuning**|Angel Romero et.al.|[2210.11087v1](http://arxiv.org/abs/2210.11087v1)|null|
