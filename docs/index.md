@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.24
+## Updated on 2022.10.25
 
 ## Image Generation
 
@@ -155,7 +155,7 @@ layout: default
 |**2022-10-20**|**Broadband Multifunctional Plasmonic Polarization Converter based on Multimode Interference Coupler**|Hamed Pezeshki et.al.|[2210.11353v1](http://arxiv.org/abs/2210.11353v1)|null|
 |**2022-10-20**|**PalGAN: Image Colorization with Palette Generative Adversarial Networks**|Yi Wang et.al.|[2210.11204v1](http://arxiv.org/abs/2210.11204v1)|**[link](https://github.com/shepnerd/palgan)**|
 |**2022-10-20**|**A survey on Self Supervised learning approaches for improving Multimodal representation learning**|Naman Goyal et.al.|[2210.11024v1](http://arxiv.org/abs/2210.11024v1)|null|
-|**2022-10-20**|**A Multimodal Sensor Fusion Framework Robust to Missing Modalities for Person Recognition**|Vijay John et.al.|[2210.10972v1](http://arxiv.org/abs/2210.10972v1)|null|
+|**2022-10-20**|**A Multimodal Sensor Fusion Framework Robust to Missing Modalities for Person Recognition**|Vijay John et.al.|[2210.10972v2](http://arxiv.org/abs/2210.10972v2)|null|
 |**2022-10-19**|**MMRNet: Improving Reliability for Multimodal Computer Vision for Bin Picking via Multimodal Redundancy**|Yuhao Chen et.al.|[2210.10842v1](http://arxiv.org/abs/2210.10842v1)|null|
 |**2022-10-19**|**Scene Text Recognition with Semantics**|Joshua Cesare Placidi et.al.|[2210.10836v1](http://arxiv.org/abs/2210.10836v1)|null|
 |**2022-10-19**|**MPOGames: Efficient Multimodal Partially Observable Dynamic Games**|Oswin So et.al.|[2210.10814v1](http://arxiv.org/abs/2210.10814v1)|null|
@@ -228,7 +228,7 @@ layout: default
 |**2022-10-20**|**PalGAN: Image Colorization with Palette Generative Adversarial Networks**|Yi Wang et.al.|[2210.11204v1](http://arxiv.org/abs/2210.11204v1)|**[link](https://github.com/shepnerd/palgan)**|
 |**2022-10-20**|**Facial Expression Video Generation Based-On Spatio-temporal Convolutional GAN: FEV-GAN**|Hamza Bouzid et.al.|[2210.11182v1](http://arxiv.org/abs/2210.11182v1)|null|
 |**2022-10-20**|**Single Image Super-Resolution Using Lightweight Networks Based on Swin Transformer**|Bolong Zhang et.al.|[2210.11019v1](http://arxiv.org/abs/2210.11019v1)|null|
-|**2022-10-20**|**Infrared and visible image fusion via dual-domain adversarial learning**|Xiaowen Liu et.al.|[2210.11018v1](http://arxiv.org/abs/2210.11018v1)|null|
+|**2022-10-20**|**An Attention-Guided and Wavelet-Constrained Generative Adversarial Network for Infrared and Visible Image Fusion**|Xiaowen Liu et.al.|[2210.11018v2](http://arxiv.org/abs/2210.11018v2)|null|
 |**2022-10-19**|**Backdoor Attack and Defense in Federated Generative Adversarial Network-based Medical Image Synthesis**|Ruinan Jin et.al.|[2210.10886v1](http://arxiv.org/abs/2210.10886v1)|null|
 |**2022-10-18**|**An out-of-distribution discriminator based on Bayesian neural network epistemic uncertainty**|Ethan Ancell et.al.|[2210.10780v1](http://arxiv.org/abs/2210.10780v1)|null|
 |**2022-10-19**|**Impact of Doping and Geometry on Breakdown Voltage of Semi-Vertical GaN-on-Si MOS Capacitors**|D. Favero et.al.|[2210.10558v2](http://arxiv.org/abs/2210.10558v2)|null|
