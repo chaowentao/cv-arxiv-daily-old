@@ -1,4 +1,4 @@
-## Updated on 2022.10.25
+## Updated on 2022.10.26
 
 ## Image Generation
 
@@ -261,7 +261,7 @@
 |**2022-10-24**|**Unsupervised Term Extraction for Highly Technical Domains**|Francesco Fusco et.al.|[2210.13118v1](http://arxiv.org/abs/2210.13118v1)|null|
 |**2022-10-24**|**Foreground Guidance and Multi-Layer Feature Fusion for Unsupervised Object Discovery with Transformers**|Zhiwei Lin et.al.|[2210.13053v1](http://arxiv.org/abs/2210.13053v1)|null|
 |**2022-10-24**|**"Covid vaccine is against Covid but Oxford vaccine is made at Oxford!" Semantic Interpretation of Proper Noun Compounds**|Keshav Kolluru et.al.|[2210.13039v1](http://arxiv.org/abs/2210.13039v1)|null|
-|**2022-10-24**|**Multilingual Auxiliary Tasks Training: Bridging the Gap between Languages for Zero-Shot Transfer of Hate Speech Detection Models**|Syrielle Montariol et.al.|[2210.13029v1](http://arxiv.org/abs/2210.13029v1)|null|
+|**2022-10-24**|**Multilingual Auxiliary Tasks Training: Bridging the Gap between Languages for Zero-Shot Transfer of Hate Speech Detection Models**|Syrielle Montariol et.al.|[2210.13029v2](http://arxiv.org/abs/2210.13029v2)|null|
 |**2022-10-24**|**Towards Understanding Player Behavior in Blockchain Games: A Case Study of Aavegotchi**|Yu Jiang et.al.|[2210.13013v1](http://arxiv.org/abs/2210.13013v1)|null|
 |**2022-10-24**|**On representation of natural image patches**|Cheng Guo et.al.|[2210.13004v1](http://arxiv.org/abs/2210.13004v1)|null|
 |**2022-10-24**|**An Empirical Revisiting of Linguistic Knowledge Fusion in Language Understanding Tasks**|Changlong Yu et.al.|[2210.13002v1](http://arxiv.org/abs/2210.13002v1)|**[link](https://github.com/hkust-knowcomp/revisit-nlu-linguistic-knowledge)**|
