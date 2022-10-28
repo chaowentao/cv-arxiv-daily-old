@@ -1,4 +1,4 @@
-## Updated on 2022.10.27
+## Updated on 2022.10.28
 
 ## Image Generation
 
@@ -41,7 +41,7 @@
 |---|---|---|---|---|
 |**2022-10-26**|**Experimental determination of the E2-M1 polarizability of the strontium clock transition**|Sören Dörscher et.al.|[2210.14727v1](http://arxiv.org/abs/2210.14727v1)|null|
 |**2022-10-20**|**Roadmap on spatiotemporal light fields**|Yijie Shen et.al.|[2210.11273v1](http://arxiv.org/abs/2210.11273v1)|null|
-|**2022-10-18**|**Response of open two-band systems to a momentum-carrying single-mode quantized field**|Xue Han et.al.|[2210.11230v1](http://arxiv.org/abs/2210.11230v1)|null|
+|**2022-10-18**|**Response of open two-band systems to a momentum-carrying single-mode quantized field**|Xue Han et.al.|[2210.11230v2](http://arxiv.org/abs/2210.11230v2)|null|
 |**2022-10-09**|**Learning Texture Transformer Network for Light Field Super-Resolution**|Javeria Shabbir et.al.|[2210.09293v1](http://arxiv.org/abs/2210.09293v1)|null|
 |**2022-10-17**|**Creation of non-classical states of light in a chiral waveguide**|Kevin Kleinbeck et.al.|[2210.09216v1](http://arxiv.org/abs/2210.09216v1)|null|
 |**2022-10-14**|**End-to-end joint optimization of metasurface and image processing for compact snapshot hyperspectral imaging**|Qiangbo Zhang et.al.|[2210.07684v1](http://arxiv.org/abs/2210.07684v1)|null|
@@ -75,7 +75,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-10-26**|**M$^3$ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design**|Hanxue Liang et.al.|[2210.14793v1](http://arxiv.org/abs/2210.14793v1)|**[link](https://github.com/vita-group/m3vit)**|
-|**2022-10-26**|**TPFNet: A Novel Text In-painting Transformer for Text Removal**|Onkar Susladkar et.al.|[2210.14461v1](http://arxiv.org/abs/2210.14461v1)|null|
+|**2022-10-26**|**TPFNet: A Novel Text In-painting Transformer for Text Removal**|Onkar Susladkar et.al.|[2210.14461v2](http://arxiv.org/abs/2210.14461v2)|null|
 |**2022-10-25**|**Explicitly Increasing Input Information Density for Vision Transformers on Small Datasets**|Xiangyu Chen et.al.|[2210.14319v1](http://arxiv.org/abs/2210.14319v1)|null|
 |**2022-10-25**|**Learning Explicit Object-Centric Representations with Vision Transformers**|Oscar Vikström et.al.|[2210.14139v1](http://arxiv.org/abs/2210.14139v1)|null|
 |**2022-10-25**|**Minutiae-Guided Fingerprint Embeddings via Vision Transformers**|Steven A. Grosz et.al.|[2210.13994v2](http://arxiv.org/abs/2210.13994v2)|null|
