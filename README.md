@@ -225,7 +225,6 @@
 |**2022-10-27**|**ScoreMix: A Scalable Augmentation Strategy for Training GANs with Limited Data**|Jie Cao et.al.|[2210.15137v1](http://arxiv.org/abs/2210.15137v1)|null|
 |**2022-10-27**|**Towards High-Quality Neural TTS for Low-Resource Languages by Learning Compact Speech Representations**|Haohan Guo et.al.|[2210.15131v1](http://arxiv.org/abs/2210.15131v1)|**[link](https://github.com/hhguo/msmc-tts)**|
 |**2022-10-26**|**SINCO: A Novel structural regularizer for image compression using implicit neural representations**|Harry Gao et.al.|[2210.14974v1](http://arxiv.org/abs/2210.14974v1)|null|
-|**2022-10-26**|**Observation of the $B^0_s\!\to D^{*+}D^{*-}$ decay**|LHCb collaboration et.al.|[2210.14945v1](http://arxiv.org/abs/2210.14945v1)|null|
 |**2022-10-26**|**TOI-1075 b: A Dense, Massive, Ultra-Short Period Hot Super-Earth Straddling the Radius Gap**|Zahra Essack et.al.|[2210.14901v1](http://arxiv.org/abs/2210.14901v1)|null|
 |**2022-10-26**|**Anisotropic multiresolution analyses for deep fake detection**|Wei Huang et.al.|[2210.14874v1](http://arxiv.org/abs/2210.14874v1)|null|
 |**2022-10-26**|**Xiaoicesing 2: A High-Fidelity Singing Voice Synthesizer Based on Generative Adversarial Network**|Chunhui Wang et.al.|[2210.14666v1](http://arxiv.org/abs/2210.14666v1)|null|
@@ -244,6 +243,7 @@
 |**2022-10-25**|**Connective Reconstruction-based Novelty Detection**|Seyyed Morteza Hashemi et.al.|[2210.13917v1](http://arxiv.org/abs/2210.13917v1)|null|
 |**2022-10-25**|**From Points to Functions: Infinite-dimensional Representations in Diffusion Models**|Sarthak Mittal et.al.|[2210.13774v1](http://arxiv.org/abs/2210.13774v1)|**[link](https://github.com/sarthmit/traj_drl)**|
 |**2022-10-24**|**A Regularized Conditional GAN for Posterior Sampling in Inverse Problems**|Matthew Bendel et.al.|[2210.13389v1](http://arxiv.org/abs/2210.13389v1)|null|
+|**2022-10-24**|**Arithmetic Gan--Gross--Prasad conjecture for RSZ unitary Shimura curves**|Yuta Nakayama et.al.|[2210.13105v1](http://arxiv.org/abs/2210.13105v1)|null|
 
 ## Self-training
 
