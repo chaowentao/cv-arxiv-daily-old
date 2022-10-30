@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.29
+## Updated on 2022.10.30
 
 ## Image Generation
 
@@ -259,7 +259,7 @@ layout: default
 |**2022-10-27**|**Virtuoso: Massive Multilingual Speech-Text Joint Semi-Supervised Learning for Text-To-Speech**|Takaaki Saeki et.al.|[2210.15447v1](http://arxiv.org/abs/2210.15447v1)|null|
 |**2022-10-26**|**Efficient Use of Large Pre-Trained Models for Low Resource ASR**|Peter Vieting et.al.|[2210.15445v1](http://arxiv.org/abs/2210.15445v1)|null|
 |**2022-10-27**|**What Language Model to Train if You Have One Million GPU Hours?**|Teven Le Scao et.al.|[2210.15424v1](http://arxiv.org/abs/2210.15424v1)|**[link](https://github.com/bigscience-workshop/Megatron-DeepSpeed)**|
-|**2022-10-27**|**FreeVC: Towards High-Quality Text-Free One-Shot Voice Conversion**|Jingyi li et.al.|[2210.15418v1](http://arxiv.org/abs/2210.15418v1)|null|
+|**2022-10-27**|**FreeVC: Towards High-Quality Text-Free One-Shot Voice Conversion**|Jingyi li et.al.|[2210.15418v1](http://arxiv.org/abs/2210.15418v1)|**[link](https://github.com/olawod/freevc)**|
 |**2022-10-27**|**Model Order Selection with Variational Autoencoding**|Michael Baur et.al.|[2210.15407v1](http://arxiv.org/abs/2210.15407v1)|null|
 |**2022-10-27**|**A Teacher-student Framework for Unsupervised Speech Enhancement Using Noise Remixing Training and Two-stage Inference**|Li-Wei Chen et.al.|[2210.15368v1](http://arxiv.org/abs/2210.15368v1)|null|
 |**2022-10-27**|**Convolutive Block-Matching Segmentation Algorithm with Application to Music Structure Analysis**|Axel Marmoret et.al.|[2210.15356v1](http://arxiv.org/abs/2210.15356v1)|null|
