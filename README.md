@@ -1,4 +1,4 @@
-## Updated on 2022.10.30
+## Updated on 2022.10.31
 
 ## Image Generation
 
@@ -109,7 +109,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-27**|**Bootstrapping Human Optical Flow and Pose**|Aritro Roy Arko et.al.|[2210.15121v1](http://arxiv.org/abs/2210.15121v1)|null|
+|**2022-10-27**|**Bootstrapping Human Optical Flow and Pose**|Aritro Roy Arko et.al.|[2210.15121v2](http://arxiv.org/abs/2210.15121v2)|**[link](https://github.com/ubc-vision/bootstrapping-human-optical-flow-and-pose)**|
 |**2022-10-26**|**Learning a Task-specific Descriptor for Robust Matching of 3D Point Clouds**|Zhiyuan Zhang et.al.|[2210.14899v1](http://arxiv.org/abs/2210.14899v1)|null|
 |**2022-10-23**|**Few-Shot Meta Learning for Recognizing Facial Phenotypes of Genetic Disorders**|Ömer Sümer et.al.|[2210.12705v1](http://arxiv.org/abs/2210.12705v1)|null|
 |**2022-10-22**|**HuPR: A Benchmark for Human Pose Estimation Using Millimeter Wave Radar**|Shih-Po Lee et.al.|[2210.12564v1](http://arxiv.org/abs/2210.12564v1)|**[link](https://github.com/robert80203/HuPR-A-Benchmark-for-Human-Pose-Estimation-Using-Millimeter-Wave-Radar)**|
@@ -161,7 +161,7 @@
 |**2022-10-25**|**Clinically-Inspired Multi-Agent Transformers for Disease Trajectory Forecasting from Multimodal Data**|Huy Hoang Nguyen et.al.|[2210.13889v1](http://arxiv.org/abs/2210.13889v1)|null|
 |**2022-10-25**|**Robust real-time imaging through flexible multimode fibers**|Abdullah Abdulaziz et.al.|[2210.13883v1](http://arxiv.org/abs/2210.13883v1)|null|
 |**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng et.al.|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|**[link](https://github.com/pengyu-team/s3e)**|
-|**2022-10-25**|**ConnectedUNets++: Mass Segmentation from Whole Mammographic Images**|Prithul Sarker et.al.|[2210.13668v1](http://arxiv.org/abs/2210.13668v1)|null|
+|**2022-10-25**|**ConnectedUNets++: Mass Segmentation from Whole Mammographic Images**|Prithul Sarker et.al.|[2210.13668v2](http://arxiv.org/abs/2210.13668v2)|null|
 |**2022-10-24**|**Compact simultaneous label-free autofluorescence multi-harmonic (SLAM) microscopy for user-friendly photodamage-monitored imaging**|Geng Wang et.al.|[2210.13556v1](http://arxiv.org/abs/2210.13556v1)|null|
 |**2022-10-23**|**Artificial Intelligence-Based Methods for Fusion of Electronic Health Records and Imaging Data**|Farida Mohsen et.al.|[2210.13462v1](http://arxiv.org/abs/2210.13462v1)|null|
 |**2022-10-24**|**Instruction-Following Agents with Jointly Pre-Trained Vision-Language Models**|Hao Liu et.al.|[2210.13431v1](http://arxiv.org/abs/2210.13431v1)|null|
@@ -227,7 +227,7 @@
 |**2022-10-26**|**SINCO: A Novel structural regularizer for image compression using implicit neural representations**|Harry Gao et.al.|[2210.14974v1](http://arxiv.org/abs/2210.14974v1)|null|
 |**2022-10-26**|**TOI-1075 b: A Dense, Massive, Ultra-Short Period Hot Super-Earth Straddling the Radius Gap**|Zahra Essack et.al.|[2210.14901v1](http://arxiv.org/abs/2210.14901v1)|null|
 |**2022-10-26**|**Anisotropic multiresolution analyses for deep fake detection**|Wei Huang et.al.|[2210.14874v1](http://arxiv.org/abs/2210.14874v1)|null|
-|**2022-10-26**|**Xiaoicesing 2: A High-Fidelity Singing Voice Synthesizer Based on Generative Adversarial Network**|Chunhui Wang et.al.|[2210.14666v1](http://arxiv.org/abs/2210.14666v1)|null|
+|**2022-10-26**|**Xiaoicesing 2: A High-Fidelity Singing Voice Synthesizer Based on Generative Adversarial Network**|Chunhui Wang et.al.|[2210.14666v2](http://arxiv.org/abs/2210.14666v2)|null|
 |**2022-10-26**|**Towards the Detection of Diffusion Model Deepfakes**|Jonas Ricker et.al.|[2210.14571v1](http://arxiv.org/abs/2210.14571v1)|null|
 |**2022-10-26**|**SCP-GAN: Self-Correcting Discriminator Optimization for Training Consistency Preserving Metric GAN on Speech Enhancement Tasks**|Vasily Zadorozhnyy et.al.|[2210.14474v1](http://arxiv.org/abs/2210.14474v1)|null|
 |**2022-10-26**|**Modeling the Graphotactics of Low-Resource Languages Using Sequential GANs**|Isaac Wasserman et.al.|[2210.14409v1](http://arxiv.org/abs/2210.14409v1)|null|
@@ -263,7 +263,7 @@
 |**2022-10-27**|**Can language models handle recursively nested grammatical structures? A case study on comparing models and humans**|Andrew Kyle Lampinen et.al.|[2210.15303v1](http://arxiv.org/abs/2210.15303v1)|null|
 |**2022-10-27**|**Conversation Disentanglement with Bi-Level Contrastive Learning**|Chengyu Huang et.al.|[2210.15265v1](http://arxiv.org/abs/2210.15265v1)|null|
 |**2022-10-27**|**ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model with Knowledge-Enhanced Mixture-of-Denoising-Experts**|Zhida Feng et.al.|[2210.15257v1](http://arxiv.org/abs/2210.15257v1)|null|
-|**2022-10-27**|**Unsupervised Knowledge Graph Construction and Event-centric Knowledge Infusion for Scientific NLI**|Chenglin Wang et.al.|[2210.15248v1](http://arxiv.org/abs/2210.15248v1)|null|
+|**2022-10-27**|**Unsupervised Knowledge Graph Construction and Event-centric Knowledge Infusion for Scientific NLI**|Chenglin Wang et.al.|[2210.15248v2](http://arxiv.org/abs/2210.15248v2)|null|
 |**2022-10-27**|**A few-shot learning approach with domain adaptation for personalized real-life stress detection in close relationships**|Kexin Feng et.al.|[2210.15247v1](http://arxiv.org/abs/2210.15247v1)|**[link](https://github.com/hubbs-lab-tamu/couple-stress-detection)**|
 |**2022-10-27**|**Unsupervised Boundary-Aware Language Model Pretraining for Chinese Sequence Labeling**|Peijie Jiang et.al.|[2210.15231v1](http://arxiv.org/abs/2210.15231v1)|null|
 |**2022-10-27**|**COCO-DR: Combating Distribution Shifts in Zero-Shot Dense Retrieval with Contrastive and Distributionally Robust Learning**|Yue Yu et.al.|[2210.15212v1](http://arxiv.org/abs/2210.15212v1)|**[link](https://github.com/openmatch/coco-dr)**|
@@ -278,5 +278,5 @@
 |**2022-10-26**|**Large language models are not zero-shot communicators**|Laura Ruis et.al.|[2210.14986v1](http://arxiv.org/abs/2210.14986v1)|**[link](https://github.com/lauraruis/do-pigs-fly)**|
 |**2022-10-26**|**Fast and Efficient Scene Categorization for Autonomous Driving using VAEs**|Saravanabalagi Ramachandran et.al.|[2210.14981v1](http://arxiv.org/abs/2210.14981v1)|null|
 |**2022-10-26**|**A super-polynomial quantum-classical separation for density modelling**|Niklas Pirnay et.al.|[2210.14936v1](http://arxiv.org/abs/2210.14936v1)|null|
-|**2022-10-26**|**Broken Neural Scaling Laws**|Ethan Caballero et.al.|[2210.14891v1](http://arxiv.org/abs/2210.14891v1)|**[link](https://github.com/ethancaballero/broken_neural_scaling_laws)**|
+|**2022-10-26**|**Broken Neural Scaling Laws**|Ethan Caballero et.al.|[2210.14891v2](http://arxiv.org/abs/2210.14891v2)|**[link](https://github.com/ethancaballero/broken_neural_scaling_laws)**|
 
