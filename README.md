@@ -1,4 +1,4 @@
-## Updated on 2022.10.31
+## Updated on 2022.11.01
 
 ## Image Generation
 
@@ -124,7 +124,7 @@
 |**2022-10-10**|**Self-Supervised 3D Human Pose Estimation in Static Video Via Neural Rendering**|Luca Schmidtke et.al.|[2210.04514v1](http://arxiv.org/abs/2210.04514v1)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
 |**2022-10-09**|**AMPose: Alternatively Mixed Global-Local Attention Model for 3D Human Pose Estimation**|Hongxin Lin et.al.|[2210.04216v3](http://arxiv.org/abs/2210.04216v3)|null|
-|**2022-10-08**|**(Fusionformer):Exploiting the Joint Motion Synergy with Fusion Network Based On Transformer for 3D Human Pose Estimation**|Xinwei Yu et.al.|[2210.04006v1](http://arxiv.org/abs/2210.04006v1)|null|
+|**2022-10-08**|**(Fusionformer):Exploiting the Joint Motion Synergy with Fusion Network Based On Transformer for 3D Human Pose Estimation**|Xinwei Yu et.al.|[2210.04006v2](http://arxiv.org/abs/2210.04006v2)|null|
 |**2022-10-05**|**Decanus to Legatus: Synthetic training for 2D-3D human pose lifting**|Yue Zhu et.al.|[2210.02231v1](http://arxiv.org/abs/2210.02231v1)|**[link](https://github.com/zhuyue0324/decanus-to-legatus)**|
 |**2022-10-04**|**Centroid Distance Keypoint Detector for Colored Point Clouds**|Hanzhe Teng et.al.|[2210.01298v1](http://arxiv.org/abs/2210.01298v1)|**[link](https://github.com/ucr-robotics/ced_detector)**|
 |**2022-10-03**|**Heatmap Distribution Matching for Human Pose Estimation**|Haoxuan Qu et.al.|[2210.00740v2](http://arxiv.org/abs/2210.00740v2)|null|
@@ -223,7 +223,7 @@
 |**2022-10-27**|**DICTION: DynamIC robusT whIte bOx watermarkiNg scheme**|Reda Bellafqira et.al.|[2210.15745v1](http://arxiv.org/abs/2210.15745v1)|null|
 |**2022-10-27**|**Deep Generative Models on 3D Representations: A Survey**|Zifan Shi et.al.|[2210.15663v1](http://arxiv.org/abs/2210.15663v1)|null|
 |**2022-10-27**|**Towards Correlated Sequential Rules**|Lili Chen et.al.|[2210.15637v1](http://arxiv.org/abs/2210.15637v1)|null|
-|**2022-10-27**|**Source-Filter HiFi-GAN: Fast and Pitch Controllable High-Fidelity Neural Vocoder**|Reo Yoneyama et.al.|[2210.15533v1](http://arxiv.org/abs/2210.15533v1)|null|
+|**2022-10-27**|**Source-Filter HiFi-GAN: Fast and Pitch Controllable High-Fidelity Neural Vocoder**|Reo Yoneyama et.al.|[2210.15533v2](http://arxiv.org/abs/2210.15533v2)|null|
 |**2022-10-27**|**MorphTE: Injecting Morphology in Tensorized Embeddings**|Guobing Gan et.al.|[2210.15379v1](http://arxiv.org/abs/2210.15379v1)|**[link](https://github.com/bigganbing/Fairseq_MorphTE)**|
 |**2022-10-27**|**Towards Better Text-Image Consistency in Text-to-Image Generation**|Zhaorui Tan et.al.|[2210.15235v1](http://arxiv.org/abs/2210.15235v1)|null|
 |**2022-10-27**|**Few-shot Image Generation via Masked Discrimination**|Jingyuan Zhu et.al.|[2210.15194v1](http://arxiv.org/abs/2210.15194v1)|null|
@@ -257,7 +257,7 @@
 |**2022-10-28**|**RESUS: Warm-Up Cold Users via Meta-Learning Residual User Preferences in CTR Prediction**|Yanyan Shen et.al.|[2210.16080v1](http://arxiv.org/abs/2210.16080v1)|**[link](https://github.com/weiyucheng/resus)**|
 |**2022-10-28**|**Towards zero-shot Text-based voice editing using acoustic context conditioning, utterance embeddings, and reference encoders**|Jason Fong et.al.|[2210.16045v1](http://arxiv.org/abs/2210.16045v1)|null|
 |**2022-10-28**|**Deep Learning-Based Anomaly Detection in Synthetic Aperture Radar Imaging**|Max Muzeau et.al.|[2210.16038v1](http://arxiv.org/abs/2210.16038v1)|null|
-|**2022-10-28**|**Towards Few-Shot Open-Set Object Detection**|Binyi Su et.al.|[2210.15996v1](http://arxiv.org/abs/2210.15996v1)|null|
+|**2022-10-28**|**Towards Few-Shot Open-Set Object Detection**|Binyi Su et.al.|[2210.15996v1](http://arxiv.org/abs/2210.15996v1)|**[link](https://github.com/binyisu/fsosod)**|
 |**2022-10-28**|**OhMG: Zero-shot Open-vocabulary Human Motion Generation**|Junfan Lin et.al.|[2210.15929v1](http://arxiv.org/abs/2210.15929v1)|null|
 |**2022-10-28**|**Residual Adapters for Few-Shot Text-to-Speech Speaker Adaptation**|Nobuyuki Morioka et.al.|[2210.15868v1](http://arxiv.org/abs/2210.15868v1)|null|
 |**2022-10-28**|**Improving Zero-Shot Multilingual Translation with Universal Representations and Cross-Mappings**|Shuhao Gu et.al.|[2210.15851v1](http://arxiv.org/abs/2210.15851v1)|**[link](https://github.com/ictnlp/zero-mnmt)**|
