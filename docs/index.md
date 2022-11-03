@@ -149,7 +149,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-11-02**|**Fourier Disentangled Multimodal Prior Knowledge Fusion for Red Nucleus Segmentation in Brain MRI**|Guanghui Fu et.al.|[2211.01353v1](http://arxiv.org/abs/2211.01353v1)|null|
-|**2022-11-02**|**Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**|An Yang et.al.|[2211.01335v1](http://arxiv.org/abs/2211.01335v1)|null|
+|**2022-11-02**|**Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**|An Yang et.al.|[2211.01335v1](http://arxiv.org/abs/2211.01335v1)|**[link](https://github.com/ofa-sys/chinese-clip)**|
 |**2022-11-02**|**Deep Multimodal Fusion for Generalizable Person Re-identification**|Suncheng Xiang et.al.|[2211.00933v1](http://arxiv.org/abs/2211.00933v1)|**[link](https://github.com/jeremyxsc/dmf)**|
 |**2022-11-02**|**Impact of annotation modality on label quality and model performance in the automatic assessment of laughter in-the-wild**|Jose Vargas-Quiros et.al.|[2211.00794v1](http://arxiv.org/abs/2211.00794v1)|null|
 |**2022-11-01**|**Measuring Air Quality via Multimodal AI and Satellite Imagery**|Andrew Rowley et.al.|[2211.00780v1](http://arxiv.org/abs/2211.00780v1)|null|
@@ -253,7 +253,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-11-02**|**Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**|An Yang et.al.|[2211.01335v1](http://arxiv.org/abs/2211.01335v1)|null|
+|**2022-11-02**|**Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**|An Yang et.al.|[2211.01335v1](http://arxiv.org/abs/2211.01335v1)|**[link](https://github.com/ofa-sys/chinese-clip)**|
 |**2022-11-02**|**Predicting phoneme-level prosody latents using AR and flow-based Prior Networks for expressive speech synthesis**|Konstantinos Klapsas et.al.|[2211.01327v1](http://arxiv.org/abs/2211.01327v1)|null|
 |**2022-11-02**|**A Joint Framework Towards Class-aware and Class-agnostic Alignment for Few-shot Segmentation**|Kai Huang et.al.|[2211.01310v1](http://arxiv.org/abs/2211.01310v1)|null|
 |**2022-11-02**|**Learning an Artificial Language for Knowledge-Sharing in Multilingual Translation**|Danni Liu et.al.|[2211.01292v1](http://arxiv.org/abs/2211.01292v1)|null|
