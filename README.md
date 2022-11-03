@@ -1,4 +1,4 @@
-## Updated on 2022.11.02
+## Updated on 2022.11.03
 
 ## Image Generation
 
@@ -150,7 +150,7 @@
 |**2022-11-01**|**GMF: General Multimodal Fusion Framework for Correspondence Outlier Rejection**|Xiaoshui Huang et.al.|[2211.00207v1](http://arxiv.org/abs/2211.00207v1)|**[link](https://github.com/xiaoshuihuang/gmf)**|
 |**2022-10-31**|**The Circumgalactic Medium of Milky Way-like Galaxies in the TNG50 Simulation -- I: Halo Gas Properties and the Role of SMBH Feedback**|Rahul Ramesh et.al.|[2211.00020v1](http://arxiv.org/abs/2211.00020v1)|null|
 |**2022-10-31**|**Multimodal Information Bottleneck: Learning Minimal Sufficient Unimodal and Multimodal Representations**|Sijie Mai et.al.|[2210.17444v1](http://arxiv.org/abs/2210.17444v1)|**[link](https://github.com/tmacmai/multimodal-information-bottleneck)**|
-|**2022-10-28**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v1](http://arxiv.org/abs/2210.17299v1)|**[link](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)**|
+|**2022-10-28**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v2](http://arxiv.org/abs/2210.17299v2)|**[link](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)**|
 |**2022-10-28**|**M$^3$Care: Learning with Missing Modalities in Multimodal Healthcare Data**|Chaohe Zhang et.al.|[2210.17292v1](http://arxiv.org/abs/2210.17292v1)|**[link](https://github.com/choczhang/m3care)**|
 |**2022-10-31**|**Latent Multimodal Functional Graphical Model Estimation**|Katherine Tsai et.al.|[2210.17237v1](http://arxiv.org/abs/2210.17237v1)|null|
 |**2022-10-30**|**Multilingual Multimodality: A Taxonomical Survey of Datasets, Techniques, Challenges and Opportunities**|Khyathi Raghavi Chandu et.al.|[2210.16960v1](http://arxiv.org/abs/2210.16960v1)|null|
@@ -269,7 +269,7 @@
 |**2022-10-31**|**Zero-Shot Text Classification with Self-Training**|Ariel Gera et.al.|[2210.17541v1](http://arxiv.org/abs/2210.17541v1)|**[link](https://github.com/ibm/zero-shot-classification-boost-with-self-training)**|
 |**2022-10-31**|**Query Refinement Prompts for Closed-Book Long-Form Question Answering**|Reinald Kim Amplayo et.al.|[2210.17525v1](http://arxiv.org/abs/2210.17525v1)|null|
 |**2022-10-31**|**Deep Learning-based Protoacoustic Signal Denoising for Proton Range Verification**|Jing Wang et.al.|[2210.17500v1](http://arxiv.org/abs/2210.17500v1)|null|
-|**2022-10-31**|**AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning**|Yaqing Wang et.al.|[2210.17451v1](http://arxiv.org/abs/2210.17451v1)|null|
+|**2022-10-31**|**AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning**|Yaqing Wang et.al.|[2210.17451v2](http://arxiv.org/abs/2210.17451v2)|null|
 |**2022-10-31**|**Globally Gated Deep Linear Networks**|Qianyi Li et.al.|[2210.17449v1](http://arxiv.org/abs/2210.17449v1)|null|
 |**2022-10-31**|**Learning New Tasks from a Few Examples with Soft-Label Prototypes**|Avyav Kumar Singh et.al.|[2210.17437v1](http://arxiv.org/abs/2210.17437v1)|null|
 |**2022-10-31**|**GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers**|Elias Frantar et.al.|[2210.17323v1](http://arxiv.org/abs/2210.17323v1)|**[link](https://github.com/ist-daslab/gptq)**|
