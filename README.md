@@ -1,4 +1,4 @@
-## Updated on 2022.11.06
+## Updated on 2022.11.07
 
 ## Image Generation
 
@@ -40,7 +40,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-11-02**|**Laser operation based on Floquet-assisted superradiance**|Lukas Broers et.al.|[2211.01320v1](http://arxiv.org/abs/2211.01320v1)|null|
-|**2022-11-02**|**Holographic-Type Communication for Digital Twin: A Learning-based Auction Approach**|XiuYu Zhang et.al.|[2211.01016v2](http://arxiv.org/abs/2211.01016v2)|null|
+|**2022-11-02**|**Holographic-Type Communication for Digital Twin: A Learning-based Auction Approach**|XiuYu Zhang et.al.|[2211.01016v3](http://arxiv.org/abs/2211.01016v3)|null|
 |**2022-10-29**|**Harmonics-assisted optical phase amplifier**|Wu-Zhen Li et.al.|[2210.16582v1](http://arxiv.org/abs/2210.16582v1)|null|
 |**2022-10-28**|**Matching entropy based disparity estimation from light field**|Ligen Shi et.al.|[2210.15948v1](http://arxiv.org/abs/2210.15948v1)|null|
 |**2022-10-26**|**Experimental determination of the E2-M1 polarizability of the strontium clock transition**|Sören Dörscher et.al.|[2210.14727v1](http://arxiv.org/abs/2210.14727v1)|null|
@@ -75,7 +75,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-11-03**|**Rethinking Hierarchicies in Pre-trained Plain Vision Transformer**|Yufei Xu et.al.|[2211.01785v1](http://arxiv.org/abs/2211.01785v1)|null|
-|**2022-11-03**|**Evaluating a Synthetic Image Dataset Generated with Stable Diffusion**|Andreas Stöckl et.al.|[2211.01777v1](http://arxiv.org/abs/2211.01777v1)|null|
+|**2022-11-03**|**Evaluating a Synthetic Image Dataset Generated with Stable Diffusion**|Andreas Stöckl et.al.|[2211.01777v2](http://arxiv.org/abs/2211.01777v2)|null|
 |**2022-11-02**|**The Lottery Ticket Hypothesis for Vision Transformers**|Xuan Shen et.al.|[2211.01484v1](http://arxiv.org/abs/2211.01484v1)|null|
 |**2022-11-02**|**Attention-based Neural Cellular Automata**|Mattie Tesfaldet et.al.|[2211.01233v1](http://arxiv.org/abs/2211.01233v1)|null|
 |**2022-11-02**|**RegCLR: A Self-Supervised Framework for Tabular Representation Learning in the Wild**|Weiyao Wang et.al.|[2211.01165v1](http://arxiv.org/abs/2211.01165v1)|null|
@@ -273,7 +273,7 @@
 |**2022-11-02**|**Towards Zero-Shot Code-Switched Speech Recognition**|Brian Yan et.al.|[2211.01458v1](http://arxiv.org/abs/2211.01458v1)|null|
 |**2022-11-02**|**Speeding up NAS with Adaptive Subset Selection**|Vishak Prasad C et.al.|[2211.01454v1](http://arxiv.org/abs/2211.01454v1)|null|
 |**2022-11-02**|**Privacy-preserving Non-negative Matrix Factorization with Outliers**|Swapnil Saha et.al.|[2211.01451v1](http://arxiv.org/abs/2211.01451v1)|null|
-|**2022-11-02**|**TextCraft: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Text**|Aditya Sanghi et.al.|[2211.01427v1](http://arxiv.org/abs/2211.01427v1)|null|
+|**2022-11-02**|**TextCraft: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Text**|Aditya Sanghi et.al.|[2211.01427v2](http://arxiv.org/abs/2211.01427v2)|null|
 |**2022-11-02**|**Modern Machine Learning for LHC Physicists**|Tilman Plehn et.al.|[2211.01421v1](http://arxiv.org/abs/2211.01421v1)|null|
 |**2022-11-02**|**Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**|An Yang et.al.|[2211.01335v2](http://arxiv.org/abs/2211.01335v2)|**[link](https://github.com/ofa-sys/chinese-clip)**|
 |**2022-11-02**|**Predicting phoneme-level prosody latents using AR and flow-based Prior Networks for expressive speech synthesis**|Konstantinos Klapsas et.al.|[2211.01327v1](http://arxiv.org/abs/2211.01327v1)|null|
