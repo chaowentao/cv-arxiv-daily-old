@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.07
+## Updated on 2022.11.08
 
 ## Image Generation
 
@@ -188,9 +188,9 @@ layout: default
 |**2022-10-27**|**Boosting Point Clouds Rendering via Radiance Mapping**|Xiaoyang Huang et.al.|[2210.15107v1](http://arxiv.org/abs/2210.15107v1)|null|
 |**2022-10-24**|**Learning Neural Radiance Fields from Multi-View Geometry**|Marco Orsingher et.al.|[2210.13041v1](http://arxiv.org/abs/2210.13041v1)|null|
 |**2022-10-23**|**Compressing Explicit Voxel Grid Representations: fast NeRFs become also small**|Chenxi Lola Deng et.al.|[2210.12782v1](http://arxiv.org/abs/2210.12782v1)|null|
-|**2022-10-23**|**Joint Rigid Motion Correction and Sparse-View CT via Self-Calibrating Neural Field**|Qing Wu et.al.|[2210.12731v1](http://arxiv.org/abs/2210.12731v1)|null|
+|**2022-10-23**|**Joint Rigid Motion Correction and Sparse-View CT via Self-Calibrating Neural Field**|Qing Wu et.al.|[2210.12731v2](http://arxiv.org/abs/2210.12731v2)|null|
 |**2022-10-21**|**An Exploration of Neural Radiance Field Scene Reconstruction: Synthetic, Real-world and Dynamic Scenes**|Benedict Quartey et.al.|[2210.12268v1](http://arxiv.org/abs/2210.12268v1)|null|
-|**2022-10-21**|**Neural Fields for Robotic Object Manipulation from a Single Image**|Valts Blukis et.al.|[2210.12126v1](http://arxiv.org/abs/2210.12126v1)|null|
+|**2022-10-21**|**Neural Fields for Robotic Object Manipulation from a Single Image**|Valts Blukis et.al.|[2210.12126v2](http://arxiv.org/abs/2210.12126v2)|null|
 |**2022-10-21**|**HDHumans: A Hybrid Approach for High-fidelity Digital Humans**|Marc Habermann et.al.|[2210.12003v1](http://arxiv.org/abs/2210.12003v1)|null|
 |**2022-10-21**|**RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control**|Zhenggang Tang et.al.|[2210.11668v1](http://arxiv.org/abs/2210.11668v1)|null|
 |**2022-10-20**|**Coordinates Are NOT Lonely -- Codebook Prior Helps Implicit Neural 3D Representations**|Fukun Yin et.al.|[2210.11170v2](http://arxiv.org/abs/2210.11170v2)|**[link](https://github.com/fukunyin/coco-nerf)**|
@@ -258,7 +258,7 @@ layout: default
 |**2022-11-04**|**A Weakly-Supervised Streaming Multilingual Speech Model with Truly Zero-Shot Capability**|Jian Xue et.al.|[2211.02499v1](http://arxiv.org/abs/2211.02499v1)|null|
 |**2022-11-04**|**Domain Adaptive Video Semantic Segmentation via Cross-Domain Moving Object Mixing**|Kyusik Cho et.al.|[2211.02307v1](http://arxiv.org/abs/2211.02307v1)|null|
 |**2022-11-04**|**Elimination of Non-Novel Segments at Multi-Scale for Few-Shot Segmentation**|Alper Kayabaşı et.al.|[2211.02300v1](http://arxiv.org/abs/2211.02300v1)|null|
-|**2022-11-04**|**Unsupervised Visual Representation Learning via Mutual Information Regularized Assignment**|Dong Hoon Lee et.al.|[2211.02284v1](http://arxiv.org/abs/2211.02284v1)|null|
+|**2022-11-04**|**Unsupervised Visual Representation Learning via Mutual Information Regularized Assignment**|Dong Hoon Lee et.al.|[2211.02284v1](http://arxiv.org/abs/2211.02284v1)|**[link](https://github.com/movinghoon/mira)**|
 |**2022-11-04**|**Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models**|Chengcheng Ma et.al.|[2211.02219v1](http://arxiv.org/abs/2211.02219v1)|null|
 |**2022-11-03**|**Zero-shot Video Moment Retrieval With Off-the-Shelf Models**|Anuj Diwan et.al.|[2211.02178v1](http://arxiv.org/abs/2211.02178v1)|null|
 |**2022-11-03**|**Robust estimation based on one-shot device test data under log-normal lifetimes**|N. Balakrishnan et.al.|[2211.02118v1](http://arxiv.org/abs/2211.02118v1)|null|
