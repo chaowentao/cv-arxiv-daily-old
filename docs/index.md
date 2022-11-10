@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.09
+## Updated on 2022.11.10
 
 ## Image Generation
 
@@ -78,7 +78,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-11-08**|**Splitting expands the application range of Vision Transformer -- variable Vision Transformer (vViT)**|Takuma Usuzaki et.al.|[2211.03992v1](http://arxiv.org/abs/2211.03992v1)|null|
+|**2022-11-08**|**Splitting expands the application range of Vision Transformer -- variable Vision Transformer (vViT)**|Takuma Usuzaki et.al.|[2211.03992v2](http://arxiv.org/abs/2211.03992v2)|null|
 |**2022-11-07**|**CoNMix for Source-free Single and Multi-target Domain Adaptation**|Vikash Kumar et.al.|[2211.03876v1](http://arxiv.org/abs/2211.03876v1)|null|
 |**2022-11-07**|**Novel Muscle Monitoring by Radiomyography(RMG) and Application to Hand Gesture Recognition**|Zijing Zhang et.al.|[2211.03767v1](http://arxiv.org/abs/2211.03767v1)|null|
 |**2022-11-07**|**Group DETR v2: Strong Object Detector with Encoder-Decoder Pretraining**|Qiang Chen et.al.|[2211.03594v1](http://arxiv.org/abs/2211.03594v1)|null|
@@ -153,7 +153,7 @@ layout: default
 |**2022-11-08**|**PhotoRedshift-MML: a multimodal machine learning method for estimating photometric redshifts of quasars**|Shuxin Hong et.al.|[2211.04260v1](http://arxiv.org/abs/2211.04260v1)|null|
 |**2022-11-08**|**DepthFormer: Multimodal Positional Encodings and Cross-Input Attention for Transformer-Based Segmentation Networks**|Francesco Barbato et.al.|[2211.04188v1](http://arxiv.org/abs/2211.04188v1)|null|
 |**2022-11-08**|**Multimode Brownian oscillators: Thermodynamics and heat transport**|Xin-Hai Tong et.al.|[2211.04131v1](http://arxiv.org/abs/2211.04131v1)|null|
-|**2022-11-08**|**Ultra-compact Silicon Multimode Waveguide Bends Based on Special Curves for Dual Polarizations**|Juanli Wang et.al.|[2211.04077v1](http://arxiv.org/abs/2211.04077v1)|null|
+|**2022-11-08**|**Ultra-compact Silicon Multimode Waveguide Bends Based on Special Curves for Dual Polarizations**|Juanli Wang et.al.|[2211.04077v2](http://arxiv.org/abs/2211.04077v2)|null|
 |**2022-11-08**|**Tell Your Story: Task-Oriented Dialogs for Interactive Content Creation**|Satwik Kottur et.al.|[2211.03940v1](http://arxiv.org/abs/2211.03940v1)|null|
 |**2022-11-07**|**Astronomia ex machina: a history, primer, and outlook on neural networks in astronomy**|Michael J. Smith et.al.|[2211.03796v1](http://arxiv.org/abs/2211.03796v1)|null|
 |**2022-11-07**|**MAISON -- Multimodal AI-based Sensor platform for Older Individuals**|Ali Abedi et.al.|[2211.03615v1](http://arxiv.org/abs/2211.03615v1)|null|
@@ -171,7 +171,7 @@ layout: default
 |**2022-11-04**|**Robustness of Fusion-based Multimodal Classifiers to Cross-Modal Content Dilutions**|Gaurav Verma et.al.|[2211.02646v1](http://arxiv.org/abs/2211.02646v1)|null|
 |**2022-11-04**|**Evaluating and Improving Factuality in Multimodal Abstractive Summarization**|David Wan et.al.|[2211.02580v1](http://arxiv.org/abs/2211.02580v1)|**[link](https://github.com/meetdavidwan/faithful-multimodal-summ)**|
 |**2022-11-04**|**Benchmark of Bayesian Optimization and Metaheuristics for Control Engineering Tuning Problems with Crash Constraints**|David Stenger et.al.|[2211.02571v1](http://arxiv.org/abs/2211.02571v1)|null|
-|**2022-11-04**|**GoRela: Go Relative for Viewpoint-Invariant Motion Forecasting**|Alexander Cui et.al.|[2211.02545v1](http://arxiv.org/abs/2211.02545v1)|null|
+|**2022-11-04**|**GoRela: Go Relative for Viewpoint-Invariant Motion Forecasting**|Alexander Cui et.al.|[2211.02545v2](http://arxiv.org/abs/2211.02545v2)|null|
 |**2022-11-04**|**Improving Speech Prosody of Audiobook Text-to-Speech Synthesis with Acoustic and Textual Contexts**|Detai Xin et.al.|[2211.02336v1](http://arxiv.org/abs/2211.02336v1)|null|
 |**2022-11-04**|**Pattern recognition with a magnon-scattering reservoir**|Lukas Körber et.al.|[2211.02328v1](http://arxiv.org/abs/2211.02328v1)|null|
 |**2022-11-04**|**Late Fusion with Triplet Margin Objective for Multimodal Ideology Prediction and Analysis**|Changyuan Qiu et.al.|[2211.02269v1](http://arxiv.org/abs/2211.02269v1)|null|
@@ -234,7 +234,7 @@ layout: default
 |**2022-11-06**|**Distilling Representations from GAN Generator via Squeeze and Span**|Yu Yang et.al.|[2211.03000v1](http://arxiv.org/abs/2211.03000v1)|null|
 |**2022-11-05**|**Disentangling Content and Motion for Text-Based Neural Video Manipulation**|Levent Karacan et.al.|[2211.02980v1](http://arxiv.org/abs/2211.02980v1)|null|
 |**2022-11-05**|**Inside Out: Transforming Images of Lab-Grown Plants for Machine Learning Applications in Agriculture**|A. E. Krosney et.al.|[2211.02972v1](http://arxiv.org/abs/2211.02972v1)|null|
-|**2022-11-05**|**Prototypical quadruplet for few-shot class incremental learning**|Sanchar Palit et.al.|[2211.02947v1](http://arxiv.org/abs/2211.02947v1)|null|
+|**2022-11-05**|**Prototypical quadruplet for few-shot class incremental learning**|Sanchar Palit et.al.|[2211.02947v2](http://arxiv.org/abs/2211.02947v2)|null|
 |**2022-11-05**|**VISinger 2: High-Fidelity End-to-End Singing Voice Synthesis Enhanced by Digital Signal Processing Synthesizer**|Yongmao Zhang et.al.|[2211.02903v1](http://arxiv.org/abs/2211.02903v1)|null|
 |**2022-11-03**|**Efficient Spatially Sparse Inference for Conditional GANs and Diffusion Models**|Muyang Li et.al.|[2211.02048v1](http://arxiv.org/abs/2211.02048v1)|**[link](https://github.com/lmxyy/sige)**|
 |**2022-11-03**|**Progressive Transformation Learning For Leveraging Virtual Images in Training**|Yi-Ting Shen et.al.|[2211.01778v1](http://arxiv.org/abs/2211.01778v1)|null|
@@ -253,7 +253,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-11-08**|**Hyperparameter optimization in deep multi-target prediction**|Dimitrios Iliadis et.al.|[2211.04362v1](http://arxiv.org/abs/2211.04362v1)|null|
+|**2022-11-08**|**Hyperparameter optimization in deep multi-target prediction**|Dimitrios Iliadis et.al.|[2211.04362v1](http://arxiv.org/abs/2211.04362v1)|**[link](https://github.com/diliadis/deepmtp)**|
 |**2022-11-08**|**Prompt-Based Metric Learning for Few-Shot NER**|Yanru Chen et.al.|[2211.04337v1](http://arxiv.org/abs/2211.04337v1)|null|
 |**2022-11-08**|**Multi-Stage Based Feature Fusion of Multi-Modal Data for Human Activity Recognition**|Hyeongju Choi et.al.|[2211.04331v1](http://arxiv.org/abs/2211.04331v1)|null|
 |**2022-11-08**|**Evaluation of Color Anomaly Detection in Multispectral Images For Synthetic Aperture Sensing**|Francis Seits et.al.|[2211.04293v1](http://arxiv.org/abs/2211.04293v1)|null|
