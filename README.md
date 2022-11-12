@@ -263,7 +263,7 @@
 |**2022-11-09**|**A Simulator-based Autoencoder for Focal Plane Wavefront Sensing**|M. Quesnel et.al.|[2211.05242v1](http://arxiv.org/abs/2211.05242v1)|null|
 |**2022-11-09**|**An Empirical Study on Clustering Pretrained Embeddings: Is Deep Strictly Better?**|Tyler R. Scott et.al.|[2211.05183v1](http://arxiv.org/abs/2211.05183v1)|null|
 |**2022-11-09**|**Uni-Parser: Unified Semantic Parser for Question Answering on Knowledge Base and Database**|Ye Liu et.al.|[2211.05165v1](http://arxiv.org/abs/2211.05165v1)|null|
-|**2022-11-09**|**Efficient Zero-shot Event Extraction with Context-Definition Alignment**|Hongming Zhang et.al.|[2211.05156v1](http://arxiv.org/abs/2211.05156v1)|null|
+|**2022-11-09**|**Efficient Zero-shot Event Extraction with Context-Definition Alignment**|Hongming Zhang et.al.|[2211.05156v1](http://arxiv.org/abs/2211.05156v1)|**[link](https://github.com/tencent-ailab/ZED)**|
 |**2022-11-09**|**Cross-lingual Transfer Learning for Check-worthy Claim Identification over Twitter**|Maram Hasanain et.al.|[2211.05087v1](http://arxiv.org/abs/2211.05087v1)|null|
 |**2022-11-09**|**Prompting Large Pre-trained Vision-Language Models For Compositional Concept Learning**|Guangyue Xu et.al.|[2211.05077v1](http://arxiv.org/abs/2211.05077v1)|null|
 |**2022-11-09**|**Detecting Languages Unintelligible to Multilingual Models through Local Structure Probes**|Louis Clouâtre et.al.|[2211.05015v1](http://arxiv.org/abs/2211.05015v1)|null|
