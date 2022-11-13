@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.12
+## Updated on 2022.11.13
 
 ## Image Generation
 
@@ -259,7 +259,7 @@ layout: default
 |**2022-11-10**|**Zero-shot Visual Commonsense Immorality Prediction**|Yujin Jeong et.al.|[2211.05521v1](http://arxiv.org/abs/2211.05521v1)|**[link](https://github.com/ku-vai/zero-shot-visual-commonsense-immorality-prediction)**|
 |**2022-11-10**|**Unravelling the Performance of Physics-informed Graph Neural Networks for Dynamical Systems**|Abishek Thangamuthu et.al.|[2211.05520v1](http://arxiv.org/abs/2211.05520v1)|null|
 |**2022-11-10**|**Unsupervised Deep Learning-based clustering for Human Activity Recognition**|Hamza Amrani et.al.|[2211.05483v1](http://arxiv.org/abs/2211.05483v1)|null|
-|**2022-11-10**|**Self-supervised learning of audio representations using angular contrastive loss**|Shanshan Wang et.al.|[2211.05442v1](http://arxiv.org/abs/2211.05442v1)|null|
+|**2022-11-10**|**Self-supervised learning of audio representations using angular contrastive loss**|Shanshan Wang et.al.|[2211.05442v1](http://arxiv.org/abs/2211.05442v1)|**[link](https://github.com/shanwangshan/Self_supervised_ACL)**|
 |**2022-11-10**|**GANStrument: Adversarial Instrument Sound Synthesis with Pitch-invariant Instance Conditioning**|Gaku Narita et.al.|[2211.05385v1](http://arxiv.org/abs/2211.05385v1)|null|
 |**2022-11-10**|**Efficient Unsupervised Video Object Segmentation Network Based on Motion Guidance**|Chao Hu et.al.|[2211.05364v1](http://arxiv.org/abs/2211.05364v1)|null|
 |**2022-11-10**|**Few-shot Classification with Hypersphere Modeling of Prototypes**|Ning Ding et.al.|[2211.05319v1](http://arxiv.org/abs/2211.05319v1)|null|
