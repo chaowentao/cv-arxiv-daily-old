@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.13
+## Updated on 2022.11.14
 
 ## Image Generation
 
@@ -183,7 +183,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-11-08**|**ParticleNeRF: Particle Based Encoding for Online Neural Radiance Fields in Dynamic Scenes**|Jad Abou-Chakra et.al.|[2211.04041v1](http://arxiv.org/abs/2211.04041v1)|null|
+|**2022-11-08**|**ParticleNeRF: A Particle-Based Encoding for Online Neural Radiance Fields in Dynamic Scenes**|Jad Abou-Chakra et.al.|[2211.04041v2](http://arxiv.org/abs/2211.04041v2)|null|
 |**2022-11-07**|**Common Pets in 3D: Dynamic New-View Synthesis of Real-Life Deformable Categories**|Samarth Sinha et.al.|[2211.03889v1](http://arxiv.org/abs/2211.03889v1)|null|
 |**2022-11-03**|**nerf2nerf: Pairwise Registration of Neural Radiance Fields**|Lily Goli et.al.|[2211.01600v1](http://arxiv.org/abs/2211.01600v1)|null|
 |**2022-10-27**|**ProbNeRF: Uncertainty-Aware Inference of 3D Shapes from 2D Images**|Matthew D. Hoffman et.al.|[2210.17415v1](http://arxiv.org/abs/2210.17415v1)|null|
@@ -237,7 +237,7 @@ layout: default
 |**2022-11-07**|**Image Completion with Heterogeneously Filtered Spectral Hints**|Xingqian Xu et.al.|[2211.03700v1](http://arxiv.org/abs/2211.03700v1)|**[link](https://github.com/shi-labs/sh-gan)**|
 |**2022-11-07**|**Black-Box Attack against GAN-Generated Image Detector with Contrastive Perturbation**|Zijie Lou et.al.|[2211.03509v1](http://arxiv.org/abs/2211.03509v1)|**[link](https://github.com/zxmmd/battgand)**|
 |**2022-11-07**|**Temporal superimposed crossover module for effective continuous sign language**|Qidan Zhu et.al.|[2211.03387v1](http://arxiv.org/abs/2211.03387v1)|null|
-|**2022-11-07**|**Few-shot Image Generation with Diffusion Models**|Jingyuan Zhu et.al.|[2211.03264v1](http://arxiv.org/abs/2211.03264v1)|null|
+|**2022-11-07**|**Few-shot Image Generation with Diffusion Models**|Jingyuan Zhu et.al.|[2211.03264v2](http://arxiv.org/abs/2211.03264v2)|null|
 |**2022-11-06**|**A route for the top-down fabrication of ordered ultrathin GaN nanowires**|Miriam Oliva et.al.|[2211.03204v1](http://arxiv.org/abs/2211.03204v1)|null|
 |**2022-11-06**|**MiddleGAN: Generate Domain Agnostic Samples for Unsupervised Domain Adaptation**|Ye Gao et.al.|[2211.03144v1](http://arxiv.org/abs/2211.03144v1)|null|
 |**2022-11-06**|**Learning to Annotate Part Segmentation with Gradient Matching**|Yu Yang et.al.|[2211.03003v1](http://arxiv.org/abs/2211.03003v1)|**[link](https://github.com/yangyu12/lagm)**|
@@ -264,7 +264,7 @@ layout: default
 |**2022-11-10**|**Efficient Unsupervised Video Object Segmentation Network Based on Motion Guidance**|Chao Hu et.al.|[2211.05364v1](http://arxiv.org/abs/2211.05364v1)|null|
 |**2022-11-10**|**Few-shot Classification with Hypersphere Modeling of Prototypes**|Ning Ding et.al.|[2211.05319v1](http://arxiv.org/abs/2211.05319v1)|null|
 |**2022-11-09**|**Automating Dislocation Characterization in 3D Dark Field X-ray Microscopy**|Pin-Hua Huang et.al.|[2211.05247v1](http://arxiv.org/abs/2211.05247v1)|null|
-|**2022-11-09**|**A Simulator-based Autoencoder for Focal Plane Wavefront Sensing**|M. Quesnel et.al.|[2211.05242v1](http://arxiv.org/abs/2211.05242v1)|null|
+|**2022-11-09**|**A simulator-based autoencoder for focal plane wavefront sensing**|Maxime Quesnel et.al.|[2211.05242v2](http://arxiv.org/abs/2211.05242v2)|null|
 |**2022-11-09**|**An Empirical Study on Clustering Pretrained Embeddings: Is Deep Strictly Better?**|Tyler R. Scott et.al.|[2211.05183v1](http://arxiv.org/abs/2211.05183v1)|null|
 |**2022-11-09**|**Uni-Parser: Unified Semantic Parser for Question Answering on Knowledge Base and Database**|Ye Liu et.al.|[2211.05165v1](http://arxiv.org/abs/2211.05165v1)|null|
 |**2022-11-09**|**Efficient Zero-shot Event Extraction with Context-Definition Alignment**|Hongming Zhang et.al.|[2211.05156v1](http://arxiv.org/abs/2211.05156v1)|**[link](https://github.com/tencent-ailab/ZED)**|
