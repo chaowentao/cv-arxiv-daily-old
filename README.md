@@ -1,4 +1,4 @@
-## Updated on 2022.11.14
+## Updated on 2022.11.15
 
 ## Image Generation
 
@@ -76,7 +76,7 @@
 |---|---|---|---|---|
 |**2022-11-11**|**A Comprehensive Survey of Transformers for Computer Vision**|Sonain Jamil et.al.|[2211.06004v1](http://arxiv.org/abs/2211.06004v1)|null|
 |**2022-11-10**|**Demystify Transformers & Convolutions in Modern Image Deep Networks**|Jifeng Dai et.al.|[2211.05781v1](http://arxiv.org/abs/2211.05781v1)|**[link](https://github.com/opengvlab/stm-evaluation)**|
-|**2022-11-10**|**InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions**|Wenhai Wang et.al.|[2211.05778v1](http://arxiv.org/abs/2211.05778v1)|**[link](https://github.com/opengvlab/internimage)**|
+|**2022-11-10**|**InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions**|Wenhai Wang et.al.|[2211.05778v2](http://arxiv.org/abs/2211.05778v2)|**[link](https://github.com/opengvlab/internimage)**|
 |**2022-11-09**|**Training a Vision Transformer from scratch in less than 24 hours with 1 GPU**|Saghar Irandoust et.al.|[2211.05187v1](http://arxiv.org/abs/2211.05187v1)|null|
 |**2022-11-09**|**ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention**|Jyotikrishna Dass et.al.|[2211.05109v1](http://arxiv.org/abs/2211.05109v1)|null|
 |**2022-11-09**|**Pure Transformer with Integrated Experts for Scene Text Recognition**|Yew Lee Tan et.al.|[2211.04963v1](http://arxiv.org/abs/2211.04963v1)|null|
@@ -146,7 +146,7 @@
 |---|---|---|---|---|
 |**2022-11-10**|**flowMC: Normalizing-flow enhanced sampling package for probabilistic inference in Jax**|Kaze W. K. Wong et.al.|[2211.06397v1](http://arxiv.org/abs/2211.06397v1)|null|
 |**2022-11-11**|**A Multimodal Embedding-Based Approach to Industry Classification in Financial Markets**|Rian Dolphin et.al.|[2211.06378v1](http://arxiv.org/abs/2211.06378v1)|null|
-|**2022-11-10**|**MGTCOM: Community Detection in Multimodal Graphs**|E. Dmitriev et.al.|[2211.06331v1](http://arxiv.org/abs/2211.06331v1)|null|
+|**2022-11-10**|**MGTCOM: Community Detection in Multimodal Graphs**|E. Dmitriev et.al.|[2211.06331v1](http://arxiv.org/abs/2211.06331v1)|**[link](https://github.com/egordm/mgtcom)**|
 |**2022-11-11**|**Under Lock and Key: A Proof System for a Multimodal Logic**|G. A. Kavvos et.al.|[2211.06217v1](http://arxiv.org/abs/2211.06217v1)|null|
 |**2022-11-11**|**Unimodal and Multimodal Representation Training for Relation Extraction**|Ciaran Cooney et.al.|[2211.06168v1](http://arxiv.org/abs/2211.06168v1)|null|
 |**2022-11-10**|**Understanding ME? Multimodal Evaluation for Fine-grained Visual Commonsense**|Zhecan Wang et.al.|[2211.05895v1](http://arxiv.org/abs/2211.05895v1)|null|
@@ -251,16 +251,16 @@
 |---|---|---|---|---|
 |**2022-11-11**|**Control Transformer: Robot Navigation in Unknown Environments through PRM-Guided Return-Conditioned Sequence Modeling**|Daniel Lawson et.al.|[2211.06407v1](http://arxiv.org/abs/2211.06407v1)|null|
 |**2022-11-11**|**Comparative Analysis of TRGBs (CATs) from Unsupervised, Multi-Halo-Field Measurements: Contrast is Key**|J. Wu et.al.|[2211.06354v1](http://arxiv.org/abs/2211.06354v1)|null|
-|**2022-11-10**|**MGTCOM: Community Detection in Multimodal Graphs**|E. Dmitriev et.al.|[2211.06331v1](http://arxiv.org/abs/2211.06331v1)|null|
+|**2022-11-10**|**MGTCOM: Community Detection in Multimodal Graphs**|E. Dmitriev et.al.|[2211.06331v1](http://arxiv.org/abs/2211.06331v1)|**[link](https://github.com/egordm/mgtcom)**|
 |**2022-11-11**|**Clustering with Total Variation Graph Neural Networks**|Jonas Berg Hansen et.al.|[2211.06218v1](http://arxiv.org/abs/2211.06218v1)|null|
 |**2022-11-11**|**StrokeGAN+: Few-Shot Semi-Supervised Chinese Font Generation with Stroke Encoding**|Jinshan Zeng et.al.|[2211.06198v1](http://arxiv.org/abs/2211.06198v1)|null|
-|**2022-11-11**|**English Contrastive Learning Can Learn Universal Cross-lingual Sentence Embeddings**|Yau-Shian Wang et.al.|[2211.06127v1](http://arxiv.org/abs/2211.06127v1)|null|
+|**2022-11-11**|**English Contrastive Learning Can Learn Universal Cross-lingual Sentence Embeddings**|Yau-Shian Wang et.al.|[2211.06127v1](http://arxiv.org/abs/2211.06127v1)|**[link](https://github.com/yaushian/msimcse)**|
 |**2022-11-11**|**Soft-Landing Strategy for Alleviating the Task Discrepancy Problem in Temporal Action Localization Tasks**|Hyolim Kang et.al.|[2211.06023v1](http://arxiv.org/abs/2211.06023v1)|null|
 |**2022-11-11**|**MDFlow: Unsupervised Optical Flow Learning by Reliable Mutual Knowledge Distillation**|Lingtong Kong et.al.|[2211.06018v1](http://arxiv.org/abs/2211.06018v1)|**[link](https://github.com/ltkong218/mdflow)**|
 |**2022-11-11**|**Gradient Imitation Reinforcement Learning for General Low-Resource Information Extraction**|Xuming Hu et.al.|[2211.06014v1](http://arxiv.org/abs/2211.06014v1)|null|
 |**2022-11-11**|**Masked Contrastive Representation Learning**|Yuchong Yao et.al.|[2211.06012v1](http://arxiv.org/abs/2211.06012v1)|null|
 |**2022-11-11**|**CCPrompt: Counterfactual Contrastive Prompt-Tuning for Many-Class Classification**|Yang Li et.al.|[2211.05987v1](http://arxiv.org/abs/2211.05987v1)|null|
-|**2022-11-11**|**Semi-supervised Variational Autoencoder for Regression: Application on Soft Sensors**|Yilin Zhuang et.al.|[2211.05979v1](http://arxiv.org/abs/2211.05979v1)|null|
+|**2022-11-11**|**Semi-supervised Variational Autoencoder for Regression: Application on Soft Sensors**|Yilin Zhuang et.al.|[2211.05979v1](http://arxiv.org/abs/2211.05979v1)|**[link](https://github.com/tonyzyl/semisupervised-vae-for-regression-application-on-soft-sensor)**|
 |**2022-11-11**|**Deep equilibrium models as estimators for continuous latent variables**|Russell Tsuchida et.al.|[2211.05943v1](http://arxiv.org/abs/2211.05943v1)|**[link](https://github.com/russelltsuchida/ped)**|
 |**2022-11-10**|**Unsupervised Mixture Estimation via Approximate Maximum Likelihood based on the Cramér - von Mises distance**|Marco Bee et.al.|[2211.05847v1](http://arxiv.org/abs/2211.05847v1)|null|
 |**2022-11-10**|**Massively Multilingual ASR on 70 Languages: Tokenization, Architecture, and Generalization Capabilities**|Andros Tjandra et.al.|[2211.05756v1](http://arxiv.org/abs/2211.05756v1)|null|
@@ -277,6 +277,6 @@
 |**2022-11-09**|**A simulator-based autoencoder for focal plane wavefront sensing**|Maxime Quesnel et.al.|[2211.05242v2](http://arxiv.org/abs/2211.05242v2)|null|
 |**2022-11-09**|**An Empirical Study on Clustering Pretrained Embeddings: Is Deep Strictly Better?**|Tyler R. Scott et.al.|[2211.05183v1](http://arxiv.org/abs/2211.05183v1)|null|
 |**2022-11-09**|**Uni-Parser: Unified Semantic Parser for Question Answering on Knowledge Base and Database**|Ye Liu et.al.|[2211.05165v1](http://arxiv.org/abs/2211.05165v1)|null|
-|**2022-11-09**|**Efficient Zero-shot Event Extraction with Context-Definition Alignment**|Hongming Zhang et.al.|[2211.05156v1](http://arxiv.org/abs/2211.05156v1)|**[link](https://github.com/tencent-ailab/ZED)**|
+|**2022-11-09**|**Efficient Zero-shot Event Extraction with Context-Definition Alignment**|Hongming Zhang et.al.|[2211.05156v2](http://arxiv.org/abs/2211.05156v2)|**[link](https://github.com/tencent-ailab/ZED)**|
 |**2022-11-09**|**Cross-lingual Transfer Learning for Check-worthy Claim Identification over Twitter**|Maram Hasanain et.al.|[2211.05087v1](http://arxiv.org/abs/2211.05087v1)|null|
 
