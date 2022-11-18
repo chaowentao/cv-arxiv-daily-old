@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.17
+## Updated on 2022.11.18
 
 ## Image Generation
 
@@ -260,7 +260,7 @@ layout: default
 |**2022-11-16**|**Region Proposal Network Pre-Training Helps Label-Efficient Object Detection**|Linus Ericsson et.al.|[2211.09022v1](http://arxiv.org/abs/2211.09022v1)|null|
 |**2022-11-16**|**Convergence analysis of unsupervised Legendre-Galerkin neural networks for linear second-order elliptic PDEs**|Seungchan Ko et.al.|[2211.08900v1](http://arxiv.org/abs/2211.08900v1)|null|
 |**2022-11-16**|**AdaTriplet-RA: Domain Matching via Adaptive Triplet and Reinforced Attention for Unsupervised Domain Adaptation**|Xinyao Shu et.al.|[2211.08894v1](http://arxiv.org/abs/2211.08894v1)|**[link](https://github.com/shuxy0120/adatriplet-ra)**|
-|**2022-11-16**|**ELDA: Using Edges to Have an Edge on Semantic Segmentation Based UDA**|Ting-Hsuan Liao et.al.|[2211.08888v1](http://arxiv.org/abs/2211.08888v1)|null|
+|**2022-11-16**|**ELDA: Using Edges to Have an Edge on Semantic Segmentation Based UDA**|Ting-Hsuan Liao et.al.|[2211.08888v1](http://arxiv.org/abs/2211.08888v1)|**[link](https://github.com/TingHLiao/ELDA)**|
 |**2022-11-16**|**Unsupervised Domain Adaptation Based on the Predictive Uncertainty of Models**|JoonHo Lee et.al.|[2211.08866v1](http://arxiv.org/abs/2211.08866v1)|**[link](https://github.com/joonholee-research/muda)**|
 |**2022-11-16**|**Data Augmentation with Unsupervised Speaking Style Transfer for Speech Emotion Recognition**|Leyuan Qu et.al.|[2211.08843v1](http://arxiv.org/abs/2211.08843v1)|null|
 |**2022-11-16**|**Structural Segmentation and Labeling of Tabla Solo Performances**|Gowriprasad R et.al.|[2211.08790v1](http://arxiv.org/abs/2211.08790v1)|null|
