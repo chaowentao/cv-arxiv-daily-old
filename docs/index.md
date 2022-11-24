@@ -263,7 +263,7 @@ layout: default
 |**2022-11-23**|**Unsupervised 3D Keypoint Estimation with Multi-View Geometry**|Sina Honari et.al.|[2211.12829v1](http://arxiv.org/abs/2211.12829v1)|null|
 |**2022-11-23**|**Data-driven Feature Tracking for Event Cameras**|Nico Messikommer et.al.|[2211.12826v1](http://arxiv.org/abs/2211.12826v1)|null|
 |**2022-11-23**|**InDiReCT: Language-Guided Zero-Shot Deep Metric Learning for Images**|Konstantin Kobs et.al.|[2211.12760v1](http://arxiv.org/abs/2211.12760v1)|null|
-|**2022-11-23**|**NAS-LID: Efficient Neural Architecture Search with Local Intrinsic Dimension**|Xin He et.al.|[2211.12759v1](http://arxiv.org/abs/2211.12759v1)|null|
+|**2022-11-23**|**NAS-LID: Efficient Neural Architecture Search with Local Intrinsic Dimension**|Xin He et.al.|[2211.12759v1](http://arxiv.org/abs/2211.12759v1)|**[link](https://github.com/marsggbo/nas-lid)**|
 |**2022-11-23**|**PANeRF: Pseudo-view Augmentation for Improved Neural Radiance Fields Based on Few-shot Inputs**|Young Chun Ahn et.al.|[2211.12758v1](http://arxiv.org/abs/2211.12758v1)|null|
 |**2022-11-23**|**Masked Autoencoding for Scalable and Generalizable Decision Making**|Fangchen Liu et.al.|[2211.12740v1](http://arxiv.org/abs/2211.12740v1)|**[link](https://github.com/fangchenliu/maskdp_public)**|
 |**2022-11-23**|**Texts as Images in Prompt Tuning for Multi-Label Image Recognition**|Zixian Guo et.al.|[2211.12739v1](http://arxiv.org/abs/2211.12739v1)|**[link](https://github.com/guozix/tai-dpt)**|
