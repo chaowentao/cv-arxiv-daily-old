@@ -1,4 +1,4 @@
-## Updated on 2022.11.23
+## Updated on 2022.11.24
 
 ## Image Generation
 
@@ -192,7 +192,7 @@
 |**2022-11-21**|**NeRF-RPN: A general framework for object detection in NeRFs**|Benran Hu et.al.|[2211.11646v2](http://arxiv.org/abs/2211.11646v2)|null|
 |**2022-11-21**|**Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields**|Yue Chen et.al.|[2211.11505v1](http://arxiv.org/abs/2211.11505v1)|null|
 |**2022-11-21**|**SegNeRF: 3D Part Segmentation with Neural Radiance Fields**|Jesus Zarzar et.al.|[2211.11215v2](http://arxiv.org/abs/2211.11215v2)|null|
-|**2022-11-21**|**FLNeRF: 3D Facial Landmarks Estimation in Neural Radiance Fields**|Hao Zhang et.al.|[2211.11202v1](http://arxiv.org/abs/2211.11202v1)|null|
+|**2022-11-21**|**FLNeRF: 3D Facial Landmarks Estimation in Neural Radiance Fields**|Hao Zhang et.al.|[2211.11202v2](http://arxiv.org/abs/2211.11202v2)|null|
 |**2022-11-20**|**DynIBaR: Neural Dynamic Image-Based Rendering**|Zhengqi Li et.al.|[2211.11082v1](http://arxiv.org/abs/2211.11082v1)|null|
 |**2022-11-18**|**Neural Fields for Fast and Scalable Interpolation of Geophysical Ocean Variables**|J. Emmanuel Johnson et.al.|[2211.10444v1](http://arxiv.org/abs/2211.10444v1)|**[link](https://github.com/jejjohnson/ml4ssh)**|
 |**2022-11-18**|**Magic3D: High-Resolution Text-to-3D Content Creation**|Chen-Hsuan Lin et.al.|[2211.10440v1](http://arxiv.org/abs/2211.10440v1)|null|
@@ -216,7 +216,7 @@
 |---|---|---|---|---|
 |**2022-11-22**|**SinDiffusion: Learning a Diffusion Model from a Single Natural Image**|Weilun Wang et.al.|[2211.12445v1](http://arxiv.org/abs/2211.12445v1)|**[link](https://github.com/weilunwang/sindiffusion)**|
 |**2022-11-22**|**Can denoising diffusion probabilistic models generate realistic astrophysical fields?**|Nayantara Mudur et.al.|[2211.12444v1](http://arxiv.org/abs/2211.12444v1)|**[link](https://github.com/nmudur/diffusion-models-astrophysical-fields-mlps)**|
-|**2022-11-22**|**GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild**|Chao Wang et.al.|[2211.12352v1](http://arxiv.org/abs/2211.12352v1)|null|
+|**2022-11-22**|**GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild**|Chao Wang et.al.|[2211.12352v2](http://arxiv.org/abs/2211.12352v2)|null|
 |**2022-11-22**|**Attacking Image Splicing Detection and Localization Algorithms Using Synthetic Traces**|Shengbang Fang et.al.|[2211.12314v1](http://arxiv.org/abs/2211.12314v1)|null|
 |**2022-11-22**|**$S^2$-Flow: Joint Semantic and Style Editing of Facial Images**|Krishnakant Singh et.al.|[2211.12209v1](http://arxiv.org/abs/2211.12209v1)|**[link](https://github.com/visinf/s2-flow)**|
 |**2022-11-22**|**Photonic Quantum Computing For Polymer Classification**|Alexandrina Stoyanova et.al.|[2211.12207v1](http://arxiv.org/abs/2211.12207v1)|null|
@@ -253,7 +253,7 @@
 |**2022-11-22**|**HyperTuning: Toward Adapting Large Language Models without Back-propagation**|Jason Phang et.al.|[2211.12485v1](http://arxiv.org/abs/2211.12485v1)|null|
 |**2022-11-22**|**Adaptive Prototypical Networks**|Manas Gogoi et.al.|[2211.12479v1](http://arxiv.org/abs/2211.12479v1)|null|
 |**2022-11-22**|**U-Flow: A U-shaped Normalizing Flow for Anomaly Detection with Unsupervised Threshold**|Matías Tailanian et.al.|[2211.12353v1](http://arxiv.org/abs/2211.12353v1)|**[link](https://github.com/mtailanian/uflow)**|
-|**2022-11-22**|**GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild**|Chao Wang et.al.|[2211.12352v1](http://arxiv.org/abs/2211.12352v1)|null|
+|**2022-11-22**|**GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild**|Chao Wang et.al.|[2211.12352v2](http://arxiv.org/abs/2211.12352v2)|null|
 |**2022-11-22**|**The Euclidean Space is Evil: Hyperbolic Attribute Editing for Few-shot Image Generation**|Lingxiao Li et.al.|[2211.12347v1](http://arxiv.org/abs/2211.12347v1)|null|
 |**2022-11-22**|**A Graph-Based Method for Soccer Action Spotting Using Unsupervised Player Classification**|Alejandro Cartas et.al.|[2211.12334v1](http://arxiv.org/abs/2211.12334v1)|**[link](https://github.com/ipcv/soccer_action_spotting)**|
 |**2022-11-22**|**Generalizable Industrial Visual Anomaly Detection with Self-Induction Vision Transformer**|Haiming Yao et.al.|[2211.12311v1](http://arxiv.org/abs/2211.12311v1)|null|
