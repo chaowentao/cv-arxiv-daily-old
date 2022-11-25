@@ -1,4 +1,4 @@
-## Updated on 2022.11.24
+## Updated on 2022.11.25
 
 ## Image Generation
 
@@ -172,7 +172,7 @@
 |**2022-11-19**|**Molecular Structure-Property Co-Trained Foundation Model for In Silico Chemistry**|Jinho Chang et.al.|[2211.10590v1](http://arxiv.org/abs/2211.10590v1)|null|
 |**2022-11-18**|**Hollow-core fiber-based speckle displacement sensor**|Jonas H. Osório et.al.|[2211.10217v1](http://arxiv.org/abs/2211.10217v1)|null|
 |**2022-11-18**|**Overview of the WANLP 2022 Shared Task on Propaganda Detection in Arabic**|Firoj Alam et.al.|[2211.10057v1](http://arxiv.org/abs/2211.10057v1)|null|
-|**2022-11-17**|**DeepVoxNet2: Yet another CNN framework**|Jeroen Bertels et.al.|[2211.09569v1](http://arxiv.org/abs/2211.09569v1)|null|
+|**2022-11-17**|**DeepVoxNet2: Yet another CNN framework**|Jeroen Bertels et.al.|[2211.09569v1](http://arxiv.org/abs/2211.09569v1)|**[link](https://github.com/jeroenbertels/deepvoxnet2)**|
 |**2022-11-17**|**aiMotive Dataset: A Multimodal Dataset for Robust Autonomous Driving with Long-Range Perception**|Tamás Matuszka et.al.|[2211.09445v1](http://arxiv.org/abs/2211.09445v1)|**[link](https://github.com/aimotive/aimotive_dataset)**|
 
 ## NeRF
@@ -237,7 +237,7 @@
 |**2022-11-21**|**CLAWSAT: Towards Both Robust and Accurate Code Models**|Jinghan Jia et.al.|[2211.11711v2](http://arxiv.org/abs/2211.11711v2)|null|
 |**2022-11-21**|**Exploring Discrete Diffusion Models for Image Captioning**|Zixin Zhu et.al.|[2211.11694v1](http://arxiv.org/abs/2211.11694v1)|**[link](https://github.com/buxiangzhiren/ddcap)**|
 |**2022-11-21**|**Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion**|Dario Pavllo et.al.|[2211.11674v1](http://arxiv.org/abs/2211.11674v1)|null|
-|**2022-11-21**|**Delving StyleGAN Inversion for Image Editing: A Foundation Latent Space Viewpoint**|Hongyu Liu et.al.|[2211.11448v1](http://arxiv.org/abs/2211.11448v1)|null|
+|**2022-11-21**|**Delving StyleGAN Inversion for Image Editing: A Foundation Latent Space Viewpoint**|Hongyu Liu et.al.|[2211.11448v1](http://arxiv.org/abs/2211.11448v1)|**[link](https://github.com/kumapowerliu/clcae)**|
 |**2022-11-21**|**SPIN: Simulated Poisoning and Inversion Network for Federated Learning-Based 6G Vehicular Networks**|Sunder Ali Khowaja et.al.|[2211.11321v1](http://arxiv.org/abs/2211.11321v1)|null|
 |**2022-11-21**|**TCBERT: A Technical Report for Chinese Topic Classification BERT**|Ting Han et.al.|[2211.11304v1](http://arxiv.org/abs/2211.11304v1)|null|
 |**2022-11-21**|**STGlow: A Flow-based Generative Framework with Dual Graphormer for Pedestrian Trajectory Prediction**|Rongqin Liang et.al.|[2211.11220v2](http://arxiv.org/abs/2211.11220v2)|null|
@@ -266,7 +266,7 @@
 |**2022-11-23**|**Semantic-aware One-shot Face Re-enactment with Dense Correspondence Estimation**|Yunfan Liu et.al.|[2211.12674v1](http://arxiv.org/abs/2211.12674v1)|null|
 |**2022-11-23**|**Leveraging Data Recasting to Enhance Tabular Reasoning**|Aashna Jena et.al.|[2211.12641v1](http://arxiv.org/abs/2211.12641v1)|null|
 |**2022-11-22**|**Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**|Wenhu Chen et.al.|[2211.12588v1](http://arxiv.org/abs/2211.12588v1)|**[link](https://github.com/wenhuchen/program-of-thoughts)**|
-|**2022-11-22**|**Big Earth Data and Machine Learning for Sustainable and Resilient Agriculture**|Vasileios Sitokonstantinou et.al.|[2211.12584v1](http://arxiv.org/abs/2211.12584v1)|null|
+|**2022-11-22**|**Big Earth Data and Machine Learning for Sustainable and Resilient Agriculture**|Vasileios Sitokonstantinou et.al.|[2211.12584v1](http://arxiv.org/abs/2211.12584v1)|**[link](https://github.com/agri-hub/adc)**|
 |**2022-11-22**|**On the Transferability of Visual Features in Generalized Zero-Shot Learning**|Paola Cascante-Bonilla et.al.|[2211.12494v1](http://arxiv.org/abs/2211.12494v1)|**[link](https://github.com/uvavision/tv-gzsl)**|
 |**2022-11-22**|**HyperTuning: Toward Adapting Large Language Models without Back-propagation**|Jason Phang et.al.|[2211.12485v1](http://arxiv.org/abs/2211.12485v1)|null|
 |**2022-11-22**|**Adaptive Prototypical Networks**|Manas Gogoi et.al.|[2211.12479v1](http://arxiv.org/abs/2211.12479v1)|null|
