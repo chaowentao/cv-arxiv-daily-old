@@ -83,7 +83,7 @@
 |**2022-11-22**|**MagicPony: Learning Articulated 3D Animals in the Wild**|Shangzhe Wu et.al.|[2211.12497v1](http://arxiv.org/abs/2211.12497v1)|null|
 |**2022-11-22**|**TranViT: An Integrated Vision Transformer Framework for Discrete Transit Travel Time Range Prediction**|Awad Abdelhalim et.al.|[2211.12322v1](http://arxiv.org/abs/2211.12322v1)|null|
 |**2022-11-22**|**Generalizable Industrial Visual Anomaly Detection with Self-Induction Vision Transformer**|Haiming Yao et.al.|[2211.12311v1](http://arxiv.org/abs/2211.12311v1)|null|
-|**2022-11-22**|**Gated Class-Attention with Cascaded Feature Drift Compensation for Exemplar-free Continual Learning of Vision Transformers**|Marco Cotogni et.al.|[2211.12292v1](http://arxiv.org/abs/2211.12292v1)|null|
+|**2022-11-22**|**Gated Class-Attention with Cascaded Feature Drift Compensation for Exemplar-free Continual Learning of Vision Transformers**|Marco Cotogni et.al.|[2211.12292v1](http://arxiv.org/abs/2211.12292v1)|**[link](https://github.com/ocram17/gcab-cfdc)**|
 |**2022-11-22**|**Transformer Based Multi-Grained Features for Unsupervised Person Re-Identification**|Jiachen Li et.al.|[2211.12280v1](http://arxiv.org/abs/2211.12280v1)|null|
 |**2022-11-22**|**Conv2Former: A Simple Transformer-Style ConvNet for Visual Recognition**|Qibin Hou et.al.|[2211.11943v1](http://arxiv.org/abs/2211.11943v1)|**[link](https://github.com/hvision-nku/conv2former)**|
 |**2022-11-21**|**Beyond Attentive Tokens: Incorporating Token Importance and Diversity for Efficient Vision Transformers**|Sifan Long et.al.|[2211.11315v1](http://arxiv.org/abs/2211.11315v1)|null|
