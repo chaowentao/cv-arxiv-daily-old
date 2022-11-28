@@ -1,4 +1,4 @@
-## Updated on 2022.11.27
+## Updated on 2022.11.28
 
 ## Image Generation
 
@@ -78,7 +78,7 @@
 |**2022-11-23**|**CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning**|James Seale Smith et.al.|[2211.13218v1](http://arxiv.org/abs/2211.13218v1)|null|
 |**2022-11-23**|**Indian Commercial Truck License Plate Detection and Recognition for Weighbridge Automation**|Siddharth Agrawal et.al.|[2211.13194v1](http://arxiv.org/abs/2211.13194v1)|null|
 |**2022-11-23**|**ASiT: Audio Spectrogram vIsion Transformer for General Audio Representation**|Sara Atito et.al.|[2211.13189v1](http://arxiv.org/abs/2211.13189v1)|null|
-|**2022-11-23**|**Data Augmentation Vision Transformer for Fine-grained Image Classification**|Chao Hu et.al.|[2211.12879v1](http://arxiv.org/abs/2211.12879v1)|null|
+|**2022-11-23**|**Data Augmentation Vision Transformer for Fine-grained Image Classification**|Chao Hu et.al.|[2211.12879v2](http://arxiv.org/abs/2211.12879v2)|null|
 |**2022-11-22**|**Improving Robust Generalization by Direct PAC-Bayesian Bound Minimization**|Zifan Wang et.al.|[2211.12624v1](http://arxiv.org/abs/2211.12624v1)|null|
 |**2022-11-22**|**MagicPony: Learning Articulated 3D Animals in the Wild**|Shangzhe Wu et.al.|[2211.12497v1](http://arxiv.org/abs/2211.12497v1)|null|
 |**2022-11-22**|**TranViT: An Integrated Vision Transformer Framework for Discrete Transit Travel Time Range Prediction**|Awad Abdelhalim et.al.|[2211.12322v1](http://arxiv.org/abs/2211.12322v1)|null|
