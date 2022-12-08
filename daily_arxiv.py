@@ -179,20 +179,25 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["Image Generation"]      = "\"Text-to-Image\"OR\"Image Manipulation\""
-    keywords["Light Field"]      = "\"Light Field\""
+    keywords["Image Generation"]      = "\"Text-to-Image\"OR\"Image Manipulation\"OR\"Image Editing\"OR\"Image Generation\""
+    keywords["Light Field Super Resolution"]      = "\"Light Field Super Resolution\""
+    keywords["Light Field Depth Estimation"]      = "\"Light Field Depth Estimation\"OR\"Light Field Disparity Estimation\""
+    keywords["Light Field View Synthesis"]      = "\"Light Field View Synthesis\""
+    keywords["Diffusion"] = "\"Diffusion\""
     keywords["Vision Transformer"]      = "\"Vision Transformer\""
-    keywords["Human Pose Estimation"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\"OR\"Human Pose Estimation\""
-#     keywords["Gait Recognition"] = "\"Gait Recognition\""
-    keywords["Multimodal"] = "\"Multimodal\""
     keywords["NeRF"] = "\"NeRF\""
-    keywords["GAN"] = "\"GAN\""
+    keywords["Super Resolution"] = "\"Super Resolution\""
+    keywords["Depth Estimation"] = "\"Depth Estimation\"OR\"Disparity Estimation\""
+    keywords["View Synthesis"]      = "\"View Synthesis\""
+    
+#     keywords["Human Pose Estimation"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\"OR\"Human Pose Estimation\""
+#     keywords["Gait Recognition"] = "\"Gait Recognition\""
+#     keywords["Multimodal"] = "\"Multimodal\""
+    
+#     keywords["GAN"] = "\"GAN\""
 #     keywords["Domain Adaptation"] = "\"Domain Adaptation\""
-    keywords["Self-training"] = "\"self-training\"OR\"Few Shot\"OR\"One Shot\"OR\"Zero Shot\"OR\"unsupervised\"OR\"semi-supervised\""
-#     keywords["SLAM"]                = "SLAM"
-#     keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
-#     keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\""
-#     keywords["Image Matching"]      = "\"Image Matching\""
+#     keywords["Self-training"] = "\"self-training\"OR\"Few Shot\"OR\"One Shot\"OR\"Zero Shot\"OR\"unsupervised\"OR\"semi-supervised\""
+    
     
 
     for topic,keyword in keywords.items():
