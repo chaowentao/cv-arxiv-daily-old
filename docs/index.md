@@ -25,7 +25,7 @@ layout: default
 |**2022-12-05**|**Audio Latent Space Cartography**|Nicolas Jonason et.al.|[2212.02610v2](http://arxiv.org/abs/2212.02610v2)|null|
 |**2022-12-05**|**Decoding natural image stimuli from fMRI data with a surface-based convolutional network**|Zijin Gu et.al.|[2212.02409v1](http://arxiv.org/abs/2212.02409v1)|**[link](https://github.com/zijin-gu/meshconv-decoding)**|
 |**2022-12-05**|**Have You Ever Seen Malware?**|Ivan Zelinka et.al.|[2212.02341v1](http://arxiv.org/abs/2212.02341v1)|null|
-|**2022-12-05**|**CLIPVG: Text-Guided Image Manipulation Using Differentiable Vector Graphics**|Yiren Song et.al.|[2212.02122v1](http://arxiv.org/abs/2212.02122v1)|null|
+|**2022-12-05**|**CLIPVG: Text-Guided Image Manipulation Using Differentiable Vector Graphics**|Yiren Song et.al.|[2212.02122v1](http://arxiv.org/abs/2212.02122v1)|**[link](https://github.com/NetEase-GameAI/clipvg)**|
 |**2022-12-05**|**Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models**|Naoki Matsunaga et.al.|[2212.02024v2](http://arxiv.org/abs/2212.02024v2)|null|
 |**2022-12-03**|**BlendGAN: Learning and Blending the Internal Distributions of Single Images by Spatial Image-Identity Conditioning**|Idan Kligvasser et.al.|[2212.01589v1](http://arxiv.org/abs/2212.01589v1)|null|
 |**2022-12-02**|**LatentSwap3D: Semantic Edits on 3D Image GANs**|Enis Simsar et.al.|[2212.01381v1](http://arxiv.org/abs/2212.01381v1)|null|
