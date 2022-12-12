@@ -2,16 +2,16 @@
 layout: default
 ---
 
-## Updated on 2022.12.11
+## Updated on 2022.12.12
 
 ## Image Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-12-08**|**SINE: SINgle Image Editing with Text-to-Image Diffusion Models**|Zhixing Zhang et.al.|[2212.04489v1](http://arxiv.org/abs/2212.04489v1)|**[link](https://github.com/zhang-zx/sine)**|
-|**2022-12-08**|**Diffusion Guided Domain Adaptation of Image Generators**|Kunpeng Song et.al.|[2212.04473v1](http://arxiv.org/abs/2212.04473v1)|null|
+|**2022-12-08**|**Diffusion Guided Domain Adaptation of Image Generators**|Kunpeng Song et.al.|[2212.04473v2](http://arxiv.org/abs/2212.04473v2)|null|
 |**2022-12-08**|**C-VTON: Context-Driven Image-Based Virtual Try-On Network**|Benjamin Fele et.al.|[2212.04437v1](http://arxiv.org/abs/2212.04437v1)|**[link](https://github.com/benquick123/c-vton)**|
-|**2022-12-07**|**Judge, Localize, and Edit: Ensuring Visual Commonsense Morality for Text-to-Image Generation**|Seongbeom Park et.al.|[2212.03507v1](http://arxiv.org/abs/2212.03507v1)|null|
+|**2022-12-07**|**Judge, Localize, and Edit: Ensuring Visual Commonsense Morality for Text-to-Image Generation**|Seongbeom Park et.al.|[2212.03507v2](http://arxiv.org/abs/2212.03507v2)|null|
 |**2022-12-06**|**ABN: Anti-Blur Neural Networks for Multi-Stage Deformable Image Registration**|Yao Su et.al.|[2212.03277v1](http://arxiv.org/abs/2212.03277v1)|**[link](https://github.com/anonymous3214/abn)**|
 |**2022-12-06**|**Perspective Fields for Single Image Camera Calibration**|Linyi Jin et.al.|[2212.03239v1](http://arxiv.org/abs/2212.03239v1)|null|
 |**2022-12-06**|**RANA: Relightable Articulated Neural Avatars**|Umar Iqbal et.al.|[2212.03237v1](http://arxiv.org/abs/2212.03237v1)|null|
@@ -111,9 +111,9 @@ layout: default
 |**2022-12-08**|**SINE: SINgle Image Editing with Text-to-Image Diffusion Models**|Zhixing Zhang et.al.|[2212.04489v1](http://arxiv.org/abs/2212.04489v1)|**[link](https://github.com/zhang-zx/sine)**|
 |**2022-12-08**|**Multi-Concept Customization of Text-to-Image Diffusion**|Nupur Kumari et.al.|[2212.04488v1](http://arxiv.org/abs/2212.04488v1)|null|
 |**2022-12-08**|**Fresnel Microfacet BRDF: Unification of Polari-Radiometric Surface-Body Reflection**|Tomoki Ichikawa et.al.|[2212.04483v1](http://arxiv.org/abs/2212.04483v1)|null|
-|**2022-12-08**|**Diffusion Guided Domain Adaptation of Image Generators**|Kunpeng Song et.al.|[2212.04473v1](http://arxiv.org/abs/2212.04473v1)|null|
+|**2022-12-08**|**Diffusion Guided Domain Adaptation of Image Generators**|Kunpeng Song et.al.|[2212.04473v2](http://arxiv.org/abs/2212.04473v2)|null|
 |**2022-12-08**|**Dilute neutron star matter from neural-network quantum states**|Bryce Fore et.al.|[2212.04436v1](http://arxiv.org/abs/2212.04436v1)|null|
-|**2022-12-08**|**Forced waves of a three species predator-prey system with a pair of weak-strong competing preys in a shifting environment**|Thomas Giletti et.al.|[2212.04301v1](http://arxiv.org/abs/2212.04301v1)|null|
+|**2022-12-08**|**Forced waves of a three species predator-prey system with a pair of weak-strong competing preys in a shifting environment**|Thomas Giletti et.al.|[2212.04301v2](http://arxiv.org/abs/2212.04301v2)|null|
 |**2022-12-07**|**Talking Head Generation with Probabilistic Audio-to-Visual Diffusion Priors**|Zhentao Yu et.al.|[2212.04248v1](http://arxiv.org/abs/2212.04248v1)|null|
 |**2022-12-08**|**Theoretical derivation of diffusion-tensor coefficients for the transport of charged particles in magnetic fields**|Olivier Deligny et.al.|[2212.04222v1](http://arxiv.org/abs/2212.04222v1)|null|
 |**2022-12-08**|**Spin Relaxation, Diffusion and Edelstein Effect in Chiral Metal Surface**|Yuta Suzuki et.al.|[2212.04202v1](http://arxiv.org/abs/2212.04202v1)|null|
@@ -133,7 +133,7 @@ layout: default
 |**2022-12-07**|**A high resolution study of near-IR diffuse interstellar bands, search for small scale structure, time variability and stellar features**|J. V. Smoker et.al.|[2212.03563v1](http://arxiv.org/abs/2212.03563v1)|null|
 |**2022-12-07**|**Mechanism of Spin Scattering in Ta investigated by Scanning Inverse Spin Hall Effect Meters**|Peiwen Luo et.al.|[2212.03556v1](http://arxiv.org/abs/2212.03556v1)|null|
 |**2022-12-07**|**Global well-posedness and convergence to equilibrium for the Abels-Garcke-Grün model with nonlocal free energy**|Ciprian G. Gal et.al.|[2212.03512v1](http://arxiv.org/abs/2212.03512v1)|null|
-|**2022-12-07**|**Judge, Localize, and Edit: Ensuring Visual Commonsense Morality for Text-to-Image Generation**|Seongbeom Park et.al.|[2212.03507v1](http://arxiv.org/abs/2212.03507v1)|null|
+|**2022-12-07**|**Judge, Localize, and Edit: Ensuring Visual Commonsense Morality for Text-to-Image Generation**|Seongbeom Park et.al.|[2212.03507v2](http://arxiv.org/abs/2212.03507v2)|null|
 |**2022-12-07**|**Fast and accurate solvers for time-space fractional diffusion problem with spectral fractional Laplacian**|Yi Yang et.al.|[2212.03493v1](http://arxiv.org/abs/2212.03493v1)|null|
 |**2022-12-07**|**On the Convergence of the Multi-scale Deep Neural Network (MscaleDNN) in Approximating Oscillatory Functions**|Bo Wang et.al.|[2212.03416v1](http://arxiv.org/abs/2212.03416v1)|null|
 
