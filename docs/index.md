@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.12.13
+## Updated on 2022.12.14
 
 ## Image Generation
 
@@ -141,7 +141,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-12-12**|**Masked autoencoders is an effective solution to transformer data-hungry**|Jiawei Mao et.al.|[2212.05677v1](http://arxiv.org/abs/2212.05677v1)|**[link](https://github.com/talented-q/sdmae)**|
+|**2022-12-12**|**Masked autoencoders are effective solution to transformer data-hungry**|Jiawei Mao et.al.|[2212.05677v2](http://arxiv.org/abs/2212.05677v2)|**[link](https://github.com/talented-q/sdmae)**|
 |**2022-12-11**|**Recurrent Vision Transformers for Object Detection with Event Cameras**|Mathias Gehrig et.al.|[2212.05598v1](http://arxiv.org/abs/2212.05598v1)|null|
 |**2022-12-11**|**PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery**|Sheng Zhang et.al.|[2212.05590v1](http://arxiv.org/abs/2212.05590v1)|null|
 |**2022-12-11**|**Vision Transformer with Attentive Pooling for Robust Facial Expression Recognition**|Fanglei Xue et.al.|[2212.05463v1](http://arxiv.org/abs/2212.05463v1)|null|
