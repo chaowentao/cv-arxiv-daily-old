@@ -132,7 +132,7 @@ layout: default
 |**2022-12-12**|**Scalable Recovery-based Adaptation on Quadtree Meshes for Advection-Diffusion-Reaction Problems**|Pasquale Claudio Africa et.al.|[2212.05945v1](http://arxiv.org/abs/2212.05945v1)|null|
 |**2022-12-12**|**Diff-Font: Diffusion Model for Robust One-Shot Font Generation**|Haibin He et.al.|[2212.05895v1](http://arxiv.org/abs/2212.05895v1)|null|
 |**2022-12-12**|**Nonequilibrium thermodynamics of DNA nanopore unzipping**|Antonio Suma et.al.|[2212.05882v1](http://arxiv.org/abs/2212.05882v1)|null|
-|**2022-12-12**|**Concentration and non-concentration of eigenfunctions of second-order elliptic operators in layered media**|Yves Dermenjian et.al.|[2212.05872v1](http://arxiv.org/abs/2212.05872v1)|null|
+|**2022-12-12**|**Concentration and non-concentration of eigenfunctions of second-order elliptic operators in layered media**|Assia Benabdallah et.al.|[2212.05872v1](http://arxiv.org/abs/2212.05872v1)|null|
 |**2022-12-12**|**GT-CausIn: a novel causal-based insight for traffic prediction**|Ting Gao et.al.|[2212.05782v1](http://arxiv.org/abs/2212.05782v1)|null|
 |**2022-12-12**|**Diffusion without Spreading of a Wave Packet in Nonlinear Random Models**|Serge J. Aubry et.al.|[2212.05771v1](http://arxiv.org/abs/2212.05771v1)|null|
 |**2022-12-12**|**Acceleration strategy of source iteration method for the stationary phonon Boltzmann transport equation**|Chuang Zhang et.al.|[2212.05763v1](http://arxiv.org/abs/2212.05763v1)|null|
