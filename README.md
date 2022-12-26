@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-23**|**Do DALL-E and Flamingo Understand Each Other?**|Hang Li et.al.|[2212.12249v1](http://arxiv.org/abs/2212.12249v1)|null|
 |**2022-12-22**|**Hybrid Quantum-Classical Generative Adversarial Network for High Resolution Image Generation**|Shu Lok Tsang et.al.|[2212.11614v1](http://arxiv.org/abs/2212.11614v1)|null|
 |**2022-12-21**|**Semi-supervised GAN for Bladder Tissue Classification in Multi-Domain Endoscopic Images**|Jorge F. Lazo et.al.|[2212.11375v1](http://arxiv.org/abs/2212.11375v1)|null|
 |**2022-12-14**|**SPIRiT-Diffusion: SPIRiT-driven Score-Based Generative Modeling for Vessel Wall imaging**|Chentao Cao et.al.|[2212.11274v1](http://arxiv.org/abs/2212.11274v1)|null|
@@ -33,7 +34,6 @@
 |**2022-12-13**|**Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting**|Su Wang et.al.|[2212.06909v1](http://arxiv.org/abs/2212.06909v1)|null|
 |**2022-12-13**|**LidarCLIP or: How I Learned to Talk to Point Clouds**|Georg Hess et.al.|[2212.06858v1](http://arxiv.org/abs/2212.06858v1)|**[link](https://github.com/atonderski/lidarclip)**|
 |**2022-12-13**|**Score-based Generative Modeling Secretly Minimizes the Wasserstein Distance**|Dohyun Kwon et.al.|[2212.06359v1](http://arxiv.org/abs/2212.06359v1)|**[link](https://github.com/uw-madison-lee-lab/score-wasserstein)**|
-|**2022-12-12**|**The Stable Artist: Steering Semantics in Diffusion Latent Space**|Manuel Brack et.al.|[2212.06013v1](http://arxiv.org/abs/2212.06013v1)|**[link](https://github.com/ml-research/semantic-image-editing)**|
 
 ## Light Field Super Resolution
 
@@ -102,13 +102,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-23**|**On the wellposedness for a fuel cell problem**|Luisa Consiglieri et.al.|[2212.12503v1](http://arxiv.org/abs/2212.12503v1)|null|
+|**2022-12-23**|**A uniqueness and stability principle for surface diffusion**|Milan Kroemer et.al.|[2212.12487v1](http://arxiv.org/abs/2212.12487v1)|null|
+|**2022-12-23**|**In-plane electric field induced shift of spin-dependent resistivity at transitions between quantum Hall plateaus in InAs-based quantum well**|Olivio Chiatti et.al.|[2212.12391v1](http://arxiv.org/abs/2212.12391v1)|null|
+|**2022-12-23**|**Dirichlet-Neumann and Neumann-Neumann waveform relaxation algorithms for time fractional sub-diffusion and diffusion-wave equations**|Soura Sana et.al.|[2212.12366v1](http://arxiv.org/abs/2212.12366v1)|null|
+|**2022-12-23**|**The dissipative Generalized Hydrodynamic equations and their numerical solution**|Frederik Møller et.al.|[2212.12349v1](http://arxiv.org/abs/2212.12349v1)|null|
+|**2022-12-23**|**Convergence analysis of BDDC preconditioners for hybrid DG discretizations of the cardiac cell-by-cell model**|Ngoc Mai Monica Huynh et.al.|[2212.12295v1](http://arxiv.org/abs/2212.12295v1)|null|
+|**2022-12-23**|**Field Theory of Active Brownian Particles in Potentials**|Ziluo Zhang et.al.|[2212.12291v1](http://arxiv.org/abs/2212.12291v1)|null|
+|**2022-12-23**|**Surface Coverage Dynamics for Reversible Dissociative Adsorption on Finite Linear Lattices**|Enrique Mercado et.al.|[2212.12286v1](http://arxiv.org/abs/2212.12286v1)|null|
+|**2022-12-23**|**A meso-scale cartography of the AI ecosystem**|Floriana Gargiulo et.al.|[2212.12263v1](http://arxiv.org/abs/2212.12263v1)|null|
+|**2022-12-23**|**Diffusive fluctuations of long-range symmetric exclusion with a slow barrier**|Pedro Cardoso et.al.|[2212.12089v1](http://arxiv.org/abs/2212.12089v1)|null|
+|**2022-12-22**|**Universal thermodynamic bounds on symmetry breaking in biochemical systems**|Shiling Liang et.al.|[2212.12074v1](http://arxiv.org/abs/2212.12074v1)|null|
+|**2022-12-22**|**Dynamical large deviations of linear diffusions**|Johan du Buisson et.al.|[2212.12022v1](http://arxiv.org/abs/2212.12022v1)|null|
+|**2022-12-22**|**Asymptotic--preserving and energy stable dynamical low-rank approximation**|Lukas Einkemmer et.al.|[2212.12012v1](http://arxiv.org/abs/2212.12012v1)|null|
 |**2022-12-22**|**Scalable Adaptive Computation for Iterative Generation**|Allan Jabri et.al.|[2212.11972v1](http://arxiv.org/abs/2212.11972v1)|null|
 |**2022-12-22**|**Diffuse-interface approximation and weak-strong uniqueness of anisotropic mean curvature flow**|Tim Laux et.al.|[2212.11939v1](http://arxiv.org/abs/2212.11939v1)|null|
 |**2022-12-22**|**Convergence of particles and tree based scheme for singular FBSDEs**|Jean-François Chassagneux et.al.|[2212.11917v1](http://arxiv.org/abs/2212.11917v1)|null|
 |**2022-12-22**|**Green's function estimates for a 2d singularly perturbed convection-diffusion problem: extended analysis**|Sebastian Franz et.al.|[2212.11916v1](http://arxiv.org/abs/2212.11916v1)|null|
 |**2022-12-22**|**StoRM: A Diffusion-based Stochastic Regeneration Model for Speech Enhancement and Dereverberation**|Jean-Marie Lemercier et.al.|[2212.11851v1](http://arxiv.org/abs/2212.11851v1)|null|
 |**2022-12-22**|**Efficient Sampling for Realized Variance Estimation in Time-Changed Diffusion Models**|Timo Dimitriadis et.al.|[2212.11833v1](http://arxiv.org/abs/2212.11833v1)|null|
-|**2022-12-22**|**Modelling the effect of image shadowing from Differential Interference Contrast Microscopy on Differential Dynamic Microscopy**|Timothy Ostler et.al.|[2212.11827v1](http://arxiv.org/abs/2212.11827v1)|**[link](https://github.com/ostlert/dic_ddm_ostler)**|
+|**2022-12-22**|**Differential Dynamic Microscopy can be applied to Differential Interference Contrast images despite shadowing effects**|Timothy Ostler et.al.|[2212.11827v2](http://arxiv.org/abs/2212.11827v2)|**[link](https://github.com/ostlert/dic_ddm_ostler)**|
 |**2022-12-22**|**Bifurcations of Neural Fields on the Sphere**|Len Spek et.al.|[2212.11785v1](http://arxiv.org/abs/2212.11785v1)|null|
 |**2022-12-22**|**GENIE: Large Scale Pre-training for Text Generation with Diffusion Model**|Zhenghao Lin et.al.|[2212.11685v1](http://arxiv.org/abs/2212.11685v1)|null|
 |**2022-12-22**|**Non-Hermitian topological Fermi superfluid near the $p$-wave unitary limit**|Hiroyuki Tajima et.al.|[2212.11633v1](http://arxiv.org/abs/2212.11633v1)|null|
@@ -119,24 +132,12 @@
 |**2022-12-22**|**Ultraviolet-regulated theory of non-linear diffusion**|Navid Abbasi et.al.|[2212.11499v1](http://arxiv.org/abs/2212.11499v1)|null|
 |**2022-12-22**|**Small time approximation in Wright-Fisher diffusion**|Tania Roa et.al.|[2212.11442v1](http://arxiv.org/abs/2212.11442v1)|null|
 |**2022-12-21**|**CubeSats for Gamma-Ray Astronomy**|Peter F. Bloser et.al.|[2212.11413v1](http://arxiv.org/abs/2212.11413v1)|null|
-|**2022-12-21**|**The Inverse of Exact Renormalization Group Flows as Statistical Inference**|David S. Berman et.al.|[2212.11379v1](http://arxiv.org/abs/2212.11379v1)|null|
-|**2022-12-21**|**Near-infrared characterization of ultra-diffuse galaxies in Abell 2744 by JWST/NIRISS imaging**|Ryota Ikeda et.al.|[2212.11298v1](http://arxiv.org/abs/2212.11298v1)|null|
-|**2022-12-21**|**Detecting and characterizing pulsar haloes with the Cherenkov Telescope Array**|Christopher Eckner et.al.|[2212.11265v1](http://arxiv.org/abs/2212.11265v1)|null|
-|**2022-12-21**|**Contrastive Language-Vision AI Models Pretrained on Web-Scraped Multimodal Data Exhibit Sexual Objectification Bias**|Robert Wolfe et.al.|[2212.11261v1](http://arxiv.org/abs/2212.11261v1)|null|
-|**2022-12-21**|**High-Energy Neutrinos from Gamma-Ray-Faint Accretion-Powered Hypernebulae**|Navin Sridhar et.al.|[2212.11236v1](http://arxiv.org/abs/2212.11236v1)|null|
-|**2022-12-21**|**$^{26}$Al gamma rays from the Galaxy with INTEGRAL/SPI**|Moritz M. M. Pleintinger et.al.|[2212.11228v1](http://arxiv.org/abs/2212.11228v1)|null|
-|**2022-12-21**|**Characterization and Control of the Run-and-Tumble Dynamics of {\it Escherichia Coli}**|Christina Kurzthaler et.al.|[2212.11222v1](http://arxiv.org/abs/2212.11222v1)|null|
-|**2022-12-21**|**Analytical solutions in the modeling of the endovenous laser ablation**|Luisa Consiglieri et.al.|[2212.11195v1](http://arxiv.org/abs/2212.11195v1)|null|
-|**2022-12-21**|**Entropy- and Distance-Based Predictors From GPT-2 Attention Patterns Predict Reading Times Over and Above GPT-2 Surprisal**|Byung-Doh Oh et.al.|[2212.11185v1](http://arxiv.org/abs/2212.11185v1)|**[link](https://github.com/byungdoh/attn_dist)**|
-|**2022-12-21**|**PHANGS-JWST First Results: Tracing the Diffuse ISM with JWST Imaging of Polycyclic Aromatic Hydrocarbon Emission in Nearby Galaxies**|Karin M. Sandstrom et.al.|[2212.11177v1](http://arxiv.org/abs/2212.11177v1)|null|
-|**2022-12-21**|**Device-Bind Key-Storageless Hardware AI Model IP Protection: A PUF and Permute-Diffusion Encryption-Enabled Approach**|Qianqian Pan et.al.|[2212.11133v1](http://arxiv.org/abs/2212.11133v1)|null|
-|**2022-12-21**|**Reynolds number scaling and energy spectra in geostrophic convection**|Matteo Madonia et.al.|[2212.10991v1](http://arxiv.org/abs/2212.10991v1)|null|
-|**2022-12-21**|**Strategic multi-task coordination over regular networks of robots with limited computation and communication capabilities**|Yi Wei et.al.|[2212.10968v1](http://arxiv.org/abs/2212.10968v1)|null|
 
 ## Vision Transformer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-23**|**PanoViT: Vision Transformer for Room Layout Estimation from a Single Panoramic Image**|Weichao Shen et.al.|[2212.12156v1](http://arxiv.org/abs/2212.12156v1)|null|
 |**2022-12-21**|**What Makes for Good Tokenizers in Vision Transformer?**|Shengju Qian et.al.|[2212.11115v1](http://arxiv.org/abs/2212.11115v1)|null|
 |**2022-12-21**|**Investigation of Network Architecture for Multimodal Head-and-Neck Tumor Segmentation**|Ye Li et.al.|[2212.10724v1](http://arxiv.org/abs/2212.10724v1)|null|
 |**2022-12-20**|**Visual Transformers for Primates Classification and Covid Detection**|Steffen Illium et.al.|[2212.10093v1](http://arxiv.org/abs/2212.10093v1)|null|
@@ -163,7 +164,6 @@
 |**2022-12-09**|**Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints**|Aran Komatsuzaki et.al.|[2212.05055v1](http://arxiv.org/abs/2212.05055v1)|**[link](https://github.com/google-research/vmoe)**|
 |**2022-12-09**|**AugNet: Dynamic Test-Time Augmentation via Differentiable Functions**|Shohei Enomoto et.al.|[2212.04681v1](http://arxiv.org/abs/2212.04681v1)|null|
 |**2022-12-09**|**Mitigation of Spatial Nonstationarity with Vision Transformers**|Lei Liu et.al.|[2212.04633v1](http://arxiv.org/abs/2212.04633v1)|null|
-|**2022-12-07**|**ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**|Yufei Xu et.al.|[2212.04246v1](http://arxiv.org/abs/2212.04246v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
 |**2022-12-08**|**Group Generalized Mean Pooling for Vision Transformer**|Byungsoo Ko et.al.|[2212.04114v1](http://arxiv.org/abs/2212.04114v1)|null|
 |**2022-12-07**|**Multimodal Vision Transformers with Forced Attention for Behavior Analysis**|Tanay Agrawal et.al.|[2212.03968v1](http://arxiv.org/abs/2212.03968v1)|null|
 |**2022-12-07**|**Teaching Matters: Investigating the Role of Supervision in Vision Transformers**|Matthew Walmer et.al.|[2212.03862v1](http://arxiv.org/abs/2212.03862v1)|**[link](https://github.com/mwalmer-umd/vit_analysis)**|
@@ -207,6 +207,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|null|
 |**2022-12-21**|**Continual Learning Approaches for Anomaly Detection**|Davide Dalle Pezze et.al.|[2212.11192v1](http://arxiv.org/abs/2212.11192v1)|null|
 |**2022-12-20**|**Super-resolution enhancement in bi-photon spatial mode demultiplexin**|Florence Grenapin et.al.|[2212.10468v1](http://arxiv.org/abs/2212.10468v1)|null|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
@@ -236,12 +237,12 @@
 |**2022-12-05**|**Region-Conditioned Orthogonal 3D U-Net for Weather4Cast Competition**|Taehyeon Kim et.al.|[2212.02059v1](http://arxiv.org/abs/2212.02059v1)|null|
 |**2022-12-05**|**Double U-Net for Super-Resolution and Segmentation of Live Cell Images**|Mayur Bhandary et.al.|[2212.02028v1](http://arxiv.org/abs/2212.02028v1)|null|
 |**2022-12-03**|**Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution**|Yixuan Wu et.al.|[2212.01628v1](http://arxiv.org/abs/2212.01628v1)|null|
-|**2022-12-03**|**Learning Detail-Structure Alternative Optimization for Blind Super-Resolution**|Feng Li et.al.|[2212.01624v1](http://arxiv.org/abs/2212.01624v1)|**[link](https://github.com/arcananana/dssr)**|
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-22**|**Shakes on a Plane: Unsupervised Depth Estimation from Unstabilized Photography**|Ilya Chugunov et.al.|[2212.12324v1](http://arxiv.org/abs/2212.12324v1)|null|
 |**2022-12-22**|**Depth Estimation maps of lidar and stereo images**|Fei Wu et.al.|[2212.11741v1](http://arxiv.org/abs/2212.11741v1)|null|
 |**2022-12-20**|**Scene-aware Egocentric 3D Human Pose Estimation**|Jian Wang et.al.|[2212.11684v1](http://arxiv.org/abs/2212.11684v1)|null|
 |**2022-12-22**|**Vision-Based Environmental Perception for Autonomous Driving**|Fei Liu et.al.|[2212.11453v1](http://arxiv.org/abs/2212.11453v1)|null|
@@ -271,7 +272,6 @@
 |**2022-11-27**|**3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers**|Changyong Shu et.al.|[2211.14710v1](http://arxiv.org/abs/2211.14710v1)|null|
 |**2022-11-25**|**Copy-Pasting Coherent Depth Regions Improves Contrastive Learning for Urban-Scene Segmentation**|Liang Zeng et.al.|[2211.14074v1](http://arxiv.org/abs/2211.14074v1)|**[link](https://github.com/leungtsang/cpcdr)**|
 |**2022-11-23**|**Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation**|Ning Zhang et.al.|[2211.13202v1](http://arxiv.org/abs/2211.13202v1)|**[link](https://github.com/noahzn/lite-mono)**|
-|**2022-11-22**|**Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**|Beerend G. A. Gerats et.al.|[2211.12436v1](http://arxiv.org/abs/2211.12436v1)|null|
 
 ## View Synthesis
 
