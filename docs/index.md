@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.12.26
+## Updated on 2022.12.27
 
 ## Image Generation
 
@@ -146,7 +146,7 @@ layout: default
 |**2022-12-21**|**Investigation of Network Architecture for Multimodal Head-and-Neck Tumor Segmentation**|Ye Li et.al.|[2212.10724v1](http://arxiv.org/abs/2212.10724v1)|null|
 |**2022-12-20**|**Visual Transformers for Primates Classification and Covid Detection**|Steffen Illium et.al.|[2212.10093v1](http://arxiv.org/abs/2212.10093v1)|null|
 |**2022-12-20**|**Conditioned Generative Transformers for Histopathology Image Synthetic Augmentation**|Meng Li et.al.|[2212.09977v1](http://arxiv.org/abs/2212.09977v1)|null|
-|**2022-12-16**|**Rethinking Cooking State Recognition with Vision Transformers**|Akib Mohammed Khan et.al.|[2212.08586v1](http://arxiv.org/abs/2212.08586v1)|null|
+|**2022-12-16**|**Rethinking Cooking State Recognition with Vision Transformers**|Akib Mohammed Khan et.al.|[2212.08586v2](http://arxiv.org/abs/2212.08586v2)|null|
 |**2022-12-16**|**Morphological Classification of Radio Galaxies with wGAN-supported Augmentation**|Lennart Rustige et.al.|[2212.08504v1](http://arxiv.org/abs/2212.08504v1)|**[link](https://github.com/floriangriese/wgan-supported-augmentation)**|
 |**2022-12-16**|**RepQ-ViT: Scale Reparameterization for Post-Training Quantization of Vision Transformers**|Zhikai Li et.al.|[2212.08254v1](http://arxiv.org/abs/2212.08254v1)|null|
 |**2022-12-15**|**Rethinking Vision Transformers for MobileNet Size and Speed**|Yanyu Li et.al.|[2212.08059v1](http://arxiv.org/abs/2212.08059v1)|**[link](https://github.com/snap-research/efficientformer)**|
