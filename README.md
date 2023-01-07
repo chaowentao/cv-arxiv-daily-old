@@ -119,7 +119,7 @@
 |**2023-01-05**|**Dynamics of active particles with translational and rotational inertia**|Alexander R. Sprenger et.al.|[2301.01865v1](http://arxiv.org/abs/2301.01865v1)|null|
 |**2023-01-04**|**Molecular dynamics predictions of transport properties for carbon dioxide hydrates under pre-nucleation conditions using TIP4P/Ice water and EPM2, TraPPE, and Zhang carbon dioxide potentials**|André Guerra et.al.|[2301.01757v1](http://arxiv.org/abs/2301.01757v1)|null|
 |**2023-01-04**|**Dynamic Viscosity of Methane and Carbon Dioxide Hydrate Systems from Pure Water at High-Pressure Driving Forces**|André Guerra et.al.|[2301.01756v1](http://arxiv.org/abs/2301.01756v1)|null|
-|**2023-01-04**|**An efficient and quantitative phase-field model for elastically heterogeneous two-phase solids based on a partial rank-one homogenization scheme**|Sourav Chatterjee et.al.|[2301.01746v1](http://arxiv.org/abs/2301.01746v1)|null|
+|**2023-01-04**|**An efficient and quantitative phase-field model for elastically heterogeneous two-phase solids based on a partial rank-one homogenization scheme**|Sourav Chatterjee et.al.|[2301.01746v1](http://arxiv.org/abs/2301.01746v1)|**[link](https://github.com/souravmat-git/gibbs)**|
 |**2023-01-04**|**Radiance Textures for Rasterizing Ray-Traced Data**|Jakub Maksymilian Fober et.al.|[2301.01719v1](http://arxiv.org/abs/2301.01719v1)|null|
 |**2023-01-04**|**Top-down fabrication of atomic patterns in twisted bilayer graphene**|Ondrej Dyck et.al.|[2301.01674v1](http://arxiv.org/abs/2301.01674v1)|null|
 |**2023-01-04**|**Symmetric fractional order reduction method with $L1$ scheme on graded mesh for time fractional nonlocal diffusion-wave equation of Kirchhoff type**|Pari J. Kundaliya et.al.|[2301.01670v1](http://arxiv.org/abs/2301.01670v1)|null|
@@ -278,7 +278,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-01-05**|**Robust Dynamic Radiance Fields**|Yu-Lun Liu et.al.|[2301.02239v1](http://arxiv.org/abs/2301.02239v1)|null|
-|**2023-01-05**|**HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**|Benjamin Attal et.al.|[2301.02238v1](http://arxiv.org/abs/2301.02238v1)|null|
+|**2023-01-05**|**HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**|Benjamin Attal et.al.|[2301.02238v1](http://arxiv.org/abs/2301.02238v1)|**[link](https://github.com/facebookresearch/hyperreel)**|
 |**2023-01-03**|**Neural Point Catacaustics for Novel-View Synthesis of Reflections**|Georgios Kopanas et.al.|[2301.01087v1](http://arxiv.org/abs/2301.01087v1)|null|
 |**2023-01-01**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v1](http://arxiv.org/abs/2301.00411v1)|**[link](https://github.com/luciferbobo/d4nerf)**|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|[2212.11966v1](http://arxiv.org/abs/2212.11966v1)|null|
