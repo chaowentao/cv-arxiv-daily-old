@@ -106,8 +106,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-06**|**Strong solution of stochastic differential equations with discontinuous and unbounded coefficients**|Yaozhong Hu et.al.|[2301.02625v1](http://arxiv.org/abs/2301.02625v1)|null|
+|**2023-01-06**|**A study of convective core overshooting as a function of stellar mass based on two-dimensional hydrodynamical simulations**|I. Baraffe et.al.|[2301.02604v1](http://arxiv.org/abs/2301.02604v1)|null|
+|**2023-01-06**|**Capturing the dynamics of Ti diffusion across Ti$_x$W$_{1-x}$/Cu heterostructures using X-ray photoelectron spectroscopy**|Curran Kalha et.al.|[2301.02577v1](http://arxiv.org/abs/2301.02577v1)|null|
+|**2023-01-06**|**Denser glasses relax faster: a competition between rejuvenation and aging during in-situ high pressure compression at the atomic scale**|A. Cornet et.al.|[2301.02551v1](http://arxiv.org/abs/2301.02551v1)|null|
+|**2023-01-06**|**Analysis of a spatio-temporal advection-diffusion model for human behaviors during a catastrophic event**|K. Khalil et.al.|[2301.02520v1](http://arxiv.org/abs/2301.02520v1)|null|
+|**2023-01-06**|**Effects of annealing on the fluctuation conductivity and pseudogap in slightly doped $HoBa_2Cu_3O_{7-δ}$ single crystals**|A. L. Solovjov et.al.|[2301.02501v1](http://arxiv.org/abs/2301.02501v1)|null|
+|**2023-01-06**|**PDE for the joint law of the pair of a continuous diffusion and its running maximum**|Laure Coutin et.al.|[2301.02442v1](http://arxiv.org/abs/2301.02442v1)|null|
+|**2023-01-06**|**Sensitivity analysis using Physics-informed neural networks**|John M. Hanna et.al.|[2301.02428v1](http://arxiv.org/abs/2301.02428v1)|null|
+|**2023-01-06**|**Increase in Rod Diffusivity Emerges even in Markovian Nature**|Fumiaki Nakai et.al.|[2301.02394v1](http://arxiv.org/abs/2301.02394v1)|null|
+|**2023-01-06**|**A SIR Stochastic Epidemic Model in Continuous Space: Law of Large Numbers and Central Limit Theorem**|Alphonse Emakoua et.al.|[2301.02343v1](http://arxiv.org/abs/2301.02343v1)|null|
+|**2023-01-05**|**Effects of Spatiotemporal Upscaling on Predictions of Reactive Transport in Porous Media**|Farzaneh Rajabi et.al.|[2301.02318v1](http://arxiv.org/abs/2301.02318v1)|null|
+|**2023-01-05**|**Diffusion in Phase Space as a Tool to Assess Variability of Vertical Centre-of-Mass Motion During Long-Range Walking**|N. Boulanger et.al.|[2301.02298v1](http://arxiv.org/abs/2301.02298v1)|null|
+|**2023-01-05**|**Light scalar explanation for 18 TeV GRB 221009A**|Shyam Balaji et.al.|[2301.02258v1](http://arxiv.org/abs/2301.02258v1)|null|
 |**2023-01-05**|**Concentration Distribution of Simple Components Reaction Diffusion in one-dimensional linear Model**|Zihan Huang et.al.|[2301.02235v1](http://arxiv.org/abs/2301.02235v1)|null|
-|**2023-01-04**|**Towards the resolution of a quantized chaotic phase space: The interplay of dynamics with noise**|Domenico Lippolis et.al.|[2301.02165v1](http://arxiv.org/abs/2301.02165v1)|null|
 |**2023-01-05**|**Stochastic 2D Keller-Segel-Navier-Stokes system with fractional dissipation and logistic source**|Lei Zhang et.al.|[2301.02131v1](http://arxiv.org/abs/2301.02131v1)|null|
 |**2023-01-05**|**Spatiotemporal linear stability of viscoelastic subdiffusive channel flows: a fractional calculus framework**|Tanisha Chauhan et.al.|[2301.02078v1](http://arxiv.org/abs/2301.02078v1)|null|
 |**2023-01-05**|**Diffusive stability and self-similar decay for the harmonic map heat flow**|Tobias Lamm et.al.|[2301.02067v1](http://arxiv.org/abs/2301.02067v1)|null|
@@ -124,23 +136,12 @@ layout: default
 |**2023-01-04**|**Molecular dynamics predictions of transport properties for carbon dioxide hydrates under pre-nucleation conditions using TIP4P/Ice water and EPM2, TraPPE, and Zhang carbon dioxide potentials**|André Guerra et.al.|[2301.01757v1](http://arxiv.org/abs/2301.01757v1)|null|
 |**2023-01-04**|**Dynamic Viscosity of Methane and Carbon Dioxide Hydrate Systems from Pure Water at High-Pressure Driving Forces**|André Guerra et.al.|[2301.01756v1](http://arxiv.org/abs/2301.01756v1)|null|
 |**2023-01-04**|**An efficient and quantitative phase-field model for elastically heterogeneous two-phase solids based on a partial rank-one homogenization scheme**|Sourav Chatterjee et.al.|[2301.01746v1](http://arxiv.org/abs/2301.01746v1)|**[link](https://github.com/souravmat-git/gibbs)**|
-|**2023-01-04**|**Radiance Textures for Rasterizing Ray-Traced Data**|Jakub Maksymilian Fober et.al.|[2301.01719v1](http://arxiv.org/abs/2301.01719v1)|null|
-|**2023-01-04**|**Top-down fabrication of atomic patterns in twisted bilayer graphene**|Ondrej Dyck et.al.|[2301.01674v1](http://arxiv.org/abs/2301.01674v1)|null|
-|**2023-01-04**|**Symmetric fractional order reduction method with $L1$ scheme on graded mesh for time fractional nonlocal diffusion-wave equation of Kirchhoff type**|Pari J. Kundaliya et.al.|[2301.01670v1](http://arxiv.org/abs/2301.01670v1)|null|
-|**2023-01-04**|**Numerical investigation of the sharp-interface limit of the Navier-Stokes-Cahn-Hilliard equations**|T. H. B. Demont et.al.|[2301.01665v1](http://arxiv.org/abs/2301.01665v1)|null|
-|**2023-01-04**|**Dielectric relaxation induced by oxygen vacancies in Na$_{0.5}$Bi$_{0.5}$TiO$_{3}$ ceramics**|V. M. Sidak et.al.|[2301.01528v1](http://arxiv.org/abs/2301.01528v1)|null|
-|**2023-01-04**|**Intracluster light is already abundant at redshift beyond unity**|Hyungjin Joo et.al.|[2301.01523v1](http://arxiv.org/abs/2301.01523v1)|null|
-|**2023-01-04**|**Fast methods to track grain coagulation and ionization. III. Protostellar collapse with non-ideal MHD**|Pierre Marchand et.al.|[2301.01510v1](http://arxiv.org/abs/2301.01510v1)|null|
-|**2023-01-04**|**Impulse control of conditional McKean-Vlasov jump diffusions**|Nacira Agram et.al.|[2301.01506v1](http://arxiv.org/abs/2301.01506v1)|null|
-|**2023-01-04**|**Dust processing in protoplanetary envelopes as the origin of hot minerals in comets**|Mohamad Ali-Dib et.al.|[2301.01472v1](http://arxiv.org/abs/2301.01472v1)|null|
-|**2023-01-04**|**On the minimum transport required to passively suppress runaway electrons in SPARC disruptions**|R. A. Tinguely et.al.|[2301.01435v1](http://arxiv.org/abs/2301.01435v1)|null|
-|**2023-01-04**|**Quantitative Estimates in Elliptic Homogenization of Non-divergence Form with Unbounded Drift and an Interface**|Yiping Zhang et.al.|[2301.01411v1](http://arxiv.org/abs/2301.01411v1)|null|
-|**2023-01-03**|**Critical exponents of the order parameter of diffuse ferroelectric phase transitions in the solid solutions based on lead germanate: studies of optical rotation**|D. I. Adamenko et.al.|[2301.01346v1](http://arxiv.org/abs/2301.01346v1)|null|
 
 ## Vision Transformer
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-06**|**Exploring Efficient Few-shot Adaptation for Vision Transformers**|Chengming Xu et.al.|[2301.02419v1](http://arxiv.org/abs/2301.02419v1)|**[link](https://github.com/loadder/ett_tmlr2022)**|
 |**2023-01-05**|**Skip-Attention: Improving Vision Transformers by Paying Less Attention**|Shashanka Venkataramanan et.al.|[2301.02240v1](http://arxiv.org/abs/2301.02240v1)|null|
 |**2023-01-05**|**MS-DINO: Efficient Distributed Training of Vision Transformer Foundation Model in Medical Domain through Masked Sampling**|Sangjoon Park et.al.|[2301.02064v1](http://arxiv.org/abs/2301.02064v1)|null|
 |**2023-01-05**|**Enabling Augmented Segmentation and Registration in Ultrasound-Guided Spinal Surgery via Realistic Ultrasound Synthesis from Diagnostic CT Volume**|Ang Li et.al.|[2301.01940v1](http://arxiv.org/abs/2301.01940v1)|null|
@@ -170,7 +171,6 @@ layout: default
 |**2022-12-15**|**Rethinking Vision Transformers for MobileNet Size and Speed**|Yanyu Li et.al.|[2212.08059v1](http://arxiv.org/abs/2212.08059v1)|**[link](https://github.com/snap-research/efficientformer)**|
 |**2022-12-15**|**FlexiViT: One Model for All Patch Sizes**|Lucas Beyer et.al.|[2212.08013v1](http://arxiv.org/abs/2212.08013v1)|**[link](https://github.com/google-research/big_vision)**|
 |**2022-12-15**|**Vision Transformers are Parameter-Efficient Audio-Visual Learners**|Yan-Bo Lin et.al.|[2212.07983v1](http://arxiv.org/abs/2212.07983v1)|**[link](https://github.com/GenjiB/LAVISH)**|
-|**2022-12-15**|**Full Contextual Attention for Multi-resolution Transformers in Semantic Segmentation**|Loic Themyr et.al.|[2212.07890v1](http://arxiv.org/abs/2212.07890v1)|null|
 
 ## NeRF
 
