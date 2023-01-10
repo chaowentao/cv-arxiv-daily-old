@@ -1,4 +1,4 @@
-## Updated on 2023.01.09
+## Updated on 2023.01.10
 
 ## Image Generation
 
@@ -122,7 +122,7 @@
 |**2023-01-05**|**Spatio-temporal characterization of Cassiopeia A**|Yuto Ichinohe et.al.|[2301.02026v1](http://arxiv.org/abs/2301.02026v1)|null|
 |**2023-01-05**|**Large Fluctuations in Amplifying Graphs**|Stefano Lepri et.al.|[2301.01980v1](http://arxiv.org/abs/2301.01980v1)|null|
 |**2023-01-05**|**A Streamline upwind Petrov-Galerkin Reduced Order Method for Advection-Dominated Partial Differential Equations under Optimal Control**|Fabio Zoccolan et.al.|[2301.01973v1](http://arxiv.org/abs/2301.01973v1)|null|
-|**2023-01-05**|**EPR-Net: Constructing non-equilibrium potential landscape via a variational force projection formulation**|Yue Zhao et.al.|[2301.01946v1](http://arxiv.org/abs/2301.01946v1)|null|
+|**2023-01-05**|**EPR-Net: Constructing non-equilibrium potential landscape via a variational force projection formulation**|Yue Zhao et.al.|[2301.01946v2](http://arxiv.org/abs/2301.01946v2)|null|
 |**2023-01-05**|**Accuracy and Fidelity Comparison of Luna and DALL-E 2 Diffusion-Based Image Generation Systems**|Michael Cahyadi et.al.|[2301.01914v1](http://arxiv.org/abs/2301.01914v1)|null|
 |**2023-01-05**|**TractGraphCNN: anatomically informed graph CNN for classification using diffusion MRI tractography**|Yuqian Chen et.al.|[2301.01911v1](http://arxiv.org/abs/2301.01911v1)|null|
 |**2023-01-05**|**What is in a Text-to-Image Prompt: The Potential of Stable Diffusion in Visual Arts Education**|Nassim Dehouche et.al.|[2301.01902v1](http://arxiv.org/abs/2301.01902v1)|null|
