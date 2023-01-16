@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-13**|**Explicit Temporal Embedding in Deep Generative Latent Models for Longitudinal Medical Image Synthesis**|Julian Schön et.al.|[2301.05465v1](http://arxiv.org/abs/2301.05465v1)|**[link](https://github.com/julschoen/temp-gan)**|
+|**2023-01-12**|**GH-Feat: Learning Versatile Generative Hierarchical Features from GANs**|Yinghao Xu et.al.|[2301.05315v1](http://arxiv.org/abs/2301.05315v1)|null|
 |**2023-01-12**|**Domain Expansion of Image Generators**|Yotam Nitzan et.al.|[2301.05225v1](http://arxiv.org/abs/2301.05225v1)|null|
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Diffusion-based Data Augmentation for Skin Disease Classification: Impact Across Original Medical Datasets to Fully Synthetic Images**|Mohamed Akrout et.al.|[2301.04802v1](http://arxiv.org/abs/2301.04802v1)|null|
@@ -36,8 +38,6 @@ layout: default
 |**2022-12-23**|**Do DALL-E and Flamingo Understand Each Other?**|Hang Li et.al.|[2212.12249v1](http://arxiv.org/abs/2212.12249v1)|null|
 |**2022-12-22**|**Hybrid Quantum-Classical Generative Adversarial Network for High Resolution Image Generation**|Shu Lok Tsang et.al.|[2212.11614v1](http://arxiv.org/abs/2212.11614v1)|null|
 |**2022-12-21**|**Semi-supervised GAN for Bladder Tissue Classification in Multi-Domain Endoscopic Images**|Jorge F. Lazo et.al.|[2212.11375v1](http://arxiv.org/abs/2212.11375v1)|null|
-|**2022-12-21**|**Generalized Decoding for Pixel, Image, and Language**|Xueyan Zou et.al.|[2212.11270v1](http://arxiv.org/abs/2212.11270v1)|**[link](https://github.com/microsoft/X-Decoder)**|
-|**2022-12-21**|**Not Just Pretty Pictures: Text-to-Image Generators Enable Interpretable Interventions for Robust Representations**|Jianhao Yuan et.al.|[2212.11237v1](http://arxiv.org/abs/2212.11237v1)|null|
 
 ## Light Field Super Resolution
 
@@ -106,6 +106,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-13**|**Backstepping-based tracking control of the vertical gradient freeze crystal growth process**|Stefan Ecklebe et.al.|[2301.05631v1](http://arxiv.org/abs/2301.05631v1)|null|
+|**2023-01-13**|**Strain-mediated ion-ion interaction in rare-earth-doped solids**|Anne Louchet-Chauvet et.al.|[2301.05531v1](http://arxiv.org/abs/2301.05531v1)|null|
+|**2023-01-13**|**Fractional Diffusion in the full space: decay and regularity**|Markus Faustmann et.al.|[2301.05503v1](http://arxiv.org/abs/2301.05503v1)|null|
+|**2023-01-13**|**Neural Image Compression with a Diffusion-Based Decoder**|Noor Fathima Goose et.al.|[2301.05489v1](http://arxiv.org/abs/2301.05489v1)|null|
+|**2023-01-13**|**EWF : simulating exact paths of the Wright--Fisher diffusion**|Jaromir Sant et.al.|[2301.05459v1](http://arxiv.org/abs/2301.05459v1)|null|
+|**2023-01-13**|**A Causal Formulation of Dissipative Relativistic Fluid Dynamics with or without Diffusion**|Heinrich Freistuhler et.al.|[2301.05424v1](http://arxiv.org/abs/2301.05424v1)|null|
+|**2023-01-13**|**In BLOOM: Creativity and Affinity in Artificial Lyrics and Art**|Evan Crothers et.al.|[2301.05402v1](http://arxiv.org/abs/2301.05402v1)|**[link](https://github.com/ecrows/in-bloom)**|
+|**2023-01-13**|**Simulation Study of the Effects of Polymer Network Dynamics and Mesh Confinement on the Diffusion and Structural Relaxation of Molecular Penetrants**|Tsai-Wei Lin et.al.|[2301.05356v1](http://arxiv.org/abs/2301.05356v1)|null|
+|**2023-01-13**|**Self-Consistent Hopping Theory of Activated Relaxation and Diffusion of Dilute Penetrants in Dense Crosslinked Polymer Networks**|Baicheng Mei et.al.|[2301.05353v1](http://arxiv.org/abs/2301.05353v1)|null|
+|**2023-01-12**|**Reaction-diffusive dynamics of number-conserving dissipative quantum state preparation**|P. A. Nosov et.al.|[2301.05258v1](http://arxiv.org/abs/2301.05258v1)|null|
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Mathematical theory of diffusion in solids: solutions in the semi-infinite body and solution to a diffusion problem with a variable boundary condition**|Guglielmo Macrelli et.al.|[2301.05199v1](http://arxiv.org/abs/2301.05199v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
@@ -123,24 +133,15 @@ layout: default
 |**2023-01-12**|**LZR: Identifying Unexpected Internet Services**|Liz Izhikevich et.al.|[2301.04841v1](http://arxiv.org/abs/2301.04841v1)|null|
 |**2023-01-12**|**Diffusion-based Data Augmentation for Skin Disease Classification: Impact Across Original Medical Datasets to Fully Synthetic Images**|Mohamed Akrout et.al.|[2301.04802v1](http://arxiv.org/abs/2301.04802v1)|null|
 |**2023-01-12**|**Quantum critical phase of FeO spans conditions of Earth's lower mantle**|Wai-Ga D. Ho et.al.|[2301.04777v1](http://arxiv.org/abs/2301.04777v1)|null|
-|**2023-01-11**|**ChatGPT is not all you need. A State of the Art Review of large Generative AI models**|Roberto Gozalo-Brizuela et.al.|[2301.04655v1](http://arxiv.org/abs/2301.04655v1)|null|
 |**2023-01-11**|**Classical and Quantum Elliptical Billiards: Mixed Phase Space and Short Correlations in Singlets and Doublets**|T. Araújo Lima et.al.|[2301.04654v1](http://arxiv.org/abs/2301.04654v1)|null|
 |**2023-01-11**|**Entropy of different phases formed by soft rods**|Jayeeta Chattopadhyay et.al.|[2301.04621v1](http://arxiv.org/abs/2301.04621v1)|null|
 |**2023-01-11**|**Formally Exact Simulations of Mesoscale Exciton Diffusion in a Photosynthetic Aggregate**|Leonel Varvelo et.al.|[2301.04537v1](http://arxiv.org/abs/2301.04537v1)|null|
-|**2023-01-11**|**Machine-learning-assisted environment-adaptive thermal metamaterials**|Peng Jin et.al.|[2301.04523v1](http://arxiv.org/abs/2301.04523v1)|null|
-|**2023-01-11**|**Rethinking network community detection in the light of the Laplacian Renormalization Group**|Pablo Villegas et.al.|[2301.04514v1](http://arxiv.org/abs/2301.04514v1)|null|
-|**2023-01-11**|**Multiple emission components in the Cygnus cocoon detected from Fermi-LAT observations**|X. Astiasarain et.al.|[2301.04504v1](http://arxiv.org/abs/2301.04504v1)|null|
-|**2023-01-11**|**Detecting charge transfer in defective 2D WS2 with electron ptychography**|Christoph Hofer et.al.|[2301.04469v1](http://arxiv.org/abs/2301.04469v1)|null|
-|**2023-01-11**|**New members of the Lupus I cloud based on Gaia astrometry Physical and accretion properties from X-Shooter spectra**|F. Z. Majidi et.al.|[2301.04463v1](http://arxiv.org/abs/2301.04463v1)|null|
-|**2023-01-11**|**Systematic study of the effect of individual rotational energy levels on the fusion cross-section of \texorpdfstring{$^{16}O$}--based reactions of range $480 \le {Z_PZ_T} \le 592$**|Nishu Jain et.al.|[2301.04363v1](http://arxiv.org/abs/2301.04363v1)|null|
-|**2023-01-11**|**A Meta Path-based Approach for Rumor Detection on Social Media**|Bita Azarijoo et.al.|[2301.04341v1](http://arxiv.org/abs/2301.04341v1)|null|
-|**2023-01-11**|**Heat transport and convective velocities in compositionally-driven convection in neutron star and white dwarf interiors**|J. R. Fuentes et.al.|[2301.04273v1](http://arxiv.org/abs/2301.04273v1)|null|
-|**2023-01-10**|**On the limit spectrum of a degenerate operator in the framework of periodic homogenization or singular perturbation problems**|Kaïs Ammari et.al.|[2301.04226v1](http://arxiv.org/abs/2301.04226v1)|null|
 
 ## Vision Transformer
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-13**|**GOHSP: A Unified Framework of Graph and Optimization-based Heterogeneous Structured Pruning for Vision Transformer**|Miao Yin et.al.|[2301.05345v1](http://arxiv.org/abs/2301.05345v1)|null|
 |**2023-01-12**|**ViTs for SITS: Vision Transformers for Satellite Image Time Series**|Michail Tarasiou et.al.|[2301.04944v1](http://arxiv.org/abs/2301.04944v1)|null|
 |**2023-01-11**|**Head-Free Lightweight Semantic Segmentation with Linear Transformer**|Bo Dong et.al.|[2301.04648v1](http://arxiv.org/abs/2301.04648v1)|**[link](https://github.com/dongbo811/afformer)**|
 |**2023-01-11**|**Dynamic Background Reconstruction via Transformer for Infrared Small Target Detection**|Jingchao Peng et.al.|[2301.04497v1](http://arxiv.org/abs/2301.04497v1)|null|
@@ -170,7 +171,6 @@ layout: default
 |**2022-12-23**|**A Close Look at Spatial Modeling: From Attention to Convolution**|Xu Ma et.al.|[2212.12552v1](http://arxiv.org/abs/2212.12552v1)|**[link](https://github.com/ma-xu/fcvit)**|
 |**2022-12-23**|**PanoViT: Vision Transformer for Room Layout Estimation from a Single Panoramic Image**|Weichao Shen et.al.|[2212.12156v1](http://arxiv.org/abs/2212.12156v1)|null|
 |**2022-12-21**|**What Makes for Good Tokenizers in Vision Transformer?**|Shengju Qian et.al.|[2212.11115v1](http://arxiv.org/abs/2212.11115v1)|null|
-|**2022-12-21**|**Investigation of Network Architecture for Multimodal Head-and-Neck Tumor Segmentation**|Ye Li et.al.|[2212.10724v1](http://arxiv.org/abs/2212.10724v1)|null|
 
 ## NeRF
 
