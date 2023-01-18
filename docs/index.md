@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.01.17
+## Updated on 2023.01.18
 
 ## Image Generation
 
@@ -117,7 +117,7 @@ layout: default
 |**2023-01-13**|**Self-Consistent Hopping Theory of Activated Relaxation and Diffusion of Dilute Penetrants in Dense Crosslinked Polymer Networks**|Baicheng Mei et.al.|[2301.05353v1](http://arxiv.org/abs/2301.05353v1)|null|
 |**2023-01-12**|**Reaction-diffusive dynamics of number-conserving dissipative quantum state preparation**|P. A. Nosov et.al.|[2301.05258v1](http://arxiv.org/abs/2301.05258v1)|null|
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
-|**2023-01-12**|**Mathematical theory of diffusion in solids: solutions in the semi-infinite body and solution to a diffusion problem with a variable boundary condition**|Guglielmo Macrelli et.al.|[2301.05199v1](http://arxiv.org/abs/2301.05199v1)|null|
+|**2023-01-12**|**Mathematical theory of diffusion in solids: solutions in the semi-infinite body and solution to a diffusion problem with a variable boundary condition**|Guglielmo Macrelli et.al.|[2301.05199v2](http://arxiv.org/abs/2301.05199v2)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
 |**2023-01-12**|**Adaptive Dynamic Global Illumination**|Sayantan Datta et.al.|[2301.05125v1](http://arxiv.org/abs/2301.05125v1)|null|
 |**2023-01-12**|**QUIJOTE scientific results -- VIII. Diffuse polarized foregrounds from component separation with QUIJOTE-MFI**|E. de la Hoz et.al.|[2301.05117v1](http://arxiv.org/abs/2301.05117v1)|null|
