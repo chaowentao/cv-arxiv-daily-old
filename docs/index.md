@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.01.23
+## Updated on 2023.01.24
 
 ## Image Generation
 
@@ -154,7 +154,7 @@ layout: default
 |**2023-01-12**|**ViTs for SITS: Vision Transformers for Satellite Image Time Series**|Michail Tarasiou et.al.|[2301.04944v1](http://arxiv.org/abs/2301.04944v1)|null|
 |**2023-01-11**|**Head-Free Lightweight Semantic Segmentation with Linear Transformer**|Bo Dong et.al.|[2301.04648v1](http://arxiv.org/abs/2301.04648v1)|**[link](https://github.com/dongbo811/afformer)**|
 |**2023-01-11**|**Dynamic Background Reconstruction via Transformer for Infrared Small Target Detection**|Jingchao Peng et.al.|[2301.04497v1](http://arxiv.org/abs/2301.04497v1)|null|
-|**2023-01-11**|**Deep Learning Model with Attention Mechanism for Super-resolution of Wireless Channel Characteristics**|Haoyang Zhang et.al.|[2301.04479v1](http://arxiv.org/abs/2301.04479v1)|null|
+|**2023-01-11**|**Super-resolution of Ray-tracing Channel Simulation via Attention Mechanism based Deep Learning Model**|Haoyang Zhang et.al.|[2301.04479v2](http://arxiv.org/abs/2301.04479v2)|null|
 |**2023-01-10**|**Vision Transformers Are Good Mask Auto-Labelers**|Shiyi Lan et.al.|[2301.03992v1](http://arxiv.org/abs/2301.03992v1)|null|
 |**2023-01-10**|**Dynamic Grained Encoder for Vision Transformers**|Lin Song et.al.|[2301.03831v1](http://arxiv.org/abs/2301.03831v1)|**[link](https://github.com/stevengrove/vtpack)**|
 |**2023-01-09**|**Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review**|Reza Azad et.al.|[2301.03505v2](http://arxiv.org/abs/2301.03505v2)|**[link](https://github.com/mindflow-institue/awesome-transformer)**|
@@ -219,7 +219,7 @@ layout: default
 |**2023-01-05**|**WIRE: Wavelet Implicit Neural Representations**|Vishwanath Saragadam et.al.|[2301.05187v1](http://arxiv.org/abs/2301.05187v1)|null|
 |**2023-01-11**|**Learning Continuous Mesh Representation with Spherical Implicit Surface**|Zhongpai Gao et.al.|[2301.04695v1](http://arxiv.org/abs/2301.04695v1)|**[link](https://github.com/gaozhongpai/sis-implicit)**|
 |**2023-01-11**|**Deep Residual Axial Networks**|Nazmul Shahadat et.al.|[2301.04631v1](http://arxiv.org/abs/2301.04631v1)|null|
-|**2023-01-11**|**Deep Learning Model with Attention Mechanism for Super-resolution of Wireless Channel Characteristics**|Haoyang Zhang et.al.|[2301.04479v1](http://arxiv.org/abs/2301.04479v1)|null|
+|**2023-01-11**|**Super-resolution of Ray-tracing Channel Simulation via Attention Mechanism based Deep Learning Model**|Haoyang Zhang et.al.|[2301.04479v2](http://arxiv.org/abs/2301.04479v2)|null|
 |**2023-01-10**|**Integrated Sensing and Communication Signals Towards 5G-A and 6G: A Survey**|Zhiqing Wei et.al.|[2301.03857v1](http://arxiv.org/abs/2301.03857v1)|null|
 |**2023-01-09**|**Label-free incoherent super-resolution optical microscopy**|Nikhil Jayakumar et.al.|[2301.03451v1](http://arxiv.org/abs/2301.03451v1)|null|
 |**2023-01-09**|**eFIN: Enhanced Fourier Imager Network for generalizable autofocusing and pixel super-resolution in holographic imaging**|Hanlong Chen et.al.|[2301.03162v1](http://arxiv.org/abs/2301.03162v1)|null|
