@@ -1,4 +1,4 @@
-## Updated on 2023.01.27
+## Updated on 2023.01.28
 
 ## Image Generation
 
@@ -154,7 +154,7 @@
 |**2023-01-15**|**TextileNet: A Material Taxonomy-based Fashion Textile Dataset**|Shu Zhong et.al.|[2301.06160v1](http://arxiv.org/abs/2301.06160v1)|**[link](https://github.com/hahasue/textilenet)**|
 |**2023-01-13**|**Efficient Activation Function Optimization through Surrogate Modeling**|Garrett Bingham et.al.|[2301.05785v1](http://arxiv.org/abs/2301.05785v1)|**[link](https://github.com/cognizant-ai-labs/aquasurf)**|
 |**2023-01-13**|**GOHSP: A Unified Framework of Graph and Optimization-based Heterogeneous Structured Pruning for Vision Transformer**|Miao Yin et.al.|[2301.05345v1](http://arxiv.org/abs/2301.05345v1)|null|
-|**2023-01-12**|**ViTs for SITS: Vision Transformers for Satellite Image Time Series**|Michail Tarasiou et.al.|[2301.04944v2](http://arxiv.org/abs/2301.04944v2)|null|
+|**2023-01-12**|**ViTs for SITS: Vision Transformers for Satellite Image Time Series**|Michail Tarasiou et.al.|[2301.04944v2](http://arxiv.org/abs/2301.04944v2)|**[link](https://github.com/michaeltrs/deepsatmodels)**|
 |**2023-01-11**|**Head-Free Lightweight Semantic Segmentation with Linear Transformer**|Bo Dong et.al.|[2301.04648v1](http://arxiv.org/abs/2301.04648v1)|**[link](https://github.com/dongbo811/afformer)**|
 |**2023-01-11**|**Dynamic Background Reconstruction via Transformer for Infrared Small Target Detection**|Jingchao Peng et.al.|[2301.04497v1](http://arxiv.org/abs/2301.04497v1)|null|
 |**2023-01-11**|**Super-resolution of Ray-tracing Channel Simulation via Attention Mechanism based Deep Learning Model**|Haoyang Zhang et.al.|[2301.04479v2](http://arxiv.org/abs/2301.04479v2)|null|
