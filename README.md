@@ -1,10 +1,10 @@
-## Updated on 2023.01.31
+## Updated on 2023.02.01
 
 ## Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-01-30**|**ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models**|Shengmeng Li et.al.|[2301.12935v1](http://arxiv.org/abs/2301.12935v1)|null|
+|**2023-01-30**|**ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models**|Shengmeng Li et.al.|[2301.12935v2](http://arxiv.org/abs/2301.12935v2)|null|
 |**2023-01-19**|**MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer**|Junde Wu et.al.|[2301.11798v1](http://arxiv.org/abs/2301.11798v1)|**[link](https://github.com/wujunde/medsegdiff)**|
 |**2023-01-27**|**Moûsai: Text-to-Music Generation with Long-Context Latent Diffusion**|Flavio Schneider et.al.|[2301.11757v2](http://arxiv.org/abs/2301.11757v2)|**[link](https://github.com/archinetai/audio-diffusion-pytorch)**|
 |**2023-01-27**|**Accelerating Guided Diffusion Sampling with Splitting Numerical Methods**|Suttisak Wizadwongsa et.al.|[2301.11558v1](http://arxiv.org/abs/2301.11558v1)|**[link](https://github.com/swizad/split-diffusion)**|
@@ -109,9 +109,9 @@
 |**2023-01-30**|**Benchmarking optimality of time series classification methods in distinguishing diffusions**|Zehong Zhang et.al.|[2301.13112v1](http://arxiv.org/abs/2301.13112v1)|null|
 |**2023-01-30**|**Robust DPG Fortin operators**|Thomas Führer et.al.|[2301.13021v1](http://arxiv.org/abs/2301.13021v1)|null|
 |**2023-01-30**|**GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis**|Ming Tao et.al.|[2301.12959v1](http://arxiv.org/abs/2301.12959v1)|**[link](https://github.com/tobran/galip)**|
-|**2023-01-30**|**ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models**|Shengmeng Li et.al.|[2301.12935v1](http://arxiv.org/abs/2301.12935v1)|null|
+|**2023-01-30**|**ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models**|Shengmeng Li et.al.|[2301.12935v2](http://arxiv.org/abs/2301.12935v2)|null|
 |**2023-01-30**|**A stochastic control approach for constrained stochastic differential games with jumps and regimes**|Emel Savku et.al.|[2301.12921v1](http://arxiv.org/abs/2301.12921v1)|null|
-|**2023-01-30**|**PromptMix: Text-to-image diffusion models enhance the performance of lightweight networks**|Arian Bakhtiarnia et.al.|[2301.12914v1](http://arxiv.org/abs/2301.12914v1)|null|
+|**2023-01-30**|**PromptMix: Text-to-image diffusion models enhance the performance of lightweight networks**|Arian Bakhtiarnia et.al.|[2301.12914v2](http://arxiv.org/abs/2301.12914v2)|null|
 |**2023-01-30**|**Dirichlet-Neumann Waveform Relaxation Algorithm for Time Fractional Diffusion Equation in Heterogeneous Media**|Soura Sana et.al.|[2301.12909v1](http://arxiv.org/abs/2301.12909v1)|null|
 |**2023-01-30**|**Spectral form factors and dynamical localization**|Črt Lozej et.al.|[2301.12908v1](http://arxiv.org/abs/2301.12908v1)|null|
 |**2023-01-30**|**Deep learning numerical methods for high-dimensional fully nonlinear PIDEs and coupled FBSDEs with jumps**|Wansheng Wang et.al.|[2301.12895v1](http://arxiv.org/abs/2301.12895v1)|null|
@@ -139,10 +139,10 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-01-30**|**SeaFormer: Squeeze-enhanced Axial Transformer for Mobile Semantic Segmentation**|Qiang Wan et.al.|[2301.13156v1](http://arxiv.org/abs/2301.13156v1)|**[link](https://github.com/fudan-zvg/seaformer)**|
-|**2023-01-30**|**DepGraph: Towards Any Structural Pruning**|Gongfan Fang et.al.|[2301.12900v1](http://arxiv.org/abs/2301.12900v1)|null|
+|**2023-01-30**|**DepGraph: Towards Any Structural Pruning**|Gongfan Fang et.al.|[2301.12900v1](http://arxiv.org/abs/2301.12900v1)|**[link](https://github.com/VainF/Torch-Pruning)**|
 |**2023-01-29**|**Graph Mixer Networks**|Ahmet Sarıgün et.al.|[2301.12493v1](http://arxiv.org/abs/2301.12493v1)|**[link](https://github.com/asarigun/GraphMixerNetworks)**|
 |**2023-01-29**|**Towards Verifying the Geometric Robustness of Large-scale Neural Networks**|Fu Wang et.al.|[2301.12456v1](http://arxiv.org/abs/2301.12456v1)|**[link](https://github.com/trustai/georobust)**|
-|**2023-01-29**|**PhaVIP: Phage VIrion Protein classification based on chaos game representation and Vision Transformer**|Jiayu Shang et.al.|[2301.12422v1](http://arxiv.org/abs/2301.12422v1)|null|
+|**2023-01-29**|**PhaVIP: Phage VIrion Protein classification based on chaos game representation and Vision Transformer**|Jiayu Shang et.al.|[2301.12422v2](http://arxiv.org/abs/2301.12422v2)|null|
 |**2023-01-29**|**Towards Vision Transformer Unrolling Fixed-Point Algorithm: a Case Study on Image Restoration**|Peng Qiao et.al.|[2301.12332v1](http://arxiv.org/abs/2301.12332v1)|null|
 |**2023-01-28**|**Aerial Image Object Detection With Vision Transformer Detector (ViTDet)**|Liya Wang et.al.|[2301.12058v1](http://arxiv.org/abs/2301.12058v1)|null|
 |**2023-01-19**|**MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer**|Junde Wu et.al.|[2301.11798v1](http://arxiv.org/abs/2301.11798v1)|**[link](https://github.com/wujunde/medsegdiff)**|
