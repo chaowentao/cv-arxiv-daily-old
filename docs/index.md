@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.02.06
+## Updated on 2023.02.07
 
 ## Image Generation
 
@@ -152,7 +152,7 @@ layout: default
 |**2023-01-31**|**Real Estate Property Valuation using Self-Supervised Vision Transformers**|Mahdieh Yazdani et.al.|[2302.00117v1](http://arxiv.org/abs/2302.00117v1)|null|
 |**2023-01-31**|**Fairness-aware Vision Transformer via Debiased Self-Attention**|Yao Qiang et.al.|[2301.13803v1](http://arxiv.org/abs/2301.13803v1)|null|
 |**2023-01-31**|**Inference Time Evidences of Adversarial Attacks for Forensic on Transformers**|Hugo Lemarchant et.al.|[2301.13356v1](http://arxiv.org/abs/2301.13356v1)|null|
-|**2023-01-30**|**SeaFormer: Squeeze-enhanced Axial Transformer for Mobile Semantic Segmentation**|Qiang Wan et.al.|[2301.13156v1](http://arxiv.org/abs/2301.13156v1)|**[link](https://github.com/fudan-zvg/seaformer)**|
+|**2023-01-30**|**SeaFormer: Squeeze-enhanced Axial Transformer for Mobile Semantic Segmentation**|Qiang Wan et.al.|[2301.13156v2](http://arxiv.org/abs/2301.13156v2)|**[link](https://github.com/fudan-zvg/seaformer)**|
 |**2023-01-30**|**DepGraph: Towards Any Structural Pruning**|Gongfan Fang et.al.|[2301.12900v1](http://arxiv.org/abs/2301.12900v1)|**[link](https://github.com/VainF/Torch-Pruning)**|
 |**2023-01-29**|**Graph Mixer Networks**|Ahmet Sarıgün et.al.|[2301.12493v1](http://arxiv.org/abs/2301.12493v1)|**[link](https://github.com/asarigun/GraphMixerNetworks)**|
 |**2023-01-29**|**Towards Verifying the Geometric Robustness of Large-scale Neural Networks**|Fu Wang et.al.|[2301.12456v1](http://arxiv.org/abs/2301.12456v1)|**[link](https://github.com/trustai/georobust)**|
