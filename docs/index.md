@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.02.07
+## Updated on 2023.02.08
 
 ## Image Generation
 
@@ -13,10 +13,10 @@ layout: default
 |**2023-02-06**|**Generative Diffusion Models on Graphs: Methods and Applications**|Wenqi Fan et.al.|[2302.02591v1](http://arxiv.org/abs/2302.02591v1)|null|
 |**2023-02-05**|**KDEformer: Accelerating Transformers via Kernel Density Estimation**|Amir Zandieh et.al.|[2302.02451v1](http://arxiv.org/abs/2302.02451v1)|null|
 |**2023-02-05**|**Mixture of Diffusers for scene composition and high resolution image generation**|Álvaro Barbero Jiménez et.al.|[2302.02412v1](http://arxiv.org/abs/2302.02412v1)|null|
-|**2023-02-05**|**Eliminating Prior Bias for Semantic Image Editing via Dual-Cycle Diffusion**|Zuopeng Yang et.al.|[2302.02394v1](http://arxiv.org/abs/2302.02394v1)|null|
+|**2023-02-05**|**Eliminating Prior Bias for Semantic Image Editing via Dual-Cycle Diffusion**|Zuopeng Yang et.al.|[2302.02394v2](http://arxiv.org/abs/2302.02394v2)|null|
 |**2023-02-05**|**ReDi: Efficient Learning-Free Diffusion Inference via Trajectory Retrieval**|Kexun Zhang et.al.|[2302.02285v1](http://arxiv.org/abs/2302.02285v1)|null|
 |**2023-02-05**|**Divide and Compose with Score Based Generative Models**|Sandesh Ghimire et.al.|[2302.02272v1](http://arxiv.org/abs/2302.02272v1)|null|
-|**2023-02-04**|**This Intestine Does Not Exist: Multiscale Residual Variational Autoencoder for Realistic Wireless Capsule Endoscopy Image Generation**|Dimitrios E. Diamantis et.al.|[2302.02150v1](http://arxiv.org/abs/2302.02150v1)|null|
+|**2023-02-04**|**This Intestine Does Not Exist: Multiscale Residual Variational Autoencoder for Realistic Wireless Capsule Endoscopy Image Generation**|Dimitrios E. Diamantis et.al.|[2302.02150v2](http://arxiv.org/abs/2302.02150v2)|null|
 |**2023-02-04**|**Semantic-Guided Image Augmentation with Pre-trained Models**|Bohan Li et.al.|[2302.02070v1](http://arxiv.org/abs/2302.02070v1)|null|
 |**2023-02-03**|**TEXTure: Text-Guided Texturing of 3D Shapes**|Elad Richardson et.al.|[2302.01721v1](http://arxiv.org/abs/2302.01721v1)|**[link](https://github.com/TEXTurePaper/TEXTurePaper)**|
 |**2023-02-02**|**Dreamix: Video Diffusion Models are General Video Editors**|Eyal Molad et.al.|[2302.01329v1](http://arxiv.org/abs/2302.01329v1)|null|
@@ -114,7 +114,7 @@ layout: default
 |**2023-02-06**|**The cost of diffusion: nonlinearity and giant fluctuations**|Satya N. Majumdar et.al.|[2302.02930v1](http://arxiv.org/abs/2302.02930v1)|null|
 |**2023-02-06**|**Exact spatial correlations in single-file diffusion**|Aurélien Grabsch et.al.|[2302.02929v1](http://arxiv.org/abs/2302.02929v1)|null|
 |**2023-02-06**|**Beyond Statistical Similarity: Rethinking Metrics for Deep Generative Models in Engineering Design**|Lyle Regenwetter et.al.|[2302.02913v1](http://arxiv.org/abs/2302.02913v1)|null|
-|**2023-02-06**|**Predictor Feedback Boundary Control of an Unstable Reaction-Diffusion PDEs with Stochastic Input Delay**|Dandan Guan et.al.|[2302.02869v1](http://arxiv.org/abs/2302.02869v1)|null|
+|**2023-02-06**|**Predictor-based Boundary Control of an Unstable Reaction-Diffusion PDEs with Stochastic Input Delay**|Dandan Guan et.al.|[2302.02869v2](http://arxiv.org/abs/2302.02869v2)|null|
 |**2023-02-06**|**Finite element discretizations for variable-order fractional diffusion problems**|Wenyu Lei et.al.|[2302.02863v1](http://arxiv.org/abs/2302.02863v1)|null|
 |**2023-02-06**|**Convergence of adaptive algorithms for parametric PDEs with lognormal coefficients**|Martin Eigel et.al.|[2302.02839v1](http://arxiv.org/abs/2302.02839v1)|null|
 |**2023-02-06**|**Simulation tumor growth in heterogeneous medium based on diffusion equation**|Maxim V. Polyakov et.al.|[2302.02830v1](http://arxiv.org/abs/2302.02830v1)|null|
@@ -130,7 +130,7 @@ layout: default
 |**2023-02-05**|**Hatemongers ride on echo chambers to escalate hate speech diffusion**|Vasu Goel et.al.|[2302.02479v1](http://arxiv.org/abs/2302.02479v1)|**[link](https://github.com/lcs2-iiitd/hate-mongerer-and-echo-chambers)**|
 |**2023-02-05**|**Mixture of Diffusers for scene composition and high resolution image generation**|Álvaro Barbero Jiménez et.al.|[2302.02412v1](http://arxiv.org/abs/2302.02412v1)|null|
 |**2023-02-05**|**Diffusion Model for Generative Image Denoising**|Yutong Xie et.al.|[2302.02398v1](http://arxiv.org/abs/2302.02398v1)|null|
-|**2023-02-05**|**Eliminating Prior Bias for Semantic Image Editing via Dual-Cycle Diffusion**|Zuopeng Yang et.al.|[2302.02394v1](http://arxiv.org/abs/2302.02394v1)|null|
+|**2023-02-05**|**Eliminating Prior Bias for Semantic Image Editing via Dual-Cycle Diffusion**|Zuopeng Yang et.al.|[2302.02394v2](http://arxiv.org/abs/2302.02394v2)|null|
 |**2023-02-05**|**ShiftDDPMs: Exploring Conditional Diffusion Models by Shifting Diffusion Trajectories**|Zijian Zhang et.al.|[2302.02373v1](http://arxiv.org/abs/2302.02373v1)|null|
 |**2023-02-05**|**Ice melting in salty water: layering and non-monotonic dependence on the mean salinity**|Rui Yang et.al.|[2302.02357v1](http://arxiv.org/abs/2302.02357v1)|null|
 |**2023-02-05**|**Regulating ChatGPT and other Large Generative AI Models**|Philipp Hacker et.al.|[2302.02337v1](http://arxiv.org/abs/2302.02337v1)|null|
