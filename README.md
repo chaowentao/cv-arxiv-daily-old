@@ -1,4 +1,4 @@
-## Updated on 2023.02.12
+## Updated on 2023.02.13
 
 ## Image Generation
 
@@ -8,7 +8,7 @@
 |**2023-02-09**|**Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation**|Anton Voronov et.al.|[2302.04841v1](http://arxiv.org/abs/2302.04841v1)|**[link](https://github.com/yandex-research/dvar)**|
 |**2023-02-08**|**Geometry-Complete Diffusion for 3D Molecule Generation**|Alex Morehead et.al.|[2302.04313v1](http://arxiv.org/abs/2302.04313v1)|**[link](https://github.com/bioinfomachinelearning/bio-diffusion)**|
 |**2023-02-08**|**Mask Conditional Synthetic Satellite Imagery**|Van Anh Le et.al.|[2302.04305v1](http://arxiv.org/abs/2302.04305v1)|**[link](https://github.com/ms-synthetic-satellite-image/synthetic-satellite-imagery)**|
-|**2023-02-08**|**Q-Diffusion: Quantizing Diffusion Models**|Xiuyu Li et.al.|[2302.04304v1](http://arxiv.org/abs/2302.04304v1)|null|
+|**2023-02-08**|**Q-Diffusion: Quantizing Diffusion Models**|Xiuyu Li et.al.|[2302.04304v2](http://arxiv.org/abs/2302.04304v2)|null|
 |**2023-02-08**|**Zero-shot Generation of Coherent Storybook from Plain Text Story using Diffusion Models**|Hyeonho Jeong et.al.|[2302.03900v1](http://arxiv.org/abs/2302.03900v1)|null|
 |**2023-02-07**|**Information-Theoretic Diffusion**|Xianghao Kong et.al.|[2302.03792v1](http://arxiv.org/abs/2302.03792v1)|null|
 |**2023-02-07**|**Med-NCA: Robust and Lightweight Segmentation with Neural Cellular Automata**|John Kalkhof et.al.|[2302.03473v1](http://arxiv.org/abs/2302.03473v1)|null|
@@ -107,7 +107,7 @@
 |**2023-02-09**|**RelightableHands: Efficient Neural Relighting of Articulated Hand Models**|Shun Iwase et.al.|[2302.04866v1](http://arxiv.org/abs/2302.04866v1)|null|
 |**2023-02-09**|**Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation**|Anton Voronov et.al.|[2302.04841v1](http://arxiv.org/abs/2302.04841v1)|**[link](https://github.com/yandex-research/dvar)**|
 |**2023-02-09**|**Pressure-Poisson Equation in Numerical Simulation of Cerebral Arterial Circulation and Its Effect on the Electrical Conductivity of the Brain**|Maryam Samavaki et.al.|[2302.04814v1](http://arxiv.org/abs/2302.04814v1)|null|
-|**2023-02-09**|**Global Stability of a PDE-ODE model for acid-mediated tumor invasion**|Li Fang et.al.|[2302.04765v1](http://arxiv.org/abs/2302.04765v1)|null|
+|**2023-02-09**|**Global Stability of a PDE-ODE model for acid-mediated tumor invasion**|Fang li et.al.|[2302.04765v2](http://arxiv.org/abs/2302.04765v2)|null|
 |**2023-02-09**|**Robust and Scalable Bayesian Online Changepoint Detection**|Matias Altamirano et.al.|[2302.04759v1](http://arxiv.org/abs/2302.04759v1)|**[link](https://github.com/maltamiranomontero/dsm-bocd)**|
 |**2023-02-09**|**Better Diffusion Models Further Improve Adversarial Training**|Zekai Wang et.al.|[2302.04638v1](http://arxiv.org/abs/2302.04638v1)|**[link](https://github.com/wzekai99/dm-improves-at)**|
 |**2023-02-09**|**Sharp interface analysis of a diffuse interface model for cell blebbing with linker dynamics**|Philipp Nöldner et.al.|[2302.04612v1](http://arxiv.org/abs/2302.04612v1)|null|
@@ -126,7 +126,7 @@
 |**2023-02-08**|**MedDiff: Generating Electronic Health Records using Accelerated Denoising Diffusion Model**|Huan He et.al.|[2302.04355v1](http://arxiv.org/abs/2302.04355v1)|null|
 |**2023-02-08**|**Bifurcation and hyperbolicity for a nonlocal quasilinear parabolic problem**|José M. Arrieta et.al.|[2302.04314v1](http://arxiv.org/abs/2302.04314v1)|null|
 |**2023-02-08**|**Geometry-Complete Diffusion for 3D Molecule Generation**|Alex Morehead et.al.|[2302.04313v1](http://arxiv.org/abs/2302.04313v1)|**[link](https://github.com/bioinfomachinelearning/bio-diffusion)**|
-|**2023-02-08**|**Q-Diffusion: Quantizing Diffusion Models**|Xiuyu Li et.al.|[2302.04304v1](http://arxiv.org/abs/2302.04304v1)|null|
+|**2023-02-08**|**Q-Diffusion: Quantizing Diffusion Models**|Xiuyu Li et.al.|[2302.04304v2](http://arxiv.org/abs/2302.04304v2)|null|
 |**2023-02-08**|**PFGM++: Unlocking the Potential of Physics-Inspired Generative Models**|Yilun Xu et.al.|[2302.04265v1](http://arxiv.org/abs/2302.04265v1)|**[link](https://github.com/newbeeer/pfgmpp)**|
 |**2023-02-08**|**Simulation of CH$_3$OH ice UV photolysis under laboratory conditions**|W. R. M. Rocha et.al.|[2302.04239v1](http://arxiv.org/abs/2302.04239v1)|null|
 |**2023-02-08**|**GLAZE: Protecting Artists from Style Mimicry by Text-to-Image Models**|Shawn Shan et.al.|[2302.04222v2](http://arxiv.org/abs/2302.04222v2)|null|
@@ -142,7 +142,7 @@
 |**2023-02-09**|**IH-ViT: Vision Transformer-based Integrated Circuit Appear-ance Defect Detection**|Xiaoibin Wang et.al.|[2302.04521v1](http://arxiv.org/abs/2302.04521v1)|null|
 |**2023-02-08**|**Adapting Pre-trained Vision Transformers from 2D to 3D through Weight Inflation Improves Medical Image Segmentation**|Yuhui Zhang et.al.|[2302.04303v1](http://arxiv.org/abs/2302.04303v1)|**[link](https://github.com/yuhui-zh15/transseg)**|
 |**2023-02-08**|**Predicting Thrombectomy Recanalization from CT Imaging Using Deep Learning Models**|Haoyue Zhang et.al.|[2302.04143v1](http://arxiv.org/abs/2302.04143v1)|null|
-|**2023-02-08**|**Cross-Layer Retrospective Retrieving via Layer Attention**|Yanwen Fang et.al.|[2302.03985v2](http://arxiv.org/abs/2302.03985v2)|**[link](https://github.com/joyfang1106/mrla)**|
+|**2023-02-08**|**Cross-Layer Retrospective Retrieving via Layer Attention**|Yanwen Fang et.al.|[2302.03985v3](http://arxiv.org/abs/2302.03985v3)|**[link](https://github.com/joyfang1106/mrla)**|
 |**2023-02-08**|**SwinCross: Cross-modal Swin Transformer for Head-and-Neck Tumor Segmentation in PET/CT Images**|Gary Y. Li et.al.|[2302.03861v1](http://arxiv.org/abs/2302.03861v1)|null|
 |**2023-02-07**|**Understanding Why ViT Trains Badly on Small Datasets: An Intuitive Perspective**|Haoran Zhu et.al.|[2302.03751v1](http://arxiv.org/abs/2302.03751v1)|**[link](https://github.com/BoyuanJackChen/Visualize-Transformer-ResNet18)**|
 |**2023-02-07**|**Deep Class-Incremental Learning: A Survey**|Da-Wei Zhou et.al.|[2302.03648v1](http://arxiv.org/abs/2302.03648v1)|**[link](https://github.com/zhoudw-zdw/cil_survey)**|
