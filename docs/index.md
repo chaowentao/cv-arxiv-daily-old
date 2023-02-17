@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.02.16
+## Updated on 2023.02.17
 
 ## Image Generation
 
@@ -20,7 +20,7 @@ layout: default
 |**2023-02-10**|**Example-Based Sampling with Diffusion Models**|Bastien Doignies et.al.|[2302.05116v1](http://arxiv.org/abs/2302.05116v1)|null|
 |**2023-02-09**|**Robot Synesthesia: A Sound and Emotion Guided AI Painter**|Vihaan Misra et.al.|[2302.04850v1](http://arxiv.org/abs/2302.04850v1)|**[link](https://github.com/pschaldenbrand/Frida)**|
 |**2023-02-09**|**Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation**|Anton Voronov et.al.|[2302.04841v1](http://arxiv.org/abs/2302.04841v1)|**[link](https://github.com/yandex-research/dvar)**|
-|**2023-02-08**|**Geometry-Complete Diffusion for 3D Molecule Generation**|Alex Morehead et.al.|[2302.04313v1](http://arxiv.org/abs/2302.04313v1)|**[link](https://github.com/bioinfomachinelearning/bio-diffusion)**|
+|**2023-02-08**|**Geometry-Complete Diffusion for 3D Molecule Generation**|Alex Morehead et.al.|[2302.04313v2](http://arxiv.org/abs/2302.04313v2)|**[link](https://github.com/bioinfomachinelearning/bio-diffusion)**|
 |**2023-02-08**|**Mask Conditional Synthetic Satellite Imagery**|Van Anh Le et.al.|[2302.04305v1](http://arxiv.org/abs/2302.04305v1)|**[link](https://github.com/ms-synthetic-satellite-image/synthetic-satellite-imagery)**|
 |**2023-02-08**|**Q-Diffusion: Quantizing Diffusion Models**|Xiuyu Li et.al.|[2302.04304v2](http://arxiv.org/abs/2302.04304v2)|null|
 |**2023-02-08**|**Zero-shot Generation of Coherent Storybook from Plain Text Story using Diffusion Models**|Hyeonho Jeong et.al.|[2302.03900v1](http://arxiv.org/abs/2302.03900v1)|null|
