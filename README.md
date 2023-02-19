@@ -125,7 +125,7 @@
 |**2023-02-16**|**The most probable dynamics of receptor-ligand binding on cell membrane**|Xi Chen et.al.|[2302.08024v1](http://arxiv.org/abs/2302.08024v1)|null|
 |**2023-02-16**|**Local vs. translationally-invariant slowest operators in quantum Ising spin chains**|Ekaterina Izotova et.al.|[2302.07995v1](http://arxiv.org/abs/2302.07995v1)|null|
 |**2023-02-15**|**PRedItOR: Text Guided Image Editing with Diffusion Prior**|Hareesh Ravi et.al.|[2302.07979v1](http://arxiv.org/abs/2302.07979v1)|null|
-|**2023-02-15**|**$\mathrm{morphofit}$: an automated galaxy structural parameters fitting package**|Luca Tortorelli et.al.|[2302.07890v1](http://arxiv.org/abs/2302.07890v1)|null|
+|**2023-02-15**|**$\mathrm{morphofit}$: an automated galaxy structural parameters fitting package**|Luca Tortorelli et.al.|[2302.07890v1](http://arxiv.org/abs/2302.07890v1)|**[link](https://github.com/torluca/morphofit)**|
 |**2023-02-15**|**Dataset Interfaces: Diagnosing Model Failures Using Controllable Counterfactual Generation**|Joshua Vendrow et.al.|[2302.07865v1](http://arxiv.org/abs/2302.07865v1)|**[link](https://github.com/madrylab/dataset-interfaces)**|
 |**2023-02-15**|**Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild**|Hshmat Sahak et.al.|[2302.07864v1](http://arxiv.org/abs/2302.07864v1)|null|
 |**2023-02-15**|**Notes on Finite Element Discretization for a Model Convection-Diffusion Problem**|Constantin Bacuta et.al.|[2302.07809v1](http://arxiv.org/abs/2302.07809v1)|null|
@@ -138,7 +138,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-16**|**Efficiency 360: Efficient Vision Transformers**|Badri N. Patro et.al.|[2302.08374v1](http://arxiv.org/abs/2302.08374v1)|null|
+|**2023-02-16**|**Efficiency 360: Efficient Vision Transformers**|Badri N. Patro et.al.|[2302.08374v1](http://arxiv.org/abs/2302.08374v1)|**[link](https://github.com/badripatro/efficient360)**|
 |**2023-02-16**|**TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary One-Shot Image Generation**|Yunliang Jiang et.al.|[2302.08047v1](http://arxiv.org/abs/2302.08047v1)|null|
 |**2023-02-15**|**TFormer: A Transmission-Friendly ViT Model for IoT Devices**|Zhichao Lu et.al.|[2302.07734v1](http://arxiv.org/abs/2302.07734v1)|null|
 |**2023-02-14**|**Robust Representation Learning with Self-Distillation for Domain Generalization**|Ankur Singh et.al.|[2302.06874v1](http://arxiv.org/abs/2302.06874v1)|null|
