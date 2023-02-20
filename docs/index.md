@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.02.19
+## Updated on 2023.02.20
 
 ## Image Generation
 
@@ -142,7 +142,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-02-16**|**Efficiency 360: Efficient Vision Transformers**|Badri N. Patro et.al.|[2302.08374v1](http://arxiv.org/abs/2302.08374v1)|**[link](https://github.com/badripatro/efficient360)**|
+|**2023-02-16**|**Efficiency 360: Efficient Vision Transformers**|Badri N. Patro et.al.|[2302.08374v2](http://arxiv.org/abs/2302.08374v2)|**[link](https://github.com/badripatro/efficient360)**|
 |**2023-02-16**|**TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary One-Shot Image Generation**|Yunliang Jiang et.al.|[2302.08047v1](http://arxiv.org/abs/2302.08047v1)|null|
 |**2023-02-15**|**TFormer: A Transmission-Friendly ViT Model for IoT Devices**|Zhichao Lu et.al.|[2302.07734v1](http://arxiv.org/abs/2302.07734v1)|null|
 |**2023-02-14**|**Robust Representation Learning with Self-Distillation for Domain Generalization**|Ankur Singh et.al.|[2302.06874v1](http://arxiv.org/abs/2302.06874v1)|null|
@@ -212,7 +212,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-02-16**|**Kernelized Back-Projection Networksfor Blind Super Resolution**|Tomoki Yoshida et.al.|[2302.08478v1](http://arxiv.org/abs/2302.08478v1)|null|
+|**2023-02-16**|**Kernelized Back-Projection Networks for Blind Super Resolution**|Tomoki Yoshida et.al.|[2302.08478v2](http://arxiv.org/abs/2302.08478v2)|null|
 |**2023-02-16**|**Learning Non-Local Spatial-Angular Correlation for Light Field Image Super-Resolution**|Zhengyu Liang et.al.|[2302.08058v1](http://arxiv.org/abs/2302.08058v1)|**[link](https://github.com/zhengyuliang24/epit)**|
 |**2023-02-16**|**TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary One-Shot Image Generation**|Yunliang Jiang et.al.|[2302.08047v1](http://arxiv.org/abs/2302.08047v1)|null|
 |**2023-02-16**|**Continuous Remote Sensing Image Super-Resolution based on Context Interaction in Implicit Function Space**|Keyan Chen et.al.|[2302.08046v1](http://arxiv.org/abs/2302.08046v1)|**[link](https://github.com/KyanChen/FunSR)**|
@@ -247,7 +247,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-02-16**|**URCDC-Depth: Uncertainty Rectified Cross-Distillation with CutFlip for Monocular Depth Estimation**|Shuwei Shao et.al.|[2302.08149v1](http://arxiv.org/abs/2302.08149v1)|**[link](https://github.com/shuweishao/urcdc-depth)**|
+|**2023-02-16**|**URCDC-Depth: Uncertainty Rectified Cross-Distillation with CutFlip for Monocular Depth Estimation**|Shuwei Shao et.al.|[2302.08149v2](http://arxiv.org/abs/2302.08149v2)|**[link](https://github.com/shuweishao/urcdc-depth)**|
 |**2023-02-16**|**Spectral 3D Computer Vision -- A Review**|Yajie Sun et.al.|[2302.08054v1](http://arxiv.org/abs/2302.08054v1)|null|
 |**2023-02-08**|**SkyEye: Self-Supervised Bird's-Eye-View Semantic Mapping Using Monocular Frontal View Images**|Nikhil Gosala et.al.|[2302.04233v1](http://arxiv.org/abs/2302.04233v1)|null|
 |**2023-02-08**|**EVEN: An Event-Based Framework for Monocular Depth Estimation at Adverse Night Conditions**|Peilun Shi et.al.|[2302.03860v1](http://arxiv.org/abs/2302.03860v1)|null|
