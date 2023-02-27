@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.02.26
+## Updated on 2023.02.27
 
 ## Image Generation
 
@@ -161,7 +161,7 @@ layout: default
 |**2023-02-18**|**Meta Style Adversarial Training for Cross-Domain Few-Shot Learning**|Yuqian Fu et.al.|[2302.09309v1](http://arxiv.org/abs/2302.09309v1)|null|
 |**2023-02-17**|**ViTA: A Vision Transformer Inference Accelerator for Edge Applications**|Shashank Nag et.al.|[2302.09108v1](http://arxiv.org/abs/2302.09108v1)|null|
 |**2023-02-17**|**MCAE: Masked Contrastive Autoencoder for Face Anti-Spoofing**|Tianyi Zheng et.al.|[2302.08674v1](http://arxiv.org/abs/2302.08674v1)|null|
-|**2023-02-16**|**Efficiency 360: Efficient Vision Transformers**|Badri N. Patro et.al.|[2302.08374v2](http://arxiv.org/abs/2302.08374v2)|**[link](https://github.com/badripatro/efficient360)**|
+|**2023-02-16**|**Efficiency 360: Efficient Vision Transformers**|Badri N. Patro et.al.|[2302.08374v3](http://arxiv.org/abs/2302.08374v3)|**[link](https://github.com/badripatro/efficient360)**|
 |**2023-02-16**|**TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary One-Shot Image Generation**|Yunliang Jiang et.al.|[2302.08047v1](http://arxiv.org/abs/2302.08047v1)|null|
 |**2023-02-15**|**TFormer: A Transmission-Friendly ViT Model for IoT Devices**|Zhichao Lu et.al.|[2302.07734v1](http://arxiv.org/abs/2302.07734v1)|null|
 |**2023-02-14**|**Robust Representation Learning with Self-Distillation for Domain Generalization**|Ankur Singh et.al.|[2302.06874v1](http://arxiv.org/abs/2302.06874v1)|null|
@@ -177,7 +177,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-02-23**|**Learning Neural Volumetric Representations of Dynamic Humans in Minutes**|Chen Geng et.al.|[2302.12237v1](http://arxiv.org/abs/2302.12237v1)|null|
+|**2023-02-23**|**Learning Neural Volumetric Representations of Dynamic Humans in Minutes**|Chen Geng et.al.|[2302.12237v2](http://arxiv.org/abs/2302.12237v2)|null|
 |**2023-02-23**|**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**|Jamie Wynn et.al.|[2302.12231v1](http://arxiv.org/abs/2302.12231v1)|null|
 |**2023-02-20**|**NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion**|Jiatao Gu et.al.|[2302.10109v1](http://arxiv.org/abs/2302.10109v1)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486v1](http://arxiv.org/abs/2302.09486v1)|null|
