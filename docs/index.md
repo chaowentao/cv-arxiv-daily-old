@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.02.28
+## Updated on 2023.03.01
 
 ## Image Generation
 
@@ -206,7 +206,7 @@ layout: default
 |**2023-01-22**|**3D Reconstruction of Non-cooperative Resident Space Objects using Instant NGP-accelerated NeRF and D-NeRF**|Trupti Mahendrakar et.al.|[2301.09060v2](http://arxiv.org/abs/2301.09060v2)|null|
 |**2023-01-18**|**NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis**|Allan Zhou et.al.|[2301.08556v1](http://arxiv.org/abs/2301.08556v1)|null|
 |**2023-01-19**|**RecolorNeRF: Layer Decomposed Radiance Fields for Efficient Color Editing of 3D Scenes**|Bingchen Gong et.al.|[2301.07958v2](http://arxiv.org/abs/2301.07958v2)|null|
-|**2023-01-18**|**Behind the Scenes: Density Fields for Single View Reconstruction**|Felix Wimbauer et.al.|[2301.07668v1](http://arxiv.org/abs/2301.07668v1)|null|
+|**2023-01-18**|**Behind the Scenes: Density Fields for Single View Reconstruction**|Felix Wimbauer et.al.|[2301.07668v2](http://arxiv.org/abs/2301.07668v2)|**[link](https://github.com/Brummi/BehindTheScenes)**|
 
 ## Super Resolution
 
@@ -299,7 +299,7 @@ layout: default
 |**2023-01-20**|**Novel-View Acoustic Synthesis**|Changan Chen et.al.|[2301.08730v2](http://arxiv.org/abs/2301.08730v2)|null|
 |**2023-01-18**|**NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis**|Allan Zhou et.al.|[2301.08556v1](http://arxiv.org/abs/2301.08556v1)|null|
 |**2023-01-19**|**SoftEnNet: Symbiotic Monocular Depth Estimation and Lumen Segmentation for Colonoscopy Endorobots**|Alwyn Mathew et.al.|[2301.08157v1](http://arxiv.org/abs/2301.08157v1)|null|
-|**2023-01-18**|**Behind the Scenes: Density Fields for Single View Reconstruction**|Felix Wimbauer et.al.|[2301.07668v1](http://arxiv.org/abs/2301.07668v1)|null|
+|**2023-01-18**|**Behind the Scenes: Density Fields for Single View Reconstruction**|Felix Wimbauer et.al.|[2301.07668v2](http://arxiv.org/abs/2301.07668v2)|**[link](https://github.com/Brummi/BehindTheScenes)**|
 |**2023-01-18**|**OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation**|Tong Wu et.al.|[2301.07525v1](http://arxiv.org/abs/2301.07525v1)|null|
 |**2023-01-17**|**A Large-Scale Outdoor Multi-modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction**|Chongshan Lu et.al.|[2301.06782v1](http://arxiv.org/abs/2301.06782v1)|null|
 |**2023-01-13**|**Laser: Latent Set Representations for 3D Generative Modeling**|Pol Moreno et.al.|[2301.05747v1](http://arxiv.org/abs/2301.05747v1)|null|
