@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.01
+## Updated on 2023.03.02
 
 ## Image Generation
 
@@ -160,7 +160,7 @@ layout: default
 |**2023-02-22**|**Human MotionFormer: Transferring Human Motions with Vision Transformers**|Hongyu Liu et.al.|[2302.11306v2](http://arxiv.org/abs/2302.11306v2)|null|
 |**2023-02-22**|**A residual dense vision transformer for medical image super-resolution with segmentation-based perceptual loss fine-tuning**|Jin Zhu et.al.|[2302.11184v1](http://arxiv.org/abs/2302.11184v1)|null|
 |**2023-02-22**|**Deep Active Learning in the Presence of Label Noise: A Survey**|Moseli Mots'oehli et.al.|[2302.11075v1](http://arxiv.org/abs/2302.11075v1)|null|
-|**2023-02-21**|**SF2Former: Amyotrophic Lateral Sclerosis Identification From Multi-center MRI Data Using Spatial and Frequency Fusion Transformer**|Rafsanjany Kushol et.al.|[2302.10859v1](http://arxiv.org/abs/2302.10859v1)|**[link](https://github.com/raoyongming/GFNet)**|
+|**2023-02-21**|**SF2Former: Amyotrophic Lateral Sclerosis Identification From Multi-center MRI Data Using Spatial and Frequency Fusion Transformer**|Rafsanjany Kushol et.al.|[2302.10859v2](http://arxiv.org/abs/2302.10859v2)|**[link](https://github.com/raoyongming/GFNet)**|
 |**2023-02-21**|**Bokeh Rendering Based on Adaptive Depth Calibration Network**|Lu Liu et.al.|[2302.10808v1](http://arxiv.org/abs/2302.10808v1)|null|
 |**2023-02-21**|**MaskedKD: Efficient Distillation of Vision Transformers with Masked Images**|Seungwoo Son et.al.|[2302.10494v1](http://arxiv.org/abs/2302.10494v1)|null|
 |**2023-02-21**|**ApproxABFT: Approximate Algorithm-Based Fault Tolerance for Vision Transformers**|Xinghua Xue et.al.|[2302.10469v1](http://arxiv.org/abs/2302.10469v1)|null|
