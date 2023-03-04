@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.03
+## Updated on 2023.03.04
 
 ## Image Generation
 
@@ -147,7 +147,7 @@ layout: default
 |**2023-03-02**|**Visual Atoms: Pre-training Vision Transformers with Sinusoidal Waves**|Sora Takashima et.al.|[2303.01112v1](http://arxiv.org/abs/2303.01112v1)|null|
 |**2023-03-02**|**Learning to Grow Pretrained Models for Efficient Transformer Training**|Peihao Wang et.al.|[2303.00980v1](http://arxiv.org/abs/2303.00980v1)|null|
 |**2023-03-02**|**Enhancing General Face Forgery Detection via Vision Transformer with Low-Rank Adaptation**|Chenqi Kong et.al.|[2303.00917v1](http://arxiv.org/abs/2303.00917v1)|null|
-|**2023-03-01**|**AMIGO: Sparse Multi-Modal Graph Transformer with Shared-Context Processing for Representation Learning of Giga-pixel Images**|Ramin Nakhli et.al.|[2303.00865v1](http://arxiv.org/abs/2303.00865v1)|null|
+|**2023-03-01**|**AMIGO: Sparse Multi-Modal Graph Transformer with Shared-Context Processing for Representation Learning of Giga-pixel Images**|Ramin Nakhli et.al.|[2303.00865v1](http://arxiv.org/abs/2303.00865v1)|**[link](https://github.com/raminnakhli/amigo)**|
 |**2023-02-28**|**Generic-to-Specific Distillation of Masked Autoencoders**|Wei Huang et.al.|[2302.14771v1](http://arxiv.org/abs/2302.14771v1)|**[link](https://github.com/pengzhiliang/g2sd)**|
 |**2023-02-28**|**Mask3D: Pre-training 2D Vision Transformers by Learning Masked 3D Priors**|Ji Hou et.al.|[2302.14746v1](http://arxiv.org/abs/2302.14746v1)|null|
 |**2023-02-28**|**DC-Former: Diverse and Compact Transformer for Person Re-Identification**|Wen Li et.al.|[2302.14335v1](http://arxiv.org/abs/2302.14335v1)|**[link](https://github.com/ant-research/Diverse-and-Compact-Transformer)**|
