@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.08
+## Updated on 2023.03.09
 
 ## Image Generation
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-05**|**How to Construct Energy for Images? Denoising Autoencoder Can Be Energy Based Model**|Weili Zeng et.al.|[2303.03887v1](http://arxiv.org/abs/2303.03887v1)|null|
 |**2023-03-07**|**Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding**|Jiacheng Li et.al.|[2303.03800v1](http://arxiv.org/abs/2303.03800v1)|null|
-|**2023-03-07**|**Zeroth-Order Optimization Meets Human Feedback: Provable Learning via Ranking Oracles**|Zhiwei Tang et.al.|[2303.03751v1](http://arxiv.org/abs/2303.03751v1)|null|
+|**2023-03-07**|**Zeroth-Order Optimization Meets Human Feedback: Provable Learning via Ranking Oracles**|Zhiwei Tang et.al.|[2303.03751v1](http://arxiv.org/abs/2303.03751v1)|**[link](https://github.com/TZW1998/Taming-Stable-Diffusion-with-Human-Ranking-Feedback)**|
 |**2023-03-06**|**Neural Style Transfer for Vector Graphics**|Valeria Efimova et.al.|[2303.03405v1](http://arxiv.org/abs/2303.03405v1)|null|
 |**2023-03-06**|**LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics using Large Language Models**|Victor Dibia et.al.|[2303.02927v1](http://arxiv.org/abs/2303.02927v1)|null|
 |**2023-03-06**|**MotionVideoGAN: A Novel Video Generator Based on the Motion Space Learned from Image Pairs**|Jingyuan Zhu et.al.|[2303.02906v1](http://arxiv.org/abs/2303.02906v1)|**[link](https://github.com/bbzhu-jy16/motionvideogan)**|
@@ -111,7 +111,7 @@ layout: default
 |**2023-03-07**|**Lyapunov exponents and invariant manifolds for linear stochastic partial functional differential equations**|Wenjie Hu et.al.|[2303.04102v1](http://arxiv.org/abs/2303.04102v1)|null|
 |**2023-03-07**|**Topological dimensions of attractors for partial functional differential equations in Banach spaces**|Wenjie Hu et.al.|[2303.04094v1](http://arxiv.org/abs/2303.04094v1)|null|
 |**2023-03-07**|**Macroscopic DNA-programmed photonic crystals via seeded growth**|Alexander Hensley et.al.|[2303.04074v1](http://arxiv.org/abs/2303.04074v1)|null|
-|**2023-03-07**|**Diffusion of light in turbid media and Kubelka-Munk theory**|Walter Schirmacher et.al.|[2303.04065v1](http://arxiv.org/abs/2303.04065v1)|null|
+|**2023-03-07**|**Diffusion of light in turbid media and Kubelka-Munk theory**|Walter Schirmacher et.al.|[2303.04065v2](http://arxiv.org/abs/2303.04065v2)|null|
 |**2023-03-07**|**Topological dimensions of global attractors for a delayed reaction-diffusion equation on an unbounded domain**|Wenjie Hu et.al.|[2303.04058v1](http://arxiv.org/abs/2303.04058v1)|null|
 |**2023-03-07**|**Catalog of Ultraviolet Bright Stars (CUBS): Strategies for UV occultation measurements, planetary illumination modeling, and sky map analyses using hybrid IUE-Kurucz spectra**|M. A. Velez et.al.|[2303.04043v1](http://arxiv.org/abs/2303.04043v1)|null|
 |**2023-03-07**|**Magnon currents excited by the spin Seebeck effect in ferromagnetic EuS thin films**|M. Xochitl Aguilar-Pujol et.al.|[2303.03833v1](http://arxiv.org/abs/2303.03833v1)|null|
@@ -121,7 +121,7 @@ layout: default
 |**2023-03-07**|**A semi-implicit finite volume method for the Exner model of sediment transport**|S. Avgerinos et.al.|[2303.03801v1](http://arxiv.org/abs/2303.03801v1)|null|
 |**2023-03-07**|**Patched Diffusion Models for Unsupervised Anomaly Detection in Brain MRI**|Finn Behrendt et.al.|[2303.03758v1](http://arxiv.org/abs/2303.03758v1)|null|
 |**2023-03-07**|**DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer**|Elad Levi et.al.|[2303.03755v1](http://arxiv.org/abs/2303.03755v1)|null|
-|**2023-03-07**|**Zeroth-Order Optimization Meets Human Feedback: Provable Learning via Ranking Oracles**|Zhiwei Tang et.al.|[2303.03751v1](http://arxiv.org/abs/2303.03751v1)|null|
+|**2023-03-07**|**Zeroth-Order Optimization Meets Human Feedback: Provable Learning via Ranking Oracles**|Zhiwei Tang et.al.|[2303.03751v1](http://arxiv.org/abs/2303.03751v1)|**[link](https://github.com/TZW1998/Taming-Stable-Diffusion-with-Human-Ranking-Feedback)**|
 |**2023-03-07**|**Stacking disorder and thermal transport properties of $α$-RuCl$_3$**|Heda Zhang et.al.|[2303.03682v1](http://arxiv.org/abs/2303.03682v1)|null|
 |**2023-03-07**|**Multilevel Monte Carlo methods for stochastic convection-diffusion eigenvalue problems**|Tiangang Cui et.al.|[2303.03673v1](http://arxiv.org/abs/2303.03673v1)|null|
 |**2023-03-07**|**Rate of accelerated expansion of the epidemic region in a nonlocal epidemic model with free boundaries**|Yihong Du et.al.|[2303.03662v1](http://arxiv.org/abs/2303.03662v1)|null|
