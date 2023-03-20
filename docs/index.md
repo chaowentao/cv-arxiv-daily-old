@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.19
+## Updated on 2023.03.20
 
 ## Image Generation
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-16**|**Efficient Diffusion Training via Min-SNR Weighting Strategy**|Tiankai Hang et.al.|[2303.09556v1](http://arxiv.org/abs/2303.09556v1)|null|
 |**2023-03-16**|**Diffusion-HPC: Generating Synthetic Images with Realistic Humans**|Zhenzhen Weng et.al.|[2303.09541v1](http://arxiv.org/abs/2303.09541v1)|**[link](https://github.com/zzweng/diffusion_hpc)**|
-|**2023-03-16**|**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**|Chenyang Qi et.al.|[2303.09535v1](http://arxiv.org/abs/2303.09535v1)|**[link](https://github.com/chenyangqiqi/fatezero)**|
+|**2023-03-16**|**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**|Chenyang Qi et.al.|[2303.09535v2](http://arxiv.org/abs/2303.09535v2)|**[link](https://github.com/chenyangqiqi/fatezero)**|
 |**2023-03-16**|**$P+$: Extended Textual Conditioning in Text-to-Image Generation**|Andrey Voynov et.al.|[2303.09522v1](http://arxiv.org/abs/2303.09522v1)|null|
 |**2023-03-16**|**Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation**|Yiyang Ma et.al.|[2303.09319v1](http://arxiv.org/abs/2303.09319v1)|null|
 |**2023-03-16**|**DIRE for Diffusion-Generated Image Detection**|Zhendong Wang et.al.|[2303.09295v1](http://arxiv.org/abs/2303.09295v1)|**[link](https://github.com/zhendongwang6/dire)**|
@@ -110,14 +110,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-16**|**Efficient Diffusion Training via Min-SNR Weighting Strategy**|Tiankai Hang et.al.|[2303.09556v1](http://arxiv.org/abs/2303.09556v1)|null|
 |**2023-03-16**|**Diffusion-HPC: Generating Synthetic Images with Realistic Humans**|Zhenzhen Weng et.al.|[2303.09541v1](http://arxiv.org/abs/2303.09541v1)|**[link](https://github.com/zzweng/diffusion_hpc)**|
-|**2023-03-16**|**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**|Chenyang Qi et.al.|[2303.09535v1](http://arxiv.org/abs/2303.09535v1)|**[link](https://github.com/chenyangqiqi/fatezero)**|
+|**2023-03-16**|**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing**|Chenyang Qi et.al.|[2303.09535v2](http://arxiv.org/abs/2303.09535v2)|**[link](https://github.com/chenyangqiqi/fatezero)**|
 |**2023-03-16**|**$P+$: Extended Textual Conditioning in Text-to-Image Generation**|Andrey Voynov et.al.|[2303.09522v1](http://arxiv.org/abs/2303.09522v1)|null|
 |**2023-03-16**|**LDMVFI: Video Frame Interpolation with Latent Diffusion Models**|Duolikun Danier et.al.|[2303.09508v1](http://arxiv.org/abs/2303.09508v1)|null|
 |**2023-03-16**|**Nontrivial absolutely continuous part of anomalous dissipation measures in time**|Carl Johan Peter Johansson et.al.|[2303.09486v1](http://arxiv.org/abs/2303.09486v1)|null|
 |**2023-03-16**|**DiffIR: Efficient Diffusion Model for Image Restoration**|Bin Xia et.al.|[2303.09472v1](http://arxiv.org/abs/2303.09472v1)|null|
 |**2023-03-16**|**Diffusion-Shock Inpainting**|Kristina Schaefer et.al.|[2303.09450v1](http://arxiv.org/abs/2303.09450v1)|null|
 |**2023-03-16**|**Unwrapping NPT simulations to calculate diffusion coefficients**|Jakob Tómas Bullerjahn et.al.|[2303.09418v1](http://arxiv.org/abs/2303.09418v1)|null|
-|**2023-03-16**|**DINAR: Diffusion Inpainting of Neural Textures for One-Shot Human Avatars**|David Svitov et.al.|[2303.09375v1](http://arxiv.org/abs/2303.09375v1)|null|
+|**2023-03-16**|**DINAR: Diffusion Inpainting of Neural Textures for One-Shot Human Avatars**|David Svitov et.al.|[2303.09375v2](http://arxiv.org/abs/2303.09375v2)|null|
 |**2023-03-16**|**Large deviations for the Pearson family of ergodic diffusion processes involving a quadratic diffusion coefficient and a linear force**|Cecile Monthus et.al.|[2303.09348v1](http://arxiv.org/abs/2303.09348v1)|null|
 |**2023-03-16**|**Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation**|Yiyang Ma et.al.|[2303.09319v1](http://arxiv.org/abs/2303.09319v1)|null|
 |**2023-03-16**|**DIRE for Diffusion-Generated Image Detection**|Zhendong Wang et.al.|[2303.09295v1](http://arxiv.org/abs/2303.09295v1)|**[link](https://github.com/zhendongwang6/dire)**|
@@ -129,7 +129,7 @@ layout: default
 |**2023-03-16**|**Robust Evaluation of Diffusion-Based Adversarial Purification**|Minjong Lee et.al.|[2303.09051v1](http://arxiv.org/abs/2303.09051v1)|null|
 |**2023-03-15**|**High order spatial discretization for variational time implicit schemes: Wasserstein gradient flows and reaction-diffusion systems**|Guosheng Fu et.al.|[2303.08950v1](http://arxiv.org/abs/2303.08950v1)|null|
 |**2023-03-15**|**EgoViT: Pyramid Video Transformer for Egocentric Action Recognition**|Chenbin Pan et.al.|[2303.08920v1](http://arxiv.org/abs/2303.08920v1)|null|
-|**2023-03-15**|**Stochastic Segmentation with Conditional Categorical Diffusion Models**|Lukas Zbinden et.al.|[2303.08888v1](http://arxiv.org/abs/2303.08888v1)|**[link](https://github.com/larsdoorenbos/ccdm-stochastic-segmentation)**|
+|**2023-03-15**|**Stochastic Segmentation with Conditional Categorical Diffusion Models**|Lukas Zbinden et.al.|[2303.08888v2](http://arxiv.org/abs/2303.08888v2)|**[link](https://github.com/larsdoorenbos/ccdm-stochastic-segmentation)**|
 |**2023-03-15**|**A Two-level GPU-Accelerated Incomplete LU Preconditioner for General Sparse Linear Systems**|Tianshi Xu et.al.|[2303.08881v1](http://arxiv.org/abs/2303.08881v1)|null|
 |**2023-03-15**|**Class-Guided Image-to-Image Diffusion: Cell Painting from Brightfield Images with Class Labels**|Jan Oscar Cross-Zamirski et.al.|[2303.08863v1](http://arxiv.org/abs/2303.08863v1)|null|
 |**2023-03-15**|**Squeezed ensembles and anomalous dynamic roughening in interacting integrable chains**|Guillaume Cecile et.al.|[2303.08832v1](http://arxiv.org/abs/2303.08832v1)|null|
@@ -181,7 +181,7 @@ layout: default
 |**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v1](http://arxiv.org/abs/2303.09554v1)|null|
 |**2023-03-16**|**LERF: Language Embedded Radiance Fields**|Justin Kerr et.al.|[2303.09553v1](http://arxiv.org/abs/2303.09553v1)|null|
 |**2023-03-16**|**NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes**|Marie-Julie Rakotosaona et.al.|[2303.09431v1](http://arxiv.org/abs/2303.09431v1)|null|
-|**2023-03-16**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412v1](http://arxiv.org/abs/2303.09412v1)|**[link](https://github.com/hannahhaensen/nerftrinsic_four)**|
+|**2023-03-16**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412v2](http://arxiv.org/abs/2303.09412v2)|**[link](https://github.com/hannahhaensen/nerftrinsic_four)**|
 |**2023-03-16**|**Reliable Image Dehazing by NeRF**|Zheyan Jin et.al.|[2303.09153v1](http://arxiv.org/abs/2303.09153v1)|null|
 |**2023-03-15**|**Mesh Strikes Back: Fast and Efficient Human Reconstruction from RGB videos**|Rohit Jena et.al.|[2303.08808v1](http://arxiv.org/abs/2303.08808v1)|null|
 |**2023-03-15**|**Re-ReND: Real-time Rendering of NeRFs across Devices**|Sara Rojas et.al.|[2303.08717v1](http://arxiv.org/abs/2303.08717v1)|null|
@@ -284,7 +284,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-16**|**NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes**|Marie-Julie Rakotosaona et.al.|[2303.09431v1](http://arxiv.org/abs/2303.09431v1)|null|
-|**2023-03-16**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412v1](http://arxiv.org/abs/2303.09412v1)|**[link](https://github.com/hannahhaensen/nerftrinsic_four)**|
+|**2023-03-16**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412v2](http://arxiv.org/abs/2303.09412v2)|**[link](https://github.com/hannahhaensen/nerftrinsic_four)**|
 |**2023-03-15**|**Mesh Strikes Back: Fast and Efficient Human Reconstruction from RGB videos**|Rohit Jena et.al.|[2303.08808v1](http://arxiv.org/abs/2303.08808v1)|null|
 |**2023-03-15**|**RefiNeRF: Modelling dynamic neural radiance fields with inconsistent or missing camera parameters**|Shuja Khalid et.al.|[2303.08695v1](http://arxiv.org/abs/2303.08695v1)|null|
 |**2023-03-15**|**Harnessing Low-Frequency Neural Fields for Few-Shot View Synthesis**|Liangchen Song et.al.|[2303.08370v1](http://arxiv.org/abs/2303.08370v1)|**[link](https://github.com/lsongx/halo)**|
