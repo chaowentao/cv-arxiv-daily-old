@@ -1,4 +1,4 @@
-## Updated on 2023.03.21
+## Updated on 2023.03.22
 
 ## Image Generation
 
@@ -104,7 +104,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|null|
+|**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|**[link](https://github.com/cvlab-columbia/zero123)**|
 |**2023-03-20**|**Localizing Object-level Shape Variations with Text-to-Image Diffusion Models**|Or Patashnik et.al.|[2303.11306v1](http://arxiv.org/abs/2303.11306v1)|null|
 |**2023-03-20**|**SVDiff: Compact Parameter Space for Diffusion Fine-Tuning**|Ligong Han et.al.|[2303.11305v1](http://arxiv.org/abs/2303.11305v1)|null|
 |**2023-03-20**|**Fluid-Glass-Jamming Rheology of Soft Active Brownian Particles**|Roland Wiese et.al.|[2303.11245v1](http://arxiv.org/abs/2303.11245v1)|null|
@@ -146,7 +146,7 @@
 |**2023-03-16**|**Rehearsal-Free Domain Continual Face Anti-Spoofing: Generalize More and Forget Less**|Rizhao Cai et.al.|[2303.09914v1](http://arxiv.org/abs/2303.09914v1)|null|
 |**2023-03-17**|**Dual-path Adaptation from Image to Video Transformers**|Jungin Park et.al.|[2303.09857v1](http://arxiv.org/abs/2303.09857v1)|**[link](https://github.com/park-jungin/dualpath)**|
 |**2023-03-17**|**Denoising Diffusion Autoencoders are Unified Self-supervised Learners**|Weilai Xiang et.al.|[2303.09769v1](http://arxiv.org/abs/2303.09769v1)|null|
-|**2023-03-17**|**ElasticViT: Conflict-aware Supernet Training for Deploying Fast Vision Transformer on Diverse Mobile Devices**|Chen Tang et.al.|[2303.09730v1](http://arxiv.org/abs/2303.09730v1)|null|
+|**2023-03-17**|**ElasticViT: Conflict-aware Supernet Training for Deploying Fast Vision Transformer on Diverse Mobile Devices**|Chen Tang et.al.|[2303.09730v2](http://arxiv.org/abs/2303.09730v2)|null|
 |**2023-03-15**|**ViTO: Vision Transformer-Operator**|Oded Ovadia et.al.|[2303.08891v1](http://arxiv.org/abs/2303.08891v1)|null|
 |**2023-03-15**|**DeepMIM: Deep Supervision for Masked Image Modeling**|Sucheng Ren et.al.|[2303.08817v2](http://arxiv.org/abs/2303.08817v2)|**[link](https://github.com/oliverrensu/deepmim)**|
 |**2023-03-15**|**BiFormer: Vision Transformer with Bi-Level Routing Attention**|Lei Zhu et.al.|[2303.08810v1](http://arxiv.org/abs/2303.08810v1)|**[link](https://github.com/rayleizhu/biformer)**|
@@ -158,7 +158,7 @@
 |**2023-03-14**|**OVRL-V2: A simple state-of-art baseline for ImageNav and ObjectNav**|Karmesh Yadav et.al.|[2303.07798v1](http://arxiv.org/abs/2303.07798v1)|null|
 |**2023-03-14**|**CAT: Causal Audio Transformer for Audio Classification**|Xiaoyu Liu et.al.|[2303.07626v1](http://arxiv.org/abs/2303.07626v1)|null|
 |**2023-03-14**|**AdPE: Adversarial Positional Embeddings for Pretraining Vision Transformers via MAE+**|Xiao Wang et.al.|[2303.07598v1](http://arxiv.org/abs/2303.07598v1)|**[link](https://github.com/maple-research-lab/AdPE)**|
-|**2023-03-14**|**WDiscOOD: Out-of-Distribution Detection via Whitened Linear Discriminative Analysis**|Yiye Chen et.al.|[2303.07543v1](http://arxiv.org/abs/2303.07543v1)|null|
+|**2023-03-14**|**WDiscOOD: Out-of-Distribution Detection via Whitened Linear Discriminative Analysis**|Yiye Chen et.al.|[2303.07543v2](http://arxiv.org/abs/2303.07543v2)|null|
 |**2023-03-13**|**Pretrained ViTs Yield Versatile Representations For Medical Images**|Christos Matsoukas et.al.|[2303.07034v2](http://arxiv.org/abs/2303.07034v2)|**[link](https://github.com/chrismats/medical_transformers)**|
 |**2023-03-13**|**CrossFormer++: A Versatile Vision Transformer Hinging on Cross-scale Attention**|Wenxiao Wang et.al.|[2303.06908v1](http://arxiv.org/abs/2303.06908v1)|**[link](https://github.com/cheerss/CrossFormer)**|
 |**2023-03-13**|**ST360IQ: No-Reference Omnidirectional Image Quality Assessment with Spherical Vision Transformers**|Nafiseh Jabbari Tofighi et.al.|[2303.06907v1](http://arxiv.org/abs/2303.06907v1)|**[link](https://github.com/nafiseh-tofighi/st360iq)**|
@@ -180,7 +180,7 @@
 |**2023-03-18**|**3D Data Augmentation for Driving Scenes on Camera**|Wenwen Tong et.al.|[2303.10340v1](http://arxiv.org/abs/2303.10340v1)|null|
 |**2023-03-17**|**$α$Surf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity**|Tianhao Wu et.al.|[2303.10083v1](http://arxiv.org/abs/2303.10083v1)|null|
 |**2023-03-17**|**Single-view Neural Radiance Fields with Depth Teacher**|Yurui Chen et.al.|[2303.09952v1](http://arxiv.org/abs/2303.09952v1)|null|
-|**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v2](http://arxiv.org/abs/2303.09554v2)|null|
+|**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v3](http://arxiv.org/abs/2303.09554v3)|null|
 |**2023-03-16**|**LERF: Language Embedded Radiance Fields**|Justin Kerr et.al.|[2303.09553v1](http://arxiv.org/abs/2303.09553v1)|null|
 |**2023-03-16**|**NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes**|Marie-Julie Rakotosaona et.al.|[2303.09431v1](http://arxiv.org/abs/2303.09431v1)|null|
 |**2023-03-16**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412v2](http://arxiv.org/abs/2303.09412v2)|**[link](https://github.com/hannahhaensen/nerftrinsic_four)**|
@@ -279,7 +279,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|null|
+|**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|**[link](https://github.com/cvlab-columbia/zero123)**|
 |**2023-03-20**|**ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-real Novel View Synthesis via Contrastive Learning**|Hao Yang et.al.|[2303.11052v1](http://arxiv.org/abs/2303.11052v1)|null|
 |**2023-03-17**|**Single-view Neural Radiance Fields with Depth Teacher**|Yurui Chen et.al.|[2303.09952v1](http://arxiv.org/abs/2303.09952v1)|null|
 |**2023-03-16**|**NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes**|Marie-Julie Rakotosaona et.al.|[2303.09431v1](http://arxiv.org/abs/2303.09431v1)|null|
