@@ -127,7 +127,7 @@ layout: default
 |**2023-03-23**|**Brownian yet non-Gaussian diffusion of a light particle in heavy gas: Lorentz gas based analysis**|Fumiaki Nakai et.al.|[2303.13119v1](http://arxiv.org/abs/2303.13119v1)|null|
 |**2023-03-23**|**Non-Hermitian scattering symmetry revealed by diffusive channels**|Dong Wang et.al.|[2303.13104v1](http://arxiv.org/abs/2303.13104v1)|null|
 |**2023-03-23**|**DiffPattern: Layout Pattern Generation via Discrete Diffusion**|Zixiao Wang et.al.|[2303.13060v1](http://arxiv.org/abs/2303.13060v1)|null|
-|**2023-03-23**|**Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks**|Hongyang Du et.al.|[2303.13052v1](http://arxiv.org/abs/2303.13052v1)|null|
+|**2023-03-23**|**Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks**|Hongyang Du et.al.|[2303.13052v1](http://arxiv.org/abs/2303.13052v1)|**[link](https://github.com/lizonghang/agod)**|
 |**2023-03-23**|**Thermodynamic bounds on correlation times**|Andreas Dechant et.al.|[2303.13038v1](http://arxiv.org/abs/2303.13038v1)|null|
 |**2023-03-23**|**High-Energy Neutrino Fluxes from Hard-TeV BL Lacs**|E. Aguilar-Ruiz et.al.|[2303.13025v1](http://arxiv.org/abs/2303.13025v1)|null|
 |**2023-03-23**|**Green's Function and Pointwise Behaviors of the One-Dimensional modified Vlasov-Poisson-Boltzmann System**|Yanchao Li et.al.|[2303.13021v1](http://arxiv.org/abs/2303.13021v1)|null|
