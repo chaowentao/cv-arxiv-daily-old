@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.26
+## Updated on 2023.03.27
 
 ## Image Generation
 
@@ -144,9 +144,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-23**|**Patch-Mix Transformer for Unsupervised Domain Adaptation: A Game Perspective**|Jinjing Zhu et.al.|[2303.13434v1](http://arxiv.org/abs/2303.13434v1)|null|
-|**2023-03-23**|**A Permutable Hybrid Network for Volumetric Medical Image Segmentation**|Yi Lin et.al.|[2303.13111v1](http://arxiv.org/abs/2303.13111v1)|null|
+|**2023-03-23**|**A Permutable Hybrid Network for Volumetric Medical Image Segmentation**|Yi Lin et.al.|[2303.13111v2](http://arxiv.org/abs/2303.13111v2)|null|
 |**2023-03-23**|**MMFormer: Multimodal Transformer Using Multiscale Self-Attention for Remote Sensing Image Classification**|Bo Zhang et.al.|[2303.13101v1](http://arxiv.org/abs/2303.13101v1)|null|
-|**2023-03-23**|**Top-Down Visual Attention from Analysis by Synthesis**|Baifeng Shi et.al.|[2303.13043v1](http://arxiv.org/abs/2303.13043v1)|null|
+|**2023-03-23**|**Top-Down Visual Attention from Analysis by Synthesis**|Baifeng Shi et.al.|[2303.13043v2](http://arxiv.org/abs/2303.13043v2)|null|
 |**2023-03-23**|**MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer**|Yunsong Zhou et.al.|[2303.13018v1](http://arxiv.org/abs/2303.13018v1)|null|
 |**2023-03-22**|**TRON: Transformer Neural Network Acceleration with Non-Coherent Silicon Photonics**|Salma Afifi et.al.|[2303.12914v1](http://arxiv.org/abs/2303.12914v1)|null|
 |**2023-03-17**|**Pedestrain detection for low-light vision proposal**|Zhipeng Chang et.al.|[2303.12725v1](http://arxiv.org/abs/2303.12725v1)|null|
@@ -188,7 +188,7 @@ layout: default
 |**2023-03-22**|**SHERF: Generalizable Human NeRF from a Single Image**|Shoukang Hu et.al.|[2303.12791v1](http://arxiv.org/abs/2303.12791v1)|**[link](https://github.com/skhu101/sherf)**|
 |**2023-03-22**|**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**|Ayaan Haque et.al.|[2303.12789v1](http://arxiv.org/abs/2303.12789v1)|null|
 |**2023-03-22**|**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**|Jianglong Ye et.al.|[2303.12786v1](http://arxiv.org/abs/2303.12786v1)|null|
-|**2023-03-22**|**Balanced Spherical Grid for Egocentric View Synthesis**|Changwoon Choi et.al.|[2303.12408v1](http://arxiv.org/abs/2303.12408v1)|**[link](https://github.com/changwoonchoi/EgoNeRF)**|
+|**2023-03-22**|**Balanced Spherical Grid for Egocentric View Synthesis**|Changwoon Choi et.al.|[2303.12408v2](http://arxiv.org/abs/2303.12408v2)|**[link](https://github.com/changwoonchoi/EgoNeRF)**|
 |**2023-03-21**|**Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields**|Ahmad AlMughrabi et.al.|[2303.12234v1](http://arxiv.org/abs/2303.12234v1)|null|
 |**2023-03-21**|**3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion**|Yu-Jhe Li et.al.|[2303.11938v1](http://arxiv.org/abs/2303.11938v1)|null|
 |**2023-03-21**|**ExtremeNeRF: Few-shot Neural Radiance Fields Under Unconstrained Illumination**|SeokYeong Lee et.al.|[2303.11728v2](http://arxiv.org/abs/2303.11728v2)|null|
@@ -285,7 +285,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-23**|**Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization**|Zicheng Zhang et.al.|[2303.13232v1](http://arxiv.org/abs/2303.13232v1)|null|
 |**2023-03-22**|**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**|Jianglong Ye et.al.|[2303.12786v1](http://arxiv.org/abs/2303.12786v1)|null|
-|**2023-03-22**|**Balanced Spherical Grid for Egocentric View Synthesis**|Changwoon Choi et.al.|[2303.12408v1](http://arxiv.org/abs/2303.12408v1)|**[link](https://github.com/changwoonchoi/EgoNeRF)**|
+|**2023-03-22**|**Balanced Spherical Grid for Egocentric View Synthesis**|Changwoon Choi et.al.|[2303.12408v2](http://arxiv.org/abs/2303.12408v2)|**[link](https://github.com/changwoonchoi/EgoNeRF)**|
 |**2023-03-21**|**ExtremeNeRF: Few-shot Neural Radiance Fields Under Unconstrained Illumination**|SeokYeong Lee et.al.|[2303.11728v2](http://arxiv.org/abs/2303.11728v2)|null|
 |**2023-03-20**|**DehazeNeRF: Multiple Image Haze Removal and 3D Shape Reconstruction using Neural Radiance Fields**|Wei-Ting Chen et.al.|[2303.11364v1](http://arxiv.org/abs/2303.11364v1)|null|
 |**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|**[link](https://github.com/cvlab-columbia/zero123)**|
