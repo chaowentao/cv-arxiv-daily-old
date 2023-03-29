@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.28
+## Updated on 2023.03.29
 
 ## Image Generation
 
@@ -35,7 +35,7 @@ layout: default
 |**2023-03-22**|**The Prompt Artists**|Minsuk Chang et.al.|[2303.12253v1](http://arxiv.org/abs/2303.12253v1)|null|
 |**2023-03-21**|**Image Reconstruction without Explicit Priors**|Angela F. Gao et.al.|[2303.12217v1](http://arxiv.org/abs/2303.12217v1)|null|
 |**2023-03-21**|**MAGVLT: Masked Generative Vision-and-Language Transformer**|Sungwoong Kim et.al.|[2303.12208v1](http://arxiv.org/abs/2303.12208v1)|null|
-|**2023-03-21**|**TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering**|Yushi Hu et.al.|[2303.11897v1](http://arxiv.org/abs/2303.11897v1)|**[link](https://github.com/Yushi-Hu/tifa)**|
+|**2023-03-21**|**TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering**|Yushi Hu et.al.|[2303.11897v2](http://arxiv.org/abs/2303.11897v2)|**[link](https://github.com/Yushi-Hu/tifa)**|
 |**2023-03-21**|**DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models**|Weijia Wu et.al.|[2303.11681v1](http://arxiv.org/abs/2303.11681v1)|null|
 |**2023-03-21**|**CoopInit: Initializing Generative Adversarial Networks via Cooperative Learning**|Yang Zhao et.al.|[2303.11649v1](http://arxiv.org/abs/2303.11649v1)|null|
 
@@ -118,7 +118,7 @@ layout: default
 |**2023-03-27**|**Orientational dynamics and rheology of active suspensions in weakly viscoelastic flows**|Akash Choudhary et.al.|[2303.15241v1](http://arxiv.org/abs/2303.15241v1)|null|
 |**2023-03-27**|**Text-to-Image Diffusion Models are Zero-Shot Classifiers**|Kevin Clark et.al.|[2303.15233v1](http://arxiv.org/abs/2303.15233v1)|null|
 |**2023-03-27**|**Universal enhancement of vacancy diffusion by Mn inducing anomalous Friedel oscillation in concentrated solid-solution alloys**|Huaqing Guan et.al.|[2303.15172v1](http://arxiv.org/abs/2303.15172v1)|null|
-|**2023-03-27**|**Data Augmentation for Environmental Sound Classification Using Diffusion Probabilistic Model with Top-k Selection Discriminator**|Yunhao Chen et.al.|[2303.15161v1](http://arxiv.org/abs/2303.15161v1)|null|
+|**2023-03-27**|**Data Augmentation for Environmental Sound Classification Using Diffusion Probabilistic Model with Top-k Selection Discriminator**|Yunhao Chen et.al.|[2303.15161v1](http://arxiv.org/abs/2303.15161v1)|**[link](https://github.com/jnaic/dpms-for-audio-data-augmentation)**|
 |**2023-03-27**|**Studies on the proximity effect in Bi-based high-temperature superconductor/manganite heterostructures**|V. Gayathri et.al.|[2303.15077v1](http://arxiv.org/abs/2303.15077v1)|null|
 |**2023-03-27**|**Evolution of Perturbation in Quiescent Medium**|Tapan K. Sengupta et.al.|[2303.15048v1](http://arxiv.org/abs/2303.15048v1)|null|
 |**2023-03-27**|**Properties of given and detected unbounded solutions to a class of chemotaxis models**|Alessandro Columbu et.al.|[2303.15039v1](http://arxiv.org/abs/2303.15039v1)|null|
@@ -130,7 +130,7 @@ layout: default
 |**2023-03-27**|**Langevin picture of subdiffusion in nonuniformly expanding medium**|Xudong Wang et.al.|[2303.14924v1](http://arxiv.org/abs/2303.14924v1)|null|
 |**2023-03-27**|**Model-free screening procedure for ultrahigh-dimensional survival data based on Hilbert-Schmidt independence criterion**|Xuerui Li et.al.|[2303.14906v1](http://arxiv.org/abs/2303.14906v1)|null|
 |**2023-03-27**|**Seer: Language Instructed Video Prediction with Latent Diffusion Models**|Xianfan Gu et.al.|[2303.14897v1](http://arxiv.org/abs/2303.14897v1)|null|
-|**2023-03-27**|**An Extensive Catalog of Early-type Dwarf Galaxies in the Local Universe: Morphology and Environment**|Sanjaya Paudel et.al.|[2303.14886v1](http://arxiv.org/abs/2303.14886v1)|null|
+|**2023-03-27**|**An Extensive Catalog of Early-type Dwarf Galaxies in the Local Universe: Morphology and Environment**|Sanjaya Paudel et.al.|[2303.14886v2](http://arxiv.org/abs/2303.14886v2)|null|
 |**2023-03-27**|**Regularity of pullback attractors for nonclassical diffusion equations with delay**|Yuming Qin et.al.|[2303.14875v1](http://arxiv.org/abs/2303.14875v1)|null|
 |**2023-03-27**|**Strong attractors for the nonclassical diffusion equation with fading memory in time-dependent spaces**|Yuming Qin et.al.|[2303.14873v1](http://arxiv.org/abs/2303.14873v1)|null|
 |**2023-03-27**|**DiffTAD: Temporal Action Detection with Proposal Denoising Diffusion**|Sauradip Nag et.al.|[2303.14863v1](http://arxiv.org/abs/2303.14863v1)|**[link](https://github.com/sauradip/diffusiontad)**|
@@ -218,7 +218,7 @@ layout: default
 |**2023-03-26**|**Learning Generative Structure Prior for Blind Text Image Super-resolution**|Xiaoming Li et.al.|[2303.14726v1](http://arxiv.org/abs/2303.14726v1)|**[link](https://github.com/csxmli2016/marconet)**|
 |**2023-03-25**|**Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables**|Jiacheng Li et.al.|[2303.14506v1](http://arxiv.org/abs/2303.14506v1)|**[link](https://github.com/ddlee-cn/mulut)**|
 |**2023-03-25**|**Incorporating Transformer Designs into Convolutions for Lightweight Image Super-Resolution**|Gang Wu et.al.|[2303.14324v1](http://arxiv.org/abs/2303.14324v1)|**[link](https://github.com/aitical/tcsr)**|
-|**2023-03-24**|**Transthoracic super-resolution ultrasound localization microscopy of myocardial vasculature in patients**|Jipeng Yan et.al.|[2303.14003v1](http://arxiv.org/abs/2303.14003v1)|**[link](https://github.com/jipengyan1995/srussoftware)**|
+|**2023-03-24**|**Transthoracic super-resolution ultrasound localisation microscopy of myocardial vasculature in patients**|Jipeng Yan et.al.|[2303.14003v2](http://arxiv.org/abs/2303.14003v2)|**[link](https://github.com/jipengyan1995/srussoftware)**|
 |**2023-03-24**|**DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution**|Ye Mao et.al.|[2303.13933v1](http://arxiv.org/abs/2303.13933v1)|null|
 |**2023-03-24**|**A Three-Player GAN for Super-Resolution in Magnetic Resonance Imaging**|Qi Wang et.al.|[2303.13900v1](http://arxiv.org/abs/2303.13900v1)|null|
 |**2023-03-24**|**PFT-SSR: Parallax Fusion Transformer for Stereo Image Super-Resolution**|Hansheng Guo et.al.|[2303.13807v1](http://arxiv.org/abs/2303.13807v1)|null|
