@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203v1](http://arxiv.org/abs/2303.16203v1)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
+|**2023-03-28**|**Variational Distribution Learning for Unsupervised Text-to-Image Generation**|Minsoo Kang et.al.|[2303.16105v1](http://arxiv.org/abs/2303.16105v1)|null|
+|**2023-03-28**|**Exploring Deep Learning Methods for Classification of SAR Images: Towards NextGen Convolutions via Transformers**|Aakash Singh et.al.|[2303.15852v1](http://arxiv.org/abs/2303.15852v1)|null|
+|**2023-03-27**|**Mask and Restore: Blind Backdoor Defense at Test Time with Masked Autoencoder**|Tao Sun et.al.|[2303.15564v1](http://arxiv.org/abs/2303.15564v1)|**[link](https://github.com/tsun/bdmae)**|
+|**2023-03-27**|**Sequential training of GANs against GAN-classifiers reveals correlated "knowledge gaps" present among independently trained GAN instances**|Arkanath Pathak et.al.|[2303.15533v1](http://arxiv.org/abs/2303.15533v1)|null|
 |**2023-03-27**|**The Stable Signature: Rooting Watermarks in Latent Diffusion Models**|Pierre Fernandez et.al.|[2303.15435v1](http://arxiv.org/abs/2303.15435v1)|null|
 |**2023-03-27**|**Diffusion Models for Memory-efficient Processing of 3D Medical Images**|Florentin Bieder et.al.|[2303.15288v1](http://arxiv.org/abs/2303.15288v1)|null|
 |**2023-03-26**|**Semantic Neural Decoding via Cross-Modal Generation**|Xuelin Qian et.al.|[2303.14730v1](http://arxiv.org/abs/2303.14730v1)|null|
@@ -33,11 +38,6 @@ layout: default
 |**2023-03-22**|**Pix2Video: Video Editing using Image Diffusion**|Duygu Ceylan et.al.|[2303.12688v1](http://arxiv.org/abs/2303.12688v1)|null|
 |**2023-03-22**|**VecFontSDF: Learning to Reconstruct and Synthesize High-quality Vector Fonts via Signed Distance Functions**|Zeqing Xia et.al.|[2303.12675v1](http://arxiv.org/abs/2303.12675v1)|null|
 |**2023-03-22**|**The Prompt Artists**|Minsuk Chang et.al.|[2303.12253v1](http://arxiv.org/abs/2303.12253v1)|null|
-|**2023-03-21**|**Image Reconstruction without Explicit Priors**|Angela F. Gao et.al.|[2303.12217v1](http://arxiv.org/abs/2303.12217v1)|null|
-|**2023-03-21**|**MAGVLT: Masked Generative Vision-and-Language Transformer**|Sungwoong Kim et.al.|[2303.12208v1](http://arxiv.org/abs/2303.12208v1)|null|
-|**2023-03-21**|**TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering**|Yushi Hu et.al.|[2303.11897v2](http://arxiv.org/abs/2303.11897v2)|**[link](https://github.com/Yushi-Hu/tifa)**|
-|**2023-03-21**|**DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models**|Weijia Wu et.al.|[2303.11681v1](http://arxiv.org/abs/2303.11681v1)|null|
-|**2023-03-21**|**CoopInit: Initializing Generative Adversarial Networks via Cooperative Learning**|Yang Zhao et.al.|[2303.11649v1](http://arxiv.org/abs/2303.11649v1)|null|
 
 ## Light Field Super Resolution
 
@@ -108,6 +108,27 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203v1](http://arxiv.org/abs/2303.16203v1)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
+|**2023-03-28**|**Visual Chain-of-Thought Diffusion Models**|William Harvey et.al.|[2303.16187v1](http://arxiv.org/abs/2303.16187v1)|null|
+|**2023-03-28**|**Aspect ratios of far-infrared and H i filaments in the diffuse interstellar medium at high Galactic latitudes**|P. M. W. Kalberla et.al.|[2303.16183v1](http://arxiv.org/abs/2303.16183v1)|null|
+|**2023-03-28**|**Diffusion Maps for Group-Invariant Manifolds**|Paulina Hoyos et.al.|[2303.16169v1](http://arxiv.org/abs/2303.16169v1)|null|
+|**2023-03-28**|**On determining and breaking the gauge class in inverse problems for reaction-diffusion equations**|Yavar Kian et.al.|[2303.16115v1](http://arxiv.org/abs/2303.16115v1)|null|
+|**2023-03-28**|**Cellular EXchange Imaging (CEXI): Evaluation of a diffusion model including water exchange in cells using numerical phantoms of permeable spheres**|Rémy Gardier et.al.|[2303.16112v1](http://arxiv.org/abs/2303.16112v1)|null|
+|**2023-03-28**|**Escape Kinetics of an Underdamped Colloidal Particle from a Cavity through Narrow Pores**|Shubhadip Nayak et.al.|[2303.16092v1](http://arxiv.org/abs/2303.16092v1)|null|
+|**2023-03-28**|**Understanding the temperatures of H3+ and H2 in diffuse interstellar sightlines**|Jacques Le Bourlot et.al.|[2303.16070v1](http://arxiv.org/abs/2303.16070v1)|null|
+|**2023-03-28**|**On Optimal Synchronization of Diffusively Coupled Heterogeneous Van der Pol Oscillators**|Tabea Trummel et.al.|[2303.15890v1](http://arxiv.org/abs/2303.15890v1)|null|
+|**2023-03-28**|**Novel View Synthesis of Humans using Differentiable Rendering**|Guillaume Rochette et.al.|[2303.15880v1](http://arxiv.org/abs/2303.15880v1)|**[link](https://github.com/guillaumerochette/humanviewsynthesis)**|
+|**2023-03-28**|**Accelerating exponential integrators to efficiently solve advection-diffusion-reaction equations**|Marco Caliari et.al.|[2303.15861v1](http://arxiv.org/abs/2303.15861v1)|null|
+|**2023-03-28**|**The interplay between feedback, accretion, transport and winds in setting gas-phase metal distribution in galaxies**|Piyush Sharda et.al.|[2303.15853v1](http://arxiv.org/abs/2303.15853v1)|null|
+|**2023-03-28**|**Structure Preserving Finite Volume Approximation of Cross-Diffusion Systems Coupled by a Free Interface**|Clément Cancès et.al.|[2303.15817v1](http://arxiv.org/abs/2303.15817v1)|null|
+|**2023-03-28**|**Dynamical Behaviors of Small-scale Buoyant Diffusion Flame Oscillators in Externally Swirling Flows**|Tao Yang et.al.|[2303.15789v1](http://arxiv.org/abs/2303.15789v1)|null|
+|**2023-03-28**|**Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion**|Hiromichi Kamata et.al.|[2303.15780v1](http://arxiv.org/abs/2303.15780v1)|null|
+|**2023-03-28**|**DDMM-Synth: A Denoising Diffusion Model for Cross-modal Medical Image Synthesis with Sparse-view Measurement Embedding**|Xiaoyue Li et.al.|[2303.15770v1](http://arxiv.org/abs/2303.15770v1)|null|
+|**2023-03-28**|**Gamma rays from Nebulae around Recurrent Novae**|W. Bednarek et.al.|[2303.15741v1](http://arxiv.org/abs/2303.15741v1)|null|
+|**2023-03-28**|**DiffULD: Diffusive Universal Lesion Detection**|Peiang Zhao et.al.|[2303.15728v1](http://arxiv.org/abs/2303.15728v1)|null|
+|**2023-03-28**|**StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing**|Senmao Li et.al.|[2303.15649v1](http://arxiv.org/abs/2303.15649v1)|null|
+|**2023-03-27**|**On Secular Gravitational Instability in Vertically Stratified Disks**|Ryosuke T. Tominaga et.al.|[2303.15607v1](http://arxiv.org/abs/2303.15607v1)|null|
+|**2023-03-28**|**A diffuse scattering model of ultracold neutrons on wavy surfaces**|S. Imajo et.al.|[2303.15461v1](http://arxiv.org/abs/2303.15461v1)|null|
 |**2023-03-27**|**The Stable Signature: Rooting Watermarks in Latent Diffusion Models**|Pierre Fernandez et.al.|[2303.15435v1](http://arxiv.org/abs/2303.15435v1)|null|
 |**2023-03-27**|**Anti-DreamBooth: Protecting users from personalized text-to-image synthesis**|Thanh Van Le et.al.|[2303.15433v1](http://arxiv.org/abs/2303.15433v1)|**[link](https://github.com/vinairesearch/anti-dreambooth)**|
 |**2023-03-27**|**Diffusive Limit of the Unsteady Neutron Transport Equation in Bounded Domains**|Zhimeng Ouyang et.al.|[2303.15424v1](http://arxiv.org/abs/2303.15424v1)|null|
@@ -117,32 +138,18 @@ layout: default
 |**2023-03-27**|**Diffusion Models for Memory-efficient Processing of 3D Medical Images**|Florentin Bieder et.al.|[2303.15288v1](http://arxiv.org/abs/2303.15288v1)|null|
 |**2023-03-27**|**Orientational dynamics and rheology of active suspensions in weakly viscoelastic flows**|Akash Choudhary et.al.|[2303.15241v1](http://arxiv.org/abs/2303.15241v1)|null|
 |**2023-03-27**|**Text-to-Image Diffusion Models are Zero-Shot Classifiers**|Kevin Clark et.al.|[2303.15233v1](http://arxiv.org/abs/2303.15233v1)|null|
-|**2023-03-27**|**Universal enhancement of vacancy diffusion by Mn inducing anomalous Friedel oscillation in concentrated solid-solution alloys**|Huaqing Guan et.al.|[2303.15172v1](http://arxiv.org/abs/2303.15172v1)|null|
-|**2023-03-27**|**Data Augmentation for Environmental Sound Classification Using Diffusion Probabilistic Model with Top-k Selection Discriminator**|Yunhao Chen et.al.|[2303.15161v1](http://arxiv.org/abs/2303.15161v1)|**[link](https://github.com/jnaic/dpms-for-audio-data-augmentation)**|
-|**2023-03-27**|**Studies on the proximity effect in Bi-based high-temperature superconductor/manganite heterostructures**|V. Gayathri et.al.|[2303.15077v1](http://arxiv.org/abs/2303.15077v1)|null|
-|**2023-03-27**|**Evolution of Perturbation in Quiescent Medium**|Tapan K. Sengupta et.al.|[2303.15048v1](http://arxiv.org/abs/2303.15048v1)|null|
-|**2023-03-27**|**Properties of given and detected unbounded solutions to a class of chemotaxis models**|Alessandro Columbu et.al.|[2303.15039v1](http://arxiv.org/abs/2303.15039v1)|null|
-|**2023-03-27**|**A combined effect of rigid top surface with diffuse and oblique collimated irradiation on the stability of the suspension of phototactic microorganisms**|S. K. Rajput et.al.|[2303.15034v1](http://arxiv.org/abs/2303.15034v1)|null|
-|**2023-03-27**|**Self-interacting diffusions: long-time behaviour and exit-problem in the convex case**|Ashot Aleksian et.al.|[2303.14997v1](http://arxiv.org/abs/2303.14997v1)|null|
-|**2023-03-27**|**Diffusion Denoised Smoothing for Certified and Adversarial Robust Out-Of-Distribution Detection**|Nicola Franco et.al.|[2303.14961v1](http://arxiv.org/abs/2303.14961v1)|null|
-|**2023-03-27**|**Tunneling in a very slow ion-molecule reaction**|Robert Wild et.al.|[2303.14948v1](http://arxiv.org/abs/2303.14948v1)|null|
-|**2023-03-27**|**Revisiting the Chandra Observation on the Region of PSR J1809-1917: Indication of an X-ray Halo and Implication for the Origin of HESS J1809-193**|ChaoMing Li et.al.|[2303.14946v1](http://arxiv.org/abs/2303.14946v1)|null|
-|**2023-03-27**|**Langevin picture of subdiffusion in nonuniformly expanding medium**|Xudong Wang et.al.|[2303.14924v1](http://arxiv.org/abs/2303.14924v1)|null|
-|**2023-03-27**|**Model-free screening procedure for ultrahigh-dimensional survival data based on Hilbert-Schmidt independence criterion**|Xuerui Li et.al.|[2303.14906v1](http://arxiv.org/abs/2303.14906v1)|null|
-|**2023-03-27**|**Seer: Language Instructed Video Prediction with Latent Diffusion Models**|Xianfan Gu et.al.|[2303.14897v1](http://arxiv.org/abs/2303.14897v1)|null|
-|**2023-03-27**|**An Extensive Catalog of Early-type Dwarf Galaxies in the Local Universe: Morphology and Environment**|Sanjaya Paudel et.al.|[2303.14886v2](http://arxiv.org/abs/2303.14886v2)|null|
-|**2023-03-27**|**Regularity of pullback attractors for nonclassical diffusion equations with delay**|Yuming Qin et.al.|[2303.14875v1](http://arxiv.org/abs/2303.14875v1)|null|
-|**2023-03-27**|**Strong attractors for the nonclassical diffusion equation with fading memory in time-dependent spaces**|Yuming Qin et.al.|[2303.14873v1](http://arxiv.org/abs/2303.14873v1)|null|
-|**2023-03-27**|**DiffTAD: Temporal Action Detection with Proposal Denoising Diffusion**|Sauradip Nag et.al.|[2303.14863v1](http://arxiv.org/abs/2303.14863v1)|**[link](https://github.com/sauradip/diffusiontad)**|
-|**2023-03-26**|**Multi-task Learning of Histology and Molecular Markers for Classifying Diffuse Glioma**|Xiaofei Wang et.al.|[2303.14845v1](http://arxiv.org/abs/2303.14845v1)|null|
-|**2023-03-26**|**Hardware Acceleration of Progressive Refinement Radiosity using Nvidia RTX**|Benjamin Kahl et.al.|[2303.14831v1](http://arxiv.org/abs/2303.14831v1)|null|
-|**2023-03-26**|**On a weak maximum principle for a class of fractional diffusive equations**|Cyrille Kenne et.al.|[2303.14813v1](http://arxiv.org/abs/2303.14813v1)|null|
-|**2023-03-26**|**A spatial measure-valued model for radiation-induced DNA damage kinetics and repair under protracted irradiation condition**|Francesco G. Cordoni et.al.|[2303.14784v1](http://arxiv.org/abs/2303.14784v1)|null|
 
 ## Vision Transformer
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**ASIC: Aligning Sparse in-the-wild Image Collections**|Kamal Gupta et.al.|[2303.16201v1](http://arxiv.org/abs/2303.16201v1)|null|
+|**2023-03-28**|**Transferable Adversarial Attacks on Vision Transformers with Token Gradient Regularization**|Jianping Zhang et.al.|[2303.15754v1](http://arxiv.org/abs/2303.15754v1)|null|
+|**2023-03-28**|**TFS-ViT: Token-Level Feature Stylization for Domain Generalization**|Mehrdad Noori et.al.|[2303.15698v1](http://arxiv.org/abs/2303.15698v1)|**[link](https://github.com/mehrdad-noori/tfs-vit_token-level_feature_stylization)**|
+|**2023-03-27**|**Learning Expressive Prompting With Residuals for Vision Transformers**|Rajshekhar Das et.al.|[2303.15591v1](http://arxiv.org/abs/2303.15591v1)|null|
+|**2023-03-27**|**Core-Periphery Principle Guided Redesign of Self-Attention in Transformers**|Xiaowei Yu et.al.|[2303.15569v1](http://arxiv.org/abs/2303.15569v1)|null|
+|**2023-03-27**|**MoViT: Memorizing Vision Transformers for Medical Image Analysis**|Yiqing Shen et.al.|[2303.15553v1](http://arxiv.org/abs/2303.15553v1)|null|
+|**2023-03-25**|**Supervised Masked Knowledge Distillation for Few-Shot Transformers**|Han Lin et.al.|[2303.15466v1](http://arxiv.org/abs/2303.15466v1)|**[link](https://github.com/hl-hanlin/smkd)**|
 |**2023-03-24**|**Image Deblurring by Exploring In-depth Properties of Transformer**|Pengwei Liang et.al.|[2303.15198v1](http://arxiv.org/abs/2303.15198v1)|null|
 |**2023-03-27**|**Vision Transformer with Quadrangle Attention**|Qiming Zhang et.al.|[2303.15105v1](http://arxiv.org/abs/2303.15105v1)|null|
 |**2023-03-27**|**Leveraging Hidden Positives for Unsupervised Semantic Segmentation**|Hyun Seok Seong et.al.|[2303.15014v1](http://arxiv.org/abs/2303.15014v1)|**[link](https://github.com/hynnsk/hp)**|
@@ -165,19 +172,16 @@ layout: default
 |**2023-03-22**|**Q-HyViT: Post-Training Quantization for Hybrid Vision Transformer with Bridge Block Reconstruction**|Jemin Lee et.al.|[2303.12557v1](http://arxiv.org/abs/2303.12557v1)|null|
 |**2023-03-22**|**Multiscale Attention via Wavelet Neural Operators for Vision Transformers**|Anahita Nekoozadeh et.al.|[2303.12398v2](http://arxiv.org/abs/2303.12398v2)|null|
 |**2023-03-21**|**Machine Learning for Brain Disorders: Transformers and Visual Transformers**|Robin Courant et.al.|[2303.12068v1](http://arxiv.org/abs/2303.12068v1)|null|
-|**2023-03-18**|**Vision Transformer-based Model for Severity Quantification of Lung Pneumonia Using Chest X-ray Images**|Bouthaina Slika et.al.|[2303.11935v1](http://arxiv.org/abs/2303.11935v1)|null|
 |**2023-03-21**|**The Multiscale Surface Vision Transformer**|Simon Dahan et.al.|[2303.11909v1](http://arxiv.org/abs/2303.11909v1)|**[link](https://github.com/metrics-lab/surface-vision-transformers)**|
-|**2023-03-21**|**CLIP-ReIdent: Contrastive Training for Player Re-Identification**|Konrad Habel et.al.|[2303.11855v1](http://arxiv.org/abs/2303.11855v1)|null|
-|**2023-03-20**|**Towards Better 3D Knowledge Transfer via Masked Image Modeling for Multi-view 3D Understanding**|Jihao Liu et.al.|[2303.11325v1](http://arxiv.org/abs/2303.11325v1)|null|
-|**2023-03-20**|**Robustifying Token Attention for Vision Transformers**|Yong Guo et.al.|[2303.11126v1](http://arxiv.org/abs/2303.11126v1)|null|
-|**2023-03-17**|**LION: Implicit Vision Prompt Tuning**|Haixin Wang et.al.|[2303.09992v1](http://arxiv.org/abs/2303.09992v1)|null|
-|**2023-03-17**|**Dual-path Adaptation from Image to Video Transformers**|Jungin Park et.al.|[2303.09857v1](http://arxiv.org/abs/2303.09857v1)|**[link](https://github.com/park-jungin/dualpath)**|
-|**2023-03-17**|**Denoising Diffusion Autoencoders are Unified Self-supervised Learners**|Weilai Xiang et.al.|[2303.09769v1](http://arxiv.org/abs/2303.09769v1)|null|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis**|Guangcong Wang et.al.|[2303.16196v1](http://arxiv.org/abs/2303.16196v1)|null|
+|**2023-03-28**|**VMesh: Hybrid Volume-Mesh Representation for Efficient View Synthesis**|Yuan-Chen Guo et.al.|[2303.16184v1](http://arxiv.org/abs/2303.16184v1)|null|
+|**2023-03-28**|**Adaptive Voronoi NeRFs**|Tim Elsner et.al.|[2303.16001v1](http://arxiv.org/abs/2303.16001v1)|null|
+|**2023-03-28**|**F$^{2}$-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories**|Peng Wang et.al.|[2303.15951v1](http://arxiv.org/abs/2303.15951v1)|null|
 |**2023-03-27**|**JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields**|Xi Wang et.al.|[2303.15427v1](http://arxiv.org/abs/2303.15427v1)|null|
 |**2023-03-27**|**Generalizable Neural Voxels for Fast Human Radiance Fields**|Taoran Yi et.al.|[2303.15387v1](http://arxiv.org/abs/2303.15387v1)|null|
 |**2023-03-27**|**NeUDF: Learning Unsigned Distance Fields from Multi-view Images for Reconstructing Non-watertight Models**|Fei Hou et.al.|[2303.15368v1](http://arxiv.org/abs/2303.15368v1)|null|
@@ -204,10 +208,6 @@ layout: default
 |**2023-03-22**|**SHERF: Generalizable Human NeRF from a Single Image**|Shoukang Hu et.al.|[2303.12791v1](http://arxiv.org/abs/2303.12791v1)|**[link](https://github.com/skhu101/sherf)**|
 |**2023-03-22**|**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**|Ayaan Haque et.al.|[2303.12789v1](http://arxiv.org/abs/2303.12789v1)|null|
 |**2023-03-22**|**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**|Jianglong Ye et.al.|[2303.12786v1](http://arxiv.org/abs/2303.12786v1)|null|
-|**2023-03-22**|**Balanced Spherical Grid for Egocentric View Synthesis**|Changwoon Choi et.al.|[2303.12408v2](http://arxiv.org/abs/2303.12408v2)|**[link](https://github.com/changwoonchoi/EgoNeRF)**|
-|**2023-03-21**|**Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields**|Ahmad AlMughrabi et.al.|[2303.12234v1](http://arxiv.org/abs/2303.12234v1)|**[link](https://github.com/amughrabi/pre-nerf)**|
-|**2023-03-21**|**3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion**|Yu-Jhe Li et.al.|[2303.11938v1](http://arxiv.org/abs/2303.11938v1)|null|
-|**2023-03-21**|**ExtremeNeRF: Few-shot Neural Radiance Fields Under Unconstrained Illumination**|SeokYeong Lee et.al.|[2303.11728v2](http://arxiv.org/abs/2303.11728v2)|null|
 
 ## Super Resolution
 
@@ -248,6 +248,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**4K-HAZE: A Dehazing Benchmark with 4K Resolution Hazy and Haze-Free Images**|Zhuoran Zheng et.al.|[2303.15848v1](http://arxiv.org/abs/2303.15848v1)|null|
+|**2023-03-28**|**TerrainNet: Visual Modeling of Complex Terrain for High-speed, Off-road Navigation**|Xiangyun Meng et.al.|[2303.15771v1](http://arxiv.org/abs/2303.15771v1)|null|
 |**2023-03-26**|**On the Importance of Accurate Geometry Data for Dense 3D Vision Tasks**|HyunJun Jung et.al.|[2303.14840v1](http://arxiv.org/abs/2303.14840v1)|null|
 |**2023-03-26**|**Multi-Frame Self-Supervised Depth Estimation with Multi-Scale Feature Fusion in Dynamic Scenes**|Jiquan Zhong et.al.|[2303.14628v1](http://arxiv.org/abs/2303.14628v1)|null|
 |**2023-03-23**|**SCADE: NeRFs from Space Carving with Ambiguity-Aware Depth Estimates**|Mikaela Angelina Uy et.al.|[2303.13582v1](http://arxiv.org/abs/2303.13582v1)|null|
@@ -276,13 +278,15 @@ layout: default
 |**2023-03-06**|**DwinFormer: Dual Window Transformers for End-to-End Monocular Depth Estimation**|Md Awsafur Rahman et.al.|[2303.02968v2](http://arxiv.org/abs/2303.02968v2)|null|
 |**2023-03-05**|**Estimating Racial Disparities When Race is Not Observed**|Cory McCartan et.al.|[2303.02580v1](http://arxiv.org/abs/2303.02580v1)|**[link](https://github.com/CoryMcCartan/birdie)**|
 |**2023-03-03**|**Unleashing Text-to-Image Diffusion Models for Visual Perception**|Wenliang Zhao et.al.|[2303.02153v1](http://arxiv.org/abs/2303.02153v1)|**[link](https://github.com/wl-zhao/VPD)**|
-|**2023-03-03**|**Towards Domain Generalization for Multi-view 3D Object Detection in Bird-Eye-View**|Shuo Wang et.al.|[2303.01686v1](http://arxiv.org/abs/2303.01686v1)|null|
-|**2023-03-02**|**DejaVu: Conditional Regenerative Learning to Enhance Dense Prediction**|Shubhankar Borse et.al.|[2303.01573v1](http://arxiv.org/abs/2303.01573v1)|null|
 
 ## View Synthesis
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis**|Guangcong Wang et.al.|[2303.16196v1](http://arxiv.org/abs/2303.16196v1)|null|
+|**2023-03-28**|**VMesh: Hybrid Volume-Mesh Representation for Efficient View Synthesis**|Yuan-Chen Guo et.al.|[2303.16184v1](http://arxiv.org/abs/2303.16184v1)|null|
+|**2023-03-28**|**F$^{2}$-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories**|Peng Wang et.al.|[2303.15951v1](http://arxiv.org/abs/2303.15951v1)|null|
+|**2023-03-28**|**Novel View Synthesis of Humans using Differentiable Rendering**|Guillaume Rochette et.al.|[2303.15880v1](http://arxiv.org/abs/2303.15880v1)|**[link](https://github.com/guillaumerochette/humanviewsynthesis)**|
 |**2023-03-27**|**Generalizable Neural Voxels for Fast Human Radiance Fields**|Taoran Yi et.al.|[2303.15387v1](http://arxiv.org/abs/2303.15387v1)|null|
 |**2023-03-24**|**Perceptual Quality Assessment of NeRF and Neural View Synthesis Methods for Front-Facing Views**|Hanxue Liang et.al.|[2303.15206v1](http://arxiv.org/abs/2303.15206v1)|null|
 |**2023-03-26**|**Clean-NeRF: Reformulating NeRF to account for View-Dependent Observations**|Xinhang Liu et.al.|[2303.14707v1](http://arxiv.org/abs/2303.14707v1)|null|
@@ -309,8 +313,4 @@ layout: default
 |**2023-03-15**|**Harnessing Low-Frequency Neural Fields for Few-Shot View Synthesis**|Liangchen Song et.al.|[2303.08370v1](http://arxiv.org/abs/2303.08370v1)|**[link](https://github.com/lsongx/halo)**|
 |**2023-03-14**|**MELON: NeRF with Unposed Images Using Equivalence Class Estimation**|Axel Levy et.al.|[2303.08096v1](http://arxiv.org/abs/2303.08096v1)|null|
 |**2023-03-14**|**I$^2$-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs**|Jingsen Zhu et.al.|[2303.07634v1](http://arxiv.org/abs/2303.07634v1)|null|
-|**2023-03-14**|**Frequency-Modulated Point Cloud Rendering with Easy Editing**|Yi Zhang et.al.|[2303.07596v2](http://arxiv.org/abs/2303.07596v2)|**[link](https://github.com/yizhangphd/freqpcr)**|
-|**2023-03-13**|**FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**|Jiawei Yang et.al.|[2303.07418v1](http://arxiv.org/abs/2303.07418v1)|**[link](https://github.com/jiawei-yang/freenerf)**|
-|**2023-03-13**|**NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer**|Kun Zhou et.al.|[2303.06919v2](http://arxiv.org/abs/2303.06919v2)|null|
-|**2023-03-10**|**Learning Object-Centric Neural Scattering Functions for Free-viewpoint Relighting and Scene Composition**|Hong-Xing Yu et.al.|[2303.06138v1](http://arxiv.org/abs/2303.06138v1)|null|
 
