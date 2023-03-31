@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.03.30
+## Updated on 2023.03.31
 
 ## Image Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-29**|**MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path**|Qian Wang et.al.|[2303.16765v1](http://arxiv.org/abs/2303.16765v1)|**[link](https://github.com/qianwangx/mdp-diffusion)**|
+|**2023-03-29**|**MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path**|Qian Wang et.al.|[2303.16765v2](http://arxiv.org/abs/2303.16765v2)|**[link](https://github.com/qianwangx/mdp-diffusion)**|
 |**2023-03-29**|**WordStylist: Styled Verbatim Handwritten Text Generation with Latent Diffusion Models**|Konstantina Nikolaidou et.al.|[2303.16576v1](http://arxiv.org/abs/2303.16576v1)|null|
 |**2023-03-28**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203v2](http://arxiv.org/abs/2303.16203v2)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
 |**2023-03-28**|**Variational Distribution Learning for Unsupervised Text-to-Image Generation**|Minsoo Kang et.al.|[2303.16105v1](http://arxiv.org/abs/2303.16105v1)|null|
@@ -112,7 +112,7 @@ layout: default
 |**2023-03-29**|**Many-body localization proximity effect in two-species bosonic Hubbard model**|Pietro Brighi et.al.|[2303.16876v1](http://arxiv.org/abs/2303.16876v1)|null|
 |**2023-03-29**|**Diffusion Schrödinger Bridge Matching**|Yuyang Shi et.al.|[2303.16852v1](http://arxiv.org/abs/2303.16852v1)|null|
 |**2023-03-29**|**Reanalysis of critical exponents for the O(N) model via a hydrodynamic approach to the Functional Renormalization Group**|Fabrizio Murgana et.al.|[2303.16838v1](http://arxiv.org/abs/2303.16838v1)|null|
-|**2023-03-29**|**MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path**|Qian Wang et.al.|[2303.16765v1](http://arxiv.org/abs/2303.16765v1)|**[link](https://github.com/qianwangx/mdp-diffusion)**|
+|**2023-03-29**|**MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path**|Qian Wang et.al.|[2303.16765v2](http://arxiv.org/abs/2303.16765v2)|**[link](https://github.com/qianwangx/mdp-diffusion)**|
 |**2023-03-29**|**Second-order sufficient conditions for sparse optimal control of singular Allen--Cahn systems with dynamic boundary conditions**|Jürgen Sprekels et.al.|[2303.16708v1](http://arxiv.org/abs/2303.16708v1)|null|
 |**2023-03-29**|**Propagation and Fluxes of Ultra High Energy Cosmic Rays in $f(R)$ Gravity Theory**|Swaraj Pratim Sarmah et.al.|[2303.16678v1](http://arxiv.org/abs/2303.16678v1)|null|
 |**2023-03-29**|**4D Facial Expression Diffusion Model**|Kaifeng Zou et.al.|[2303.16611v1](http://arxiv.org/abs/2303.16611v1)|**[link](https://github.com/zoukaifeng/4dfm)**|
@@ -144,16 +144,16 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-29**|**Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation**|Md Mostafijur Rahman et.al.|[2303.16892v1](http://arxiv.org/abs/2303.16892v1)|**[link](https://github.com/SLDGroup/MERIT)**|
-|**2023-03-29**|**Self-accumulative Vision Transformer for Bone Age Assessment Using the Sauvegrain Method**|Hong-Jun Choi et.al.|[2303.16557v1](http://arxiv.org/abs/2303.16557v1)|null|
+|**2023-03-29**|**Self-accumulative Vision Transformer for Bone Age Assessment Using the Sauvegrain Method**|Hong-Jun Choi et.al.|[2303.16557v2](http://arxiv.org/abs/2303.16557v2)|null|
 |**2023-03-28**|**ASIC: Aligning Sparse in-the-wild Image Collections**|Kamal Gupta et.al.|[2303.16201v1](http://arxiv.org/abs/2303.16201v1)|null|
 |**2023-03-28**|**Transferable Adversarial Attacks on Vision Transformers with Token Gradient Regularization**|Jianping Zhang et.al.|[2303.15754v1](http://arxiv.org/abs/2303.15754v1)|null|
 |**2023-03-28**|**TFS-ViT: Token-Level Feature Stylization for Domain Generalization**|Mehrdad Noori et.al.|[2303.15698v2](http://arxiv.org/abs/2303.15698v2)|**[link](https://github.com/mehrdad-noori/tfs-vit_token-level_feature_stylization)**|
 |**2023-03-27**|**Learning Expressive Prompting With Residuals for Vision Transformers**|Rajshekhar Das et.al.|[2303.15591v1](http://arxiv.org/abs/2303.15591v1)|null|
 |**2023-03-27**|**Core-Periphery Principle Guided Redesign of Self-Attention in Transformers**|Xiaowei Yu et.al.|[2303.15569v1](http://arxiv.org/abs/2303.15569v1)|null|
 |**2023-03-27**|**MoViT: Memorizing Vision Transformers for Medical Image Analysis**|Yiqing Shen et.al.|[2303.15553v1](http://arxiv.org/abs/2303.15553v1)|null|
-|**2023-03-25**|**Supervised Masked Knowledge Distillation for Few-Shot Transformers**|Han Lin et.al.|[2303.15466v1](http://arxiv.org/abs/2303.15466v1)|**[link](https://github.com/hl-hanlin/smkd)**|
+|**2023-03-25**|**Supervised Masked Knowledge Distillation for Few-Shot Transformers**|Han Lin et.al.|[2303.15466v2](http://arxiv.org/abs/2303.15466v2)|**[link](https://github.com/hl-hanlin/smkd)**|
 |**2023-03-24**|**Image Deblurring by Exploring In-depth Properties of Transformer**|Pengwei Liang et.al.|[2303.15198v1](http://arxiv.org/abs/2303.15198v1)|null|
-|**2023-03-27**|**Vision Transformer with Quadrangle Attention**|Qiming Zhang et.al.|[2303.15105v1](http://arxiv.org/abs/2303.15105v1)|null|
+|**2023-03-27**|**Vision Transformer with Quadrangle Attention**|Qiming Zhang et.al.|[2303.15105v1](http://arxiv.org/abs/2303.15105v1)|**[link](https://github.com/vitae-transformer/qformer)**|
 |**2023-03-27**|**Leveraging Hidden Positives for Unsupervised Semantic Segmentation**|Hyun Seok Seong et.al.|[2303.15014v1](http://arxiv.org/abs/2303.15014v1)|**[link](https://github.com/hynnsk/hp)**|
 |**2023-03-27**|**Transformer-based Multi-Instance Learning for Weakly Supervised Object Detection**|Zhaofei Wang et.al.|[2303.14999v1](http://arxiv.org/abs/2303.14999v1)|null|
 |**2023-03-26**|**Feature Shrinkage Pyramid for Camouflaged Object Detection with Transformers**|Zhou Huang et.al.|[2303.14816v1](http://arxiv.org/abs/2303.14816v1)|**[link](https://github.com/zhouhuang23/fspnet)**|
@@ -183,7 +183,7 @@ layout: default
 |**2023-03-28**|**Flow supervision for Deformable NeRF**|Chaoyang Wang et.al.|[2303.16333v1](http://arxiv.org/abs/2303.16333v1)|null|
 |**2023-03-28**|**SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis**|Guangcong Wang et.al.|[2303.16196v1](http://arxiv.org/abs/2303.16196v1)|null|
 |**2023-03-28**|**VMesh: Hybrid Volume-Mesh Representation for Efficient View Synthesis**|Yuan-Chen Guo et.al.|[2303.16184v1](http://arxiv.org/abs/2303.16184v1)|null|
-|**2023-03-28**|**Adaptive Voronoi NeRFs**|Tim Elsner et.al.|[2303.16001v1](http://arxiv.org/abs/2303.16001v1)|null|
+|**2023-03-28**|**Adaptive Voronoi NeRFs**|Tim Elsner et.al.|[2303.16001v2](http://arxiv.org/abs/2303.16001v2)|null|
 |**2023-03-28**|**F$^{2}$-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories**|Peng Wang et.al.|[2303.15951v1](http://arxiv.org/abs/2303.15951v1)|null|
 |**2023-03-27**|**JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields**|Xi Wang et.al.|[2303.15427v1](http://arxiv.org/abs/2303.15427v1)|null|
 |**2023-03-27**|**Generalizable Neural Voxels for Fast Human Radiance Fields**|Taoran Yi et.al.|[2303.15387v1](http://arxiv.org/abs/2303.15387v1)|null|
@@ -213,9 +213,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-29**|**Super-Resolution of Three-Dimensional Temperature and Velocity for Building-Resolving Urban Micrometeorology Using Physics-Guided Convolutional Neural Networks with Image Inpainting Techniques**|Yuki Yasuda et.al.|[2303.16684v1](http://arxiv.org/abs/2303.16684v1)|null|
+|**2023-03-29**|**Super-Resolution of Three-Dimensional Temperature and Velocity for Building-Resolving Urban Micrometeorology Using Physics-Guided Convolutional Neural Networks with Image Inpainting Techniques**|Yuki Yasuda et.al.|[2303.16684v1](http://arxiv.org/abs/2303.16684v1)|**[link](https://github.com/yukiyasuda2718/3d-sr-micrometeorology)**|
 |**2023-03-29**|**Operational Neural Networks for Efficient Hyperspectral Single-Image Super-Resolution**|Alexander Ulrichsen et.al.|[2303.16636v1](http://arxiv.org/abs/2303.16636v1)|null|
-|**2023-03-29**|**Cascaded Local Implicit Transformer for Arbitrary-Scale Super-Resolution**|Hao-Wei Chen et.al.|[2303.16513v1](http://arxiv.org/abs/2303.16513v1)|null|
+|**2023-03-29**|**Cascaded Local Implicit Transformer for Arbitrary-Scale Super-Resolution**|Hao-Wei Chen et.al.|[2303.16513v1](http://arxiv.org/abs/2303.16513v1)|**[link](https://github.com/jaroslaw1007/clit)**|
 |**2023-03-29**|**Implicit Diffusion Models for Continuous Super-Resolution**|Sicheng Gao et.al.|[2303.16491v1](http://arxiv.org/abs/2303.16491v1)|**[link](https://github.com/ree1s/idm)**|
 |**2023-03-29**|**Random Weights Networks Work as Loss Prior Constraint for Image Restoration**|Man Zhou et.al.|[2303.16438v1](http://arxiv.org/abs/2303.16438v1)|null|
 |**2023-03-29**|**Unlocking Masked Autoencoders as Loss Function for Image and Video Restoration**|Man Zhou et.al.|[2303.16411v1](http://arxiv.org/abs/2303.16411v1)|null|
@@ -305,7 +305,7 @@ layout: default
 |**2023-03-21**|**ExtremeNeRF: Few-shot Neural Radiance Fields Under Unconstrained Illumination**|SeokYeong Lee et.al.|[2303.11728v2](http://arxiv.org/abs/2303.11728v2)|null|
 |**2023-03-20**|**DehazeNeRF: Multiple Image Haze Removal and 3D Shape Reconstruction using Neural Radiance Fields**|Wei-Ting Chen et.al.|[2303.11364v1](http://arxiv.org/abs/2303.11364v1)|null|
 |**2023-03-20**|**Zero-1-to-3: Zero-shot One Image to 3D Object**|Ruoshi Liu et.al.|[2303.11328v1](http://arxiv.org/abs/2303.11328v1)|**[link](https://github.com/cvlab-columbia/zero123)**|
-|**2023-03-20**|**ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-real Novel View Synthesis via Contrastive Learning**|Hao Yang et.al.|[2303.11052v1](http://arxiv.org/abs/2303.11052v1)|null|
+|**2023-03-20**|**ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-real Novel View Synthesis via Contrastive Learning**|Hao Yang et.al.|[2303.11052v2](http://arxiv.org/abs/2303.11052v2)|null|
 |**2023-03-17**|**Single-view Neural Radiance Fields with Depth Teacher**|Yurui Chen et.al.|[2303.09952v1](http://arxiv.org/abs/2303.09952v1)|null|
 |**2023-03-16**|**NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes**|Marie-Julie Rakotosaona et.al.|[2303.09431v1](http://arxiv.org/abs/2303.09431v1)|null|
 |**2023-03-16**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412v2](http://arxiv.org/abs/2303.09412v2)|**[link](https://github.com/hannahhaensen/nerftrinsic_four)**|
