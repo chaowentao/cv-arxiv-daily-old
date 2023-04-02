@@ -126,7 +126,7 @@ layout: default
 |**2023-03-30**|**Electron Hydrodynamics by Spin Hall Effect**|Junji Fujimoto et.al.|[2303.17234v1](http://arxiv.org/abs/2303.17234v1)|null|
 |**2023-03-30**|**LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation**|Guangcong Zheng et.al.|[2303.17189v1](http://arxiv.org/abs/2303.17189v1)|**[link](https://github.com/zgctroy/layoutdiffusion)**|
 |**2023-03-30**|**Optical information transfer through random unknown diffusers using electronic encoding and diffractive decoding**|Yuhang Li et.al.|[2303.17164v1](http://arxiv.org/abs/2303.17164v1)|null|
-|**2023-03-30**|**Discriminative Class Tokens for Text-to-Image Diffusion Models**|Idan Schwartz et.al.|[2303.17155v1](http://arxiv.org/abs/2303.17155v1)|**[link](https://github.com/idansc/discriminative_class_tokens)**|
+|**2023-03-30**|**Discriminative Class Tokens for Text-to-Image Diffusion Models**|Idan Schwartz et.al.|[2303.17155v1](http://arxiv.org/abs/2303.17155v1)|null|
 |**2023-03-30**|**Deep Generative Model and Its Applications in Efficient Wireless Network Management: A Tutorial and Case Study**|Yinqiu Liu et.al.|[2303.17114v1](http://arxiv.org/abs/2303.17114v1)|null|
 |**2023-03-30**|**Efficient Sampling of Stochastic Differential Equations with Positive Semi-Definite Models**|Anant Raj et.al.|[2303.17109v1](http://arxiv.org/abs/2303.17109v1)|null|
 |**2023-03-30**|**Numerical study of anisotropic diffusion in Turing patterns based on Finsler geometry modeling**|Gildas Diguet et.al.|[2303.17098v1](http://arxiv.org/abs/2303.17098v1)|null|
@@ -149,7 +149,7 @@ layout: default
 |**2023-03-30**|**ImageNet-E: Benchmarking Neural Network Robustness via Attribute Editing**|Xiaodan Li et.al.|[2303.17096v1](http://arxiv.org/abs/2303.17096v1)|**[link](https://github.com/alibaba/easyrobust/tree/main/benchmarks/imagenet-e)**|
 |**2023-03-29**|**Visually Wired NFTs: Exploring the Role of Inspiration in Non-Fungible Tokens**|Lucio La Cava et.al.|[2303.17031v1](http://arxiv.org/abs/2303.17031v1)|null|
 |**2023-03-29**|**T-FFTRadNet: Object Detection with Swin Vision Transformers from Raw ADC Radar Signals**|James Giroux et.al.|[2303.16940v1](http://arxiv.org/abs/2303.16940v1)|null|
-|**2023-03-23**|**Severity classification of ground-glass opacity via 2-D convolutional neural network and lung CT scans: a 3-day exploration**|Lisa Y. W. Tang et.al.|[2303.16904v1](http://arxiv.org/abs/2303.16904v1)|null|
+|**2023-03-23**|**Severity classification of ground-glass opacity via 2-D convolutional neural network and lung CT scans: a 3-day exploration**|Lisa Y. W. Tang et.al.|[2303.16904v1](http://arxiv.org/abs/2303.16904v1)|**[link](https://github.com/lisatwyw/cov19)**|
 |**2023-03-29**|**Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation**|Md Mostafijur Rahman et.al.|[2303.16892v1](http://arxiv.org/abs/2303.16892v1)|**[link](https://github.com/SLDGroup/MERIT)**|
 |**2023-03-29**|**Self-accumulative Vision Transformer for Bone Age Assessment Using the Sauvegrain Method**|Hong-Jun Choi et.al.|[2303.16557v2](http://arxiv.org/abs/2303.16557v2)|null|
 |**2023-03-28**|**ASIC: Aligning Sparse in-the-wild Image Collections**|Kamal Gupta et.al.|[2303.16201v1](http://arxiv.org/abs/2303.16201v1)|null|
