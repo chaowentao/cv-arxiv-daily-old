@@ -1,4 +1,4 @@
-## Updated on 2023.04.02
+## Updated on 2023.04.03
 
 ## Image Generation
 
@@ -145,7 +145,7 @@
 |**2023-03-30**|**ImageNet-E: Benchmarking Neural Network Robustness via Attribute Editing**|Xiaodan Li et.al.|[2303.17096v1](http://arxiv.org/abs/2303.17096v1)|**[link](https://github.com/alibaba/easyrobust/tree/main/benchmarks/imagenet-e)**|
 |**2023-03-29**|**Visually Wired NFTs: Exploring the Role of Inspiration in Non-Fungible Tokens**|Lucio La Cava et.al.|[2303.17031v1](http://arxiv.org/abs/2303.17031v1)|null|
 |**2023-03-29**|**T-FFTRadNet: Object Detection with Swin Vision Transformers from Raw ADC Radar Signals**|James Giroux et.al.|[2303.16940v1](http://arxiv.org/abs/2303.16940v1)|null|
-|**2023-03-23**|**Severity classification of ground-glass opacity via 2-D convolutional neural network and lung CT scans: a 3-day exploration**|Lisa Y. W. Tang et.al.|[2303.16904v1](http://arxiv.org/abs/2303.16904v1)|**[link](https://github.com/lisatwyw/cov19)**|
+|**2023-03-23**|**Severity classification of ground-glass opacity via 2-D convolutional neural network and lung CT scans: a 3-day exploration**|Lisa Y. W. Tang et.al.|[2303.16904v2](http://arxiv.org/abs/2303.16904v2)|**[link](https://github.com/lisatwyw/cov19)**|
 |**2023-03-29**|**Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation**|Md Mostafijur Rahman et.al.|[2303.16892v1](http://arxiv.org/abs/2303.16892v1)|**[link](https://github.com/SLDGroup/MERIT)**|
 |**2023-03-29**|**Self-accumulative Vision Transformer for Bone Age Assessment Using the Sauvegrain Method**|Hong-Jun Choi et.al.|[2303.16557v2](http://arxiv.org/abs/2303.16557v2)|null|
 |**2023-03-28**|**ASIC: Aligning Sparse in-the-wild Image Collections**|Kamal Gupta et.al.|[2303.16201v1](http://arxiv.org/abs/2303.16201v1)|null|
