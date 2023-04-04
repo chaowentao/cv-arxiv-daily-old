@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.03
+## Updated on 2023.04.04
 
 ## Image Generation
 
@@ -130,7 +130,7 @@ layout: default
 |**2023-03-31**|**Effect of interpolation kernels and grid refinement on two way-coupled point-particle simulations**|Nathan A. Keane et.al.|[2303.17756v1](http://arxiv.org/abs/2303.17756v1)|null|
 |**2023-03-30**|**Global existence of weak solutions and weak-strong uniqueness for nonisothermal Maxwell-Stefan systems**|Stefanos Georgiadis et.al.|[2303.17693v1](http://arxiv.org/abs/2303.17693v1)|null|
 |**2023-03-30**|**On the equivocal nature of the mass absorption curves**|Pawel Rochowski et.al.|[2303.17681v1](http://arxiv.org/abs/2303.17681v1)|null|
-|**2023-03-30**|**Efficient Finite Difference WENO Scheme for Hyperbolic Systems with Non-Conservative Products**|Dinshaw S. Balsara et.al.|[2303.17672v1](http://arxiv.org/abs/2303.17672v1)|null|
+|**2023-03-30**|**Efficient Finite Difference WENO Scheme for Hyperbolic Systems with Non-Conservative Products**|Dinshaw S. Balsara et.al.|[2303.17672v2](http://arxiv.org/abs/2303.17672v2)|null|
 |**2023-03-30**|**Sequential epidemic spread between agglomerates of self-propelled agents in one dimension**|Pablo de Castro et.al.|[2303.17645v1](http://arxiv.org/abs/2303.17645v1)|null|
 |**2023-03-30**|**Investigating physical states of molecular gas in the overlapping region of interacting galaxies NGC4567/4568 using ALMA**|Hiroyuki Kaneko et.al.|[2303.17638v1](http://arxiv.org/abs/2303.17638v1)|null|
 |**2023-03-30**|**AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control**|Ruixiang Jiang et.al.|[2303.17606v1](http://arxiv.org/abs/2303.17606v1)|null|
@@ -147,7 +147,7 @@ layout: default
 |**2023-03-31**|**LaCViT: A Label-aware Contrastive Training Framework for Vision Transformers**|Zijun Long et.al.|[2303.18013v1](http://arxiv.org/abs/2303.18013v1)|null|
 |**2023-03-31**|**Exploring the Limits of Deep Image Clustering using Pretrained Models**|Nikolas Adaloglou et.al.|[2303.17896v1](http://arxiv.org/abs/2303.17896v1)|null|
 |**2023-03-31**|**Visual Anomaly Detection via Dual-Attention Transformer and Discriminative Flow**|Haiming Yao et.al.|[2303.17882v1](http://arxiv.org/abs/2303.17882v1)|null|
-|**2023-03-31**|**Rethinking Local Perception in Lightweight Vision Transformer**|Qihang Fan et.al.|[2303.17803v1](http://arxiv.org/abs/2303.17803v1)|null|
+|**2023-03-31**|**Rethinking Local Perception in Lightweight Vision Transformer**|Qihang Fan et.al.|[2303.17803v2](http://arxiv.org/abs/2303.17803v2)|null|
 |**2023-03-30**|**If At First You Don't Succeed: Test Time Re-ranking for Zero-shot, Cross-domain Retrieval**|Finlay G. C. Hudson et.al.|[2303.17703v1](http://arxiv.org/abs/2303.17703v1)|null|
 |**2023-03-30**|**Whether and When does Endoscopy Domain Pretraining Make Sense?**|Dominik Batić et.al.|[2303.17636v1](http://arxiv.org/abs/2303.17636v1)|null|
 |**2023-03-30**|**SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer**|Xuanyao Chen et.al.|[2303.17605v1](http://arxiv.org/abs/2303.17605v1)|null|
@@ -193,7 +193,7 @@ layout: default
 |**2023-03-27**|**JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields**|Xi Wang et.al.|[2303.15427v1](http://arxiv.org/abs/2303.15427v1)|null|
 |**2023-03-27**|**Generalizable Neural Voxels for Fast Human Radiance Fields**|Taoran Yi et.al.|[2303.15387v1](http://arxiv.org/abs/2303.15387v1)|null|
 |**2023-03-27**|**NeUDF: Learning Unsigned Distance Fields from Multi-view Images for Reconstructing Non-watertight Models**|Fei Hou et.al.|[2303.15368v1](http://arxiv.org/abs/2303.15368v1)|null|
-|**2023-03-24**|**Perceptual Quality Assessment of NeRF and Neural View Synthesis Methods for Front-Facing Views**|Hanxue Liang et.al.|[2303.15206v1](http://arxiv.org/abs/2303.15206v1)|null|
+|**2023-03-24**|**Perceptual Quality Assessment of NeRF and Neural View Synthesis Methods for Front-Facing Views**|Hanxue Liang et.al.|[2303.15206v2](http://arxiv.org/abs/2303.15206v2)|null|
 |**2023-03-27**|**3D-Aware Multi-Class Image-to-Image Translation with NeRFs**|Senmao Li et.al.|[2303.15012v1](http://arxiv.org/abs/2303.15012v1)|**[link](https://github.com/sen-mao/3di2i-translation)**|
 |**2023-03-26**|**Clean-NeRF: Reformulating NeRF to account for View-Dependent Observations**|Xinhang Liu et.al.|[2303.14707v1](http://arxiv.org/abs/2303.14707v1)|null|
 |**2023-03-25**|**SUDS: Scalable Urban Dynamic Scenes**|Haithem Turki et.al.|[2303.14536v1](http://arxiv.org/abs/2303.14536v1)|null|
@@ -294,7 +294,7 @@ layout: default
 |**2023-03-28**|**F$^{2}$-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories**|Peng Wang et.al.|[2303.15951v1](http://arxiv.org/abs/2303.15951v1)|null|
 |**2023-03-28**|**Novel View Synthesis of Humans using Differentiable Rendering**|Guillaume Rochette et.al.|[2303.15880v1](http://arxiv.org/abs/2303.15880v1)|**[link](https://github.com/guillaumerochette/humanviewsynthesis)**|
 |**2023-03-27**|**Generalizable Neural Voxels for Fast Human Radiance Fields**|Taoran Yi et.al.|[2303.15387v1](http://arxiv.org/abs/2303.15387v1)|null|
-|**2023-03-24**|**Perceptual Quality Assessment of NeRF and Neural View Synthesis Methods for Front-Facing Views**|Hanxue Liang et.al.|[2303.15206v1](http://arxiv.org/abs/2303.15206v1)|null|
+|**2023-03-24**|**Perceptual Quality Assessment of NeRF and Neural View Synthesis Methods for Front-Facing Views**|Hanxue Liang et.al.|[2303.15206v2](http://arxiv.org/abs/2303.15206v2)|null|
 |**2023-03-26**|**Clean-NeRF: Reformulating NeRF to account for View-Dependent Observations**|Xinhang Liu et.al.|[2303.14707v1](http://arxiv.org/abs/2303.14707v1)|null|
 |**2023-03-25**|**SUDS: Scalable Urban Dynamic Scenes**|Haithem Turki et.al.|[2303.14536v1](http://arxiv.org/abs/2303.14536v1)|null|
 |**2023-03-25**|**NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects**|Zhiwen Yan et.al.|[2303.14435v1](http://arxiv.org/abs/2303.14435v1)|**[link](https://github.com/jokeryan/nerf-ds)**|
