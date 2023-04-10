@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.09
+## Updated on 2023.04.10
 
 ## Image Generation
 
@@ -120,7 +120,7 @@ layout: default
 |**2023-04-06**|**Theory of free fermions under random projective measurements**|Igor Poboiko et.al.|[2304.03138v1](http://arxiv.org/abs/2304.03138v1)|null|
 |**2023-04-06**|**Zero-shot Generative Model Adaptation via Image-specific Prompt Learning**|Jiayi Guo et.al.|[2304.03119v1](http://arxiv.org/abs/2304.03119v1)|**[link](https://github.com/picsart-ai-research/ipl-zero-shot-generative-model-adaptation)**|
 |**2023-04-06**|**Pitch-angle diffusion through localized interactions with sharp magnetic field bends in MHD turbulence**|Martin Lemoine et.al.|[2304.03023v1](http://arxiv.org/abs/2304.03023v1)|null|
-|**2023-04-06**|**Linear, quasi-Linear and nonlinear radial transport in the Earth's radiation belts**|Adnane Osmane et.al.|[2304.03009v1](http://arxiv.org/abs/2304.03009v1)|null|
+|**2023-04-06**|**Linear, Quasi-Linear and Nonlinear Radial Transport in the Earth's Radiation Belts**|Adnane Osmane et.al.|[2304.03009v2](http://arxiv.org/abs/2304.03009v2)|null|
 |**2023-04-06**|**Benchmarking Robustness to Text-Guided Corruptions**|Mohammadreza Mofayezi et.al.|[2304.02963v1](http://arxiv.org/abs/2304.02963v1)|null|
 |**2023-04-06**|**Neural Network Kinetics: Diffusion Multiplicity and B2 Ordering in Compositionally Complex Alloys**|Bin Xing et.al.|[2304.02957v1](http://arxiv.org/abs/2304.02957v1)|null|
 |**2023-04-06**|**B meson production in Pb+Pb at 5.02 ATeV at LHC: estimating the diffusion coefficient in the infinite mass limit**|Maria Lucia Sambataro et.al.|[2304.02953v1](http://arxiv.org/abs/2304.02953v1)|null|
