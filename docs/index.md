@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.12
+## Updated on 2023.04.13
 
 ## Image Generation
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-11**|**HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models**|Eslam Mohamed Bakr et.al.|[2304.05390v1](http://arxiv.org/abs/2304.05390v1)|**[link](https://github.com/eslambakr/HRS_benchmark)**|
 |**2023-04-11**|**Diffusion Models for Constrained Domains**|Nic Fishman et.al.|[2304.05364v1](http://arxiv.org/abs/2304.05364v1)|null|
-|**2023-04-11**|**Controllable Textual Inversion for Personalized Text-to-Image Generation**|Jianan Yang et.al.|[2304.05265v1](http://arxiv.org/abs/2304.05265v1)|null|
+|**2023-04-11**|**Controllable Textual Inversion for Personalized Text-to-Image Generation**|Jianan Yang et.al.|[2304.05265v2](http://arxiv.org/abs/2304.05265v2)|null|
 |**2023-04-11**|**Open Set Classification of GAN-based Image Manipulations via a ViT-based Hybrid Architecture**|Jun Wang et.al.|[2304.05212v1](http://arxiv.org/abs/2304.05212v1)|null|
 |**2023-04-11**|**NeAT: Neural Artistic Tracing for Beautiful Style Transfer**|Dan Ruta et.al.|[2304.05139v1](http://arxiv.org/abs/2304.05139v1)|**[link](https://github.com/danruta/neat)**|
 |**2023-04-11**|**SPIRiT-Diffusion: Self-Consistency Driven Diffusion Model for Accelerated MRI**|Zhuo-Xu Cui et.al.|[2304.05060v1](http://arxiv.org/abs/2304.05060v1)|null|
@@ -186,7 +186,7 @@ layout: default
 |**2023-04-10**|**Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos**|Liao Wang et.al.|[2304.04452v1](http://arxiv.org/abs/2304.04452v1)|null|
 |**2023-04-10**|**Inferring Fluid Dynamics via Inverse Rendering**|Jinxian Liu et.al.|[2304.04446v1](http://arxiv.org/abs/2304.04446v1)|null|
 |**2023-04-10**|**Instance Neural Radiance Field**|Benran Hu et.al.|[2304.04395v1](http://arxiv.org/abs/2304.04395v1)|null|
-|**2023-04-09**|**NeRF applied to satellite imagery for surface reconstruction**|Federico Semeraro et.al.|[2304.04133v2](http://arxiv.org/abs/2304.04133v2)|**[link](https://github.com/fsemerar/satnerf)**|
+|**2023-04-09**|**NeRF applied to satellite imagery for surface reconstruction**|Federico Semeraro et.al.|[2304.04133v3](http://arxiv.org/abs/2304.04133v3)|**[link](https://github.com/fsemerar/satnerf)**|
 |**2023-04-08**|**PVD-AL: Progressive Volume Distillation with Active Learning for Efficient Conversion Between Different NeRF Architectures**|Shuangkang Fang et.al.|[2304.04012v1](http://arxiv.org/abs/2304.04012v1)|null|
 |**2023-04-07**|**Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field**|Leheng Li et.al.|[2304.03526v1](http://arxiv.org/abs/2304.03526v1)|null|
 |**2023-04-06**|**Beyond NeRF Underwater: Learning Neural Reflectance Fields for True Color Correction of Marine Imagery**|Tianyi Zhang et.al.|[2304.03384v1](http://arxiv.org/abs/2304.03384v1)|null|
