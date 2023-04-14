@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.13
+## Updated on 2023.04.14
 
 ## Image Generation
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-12**|**VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**|Moayed Haji Ali et.al.|[2304.06020v1](http://arxiv.org/abs/2304.06020v1)|null|
 |**2023-04-12**|**APPLeNet: Visual Attention Parameterized Prompt Learning for Few-Shot Remote Sensing Image Generalization using CLIP**|Mainak Singha et.al.|[2304.05995v1](http://arxiv.org/abs/2304.05995v1)|null|
-|**2023-04-12**|**ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation**|Jiazheng Xu et.al.|[2304.05977v1](http://arxiv.org/abs/2304.05977v1)|null|
+|**2023-04-12**|**ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation**|Jiazheng Xu et.al.|[2304.05977v2](http://arxiv.org/abs/2304.05977v2)|**[link](https://github.com/thudm/imagereward)**|
 |**2023-04-12**|**NoisyTwins: Class-Consistent and Diverse Image Generation through StyleGANs**|Harsh Rangwani et.al.|[2304.05866v1](http://arxiv.org/abs/2304.05866v1)|null|
 |**2023-04-12**|**Gradient-Free Textual Inversion**|Zhengcong Fei et.al.|[2304.05818v1](http://arxiv.org/abs/2304.05818v1)|null|
 |**2023-04-12**|**Ill-Posed Image Reconstruction Without an Image Prior**|Oscar Leong et.al.|[2304.05589v1](http://arxiv.org/abs/2304.05589v1)|null|
@@ -28,7 +28,7 @@ layout: default
 |**2023-04-10**|**A Cheaper and Better Diffusion Language Model with Soft-Masked Noise**|Jiaao Chen et.al.|[2304.04746v1](http://arxiv.org/abs/2304.04746v1)|**[link](https://github.com/amazon-science/masked-diffusion-lm)**|
 |**2023-04-10**|**Deep Image Matting: A Comprehensive Survey**|Jizhizi Li et.al.|[2304.04672v1](http://arxiv.org/abs/2304.04672v1)|**[link](https://github.com/jizhizili/matting-survey)**|
 |**2023-04-10**|**SPHR-SAR-Net: Superpixel High-resolution SAR Imaging Network Based on Nonlocal Total Variation**|Guoru Zhou et.al.|[2304.04428v1](http://arxiv.org/abs/2304.04428v1)|null|
-|**2023-04-10**|**High Dynamic Range Imaging with Context-aware Transformer**|Fangfang Zhou et.al.|[2304.04416v1](http://arxiv.org/abs/2304.04416v1)|null|
+|**2023-04-10**|**High Dynamic Range Imaging with Context-aware Transformer**|Fangfang Zhou et.al.|[2304.04416v2](http://arxiv.org/abs/2304.04416v2)|null|
 |**2023-04-10**|**Towards Real-time Text-driven Image Manipulation with Unconditional Diffusion Models**|Nikita Starodubcev et.al.|[2304.04344v1](http://arxiv.org/abs/2304.04344v1)|**[link](https://github.com/quickjkee/eff-diff-edit)**|
 |**2023-04-09**|**HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation**|Xuan Ju et.al.|[2304.04269v1](http://arxiv.org/abs/2304.04269v1)|null|
 |**2023-04-08**|**Deep Generative Modeling with Backward Stochastic Differential Equations**|Xingcheng Xu et.al.|[2304.04049v1](http://arxiv.org/abs/2304.04049v1)|null|
