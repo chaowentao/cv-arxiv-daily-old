@@ -1,4 +1,4 @@
-## Updated on 2023.04.14
+## Updated on 2023.04.15
 
 ## Image Generation
 
@@ -16,7 +16,7 @@
 |**2023-04-12**|**NoisyTwins: Class-Consistent and Diverse Image Generation through StyleGANs**|Harsh Rangwani et.al.|[2304.05866v1](http://arxiv.org/abs/2304.05866v1)|null|
 |**2023-04-12**|**Gradient-Free Textual Inversion**|Zhengcong Fei et.al.|[2304.05818v1](http://arxiv.org/abs/2304.05818v1)|null|
 |**2023-04-12**|**Ill-Posed Image Reconstruction Without an Image Prior**|Oscar Leong et.al.|[2304.05589v1](http://arxiv.org/abs/2304.05589v1)|null|
-|**2023-04-12**|**Improving Diffusion Models for Scene Text Editing with Dual Encoders**|Jiabao Ji et.al.|[2304.05568v1](http://arxiv.org/abs/2304.05568v1)|null|
+|**2023-04-12**|**Improving Diffusion Models for Scene Text Editing with Dual Encoders**|Jiabao Ji et.al.|[2304.05568v1](http://arxiv.org/abs/2304.05568v1)|**[link](https://github.com/ucsb-nlp-chang/diffste)**|
 |**2023-04-10**|**SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model**|Saikat Roy et.al.|[2304.05396v1](http://arxiv.org/abs/2304.05396v1)|null|
 |**2023-04-11**|**HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models**|Eslam Mohamed Bakr et.al.|[2304.05390v1](http://arxiv.org/abs/2304.05390v1)|**[link](https://github.com/eslambakr/HRS_benchmark)**|
 |**2023-04-11**|**Diffusion Models for Constrained Domains**|Nic Fishman et.al.|[2304.05364v1](http://arxiv.org/abs/2304.05364v1)|null|
