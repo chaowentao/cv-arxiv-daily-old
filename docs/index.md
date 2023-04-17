@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.16
+## Updated on 2023.04.17
 
 ## Image Generation
 
@@ -11,7 +11,7 @@ layout: default
 |**2023-04-13**|**Expressive Text-to-Image Generation with Rich Text**|Songwei Ge et.al.|[2304.06720v1](http://arxiv.org/abs/2304.06720v1)|null|
 |**2023-04-13**|**What does CLIP know about a red circle? Visual prompt engineering for VLMs**|Aleksandar Shtedritski et.al.|[2304.06712v1](http://arxiv.org/abs/2304.06712v1)|null|
 |**2023-04-13**|**Learning Controllable 3D Diffusion Models from Single-view Images**|Jiatao Gu et.al.|[2304.06700v1](http://arxiv.org/abs/2304.06700v1)|null|
-|**2023-04-13**|**Diagnostic Benchmark and Iterative Inpainting for Layout-Guided Image Generation**|Jaemin Cho et.al.|[2304.06671v1](http://arxiv.org/abs/2304.06671v1)|null|
+|**2023-04-13**|**Diagnostic Benchmark and Iterative Inpainting for Layout-Guided Image Generation**|Jaemin Cho et.al.|[2304.06671v2](http://arxiv.org/abs/2304.06671v2)|null|
 |**2023-04-13**|**Intriguing properties of synthetic images: from generative adversarial networks to diffusion models**|Riccardo Corvi et.al.|[2304.06408v1](http://arxiv.org/abs/2304.06408v1)|null|
 |**2023-04-13**|**ALR-GAN: Adaptive Layout Refinement for Text-to-Image Synthesis**|Hongchen Tan et.al.|[2304.06297v1](http://arxiv.org/abs/2304.06297v1)|null|
 |**2023-04-12**|**VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**|Moayed Haji Ali et.al.|[2304.06020v1](http://arxiv.org/abs/2304.06020v1)|null|
@@ -130,9 +130,9 @@ layout: default
 |**2023-04-12**|**$E(3) \times SO(3)$-Equivariant Networks for Spherical Deconvolution in Diffusion MRI**|Axel Elaldi et.al.|[2304.06103v1](http://arxiv.org/abs/2304.06103v1)|**[link](https://github.com/axelelaldi/e3so3_conv)**|
 |**2023-04-12**|**Probing neutrino production in high-energy astrophysical neutrino sources with the Glashow Resonance**|Qinrui Liu et.al.|[2304.06068v1](http://arxiv.org/abs/2304.06068v1)|null|
 |**2023-04-12**|**Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA**|James Seale Smith et.al.|[2304.06027v1](http://arxiv.org/abs/2304.06027v1)|null|
-|**2023-04-12**|**DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion**|Johanna Karras et.al.|[2304.06025v1](http://arxiv.org/abs/2304.06025v1)|null|
+|**2023-04-12**|**DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion**|Johanna Karras et.al.|[2304.06025v2](http://arxiv.org/abs/2304.06025v2)|null|
 |**2023-04-12**|**Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views**|Siwei Zhang et.al.|[2304.06024v1](http://arxiv.org/abs/2304.06024v1)|null|
-|**2023-04-12**|**Gap Opening in Protoplanetary Disks: Gas Dynamics from Global Non-ideal MHD Simulations with Consistent Thermochemistry**|Xiao Hu et.al.|[2304.05972v1](http://arxiv.org/abs/2304.05972v1)|null|
+|**2023-04-12**|**Gap Opening in Protoplanetary Disks: Gas Dynamics from Global Non-ideal MHD Simulations with Consistent Thermochemistry**|Xiao Hu et.al.|[2304.05972v2](http://arxiv.org/abs/2304.05972v2)|null|
 |**2023-04-12**|**SpectralDiff: Hyperspectral Image Classification with Spectral-Spatial Diffusion Models**|Ning Chen et.al.|[2304.05961v1](http://arxiv.org/abs/2304.05961v1)|null|
 |**2023-04-12**|**Quantum measurement feedback models of friction beyond the diffusive limit and their connection to collapse models**|Michael Gaida et.al.|[2304.05940v1](http://arxiv.org/abs/2304.05940v1)|null|
 |**2023-04-12**|**Altered Topological Structure of the Brain White Matter in Maltreated Children through Topological Data Analysis**|Tahmineh Azizi et.al.|[2304.05908v1](http://arxiv.org/abs/2304.05908v1)|null|
