@@ -1,4 +1,4 @@
-## Updated on 2023.04.20
+## Updated on 2023.04.21
 
 ## Image Generation
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2023-04-19**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v1](http://arxiv.org/abs/2304.09854v1)|**[link](https://github.com/lxtgh/awesome-segmenation-with-transformer)**|
 |**2023-04-17**|**Attributing Image Generative Models using Latent Fingerprints**|Guangyu Nie et.al.|[2304.09752v1](http://arxiv.org/abs/2304.09752v1)|**[link](https://github.com/guangyunie/watermarking-through-style-space-edition)**|
-|**2023-04-19**|**Any-to-Any Style Transfer**|Songhua Liu et.al.|[2304.09728v1](http://arxiv.org/abs/2304.09728v1)|**[link](https://github.com/huage001/transfer-any-style)**|
+|**2023-04-19**|**Any-to-Any Style Transfer: Making Picasso and Da Vinci Collaborate**|Songhua Liu et.al.|[2304.09728v2](http://arxiv.org/abs/2304.09728v2)|**[link](https://github.com/huage001/transfer-any-style)**|
 |**2023-04-19**|**ReelFramer: Co-creating News Reels on Social Media with Generative AI**|Sitong Wang et.al.|[2304.09653v1](http://arxiv.org/abs/2304.09653v1)|null|
 |**2023-04-19**|**On the Effectiveness of Image Manipulation Detection in the Age of Social Media**|Rosaura G. VidalMata et.al.|[2304.09414v1](http://arxiv.org/abs/2304.09414v1)|null|
 |**2023-04-18**|**Promptify: Text-to-Image Generation through Interactive Prompt Exploration with Large Language Models**|Stephen Brade et.al.|[2304.09337v1](http://arxiv.org/abs/2304.09337v1)|null|
@@ -144,7 +144,7 @@
 |**2023-04-19**|**CMID: A Unified Self-Supervised Learning Framework for Remote Sensing Image Understanding**|Dilxat Muhtar et.al.|[2304.09670v1](http://arxiv.org/abs/2304.09670v1)|**[link](https://github.com/NJU-LHRS/official-CMID)**|
 |**2023-04-19**|**Boosting Semantic Segmentation with Semantic Boundaries**|Haruya Ishikawa et.al.|[2304.09427v1](http://arxiv.org/abs/2304.09427v1)|**[link](https://github.com/haruishi43/boundary_boost_mmseg)**|
 |**2023-04-18**|**Fibroglandular Tissue Segmentation in Breast MRI using Vision Transformers -- A multi-institutional evaluation**|Gustav Müller-Franzes et.al.|[2304.08972v1](http://arxiv.org/abs/2304.08972v1)|null|
-|**2023-04-18**|**AutoTaskFormer: Searching Vision Transformers for Multi-task Learning**|Yang Liu et.al.|[2304.08756v1](http://arxiv.org/abs/2304.08756v1)|null|
+|**2023-04-18**|**AutoTaskFormer: Searching Vision Transformers for Multi-task Learning**|Yang Liu et.al.|[2304.08756v2](http://arxiv.org/abs/2304.08756v2)|null|
 |**2023-04-17**|**Synthetic Data from Diffusion Models Improves ImageNet Classification**|Shekoofeh Azizi et.al.|[2304.08466v1](http://arxiv.org/abs/2304.08466v1)|null|
 |**2023-04-17**|**Efficient Video Action Detection with Token Dropout and Context Refinement**|Lei Chen et.al.|[2304.08451v1](http://arxiv.org/abs/2304.08451v1)|null|
 |**2023-04-17**|**Transformer with Selective Shuffled Position Embedding using ROI-Exchange Strategy for Early Detection of Knee Osteoarthritis**|Zhe Wang et.al.|[2304.08364v1](http://arxiv.org/abs/2304.08364v1)|null|
@@ -153,7 +153,7 @@
 |**2023-04-16**|**A Data-Centric Solution to NonHomogeneous Dehazing via Vision Transformer**|Yangyi Liu et.al.|[2304.07874v2](http://arxiv.org/abs/2304.07874v2)|**[link](https://github.com/yangyiliu21/ntire2023_itbdehaze)**|
 |**2023-04-15**|**MA-ViT: Modality-Agnostic Vision Transformers for Face Anti-Spoofing**|Ajian Liu et.al.|[2304.07549v1](http://arxiv.org/abs/2304.07549v1)|null|
 |**2023-04-14**|**Uncovering the Inner Workings of STEGO for Safe Unsupervised Semantic Segmentation**|Alexander Koenig et.al.|[2304.07314v1](http://arxiv.org/abs/2304.07314v1)|**[link](https://github.com/merantix-momentum/stego-studies)**|
-|**2023-04-14**|**CAD-RADS scoring of coronary CT angiography with Multi-Axis Vision Transformer: a clinically-inspired deep learning pipeline**|Alessia Gerbasi et.al.|[2304.07277v1](http://arxiv.org/abs/2304.07277v1)|null|
+|**2023-04-14**|**CAD-RADS scoring of coronary CT angiography with Multi-Axis Vision Transformer: a clinically-inspired deep learning pipeline**|Alessia Gerbasi et.al.|[2304.07277v1](http://arxiv.org/abs/2304.07277v1)|**[link](https://github.com/ales-git/DeepCADRADS)**|
 |**2023-04-14**|**Sub-meter resolution canopy height maps using self-supervised learning and a vision transformer trained on Aerial and GEDI Lidar**|Jamie Tolan et.al.|[2304.07213v2](http://arxiv.org/abs/2304.07213v2)|null|
 |**2023-04-14**|**Preserving Locality in Vision Transformers for Class Incremental Learning**|Bowen Zheng et.al.|[2304.06971v1](http://arxiv.org/abs/2304.06971v1)|**[link](https://github.com/bwnzheng/lpa_icme2023)**|
 |**2023-04-13**|**SpectFormer: Frequency and Attention is what you need in a Vision Transformer**|Badri N. Patro et.al.|[2304.06446v2](http://arxiv.org/abs/2304.06446v2)|null|
@@ -174,7 +174,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-04-19**|**Reference-guided Controllable Inpainting of Neural Radiance Fields**|Ashkan Mirzaei et.al.|[2304.09677v1](http://arxiv.org/abs/2304.09677v1)|null|
+|**2023-04-19**|**Reference-guided Controllable Inpainting of Neural Radiance Fields**|Ashkan Mirzaei et.al.|[2304.09677v2](http://arxiv.org/abs/2304.09677v2)|null|
 |**2023-04-18**|**SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**|Yiming Gao et.al.|[2304.08971v1](http://arxiv.org/abs/2304.08971v1)|null|
 |**2023-04-18**|**NeAI: A Pre-convoluted Representation for Plug-and-Play Neural Ambient Illumination**|Yiyu Zhuang et.al.|[2304.08757v1](http://arxiv.org/abs/2304.08757v1)|null|
 |**2023-04-17**|**MoDA: Modeling Deformable 3D Objects from Casual Videos**|Chaoyue Song et.al.|[2304.08279v1](http://arxiv.org/abs/2304.08279v1)|**[link](https://github.com/chaoyuesong/moda)**|
@@ -224,7 +224,7 @@
 |**2023-04-13**|**A Comprehensive Comparison of Projections in Omnidirectional Super-Resolution**|Huicheng Pi et.al.|[2304.06497v1](http://arxiv.org/abs/2304.06497v1)|null|
 |**2023-04-13**|**CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input**|Senmao Tian et.al.|[2304.06454v1](http://arxiv.org/abs/2304.06454v1)|null|
 |**2023-04-13**|**Cross-View Hierarchy Network for Stereo Image Super-Resolution**|Wenbin Zou et.al.|[2304.06236v1](http://arxiv.org/abs/2304.06236v1)|null|
-|**2023-04-10**|**Hyperspectral Image Super-Resolution via Dual-domain Network Based on Hybrid Convolution**|Tingting Liu et.al.|[2304.04589v3](http://arxiv.org/abs/2304.04589v3)|null|
+|**2023-04-10**|**Hyperspectral Image Super-Resolution via Dual-domain Network Based on Hybrid Convolution**|Tingting Liu et.al.|[2304.04589v4](http://arxiv.org/abs/2304.04589v4)|**[link](https://github.com/lttdouble/srdnet)**|
 |**2023-04-10**|**Local-Global Temporal Difference Learning for Satellite Video Super-Resolution**|Yi Xiao et.al.|[2304.04421v1](http://arxiv.org/abs/2304.04421v1)|**[link](https://github.com/xy-boy/tdmvsr)**|
 |**2023-04-09**|**Towards Arbitrary-scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework based on Implicit Self-texture Enhancement**|Linhao Qu et.al.|[2304.04238v1](http://arxiv.org/abs/2304.04238v1)|null|
 |**2023-04-09**|**HyperINR: A Fast and Predictive Hypernetwork for Implicit Neural Representations via Knowledge Distillation**|Qi Wu et.al.|[2304.04188v1](http://arxiv.org/abs/2304.04188v1)|null|
@@ -245,14 +245,14 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-04-19**|**CrossFusion: Interleaving Cross-modal Complementation for Noise-resistant 3D Object Detection**|Yang Yang et.al.|[2304.09694v1](http://arxiv.org/abs/2304.09694v1)|null|
-|**2023-04-19**|**Reference-guided Controllable Inpainting of Neural Radiance Fields**|Ashkan Mirzaei et.al.|[2304.09677v1](http://arxiv.org/abs/2304.09677v1)|null|
+|**2023-04-19**|**Reference-guided Controllable Inpainting of Neural Radiance Fields**|Ashkan Mirzaei et.al.|[2304.09677v2](http://arxiv.org/abs/2304.09677v2)|null|
 |**2023-04-18**|**Learning to Fuse Monocular and Multi-view Cues for Multi-frame Depth Estimation in Dynamic Scenes**|Rui Li et.al.|[2304.08993v1](http://arxiv.org/abs/2304.08993v1)|**[link](https://github.com/ruili3/dynamic-multiframe-depth)**|
 |**2023-04-18**|**Pose Constraints for Consistent Self-supervised Monocular Depth and Ego-motion**|Zeeshan Khan Suri et.al.|[2304.08916v1](http://arxiv.org/abs/2304.08916v1)|null|
 |**2023-04-17**|**360$^\circ$ High-Resolution Depth Estimation via Uncertainty-aware Structural Knowledge Transfer**|Zidong Cao et.al.|[2304.07967v1](http://arxiv.org/abs/2304.07967v1)|null|
 |**2023-04-16**|**EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation**|Ilwi Yun et.al.|[2304.07803v1](http://arxiv.org/abs/2304.07803v1)|null|
 |**2023-04-15**|**Temporally Consistent Online Depth Estimation Using Point-Based Fusion**|Numair Khan et.al.|[2304.07435v1](http://arxiv.org/abs/2304.07435v1)|null|
 |**2023-04-14**|**Efficient Incremental Penetration Depth Estimation between Convex Geometries**|Wei Gao et.al.|[2304.07357v1](http://arxiv.org/abs/2304.07357v1)|null|
-|**2023-04-14**|**The Second Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2304.07051v1](http://arxiv.org/abs/2304.07051v1)|null|
+|**2023-04-14**|**The Second Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2304.07051v2](http://arxiv.org/abs/2304.07051v2)|null|
 |**2023-04-14**|**Self-Supervised Learning based Depth Estimation from Monocular Images**|Mayank Poddar et.al.|[2304.06966v1](http://arxiv.org/abs/2304.06966v1)|**[link](https://github.com/nyu-ce-projects/depth-estimation)**|
 |**2023-04-13**|**Event-based tracking of human hands**|Laura Duarte et.al.|[2304.06534v1](http://arxiv.org/abs/2304.06534v1)|null|
 |**2023-04-13**|**iDisc: Internal Discretization for Monocular Depth Estimation**|Luigi Piccinelli et.al.|[2304.06334v1](http://arxiv.org/abs/2304.06334v1)|**[link](https://github.com/SysCV/idisc)**|
@@ -279,8 +279,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-04-19**|**Reference-guided Controllable Inpainting of Neural Radiance Fields**|Ashkan Mirzaei et.al.|[2304.09677v1](http://arxiv.org/abs/2304.09677v1)|null|
-|**2023-04-19**|**Single-View View Synthesis with Self-Rectified Pseudo-Stereo**|Zhou Yang et.al.|[2304.09527v1](http://arxiv.org/abs/2304.09527v1)|null|
+|**2023-04-19**|**Reference-guided Controllable Inpainting of Neural Radiance Fields**|Ashkan Mirzaei et.al.|[2304.09677v2](http://arxiv.org/abs/2304.09677v2)|null|
+|**2023-04-19**|**Single-View View Synthesis with Self-Rectified Pseudo-Stereo**|Yang Zhou et.al.|[2304.09527v2](http://arxiv.org/abs/2304.09527v2)|null|
 |**2023-04-18**|**SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**|Yiming Gao et.al.|[2304.08971v1](http://arxiv.org/abs/2304.08971v1)|null|
 |**2023-04-17**|**Learning to Render Novel Views from Wide-Baseline Stereo Pairs**|Yilun Du et.al.|[2304.08463v1](http://arxiv.org/abs/2304.08463v1)|null|
 |**2023-04-15**|**Temporally Consistent Online Depth Estimation Using Point-Based Fusion**|Numair Khan et.al.|[2304.07435v1](http://arxiv.org/abs/2304.07435v1)|null|
