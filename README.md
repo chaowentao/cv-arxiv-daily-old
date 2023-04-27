@@ -1,4 +1,4 @@
-## Updated on 2023.04.26
+## Updated on 2023.04.27
 
 ## Image Generation
 
@@ -118,7 +118,7 @@
 |**2023-04-25**|**Observation of Multiple Topological Corner States in Thermal Diffusion**|Minghong Qi et.al.|[2304.12641v1](http://arxiv.org/abs/2304.12641v1)|null|
 |**2023-04-25**|**Self-consistent gyrokinetic modelling of turbulent and neoclassical tungsten transport in toroidally rotating plasmas**|Kyungtak Lim et.al.|[2304.12603v1](http://arxiv.org/abs/2304.12603v1)|null|
 |**2023-04-25**|**Constraints on the $e^{\pm }$ Pair Injection of Pulsar Halos: Implications from the Galactic Diffuse Multi-TeV Gamma-ray Emission**|Kai Yan et.al.|[2304.12574v1](http://arxiv.org/abs/2304.12574v1)|null|
-|**2023-04-25**|**Efficient Bayesian inference using physics-informed invertible neural networks for inverse problems**|Xiaofei Guan et.al.|[2304.12541v1](http://arxiv.org/abs/2304.12541v1)|null|
+|**2023-04-25**|**Efficient Bayesian inference using physics-informed invertible neural networks for inverse problems**|Xiaofei Guan et.al.|[2304.12541v2](http://arxiv.org/abs/2304.12541v2)|null|
 |**2023-04-25**|**Exploring Compositional Visual Generation with Latent Classifier Guidance**|Changhao Shi et.al.|[2304.12536v1](http://arxiv.org/abs/2304.12536v1)|null|
 |**2023-04-25**|**Patch Diffusion: Faster and More Data-Efficient Training of Diffusion Models**|Zhendong Wang et.al.|[2304.12526v1](http://arxiv.org/abs/2304.12526v1)|null|
 |**2023-04-25**|**RenderDiffusion: Text Generation as Image Generation**|Junyi Li et.al.|[2304.12519v1](http://arxiv.org/abs/2304.12519v1)|null|
@@ -175,10 +175,10 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-04-25**|**Local Implicit Ray Function for Generalizable Radiance Field Representation**|Xin Huang et.al.|[2304.12746v1](http://arxiv.org/abs/2304.12746v1)|null|
-|**2023-04-25**|**MixNeRF: Memory Efficient NeRF with Feature Mixed-up Hash Table**|Yongjae Lee et.al.|[2304.12587v1](http://arxiv.org/abs/2304.12587v1)|**[link](https://github.com/nfyfamr/mixnerf)**|
+|**2023-04-25**|**MixNeRF: Memory Efficient NeRF with Feature Mixed-up Hash Table**|Yongjae Lee et.al.|[2304.12587v2](http://arxiv.org/abs/2304.12587v2)|**[link](https://github.com/nfyfamr/mixnerf)**|
 |**2023-04-24**|**Instant-3D: Instant Neural Radiance Field Training Towards On-Device AR/VR 3D Reconstruction**|Sixu Li et.al.|[2304.12467v1](http://arxiv.org/abs/2304.12467v1)|null|
 |**2023-04-24**|**TextMesh: Generation of Realistic 3D Meshes From Text Prompts**|Christina Tsalicoglou et.al.|[2304.12439v1](http://arxiv.org/abs/2304.12439v1)|null|
-|**2023-04-24**|**Segment Anything in 3D with NeRFs**|Jiazhong Cen et.al.|[2304.12308v1](http://arxiv.org/abs/2304.12308v1)|null|
+|**2023-04-24**|**Segment Anything in 3D with NeRFs**|Jiazhong Cen et.al.|[2304.12308v2](http://arxiv.org/abs/2304.12308v2)|null|
 |**2023-04-24**|**Explicit Correspondence Matching for Generalizable Neural Radiance Fields**|Yuedong Chen et.al.|[2304.12294v1](http://arxiv.org/abs/2304.12294v1)|**[link](https://github.com/donydchen/matchnerf)**|
 |**2023-04-24**|**Gen-NeRF: Efficient and Generalizable Neural Radiance Fields via Algorithm-Hardware Co-Design**|Yonggan Fu et.al.|[2304.11842v2](http://arxiv.org/abs/2304.11842v2)|null|
 |**2023-04-22**|**3D-IntPhys: Towards More Generalized 3D-grounded Visual Intuitive Physics under Challenging Scenes**|Haotian Xue et.al.|[2304.11470v1](http://arxiv.org/abs/2304.11470v1)|null|
@@ -258,7 +258,7 @@
 |**2023-04-16**|**EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation**|Ilwi Yun et.al.|[2304.07803v1](http://arxiv.org/abs/2304.07803v1)|null|
 |**2023-04-15**|**Temporally Consistent Online Depth Estimation Using Point-Based Fusion**|Numair Khan et.al.|[2304.07435v1](http://arxiv.org/abs/2304.07435v1)|null|
 |**2023-04-14**|**Efficient Incremental Penetration Depth Estimation between Convex Geometries**|Wei Gao et.al.|[2304.07357v1](http://arxiv.org/abs/2304.07357v1)|null|
-|**2023-04-14**|**The Second Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2304.07051v2](http://arxiv.org/abs/2304.07051v2)|null|
+|**2023-04-14**|**The Second Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2304.07051v3](http://arxiv.org/abs/2304.07051v3)|null|
 |**2023-04-14**|**Self-Supervised Learning based Depth Estimation from Monocular Images**|Mayank Poddar et.al.|[2304.06966v1](http://arxiv.org/abs/2304.06966v1)|**[link](https://github.com/nyu-ce-projects/depth-estimation)**|
 |**2023-04-13**|**Event-based tracking of human hands**|Laura Duarte et.al.|[2304.06534v1](http://arxiv.org/abs/2304.06534v1)|null|
 |**2023-04-13**|**iDisc: Internal Discretization for Monocular Depth Estimation**|Luigi Piccinelli et.al.|[2304.06334v1](http://arxiv.org/abs/2304.06334v1)|**[link](https://github.com/SysCV/idisc)**|
