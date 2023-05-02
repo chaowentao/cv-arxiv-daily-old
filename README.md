@@ -1,4 +1,4 @@
-## Updated on 2023.05.01
+## Updated on 2023.05.02
 
 ## Image Generation
 
@@ -121,7 +121,7 @@
 |**2023-04-27**|**Maximizing Model Generalization for Manufacturing with Self-Supervised Learning and Federated Learning**|Matthew Russell et.al.|[2304.14398v1](http://arxiv.org/abs/2304.14398v1)|null|
 |**2023-04-27**|**Functional Diffusion Maps**|María Barroso et.al.|[2304.14378v1](http://arxiv.org/abs/2304.14378v1)|null|
 |**2023-04-27**|**Modeling diffusion in ionic, crystalline solids with internal stress gradients**|Benjamin L. Hess et.al.|[2304.14330v1](http://arxiv.org/abs/2304.14330v1)|null|
-|**2023-04-27**|**LDPC Decoders Prefer More Reliable Parity Bits: Unequal Data Protection Over BSC**|Beyza Dabak et.al.|[2304.14278v1](http://arxiv.org/abs/2304.14278v1)|null|
+|**2023-04-27**|**LDPC Decoders Prefer More Reliable Parity Bits: Unequal Data Protection Over BSC**|Beyza Dabak et.al.|[2304.14278v2](http://arxiv.org/abs/2304.14278v2)|null|
 |**2023-04-27**|**Diffusion MRI Prediction and Harmonization through Q-space Modeling**|Arkaprava Roy et.al.|[2304.14188v1](http://arxiv.org/abs/2304.14188v1)|null|
 |**2023-04-27**|**DataComp: In search of the next generation of multimodal datasets**|Samir Yitzhak Gadre et.al.|[2304.14108v1](http://arxiv.org/abs/2304.14108v1)|**[link](https://github.com/mlfoundations/datacomp)**|
 |**2023-04-27**|**Magnetic Field Line Separation by Random Ballistic Decorrelation in Transverse Magnetic Turbulence**|Chutima Yannawa et.al.|[2304.14067v1](http://arxiv.org/abs/2304.14067v1)|null|
@@ -143,7 +143,7 @@
 |**2023-04-28**|**PreNAS: Preferred One-Shot Learning Towards Efficient Neural Architecture Search**|Haibin Wang et.al.|[2304.14636v1](http://arxiv.org/abs/2304.14636v1)|null|
 |**2023-04-28**|**DIAMANT: Dual Image-Attention Map Encoders For Medical Image Segmentation**|Yousef Yeganeh et.al.|[2304.14571v1](http://arxiv.org/abs/2304.14571v1)|null|
 |**2023-04-27**|**Vision Conformer: Incorporating Convolutions into Vision Transformer Layers**|Brian Kenji Iwana et.al.|[2304.13991v1](http://arxiv.org/abs/2304.13991v1)|**[link](https://github.com/uchidalab/vision-conformer)**|
-|**2023-04-26**|**UniNeXt: Exploring A Unified Architecture for Vision Recognition**|Fangjian Lin et.al.|[2304.13700v1](http://arxiv.org/abs/2304.13700v1)|null|
+|**2023-04-26**|**UniNeXt: Exploring A Unified Architecture for Vision Recognition**|Fangjian Lin et.al.|[2304.13700v2](http://arxiv.org/abs/2304.13700v2)|null|
 |**2023-04-25**|**Objectives Matter: Understanding the Impact of Self-Supervised Objectives on Vision Transformer Representations**|Shashank Shekhar et.al.|[2304.13089v1](http://arxiv.org/abs/2304.13089v1)|null|
 |**2023-04-25**|**CompletionFormer: Depth Completion with Convolutions and Vision Transformers**|Zhang Youmin et.al.|[2304.13030v1](http://arxiv.org/abs/2304.13030v1)|**[link](https://github.com/youmi-zym/completionformer)**|
 |**2023-04-25**|**Hint-Aug: Drawing Hints from Foundation Vision Transformers Towards Boosted Few-Shot Parameter-Efficient Tuning**|Zhongzhi Yu et.al.|[2304.12520v2](http://arxiv.org/abs/2304.12520v2)|null|
