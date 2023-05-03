@@ -1,4 +1,4 @@
-## Updated on 2023.05.02
+## Updated on 2023.05.03
 
 ## Image Generation
 
@@ -8,7 +8,7 @@
 |**2023-04-30**|**Image Completion via Dual-path Cooperative Filtering**|Pourya Shamsolmoali et.al.|[2305.00379v1](http://arxiv.org/abs/2305.00379v1)|**[link](https://github.com/pshams55/dcf)**|
 |**2023-04-29**|**LD-GAN: Low-Dimensional Generative Adversarial Network for Spectral Image Generation with Variance Regularization**|Emmanuel Martinez et.al.|[2305.00132v1](http://arxiv.org/abs/2305.00132v1)|**[link](https://github.com/hdspgroup/LD-GAN)**|
 |**2023-04-28**|**Let the Chart Spark: Embedding Semantic Context into Chart with Text-to-Image Generative Model**|Shishi Xiao et.al.|[2304.14630v1](http://arxiv.org/abs/2304.14630v1)|**[link](https://github.com/serendipitysx/chartspark)**|
-|**2023-04-28**|**Data-Driven Volumetric Image Generation from Surface Structures using a Patient-Specific Deep Leaning Model**|Shaoyan Pan et.al.|[2304.14594v1](http://arxiv.org/abs/2304.14594v1)|null|
+|**2023-04-28**|**Data-Driven Volumetric Image Generation from Surface Structures using a Patient-Specific Deep Leaning Model**|Shaoyan Pan et.al.|[2304.14594v2](http://arxiv.org/abs/2304.14594v2)|null|
 |**2023-04-28**|**SceneGenie: Scene Graph Guided Diffusion Models for Image Synthesis**|Azade Farshad et.al.|[2304.14573v1](http://arxiv.org/abs/2304.14573v1)|null|
 |**2023-04-27**|**It is all about where you start: Text-to-image generation with seed selection**|Dvir Samuel et.al.|[2304.14530v1](http://arxiv.org/abs/2304.14530v1)|null|
 |**2023-04-27**|**Make It So: Steering StyleGAN for Any Image Inversion and Editing**|Anand Bhattad et.al.|[2304.14403v1](http://arxiv.org/abs/2304.14403v1)|null|
@@ -111,10 +111,10 @@
 |**2023-05-01**|**Existence for doubly nonlinear fractional $p$-Laplacian equations**|Nobuyuki Kato et.al.|[2305.00661v1](http://arxiv.org/abs/2305.00661v1)|null|
 |**2023-05-01**|**Diffusion Models for Time Series Applications: A Survey**|Lequan Lin et.al.|[2305.00624v1](http://arxiv.org/abs/2305.00624v1)|null|
 |**2023-04-30**|**Class-Balancing Diffusion Models**|Yiming Qin et.al.|[2305.00562v1](http://arxiv.org/abs/2305.00562v1)|null|
-|**2023-04-30**|**Reconstructing seen images from human brain activity via guided stochastic search**|Reese Kneeland et.al.|[2305.00556v1](http://arxiv.org/abs/2305.00556v1)|null|
+|**2023-04-30**|**Reconstructing seen images from human brain activity via guided stochastic search**|Reese Kneeland et.al.|[2305.00556v2](http://arxiv.org/abs/2305.00556v2)|null|
 |**2023-04-30**|**Towards Computational Architecture of Liberty: A Comprehensive Survey on Deep Learning for Generating Virtual Architecture in the Metaverse**|Anqi Wang et.al.|[2305.00510v1](http://arxiv.org/abs/2305.00510v1)|null|
 |**2023-04-30**|**Policy Iteration Reinforcement Learning Method for Continuous-time Mean-Field Linear-Quadratic Optimal Problem**|Na Li et.al.|[2305.00424v1](http://arxiv.org/abs/2305.00424v1)|null|
-|**2023-04-30**|**A Review of Deep Learning Techniques for Speech Processing**|Ambuj Mehrish et.al.|[2305.00359v1](http://arxiv.org/abs/2305.00359v1)|null|
+|**2023-04-30**|**A Review of Deep Learning Techniques for Speech Processing**|Ambuj Mehrish et.al.|[2305.00359v2](http://arxiv.org/abs/2305.00359v2)|null|
 |**2023-04-29**|**Small mass limit of expected signature for physical Brownian motion**|Siran Li et.al.|[2305.00343v1](http://arxiv.org/abs/2305.00343v1)|null|
 |**2023-04-29**|**Synthesis of Ultra-Thin Superionic Cu2Se and New Aspects of the Low-Temperature Crystal Configurations**|Abdulsalam Aji Suleiman et.al.|[2305.00239v1](http://arxiv.org/abs/2305.00239v1)|null|
 |**2023-04-29**|**Single Transition Layer in Mass-Conserving Reaction-Diffusion Systems with Bistable Nonlinearity**|Masataka Kuwamura et.al.|[2305.00227v1](http://arxiv.org/abs/2305.00227v1)|null|
@@ -257,7 +257,7 @@
 |**2023-04-18**|**Pose Constraints for Consistent Self-supervised Monocular Depth and Ego-motion**|Zeeshan Khan Suri et.al.|[2304.08916v1](http://arxiv.org/abs/2304.08916v1)|null|
 |**2023-04-17**|**360$^\circ$ High-Resolution Depth Estimation via Uncertainty-aware Structural Knowledge Transfer**|Zidong Cao et.al.|[2304.07967v1](http://arxiv.org/abs/2304.07967v1)|null|
 |**2023-04-16**|**EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation**|Ilwi Yun et.al.|[2304.07803v1](http://arxiv.org/abs/2304.07803v1)|null|
-|**2023-04-15**|**Temporally Consistent Online Depth Estimation Using Point-Based Fusion**|Numair Khan et.al.|[2304.07435v1](http://arxiv.org/abs/2304.07435v1)|null|
+|**2023-04-15**|**Temporally Consistent Online Depth Estimation Using Point-Based Fusion**|Numair Khan et.al.|[2304.07435v2](http://arxiv.org/abs/2304.07435v2)|null|
 |**2023-04-14**|**Efficient Incremental Penetration Depth Estimation between Convex Geometries**|Wei Gao et.al.|[2304.07357v1](http://arxiv.org/abs/2304.07357v1)|null|
 |**2023-04-14**|**The Second Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2304.07051v3](http://arxiv.org/abs/2304.07051v3)|null|
 |**2023-04-14**|**Self-Supervised Learning based Depth Estimation from Monocular Images**|Mayank Poddar et.al.|[2304.06966v1](http://arxiv.org/abs/2304.06966v1)|**[link](https://github.com/nyu-ce-projects/depth-estimation)**|
@@ -304,7 +304,7 @@
 |**2023-04-19**|**Single-View View Synthesis with Self-Rectified Pseudo-Stereo**|Yang Zhou et.al.|[2304.09527v2](http://arxiv.org/abs/2304.09527v2)|null|
 |**2023-04-18**|**SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**|Yiming Gao et.al.|[2304.08971v1](http://arxiv.org/abs/2304.08971v1)|null|
 |**2023-04-17**|**Learning to Render Novel Views from Wide-Baseline Stereo Pairs**|Yilun Du et.al.|[2304.08463v1](http://arxiv.org/abs/2304.08463v1)|null|
-|**2023-04-15**|**Temporally Consistent Online Depth Estimation Using Point-Based Fusion**|Numair Khan et.al.|[2304.07435v1](http://arxiv.org/abs/2304.07435v1)|null|
+|**2023-04-15**|**Temporally Consistent Online Depth Estimation Using Point-Based Fusion**|Numair Khan et.al.|[2304.07435v2](http://arxiv.org/abs/2304.07435v2)|null|
 |**2023-04-14**|**Unsupervised Learning Optical Flow in Multi-frame Dynamic Environment Using Temporal Dynamic Modeling**|Zitang Sun et.al.|[2304.07159v1](http://arxiv.org/abs/2304.07159v1)|null|
 |**2023-04-14**|**UVA: Towards Unified Volumetric Avatar for View Synthesis, Pose rendering, Geometry and Texture Editing**|Jinlong Fan et.al.|[2304.06969v1](http://arxiv.org/abs/2304.06969v1)|null|
 |**2023-04-13**|**Representing Volumetric Videos as Dynamic MLP Maps**|Sida Peng et.al.|[2304.06717v1](http://arxiv.org/abs/2304.06717v1)|null|
