@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.06
+## Updated on 2023.05.07
 
 ## Image Generation
 
