@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.07
+## Updated on 2023.05.08
 
 ## Image Generation
 
@@ -115,7 +115,7 @@ layout: default
 |**2023-05-04**|**Breaking the Reptation Trap: Escape Dynamics of Semi-Flexible Polymers in Crowded Networks**|Ahmad Reza Motezakker et.al.|[2305.02877v1](http://arxiv.org/abs/2305.02877v1)|null|
 |**2023-05-04**|**Sharp regularity estimates for a singular inhomogeneous (m, p)-Laplacian equation**|Pêdra D. S. Andrade et.al.|[2305.02841v1](http://arxiv.org/abs/2305.02841v1)|null|
 |**2023-05-04**|**A numerically efficient output-only system-identification framework for stochastically forced self-sustained oscillators**|Minwoo Lee et.al.|[2305.02801v1](http://arxiv.org/abs/2305.02801v1)|null|
-|**2023-05-04**|**On Vertically-Drifted First Arrival Position Distribution in Diffusion Channels**|Yen-Chi Lee et.al.|[2305.02706v1](http://arxiv.org/abs/2305.02706v1)|null|
+|**2023-05-04**|**Capacity Bounds for Vertically-Drifted First Arrival Position Channels under a Second-Moment Constraint**|Yun-Feng Lo et.al.|[2305.02706v2](http://arxiv.org/abs/2305.02706v2)|null|
 |**2023-05-04**|**JWST constraints on the UV luminosity density at cosmic dawn: implications for 21-cm cosmology**|Sultan Hassan et.al.|[2305.02703v1](http://arxiv.org/abs/2305.02703v1)|null|
 |**2023-05-04**|**Structural equation modeling with latent variables for diffusion processes and its application to sparse estimation**|Shogo Kusano et.al.|[2305.02655v1](http://arxiv.org/abs/2305.02655v1)|null|
 |**2023-05-04**|**Multimodal-driven Talking Face Generation, Face Swapping, Diffusion Model**|Chao Xu et.al.|[2305.02594v1](http://arxiv.org/abs/2305.02594v1)|null|
@@ -146,7 +146,7 @@ layout: default
 |**2023-05-03**|**Real-Time Radiance Fields for Single-Image Portrait View Synthesis**|Alex Trevithick et.al.|[2305.02310v1](http://arxiv.org/abs/2305.02310v1)|null|
 |**2023-05-03**|**Learngene: Inheriting Condensed Knowledge from the Ancestry Model to Descendant Models**|Qiufeng Wang et.al.|[2305.02279v1](http://arxiv.org/abs/2305.02279v1)|null|
 |**2023-05-03**|**A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution**|Josiah Smith et.al.|[2305.02074v1](http://arxiv.org/abs/2305.02074v1)|null|
-|**2023-05-03**|**"Glitch in the Matrix!": A Large Scale Benchmark for Content Driven Audio-Visual Forgery Detection and Localization**|Zhixi Cai et.al.|[2305.01979v1](http://arxiv.org/abs/2305.01979v1)|**[link](https://github.com/ControlNet/LAV-DF)**|
+|**2023-05-03**|**"Glitch in the Matrix!": A Large Scale Benchmark for Content Driven Audio-Visual Forgery Detection and Localization**|Zhixi Cai et.al.|[2305.01979v2](http://arxiv.org/abs/2305.01979v2)|**[link](https://github.com/ControlNet/LAV-DF)**|
 |**2023-05-02**|**High-Resolution Synthetic RGB-D Datasets for Monocular Depth Estimation**|Aakash Rajpal et.al.|[2305.01732v1](http://arxiv.org/abs/2305.01732v1)|null|
 |**2023-05-02**|**ARBEx: Attentive Feature Extraction with Reliability Balancing for Robust Facial Expression Learning**|Azmine Toushik Wasi et.al.|[2305.01486v1](http://arxiv.org/abs/2305.01486v1)|**[link](https://github.com/takihasan/arbex)**|
 |**2023-05-02**|**AxWin Transformer: A Context-Aware Vision Transformer Backbone with Axial Windows**|Fangjian Lin et.al.|[2305.01280v1](http://arxiv.org/abs/2305.01280v1)|null|
