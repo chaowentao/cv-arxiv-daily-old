@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.09
+## Updated on 2023.05.10
 
 ## Image Generation
 
@@ -20,7 +20,7 @@ layout: default
 |**2023-05-05**|**How Segment Anything Model (SAM) Boost Medical Image Segmentation?**|Yichi Zhang et.al.|[2305.03678v1](http://arxiv.org/abs/2305.03678v1)|**[link](https://github.com/yichizhang98/sam4mis)**|
 |**2023-05-05**|**Data Curation for Image Captioning with Text-to-Image Generative Models**|Wenyan Li et.al.|[2305.03610v1](http://arxiv.org/abs/2305.03610v1)|null|
 |**2023-05-05**|**Breast Cancer Immunohistochemical Image Generation: a Benchmark Dataset and Challenge Review**|Chuang Zhu et.al.|[2305.03546v1](http://arxiv.org/abs/2305.03546v1)|null|
-|**2023-05-04**|**Diffusion Explainer: Visual Explanation for Text-to-image Stable Diffusion**|Seongmin Lee et.al.|[2305.03509v1](http://arxiv.org/abs/2305.03509v1)|**[link](https://github.com/poloclub/diffusion-explainer)**|
+|**2023-05-04**|**Diffusion Explainer: Visual Explanation for Text-to-image Stable Diffusion**|Seongmin Lee et.al.|[2305.03509v2](http://arxiv.org/abs/2305.03509v2)|**[link](https://github.com/poloclub/diffusion-explainer)**|
 |**2023-05-05**|**Generative Steganography Diffusion**|Ping Wei et.al.|[2305.03472v1](http://arxiv.org/abs/2305.03472v1)|null|
 |**2023-05-05**|**Guided Image Synthesis via Initial Image Editing in Diffusion Model**|Jiafeng Mao et.al.|[2305.03382v1](http://arxiv.org/abs/2305.03382v1)|null|
 |**2023-05-05**|**DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation**|Hong Chen et.al.|[2305.03374v1](http://arxiv.org/abs/2305.03374v1)|null|
@@ -128,11 +128,11 @@ layout: default
 |**2023-05-08**|**IIITD-20K: Dense captioning for Text-Image ReID**|A V Subramanyam et.al.|[2305.04497v1](http://arxiv.org/abs/2305.04497v1)|null|
 |**2023-05-08**|**Near-Infrared Spectroscopy of Dense Ejecta Knots in the Outer Eastern Area of the Cassiopeia A Supernova Remnant**|Bon-Chul Koo et.al.|[2305.04484v1](http://arxiv.org/abs/2305.04484v1)|null|
 |**2023-05-08**|**Can Diffusion Model Achieve Better Performance in Text Generation? Bridging the Gap between Training and Inference!**|Zecheng Tang et.al.|[2305.04465v1](http://arxiv.org/abs/2305.04465v1)|**[link](https://github.com/codinnlg/bridge_gap_diffusion)**|
-|**2023-05-08**|**Locally Attentional SDF Diffusion for Controllable 3D Shape Generation**|Xin-Yang Zheng et.al.|[2305.04461v1](http://arxiv.org/abs/2305.04461v1)|null|
+|**2023-05-08**|**Locally Attentional SDF Diffusion for Controllable 3D Shape Generation**|Xin-Yang Zheng et.al.|[2305.04461v2](http://arxiv.org/abs/2305.04461v2)|null|
 |**2023-05-08**|**Real-World Denoising via Diffusion Model**|Cheng Yang et.al.|[2305.04457v1](http://arxiv.org/abs/2305.04457v1)|null|
 |**2023-05-08**|**Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models**|Wenkai Dong et.al.|[2305.04441v1](http://arxiv.org/abs/2305.04441v1)|null|
 |**2023-05-07**|**A Variational Perspective on Solving Inverse Problems with Diffusion Models**|Morteza Mardani et.al.|[2305.04391v1](http://arxiv.org/abs/2305.04391v1)|null|
-|**2023-05-07**|**Mellin definition of the fractional Laplacian**|Giann Pagnini et.al.|[2305.04251v1](http://arxiv.org/abs/2305.04251v1)|null|
+|**2023-05-07**|**Mellin definition of the fractional Laplacian**|Gianni Pagnini et.al.|[2305.04251v2](http://arxiv.org/abs/2305.04251v2)|null|
 |**2023-05-07**|**Domain-Specific Denoising Diffusion Probabilistic Models for Brain Dynamics**|Yiqun Duan et.al.|[2305.04200v1](http://arxiv.org/abs/2305.04200v1)|null|
 |**2023-05-07**|**Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning**|Shengfang Zhai et.al.|[2305.04175v1](http://arxiv.org/abs/2305.04175v1)|null|
 |**2023-05-06**|**Volatility of Volatility and Leverage Effect from Options**|Carsten H. Chong et.al.|[2305.04137v1](http://arxiv.org/abs/2305.04137v1)|null|
