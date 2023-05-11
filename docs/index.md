@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.10
+## Updated on 2023.05.11
 
 ## Image Generation
 
@@ -15,7 +15,7 @@ layout: default
 |**2023-05-08**|**DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration**|Xinmin Qiu et.al.|[2305.04517v1](http://arxiv.org/abs/2305.04517v1)|null|
 |**2023-05-08**|**Real-World Denoising via Diffusion Model**|Cheng Yang et.al.|[2305.04457v1](http://arxiv.org/abs/2305.04457v1)|null|
 |**2023-05-08**|**Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models**|Wenkai Dong et.al.|[2305.04441v1](http://arxiv.org/abs/2305.04441v1)|null|
-|**2023-05-07**|**Robust Image Ordinal Regression with Controllable Image Generation**|Yi Cheng et.al.|[2305.04213v1](http://arxiv.org/abs/2305.04213v1)|**[link](https://github.com/ch3ngy1/controllable-image-generation)**|
+|**2023-05-07**|**Robust Image Ordinal Regression with Controllable Image Generation**|Yi Cheng et.al.|[2305.04213v2](http://arxiv.org/abs/2305.04213v2)|**[link](https://github.com/ch3ngy1/controllable-image-generation)**|
 |**2023-05-07**|**Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning**|Shengfang Zhai et.al.|[2305.04175v1](http://arxiv.org/abs/2305.04175v1)|null|
 |**2023-05-06**|**Multi-object Video Generation from Single Frame Layouts**|Yang Wu et.al.|[2305.03983v1](http://arxiv.org/abs/2305.03983v1)|null|
 |**2023-05-04**|**Governance of the AI, by the AI, and for the AI**|Andrew W. Torrance et.al.|[2305.03719v1](http://arxiv.org/abs/2305.03719v1)|null|
@@ -113,7 +113,7 @@ layout: default
 |**2023-05-09**|**Implicit-explicit Runge-Kutta for radiation hydrodynamics I: gray diffusion**|Ben S. Southworth et.al.|[2305.05452v1](http://arxiv.org/abs/2305.05452v1)|null|
 |**2023-05-09**|**Percolation anticipates abrupt changes in coupled FitzHugh-Nagumo oscillators and the El Niño-Southern Oscillation: an explanatory analysis**|Noémie Ehstand et.al.|[2305.05450v1](http://arxiv.org/abs/2305.05450v1)|null|
 |**2023-05-09**|**Echo from noise: synthetic ultrasound image generation using diffusion models for real image segmentation**|David Stojanovski et.al.|[2305.05424v1](http://arxiv.org/abs/2305.05424v1)|null|
-|**2023-05-09**|**Large Language Models Need Holistically Thought in Medical Conversational QA**|Yixuan Weng et.al.|[2305.05410v1](http://arxiv.org/abs/2305.05410v1)|**[link](https://github.com/wengsyx/hot)**|
+|**2023-05-09**|**Large Language Models Need Holistically Thought in Medical Conversational QA**|Yixuan Weng et.al.|[2305.05410v2](http://arxiv.org/abs/2305.05410v2)|**[link](https://github.com/wengsyx/hot)**|
 |**2023-05-09**|**Activity Induced Diffusion Recovery in Crowded Colloidal Suspension**|Arnab Maiti et.al.|[2305.05397v1](http://arxiv.org/abs/2305.05397v1)|null|
 |**2023-05-09**|**Measurement of ultra-high-energy diffuse gamma-ray emission of the Galactic plane from 10 TeV to 1 PeV with LHAASO-KM2A**|Zhen Cao et.al.|[2305.05372v1](http://arxiv.org/abs/2305.05372v1)|null|
 |**2023-05-09**|**On the onset delays of solar energetic electrons and protons: Evidence for a common accelerator**|R. D. Strauss et.al.|[2305.05347v1](http://arxiv.org/abs/2305.05347v1)|null|
