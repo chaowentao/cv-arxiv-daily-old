@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.14
+## Updated on 2023.05.15
 
 ## Image Generation
 
@@ -19,7 +19,7 @@ layout: default
 |**2023-05-10**|**Generative Steganographic Flow**|Ping Wei et.al.|[2305.05838v1](http://arxiv.org/abs/2305.05838v1)|null|
 |**2023-05-09**|**Vision-Language Models in Remote Sensing: Current Progress and Future Trends**|Congcong Wen et.al.|[2305.05726v1](http://arxiv.org/abs/2305.05726v1)|null|
 |**2023-05-09**|**Echo from noise: synthetic ultrasound image generation using diffusion models for real image segmentation**|David Stojanovski et.al.|[2305.05424v1](http://arxiv.org/abs/2305.05424v1)|**[link](https://github.com/david-stojanovski/echo_from_noise)**|
-|**2023-05-09**|**SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models**|Shanshan Zhong et.al.|[2305.05189v1](http://arxiv.org/abs/2305.05189v1)|**[link](https://github.com/Qrange-group/SUR-adapter)**|
+|**2023-05-09**|**SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models**|Shanshan Zhong et.al.|[2305.05189v2](http://arxiv.org/abs/2305.05189v2)|**[link](https://github.com/Qrange-group/SUR-adapter)**|
 |**2023-05-08**|**Learning to Evaluate the Artness of AI-generated Images**|Junyu Chen et.al.|[2305.04923v1](http://arxiv.org/abs/2305.04923v1)|null|
 |**2023-05-08**|**ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation**|Yupei Lin et.al.|[2305.04651v1](http://arxiv.org/abs/2305.04651v1)|null|
 |**2023-05-08**|**DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration**|Xinmin Qiu et.al.|[2305.04517v1](http://arxiv.org/abs/2305.04517v1)|null|
@@ -110,7 +110,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015v1](http://arxiv.org/abs/2305.07015v1)|null|
 |**2023-05-11**|**A method for automated regression test in scientific computing libraries: illustration with SPHinXsys**|Bo Zhang et.al.|[2305.06970v1](http://arxiv.org/abs/2305.06970v1)|**[link](https://github.com/Xiangyu-Hu/SPHinXsys)**|
-|**2023-05-11**|**Galactic diffuse gamma-ray emission from GeV to PeV energies in light of up-to-date cosmic ray measurements**|Rui Zhang et.al.|[2305.06948v1](http://arxiv.org/abs/2305.06948v1)|null|
+|**2023-05-11**|**Galactic diffuse gamma-ray emission from GeV to PeV energies in light of up-to-date cosmic ray measurements**|Rui Zhang et.al.|[2305.06948v2](http://arxiv.org/abs/2305.06948v2)|null|
 |**2023-05-11**|**Quantum reaction-limited reaction-diffusion dynamics of annihilation processes**|Gabriele Perfetto et.al.|[2305.06944v1](http://arxiv.org/abs/2305.06944v1)|null|
 |**2023-05-11**|**CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model**|Zhen Ye et.al.|[2305.06908v1](http://arxiv.org/abs/2305.06908v1)|null|
 |**2023-05-11**|**Multigrid preconditioning of singularly perturbed convection-diffusion equations**|M. Shahid et.al.|[2305.06823v1](http://arxiv.org/abs/2305.06823v1)|null|
@@ -169,7 +169,7 @@ layout: default
 |**2023-04-28**|**MMViT: Multiscale Multiview Vision Transformers**|Yuchen Liu et.al.|[2305.00104v1](http://arxiv.org/abs/2305.00104v1)|null|
 |**2023-04-28**|**An automated end-to-end deep learning-based framework for lung cancer diagnosis by detecting and classifying the lung nodules**|Samiul Based Shuvo et.al.|[2305.00046v1](http://arxiv.org/abs/2305.00046v1)|null|
 |**2023-04-28**|**Representation Matters: The Game of Chess Poses a Challenge to Vision Transformers**|Johannes Czech et.al.|[2304.14918v1](http://arxiv.org/abs/2304.14918v1)|null|
-|**2023-04-28**|**PreNAS: Preferred One-Shot Learning Towards Efficient Neural Architecture Search**|Haibin Wang et.al.|[2304.14636v1](http://arxiv.org/abs/2304.14636v1)|null|
+|**2023-04-28**|**PreNAS: Preferred One-Shot Learning Towards Efficient Neural Architecture Search**|Haibin Wang et.al.|[2304.14636v2](http://arxiv.org/abs/2304.14636v2)|null|
 |**2023-04-28**|**DIAMANT: Dual Image-Attention Map Encoders For Medical Image Segmentation**|Yousef Yeganeh et.al.|[2304.14571v1](http://arxiv.org/abs/2304.14571v1)|null|
 |**2023-04-27**|**Vision Conformer: Incorporating Convolutions into Vision Transformer Layers**|Brian Kenji Iwana et.al.|[2304.13991v1](http://arxiv.org/abs/2304.13991v1)|**[link](https://github.com/uchidalab/vision-conformer)**|
 |**2023-04-26**|**UniNeXt: Exploring A Unified Architecture for Vision Recognition**|Fangjian Lin et.al.|[2304.13700v2](http://arxiv.org/abs/2304.13700v2)|null|
@@ -214,9 +214,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015v1](http://arxiv.org/abs/2305.07015v1)|null|
-|**2023-05-11**|**Can SAM Boost Video Super-Resolution?**|Zhihe Lu et.al.|[2305.06524v1](http://arxiv.org/abs/2305.06524v1)|null|
+|**2023-05-11**|**Can SAM Boost Video Super-Resolution?**|Zhihe Lu et.al.|[2305.06524v2](http://arxiv.org/abs/2305.06524v2)|null|
 |**2023-05-10**|**Propagation Modeling for Physically Large Arrays: Measurements and Multipath Component Visibility**|Thomas Wilding et.al.|[2305.05958v1](http://arxiv.org/abs/2305.05958v1)|null|
-|**2023-05-10**|**Distribution-Flexible Subset Quantization for Post-Quantizing Super-Resolution Networks**|Yunshan Zhong et.al.|[2305.05888v1](http://arxiv.org/abs/2305.05888v1)|null|
+|**2023-05-10**|**Distribution-Flexible Subset Quantization for Post-Quantizing Super-Resolution Networks**|Yunshan Zhong et.al.|[2305.05888v2](http://arxiv.org/abs/2305.05888v2)|**[link](https://github.com/zysxmu/dfsq)**|
 |**2023-05-10**|**Reference-based OCT Angiogram Super-resolution with Learnable Texture Generation**|Yuyan Ruan et.al.|[2305.05835v1](http://arxiv.org/abs/2305.05835v1)|null|
 |**2023-05-09**|**Tight information bounds for spontaneous emission lifetime resolution of quantum sources with varied spectral purity**|Cheyenne S. Mitchell et.al.|[2305.05798v1](http://arxiv.org/abs/2305.05798v1)|null|
 |**2023-05-09**|**Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution**|Ming Cheng et.al.|[2305.05177v1](http://arxiv.org/abs/2305.05177v1)|null|
