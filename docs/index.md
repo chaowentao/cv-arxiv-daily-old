@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.16
+## Updated on 2023.05.17
 
 ## Image Generation
 
@@ -126,12 +126,12 @@ layout: default
 |**2023-05-15**|**On a class of doubly nonlinear evolution equations in Musielak-Orlicz spaces**|Goro Akagi et.al.|[2305.08425v1](http://arxiv.org/abs/2305.08425v1)|null|
 |**2023-05-15**|**Higher-order Maxwell-Stefan model of diffusion**|Bérénice Grec et.al.|[2305.08412v1](http://arxiv.org/abs/2305.08412v1)|null|
 |**2023-05-15**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379v1](http://arxiv.org/abs/2305.08379v1)|null|
-|**2023-05-14**|**Fixing the flux: A dual approach to computing transport coefficients**|Noé Blassel et.al.|[2305.08224v1](http://arxiv.org/abs/2305.08224v1)|null|
+|**2023-05-14**|**Fixing the flux: A dual approach to computing transport coefficients**|Noé Blassel et.al.|[2305.08224v2](http://arxiv.org/abs/2305.08224v2)|null|
 |**2023-05-14**|**Diffusion Models for Imperceptible and Transferable Adversarial Attack**|Jianqi Chen et.al.|[2305.08192v1](http://arxiv.org/abs/2305.08192v1)|**[link](https://github.com/windvchen/diffattack)**|
 |**2023-05-14**|**Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures**|Wei Yuan et.al.|[2305.08183v1](http://arxiv.org/abs/2305.08183v1)|null|
 |**2023-05-14**|**Systematic study of amorphous 2D graphene, silicene and silicon carbide: Investigation of structural, electronic, optical and vibrational properties**|Emel Gürbüz et.al.|[2305.08134v1](http://arxiv.org/abs/2305.08134v1)|null|
 |**2023-05-14**|**Meta-DM: Applications of Diffusion Models on Few-Shot Learning**|Wentao Hu et.al.|[2305.08092v1](http://arxiv.org/abs/2305.08092v1)|null|
-|**2023-05-14**|**On enhancing the robustness of Vision Transformers: Defensive Diffusion**|Raza Imam et.al.|[2305.08031v1](http://arxiv.org/abs/2305.08031v1)|**[link](https://github.com/muhammad-huzaifaa/defensive_diffusion)**|
+|**2023-05-14**|**On enhancing the robustness of Vision Transformers: Defensive Diffusion**|Raza Imam et.al.|[2305.08031v1](http://arxiv.org/abs/2305.08031v1)|null|
 |**2023-05-13**|**TeV halos and the role of pulsar wind nebulae as sources of cosmic ray positrons**|Benedikt Schroer et.al.|[2305.08019v1](http://arxiv.org/abs/2305.08019v1)|null|
 |**2023-05-13**|**On the Computational Cost of Stochastic Security**|Noah A. Crum et.al.|[2305.07973v1](http://arxiv.org/abs/2305.07973v1)|null|
 |**2023-05-12**|**On Ultrafast X-ray Methods for Magnetism**|Rajan Plumley et.al.|[2305.07787v1](http://arxiv.org/abs/2305.07787v1)|null|
@@ -146,8 +146,8 @@ layout: default
 |**2023-05-15**|**AutoRecon: Automated 3D Object Discovery and Reconstruction**|Yuang Wang et.al.|[2305.08810v1](http://arxiv.org/abs/2305.08810v1)|null|
 |**2023-05-15**|**Enhancing Performance of Vision Transformers on Small Datasets through Local Inductive Bias Incorporation**|Ibrahim Batuhan Akkaya et.al.|[2305.08551v1](http://arxiv.org/abs/2305.08551v1)|null|
 |**2023-05-15**|**MaxViT-UNet: Multi-Axis Attention for Medical Image Segmentation**|Abdul Rehman et.al.|[2305.08396v1](http://arxiv.org/abs/2305.08396v1)|null|
-|**2023-05-14**|**On enhancing the robustness of Vision Transformers: Defensive Diffusion**|Raza Imam et.al.|[2305.08031v1](http://arxiv.org/abs/2305.08031v1)|**[link](https://github.com/muhammad-huzaifaa/defensive_diffusion)**|
-|**2023-05-13**|**GSB: Group Superposition Binarization for Vision Transformer with Limited Training Samples**|Tian Gao et.al.|[2305.07931v1](http://arxiv.org/abs/2305.07931v1)|null|
+|**2023-05-14**|**On enhancing the robustness of Vision Transformers: Defensive Diffusion**|Raza Imam et.al.|[2305.08031v1](http://arxiv.org/abs/2305.08031v1)|null|
+|**2023-05-13**|**GSB: Group Superposition Binarization for Vision Transformer with Limited Training Samples**|Tian Gao et.al.|[2305.07931v2](http://arxiv.org/abs/2305.07931v2)|null|
 |**2023-05-13**|**Meta-Polyp: a baseline for efficient Polyp segmentation**|Quoc-Huy Trinh et.al.|[2305.07848v1](http://arxiv.org/abs/2305.07848v1)|**[link](https://github.com/huyquoctrinh/metapolyp-cbms2023)**|
 |**2023-05-12**|**ViT Unified: Joint Fingerprint Recognition and Presentation Attack Detection**|Steven A. Grosz et.al.|[2305.07602v1](http://arxiv.org/abs/2305.07602v1)|null|
 |**2023-05-11**|**OneCAD: One Classifier for All image Datasets using multimodal learning**|Shakti N. Wadekar et.al.|[2305.07167v1](http://arxiv.org/abs/2305.07167v1)|null|
@@ -155,7 +155,7 @@ layout: default
 |**2023-05-11**|**EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention**|Xinyu Liu et.al.|[2305.07027v1](http://arxiv.org/abs/2305.07027v1)|**[link](https://github.com/microsoft/cream)**|
 |**2023-05-11**|**Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers**|Dahun Kim et.al.|[2305.07011v1](http://arxiv.org/abs/2305.07011v1)|null|
 |**2023-05-11**|**Extending Audio Masked Autoencoders Toward Audio Restoration**|Zhi Zhong et.al.|[2305.06701v1](http://arxiv.org/abs/2305.06701v1)|null|
-|**2023-05-11**|**Undercover Deepfakes: Detecting Fake Segments in Videos**|Sanjay Saha et.al.|[2305.06564v1](http://arxiv.org/abs/2305.06564v1)|**[link](https://github.com/sanjaysaha1311/temporal-deepfake-segmentation)**|
+|**2023-05-11**|**Undercover Deepfakes: Detecting Fake Segments in Videos**|Sanjay Saha et.al.|[2305.06564v2](http://arxiv.org/abs/2305.06564v2)|**[link](https://github.com/sanjaysaha1311/temporal-deepfake-segmentation)**|
 |**2023-05-11**|**Patch-wise Mixed-Precision Quantization of Vision Transformer**|Junrui Xiao et.al.|[2305.06559v1](http://arxiv.org/abs/2305.06559v1)|null|
 |**2023-05-08**|**Joint Moment Retrieval and Highlight Detection Via Natural Language Queries**|Richard Luo et.al.|[2305.04961v1](http://arxiv.org/abs/2305.04961v1)|**[link](https://github.com/skyline-9/visionary-vids)**|
 |**2023-05-08**|**BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning**|Kishaan Jeeveswaran et.al.|[2305.04769v1](http://arxiv.org/abs/2305.04769v1)|**[link](https://github.com/neurai-lab/birt)**|
@@ -216,7 +216,7 @@ layout: default
 |**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585v1](http://arxiv.org/abs/2305.08585v1)|null|
 |**2023-05-15**|**Screentone-Aware Manga Super-Resolution Using DeepLearning**|Chih-Yuan Yao et.al.|[2305.08325v1](http://arxiv.org/abs/2305.08325v1)|null|
 |**2023-05-15**|**First-principles study of the optical properties of BaMoO3/SrHfO3 hyperbolic metamaterials**|Jonathan Gjerde et.al.|[2305.08282v1](http://arxiv.org/abs/2305.08282v1)|null|
-|**2023-05-12**|**PanFlowNet: A Flow-Based Deep Network for Pan-sharpening**|Gang Yang et.al.|[2305.07774v1](http://arxiv.org/abs/2305.07774v1)|null|
+|**2023-05-12**|**PanFlowNet: A Flow-Based Deep Network for Pan-sharpening**|Gang Yang et.al.|[2305.07774v2](http://arxiv.org/abs/2305.07774v2)|null|
 |**2023-05-12**|**Joint MR sequence optimization beats pure neural network approaches for spin-echo MRI super-resolution**|Hoai Nam Dang et.al.|[2305.07524v1](http://arxiv.org/abs/2305.07524v1)|null|
 |**2023-05-12**|**Sensing User's Channel and Location with Terahertz Extra-Large Reconfigurable Intelligent Surface under Hybrid-Field Beam Squint Effect**|Zhuoran Li et.al.|[2305.07184v1](http://arxiv.org/abs/2305.07184v1)|null|
 |**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015v1](http://arxiv.org/abs/2305.07015v1)|null|
