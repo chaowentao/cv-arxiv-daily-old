@@ -1,11 +1,11 @@
-## Updated on 2023.05.17
+## Updated on 2023.05.18
 
 ## Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-05-16**|**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**|Tong Wu et.al.|[2305.09515v1](http://arxiv.org/abs/2305.09515v1)|null|
-|**2023-05-16**|**Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model**|Fenghe Tang et.al.|[2305.09447v1](http://arxiv.org/abs/2305.09447v1)|**[link](https://github.com/FengheTan9/Multi-Level-Global-Context-Cross-Consistency)**|
+|**2023-05-16**|**Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model**|Fenghe Tang et.al.|[2305.09447v2](http://arxiv.org/abs/2305.09447v2)|**[link](https://github.com/FengheTan9/Multi-Level-Global-Context-Cross-Consistency)**|
 |**2023-05-16**|**A Conditional Denoising Diffusion Probabilistic Model for Radio Interferometric Image Reconstruction**|Ruoqi Wang et.al.|[2305.09121v1](http://arxiv.org/abs/2305.09121v1)|null|
 |**2023-05-14**|**Parameter-Efficient Fine-Tuning for Medical Image Analysis: The Missed Opportunity**|Raman Dutt et.al.|[2305.08252v1](http://arxiv.org/abs/2305.08252v1)|null|
 |**2023-05-12**|**Beware of diffusion models for synthesizing medical images -- A comparison with GANs in terms of memorizing brain tumor images**|Muhammad Usman Akbar et.al.|[2305.07644v1](http://arxiv.org/abs/2305.07644v1)|null|
@@ -109,10 +109,10 @@
 |**2023-05-16**|**Expressiveness Remarks for Denoising Diffusion Models and Samplers**|Francisco Vargas et.al.|[2305.09605v1](http://arxiv.org/abs/2305.09605v1)|null|
 |**2023-05-16**|**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**|Tong Wu et.al.|[2305.09515v1](http://arxiv.org/abs/2305.09515v1)|null|
 |**2023-05-16**|**Fullerenes in the circumstellar medium of Herbig Ae/Be stars: Insights from the Spitzer mid-infrared spectral catalog**|R. Arun et.al.|[2305.09491v1](http://arxiv.org/abs/2305.09491v1)|null|
-|**2023-05-16**|**Discrete Diffusion Probabilistic Models for Symbolic Music Generation**|Matthias Plasser et.al.|[2305.09489v1](http://arxiv.org/abs/2305.09489v1)|null|
-|**2023-05-16**|**Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model**|Fenghe Tang et.al.|[2305.09447v1](http://arxiv.org/abs/2305.09447v1)|**[link](https://github.com/FengheTan9/Multi-Level-Global-Context-Cross-Consistency)**|
+|**2023-05-16**|**Discrete Diffusion Probabilistic Models for Symbolic Music Generation**|Matthias Plasser et.al.|[2305.09489v1](http://arxiv.org/abs/2305.09489v1)|**[link](https://github.com/plassma/symbolic-music-discrete-diffusion)**|
+|**2023-05-16**|**Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model**|Fenghe Tang et.al.|[2305.09447v2](http://arxiv.org/abs/2305.09447v2)|**[link](https://github.com/FengheTan9/Multi-Level-Global-Context-Cross-Consistency)**|
 |**2023-05-16**|**Diffusion Dataset Generation: Towards Closing the Sim2Real Gap for Pedestrian Detection**|Andrew Farley et.al.|[2305.09401v1](http://arxiv.org/abs/2305.09401v1)|null|
-|**2023-05-16**|**AMD Autoregressive Motion Diffusion**|Bo Han et.al.|[2305.09381v1](http://arxiv.org/abs/2305.09381v1)|null|
+|**2023-05-16**|**AMD: Autoregressive Motion Diffusion**|Bo Han et.al.|[2305.09381v2](http://arxiv.org/abs/2305.09381v2)|null|
 |**2023-05-16**|**Optimal Control of McKean-Vlasov equations with controlled stochasticity**|Luca Di Persio et.al.|[2305.09379v1](http://arxiv.org/abs/2305.09379v1)|null|
 |**2023-05-16**|**Two-species reaction-diffusion system in the presence of random velocity fluctuations**|Michal Hnatič et.al.|[2305.09350v1](http://arxiv.org/abs/2305.09350v1)|null|
 |**2023-05-16**|**PhysNODE: Fusion of data and expert knowledge for modeling dynamical systems**|Leon Lettermann et.al.|[2305.09325v1](http://arxiv.org/abs/2305.09325v1)|null|
