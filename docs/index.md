@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.18
+## Updated on 2023.05.19
 
 ## Image Generation
 
@@ -117,7 +117,7 @@ layout: default
 |**2023-05-17**|**Model of Cosmic Ray Propagation in the Milky Way at the Knee**|G. Giacinti et.al.|[2305.10251v1](http://arxiv.org/abs/2305.10251v1)|null|
 |**2023-05-17**|**Convective stability of the critical waves of an FKPP growth process**|Florian Kreten et.al.|[2305.10228v1](http://arxiv.org/abs/2305.10228v1)|null|
 |**2023-05-17**|**Provably Correct Physics-Informed Neural Networks**|Francisco Eiras et.al.|[2305.10157v1](http://arxiv.org/abs/2305.10157v1)|null|
-|**2023-05-17**|**Controllable Mind Visual Diffusion Model**|Bohan Zeng et.al.|[2305.10135v1](http://arxiv.org/abs/2305.10135v1)|null|
+|**2023-05-17**|**Controllable Mind Visual Diffusion Model**|Bohan Zeng et.al.|[2305.10135v2](http://arxiv.org/abs/2305.10135v2)|null|
 |**2023-05-17**|**Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models**|Alvin Heng et.al.|[2305.10120v1](http://arxiv.org/abs/2305.10120v1)|null|
 |**2023-05-17**|**Euclid preparation. XXIX. Water ice in spacecraft part I: The physics of ice formation and contamination**|Euclid Collaboration et.al.|[2305.10107v1](http://arxiv.org/abs/2305.10107v1)|null|
 |**2023-05-17**|**Self interaction and transport of solvated electrons in molten salts**|Paolo Pegolo et.al.|[2305.10052v1](http://arxiv.org/abs/2305.10052v1)|null|
@@ -153,7 +153,7 @@ layout: default
 |**2023-05-15**|**Enhancing Performance of Vision Transformers on Small Datasets through Local Inductive Bias Incorporation**|Ibrahim Batuhan Akkaya et.al.|[2305.08551v1](http://arxiv.org/abs/2305.08551v1)|null|
 |**2023-05-15**|**MaxViT-UNet: Multi-Axis Attention for Medical Image Segmentation**|Abdul Rehman et.al.|[2305.08396v1](http://arxiv.org/abs/2305.08396v1)|null|
 |**2023-05-14**|**On enhancing the robustness of Vision Transformers: Defensive Diffusion**|Raza Imam et.al.|[2305.08031v1](http://arxiv.org/abs/2305.08031v1)|null|
-|**2023-05-13**|**GSB: Group Superposition Binarization for Vision Transformer with Limited Training Samples**|Tian Gao et.al.|[2305.07931v2](http://arxiv.org/abs/2305.07931v2)|null|
+|**2023-05-13**|**GSB: Group Superposition Binarization for Vision Transformer with Limited Training Samples**|Tian Gao et.al.|[2305.07931v2](http://arxiv.org/abs/2305.07931v2)|**[link](https://github.com/imrl/gsb-vision-transformer)**|
 |**2023-05-13**|**Meta-Polyp: a baseline for efficient Polyp segmentation**|Quoc-Huy Trinh et.al.|[2305.07848v1](http://arxiv.org/abs/2305.07848v1)|**[link](https://github.com/huyquoctrinh/metapolyp-cbms2023)**|
 |**2023-05-12**|**ViT Unified: Joint Fingerprint Recognition and Presentation Attack Detection**|Steven A. Grosz et.al.|[2305.07602v1](http://arxiv.org/abs/2305.07602v1)|null|
 |**2023-05-11**|**OneCAD: One Classifier for All image Datasets using multimodal learning**|Shakti N. Wadekar et.al.|[2305.07167v1](http://arxiv.org/abs/2305.07167v1)|null|
