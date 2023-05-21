@@ -1,4 +1,4 @@
-## Updated on 2023.05.20
+## Updated on 2023.05.21
 
 ## Image Generation
 
@@ -9,7 +9,7 @@
 |**2023-05-18**|**Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold**|Xingang Pan et.al.|[2305.10973v1](http://arxiv.org/abs/2305.10973v1)|null|
 |**2023-05-18**|**Meta-Auxiliary Network for 3D GAN Inversion**|Bangrui Jiang et.al.|[2305.10884v1](http://arxiv.org/abs/2305.10884v1)|null|
 |**2023-05-18**|**VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation**|Wenjing Wang et.al.|[2305.10874v1](http://arxiv.org/abs/2305.10874v1)|null|
-|**2023-05-18**|**X-IQE: eXplainable Image Quality Evaluation for Text-to-Image Generation with Visual Large Language Models**|Yixiong Chen et.al.|[2305.10843v1](http://arxiv.org/abs/2305.10843v1)|null|
+|**2023-05-18**|**X-IQE: eXplainable Image Quality Evaluation for Text-to-Image Generation with Visual Large Language Models**|Yixiong Chen et.al.|[2305.10843v1](http://arxiv.org/abs/2305.10843v1)|**[link](https://github.com/schuture/benchmarking-awesome-diffusion-models)**|
 |**2023-05-18**|**AIwriting: Relations Between Image Generation and Digital Writing**|Scott Rettberg et.al.|[2305.10834v1](http://arxiv.org/abs/2305.10834v1)|null|
 |**2023-05-18**|**DiffUTE: Universal Text Editing Diffusion Model**|Chen et.al.|[2305.10825v1](http://arxiv.org/abs/2305.10825v1)|**[link](https://github.com/chenhaoxing/DiffUTE)**|
 |**2023-05-18**|**OpenShape: Scaling Up 3D Shape Representation Towards Open-World Understanding**|Minghua Liu et.al.|[2305.10764v1](http://arxiv.org/abs/2305.10764v1)|null|
@@ -23,7 +23,7 @@
 |**2023-05-17**|**Automatic 3D Registration of Dental CBCT and Face Scan Data using 2D Projection images**|Hyoung Suk Park et.al.|[2305.10132v1](http://arxiv.org/abs/2305.10132v1)|null|
 |**2023-05-17**|**Fusion-S2iGan: An Efficient and Effective Single-Stage Framework for Speech-to-Image Generation**|Zhenxing Zhang et.al.|[2305.10126v1](http://arxiv.org/abs/2305.10126v1)|null|
 |**2023-05-17**|**Pyramid Diffusion Models For Low-light Image Enhancement**|Dewei Zhou et.al.|[2305.10028v1](http://arxiv.org/abs/2305.10028v1)|**[link](https://github.com/limuloo/pydiff)**|
-|**2023-05-16**|**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**|Tong Wu et.al.|[2305.09515v1](http://arxiv.org/abs/2305.09515v1)|null|
+|**2023-05-16**|**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**|Tong Wu et.al.|[2305.09515v1](http://arxiv.org/abs/2305.09515v1)|**[link](https://github.com/microsoft/ProphetNet)**|
 |**2023-05-16**|**Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model**|Fenghe Tang et.al.|[2305.09447v2](http://arxiv.org/abs/2305.09447v2)|**[link](https://github.com/FengheTan9/Multi-Level-Global-Context-Cross-Consistency)**|
 |**2023-05-16**|**A Conditional Denoising Diffusion Probabilistic Model for Radio Interferometric Image Reconstruction**|Ruoqi Wang et.al.|[2305.09121v1](http://arxiv.org/abs/2305.09121v1)|null|
 |**2023-05-14**|**Parameter-Efficient Fine-Tuning for Medical Image Analysis: The Missed Opportunity**|Raman Dutt et.al.|[2305.08252v1](http://arxiv.org/abs/2305.08252v1)|null|
@@ -116,7 +116,7 @@
 |**2023-05-18**|**VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation**|Wenjing Wang et.al.|[2305.10874v1](http://arxiv.org/abs/2305.10874v1)|null|
 |**2023-05-18**|**TextDiffuser: Diffusion Models as Text Painters**|Jingye Chen et.al.|[2305.10855v1](http://arxiv.org/abs/2305.10855v1)|**[link](https://github.com/microsoft/unilm/tree/master/textdiffuser)**|
 |**2023-05-18**|**LDM3D: Latent Diffusion Model for 3D**|Gabriela Ben Melech Stan et.al.|[2305.10853v1](http://arxiv.org/abs/2305.10853v1)|null|
-|**2023-05-18**|**X-IQE: eXplainable Image Quality Evaluation for Text-to-Image Generation with Visual Large Language Models**|Yixiong Chen et.al.|[2305.10843v1](http://arxiv.org/abs/2305.10843v1)|null|
+|**2023-05-18**|**X-IQE: eXplainable Image Quality Evaluation for Text-to-Image Generation with Visual Large Language Models**|Yixiong Chen et.al.|[2305.10843v1](http://arxiv.org/abs/2305.10843v1)|**[link](https://github.com/schuture/benchmarking-awesome-diffusion-models)**|
 |**2023-05-18**|**GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework**|Ang Lv et.al.|[2305.10841v1](http://arxiv.org/abs/2305.10841v1)|**[link](https://github.com/microsoft/muzic)**|
 |**2023-05-18**|**AIwriting: Relations Between Image Generation and Digital Writing**|Scott Rettberg et.al.|[2305.10834v1](http://arxiv.org/abs/2305.10834v1)|null|
 |**2023-05-18**|**Constructing a personalized AI assistant for shear wall layout using Stable Diffusion**|Lufeng Wang et.al.|[2305.10830v1](http://arxiv.org/abs/2305.10830v1)|null|
@@ -130,7 +130,7 @@
 |**2023-05-18**|**Discriminative Diffusion Models as Few-shot Vision and Language Learners**|Xuehai He et.al.|[2305.10722v1](http://arxiv.org/abs/2305.10722v1)|null|
 |**2023-05-18**|**Zero-Day Backdoor Attack against Text-to-Image Diffusion Models via Personalization**|Yihao Huang et.al.|[2305.10701v1](http://arxiv.org/abs/2305.10701v1)|null|
 |**2023-05-18**|**Transverse spectral instabilities in Rotation-Modified Kadomtsev-Petviashvili equation and related models**|Bhavna et.al.|[2305.10700v1](http://arxiv.org/abs/2305.10700v1)|null|
-|**2023-05-18**|**Dirichlet Diffusion Score Model for Biological Sequence Generation**|Pavel Avdeyev et.al.|[2305.10699v1](http://arxiv.org/abs/2305.10699v1)|null|
+|**2023-05-18**|**Dirichlet Diffusion Score Model for Biological Sequence Generation**|Pavel Avdeyev et.al.|[2305.10699v1](http://arxiv.org/abs/2305.10699v1)|**[link](https://github.com/jzhoulab/ddsm)**|
 |**2023-05-18**|**Sampling, Diffusions, and Stochastic Localization**|Andrea Montanari et.al.|[2305.10690v1](http://arxiv.org/abs/2305.10690v1)|null|
 |**2023-05-18**|**RMSSinger: Realistic-Music-Score based Singing Voice Synthesis**|Jinzheng He et.al.|[2305.10686v1](http://arxiv.org/abs/2305.10686v1)|null|
 |**2023-05-18**|**Option pricing under jump diffusion model**|Qian Li et.al.|[2305.10678v1](http://arxiv.org/abs/2305.10678v1)|null|
