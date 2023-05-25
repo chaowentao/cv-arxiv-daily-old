@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.24
+## Updated on 2023.05.25
 
 ## Image Generation
 
@@ -16,7 +16,7 @@ layout: default
 |**2023-05-23**|**DiffProtect: Generate Adversarial Examples with Diffusion Models for Facial Privacy Protection**|Jiang Liu et.al.|[2305.13625v1](http://arxiv.org/abs/2305.13625v1)|null|
 |**2023-05-23**|**Not All Image Regions Matter: Masked Vector Quantization for Autoregressive Image Generation**|Mengqi Huang et.al.|[2305.13607v1](http://arxiv.org/abs/2305.13607v1)|**[link](https://github.com/crossmodalgroup/maskedvectorquantization)**|
 |**2023-05-23**|**Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach**|Yufan Zhou et.al.|[2305.13579v1](http://arxiv.org/abs/2305.13579v1)|**[link](https://github.com/drboog/profusion)**|
-|**2023-05-22**|**Efficient Large-Scale Vision Representation Learning**|Eden Dolev et.al.|[2305.13399v1](http://arxiv.org/abs/2305.13399v1)|null|
+|**2023-05-22**|**Efficient Large-Scale Vision Representation Learning**|Eden Dolev et.al.|[2305.13399v2](http://arxiv.org/abs/2305.13399v2)|null|
 |**2023-05-22**|**If at First You Don't Succeed, Try, Try Again: Faithful Diffusion-based Text-to-Image Generation by Selection**|Shyamgopal Karthik et.al.|[2305.13308v1](http://arxiv.org/abs/2305.13308v1)|null|
 |**2023-05-22**|**ControlVideo: Training-free Controllable Text-to-Video Generation**|Yabo Zhang et.al.|[2305.13077v1](http://arxiv.org/abs/2305.13077v1)|**[link](https://github.com/ybybzhang/controlvideo)**|
 |**2023-05-22**|**AudioToken: Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation**|Guy Yariv et.al.|[2305.13050v1](http://arxiv.org/abs/2305.13050v1)|**[link](https://github.com/guyyariv/AudioToken)**|
@@ -132,7 +132,7 @@ layout: default
 |**2023-05-23**|**Implementation of Lenia as a Reaction-Diffusion System**|Hiroki Kojima et.al.|[2305.13784v1](http://arxiv.org/abs/2305.13784v1)|null|
 |**2023-05-23**|**Understanding Text-driven Motion Synthesis with Keyframe Collaboration via Diffusion Models**|Dong Wei et.al.|[2305.13773v1](http://arxiv.org/abs/2305.13773v1)|null|
 |**2023-05-23**|**How roughness and thermal properties of a solid substrate determine the Leidenfrost temperature: Experiments and a model**|Yuki Wakata et.al.|[2305.13767v1](http://arxiv.org/abs/2305.13767v1)|null|
-|**2023-05-23**|**Time-dependent probability density function for partial resetting dynamics**|C. Di Bello et.al.|[2305.13722v1](http://arxiv.org/abs/2305.13722v1)|null|
+|**2023-05-23**|**Time-dependent probability density function for partial resetting dynamics**|C. Di Bello et.al.|[2305.13722v2](http://arxiv.org/abs/2305.13722v2)|null|
 |**2023-05-23**|**DiffHand: End-to-End Hand Mesh Reconstruction via Diffusion Models**|Lijun Li et.al.|[2305.13705v1](http://arxiv.org/abs/2305.13705v1)|null|
 |**2023-05-23**|**LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models**|Long Lian et.al.|[2305.13655v1](http://arxiv.org/abs/2305.13655v1)|null|
 |**2023-05-23**|**DiffProtect: Generate Adversarial Examples with Diffusion Models for Facial Privacy Protection**|Jiang Liu et.al.|[2305.13625v1](http://arxiv.org/abs/2305.13625v1)|null|
@@ -144,7 +144,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-23**|**Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers**|Giulia Rizzoli et.al.|[2305.14269v1](http://arxiv.org/abs/2305.14269v1)|null|
-|**2023-05-22**|**Efficient Large-Scale Vision Representation Learning**|Eden Dolev et.al.|[2305.13399v1](http://arxiv.org/abs/2305.13399v1)|null|
+|**2023-05-22**|**Efficient Large-Scale Vision Representation Learning**|Eden Dolev et.al.|[2305.13399v2](http://arxiv.org/abs/2305.13399v2)|null|
 |**2023-05-22**|**U-DiT TTS: U-Diffusion Vision Transformer for Text-to-Speech**|Xin Jing et.al.|[2305.13195v1](http://arxiv.org/abs/2305.13195v1)|null|
 |**2023-05-22**|**DeepJSCC-l++: Robust and Bandwidth-Adaptive Wireless Image Transmission**|Chenghong Bian et.al.|[2305.13161v1](http://arxiv.org/abs/2305.13161v1)|null|
 |**2023-05-22**|**Getting ViT in Shape: Scaling Laws for Compute-Optimal Model Design**|Ibrahim Alabdulmohsin et.al.|[2305.13035v1](http://arxiv.org/abs/2305.13035v1)|null|
@@ -178,14 +178,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-23**|**3D Open-vocabulary Segmentation with Foundation Models**|Kunhao Liu et.al.|[2305.14093v1](http://arxiv.org/abs/2305.14093v1)|**[link](https://github.com/kunhao-liu/3d-ovs)**|
+|**2023-05-23**|**3D Open-vocabulary Segmentation with Foundation Models**|Kunhao Liu et.al.|[2305.14093v2](http://arxiv.org/abs/2305.14093v2)|**[link](https://github.com/kunhao-liu/3d-ovs)**|
 |**2023-05-22**|**NeRFuser: Large-Scale Scene Representation by NeRF Fusion**|Jiading Fang et.al.|[2305.13307v1](http://arxiv.org/abs/2305.13307v1)|**[link](https://github.com/ripl/nerfuser)**|
 |**2023-05-22**|**Registering Neural Radiance Fields as 3D Density Images**|Han Jiang et.al.|[2305.12843v1](http://arxiv.org/abs/2305.12843v1)|null|
 |**2023-05-19**|**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**|Jingbo Zhang et.al.|[2305.11588v1](http://arxiv.org/abs/2305.11588v1)|null|
 |**2023-05-18**|**MVPSNet: Fast Generalizable Multi-view Photometric Stereo**|Dongxu Zhao et.al.|[2305.11167v1](http://arxiv.org/abs/2305.11167v1)|null|
 |**2023-05-18**|**ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**|Shoukang Hu et.al.|[2305.11031v1](http://arxiv.org/abs/2305.11031v1)|**[link](https://github.com/skhu101/consistentnerf)**|
 |**2023-05-17**|**MultiPlaneNeRF: Neural Radiance Field with Non-Trainable Representation**|Dominik Zimny et.al.|[2305.10579v1](http://arxiv.org/abs/2305.10579v1)|**[link](https://github.com/gmum/multiplanenerf)**|
-|**2023-05-17**|**OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields**|Youtan Yin et.al.|[2305.10503v1](http://arxiv.org/abs/2305.10503v1)|**[link](https://github.com/cuteyyt/or-nerf)**|
+|**2023-05-17**|**OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields**|Youtan Yin et.al.|[2305.10503v2](http://arxiv.org/abs/2305.10503v2)|**[link](https://github.com/cuteyyt/or-nerf)**|
 |**2023-05-16**|**NerfBridge: Bringing Real-time, Online Neural Radiance Field Training to Robotics**|Javier Yu et.al.|[2305.09761v1](http://arxiv.org/abs/2305.09761v1)|**[link](https://github.com/javieryu/nerf_bridge)**|
 |**2023-05-15**|**MV-Map: Offboard HD-Map Generation with Multi-view Consistency**|Ziyang Xie et.al.|[2305.08851v1](http://arxiv.org/abs/2305.08851v1)|**[link](https://github.com/ziyang-xie/mv-map)**|
 |**2023-05-12**|**BundleRecon: Ray Bundle-Based 3D Neural Reconstruction**|Weikun Zhang et.al.|[2305.07342v1](http://arxiv.org/abs/2305.07342v1)|null|
@@ -287,7 +287,7 @@ layout: default
 |**2023-05-19**|**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**|Jingbo Zhang et.al.|[2305.11588v1](http://arxiv.org/abs/2305.11588v1)|null|
 |**2023-05-19**|**A Unified Prompt-Guided In-Context Inpainting Framework for Reference-based Image Manipulations**|Chenjie Cao et.al.|[2305.11577v1](http://arxiv.org/abs/2305.11577v1)|**[link](https://github.com/ewrfcas/pgic_inpainting)**|
 |**2023-05-18**|**ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**|Shoukang Hu et.al.|[2305.11031v1](http://arxiv.org/abs/2305.11031v1)|**[link](https://github.com/skhu101/consistentnerf)**|
-|**2023-05-17**|**OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields**|Youtan Yin et.al.|[2305.10503v1](http://arxiv.org/abs/2305.10503v1)|**[link](https://github.com/cuteyyt/or-nerf)**|
+|**2023-05-17**|**OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields**|Youtan Yin et.al.|[2305.10503v2](http://arxiv.org/abs/2305.10503v2)|**[link](https://github.com/cuteyyt/or-nerf)**|
 |**2023-05-10**|**HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**|Mustafa Işık et.al.|[2305.06356v2](http://arxiv.org/abs/2305.06356v2)|**[link](https://github.com/synthesiaresearch/humanrf)**|
 |**2023-05-07**|**HashCC: Lightweight Method to Improve the Quality of the Camera-less NeRF Scene Generation**|Jan Olszewski et.al.|[2305.04296v1](http://arxiv.org/abs/2305.04296v1)|null|
 |**2023-05-04**|**NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**|Jun-Kun Chen et.al.|[2305.03049v1](http://arxiv.org/abs/2305.03049v1)|null|
