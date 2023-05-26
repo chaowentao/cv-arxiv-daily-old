@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.25
+## Updated on 2023.05.26
 
 ## Image Generation
 
@@ -14,7 +14,7 @@ layout: default
 |**2023-05-24**|**MultiFusion: Fusing Pre-Trained Models for Multi-Lingual, Multi-Modal Image Generation**|Marco Bellagente et.al.|[2305.15296v1](http://arxiv.org/abs/2305.15296v1)|null|
 |**2023-05-24**|**DiffBlender: Scalable and Composable Multimodal Text-to-Image Diffusion Models**|Sungnyun Kim et.al.|[2305.15194v1](http://arxiv.org/abs/2305.15194v1)|null|
 |**2023-05-24**|**Transferring Visual Attributes from Natural Language to Verified Image Generation**|Rodrigo Valerio et.al.|[2305.15026v1](http://arxiv.org/abs/2305.15026v1)|null|
-|**2023-05-24**|**HARD: Hard Augmentations for Robust Distillation**|Arne F. Nix et.al.|[2305.14890v1](http://arxiv.org/abs/2305.14890v1)|null|
+|**2023-05-24**|**HARD: Hard Augmentations for Robust Distillation**|Arne F. Nix et.al.|[2305.14890v2](http://arxiv.org/abs/2305.14890v2)|null|
 |**2023-05-24**|**DuDGAN: Improving Class-Conditional GANs via Dual-Diffusion**|Taesun Yeom et.al.|[2305.14849v1](http://arxiv.org/abs/2305.14849v1)|null|
 |**2023-05-24**|**Towards Few-shot Entity Recognition in Document Images: A Graph Neural Network Approach Robust to Image Manipulation**|Prashant Krishnan et.al.|[2305.14828v1](http://arxiv.org/abs/2305.14828v1)|null|
 |**2023-05-24**|**ChatFace: Chat-Guided Real Face Editing via Diffusion Latent Space Manipulation**|Dongxu Yue et.al.|[2305.14742v1](http://arxiv.org/abs/2305.14742v1)|null|
@@ -133,7 +133,7 @@ layout: default
 |**2023-05-24**|**DuDGAN: Improving Class-Conditional GANs via Dual-Diffusion**|Taesun Yeom et.al.|[2305.14849v1](http://arxiv.org/abs/2305.14849v1)|null|
 |**2023-05-24**|**VERTICO VI: Cold-gas asymmetries in Virgo cluster galaxies**|Ian D. Roberts et.al.|[2305.14823v1](http://arxiv.org/abs/2305.14823v1)|null|
 |**2023-05-24**|**Evidence for a Many-Body Anderson Metal-Insulator Transition using Kicked Quantum Gases**|Jun Hui See Toh et.al.|[2305.14817v1](http://arxiv.org/abs/2305.14817v1)|null|
-|**2023-05-24**|**Phases of 4He and H2 adsorbed on a single carbon nanotube**|M. C. Gordillo et.al.|[2305.14774v1](http://arxiv.org/abs/2305.14774v1)|null|
+|**2023-05-24**|**Phases of $^4$He and H$_2$ adsorbed on a single carbon nanotube**|M. C. Gordillo et.al.|[2305.14774v1](http://arxiv.org/abs/2305.14774v1)|null|
 |**2023-05-24**|**SSD-2: Scaling and Inference-time Fusion of Diffusion Language Models**|Xiaochuang Han et.al.|[2305.14771v1](http://arxiv.org/abs/2305.14771v1)|null|
 |**2023-05-24**|**ChatFace: Chat-Guided Real Face Editing via Diffusion Latent Space Manipulation**|Dongxu Yue et.al.|[2305.14742v1](http://arxiv.org/abs/2305.14742v1)|null|
 |**2023-05-24**|**I Spy a Metaphor: Large Language Models and Diffusion Models Co-Create Visual Metaphors**|Tuhin Chakrabarty et.al.|[2305.14724v1](http://arxiv.org/abs/2305.14724v1)|null|
@@ -169,7 +169,7 @@ layout: default
 |**2023-05-18**|**How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses**|Joana C. Costa et.al.|[2305.10862v1](http://arxiv.org/abs/2305.10862v1)|null|
 |**2023-05-18**|**Boost Vision Transformer with GPU-Friendly Sparsity and Quantization**|Chong Yu et.al.|[2305.10727v1](http://arxiv.org/abs/2305.10727v1)|null|
 |**2023-05-17**|**CageViT: Convolutional Activation Guided Efficient Vision Transformer**|Hao Zheng et.al.|[2305.09924v1](http://arxiv.org/abs/2305.09924v1)|null|
-|**2023-05-17**|**A survey of the Vision Transformers and its CNN-Transformer based Variants**|Asifullah Khan et.al.|[2305.09880v1](http://arxiv.org/abs/2305.09880v1)|null|
+|**2023-05-17**|**A survey of the Vision Transformers and its CNN-Transformer based Variants**|Asifullah Khan et.al.|[2305.09880v2](http://arxiv.org/abs/2305.09880v2)|null|
 |**2023-05-16**|**Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token**|Jinsong Shi et.al.|[2305.09353v1](http://arxiv.org/abs/2305.09353v1)|**[link](https://github.com/srache/tempqt)**|
 |**2023-05-16**|**CB-HVTNet: A channel-boosted hybrid vision transformer network for lymphocyte assessment in histopathological images**|Momina Liaqat Ali et.al.|[2305.09211v1](http://arxiv.org/abs/2305.09211v1)|null|
 |**2023-05-16**|**Style Transfer Enabled Sim2Real Framework for Efficient Learning of Robotic Ultrasound Image Analysis Using Simulated Data**|Keyu Li et.al.|[2305.09169v1](http://arxiv.org/abs/2305.09169v1)|null|
