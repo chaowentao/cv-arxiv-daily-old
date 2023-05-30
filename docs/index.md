@@ -15,7 +15,7 @@ layout: default
 |**2023-05-29**|**TaleCrafter: Interactive Story Visualization with Multiple Characters**|Yuan Gong et.al.|[2305.18247v1](http://arxiv.org/abs/2305.18247v1)|**[link](https://github.com/videocrafter/talecrafter)**|
 |**2023-05-26**|**High-Fidelity Image Compression with Score-based Generative Models**|Emiel Hoogeboom et.al.|[2305.18231v1](http://arxiv.org/abs/2305.18231v1)|null|
 |**2023-05-29**|**Alignment-free HDR Deghosting with Semantics Consistent Transformer**|Steven Tel et.al.|[2305.18135v1](http://arxiv.org/abs/2305.18135v1)|null|
-|**2023-05-29**|**TD-GEM: Text-Driven Garment Editing Mapper**|Reza Dadfar et.al.|[2305.18120v1](http://arxiv.org/abs/2305.18120v1)|null|
+|**2023-05-29**|**TD-GEM: Text-Driven Garment Editing Mapper**|Reza Dadfar et.al.|[2305.18120v1](http://arxiv.org/abs/2305.18120v1)|**[link](https://github.com/resa-git/TD-GEM)**|
 |**2023-05-29**|**Text-Only Image Captioning with Multi-Context Data Generation**|Feipeng Ma et.al.|[2305.18072v1](http://arxiv.org/abs/2305.18072v1)|null|
 |**2023-05-29**|**InstructEdit: Improving Automatic Masks for Diffusion-based Image Editing With User Instructions**|Qian Wang et.al.|[2305.18047v1](http://arxiv.org/abs/2305.18047v1)|**[link](https://github.com/qianwangx/instructedit)**|
 |**2023-05-29**|**Conditional Score Guidance for Text-Driven Image-to-Image Translation**|Hyunsoo Lee et.al.|[2305.18007v1](http://arxiv.org/abs/2305.18007v1)|null|
