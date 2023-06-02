@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.01
+## Updated on 2023.06.02
 
 ## Image Generation
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-31**|**Understanding and Mitigating Copying in Diffusion Models**|Gowthami Somepalli et.al.|[2305.20086v1](http://arxiv.org/abs/2305.20086v1)|**[link](https://github.com/somepago/dcr)**|
 |**2023-05-31**|**A Unified Conditional Framework for Diffusion-based Image Restoration**|Yi Zhang et.al.|[2305.20049v1](http://arxiv.org/abs/2305.20049v1)|null|
-|**2023-05-31**|**Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust**|Yuxin Wen et.al.|[2305.20030v1](http://arxiv.org/abs/2305.20030v1)|**[link](https://github.com/YuxinWenRick/tree-ring-watermark)**|
+|**2023-05-31**|**Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust**|Yuxin Wen et.al.|[2305.20030v2](http://arxiv.org/abs/2305.20030v2)|**[link](https://github.com/YuxinWenRick/tree-ring-watermark)**|
 |**2023-05-31**|**GANDiffFace: Controllable Generation of Synthetic Datasets for Face Recognition with Realistic Variations**|Pietro Melzi et.al.|[2305.19962v1](http://arxiv.org/abs/2305.19962v1)|null|
 |**2023-05-31**|**A Unified GAN Framework Regarding Manifold Alignment for Remote Sensing Images Generation**|Xingzhe Su et.al.|[2305.19507v1](http://arxiv.org/abs/2305.19507v1)|null|
 |**2023-05-30**|**Translation-Enhanced Multilingual Text-to-Image Generation**|Yaoyiran Li et.al.|[2305.19216v1](http://arxiv.org/abs/2305.19216v1)|null|
@@ -115,7 +115,7 @@ layout: default
 |**2023-05-31**|**Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor**|Ruizhi Shao et.al.|[2305.20082v1](http://arxiv.org/abs/2305.20082v1)|null|
 |**2023-05-31**|**Efficient Diffusion Policies for Offline Reinforcement Learning**|Bingyi Kang et.al.|[2305.20081v1](http://arxiv.org/abs/2305.20081v1)|**[link](https://github.com/sail-sg/edp)**|
 |**2023-05-31**|**A Unified Conditional Framework for Diffusion-based Image Restoration**|Yi Zhang et.al.|[2305.20049v1](http://arxiv.org/abs/2305.20049v1)|null|
-|**2023-05-31**|**Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust**|Yuxin Wen et.al.|[2305.20030v1](http://arxiv.org/abs/2305.20030v1)|**[link](https://github.com/YuxinWenRick/tree-ring-watermark)**|
+|**2023-05-31**|**Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust**|Yuxin Wen et.al.|[2305.20030v2](http://arxiv.org/abs/2305.20030v2)|**[link](https://github.com/YuxinWenRick/tree-ring-watermark)**|
 |**2023-05-31**|**Protein Design with Guided Discrete Diffusion**|Nate Gruver et.al.|[2305.20009v1](http://arxiv.org/abs/2305.20009v1)|null|
 |**2023-05-31**|**GANDiffFace: Controllable Generation of Synthetic Datasets for Face Recognition with Realistic Variations**|Pietro Melzi et.al.|[2305.19962v1](http://arxiv.org/abs/2305.19962v1)|null|
 |**2023-05-31**|**A Geometric Perspective on Diffusion Models**|Defang Chen et.al.|[2305.19947v1](http://arxiv.org/abs/2305.19947v1)|null|
@@ -132,12 +132,12 @@ layout: default
 |**2023-05-31**|**Existence and Stability of Random Transition Waves for Nonautonomous Fisher-KPP Equations with Nonlocal Diffusion**|Min Zhao et.al.|[2305.19762v1](http://arxiv.org/abs/2305.19762v1)|null|
 |**2023-05-31**|**Multiplexed wavefront sensing with a thin diffuser**|Tengfei Wu et.al.|[2305.19758v1](http://arxiv.org/abs/2305.19758v1)|null|
 |**2023-05-31**|**Transportation cost inequalities for stochastic reaction diffusion equations on the whole line $\mathbb{R}$**|Yue Li et.al.|[2305.19739v1](http://arxiv.org/abs/2305.19739v1)|null|
-|**2023-05-31**|**Spontaneous symmetry breaking in generative diffusion models**|Gabriel Raya et.al.|[2305.19693v1](http://arxiv.org/abs/2305.19693v1)|null|
+|**2023-05-31**|**Spontaneous symmetry breaking in generative diffusion models**|Gabriel Raya et.al.|[2305.19693v2](http://arxiv.org/abs/2305.19693v2)|null|
 |**2023-05-31**|**Deep Stochastic Mechanics**|Elena Orlova et.al.|[2305.19685v1](http://arxiv.org/abs/2305.19685v1)|**[link](https://github.com/elena-orlova/deep-stochastic-mechanics)**|
 |**2023-05-31**|**Theoretical mass estimates for the Mira-type variable R Hydrae**|Yuri A. Fadeyev et.al.|[2305.19657v1](http://arxiv.org/abs/2305.19657v1)|null|
 |**2023-05-31**|**Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models**|Cosmin I. Bercea et.al.|[2305.19643v1](http://arxiv.org/abs/2305.19643v1)|null|
 |**2023-05-31**|**A Unified Framework for U-Net Design and Analysis**|Christopher Williams et.al.|[2305.19638v1](http://arxiv.org/abs/2305.19638v1)|null|
-|**2023-05-31**|**Boosting Text-to-Image Diffusion Models with Fine-Grained Semantic Rewards**|Guian Fang et.al.|[2305.19599v1](http://arxiv.org/abs/2305.19599v1)|**[link](https://github.com/enderfga/finerewards)**|
+|**2023-05-31**|**Boosting Text-to-Image Diffusion Models with Fine-Grained Semantic Rewards**|Guian Fang et.al.|[2305.19599v2](http://arxiv.org/abs/2305.19599v2)|**[link](https://github.com/enderfga/finerewards)**|
 |**2023-05-31**|**The effect of "very fast" strategies on two species competition**|Aniket Banerjee et.al.|[2305.19572v1](http://arxiv.org/abs/2305.19572v1)|null|
 |**2023-05-31**|**Spotlight Attention: Robust Object-Centric Learning With a Spatial Locality Prior**|Ayush Chakravarthy et.al.|[2305.19550v1](http://arxiv.org/abs/2305.19550v1)|null|
 
@@ -183,13 +183,13 @@ layout: default
 |**2023-05-30**|**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**|Jiuhn Song et.al.|[2305.19201v1](http://arxiv.org/abs/2305.19201v1)|null|
 |**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas et.al.|[2305.19065v1](http://arxiv.org/abs/2305.19065v1)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|
 |**2023-05-30**|**HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance**|Junzhe Zhu et.al.|[2305.18766v2](http://arxiv.org/abs/2305.18766v2)|null|
-|**2023-05-29**|**Towards a Robust Framework for NeRF Evaluation**|Adrian Azzarelli et.al.|[2305.18079v2](http://arxiv.org/abs/2305.18079v2)|null|
+|**2023-05-29**|**Towards a Robust Framework for NeRF Evaluation**|Adrian Azzarelli et.al.|[2305.18079v3](http://arxiv.org/abs/2305.18079v3)|null|
 |**2023-05-29**|**Volume Feature Rendering for Fast Neural Radiance Field Reconstruction**|Kang Han et.al.|[2305.17916v2](http://arxiv.org/abs/2305.17916v2)|null|
 |**2023-05-26**|**PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**|Fusang Wang et.al.|[2305.16914v2](http://arxiv.org/abs/2305.16914v2)|null|
 |**2023-05-25**|**ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image**|Zhenzhen Weng et.al.|[2305.16411v1](http://arxiv.org/abs/2305.16411v1)|null|
 |**2023-05-25**|**Interactive Segment Anything NeRF with Feature Imitation**|Xiaokang Chen et.al.|[2305.16233v1](http://arxiv.org/abs/2305.16233v1)|null|
 |**2023-05-25**|**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**|Zhengyi Wang et.al.|[2305.16213v1](http://arxiv.org/abs/2305.16213v1)|**[link](https://github.com/thu-ml/prolificdreamer)**|
-|**2023-05-24**|**Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**|Xinhang Liu et.al.|[2305.15171v1](http://arxiv.org/abs/2305.15171v1)|null|
+|**2023-05-24**|**Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**|Xinhang Liu et.al.|[2305.15171v2](http://arxiv.org/abs/2305.15171v2)|null|
 |**2023-05-24**|**InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields**|Dongqing Wang et.al.|[2305.15094v1](http://arxiv.org/abs/2305.15094v1)|null|
 |**2023-05-24**|**OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields**|Zhiwen Yan et.al.|[2305.14831v1](http://arxiv.org/abs/2305.14831v1)|null|
 |**2023-05-23**|**3D Open-vocabulary Segmentation with Foundation Models**|Kunhao Liu et.al.|[2305.14093v2](http://arxiv.org/abs/2305.14093v2)|**[link](https://github.com/kunhao-liu/3d-ovs)**|
@@ -219,7 +219,7 @@ layout: default
 |**2023-05-30**|**Scale-aware Super-resolution Network with Dual Affinity Learning for Lesion Segmentation from Medical Images**|Yanwen Li et.al.|[2305.19063v1](http://arxiv.org/abs/2305.19063v1)|null|
 |**2023-05-30**|**Toward Real-World Light Field Super-Resolution**|Zeyu Xiao et.al.|[2305.18994v1](http://arxiv.org/abs/2305.18994v1)|null|
 |**2023-05-26**|**Learning from Multi-Perception Features for Real-Word Image Super-resolution**|Axi Niu et.al.|[2305.18547v1](http://arxiv.org/abs/2305.18547v1)|null|
-|**2023-05-29**|**Crafting Training Degradation Distribution for the Accuracy-Generalization Trade-off**|Ruofan Zhang et.al.|[2305.18107v1](http://arxiv.org/abs/2305.18107v1)|null|
+|**2023-05-29**|**Crafting Training Degradation Distribution for the Accuracy-Generalization Trade-off in Real-World Super-Resolution**|Ruofan Zhang et.al.|[2305.18107v2](http://arxiv.org/abs/2305.18107v2)|null|
 |**2023-05-29**|**Convolutional neural network based on sparse graph attention mechanism for MRI super-resolution**|Xin Hua et.al.|[2305.17898v1](http://arxiv.org/abs/2305.17898v1)|null|
 |**2023-05-27**|**USIM-DAL: Uncertainty-aware Statistical Image Modeling-based Dense Active Learning for Super-resolution**|Vikrant Rangnekar et.al.|[2305.17520v1](http://arxiv.org/abs/2305.17520v1)|null|
 |**2023-05-27**|**Super resolution computational saturated absorption microscopy**|Gabe Murray et.al.|[2305.17348v1](http://arxiv.org/abs/2305.17348v1)|null|
