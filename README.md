@@ -1,11 +1,11 @@
-## Updated on 2023.06.04
+## Updated on 2023.06.05
 
 ## Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-06-01**|**StyleGAN knows Normal, Depth, Albedo, and More**|Anand Bhattad et.al.|[2306.00987v1](http://arxiv.org/abs/2306.00987v1)|null|
-|**2023-06-01**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986v1](http://arxiv.org/abs/2306.00986v1)|null|
+|**2023-06-01**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986v2](http://arxiv.org/abs/2306.00986v2)|null|
 |**2023-06-01**|**Using generative AI to investigate medical imagery models and datasets**|Oran Lang et.al.|[2306.00985v1](http://arxiv.org/abs/2306.00985v1)|null|
 |**2023-06-01**|**StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners**|Yonglong Tian et.al.|[2306.00984v1](http://arxiv.org/abs/2306.00984v1)|null|
 |**2023-06-01**|**StyleDrop: Text-to-Image Generation in Any Style**|Kihyuk Sohn et.al.|[2306.00983v1](http://arxiv.org/abs/2306.00983v1)|null|
@@ -106,7 +106,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-01**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986v1](http://arxiv.org/abs/2306.00986v1)|null|
+|**2023-06-01**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986v2](http://arxiv.org/abs/2306.00986v2)|null|
 |**2023-06-01**|**StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners**|Yonglong Tian et.al.|[2306.00984v1](http://arxiv.org/abs/2306.00984v1)|null|
 |**2023-06-01**|**StyleDrop: Text-to-Image Generation in Any Style**|Kihyuk Sohn et.al.|[2306.00983v1](http://arxiv.org/abs/2306.00983v1)|null|
 |**2023-06-01**|**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**|Yanyu Li et.al.|[2306.00980v1](http://arxiv.org/abs/2306.00980v1)|**[link](https://github.com/huggingface/diffusers)**|
@@ -178,7 +178,7 @@
 |---|---|---|---|---|
 |**2023-06-01**|**FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**|Hao Zhang et.al.|[2306.00783v1](http://arxiv.org/abs/2306.00783v1)|**[link](https://github.com/billyxyb/fdnerf)**|
 |**2023-06-01**|**Analyzing the Internals of Neural Radiance Fields**|Lukas Radl et.al.|[2306.00696v1](http://arxiv.org/abs/2306.00696v1)|**[link](https://github.com/r4dl/nerfinternals)**|
-|**2023-06-01**|**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**|Mohit Mendiratta. Xingang Pan et.al.|[2306.00547v1](http://arxiv.org/abs/2306.00547v1)|null|
+|**2023-06-01**|**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**|Mohit Mendiratta et.al.|[2306.00547v2](http://arxiv.org/abs/2306.00547v2)|null|
 |**2023-05-30**|**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**|Jiuhn Song et.al.|[2305.19201v1](http://arxiv.org/abs/2305.19201v1)|null|
 |**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas et.al.|[2305.19065v1](http://arxiv.org/abs/2305.19065v1)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|
 |**2023-05-30**|**HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance**|Junzhe Zhu et.al.|[2305.18766v2](http://arxiv.org/abs/2305.18766v2)|null|
@@ -303,7 +303,7 @@
 |**2023-04-28**|**ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**|Nagabhushan Somraj et.al.|[2305.00041v1](http://arxiv.org/abs/2305.00041v1)|**[link](https://github.com/NagabhushanSN95/ViP-NeRF)**|
 |**2023-04-28**|**NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields**|Junge Zhang et.al.|[2304.14811v1](http://arxiv.org/abs/2304.14811v1)|null|
 |**2023-04-27**|**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**|Jiteng Mu et.al.|[2304.14401v1](http://arxiv.org/abs/2304.14401v1)|null|
-|**2023-04-26**|**VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs**|Jiakai Sun et.al.|[2304.13386v1](http://arxiv.org/abs/2304.13386v1)|**[link](https://github.com/sjojok/vgos)**|
+|**2023-04-26**|**VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs**|Jiakai Sun et.al.|[2304.13386v2](http://arxiv.org/abs/2304.13386v2)|**[link](https://github.com/sjojok/vgos)**|
 |**2023-04-25**|**Hybrid Neural Rendering for Large-Scale Scenes with Motion Blur**|Peng Dai et.al.|[2304.12652v1](http://arxiv.org/abs/2304.12652v1)|null|
 |**2023-04-24**|**TensoIR: Tensorial Inverse Rendering**|Haian Jin et.al.|[2304.12461v1](http://arxiv.org/abs/2304.12461v1)|**[link](https://github.com/Haian-Jin/TensoIR)**|
 |**2023-04-24**|**Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis**|Chonghyuk Song et.al.|[2304.12317v1](http://arxiv.org/abs/2304.12317v1)|null|
