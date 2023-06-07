@@ -1,4 +1,4 @@
-## Updated on 2023.06.06
+## Updated on 2023.06.07
 
 ## Image Generation
 
@@ -25,7 +25,7 @@
 |**2023-06-01**|**Intriguing Properties of Text-guided Diffusion Models**|Qihao Liu et.al.|[2306.00974v2](http://arxiv.org/abs/2306.00974v2)|**[link](https://github.com/qihao067/sage)**|
 |**2023-06-01**|**Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models**|Chang Liu et.al.|[2306.00973v1](http://arxiv.org/abs/2306.00973v1)|**[link](https://github.com/haoningwu3639/StoryGen)**|
 |**2023-06-01**|**ViCo: Detail-Preserving Visual Condition for Personalized Text-to-Image Generation**|Shaozhe Hao et.al.|[2306.00971v1](http://arxiv.org/abs/2306.00971v1)|**[link](https://github.com/haoosz/vico)**|
-|**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966v1](http://arxiv.org/abs/2306.00966v1)|**[link](https://github.com/hila-chefer/Conceptor)**|
+|**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966v2](http://arxiv.org/abs/2306.00966v2)|**[link](https://github.com/hila-chefer/Conceptor)**|
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964v1](http://arxiv.org/abs/2306.00964v1)|null|
 |**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950v1](http://arxiv.org/abs/2306.00950v1)|**[link](https://github.com/exx8/differential-diffusion)**|
 |**2023-06-01**|**STEVE-1: A Generative Model for Text-to-Behavior in Minecraft**|Shalev Lifshitz et.al.|[2306.00937v2](http://arxiv.org/abs/2306.00937v2)|null|
@@ -117,7 +117,7 @@
 |**2023-06-05**|**Microscopy image reconstruction with physics-informed denoising diffusion probabilistic model**|Rui Li et.al.|[2306.02929v1](http://arxiv.org/abs/2306.02929v1)|null|
 |**2023-06-05**|**Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions**|Shaoxu Li et.al.|[2306.02903v1](http://arxiv.org/abs/2306.02903v1)|null|
 |**2023-06-05**|**Robust Fiber ODF Estimation Using Deep Constrained Spherical Deconvolution for Diffusion MRI**|Tianyuan Yao et.al.|[2306.02900v1](http://arxiv.org/abs/2306.02900v1)|null|
-|**2023-06-05**|**Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark**|Shuyu Yang et.al.|[2306.02898v1](http://arxiv.org/abs/2306.02898v1)|null|
+|**2023-06-05**|**Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark**|Shuyu Yang et.al.|[2306.02898v2](http://arxiv.org/abs/2306.02898v2)|null|
 |**2023-06-05**|**Crack arrest markings in stress corrosion cracking of 7xxx aluminium alloys: insights into active hydrogen embrittlement mechanisms**|Martí López Freixes et.al.|[2306.02884v1](http://arxiv.org/abs/2306.02884v1)|null|
 |**2023-06-05**|**Deuterium Fractionation across the Infrared Dark Cloud G034.77-00.55 interacting with the Supernova Remnant W44**|G. Cosentino et.al.|[2306.02877v1](http://arxiv.org/abs/2306.02877v1)|null|
 |**2023-06-05**|**Strong Persistence of a Class of Strongly Coupled Parabolic Systems of $m$ Equations**|Dung Le et.al.|[2306.02844v1](http://arxiv.org/abs/2306.02844v1)|null|
@@ -130,7 +130,7 @@
 |**2023-06-05**|**Enhance Diffusion to Improve Robust Generalization**|Jianhui Sun et.al.|[2306.02618v1](http://arxiv.org/abs/2306.02618v1)|**[link](https://github.com/jsycsjh/deat)**|
 |**2023-06-05**|**Physics-Informed Kernel Function Neural Networks for Solving Partial Differential Equations**|Zhuojia Fu et.al.|[2306.02606v1](http://arxiv.org/abs/2306.02606v1)|null|
 |**2023-06-05**|**Local heating variations and transient effects in the coupling of thermal radiation and non-Fourier heat transport**|D. Becerril et.al.|[2306.02600v1](http://arxiv.org/abs/2306.02600v1)|null|
-|**2023-06-05**|**Stable Diffusion is Untable**|Chengbin Du et.al.|[2306.02583v1](http://arxiv.org/abs/2306.02583v1)|null|
+|**2023-06-05**|**Stable Diffusion is Unstable**|Chengbin Du et.al.|[2306.02583v2](http://arxiv.org/abs/2306.02583v2)|null|
 |**2023-06-05**|**$α$-Robust Error Analysis of $L2$-$1_σ$ Scheme on Graded Mesh for Time-fractional Nonlocal Diffusion Equation**|Pari J. Kundaliya et.al.|[2306.02576v1](http://arxiv.org/abs/2306.02576v1)|null|
 |**2023-06-05**|**Video Diffusion Models with Local-Global Context Guidance**|Siyuan Yang et.al.|[2306.02562v1](http://arxiv.org/abs/2306.02562v1)|**[link](https://github.com/exisas/lgc-vd)**|
 |**2023-06-05**|**PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model**|Yizhe Zhang et.al.|[2306.02531v1](http://arxiv.org/abs/2306.02531v1)|null|
@@ -145,7 +145,7 @@
 |**2023-06-05**|**Learning Probabilistic Symmetrization for Architecture Agnostic Equivariance**|Jinwoo Kim et.al.|[2306.02866v1](http://arxiv.org/abs/2306.02866v1)|**[link](https://github.com/jw9730/lps)**|
 |**2023-06-05**|**On the Role of ViT and CNN in Semantic Communications: Analysis and Prototype Validation**|Hanju Yoo et.al.|[2306.02759v1](http://arxiv.org/abs/2306.02759v1)|null|
 |**2023-06-03**|**TransDocAnalyser: A Framework for Offline Semi-structured Handwritten Document Analysis in the Legal Domain**|Sagar Chakraborty et.al.|[2306.02142v1](http://arxiv.org/abs/2306.02142v1)|**[link](https://github.com/legaldocumentprocessing/fir_dataset_icdar2023)**|
-|**2023-06-03**|**Content-aware Token Sharing for Efficient Semantic Segmentation with Vision Transformers**|Chenyang Lu et.al.|[2306.02095v1](http://arxiv.org/abs/2306.02095v1)|null|
+|**2023-06-03**|**Content-aware Token Sharing for Efficient Semantic Segmentation with Vision Transformers**|Chenyang Lu et.al.|[2306.02095v1](http://arxiv.org/abs/2306.02095v1)|**[link](https://github.com/tue-mps/cts-segmenter)**|
 |**2023-06-03**|**Memorization Capacity of Multi-Head Attention in Transformers**|Sadegh Mahdavi et.al.|[2306.02010v1](http://arxiv.org/abs/2306.02010v1)|**[link](https://github.com/smahdavi4/attention-memorization)**|
 |**2023-06-02**|**Recent Advances of Local Mechanisms in Computer Vision: A Survey and Outlook of Recent Work**|Qiangchang Wang et.al.|[2306.01929v1](http://arxiv.org/abs/2306.01929v1)|null|
 |**2023-06-02**|**A Novel Vision Transformer with Residual in Self-attention for Biomedical Image Classification**|Arun K. Sharma et.al.|[2306.01594v2](http://arxiv.org/abs/2306.01594v2)|null|
@@ -186,7 +186,7 @@
 |**2023-05-30**|**HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance**|Junzhe Zhu et.al.|[2305.18766v2](http://arxiv.org/abs/2305.18766v2)|null|
 |**2023-05-29**|**Towards a Robust Framework for NeRF Evaluation**|Adrian Azzarelli et.al.|[2305.18079v3](http://arxiv.org/abs/2305.18079v3)|null|
 |**2023-05-29**|**Volume Feature Rendering for Fast Neural Radiance Field Reconstruction**|Kang Han et.al.|[2305.17916v2](http://arxiv.org/abs/2305.17916v2)|null|
-|**2023-05-26**|**PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**|Fusang Wang et.al.|[2305.16914v2](http://arxiv.org/abs/2305.16914v2)|null|
+|**2023-05-26**|**PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**|Fusang Wang et.al.|[2305.16914v3](http://arxiv.org/abs/2305.16914v3)|null|
 |**2023-05-25**|**ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image**|Zhenzhen Weng et.al.|[2305.16411v1](http://arxiv.org/abs/2305.16411v1)|null|
 |**2023-05-25**|**Interactive Segment Anything NeRF with Feature Imitation**|Xiaokang Chen et.al.|[2305.16233v1](http://arxiv.org/abs/2305.16233v1)|null|
 |**2023-05-25**|**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**|Zhengyi Wang et.al.|[2305.16213v1](http://arxiv.org/abs/2305.16213v1)|**[link](https://github.com/thu-ml/prolificdreamer)**|
@@ -287,7 +287,7 @@
 |**2023-05-30**|**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**|Jiuhn Song et.al.|[2305.19201v1](http://arxiv.org/abs/2305.19201v1)|null|
 |**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas et.al.|[2305.19065v1](http://arxiv.org/abs/2305.19065v1)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|
 |**2023-05-29**|**FastMESH: Fast Surface Reconstruction by Hexagonal Mesh-based Neural Rendering**|Yisu Zhang et.al.|[2305.17858v1](http://arxiv.org/abs/2305.17858v1)|null|
-|**2023-05-26**|**PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**|Fusang Wang et.al.|[2305.16914v2](http://arxiv.org/abs/2305.16914v2)|null|
+|**2023-05-26**|**PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**|Fusang Wang et.al.|[2305.16914v3](http://arxiv.org/abs/2305.16914v3)|null|
 |**2023-05-25**|**Domain-Adaptive Full-Face Gaze Estimation via Novel-View-Synthesis and Feature Disentanglement**|Jiawei Qin et.al.|[2305.16140v1](http://arxiv.org/abs/2305.16140v1)|null|
 |**2023-05-24**|**OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields**|Zhiwen Yan et.al.|[2305.14831v1](http://arxiv.org/abs/2305.14831v1)|null|
 |**2023-05-22**|**RenderMe-360: A Large Digital Asset Library and Benchmarks Towards High-fidelity Head Avatars**|Dongwei Pan et.al.|[2305.13353v1](http://arxiv.org/abs/2305.13353v1)|**[link](https://github.com/renderme-360/renderme-360)**|
