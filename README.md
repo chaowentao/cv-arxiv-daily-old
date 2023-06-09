@@ -1,11 +1,11 @@
-## Updated on 2023.06.08
+## Updated on 2023.06.09
 
 ## Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632v1](http://arxiv.org/abs/2306.04632v1)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
-|**2023-06-07**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607v1](http://arxiv.org/abs/2306.04607v1)|null|
+|**2023-06-07**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607v2](http://arxiv.org/abs/2306.04607v2)|null|
 |**2023-06-07**|**Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards**|Alexandre Rame et.al.|[2306.04488v1](http://arxiv.org/abs/2306.04488v1)|**[link](https://github.com/alexrame/rewardedsoups)**|
 |**2023-06-07**|**Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance**|Gihyun Kwon et.al.|[2306.04396v1](http://arxiv.org/abs/2306.04396v1)|**[link](https://github.com/submissionanon18/agg)**|
 |**2023-06-06**|**A machine learning potential-based generative algorithm for on-lattice crystal structure prediction**|Vadim Sotskov et.al.|[2306.03989v1](http://arxiv.org/abs/2306.03989v1)|null|
@@ -108,8 +108,8 @@
 |---|---|---|---|---|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632v1](http://arxiv.org/abs/2306.04632v1)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
 |**2023-06-07**|**ARTIC3D: Learning Robust Articulated 3D Shapes from Noisy Web Image Collections**|Chun-Han Yao et.al.|[2306.04619v1](http://arxiv.org/abs/2306.04619v1)|null|
-|**2023-06-07**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607v1](http://arxiv.org/abs/2306.04607v1)|null|
-|**2023-06-07**|**Implications of a Possible Spectral Structure of Cosmic-ray Protons Unveiled by the DAMPE**|Lin Nie et.al.|[2306.04558v1](http://arxiv.org/abs/2306.04558v1)|null|
+|**2023-06-07**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607v2](http://arxiv.org/abs/2306.04607v2)|null|
+|**2023-06-07**|**Implications of a Possible Spectral Structure of Cosmic-ray Protons Unveiled by the DAMPE**|Lin Nie et.al.|[2306.04558v2](http://arxiv.org/abs/2306.04558v2)|null|
 |**2023-06-07**|**On the Design Fundamentals of Diffusion Models: A Survey**|Ziyi Chang et.al.|[2306.04542v1](http://arxiv.org/abs/2306.04542v1)|null|
 |**2023-06-07**|**ViCTORIA project: The LOFAR HBA Virgo Cluster Survey**|H. W. Edler et.al.|[2306.04513v1](http://arxiv.org/abs/2306.04513v1)|null|
 |**2023-06-07**|**Multi-modal Latent Diffusion**|Mustapha Bounoua et.al.|[2306.04445v1](http://arxiv.org/abs/2306.04445v1)|null|
@@ -124,7 +124,7 @@
 |**2023-06-07**|**MESSY Estimation: Maximum-Entropy based Stochastic and Symbolic densitY Estimation**|Tony Tohme et.al.|[2306.04120v1](http://arxiv.org/abs/2306.04120v1)|null|
 |**2023-06-07**|**Phoenix: A Federated Generative Diffusion Model**|Fiona Victoria Stanley Jothiraj et.al.|[2306.04098v1](http://arxiv.org/abs/2306.04098v1)|null|
 |**2023-06-07**|**Professional Basketball Player Behavior Synthesis via Planning with Diffusion**|Xiusi Chen et.al.|[2306.04090v1](http://arxiv.org/abs/2306.04090v1)|null|
-|**2023-06-06**|**Randomized Schur Complement Views for Graph Contrastive Learning**|Vignesh Kothapalli et.al.|[2306.04004v1](http://arxiv.org/abs/2306.04004v1)|null|
+|**2023-06-06**|**Randomized Schur Complement Views for Graph Contrastive Learning**|Vignesh Kothapalli et.al.|[2306.04004v1](http://arxiv.org/abs/2306.04004v1)|**[link](https://github.com/kvignesh1420/rlap)**|
 |**2023-06-06**|**A machine learning potential-based generative algorithm for on-lattice crystal structure prediction**|Vadim Sotskov et.al.|[2306.03989v1](http://arxiv.org/abs/2306.03989v1)|null|
 |**2023-06-06**|**High-dimensional and Permutation Invariant Anomaly Detection**|Vinicius Mikuni et.al.|[2306.03933v1](http://arxiv.org/abs/2306.03933v1)|**[link](https://github.com/viniciusmikuni/permutationinvariantad)**|
 |**2023-06-06**|**A search for inter-cluster filaments with LOFAR and eROSITA**|D. N. Hoang et.al.|[2306.03904v1](http://arxiv.org/abs/2306.03904v1)|null|
@@ -141,7 +141,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-07**|**Revising deep learning methods in parking lot occupancy detection**|Anastasia Martynova et.al.|[2306.04288v1](http://arxiv.org/abs/2306.04288v1)|**[link](https://github.com/eighonet/parking-research)**|
+|**2023-06-07**|**Revising deep learning methods in parking lot occupancy detection**|Anastasia Martynova et.al.|[2306.04288v2](http://arxiv.org/abs/2306.04288v2)|**[link](https://github.com/eighonet/parking-research)**|
 |**2023-06-07**|**Normalization Layers Are All That Sharpness-Aware Minimization Needs**|Maximilian Mueller et.al.|[2306.04226v1](http://arxiv.org/abs/2306.04226v1)|**[link](https://github.com/mueller-mp/sam-on)**|
 |**2023-06-07**|**Efficient Vision Transformer for Human Pose Estimation via Patch Selection**|Kaleab A. Kinfu et.al.|[2306.04225v1](http://arxiv.org/abs/2306.04225v1)|null|
 |**2023-06-07**|**TEC-Net: Vision Transformer Embrace Convolutional Neural Networks for Medical Image Segmentation**|Tao Lei et.al.|[2306.04086v1](http://arxiv.org/abs/2306.04086v1)|**[link](https://github.com/sr0920/tec-net)**|
