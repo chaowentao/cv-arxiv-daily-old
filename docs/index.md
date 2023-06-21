@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.20
+## Updated on 2023.06.21
 
 ## Image Generation
 
@@ -113,7 +113,7 @@ layout: default
 |**2023-06-16**|**Group Orthogonalization Regularization For Vision Models Adaptation and Robustness**|Yoav Kurtz et.al.|[2306.10001v1](http://arxiv.org/abs/2306.10001v1)|**[link](https://github.com/yoavkurtz/gor)**|
 |**2023-06-16**|**X-ray emission from Westerlund 2 detected by SRG/ART-XC and Chandra: search for radiation of TeV leptons**|A. M. Bykov et.al.|[2306.09960v1](http://arxiv.org/abs/2306.09960v1)|null|
 |**2023-06-16**|**Towards Better Certified Segmentation via Diffusion Models**|Othmane Laousy et.al.|[2306.09949v1](http://arxiv.org/abs/2306.09949v1)|null|
-|**2023-06-16**|**Unique information from common diffusion MRI models about white-matter differences across the human adult lifespan**|Rafael Neto Henriques1 et.al.|[2306.09942v1](http://arxiv.org/abs/2306.09942v1)|null|
+|**2023-06-16**|**Unique information from common diffusion MRI models about white-matter differences across the human adult lifespan**|Rafael Neto Henriques1 et.al.|[2306.09942v1](http://arxiv.org/abs/2306.09942v1)|**[link](https://github.com/rafaelnh/camcan-dmri-study)**|
 |**2023-06-16**|**Drag-guided diffusion models for vehicle image generation**|Nikos Arechiga et.al.|[2306.09935v1](http://arxiv.org/abs/2306.09935v1)|null|
 |**2023-06-16**|**Density and current statistics in boundary-driven monitored fermionic chains**|Xhek Turkeshi et.al.|[2306.09893v1](http://arxiv.org/abs/2306.09893v1)|null|
 |**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869v1](http://arxiv.org/abs/2306.09869v1)|null|
@@ -135,8 +135,8 @@ layout: default
 |**2023-06-15**|**Experimental test of Landauer's principle for stochastic resetting**|Rémi Goerlich et.al.|[2306.09503v1](http://arxiv.org/abs/2306.09503v1)|null|
 |**2023-06-15**|**R2-Diff: Denoising by diffusion as a refinement of retrieved motion for image-based motion prediction**|Takeru Oba et.al.|[2306.09483v1](http://arxiv.org/abs/2306.09483v1)|null|
 |**2023-06-15**|**Diff-TTSG: Denoising probabilistic integrated speech and gesture synthesis**|Shivam Mehta et.al.|[2306.09417v1](http://arxiv.org/abs/2306.09417v1)|null|
-|**2023-06-15**|**Generative Proxemics: A Prior for 3D Social Interaction from Images**|Lea Müller et.al.|[2306.09337v1](http://arxiv.org/abs/2306.09337v1)|null|
-|**2023-06-15**|**ArtFusion: Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**|Dar-Yen Chen et.al.|[2306.09330v1](http://arxiv.org/abs/2306.09330v1)|**[link](https://github.com/chendaryen/artfusion)**|
+|**2023-06-15**|**Generative Proxemics: A Prior for 3D Social Interaction from Images**|Lea Müller et.al.|[2306.09337v1](http://arxiv.org/abs/2306.09337v1)|**[link](https://github.com/muelea/buddi)**|
+|**2023-06-15**|**ArtFusion: Controllable Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**|Dar-Yen Chen et.al.|[2306.09330v2](http://arxiv.org/abs/2306.09330v2)|**[link](https://github.com/chendaryen/artfusion)**|
 |**2023-06-15**|**Diffusion Models for Zero-Shot Open-Vocabulary Segmentation**|Laurynas Karazija et.al.|[2306.09316v1](http://arxiv.org/abs/2306.09316v1)|null|
 |**2023-06-15**|**Fast Training of Diffusion Models with Masked Transformers**|Hongkai Zheng et.al.|[2306.09305v1](http://arxiv.org/abs/2306.09305v1)|**[link](https://github.com/anima-lab/maskdit)**|
 |**2023-06-15**|**A Score-based Nonlinear Filter for Data Assimilation**|Feng Bao et.al.|[2306.09282v1](http://arxiv.org/abs/2306.09282v1)|null|
