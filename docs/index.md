@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.21
+## Updated on 2023.06.22
 
 ## Image Generation
 
@@ -18,7 +18,7 @@ layout: default
 |**2023-06-19**|**Tame a Wild Camera: In-the-Wild Monocular Camera Calibration**|Shengjie Zhu et.al.|[2306.10988v1](http://arxiv.org/abs/2306.10988v1)|**[link](https://github.com/shngjz/wildcamera)**|
 |**2023-06-19**|**Instruct-NeuralTalker: Editing Audio-Driven Talking Radiance Fields with Instructions**|Yuqi Sun et.al.|[2306.10813v1](http://arxiv.org/abs/2306.10813v1)|null|
 |**2023-06-19**|**Conditional Text Image Generation with Diffusion Models**|Yuanzhi Zhu et.al.|[2306.10804v1](http://arxiv.org/abs/2306.10804v1)|null|
-|**2023-06-18**|**MARBLE: Music Audio Representation Benchmark for Universal Evaluation**|Ruibin Yuan et.al.|[2306.10548v1](http://arxiv.org/abs/2306.10548v1)|null|
+|**2023-06-18**|**MARBLE: Music Audio Representation Benchmark for Universal Evaluation**|Ruibin Yuan et.al.|[2306.10548v2](http://arxiv.org/abs/2306.10548v2)|null|
 |**2023-06-18**|**Point-Cloud Completion with Pretrained Text-to-image Diffusion Models**|Yoni Kasten et.al.|[2306.10533v1](http://arxiv.org/abs/2306.10533v1)|null|
 |**2023-06-17**|**Image Harmonization with Diffusion Model**|Jiajie Li et.al.|[2306.10441v1](http://arxiv.org/abs/2306.10441v1)|null|
 |**2023-06-16**|**MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**|Kai Zhang et.al.|[2306.10012v1](http://arxiv.org/abs/2306.10012v1)|**[link](https://github.com/osu-nlp-group/magicbrush)**|
