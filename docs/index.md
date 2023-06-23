@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.22
+## Updated on 2023.06.23
 
 ## Image Generation
 
@@ -113,7 +113,7 @@ layout: default
 |**2023-06-21**|**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**|Yukun Huang et.al.|[2306.12422v1](http://arxiv.org/abs/2306.12422v1)|null|
 |**2023-06-21**|**Gradient Flow of the Sinai-Ruelle-Bowen Entropy**|Miaohua Jiang et.al.|[2306.12401v1](http://arxiv.org/abs/2306.12401v1)|null|
 |**2023-06-21**|**Spatio-temporal dynamics in a diffusive Bazykin model: effects of group defense and prey-taxis**|Subrata Dey et.al.|[2306.12393v1](http://arxiv.org/abs/2306.12393v1)|null|
-|**2023-06-21**|**Commentary Regarding the CRESU-SIS Experiment: Concerns About the Uniform Supersonic Flow Reactor**|Olivier Durif et.al.|[2306.12349v1](http://arxiv.org/abs/2306.12349v1)|null|
+|**2023-06-21**|**Commentary Regarding the CRESU-SIS Experiment: Concerns About the Uniform Supersonic Flow Reactor**|Olivier Durif et.al.|[2306.12349v2](http://arxiv.org/abs/2306.12349v2)|null|
 |**2023-06-21**|**Non-linear and negative effective diffusivity of optical excitations in moiré-free heterobilayers**|Edith Wietek et.al.|[2306.12339v1](http://arxiv.org/abs/2306.12339v1)|null|
 |**2023-06-21**|**Diffusion Posterior Sampling for Informed Single-Channel Dereverberation**|Jean-Marie Lemercier et.al.|[2306.12286v1](http://arxiv.org/abs/2306.12286v1)|null|
 |**2023-06-21**|**The Hessian of surface tension characterises scaling limit of gradient models with non-convex energy**|Stefan Adams et.al.|[2306.12226v1](http://arxiv.org/abs/2306.12226v1)|null|
@@ -122,14 +122,14 @@ layout: default
 |**2023-06-21**|**DiffuseIR:Diffusion Models For Isotropic Reconstruction of 3D Microscopic Images**|Mingjie Pan et.al.|[2306.12109v1](http://arxiv.org/abs/2306.12109v1)|null|
 |**2023-06-21**|**HSR-Diff:Hyperspectral Image Super-Resolution via Conditional Diffusion Models**|Chanyue Wu et.al.|[2306.12085v1](http://arxiv.org/abs/2306.12085v1)|null|
 |**2023-06-21**|**Ambigram Generation by A Diffusion Model**|Takahiro Shirakawa et.al.|[2306.12049v1](http://arxiv.org/abs/2306.12049v1)|**[link](https://github.com/univ-esuty/ambifusion)**|
-|**2023-06-21**|**Corrector Operator to Enhance Accuracy and Reliability of Neural Operator Surrogates of Nonlinear Variational Boundary-Value Problems**|Prashant K. Jha et.al.|[2306.12047v1](http://arxiv.org/abs/2306.12047v1)|null|
+|**2023-06-21**|**Corrector Operator to Enhance Accuracy and Reliability of Neural Operator Surrogates of Nonlinear Variational Boundary-Value Problems**|Prashant K. Jha et.al.|[2306.12047v2](http://arxiv.org/abs/2306.12047v2)|null|
 |**2023-06-21**|**Distributed Random Reshuffling Methods with Improved Convergence**|Kun Huang et.al.|[2306.12037v1](http://arxiv.org/abs/2306.12037v1)|null|
 |**2023-06-21**|**TauPETGen: Text-Conditional Tau PET Image Synthesis Based on Latent Diffusion Models**|Se-In Jang et.al.|[2306.11984v1](http://arxiv.org/abs/2306.11984v1)|null|
 |**2023-06-21**|**The $τ_N$-configurations and polyconvex gradient flows**|Baisheng Yan et.al.|[2306.11954v1](http://arxiv.org/abs/2306.11954v1)|null|
 |**2023-06-20**|**Deep perceptual hashing algorithms with hidden dual purpose: when client-side scanning does facial recognition**|Shubham Jain et.al.|[2306.11924v1](http://arxiv.org/abs/2306.11924v1)|null|
 |**2023-06-20**|**Reward Shaping via Diffusion Process in Reinforcement Learning**|Peeyush Kumar et.al.|[2306.11885v1](http://arxiv.org/abs/2306.11885v1)|null|
 |**2023-06-20**|**Mercury's chaotic secular evolution as a subdiffusive process**|Dorian S. Abbot et.al.|[2306.11870v1](http://arxiv.org/abs/2306.11870v1)|null|
-|**2023-06-20**|**On the constructivity of the variational approach to Arnold's Diffusion**|Alessandro Fortunati et.al.|[2306.11834v1](http://arxiv.org/abs/2306.11834v1)|null|
+|**2023-06-20**|**On the constructivity of the variational approach to Arnold's Diffusion**|Alessandro Fortunati et.al.|[2306.11834v2](http://arxiv.org/abs/2306.11834v2)|null|
 |**2023-06-20**|**Pattern formation in a predator-prey model with Allee effect and hyperbolic mortality on networked and non-networked environments**|Yong Ye et.al.|[2306.11818v1](http://arxiv.org/abs/2306.11818v1)|null|
 |**2023-06-20**|**Calibrating mid-infrared emission as a tracer of obscured star formation on HII-region scales in the era of JWST**|Francesco Belfiore et.al.|[2306.11811v1](http://arxiv.org/abs/2306.11811v1)|null|
 |**2023-06-20**|**Velocity dispersion of dark matter deficit ultra-diffuse galaxies: A case for modified gravity**|Esha Bhatia et.al.|[2306.11790v1](http://arxiv.org/abs/2306.11790v1)|null|
