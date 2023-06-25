@@ -37,7 +37,7 @@ layout: default
 |**2023-06-15**|**1st Solution Places for CVPR 2023 UG$^{\textbf{2}}$+ Challenge Track 2.1-Text Recognition through Atmospheric Turbulence**|Shengqi Xu et.al.|[2306.08963v1](http://arxiv.org/abs/2306.08963v1)|null|
 |**2023-06-15**|**Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment**|Royi Rassin et.al.|[2306.08877v1](http://arxiv.org/abs/2306.08877v1)|**[link](https://github.com/royira/syntax-guided-generation)**|
 |**2023-06-14**|**VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing**|Paul Couairon et.al.|[2306.08707v1](http://arxiv.org/abs/2306.08707v1)|null|
-|**2023-06-14**|**Norm-guided latent space exploration for text-to-image generation**|Dvir Samuel et.al.|[2306.08687v1](http://arxiv.org/abs/2306.08687v1)|null|
+|**2023-06-14**|**Norm-guided latent space exploration for text-to-image generation**|Dvir Samuel et.al.|[2306.08687v1](http://arxiv.org/abs/2306.08687v1)|**[link](https://github.com/dvirsamuel/SeedSelect)**|
 
 ## Light Field Super Resolution
 
@@ -112,7 +112,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078v1](http://arxiv.org/abs/2306.13078v1)|null|
 |**2023-06-22**|**Lifted TASEP: a Bethe ansatz integrable paradigm for non-reversible Markov chains**|Fabian H. L. Essler et.al.|[2306.13059v1](http://arxiv.org/abs/2306.13059v1)|null|
-|**2023-06-22**|**Enhancing ReaxFF for Molecular Dynamics Simulations of Lithium-Ion Batteries: An interactive reparameterization protocol**|Paolo De Angelis et.al.|[2306.13027v1](http://arxiv.org/abs/2306.13027v1)|null|
+|**2023-06-22**|**Enhancing ReaxFF for Molecular Dynamics Simulations of Lithium-Ion Batteries: An interactive reparameterization protocol**|Paolo De Angelis et.al.|[2306.13027v1](http://arxiv.org/abs/2306.13027v1)|**[link](https://github.com/paolodeangelis/enhancing_reaxff)**|
 |**2023-06-22**|**Revisiting Maxwell-Smoluchowski theory: low surface roughness in straight channels**|Timothy Chumley et.al.|[2306.13018v1](http://arxiv.org/abs/2306.13018v1)|null|
 |**2023-06-22**|**Spatially Resolved Kinematics of Extraplanar Diffuse Ionized Gas in NGC$\,$3511 and NGC$\,$3513**|Hanjue Zhu et.al.|[2306.13012v1](http://arxiv.org/abs/2306.13012v1)|null|
 |**2023-06-22**|**Towards More Realistic Membership Inference Attacks on Large Diffusion Models**|Jan Dubiński et.al.|[2306.12983v1](http://arxiv.org/abs/2306.12983v1)|null|
@@ -146,8 +146,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-22**|**Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing**|Yelysei Bondarenko et.al.|[2306.12929v1](http://arxiv.org/abs/2306.12929v1)|null|
-|**2023-06-21**|**Inter-Instance Similarity Modeling for Contrastive Learning**|Chengchao Shen et.al.|[2306.12243v1](http://arxiv.org/abs/2306.12243v1)|null|
-|**2023-06-21**|**ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal with SegMIM Pretraining**|Dezhi Peng et.al.|[2306.12106v1](http://arxiv.org/abs/2306.12106v1)|null|
+|**2023-06-21**|**Inter-Instance Similarity Modeling for Contrastive Learning**|Chengchao Shen et.al.|[2306.12243v1](http://arxiv.org/abs/2306.12243v1)|**[link](https://github.com/visresearch/patchmix)**|
+|**2023-06-21**|**ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal with SegMIM Pretraining**|Dezhi Peng et.al.|[2306.12106v1](http://arxiv.org/abs/2306.12106v1)|**[link](https://github.com/shannanyinxiang/viteraser)**|
 |**2023-06-19**|**RaViTT: Random Vision Transformer Tokens**|Felipe A. Quezada et.al.|[2306.10959v1](http://arxiv.org/abs/2306.10959v1)|null|
 |**2023-06-19**|**TeleViT: Teleconnection-driven Transformers Improve Subseasonal to Seasonal Wildfire Forecasting**|Ioannis Prapas et.al.|[2306.10940v1](http://arxiv.org/abs/2306.10940v1)|**[link](https://github.com/orion-ai-lab/televit)**|
 |**2023-06-19**|**B-cos Alignment for Inherently Interpretable CNNs and Vision Transformers**|Moritz Böhle et.al.|[2306.10898v1](http://arxiv.org/abs/2306.10898v1)|null|
