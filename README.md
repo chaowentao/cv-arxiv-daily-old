@@ -1,4 +1,4 @@
-## Updated on 2023.06.25
+## Updated on 2023.06.26
 
 ## Image Generation
 
@@ -108,7 +108,7 @@
 |---|---|---|---|---|
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078v1](http://arxiv.org/abs/2306.13078v1)|null|
 |**2023-06-22**|**Lifted TASEP: a Bethe ansatz integrable paradigm for non-reversible Markov chains**|Fabian H. L. Essler et.al.|[2306.13059v1](http://arxiv.org/abs/2306.13059v1)|null|
-|**2023-06-22**|**Enhancing ReaxFF for Molecular Dynamics Simulations of Lithium-Ion Batteries: An interactive reparameterization protocol**|Paolo De Angelis et.al.|[2306.13027v1](http://arxiv.org/abs/2306.13027v1)|**[link](https://github.com/paolodeangelis/enhancing_reaxff)**|
+|**2023-06-22**|**Enhancing ReaxFF for Molecular Dynamics Simulations of Lithium-Ion Batteries: An interactive reparameterization protocol**|Paolo De Angelis et.al.|[2306.13027v1](http://arxiv.org/abs/2306.13027v1)|**[link](https://github.com/paolodeangelis/enhancing_reaxff_dft_database)**|
 |**2023-06-22**|**Revisiting Maxwell-Smoluchowski theory: low surface roughness in straight channels**|Timothy Chumley et.al.|[2306.13018v1](http://arxiv.org/abs/2306.13018v1)|null|
 |**2023-06-22**|**Spatially Resolved Kinematics of Extraplanar Diffuse Ionized Gas in NGC$\,$3511 and NGC$\,$3513**|Hanjue Zhu et.al.|[2306.13012v1](http://arxiv.org/abs/2306.13012v1)|null|
 |**2023-06-22**|**Towards More Realistic Membership Inference Attacks on Large Diffusion Models**|Jan Dubiński et.al.|[2306.12983v1](http://arxiv.org/abs/2306.12983v1)|null|
@@ -130,7 +130,7 @@
 |**2023-06-22**|**One at A Time: Multi-step Volumetric Probability Distribution Diffusion for Depth Estimation**|Bohan Li et.al.|[2306.12681v1](http://arxiv.org/abs/2306.12681v1)|null|
 |**2023-06-22**|**Quantum walks with spatiotemporal fractal disorder**|Marcelo A. Pires et.al.|[2306.12628v1](http://arxiv.org/abs/2306.12628v1)|null|
 |**2023-06-21**|**Negative APE dissipation as the fundamental criterion for double diffusive instabilities**|Remi Tailleux et.al.|[2306.12536v1](http://arxiv.org/abs/2306.12536v1)|null|
-|**2023-06-21**|**Semi-Implicit Denoising Diffusion Models (SIDDMs)**|Yanwu Xu et.al.|[2306.12511v1](http://arxiv.org/abs/2306.12511v1)|null|
+|**2023-06-21**|**Semi-Implicit Denoising Diffusion Models (SIDDMs)**|Yanwu Xu et.al.|[2306.12511v2](http://arxiv.org/abs/2306.12511v2)|null|
 |**2023-06-21**|**Quasiperiodicity hinders ergodic Floquet eigenstates**|Miguel Gonçalves et.al.|[2306.12479v1](http://arxiv.org/abs/2306.12479v1)|null|
 |**2023-06-21**|**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**|Yukun Huang et.al.|[2306.12422v1](http://arxiv.org/abs/2306.12422v1)|null|
 |**2023-06-21**|**Gradient Flow of the Sinai-Ruelle-Bowen Entropy**|Miaohua Jiang et.al.|[2306.12401v1](http://arxiv.org/abs/2306.12401v1)|null|
