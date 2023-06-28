@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.27
+## Updated on 2023.06.28
 
 ## Image Generation
 
@@ -12,7 +12,7 @@ layout: default
 |**2023-06-26**|**Localized Text-to-Image Generation for Free via Cross Attention Control**|Yutong He et.al.|[2306.14636v1](http://arxiv.org/abs/2306.14636v1)|null|
 |**2023-06-26**|**A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis**|Aishwarya Agarwal et.al.|[2306.14544v1](http://arxiv.org/abs/2306.14544v1)|null|
 |**2023-06-26**|**Progressive Energy-Based Cooperative Learning for Multi-Domain Image-to-Image Translation**|Weinan Song et.al.|[2306.14448v1](http://arxiv.org/abs/2306.14448v1)|null|
-|**2023-06-26**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435v1](http://arxiv.org/abs/2306.14435v1)|null|
+|**2023-06-26**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435v2](http://arxiv.org/abs/2306.14435v2)|null|
 |**2023-06-26**|**Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models**|Luozhou Wang et.al.|[2306.14408v1](http://arxiv.org/abs/2306.14408v1)|null|
 |**2023-06-25**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289v1](http://arxiv.org/abs/2306.14289v1)|**[link](https://github.com/chaoningzhang/mobilesam)**|
 |**2023-06-25**|**DomainStudio: Fine-Tuning Diffusion Models for Domain-Driven Image Generation using Limited Data**|Jingyuan Zhu et.al.|[2306.14153v1](http://arxiv.org/abs/2306.14153v1)|null|
@@ -131,7 +131,7 @@ layout: default
 |**2023-06-26**|**Splitting Approach for Solving Multi-Component Transport Models with Maxwell-Stefan-Diffusion**|Juergen Geiser et.al.|[2306.14488v1](http://arxiv.org/abs/2306.14488v1)|null|
 |**2023-06-26**|**Heat kernel estimates on local and non-local Dirichlet spaces satisfying a weak chain condition**|Guanhua Liu et.al.|[2306.14449v1](http://arxiv.org/abs/2306.14449v1)|null|
 |**2023-06-26**|**Hybrid unadjusted Langevin methods for high-dimensional latent variable models**|Ruben Loaiza-Maya et.al.|[2306.14445v1](http://arxiv.org/abs/2306.14445v1)|null|
-|**2023-06-26**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435v1](http://arxiv.org/abs/2306.14435v1)|null|
+|**2023-06-26**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435v2](http://arxiv.org/abs/2306.14435v2)|null|
 |**2023-06-26**|**Score-based Source Separation with Applications to Digital Communication Signals**|Tejas Jayashankar et.al.|[2306.14411v1](http://arxiv.org/abs/2306.14411v1)|null|
 |**2023-06-26**|**Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models**|Luozhou Wang et.al.|[2306.14408v1](http://arxiv.org/abs/2306.14408v1)|null|
 |**2023-06-26**|**A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic**|Marcelo Mendoza et.al.|[2306.14378v1](http://arxiv.org/abs/2306.14378v1)|null|
@@ -217,7 +217,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-26**|**Iterative-in-Iterative Super-Resolution Biomedical Imaging Using One Real Image**|Yuanzheng Ma et.al.|[2306.14487v1](http://arxiv.org/abs/2306.14487v1)|null|
 |**2023-06-25**|**SHISRCNet: Super-resolution And Classification Network For Low-resolution Breast Cancer Histopathology Image**|Luyuan Xie et.al.|[2306.14119v1](http://arxiv.org/abs/2306.14119v1)|**[link](https://github.com/xiely-123/shisrcnet)**|
-|**2023-06-24**|**SuperBench: A Super-Resolution Benchmark Dataset for Scientific Machine Learning**|Pu Ren et.al.|[2306.14070v1](http://arxiv.org/abs/2306.14070v1)|null|
+|**2023-06-24**|**SuperBench: A Super-Resolution Benchmark Dataset for Scientific Machine Learning**|Pu Ren et.al.|[2306.14070v1](http://arxiv.org/abs/2306.14070v1)|**[link](https://github.com/erichson/superbench)**|
 |**2023-06-24**|**Creating Realistic Anterior Segment Optical Coherence Tomography Images using Generative Adversarial Networks**|Jad F. Assaf et.al.|[2306.14058v1](http://arxiv.org/abs/2306.14058v1)|null|
 |**2023-06-24**|**Real-World Video for Zoom Enhancement based on Spatio-Temporal Coupling**|Zhiling Guo et.al.|[2306.13875v1](http://arxiv.org/abs/2306.13875v1)|null|
 |**2023-06-22**|**Directional diffusion models for graph representation learning**|Run Yang et.al.|[2306.13210v1](http://arxiv.org/abs/2306.13210v1)|null|
@@ -250,8 +250,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-26**|**Learnable Differencing Center for Nighttime Depth Perception**|Zhiqiang Yan et.al.|[2306.14538v1](http://arxiv.org/abs/2306.14538v1)|null|
-|**2023-06-23**|**Neural 360$^\circ$ Structured Light with Learned Metasurfaces**|Eunsue Choi et.al.|[2306.13361v1](http://arxiv.org/abs/2306.13361v1)|null|
+|**2023-06-26**|**Learnable Differencing Center for Nighttime Depth Perception**|Zhiqiang Yan et.al.|[2306.14538v2](http://arxiv.org/abs/2306.14538v2)|null|
+|**2023-06-23**|**Neural 360$^\circ$ Structured Light with Learned Metasurfaces**|Eunsue Choi et.al.|[2306.13361v2](http://arxiv.org/abs/2306.13361v2)|null|
 |**2023-06-22**|**Continuous Online Extrinsic Calibration of Fisheye Camera and LiDAR**|Jack Borer et.al.|[2306.13240v1](http://arxiv.org/abs/2306.13240v1)|null|
 |**2023-06-22**|**One at A Time: Multi-step Volumetric Probability Distribution Diffusion for Depth Estimation**|Bohan Li et.al.|[2306.12681v1](http://arxiv.org/abs/2306.12681v1)|null|
 |**2023-06-20**|**Self-supervised Multi-task Learning Framework for Safety and Health-Oriented Connected Driving Environment Perception using Onboard Camera**|Shaocheng Jia et.al.|[2306.11822v1](http://arxiv.org/abs/2306.11822v1)|null|
