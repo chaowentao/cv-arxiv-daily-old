@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.03
+## Updated on 2023.07.04
 
 ## Image Generation
 
@@ -23,7 +23,7 @@ layout: default
 |**2023-06-26**|**Progressive Energy-Based Cooperative Learning for Multi-Domain Image-to-Image Translation**|Weinan Song et.al.|[2306.14448v1](http://arxiv.org/abs/2306.14448v1)|null|
 |**2023-06-26**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435v2](http://arxiv.org/abs/2306.14435v2)|null|
 |**2023-06-26**|**Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models**|Luozhou Wang et.al.|[2306.14408v1](http://arxiv.org/abs/2306.14408v1)|null|
-|**2023-06-25**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289v1](http://arxiv.org/abs/2306.14289v1)|**[link](https://github.com/chaoningzhang/mobilesam)**|
+|**2023-06-25**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289v2](http://arxiv.org/abs/2306.14289v2)|**[link](https://github.com/chaoningzhang/mobilesam)**|
 |**2023-06-25**|**DomainStudio: Fine-Tuning Diffusion Models for Domain-Driven Image Generation using Limited Data**|Jingyuan Zhu et.al.|[2306.14153v1](http://arxiv.org/abs/2306.14153v1)|null|
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067v1](http://arxiv.org/abs/2306.14067v1)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754v1](http://arxiv.org/abs/2306.13754v1)|null|
@@ -181,7 +181,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v1](http://arxiv.org/abs/2306.17723v1)|null|
-|**2023-06-30**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624v1](http://arxiv.org/abs/2306.17624v1)|null|
+|**2023-06-30**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624v2](http://arxiv.org/abs/2306.17624v2)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541v1](http://arxiv.org/abs/2306.16541v1)|null|
 |**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203v1](http://arxiv.org/abs/2306.15203v1)|null|
 |**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760v1](http://arxiv.org/abs/2306.12760v1)|null|
