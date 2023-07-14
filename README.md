@@ -1,4 +1,4 @@
-## Updated on 2023.07.13
+## Updated on 2023.07.14
 
 ## Image Generation
 
@@ -143,7 +143,7 @@
 |---|---|---|---|---|
 |**2023-07-12**|**Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution**|Mostafa Dehghani et.al.|[2307.06304v1](http://arxiv.org/abs/2307.06304v1)|null|
 |**2023-07-12**|**What Happens During Finetuning of Vision Transformers: An Invariance Based Investigation**|Gabriele Merlin et.al.|[2307.06006v1](http://arxiv.org/abs/2307.06006v1)|null|
-|**2023-07-11**|**PIGEON: Predicting Image Geolocations**|Lukas Haas et.al.|[2307.05845v1](http://arxiv.org/abs/2307.05845v1)|null|
+|**2023-07-11**|**PIGEON: Predicting Image Geolocations**|Lukas Haas et.al.|[2307.05845v2](http://arxiv.org/abs/2307.05845v2)|null|
 |**2023-07-11**|**Image Reconstruction using Enhanced Vision Transformer**|Nikhil Verma et.al.|[2307.05616v1](http://arxiv.org/abs/2307.05616v1)|null|
 |**2023-07-10**|**MiVOLO: Multi-input Transformer for Age and Gender Estimation**|Maksim Kuprashevich et.al.|[2307.04616v1](http://arxiv.org/abs/2307.04616v1)|**[link](https://github.com/wildchlamydia/mivolo)**|
 |**2023-07-10**|**Source-Free Open-Set Domain Adaptation for Histopathological Images via Distilling Self-Supervised Vision Transformer**|Guillaume Vray et.al.|[2307.04596v1](http://arxiv.org/abs/2307.04596v1)|null|
