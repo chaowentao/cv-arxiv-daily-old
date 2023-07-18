@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.17
+## Updated on 2023.07.18
 
 ## Image Generation
 
@@ -183,7 +183,7 @@ layout: default
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087v1](http://arxiv.org/abs/2307.05087v1)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441v1](http://arxiv.org/abs/2307.03441v1)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
-|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v1](http://arxiv.org/abs/2306.17723v1)|null|
+|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v2](http://arxiv.org/abs/2306.17723v2)|null|
 |**2023-06-30**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624v2](http://arxiv.org/abs/2306.17624v2)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541v1](http://arxiv.org/abs/2306.16541v1)|null|
 |**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203v1](http://arxiv.org/abs/2306.15203v1)|null|
@@ -233,7 +233,7 @@ layout: default
 |**2023-07-04**|**Spatio-Temporal Perception-Distortion Trade-off in Learned Video SR**|Nasrin Rahimi et.al.|[2307.01556v1](http://arxiv.org/abs/2307.01556v1)|**[link](https://github.com/kuis-ai-tekalp-research-group/perceptual-vsr)**|
 |**2023-07-04**|**Bistable scattering of nano-silicon for super-linear super-resolution imaging**|Po-Hsueh Tseng et.al.|[2307.01490v1](http://arxiv.org/abs/2307.01490v1)|null|
 |**2023-07-03**|**Ultrafast electro-optic Time-Frequency Fractional Fourier Imaging at the Single-Photon Level**|Michał Lipka et.al.|[2307.01141v1](http://arxiv.org/abs/2307.01141v1)|null|
-|**2023-07-03**|**MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion**|Shitao Tang et.al.|[2307.01097v1](http://arxiv.org/abs/2307.01097v1)|null|
+|**2023-07-03**|**MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion**|Shitao Tang et.al.|[2307.01097v2](http://arxiv.org/abs/2307.01097v2)|null|
 |**2023-07-03**|**ACDMSR: Accelerated Conditional Diffusion Models for Single Image Super-Resolution**|Axi Niu et.al.|[2307.00781v1](http://arxiv.org/abs/2307.00781v1)|null|
 |**2023-07-02**|**Solving Linear Inverse Problems Provably via Posterior Sampling with Latent Diffusion Models**|Litu Rout et.al.|[2307.00619v1](http://arxiv.org/abs/2307.00619v1)|**[link](https://github.com/liturout/psld)**|
 |**2023-07-01**|**WaveMixSR: A Resource-efficient Neural Network for Image Super-resolution**|Pranav Jeevan et.al.|[2307.00430v1](http://arxiv.org/abs/2307.00430v1)|**[link](https://github.com/pranavphoenix/WaveMixSR)**|
@@ -255,7 +255,7 @@ layout: default
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602v1](http://arxiv.org/abs/2307.03602v1)|null|
 |**2023-07-05**|**SVDM: Single-View Diffusion Model for Pseudo-Stereo 3D Object Detection**|Yuguang Shi et.al.|[2307.02270v1](http://arxiv.org/abs/2307.02270v1)|null|
 |**2023-07-04**|**Consistent Multimodal Generation via A Unified GAN Framework**|Zhen Zhu et.al.|[2307.01425v1](http://arxiv.org/abs/2307.01425v1)|null|
-|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v1](http://arxiv.org/abs/2306.17723v1)|null|
+|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v2](http://arxiv.org/abs/2306.17723v2)|null|
 |**2023-06-29**|**Towards Zero-Shot Scale-Aware Monocular Depth Estimation**|Vitor Guizilini et.al.|[2306.17253v1](http://arxiv.org/abs/2306.17253v1)|null|
 |**2023-06-29**|**Introspective Perception for Mobile Robots**|Sadegh Rabiee et.al.|[2306.16698v1](http://arxiv.org/abs/2306.16698v1)|null|
 |**2023-06-27**|**Rethinking Cross-Entropy Loss for Stereo Matching Networks**|Peng Xu et.al.|[2306.15612v1](http://arxiv.org/abs/2306.15612v1)|null|
@@ -285,12 +285,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-14**|**CeRF: Convolutional Neural Radiance Fields for New View Synthesis with Derivatives of Ray Modeling**|Xiaoyan Yang et.al.|[2307.07125v1](http://arxiv.org/abs/2307.07125v1)|null|
+|**2023-07-14**|**CeRF: Convolutional Neural Radiance Fields for New View Synthesis with Derivatives of Ray Modeling**|Xiaoyan Yang et.al.|[2307.07125v2](http://arxiv.org/abs/2307.07125v2)|null|
 |**2023-07-12**|**Learning Kernel-Modulated Neural Representation for Efficient Light Field Compression**|Jinglei Shi et.al.|[2307.06143v1](http://arxiv.org/abs/2307.06143v1)|null|
 |**2023-07-12**|**Close-up View synthesis by Interpolating Optical Flow**|Xinyi Bai et.al.|[2307.05913v1](http://arxiv.org/abs/2307.05913v1)|null|
 |**2023-07-11**|**Objaverse-XL: A Universe of 10M+ 3D Objects**|Matt Deitke et.al.|[2307.05663v1](http://arxiv.org/abs/2307.05663v1)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
-|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v1](http://arxiv.org/abs/2306.17723v1)|null|
+|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v2](http://arxiv.org/abs/2306.17723v2)|null|
 |**2023-06-26**|**Self-supervised novel 2D view synthesis of large-scale scenes with efficient multi-scale voxel carving**|Alexandra Budisteanu et.al.|[2306.14709v1](http://arxiv.org/abs/2306.14709v1)|null|
 |**2023-06-23**|**DreamEditor: Text-Driven 3D Scene Editing with Neural Fields**|Jingyu Zhuang et.al.|[2306.13455v2](http://arxiv.org/abs/2306.13455v2)|null|
 |**2023-06-21**|**Neural Spectro-polarimetric Fields**|Youngchan Kim et.al.|[2306.12562v1](http://arxiv.org/abs/2306.12562v1)|null|
