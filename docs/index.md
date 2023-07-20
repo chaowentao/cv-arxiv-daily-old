@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.07.19
+## Updated on 2023.07.20
 
 ## Image Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|null|
-|**2023-07-18**|**Let's ViCE! Mimicking Human Cognitive Behavior in Image Generation Evaluation**|Federico Betti et.al.|[2307.09416v1](http://arxiv.org/abs/2307.09416v1)|null|
+|**2023-07-18**|**Let's ViCE! Mimicking Human Cognitive Behavior in Image Generation Evaluation**|Federico Betti et.al.|[2307.09416v2](http://arxiv.org/abs/2307.09416v2)|null|
 |**2023-07-18**|**Plug the Leaks: Advancing Audio-driven Talking Face Generation by Preventing Unintended Information Flow**|Dogucan Yaman et.al.|[2307.09368v1](http://arxiv.org/abs/2307.09368v1)|null|
 |**2023-07-18**|**Augmenting CLIP with Improved Visio-Linguistic Reasoning**|Samyadeep Basu et.al.|[2307.09233v1](http://arxiv.org/abs/2307.09233v1)|null|
 |**2023-07-18**|**Jean-Luc Picard at Touché 2023: Comparing Image Generation, Stance Detection and Feature Matching for Image Retrieval for Arguments**|Max Moebius et.al.|[2307.09172v1](http://arxiv.org/abs/2307.09172v1)|null|
@@ -136,7 +136,7 @@ layout: default
 |**2023-07-17**|**SEMI-DiffusionInst: A Diffusion Model Based Approach for Semiconductor Defect Classification and Segmentation**|Vic De Ridder et.al.|[2307.08693v1](http://arxiv.org/abs/2307.08693v1)|null|
 |**2023-07-17**|**Multimodal Diffusion Segmentation Model for Object Segmentation from Manipulation Instructions**|Yui Iioka et.al.|[2307.08597v1](http://arxiv.org/abs/2307.08597v1)|null|
 |**2023-07-17**|**Identity-Preserving Aging of Face Images via Latent Diffusion Models**|Sudipta Banerjee et.al.|[2307.08585v1](http://arxiv.org/abs/2307.08585v1)|null|
-|**2023-07-17**|**Synthetic Lagrangian Turbulence by Generative Diffusion Models**|Tianyi Li et.al.|[2307.08529v1](http://arxiv.org/abs/2307.08529v1)|null|
+|**2023-07-17**|**Synthetic Lagrangian Turbulence by Generative Diffusion Models**|Tianyi Li et.al.|[2307.08529v1](http://arxiv.org/abs/2307.08529v1)|**[link](https://github.com/smartturb/diffusion-lagr)**|
 |**2023-07-17**|**How far does turbulence spread?**|Alexandros Alexakis et.al.|[2307.08469v1](http://arxiv.org/abs/2307.08469v1)|null|
 |**2023-07-17**|**Atomic Hydrogen in the Milky Way: A Stepping Stone in the Evolution of Galaxies**|Naomi M. McClure-Griffiths et.al.|[2307.08464v1](http://arxiv.org/abs/2307.08464v1)|null|
 |**2023-07-17**|**Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation**|Luozhou Wang et.al.|[2307.08448v1](http://arxiv.org/abs/2307.08448v1)|**[link](https://github.com/andysonys/selective-diffusion-distillation)**|
@@ -160,7 +160,7 @@ layout: default
 |**2023-07-16**|**Domain Generalisation with Bidirectional Encoder Representations from Vision Transformers**|Hamza Riaz et.al.|[2307.08117v1](http://arxiv.org/abs/2307.08117v1)|null|
 |**2023-07-16**|**Dense Multitask Learning to Reconfigure Comics**|Deblina Bhattacharjee et.al.|[2307.08071v1](http://arxiv.org/abs/2307.08071v1)|null|
 |**2023-07-16**|**A Survey of Techniques for Optimizing Transformer Inference**|Krishna Teja Chitty-Venkata et.al.|[2307.07982v1](http://arxiv.org/abs/2307.07982v1)|null|
-|**2023-07-16**|**S2R-ViT for Multi-Agent Cooperative Perception: Bridging the Gap from Simulation to Reality**|Jinlong Li et.al.|[2307.07935v1](http://arxiv.org/abs/2307.07935v1)|null|
+|**2023-07-16**|**S2R-ViT for Multi-Agent Cooperative Perception: Bridging the Gap from Simulation to Reality**|Jinlong Li et.al.|[2307.07935v2](http://arxiv.org/abs/2307.07935v2)|null|
 |**2023-07-14**|**TALL: Thumbnail Layout for Deepfake Video Detection**|Yuting Xu et.al.|[2307.07494v1](http://arxiv.org/abs/2307.07494v1)|null|
 |**2023-07-14**|**Multimodal Distillation for Egocentric Action Recognition**|Gorjan Radevski et.al.|[2307.07483v2](http://arxiv.org/abs/2307.07483v2)|null|
 |**2023-07-14**|**BiGSeT: Binary Mask-Guided Separation Training for DNN-based Hyperspectral Anomaly Detection**|Haijun Liu et.al.|[2307.07428v1](http://arxiv.org/abs/2307.07428v1)|null|
@@ -215,13 +215,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-18**|**A comparative analysis of SR-GAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456v1](http://arxiv.org/abs/2307.09456v1)|null|
+|**2023-07-18**|**A comparative analysis of SRGAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456v2](http://arxiv.org/abs/2307.09456v2)|null|
 |**2023-07-18**|**DiTTO: Diffusion-inspired Temporal Transformer Operator**|Oded Ovadia et.al.|[2307.09072v1](http://arxiv.org/abs/2307.09072v1)|null|
 |**2023-07-18**|**Soft-IntroVAE for Continuous Latent space Image Super-Resolution**|Zhi-Song Liu et.al.|[2307.09008v1](http://arxiv.org/abs/2307.09008v1)|null|
 |**2023-07-17**|**DARTS: Double Attention Reference-based Transformer for Super-resolution**|Masoomeh Aslahishahri et.al.|[2307.08837v1](http://arxiv.org/abs/2307.08837v1)|null|
 |**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702v1](http://arxiv.org/abs/2307.08702v1)|null|
 |**2023-07-17**|**Reconstructed Convolution Module Based Look-Up Tables for Efficient Image Super-Resolution**|Guandu Liu et.al.|[2307.08544v1](http://arxiv.org/abs/2307.08544v1)|**[link](https://github.com/liuguandu/rc-lut)**|
-|**2023-07-16**|**MoTIF: Learning Motion Trajectories with Local Implicit Neural Functions for Continuous Space-Time Video Super-Resolution**|Yi-Hsin Chen et.al.|[2307.07988v1](http://arxiv.org/abs/2307.07988v1)|null|
+|**2023-07-16**|**MoTIF: Learning Motion Trajectories with Local Implicit Neural Functions for Continuous Space-Time Video Super-Resolution**|Yi-Hsin Chen et.al.|[2307.07988v1](http://arxiv.org/abs/2307.07988v1)|**[link](https://github.com/sichun233746/motif)**|
 |**2023-07-16**|**Surface Geometry Processing: An Efficient Normal-based Detail Representation**|Wuyuan Xie et.al.|[2307.07945v1](http://arxiv.org/abs/2307.07945v1)|null|
 |**2023-07-14**|**Reconstructing Three-decade Global Fine-Grained Nighttime Light Observations by a New Super-Resolution Framework**|Jinyu Guo et.al.|[2307.07366v1](http://arxiv.org/abs/2307.07366v1)|null|
 |**2023-07-14**|**High-density single-molecule maps reveal transient membrane receptor interactions within a dynamically varying environment**|Nicolas Mateos et.al.|[2307.07334v1](http://arxiv.org/abs/2307.07334v1)|null|
