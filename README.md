@@ -1,4 +1,4 @@
-## Updated on 2023.07.22
+## Updated on 2023.07.23
 
 ## Image Generation
 
@@ -162,7 +162,7 @@
 |**2023-07-16**|**A Survey of Techniques for Optimizing Transformer Inference**|Krishna Teja Chitty-Venkata et.al.|[2307.07982v1](http://arxiv.org/abs/2307.07982v1)|null|
 |**2023-07-16**|**S2R-ViT for Multi-Agent Cooperative Perception: Bridging the Gap from Simulation to Reality**|Jinlong Li et.al.|[2307.07935v2](http://arxiv.org/abs/2307.07935v2)|null|
 |**2023-07-14**|**TALL: Thumbnail Layout for Deepfake Video Detection**|Yuting Xu et.al.|[2307.07494v1](http://arxiv.org/abs/2307.07494v1)|null|
-|**2023-07-14**|**Multimodal Distillation for Egocentric Action Recognition**|Gorjan Radevski et.al.|[2307.07483v2](http://arxiv.org/abs/2307.07483v2)|null|
+|**2023-07-14**|**Multimodal Distillation for Egocentric Action Recognition**|Gorjan Radevski et.al.|[2307.07483v2](http://arxiv.org/abs/2307.07483v2)|**[link](https://github.com/gorjanradevski/multimodal-distillation)**|
 |**2023-07-14**|**BiGSeT: Binary Mask-Guided Separation Training for DNN-based Hyperspectral Anomaly Detection**|Haijun Liu et.al.|[2307.07428v1](http://arxiv.org/abs/2307.07428v1)|null|
 |**2023-07-14**|**HEAL-SWIN: A Vision Transformer On The Sphere**|Oscar Carlsson et.al.|[2307.07313v1](http://arxiv.org/abs/2307.07313v1)|**[link](https://github.com/janegerken/heal-swin)**|
 |**2023-07-14**|**MaxSR: Image Super-Resolution Using Improved MaxViT**|Bincheng Yang et.al.|[2307.07240v1](http://arxiv.org/abs/2307.07240v1)|null|
