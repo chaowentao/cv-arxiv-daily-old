@@ -109,7 +109,7 @@
 |**2023-07-21**|**Exact hydrodynamics and onset of phase separation for an active exclusion process**|James Mason et.al.|[2307.11673v1](http://arxiv.org/abs/2307.11673v1)|null|
 |**2023-07-21**|**FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification**|Héctor Carrión et.al.|[2307.11654v1](http://arxiv.org/abs/2307.11654v1)|null|
 |**2023-07-21**|**Stability of multi-component Israel-Stewart-Maxwell theory for charge diffusion**|Lorenzo Gavassino et.al.|[2307.11615v1](http://arxiv.org/abs/2307.11615v1)|null|
-|**2023-07-21**|**Learning minimal representations of stochastic processes with variational autoencoders**|Gabriel Fernández-Fernández et.al.|[2307.11608v1](http://arxiv.org/abs/2307.11608v1)|null|
+|**2023-07-21**|**Learning minimal representations of stochastic processes with variational autoencoders**|Gabriel Fernández-Fernández et.al.|[2307.11608v1](http://arxiv.org/abs/2307.11608v1)|**[link](https://github.com/gabrielfernandezfernandez/spivae)**|
 |**2023-07-21**|**Mixbiotic society measures: Assessment of community well-going as living system**|Takeshi Kato et.al.|[2307.11594v1](http://arxiv.org/abs/2307.11594v1)|null|
 |**2023-07-21**|**Wilson-Itô diffusions**|Ismael Bailleul et.al.|[2307.11580v1](http://arxiv.org/abs/2307.11580v1)|null|
 |**2023-07-21**|**Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting**|Marcel Kollovieh et.al.|[2307.11494v1](http://arxiv.org/abs/2307.11494v1)|null|
