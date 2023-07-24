@@ -1,4 +1,4 @@
-## Updated on 2023.07.23
+## Updated on 2023.07.24
 
 ## Image Generation
 
@@ -120,7 +120,7 @@
 |**2023-07-20**|**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**|Jinheng Xie et.al.|[2307.10816v1](http://arxiv.org/abs/2307.10816v1)|**[link](https://github.com/sierkinhane/boxdiff)**|
 |**2023-07-20**|**Contagious McKean--Vlasov problems with common noise: from smooth to singular feedback through hitting times**|Ben Hambly et.al.|[2307.10800v1](http://arxiv.org/abs/2307.10800v1)|null|
 |**2023-07-20**|**Dissipative systems fractionally coupled to a bath**|Audrique Vertessen et.al.|[2307.10795v1](http://arxiv.org/abs/2307.10795v1)|null|
-|**2023-07-20**|**AdjointDPM: Adjoint Sensitivity Method for Gradient Backpropagation of Diffusion Probabilistic Models**|Jiachun Pan et.al.|[2307.10711v1](http://arxiv.org/abs/2307.10711v1)|null|
+|**2023-07-20**|**AdjointDPM: Adjoint Sensitivity Method for Gradient Backpropagation of Diffusion Probabilistic Models**|Jiachun Pan et.al.|[2307.10711v2](http://arxiv.org/abs/2307.10711v2)|null|
 |**2023-07-20**|**A second order directional split exponential integrator for systems of advection--diffusion--reaction equations**|Marco Caliari et.al.|[2307.10684v1](http://arxiv.org/abs/2307.10684v1)|**[link](https://github.com/cassinif/expadrds)**|
 |**2023-07-20**|**Fisher-Rao distance and pullback SPD cone distances between multivariate normal distributions**|Frank Nielsen et.al.|[2307.10644v1](http://arxiv.org/abs/2307.10644v1)|null|
 |**2023-07-20**|**A nonlocal Gray-Scott model: well-posedness and diffusive limit**|Philippe Laurençot et.al.|[2307.10627v1](http://arxiv.org/abs/2307.10627v1)|null|
@@ -143,7 +143,7 @@
 |---|---|---|---|---|
 |**2023-07-20**|**GLSFormer: Gated - Long, Short Sequence Transformer for Step Recognition in Surgical Videos**|Nisarg A. Shah et.al.|[2307.11081v1](http://arxiv.org/abs/2307.11081v1)|**[link](https://github.com/nisargshah1999/glsformer)**|
 |**2023-07-20**|**Learned Thresholds Token Merging and Pruning for Vision Transformers**|Maxim Bonnaerens et.al.|[2307.10780v1](http://arxiv.org/abs/2307.10780v1)|**[link](https://github.com/mxbonn/ltmp)**|
-|**2023-07-20**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698v1](http://arxiv.org/abs/2307.10698v1)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
+|**2023-07-20**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698v2](http://arxiv.org/abs/2307.10698v2)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
 |**2023-07-20**|**Quantized Feature Distillation for Network Quantization**|Ke Zhu et.al.|[2307.10638v1](http://arxiv.org/abs/2307.10638v1)|null|
 |**2023-07-17**|**Study of Vision Transformers for Covid-19 Detection from Chest X-rays**|Sandeep Angara et.al.|[2307.09402v1](http://arxiv.org/abs/2307.09402v1)|null|
 |**2023-07-18**|**MOCA: Self-supervised Representation Learning by Predicting Masked Online Codebook Assignments**|Spyros Gidaris et.al.|[2307.09361v1](http://arxiv.org/abs/2307.09361v1)|null|
