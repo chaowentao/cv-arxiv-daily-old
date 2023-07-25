@@ -1,4 +1,4 @@
-## Updated on 2023.07.24
+## Updated on 2023.07.25
 
 ## Image Generation
 
@@ -12,7 +12,7 @@
 |**2023-07-20**|**HRFNet: High-Resolution Forgery Network for Localizing Satellite Image Manipulation**|Fahim Faisal Niloy et.al.|[2307.11052v1](http://arxiv.org/abs/2307.11052v1)|null|
 |**2023-07-20**|**Progressive distillation diffusion for raw music generation**|Svetlana Pavlova et.al.|[2307.10994v1](http://arxiv.org/abs/2307.10994v1)|null|
 |**2023-07-20**|**Divide & Bind Your Attention for Improved Generative Semantic Nursing**|Yumeng Li et.al.|[2307.10864v1](http://arxiv.org/abs/2307.10864v1)|null|
-|**2023-07-19**|**TokenFlow: Consistent Diffusion Features for Consistent Video Editing**|Michal Geyer et.al.|[2307.10373v1](http://arxiv.org/abs/2307.10373v1)|null|
+|**2023-07-19**|**TokenFlow: Consistent Diffusion Features for Consistent Video Editing**|Michal Geyer et.al.|[2307.10373v2](http://arxiv.org/abs/2307.10373v2)|null|
 |**2023-07-19**|**Compressive Image Scanning Microscope**|Ajay Gunalan et.al.|[2307.09841v1](http://arxiv.org/abs/2307.09841v1)|null|
 |**2023-07-19**|**A Siamese-based Verification System for Open-set Architecture Attribution of Synthetic Images**|Lydia Abady et.al.|[2307.09822v1](http://arxiv.org/abs/2307.09822v1)|null|
 |**2023-07-19**|**Text2Layer: Layered Image Generation using Latent Diffusion Model**|Xinyang Zhang et.al.|[2307.09781v1](http://arxiv.org/abs/2307.09781v1)|null|
@@ -150,7 +150,7 @@
 |**2023-07-20**|**Quantized Feature Distillation for Network Quantization**|Ke Zhu et.al.|[2307.10638v1](http://arxiv.org/abs/2307.10638v1)|null|
 |**2023-07-17**|**Study of Vision Transformers for Covid-19 Detection from Chest X-rays**|Sandeep Angara et.al.|[2307.09402v1](http://arxiv.org/abs/2307.09402v1)|null|
 |**2023-07-18**|**MOCA: Self-supervised Representation Learning by Predicting Masked Online Codebook Assignments**|Spyros Gidaris et.al.|[2307.09361v1](http://arxiv.org/abs/2307.09361v1)|null|
-|**2023-07-18**|**RepViT: Revisiting Mobile CNN From ViT Perspective**|Ao Wang et.al.|[2307.09283v1](http://arxiv.org/abs/2307.09283v1)|**[link](https://github.com/jameslahm/RepViT)**|
+|**2023-07-18**|**RepViT: Revisiting Mobile CNN From ViT Perspective**|Ao Wang et.al.|[2307.09283v2](http://arxiv.org/abs/2307.09283v2)|**[link](https://github.com/jameslahm/RepViT)**|
 |**2023-07-18**|**Light-Weight Vision Transformer with Parallel Local and Global Self-Attention**|Nikolas Ebert et.al.|[2307.09120v1](http://arxiv.org/abs/2307.09120v1)|null|
 |**2023-07-18**|**NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and Repulsive UDF**|Stefan Lionar et.al.|[2307.09112v1](http://arxiv.org/abs/2307.09112v1)|null|
 |**2023-07-18**|**R-Cut: Enhancing Explainability in Vision Transformers with Relationship Weighted Out and Cut**|Yingjie Niu et.al.|[2307.09050v1](http://arxiv.org/abs/2307.09050v1)|null|
@@ -225,7 +225,7 @@
 |**2023-07-14**|**Reconstructing Three-decade Global Fine-Grained Nighttime Light Observations by a New Super-Resolution Framework**|Jinyu Guo et.al.|[2307.07366v1](http://arxiv.org/abs/2307.07366v1)|null|
 |**2023-07-14**|**High-density single-molecule maps reveal transient membrane receptor interactions within a dynamically varying environment**|Nicolas Mateos et.al.|[2307.07334v1](http://arxiv.org/abs/2307.07334v1)|null|
 |**2023-07-14**|**MaxSR: Image Super-Resolution Using Improved MaxViT**|Bincheng Yang et.al.|[2307.07240v1](http://arxiv.org/abs/2307.07240v1)|null|
-|**2023-07-12**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207v1](http://arxiv.org/abs/2307.06207v1)|**[link](https://github.com/bu-cisl/LCNF)**|
+|**2023-07-12**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207v2](http://arxiv.org/abs/2307.06207v2)|**[link](https://github.com/bu-cisl/LCNF)**|
 |**2023-07-11**|**Super-resolution imaging through a multimode fiber: the physical upsampling of speckle-driven**|Chuncheng Zhang et.al.|[2307.05138v1](http://arxiv.org/abs/2307.05138v1)|null|
 |**2023-07-10**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian B. Moser et.al.|[2307.04593v1](http://arxiv.org/abs/2307.04593v1)|null|
 |**2023-07-10**|**Edge Storage Management Recipe with Zero-Shot Data Compression for Road Anomaly Detection**|YeongHyeon Park et.al.|[2307.04298v1](http://arxiv.org/abs/2307.04298v1)|null|
@@ -236,7 +236,7 @@
 |**2023-07-05**|**DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models**|Liangbin Xie et.al.|[2307.02457v1](http://arxiv.org/abs/2307.02457v1)|null|
 |**2023-07-05**|**Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**|Jiamiao Zhang et.al.|[2307.02334v3](http://arxiv.org/abs/2307.02334v3)|**[link](https://github.com/jmzhang79/dual-arbnet)**|
 |**2023-07-05**|**Source Identification: A Self-Supervision Task for Dense Prediction**|Shuai Chen et.al.|[2307.02238v1](http://arxiv.org/abs/2307.02238v1)|null|
-|**2023-07-05**|**Compound Attention and Neighbor Matching Network for Multi-contrast MRI Super-resolution**|Wenxuan Chen et.al.|[2307.02148v1](http://arxiv.org/abs/2307.02148v1)|null|
+|**2023-07-05**|**Compound Attention and Neighbor Matching Network for Multi-contrast MRI Super-resolution**|Wenxuan Chen et.al.|[2307.02148v2](http://arxiv.org/abs/2307.02148v2)|null|
 |**2023-07-04**|**Spatio-Temporal Perception-Distortion Trade-off in Learned Video SR**|Nasrin Rahimi et.al.|[2307.01556v1](http://arxiv.org/abs/2307.01556v1)|**[link](https://github.com/kuis-ai-tekalp-research-group/perceptual-vsr)**|
 |**2023-07-04**|**Bistable scattering of nano-silicon for super-linear super-resolution imaging**|Po-Hsueh Tseng et.al.|[2307.01490v1](http://arxiv.org/abs/2307.01490v1)|null|
 |**2023-07-03**|**Ultrafast electro-optic Time-Frequency Fractional Fourier Imaging at the Single-Photon Level**|Michał Lipka et.al.|[2307.01141v1](http://arxiv.org/abs/2307.01141v1)|null|
