@@ -1,4 +1,4 @@
-## Updated on 2023.07.26
+## Updated on 2023.07.27
 
 ## Image Generation
 
@@ -144,7 +144,7 @@
 |**2023-07-25**|**Optical Flow boosts Unsupervised Localization and Segmentation**|Xinyu Zhang et.al.|[2307.13640v1](http://arxiv.org/abs/2307.13640v1)|**[link](https://github.com/mlzxy/flowdino)**|
 |**2023-07-25**|**Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network**|Chull Hwan Song et.al.|[2307.13254v1](http://arxiv.org/abs/2307.13254v1)|null|
 |**2023-07-25**|**Multi-Granularity Prediction with Learnable Fusion for Scene Text Recognition**|Cheng Da et.al.|[2307.13244v1](http://arxiv.org/abs/2307.13244v1)|**[link](https://github.com/alibabaresearch/advancedliteratemachinery)**|
-|**2023-07-24**|**AMAE: Adaptation of Pre-Trained Masked Autoencoder for Dual-Distribution Anomaly Detection in Chest X-Rays**|Behzad Bozorgtabar et.al.|[2307.12721v1](http://arxiv.org/abs/2307.12721v1)|null|
+|**2023-07-24**|**AMAE: Adaptation of Pre-Trained Masked Autoencoder for Dual-Distribution Anomaly Detection in Chest X-Rays**|Behzad Bozorgtabar et.al.|[2307.12721v2](http://arxiv.org/abs/2307.12721v2)|null|
 |**2023-07-24**|**SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation**|Yiqing Wang et.al.|[2307.12591v1](http://arxiv.org/abs/2307.12591v1)|**[link](https://github.com/ucsc-vlaa/swinmm)**|
 |**2023-07-24**|**A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation**|Jinjing Zhu et.al.|[2307.12574v1](http://arxiv.org/abs/2307.12574v1)|null|
 |**2023-07-24**|**Robust face anti-spoofing framework with Convolutional Vision Transformer**|Yunseung Lee et.al.|[2307.12459v1](http://arxiv.org/abs/2307.12459v1)|null|
@@ -164,7 +164,7 @@
 |**2023-07-18**|**NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and Repulsive UDF**|Stefan Lionar et.al.|[2307.09112v1](http://arxiv.org/abs/2307.09112v1)|null|
 |**2023-07-18**|**R-Cut: Enhancing Explainability in Vision Transformers with Relationship Weighted Out and Cut**|Yingjie Niu et.al.|[2307.09050v1](http://arxiv.org/abs/2307.09050v1)|null|
 |**2023-07-18**|**Human Action Recognition in Still Images Using ConViT**|Seyed Rohollah Hosseyni et.al.|[2307.08994v1](http://arxiv.org/abs/2307.08994v1)|null|
-|**2023-07-17**|**Scale-Aware Modulation Meet Transformer**|Weifeng Lin et.al.|[2307.08579v1](http://arxiv.org/abs/2307.08579v1)|**[link](https://github.com/afeng-x/smt)**|
+|**2023-07-17**|**Scale-Aware Modulation Meet Transformer**|Weifeng Lin et.al.|[2307.08579v2](http://arxiv.org/abs/2307.08579v2)|**[link](https://github.com/afeng-x/smt)**|
 |**2023-07-17**|**BUS:Efficient and Effective Vision-language Pre-training with Bottom-Up Patch Summarization**|Chaoya Jiang et.al.|[2307.08504v1](http://arxiv.org/abs/2307.08504v1)|null|
 |**2023-07-17**|**Cumulative Spatial Knowledge Distillation for Vision Transformers**|Borui Zhao et.al.|[2307.08500v1](http://arxiv.org/abs/2307.08500v1)|null|
 |**2023-07-17**|**ShiftNAS: Improving One-shot NAS via Probability Shift**|Mingyang Zhang et.al.|[2307.08300v1](http://arxiv.org/abs/2307.08300v1)|**[link](https://github.com/bestfleer/shiftnas)**|
@@ -193,7 +193,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087v1](http://arxiv.org/abs/2307.05087v1)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441v1](http://arxiv.org/abs/2307.03441v1)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
-|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v2](http://arxiv.org/abs/2306.17723v2)|null|
+|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v3](http://arxiv.org/abs/2306.17723v3)|null|
 |**2023-06-30**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624v2](http://arxiv.org/abs/2306.17624v2)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541v1](http://arxiv.org/abs/2306.16541v1)|null|
 |**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203v1](http://arxiv.org/abs/2306.15203v1)|null|
@@ -267,7 +267,7 @@
 |**2023-07-07**|**Depth Estimation Analysis of Orthogonally Divergent Fisheye Cameras with Distortion Removal**|Matvei Panteleev et.al.|[2307.03602v1](http://arxiv.org/abs/2307.03602v1)|null|
 |**2023-07-05**|**SVDM: Single-View Diffusion Model for Pseudo-Stereo 3D Object Detection**|Yuguang Shi et.al.|[2307.02270v1](http://arxiv.org/abs/2307.02270v1)|null|
 |**2023-07-04**|**Consistent Multimodal Generation via A Unified GAN Framework**|Zhen Zhu et.al.|[2307.01425v1](http://arxiv.org/abs/2307.01425v1)|null|
-|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v2](http://arxiv.org/abs/2306.17723v2)|null|
+|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v3](http://arxiv.org/abs/2306.17723v3)|null|
 |**2023-06-29**|**Towards Zero-Shot Scale-Aware Monocular Depth Estimation**|Vitor Guizilini et.al.|[2306.17253v1](http://arxiv.org/abs/2306.17253v1)|null|
 |**2023-06-29**|**Introspective Perception for Mobile Robots**|Sadegh Rabiee et.al.|[2306.16698v1](http://arxiv.org/abs/2306.16698v1)|null|
 |**2023-06-27**|**Rethinking Cross-Entropy Loss for Stereo Matching Networks**|Peng Xu et.al.|[2306.15612v1](http://arxiv.org/abs/2306.15612v1)|null|
@@ -294,7 +294,7 @@
 |**2023-07-12**|**Close-up View synthesis by Interpolating Optical Flow**|Xinyi Bai et.al.|[2307.05913v1](http://arxiv.org/abs/2307.05913v1)|null|
 |**2023-07-11**|**Objaverse-XL: A Universe of 10M+ 3D Objects**|Matt Deitke et.al.|[2307.05663v1](http://arxiv.org/abs/2307.05663v1)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
-|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v2](http://arxiv.org/abs/2306.17723v2)|null|
+|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v3](http://arxiv.org/abs/2306.17723v3)|null|
 |**2023-06-26**|**Self-supervised novel 2D view synthesis of large-scale scenes with efficient multi-scale voxel carving**|Alexandra Budisteanu et.al.|[2306.14709v1](http://arxiv.org/abs/2306.14709v1)|null|
 |**2023-06-23**|**DreamEditor: Text-Driven 3D Scene Editing with Neural Fields**|Jingyu Zhuang et.al.|[2306.13455v2](http://arxiv.org/abs/2306.13455v2)|null|
 |**2023-06-21**|**Neural Spectro-polarimetric Fields**|Youngchan Kim et.al.|[2306.12562v1](http://arxiv.org/abs/2306.12562v1)|null|
