@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.27
+## Updated on 2023.07.28
 
 ## Image Generation
 
@@ -120,7 +120,7 @@ layout: default
 |**2023-07-26**|**Diffusive Limit of the Vlasov-Poisson-Boltzmann System for the Full Range of Cutoff Potentials**|Weijun Wu et.al.|[2307.14088v1](http://arxiv.org/abs/2307.14088v1)|null|
 |**2023-07-26**|**Self-organized criticality explains the emergence of irregular vegetation patterns in semi-arid regions**|Jean-François de Kemmeter et.al.|[2307.14083v1](http://arxiv.org/abs/2307.14083v1)|null|
 |**2023-07-26**|**VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet**|Zhihao Hu et.al.|[2307.14073v1](http://arxiv.org/abs/2307.14073v1)|null|
-|**2023-07-26**|**Pre-Training with Diffusion models for Dental Radiography segmentation**|Jérémy Rousseau et.al.|[2307.14066v1](http://arxiv.org/abs/2307.14066v1)|null|
+|**2023-07-26**|**Pre-Training with Diffusion models for Dental Radiography segmentation**|Jérémy Rousseau et.al.|[2307.14066v2](http://arxiv.org/abs/2307.14066v2)|null|
 |**2023-07-26**|**MCMC-Correction of Score-Based Diffusion Models for Model Composition**|Anders Sjöberg et.al.|[2307.14012v1](http://arxiv.org/abs/2307.14012v1)|null|
 |**2023-07-26**|**Time multiscale modeling of sorption kinetics I: uniformly accurate schemes for highly oscillatory advection-diffusion equation**|Clarissa Astuto et.al.|[2307.14001v1](http://arxiv.org/abs/2307.14001v1)|null|
 |**2023-07-26**|**Minimal model of diffusion with time changing Hurst exponent**|Jakub Slezak et.al.|[2307.13980v1](http://arxiv.org/abs/2307.13980v1)|null|
