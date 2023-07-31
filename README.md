@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Shrink-Perturb Improves Architecture Mixing during Population Based Training for Neural Architecture Search**|Alexander Chebykin et.al.|[2307.15621v1](http://arxiv.org/abs/2307.15621v1)|**[link](https://github.com/awesomelemon/pbt-nas)**|
+|**2023-07-28**|**RAWIW: RAW Image Watermarking Robust to ISP Pipeline**|Kang Fu et.al.|[2307.15443v1](http://arxiv.org/abs/2307.15443v1)|null|
+|**2023-07-28**|**Staging E-Commerce Products for Online Advertising using Retrieval Assisted Image Generation**|Yueh-Ning Ku et.al.|[2307.15326v1](http://arxiv.org/abs/2307.15326v1)|null|
 |**2023-07-27**|**IML-ViT: Image Manipulation Localization by Vision Transformer**|Xiaochen Ma et.al.|[2307.14863v1](http://arxiv.org/abs/2307.14863v1)|**[link](https://github.com/sunnyhaze/iml-vit)**|
 |**2023-07-27**|**Semantic Image Completion and Enhancement using GANs**|Priyansh Saxena et.al.|[2307.14748v1](http://arxiv.org/abs/2307.14748v1)|null|
 |**2023-07-27**|**Pre-training Vision Transformers with Very Limited Synthesized Images**|Ryo Nakamura1 et.al.|[2307.14710v1](http://arxiv.org/abs/2307.14710v1)|**[link](https://github.com/ryoo-nakamura/ofdb)**|
@@ -31,9 +34,6 @@
 |**2023-07-20**|**OBJECT 3DIT: Language-guided 3D-aware Image Editing**|Oscar Michel et.al.|[2307.11073v1](http://arxiv.org/abs/2307.11073v1)|null|
 |**2023-07-20**|**HRFNet: High-Resolution Forgery Network for Localizing Satellite Image Manipulation**|Fahim Faisal Niloy et.al.|[2307.11052v1](http://arxiv.org/abs/2307.11052v1)|null|
 |**2023-07-20**|**Progressive distillation diffusion for raw music generation**|Svetlana Pavlova et.al.|[2307.10994v1](http://arxiv.org/abs/2307.10994v1)|null|
-|**2023-07-20**|**Divide & Bind Your Attention for Improved Generative Semantic Nursing**|Yumeng Li et.al.|[2307.10864v1](http://arxiv.org/abs/2307.10864v1)|null|
-|**2023-07-19**|**TokenFlow: Consistent Diffusion Features for Consistent Video Editing**|Michal Geyer et.al.|[2307.10373v2](http://arxiv.org/abs/2307.10373v2)|null|
-|**2023-07-19**|**Compressive Image Scanning Microscope**|Ajay Gunalan et.al.|[2307.09841v1](http://arxiv.org/abs/2307.09841v1)|null|
 
 ## Light Field Super Resolution
 
@@ -106,6 +106,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**A quantitative phase-field model for void evolution in defect supersaturated environments: a novel introduction of defect reaction asymmetry**|Sreekar Rayaprolu et.al.|[2307.15626v1](http://arxiv.org/abs/2307.15626v1)|null|
+|**2023-07-28**|**Collision term dependence of the hadronic shear viscosity and diffusion coefficients**|Jan Hammelmann et.al.|[2307.15606v1](http://arxiv.org/abs/2307.15606v1)|null|
+|**2023-07-28**|**Momentum distribution of charm hadrons in a fluid-dynamic approach**|Federica Capellino et.al.|[2307.15580v1](http://arxiv.org/abs/2307.15580v1)|null|
+|**2023-07-28**|**Self-organized states of solutions of active ring polymers in bulk and under confinement**|Juan Pablo Miranda-López et.al.|[2307.15579v1](http://arxiv.org/abs/2307.15579v1)|null|
+|**2023-07-28**|**Understanding the Anomalous Diffusion of Water in Aqueous Electrolytes Using Machine Learned Potentials**|Nikhil V. S. Avula et.al.|[2307.15576v1](http://arxiv.org/abs/2307.15576v1)|null|
+|**2023-07-28**|**Search for High-Energy Neutrinos from TDE-like Flares with IceCube**|Jannis Necker et.al.|[2307.15531v1](http://arxiv.org/abs/2307.15531v1)|null|
+|**2023-07-28**|**Machine Learning Potential for Modelling H$_2$ Adsorption/Diffusion in MOF with Open Metal Sites**|Shanping Liu et.al.|[2307.15528v1](http://arxiv.org/abs/2307.15528v1)|null|
+|**2023-07-28**|**Minimally-Supervised Speech Synthesis with Conditional Diffusion Model and Language Model: A Comparative Study of Semantic Coding**|Chunyu Qiang et.al.|[2307.15484v1](http://arxiv.org/abs/2307.15484v1)|null|
+|**2023-07-28**|**Empirical Validation of a Class of Ray-Based Fading Models**|Juan E. Galeote-Cazorla et.al.|[2307.15467v1](http://arxiv.org/abs/2307.15467v1)|null|
+|**2023-07-28**|**Electronic structure and lattice dynamics of 1T-VSe$_2$: origin of the 3D-CDW**|Josu Diego et.al.|[2307.15392v1](http://arxiv.org/abs/2307.15392v1)|null|
+|**2023-07-28**|**Exploring the Galactic neutrino flux origins using IceCube datasets**|Abhishek Desai et.al.|[2307.15322v1](http://arxiv.org/abs/2307.15322v1)|null|
+|**2023-07-28**|**Mixbiotic society measures: Comparison of organizational structures based on communication simulation**|Takeshi Kato et.al.|[2307.15297v1](http://arxiv.org/abs/2307.15297v1)|null|
+|**2023-07-28**|**Recovering high-quality FODs from a reduced number of diffusion-weighted images using a model-driven deep learning architecture**|J Bartlett et.al.|[2307.15273v1](http://arxiv.org/abs/2307.15273v1)|**[link](https://github.com/jbartlett6/sdnet)**|
+|**2023-07-27**|**Aggregation-diffusion energies on Cartan-Hadamard manifolds of unbounded curvature**|Razvan C. Fetecau et.al.|[2307.15215v1](http://arxiv.org/abs/2307.15215v1)|null|
+|**2023-07-27**|**Generative AI for Medical Imaging: extending the MONAI Framework**|Walter H. L. Pinaya et.al.|[2307.15208v1](http://arxiv.org/abs/2307.15208v1)|**[link](https://github.com/warvito/generative_monai)**|
+|**2023-07-27**|**Multiplicity of endemic equilibria for a diffusive SIS epidemic model with mass-action transmission mechanism**|Keoni Castellano et.al.|[2307.15155v1](http://arxiv.org/abs/2307.15155v1)|null|
+|**2023-07-27**|**Supernova Emission of Secretly Interacting Neutrino Fluid: Theoretical Foundations**|Damiano F. G. Fiorillo et.al.|[2307.15122v1](http://arxiv.org/abs/2307.15122v1)|null|
 |**2023-07-27**|**The RoboDepth Challenge: Methods and Advancements Towards Robust Depth Estimation**|Lingdong Kong et.al.|[2307.15061v1](http://arxiv.org/abs/2307.15061v1)|**[link](https://github.com/ldkong1205/robodepth)**|
 |**2023-07-27**|**TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis**|Zihan Zhang et.al.|[2307.15042v1](http://arxiv.org/abs/2307.15042v1)|null|
 |**2023-07-27**|**Large-scale universality in Quantum Reaction-Diffusion from Keldysh field theory**|Federico Gerbino et.al.|[2307.14945v1](http://arxiv.org/abs/2307.14945v1)|null|
@@ -119,23 +136,6 @@
 |**2023-07-27**|**Angular dependence of the atmospheric neutrino flux with IceCube data**|Leonora Kardum et.al.|[2307.14728v1](http://arxiv.org/abs/2307.14728v1)|null|
 |**2023-07-27**|**Competing effects in fourth-order aggregation-diffusion equations**|José Antonio Carrillo et.al.|[2307.14706v1](http://arxiv.org/abs/2307.14706v1)|null|
 |**2023-07-27**|**LLDiffusion: Learning Degradation Representations in Diffusion Models for Low-Light Image Enhancement**|Tao Wang et.al.|[2307.14659v1](http://arxiv.org/abs/2307.14659v1)|**[link](https://github.com/taowangzj/lldiffusion)**|
-|**2023-07-27**|**Machine Learning based Parameter Sensitivity of Regional Climate Models -- A Case Study of the WRF Model for Heat Extremes over Southeast Australia**|P. Jyoteeshkumar Reddy et.al.|[2307.14654v1](http://arxiv.org/abs/2307.14654v1)|null|
-|**2023-07-27**|**Spatial-Frequency U-Net for Denoising Diffusion Probabilistic Models**|Xin Yuan et.al.|[2307.14648v1](http://arxiv.org/abs/2307.14648v1)|null|
-|**2023-07-27**|**Influence of cation vacancy concentrations on ultra-low thermal conductivity in $(1-x)$BiVO$_4$-$x$Bi$_{2/3}$MoO$_4$ scheelite solid solutions**|Guillaume F. Nataf et.al.|[2307.14641v1](http://arxiv.org/abs/2307.14641v1)|null|
-|**2023-07-27**|**Imitating Complex Trajectories: Bridging Low-Level Stability and High-Level Behavior**|Adam Block et.al.|[2307.14619v1](http://arxiv.org/abs/2307.14619v1)|null|
-|**2023-07-27**|**Self-Contrastive Graph Diffusion Network**|Yixian Ma et.al.|[2307.14613v1](http://arxiv.org/abs/2307.14613v1)|null|
-|**2023-07-27**|**Fast oscillating random perturbations of Hamiltonian systems**|Shuo Yan et.al.|[2307.14597v1](http://arxiv.org/abs/2307.14597v1)|null|
-|**2023-07-27**|**Resistive Switching Conducting Filament Electroformation with an Electrothermal Phase Field Method**|John F. Sevic et.al.|[2307.14582v1](http://arxiv.org/abs/2307.14582v1)|null|
-|**2023-07-27**|**Interfaces in crystalline materials**|Aurélien Vattré et.al.|[2307.14569v1](http://arxiv.org/abs/2307.14569v1)|null|
-|**2023-07-27**|**A quantum ticking self-oscillator using delayed feedback**|Yanan Liu et.al.|[2307.14567v1](http://arxiv.org/abs/2307.14567v1)|null|
-|**2023-07-27**|**Large deviation principle for stochastic reaction-diffusion equations with super-linear drift on $\mathbb{R}$ driven by space-time white noise**|Yue Li et.al.|[2307.14554v1](http://arxiv.org/abs/2307.14554v1)|null|
-|**2023-07-26**|**Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition**|Huy Ha et.al.|[2307.14535v1](http://arxiv.org/abs/2307.14535v1)|null|
-|**2023-07-26**|**Viscosity and Stokes-Einstein relation in deeply supercooled water under pressure**|Alexandre Mussa et.al.|[2307.14479v1](http://arxiv.org/abs/2307.14479v1)|null|
-|**2023-07-26**|**Fluid-dynamics of charm quarks in the quark--gluon plasma**|Federica Capellino et.al.|[2307.14449v1](http://arxiv.org/abs/2307.14449v1)|null|
-|**2023-07-26**|**Neural Schrödinger Bridge with Sinkhorn Losses: Application to Data-driven Minimum Effort Control of Colloidal Self-assembly**|Iman Nodozi et.al.|[2307.14442v1](http://arxiv.org/abs/2307.14442v1)|null|
-|**2023-07-26**|**Evidence of X-ray emission from the Warm Hot Intergalactic Medium**|Giulia Cerini et.al.|[2307.14411v1](http://arxiv.org/abs/2307.14411v1)|null|
-|**2023-07-26**|**Virtual Mirrors: Non-Line-of-Sight Imaging Beyond the Third Bounce**|Diego Royo et.al.|[2307.14341v1](http://arxiv.org/abs/2307.14341v1)|null|
-|**2023-07-26**|**Visual Instruction Inversion: Image Editing via Visual Prompting**|Thao Nguyen et.al.|[2307.14331v1](http://arxiv.org/abs/2307.14331v1)|null|
 
 ## Vision Transformer
 
@@ -176,6 +176,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF**|Haotian Bai et.al.|[2307.15333v1](http://arxiv.org/abs/2307.15333v1)|null|
+|**2023-07-27**|**Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**|Xiangyu Wang et.al.|[2307.15131v1](http://arxiv.org/abs/2307.15131v1)|**[link](https://github.com/windingwind/seal-3d)**|
 |**2023-07-27**|**MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving**|Zirui Wu et.al.|[2307.15058v1](http://arxiv.org/abs/2307.15058v1)|null|
 |**2023-07-27**|**NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection**|Chenfeng Xu et.al.|[2307.14620v1](http://arxiv.org/abs/2307.14620v1)|**[link](https://github.com/facebookresearch/nerf-det)**|
 |**2023-07-26**|**Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation**|Chaohui Yu et.al.|[2307.13908v1](http://arxiv.org/abs/2307.13908v1)|null|
@@ -204,13 +206,12 @@
 |**2023-06-21**|**Local 3D Editing via 3D Distillation of CLIP Knowledge**|Junha Hyung et.al.|[2306.12570v1](http://arxiv.org/abs/2306.12570v1)|null|
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423v1](http://arxiv.org/abs/2306.12423v1)|**[link](https://github.com/qiuyu96/carver)**|
 |**2023-06-21**|**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**|Yukun Huang et.al.|[2306.12422v1](http://arxiv.org/abs/2306.12422v1)|null|
-|**2023-06-20**|**NeRF synthesis with shading guidance**|Chenbin Li et.al.|[2306.11556v1](http://arxiv.org/abs/2306.11556v1)|null|
-|**2023-06-17**|**MA-NeRF: Motion-Assisted Neural Radiance Fields for Face Synthesis from Sparse Images**|Weichen Zhang et.al.|[2306.10350v2](http://arxiv.org/abs/2306.10350v2)|null|
 
 ## Super Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Recovering high-quality FODs from a reduced number of diffusion-weighted images using a model-driven deep learning architecture**|J Bartlett et.al.|[2307.15273v1](http://arxiv.org/abs/2307.15273v1)|**[link](https://github.com/jbartlett6/sdnet)**|
 |**2023-07-27**|**The RoboDepth Challenge: Methods and Advancements Towards Robust Depth Estimation**|Lingdong Kong et.al.|[2307.15061v1](http://arxiv.org/abs/2307.15061v1)|**[link](https://github.com/ldkong1205/robodepth)**|
 |**2023-07-27**|**Super-resolution enabled widefield quantum diamond microscopy**|Feng Xu et.al.|[2307.14990v1](http://arxiv.org/abs/2307.14990v1)|null|
 |**2023-07-27**|**A full-resolution training framework for Sentinel-2 image fusion**|Matteo Ciotola et.al.|[2307.14864v1](http://arxiv.org/abs/2307.14864v1)|null|
@@ -240,7 +241,6 @@
 |**2023-07-14**|**Reconstructing Three-decade Global Fine-Grained Nighttime Light Observations by a New Super-Resolution Framework**|Jinyu Guo et.al.|[2307.07366v1](http://arxiv.org/abs/2307.07366v1)|null|
 |**2023-07-14**|**High-density single-molecule maps reveal transient membrane receptor interactions within a dynamically varying environment**|Nicolas Mateos et.al.|[2307.07334v1](http://arxiv.org/abs/2307.07334v1)|null|
 |**2023-07-14**|**MaxSR: Image Super-Resolution Using Improved MaxViT**|Bincheng Yang et.al.|[2307.07240v1](http://arxiv.org/abs/2307.07240v1)|null|
-|**2023-07-12**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207v2](http://arxiv.org/abs/2307.06207v2)|**[link](https://github.com/bu-cisl/LCNF)**|
 
 ## Depth Estimation
 
