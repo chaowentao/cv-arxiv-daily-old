@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.03
+## Updated on 2023.08.04
 
 ## Image Generation
 
@@ -37,7 +37,7 @@ layout: default
 |**2023-07-26**|**Visual Instruction Inversion: Image Editing via Visual Prompting**|Thao Nguyen et.al.|[2307.14331v1](http://arxiv.org/abs/2307.14331v1)|null|
 |**2023-07-26**|**Deepfake Image Generation for Improved Brain Tumor Segmentation**|Roa'a Al-Emaryeen et.al.|[2307.14273v1](http://arxiv.org/abs/2307.14273v1)|null|
 |**2023-07-26**|**Learning Disentangled Discrete Representations**|David Friede et.al.|[2307.14151v1](http://arxiv.org/abs/2307.14151v1)|**[link](https://github.com/david-friede/lddr)**|
-|**2023-07-26**|**VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet**|Zhihao Hu et.al.|[2307.14073v1](http://arxiv.org/abs/2307.14073v1)|null|
+|**2023-07-26**|**VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet**|Zhihao Hu et.al.|[2307.14073v2](http://arxiv.org/abs/2307.14073v2)|null|
 
 ## Light Field Super Resolution
 
