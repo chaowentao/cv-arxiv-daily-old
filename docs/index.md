@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.08.06
+## Updated on 2023.08.07
 
 ## Image Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-03**|**Focus on Content not Noise: Improving Image Generation for Nuclei Segmentation by Suppressing Steganography in CycleGAN**|Jonas Utz et.al.|[2308.01769v1](http://arxiv.org/abs/2308.01769v1)|null|
-|**2023-08-03**|**BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout**|Kairui Yang et.al.|[2308.01661v1](http://arxiv.org/abs/2308.01661v1)|null|
+|**2023-08-03**|**BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout**|Kairui Yang et.al.|[2308.01661v2](http://arxiv.org/abs/2308.01661v2)|null|
 |**2023-08-03**|**Interleaving GANs with knowledge graphs to support design creativity for book covers**|Alexandru Motogna et.al.|[2308.01626v1](http://arxiv.org/abs/2308.01626v1)|**[link](https://github.com/alexmotogna/generatorapi)**|
 |**2023-08-03**|**Circumventing Concept Erasure Methods For Text-to-Image Generative Models**|Minh Pham et.al.|[2308.01508v1](http://arxiv.org/abs/2308.01508v1)|**[link](https://github.com/nyu-dice-lab/circumventing-concept-erasure)**|
 |**2023-08-02**|**Reverse Stable Diffusion: What prompt was used to generate this image?**|Florinel-Alin Croitoru et.al.|[2308.01472v1](http://arxiv.org/abs/2308.01472v1)|null|
@@ -137,7 +137,7 @@ layout: default
 |**2023-08-02**|**Contrast-augmented Diffusion Model with Fine-grained Sequence Alignment for Markup-to-Image Generation**|Guojin Zhong et.al.|[2308.01147v1](http://arxiv.org/abs/2308.01147v1)|**[link](https://github.com/zgj77/fsacdm)**|
 |**2023-08-02**|**DiffusePast: Diffusion-based Generative Replay for Class Incremental Semantic Segmentation**|Jingfan Chen et.al.|[2308.01127v1](http://arxiv.org/abs/2308.01127v1)|null|
 |**2023-08-02**|**Hidden Markov modeling of single particle diffusion with stochastic tethering**|Amit Federbush et.al.|[2308.01100v1](http://arxiv.org/abs/2308.01100v1)|null|
-|**2023-08-02**|**Learning Fourier-Constrained Diffusion Bridges for MRI Reconstruction**|Muhammad U. Mirza et.al.|[2308.01096v1](http://arxiv.org/abs/2308.01096v1)|**[link](https://github.com/icon-lab/fdb)**|
+|**2023-08-02**|**Learning Fourier-Constrained Diffusion Bridges for MRI Reconstruction**|Muhammad U. Mirza et.al.|[2308.01096v2](http://arxiv.org/abs/2308.01096v2)|**[link](https://github.com/icon-lab/fdb)**|
 |**2023-08-02**|**Non-modulated pyramid wavefront sensor: Why, how and when to use it to sense and correct atmospheric turbulence**|Guido Agapito et.al.|[2308.01066v1](http://arxiv.org/abs/2308.01066v1)|null|
 |**2023-08-02**|**New Lipschitz estimates and long-time asymptotic behavior for porous medium and fast diffusion equations**|Noemi David et.al.|[2308.01041v1](http://arxiv.org/abs/2308.01041v1)|null|
 
@@ -312,7 +312,7 @@ layout: default
 |**2023-06-10**|**NeRFool: Uncovering the Vulnerability of Generalizable Neural Radiance Fields against Adversarial Perturbations**|Yonggan Fu et.al.|[2306.06359v1](http://arxiv.org/abs/2306.06359v1)|null|
 |**2023-06-09**|**GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields**|Barbara Roessle et.al.|[2306.06044v1](http://arxiv.org/abs/2306.06044v1)|null|
 |**2023-06-08**|**StreetSurf: Extending Multi-view Implicit Surface Reconstruction to Street Views**|Jianfei Guo et.al.|[2306.04988v1](http://arxiv.org/abs/2306.04988v1)|null|
-|**2023-06-07**|**BAA-NGP: Bundle-Adjusting Accelerated Neural Graphics Primitives**|Sainan Liu et.al.|[2306.04166v2](http://arxiv.org/abs/2306.04166v2)|**[link](https://github.com/IntelLabs/baa-ngp)**|
+|**2023-06-07**|**BAA-NGP: Bundle-Adjusting Accelerated Neural Graphics Primitives**|Sainan Liu et.al.|[2306.04166v3](http://arxiv.org/abs/2306.04166v3)|**[link](https://github.com/IntelLabs/baa-ngp)**|
 |**2023-06-05**|**BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields**|AKM Shahariar Azad Rabby et.al.|[2306.03000v1](http://arxiv.org/abs/2306.03000v1)|null|
 |**2023-06-02**|**PanoGRF: Generalizable Spherical Radiance Fields for Wide-baseline Panoramas**|Zheng Chen et.al.|[2306.01531v1](http://arxiv.org/abs/2306.01531v1)|null|
 
