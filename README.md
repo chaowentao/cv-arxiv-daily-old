@@ -1,4 +1,4 @@
-## Updated on 2023.08.09
+## Updated on 2023.08.10
 
 ## Image Generation
 
@@ -291,7 +291,7 @@
 |**2023-08-01**|**Robust Single-view Cone-beam X-ray Pose Estimation with Neural Tuned Tomography (NeTT) and Masked Neural Radiance Fields (mNeRF)**|Chaochao Zhou et.al.|[2308.00214v1](http://arxiv.org/abs/2308.00214v1)|null|
 |**2023-07-30**|**Implicit Neural Representation in Medical Imaging: A Comparative Survey**|Amirali Molaei et.al.|[2307.16142v1](http://arxiv.org/abs/2307.16142v1)|**[link](https://github.com/mindflow-institue/awesome-implicit-neural-representations-in-medical-imaging)**|
 |**2023-07-27**|**NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection**|Chenfeng Xu et.al.|[2307.14620v1](http://arxiv.org/abs/2307.14620v1)|**[link](https://github.com/facebookresearch/nerf-det)**|
-|**2023-07-23**|**LoLep: Single-View View Synthesis with Locally-Learned Planes and Self-Attention Occlusion Inference**|Cong Wang et.al.|[2307.12217v1](http://arxiv.org/abs/2307.12217v1)|null|
+|**2023-07-23**|**LoLep: Single-View View Synthesis with Locally-Learned Planes and Self-Attention Occlusion Inference**|Cong Wang et.al.|[2307.12217v2](http://arxiv.org/abs/2307.12217v2)|null|
 |**2023-07-22**|**Replay: Multi-modal Multi-view Acted Videos for Casual Holography**|Roman Shapovalov et.al.|[2307.12067v1](http://arxiv.org/abs/2307.12067v1)|**[link](https://github.com/facebookresearch/replay_dataset)**|
 |**2023-07-21**|**FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields**|Sungwon Hwang et.al.|[2307.11418v2](http://arxiv.org/abs/2307.11418v2)|null|
 |**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776v1](http://arxiv.org/abs/2307.10776v1)|null|
