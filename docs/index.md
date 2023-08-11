@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.08.10
+## Updated on 2023.08.11
 
 ## Image Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095v1](http://arxiv.org/abs/2308.05095v1)|null|
-|**2023-08-09**|**TextPainter: Multimodal Text Image Generation withVisual-harmony and Text-comprehension for Poster Design**|Yifan Gao et.al.|[2308.04733v1](http://arxiv.org/abs/2308.04733v1)|null|
+|**2023-08-09**|**TextPainter: Multimodal Text Image Generation withVisual-harmony and Text-comprehension for Poster Design**|Yifan Gao et.al.|[2308.04733v2](http://arxiv.org/abs/2308.04733v2)|null|
 |**2023-08-09**|**A Forensic Methodology for Detecting Image Manipulations**|Jiwon Lee et.al.|[2308.04723v1](http://arxiv.org/abs/2308.04723v1)|null|
 |**2023-08-09**|**GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization**|Hao Fang et.al.|[2308.04699v1](http://arxiv.org/abs/2308.04699v1)|**[link](https://github.com/ffhibnese/gifd)**|
 |**2023-08-02**|**Dual Governance: The intersection of centralized regulation and crowdsourced safety mechanisms for Generative AI**|Avijit Ghosh et.al.|[2308.04448v1](http://arxiv.org/abs/2308.04448v1)|null|
@@ -110,11 +110,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-09**|**Improved Multi-Shot Diffusion-Weighted MRI with Zero-Shot Self-Supervised Learning Reconstruction**|Jaejin Cho et.al.|[2308.05103v1](http://arxiv.org/abs/2308.05103v1)|null|
+|**2023-08-09**|**Improved Multi-Shot Diffusion-Weighted MRI with Zero-Shot Self-Supervised Learning Reconstruction**|Jaejin Cho et.al.|[2308.05103v1](http://arxiv.org/abs/2308.05103v1)|**[link](https://github.com/jaejin-cho/miccai2023)**|
 |**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095v1](http://arxiv.org/abs/2308.05095v1)|null|
 |**2023-08-09**|**Deuterium Escape on Sub-Neptunes**|Pin-Gao Gu et.al.|[2308.05057v1](http://arxiv.org/abs/2308.05057v1)|null|
 |**2023-08-09**|**Do Diffusion Models Suffer Error Propagation? Theoretical Analysis and Consistency Regularization**|Yangming Li et.al.|[2308.05021v1](http://arxiv.org/abs/2308.05021v1)|null|
-|**2023-08-09**|**IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-Conditioned Diffusion Models**|Fadi Boutros et.al.|[2308.04995v1](http://arxiv.org/abs/2308.04995v1)|**[link](https://github.com/fdbtrs/IDiff-Face)**|
+|**2023-08-09**|**IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-Conditioned Diffusion Models**|Fadi Boutros et.al.|[2308.04995v2](http://arxiv.org/abs/2308.04995v2)|**[link](https://github.com/fdbtrs/IDiff-Face)**|
 |**2023-08-09**|**CasCIFF: A Cross-Domain Information Fusion Framework Tailored for Cascade Prediction in Social Networks**|Hongjun Zhu et.al.|[2308.04961v1](http://arxiv.org/abs/2308.04961v1)|null|
 |**2023-08-09**|**Deep Learning-Based Prediction of Fractional Flow Reserve along the Coronary Artery**|Nils Hampe et.al.|[2308.04923v1](http://arxiv.org/abs/2308.04923v1)|null|
 |**2023-08-09**|**Interaction-induced directional transport on periodically driven chains**|Helena Drüeke et.al.|[2308.04845v1](http://arxiv.org/abs/2308.04845v1)|null|
@@ -151,7 +151,7 @@ layout: default
 |**2023-08-08**|**All-pairs Consistency Learning for Weakly Supervised Semantic Segmentation**|Weixuan Sun et.al.|[2308.04321v1](http://arxiv.org/abs/2308.04321v1)|null|
 |**2023-08-08**|**Class-level Structural Relation Modelling and Smoothing for Visual Representation Learning**|Zitan Chen et.al.|[2308.04142v1](http://arxiv.org/abs/2308.04142v1)|**[link](https://github.com/czt117/csrms)**|
 |**2023-08-07**|**Communication-Efficient Framework for Distributed Image Semantic Wireless Transmission**|Bingyan Xie et.al.|[2308.03713v2](http://arxiv.org/abs/2308.03713v2)|null|
-|**2023-08-07**|**Scaling may be all you need for achieving human-level object recognition capacity with human-like visual experience**|A. Emin Orhan et.al.|[2308.03712v1](http://arxiv.org/abs/2308.03712v1)|**[link](https://github.com/eminorhan/humanlike-vits)**|
+|**2023-08-07**|**Scaling may be all you need for achieving human-level object recognition capacity with human-like visual experience**|A. Emin Orhan et.al.|[2308.03712v2](http://arxiv.org/abs/2308.03712v2)|**[link](https://github.com/eminorhan/humanlike-vits)**|
 |**2023-08-07**|**Improving FHB Screening in Wheat Breeding Using an Efficient Transformer Model**|Babak Azad et.al.|[2308.03670v1](http://arxiv.org/abs/2308.03670v1)|null|
 |**2023-08-07**|**DiT: Efficient Vision Transformers with Dynamic Token Routing**|Yuchen Ma et.al.|[2308.03409v1](http://arxiv.org/abs/2308.03409v1)|**[link](https://github.com/maycbj/dit)**|
 |**2023-08-07**|**Part-Aware Transformer for Generalizable Person Re-identification**|Hao Ni et.al.|[2308.03322v1](http://arxiv.org/abs/2308.03322v1)|null|
@@ -231,7 +231,7 @@ layout: default
 |**2023-08-05**|**Unfolding Once is Enough: A Deployment-Friendly Transformer Unit for Super-Resolution**|Yong Liu et.al.|[2308.02794v1](http://arxiv.org/abs/2308.02794v1)|**[link](https://github.com/yongliuy/ditn)**|
 |**2023-08-05**|**One-stage Low-resolution Text Recognition with High-resolution Knowledge Transfer**|Hang Guo et.al.|[2308.02770v1](http://arxiv.org/abs/2308.02770v1)|**[link](https://github.com/csguoh/kd-ltr)**|
 |**2023-08-03**|**PoissonNet: Resolution-Agnostic 3D Shape Reconstruction using Fourier Neural Operators**|Hector Andrade-Loarca et.al.|[2308.01766v2](http://arxiv.org/abs/2308.01766v2)|**[link](https://github.com/arsenal9971/poissonnet)**|
-|**2023-08-03**|**Super-Resolution Estimation of UWB Channels including the Diffuse Component -- An SBL-Inspired Approach**|Stefan Grebien et.al.|[2308.01702v1](http://arxiv.org/abs/2308.01702v1)|null|
+|**2023-08-03**|**Super-Resolution Estimation of UWB Channels including the Diffuse Component -- An SBL-Inspired Approach**|Stefan Grebien et.al.|[2308.01702v2](http://arxiv.org/abs/2308.01702v2)|null|
 |**2023-08-03**|**Efficient neural supersampling on a novel gaming dataset**|Antoine Mercier et.al.|[2308.01483v1](http://arxiv.org/abs/2308.01483v1)|null|
 |**2023-07-31**|**Lightweight Super-Resolution Head for Human Pose Estimation**|Haonan Wang et.al.|[2307.16765v1](http://arxiv.org/abs/2307.16765v1)|**[link](https://github.com/haonanwang0522/srpose)**|
 |**2023-07-31**|**HiREN: Towards Higher Supervision Quality for Better Scene Text Image Super-Resolution**|Minyi Zhao et.al.|[2307.16410v1](http://arxiv.org/abs/2307.16410v1)|null|
@@ -275,7 +275,7 @@ layout: default
 |**2023-07-20**|**Probabilistic Multimodal Depth Estimation Based on Camera-LiDAR Sensor Fusion**|Johan S. Obando-Ceron et.al.|[2307.10519v1](http://arxiv.org/abs/2307.10519v1)|null|
 |**2023-07-16**|**RayMVSNet++: Learning Ray-based 1D Implicit Fields for Accurate Multi-View Stereo**|Yifei Shi et.al.|[2307.10233v1](http://arxiv.org/abs/2307.10233v1)|null|
 |**2023-07-19**|**Measuring and Modeling Uncertainty Degree for Monocular Depth Estimation**|Mochu Xiang et.al.|[2307.09929v1](http://arxiv.org/abs/2307.09929v1)|null|
-|**2023-07-17**|**Neural Video Depth Stabilizer**|Yiran Wang et.al.|[2307.08695v1](http://arxiv.org/abs/2307.08695v1)|**[link](https://github.com/raymondwang987/nvds)**|
+|**2023-07-17**|**Neural Video Depth Stabilizer**|Yiran Wang et.al.|[2307.08695v2](http://arxiv.org/abs/2307.08695v2)|**[link](https://github.com/raymondwang987/nvds)**|
 |**2023-07-17**|**Self-supervised Monocular Depth Estimation: Let's Talk About The Weather**|Kieran Saunders et.al.|[2307.08357v1](http://arxiv.org/abs/2307.08357v1)|null|
 |**2023-07-17**|**Video Frame Interpolation with Stereo Event and Intensity Camera**|Chao Ding et.al.|[2307.08228v1](http://arxiv.org/abs/2307.08228v1)|null|
 |**2023-07-17**|**On Point Affiliation in Feature Upsampling**|Wenze Liu et.al.|[2307.08198v1](http://arxiv.org/abs/2307.08198v1)|**[link](https://github.com/tiny-smart/sapa)**|
