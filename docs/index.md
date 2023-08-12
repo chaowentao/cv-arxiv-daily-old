@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.11
+## Updated on 2023.08.12
 
 ## Image Generation
 
@@ -11,10 +11,10 @@ layout: default
 |**2023-08-10**|**SAR Target Image Generation Method Using Azimuth-Controllable Generative Adversarial Network**|Chenwei Wang et.al.|[2308.05489v1](http://arxiv.org/abs/2308.05489v1)|null|
 |**2023-08-10**|**Beyond Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization**|Hongyang Du et.al.|[2308.05384v1](http://arxiv.org/abs/2308.05384v1)|null|
 |**2023-08-10**|**TrainFors: A Large Benchmark Training Dataset for Image Manipulation Detection and Localization**|Soumyaroop Nandi et.al.|[2308.05264v1](http://arxiv.org/abs/2308.05264v1)|null|
-|**2023-08-09**|**PromptPaint: Steering Text-to-Image Generation Through Paint Medium-like Interactions**|John Joon Young Chung et.al.|[2308.05184v1](http://arxiv.org/abs/2308.05184v1)|null|
+|**2023-08-09**|**PromptPaint: Steering Text-to-Image Generation Through Paint Medium-like Interactions**|John Joon Young Chung et.al.|[2308.05184v1](http://arxiv.org/abs/2308.05184v1)|**[link](https://github.com/johnr0/promptpaint)**|
 |**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095v1](http://arxiv.org/abs/2308.05095v1)|null|
 |**2023-08-09**|**TextPainter: Multimodal Text Image Generation withVisual-harmony and Text-comprehension for Poster Design**|Yifan Gao et.al.|[2308.04733v2](http://arxiv.org/abs/2308.04733v2)|null|
-|**2023-08-09**|**A Forensic Methodology for Detecting Image Manipulations**|Jiwon Lee et.al.|[2308.04723v1](http://arxiv.org/abs/2308.04723v1)|null|
+|**2023-08-09**|**A Forensic Methodology for Detecting Image Manipulations**|Jiwon Lee et.al.|[2308.04723v1](http://arxiv.org/abs/2308.04723v1)|**[link](https://github.com/allinonee/manipulated-image-dataset)**|
 |**2023-08-09**|**GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization**|Hao Fang et.al.|[2308.04699v1](http://arxiv.org/abs/2308.04699v1)|**[link](https://github.com/ffhibnese/gifd)**|
 |**2023-08-02**|**Dual Governance: The intersection of centralized regulation and crowdsourced safety mechanisms for Generative AI**|Avijit Ghosh et.al.|[2308.04448v1](http://arxiv.org/abs/2308.04448v1)|null|
 |**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417v1](http://arxiv.org/abs/2308.04417v1)|null|
@@ -132,7 +132,7 @@ layout: default
 |**2023-08-10**|**Inverse problem for the subdiffusion equation with non-local in time condition**|Ravshan Ashurov et.al.|[2308.05356v1](http://arxiv.org/abs/2308.05356v1)|null|
 |**2023-08-10**|**Investigating disaster response through social media data and the Susceptible-Infected-Recovered (SIR) model: A case study of 2020 Western U.S. wildfire season**|Zihui Ma et.al.|[2308.05281v1](http://arxiv.org/abs/2308.05281v1)|null|
 |**2023-08-10**|**A general fourth-order mesoscopic multiple-relaxation-time lattice Boltzmann model and equivalent macroscopic finite-difference scheme for two-dimensional diffusion equations**|Ying Chen et.al.|[2308.05280v1](http://arxiv.org/abs/2308.05280v1)|null|
-|**2023-08-09**|**PromptPaint: Steering Text-to-Image Generation Through Paint Medium-like Interactions**|John Joon Young Chung et.al.|[2308.05184v1](http://arxiv.org/abs/2308.05184v1)|null|
+|**2023-08-09**|**PromptPaint: Steering Text-to-Image Generation Through Paint Medium-like Interactions**|John Joon Young Chung et.al.|[2308.05184v1](http://arxiv.org/abs/2308.05184v1)|**[link](https://github.com/johnr0/promptpaint)**|
 |**2023-08-09**|**Asymptotic scaling relations for rotating spherical convection with strong zonal flows**|Justin A. Nicoski et.al.|[2308.05174v1](http://arxiv.org/abs/2308.05174v1)|null|
 |**2023-08-09**|**Neural network potentials for modeling nonstoichiometric materials: a case of Chromium Sulfides Cr$_{(1-x)}$S**|Akram Ibrahim et.al.|[2308.05163v1](http://arxiv.org/abs/2308.05163v1)|null|
 |**2023-08-09**|**Strongly-Coupled Anisotropic Gauge Theories and Holography in 5D Einstien-Gauss-Bonnet Gravity**|S. N. Sajadi et.al.|[2308.05159v1](http://arxiv.org/abs/2308.05159v1)|null|
