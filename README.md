@@ -1,4 +1,4 @@
-## Updated on 2023.08.13
+## Updated on 2023.08.14
 
 ## Image Generation
 
@@ -113,11 +113,11 @@
 |**2023-08-10**|**Modelling non-local cell-cell adhesion: a multiscale approach**|Anna Zhigun et.al.|[2308.05676v1](http://arxiv.org/abs/2308.05676v1)|null|
 |**2023-08-10**|**Sublimation of refractory minerals in the gas envelopes of accreting rocky planets**|Marie-Luise Steinmeyer et.al.|[2308.05647v1](http://arxiv.org/abs/2308.05647v1)|null|
 |**2023-08-10**|**On a nonlocal two-phase flow with convective heat transfer**|Šárka Ňecasová et.al.|[2308.05608v1](http://arxiv.org/abs/2308.05608v1)|null|
-|**2023-08-10**|**Budget equations and astrophysical nonlinear mean-field dynamos**|I. Rogachevskii et.al.|[2308.05590v1](http://arxiv.org/abs/2308.05590v1)|null|
+|**2023-08-10**|**Budget equations and astrophysical nonlinear mean-field dynamos**|I. Rogachevskii et.al.|[2308.05590v2](http://arxiv.org/abs/2308.05590v2)|null|
 |**2023-08-10**|**Generative Diffusion Models for Radio Wireless Channel Modelling and Sampling**|Ushnish Sengupta et.al.|[2308.05583v1](http://arxiv.org/abs/2308.05583v1)|null|
 |**2023-08-10**|**Fokker-Planck-Poisson kinetics: Multi-phase flow beyond equilibrium**|Mohsen Sadr et.al.|[2308.05580v1](http://arxiv.org/abs/2308.05580v1)|null|
 |**2023-08-10**|**Bijective Density-Equalizing Quasiconformal Map for Multiply-Connected Open Surfaces**|Zhiyuan Lyu et.al.|[2308.05579v1](http://arxiv.org/abs/2308.05579v1)|null|
-|**2023-08-10**|**Surface recombination and out of plane diffusivity of free excitons in hexagonal boron nitride**|Sébastien Roux et.al.|[2308.05539v1](http://arxiv.org/abs/2308.05539v1)|null|
+|**2023-08-10**|**Surface recombination and out of plane diffusivity of free excitons in hexagonal boron nitride**|Sébastien Roux et.al.|[2308.05539v2](http://arxiv.org/abs/2308.05539v2)|null|
 |**2023-08-10**|**A coupled-mechanisms modelling framework for neurodegeneration**|Tiantian He et.al.|[2308.05536v1](http://arxiv.org/abs/2308.05536v1)|null|
 |**2023-08-10**|**Thermal and mechanical properties of AlSi7Mg matrix syntactic foams reinforced by Al$_2$O$_3$ or SiC particles in matrix**|Fehér Anna et.al.|[2308.05532v1](http://arxiv.org/abs/2308.05532v1)|null|
 |**2023-08-10**|**An Adaptive Algorithm Based on Stochastic Discontinuous Galerkin for Convection Dominated Equations with Random Data**|Pelin Çiloğlu et.al.|[2308.05500v1](http://arxiv.org/abs/2308.05500v1)|null|
@@ -151,7 +151,7 @@
 |**2023-08-07**|**Communication-Efficient Framework for Distributed Image Semantic Wireless Transmission**|Bingyan Xie et.al.|[2308.03713v2](http://arxiv.org/abs/2308.03713v2)|null|
 |**2023-08-07**|**Scaling may be all you need for achieving human-level object recognition capacity with human-like visual experience**|A. Emin Orhan et.al.|[2308.03712v2](http://arxiv.org/abs/2308.03712v2)|**[link](https://github.com/eminorhan/humanlike-vits)**|
 |**2023-08-07**|**Improving FHB Screening in Wheat Breeding Using an Efficient Transformer Model**|Babak Azad et.al.|[2308.03670v1](http://arxiv.org/abs/2308.03670v1)|null|
-|**2023-08-07**|**DiT: Efficient Vision Transformers with Dynamic Token Routing**|Yuchen Ma et.al.|[2308.03409v1](http://arxiv.org/abs/2308.03409v1)|**[link](https://github.com/maycbj/dit)**|
+|**2023-08-07**|**DiT: Efficient Vision Transformers with Dynamic Token Routing**|Yuchen Ma et.al.|[2308.03409v2](http://arxiv.org/abs/2308.03409v2)|**[link](https://github.com/maycbj/dit)**|
 |**2023-08-07**|**Part-Aware Transformer for Generalizable Person Re-identification**|Hao Ni et.al.|[2308.03322v1](http://arxiv.org/abs/2308.03322v1)|null|
 |**2023-08-07**|**FLIQS: One-Shot Mixed-Precision Floating-Point and Integer Quantization Search**|Jordan Dotzel et.al.|[2308.03290v1](http://arxiv.org/abs/2308.03290v1)|null|
 |**2023-08-06**|**TOPIQ: A Top-down Approach from Semantics to Distortions for Image Quality Assessment**|Chaofeng Chen et.al.|[2308.03060v1](http://arxiv.org/abs/2308.03060v1)|**[link](https://github.com/chaofengc/iqa-pytorch)**|
@@ -218,7 +218,7 @@
 |**2023-08-08**|**Harnessing Artificial Intelligence To Reduce Phototoxicity in Live Imaging**|Estibaliz Gómez-de-Mariscal et.al.|[2308.04387v1](http://arxiv.org/abs/2308.04387v1)|null|
 |**2023-08-08**|**When Super-Resolution Meets Camouflaged Object Detection: A Comparison Study**|Juan Wen et.al.|[2308.04370v1](http://arxiv.org/abs/2308.04370v1)|null|
 |**2023-08-07**|**Friedrichs' systems discretized with the Discontinuous Galerkin method: domain decomposable model order reduction and Graph Neural Networks approximating vanishing viscosity solutions**|Francesco Romor et.al.|[2308.03378v1](http://arxiv.org/abs/2308.03378v1)|null|
-|**2023-08-07**|**Dual Aggregation Transformer for Image Super-Resolution**|Zheng Chen et.al.|[2308.03364v1](http://arxiv.org/abs/2308.03364v1)|**[link](https://github.com/zhengchen1999/dat)**|
+|**2023-08-07**|**Dual Aggregation Transformer for Image Super-Resolution**|Zheng Chen et.al.|[2308.03364v2](http://arxiv.org/abs/2308.03364v2)|**[link](https://github.com/zhengchen1999/dat)**|
 |**2023-08-07**|**A Theory of Evidence Lower Bound and Its Application to Super-Resolution Data Assimilation (SRDA) Using Conditional Variational Autoencoders**|Yuki Yasuda et.al.|[2308.03351v1](http://arxiv.org/abs/2308.03351v1)|null|
 |**2023-08-07**|**A Benchmark for Chinese-English Scene Text Image Super-resolution**|Jianqi Ma et.al.|[2308.03262v1](http://arxiv.org/abs/2308.03262v1)|**[link](https://github.com/mjq11302010044/real-ce)**|
 |**2023-08-06**|**NNVISR: Bring Neural Network Video Interpolation and Super Resolution into Video Processing Framework**|Yuan Tong et.al.|[2308.03121v1](http://arxiv.org/abs/2308.03121v1)|**[link](https://github.com/tongyuantongyu/vs-nnvisr)**|
@@ -228,7 +228,7 @@
 |**2023-08-05**|**Unfolding Once is Enough: A Deployment-Friendly Transformer Unit for Super-Resolution**|Yong Liu et.al.|[2308.02794v1](http://arxiv.org/abs/2308.02794v1)|**[link](https://github.com/yongliuy/ditn)**|
 |**2023-08-05**|**One-stage Low-resolution Text Recognition with High-resolution Knowledge Transfer**|Hang Guo et.al.|[2308.02770v1](http://arxiv.org/abs/2308.02770v1)|**[link](https://github.com/csguoh/kd-ltr)**|
 |**2023-08-03**|**PoissonNet: Resolution-Agnostic 3D Shape Reconstruction using Fourier Neural Operators**|Hector Andrade-Loarca et.al.|[2308.01766v2](http://arxiv.org/abs/2308.01766v2)|**[link](https://github.com/arsenal9971/poissonnet)**|
-|**2023-08-03**|**Super-Resolution Estimation of UWB Channels including the Diffuse Component -- An SBL-Inspired Approach**|Stefan Grebien et.al.|[2308.01702v2](http://arxiv.org/abs/2308.01702v2)|null|
+|**2023-08-03**|**Super-Resolution Estimation of UWB Channels including the Diffuse Component -- An SBL-Inspired Approach**|Stefan Grebien et.al.|[2308.01702v3](http://arxiv.org/abs/2308.01702v3)|null|
 |**2023-08-03**|**Efficient neural supersampling on a novel gaming dataset**|Antoine Mercier et.al.|[2308.01483v1](http://arxiv.org/abs/2308.01483v1)|null|
 |**2023-07-31**|**Lightweight Super-Resolution Head for Human Pose Estimation**|Haonan Wang et.al.|[2307.16765v1](http://arxiv.org/abs/2307.16765v1)|**[link](https://github.com/haonanwang0522/srpose)**|
 |**2023-07-31**|**HiREN: Towards Higher Supervision Quality for Better Scene Text Image Super-Resolution**|Minyi Zhao et.al.|[2307.16410v1](http://arxiv.org/abs/2307.16410v1)|null|
