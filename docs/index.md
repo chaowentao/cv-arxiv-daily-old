@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.24
+## Updated on 2023.08.25
 
 ## Image Generation
 
@@ -18,13 +18,13 @@ layout: default
 |**2023-08-22**|**MosaiQ: Quantum Generative Adversarial Networks for Image Generation on NISQ Computers**|Daniel Silver et.al.|[2308.11096v1](http://arxiv.org/abs/2308.11096v1)|null|
 |**2023-08-21**|**Debiasing Counterfactuals In the Presence of Spurious Correlations**|Amar Kumar et.al.|[2308.10984v1](http://arxiv.org/abs/2308.10984v1)|null|
 |**2023-08-21**|**Sampling From Autoencoders' Latent Space via Quantization And Probability Mass Function Concepts**|Aymene Mohammed Bouayed et.al.|[2308.10704v1](http://arxiv.org/abs/2308.10704v1)|null|
-|**2023-08-21**|**Patternshop: Editing Point Patterns by Image Manipulation**|Xingchang Huang et.al.|[2308.10517v1](http://arxiv.org/abs/2308.10517v1)|null|
+|**2023-08-21**|**Patternshop: Editing Point Patterns by Image Manipulation**|Xingchang Huang et.al.|[2308.10517v2](http://arxiv.org/abs/2308.10517v2)|null|
 |**2023-08-20**|**Turning Waste into Wealth: Leveraging Low-Quality Samples for Enhancing Continuous Conditional Generative Adversarial Networks**|Xin Ding et.al.|[2308.10273v1](http://arxiv.org/abs/2308.10273v1)|null|
 |**2023-08-20**|**StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data**|Yanda Li et.al.|[2308.10253v1](http://arxiv.org/abs/2308.10253v1)|**[link](https://github.com/icoz69/stablellava)**|
 |**2023-08-20**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187v1](http://arxiv.org/abs/2308.10187v1)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
 |**2023-08-20**|**SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-Image Generation**|Chengyou Jia et.al.|[2308.10156v1](http://arxiv.org/abs/2308.10156v1)|null|
 |**2023-08-19**|**ASPIRE: Language-Guided Augmentation for Robust Image Classification**|Sreyan Ghosh et.al.|[2308.10103v1](http://arxiv.org/abs/2308.10103v1)|null|
-|**2023-08-19**|**ControlCom: Controllable Image Composition using Diffusion Model**|Bo Zhang et.al.|[2308.10040v1](http://arxiv.org/abs/2308.10040v1)|null|
+|**2023-08-19**|**ControlCom: Controllable Image Composition using Diffusion Model**|Bo Zhang et.al.|[2308.10040v1](http://arxiv.org/abs/2308.10040v1)|**[link](https://github.com/bcmi/controlcom-image-composition)**|
 |**2023-08-19**|**ControlRetriever: Harnessing the Power of Instructions for Controllable Retrieval**|Kaihang Pan et.al.|[2308.10025v1](http://arxiv.org/abs/2308.10025v1)|null|
 |**2023-08-19**|**Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**|Jie Zhang et.al.|[2308.09894v1](http://arxiv.org/abs/2308.09894v1)|null|
 |**2023-08-19**|**DUAW: Data-free Universal Adversarial Watermark against Stable Diffusion Customization**|Xiaoyu Ye et.al.|[2308.09889v1](http://arxiv.org/abs/2308.09889v1)|null|
@@ -120,7 +120,7 @@ layout: default
 |**2023-08-23**|**Progress Towards a Diffuse Neutrino Search in the Full Livetime of the Askaryan Radio Array**|Paramita Dasgupta et.al.|[2308.12125v1](http://arxiv.org/abs/2308.12125v1)|null|
 |**2023-08-23**|**Pulse shape discrimination for the CONUS experiment in the keV and sub-keV regime**|H. Bonet et.al.|[2308.12105v1](http://arxiv.org/abs/2308.12105v1)|null|
 |**2023-08-23**|**Nonequilibrium transition between a continuous and a discrete time-crystal**|Albert Cabot et.al.|[2308.12080v1](http://arxiv.org/abs/2308.12080v1)|null|
-|**2023-08-23**|**Manipulating Embeddings of Stable Diffusion Prompts**|Niklas Deckers et.al.|[2308.12059v1](http://arxiv.org/abs/2308.12059v1)|null|
+|**2023-08-23**|**Manipulating Embeddings of Stable Diffusion Prompts**|Niklas Deckers et.al.|[2308.12059v1](http://arxiv.org/abs/2308.12059v1)|**[link](https://github.com/webis-de/arxiv23-prompt-embedding-manipulation)**|
 |**2023-08-23**|**Quantum-Noise-driven Generative Diffusion Models**|Marco Parigi et.al.|[2308.12013v1](http://arxiv.org/abs/2308.12013v1)|null|
 |**2023-08-23**|**High-quality Image Dehazing with Diffusion Model**|Hu Yu et.al.|[2308.11949v1](http://arxiv.org/abs/2308.11949v1)|null|
 |**2023-08-23**|**Efficient Transfer Learning in Diffusion Models via Adversarial Noise**|Xiyu Wang et.al.|[2308.11948v1](http://arxiv.org/abs/2308.11948v1)|null|
@@ -291,7 +291,7 @@ layout: default
 |**2023-08-22**|**Enhancing Interpretable Object Abstraction via Clustering-based Slot Initialization**|Ning Gao et.al.|[2308.11369v1](http://arxiv.org/abs/2308.11369v1)|null|
 |**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198v1](http://arxiv.org/abs/2308.11198v1)|null|
 |**2023-08-22**|**Efficient View Synthesis with Neural Radiance Distribution Field**|Yushuang Wu et.al.|[2308.11130v1](http://arxiv.org/abs/2308.11130v1)|null|
-|**2023-08-19**|**ControlCom: Controllable Image Composition using Diffusion Model**|Bo Zhang et.al.|[2308.10040v1](http://arxiv.org/abs/2308.10040v1)|null|
+|**2023-08-19**|**ControlCom: Controllable Image Composition using Diffusion Model**|Bo Zhang et.al.|[2308.10040v1](http://arxiv.org/abs/2308.10040v1)|**[link](https://github.com/bcmi/controlcom-image-composition)**|
 |**2023-08-18**|**Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis**|Jonathon Luiten et.al.|[2308.09713v1](http://arxiv.org/abs/2308.09713v1)|null|
 |**2023-08-18**|**DReg-NeRF: Deep Registration for Neural Radiance Fields**|Yu Chen et.al.|[2308.09386v1](http://arxiv.org/abs/2308.09386v1)|**[link](https://github.com/aibluefisher/dreg-nerf)**|
 |**2023-08-16**|**Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstruction**|Georgios Kouros et.al.|[2308.08530v3](http://arxiv.org/abs/2308.08530v3)|**[link](https://github.com/gkouros/ref-dvgo)**|
