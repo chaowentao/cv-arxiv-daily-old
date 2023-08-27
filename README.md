@@ -126,7 +126,7 @@
 |**2023-08-23**|**Improving Generative Model-based Unfolding with Schrödinger Bridges**|Sascha Diefenbacher et.al.|[2308.12351v1](http://arxiv.org/abs/2308.12351v1)|**[link](https://github.com/viniciusmikuni/sbunfold)**|
 |**2023-08-23**|**Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation**|Duo Peng et.al.|[2308.12350v1](http://arxiv.org/abs/2308.12350v1)|null|
 |**2023-08-23**|**The progenitors of the intra-cluster light and intra-cluster globular clusters in galaxy groups and clusters**|Niusha Ahvazi et.al.|[2308.12340v1](http://arxiv.org/abs/2308.12340v1)|null|
-|**2023-08-23**|**Refining Fast Calorimeter Simulations with a Schrödinger Bridge**|Sascha Diefenbacher et.al.|[2308.12339v1](http://arxiv.org/abs/2308.12339v1)|null|
+|**2023-08-23**|**Refining Fast Calorimeter Simulations with a Schrödinger Bridge**|Sascha Diefenbacher et.al.|[2308.12339v1](http://arxiv.org/abs/2308.12339v1)|**[link](https://github.com/saschadief/sb_refinement)**|
 |**2023-08-23**|**On-Manifold Projected Gradient Descent**|Aaron Mahler et.al.|[2308.12279v1](http://arxiv.org/abs/2308.12279v1)|null|
 |**2023-08-23**|**Score diffusion models without early stopping: finite Fisher information is all you need**|Giovanni Conforti et.al.|[2308.12240v1](http://arxiv.org/abs/2308.12240v1)|null|
 |**2023-08-23**|**Enhancing cardiovascular risk prediction through AI-enabled calcium-omics**|Ammar Hoori et.al.|[2308.12224v1](http://arxiv.org/abs/2308.12224v1)|null|
