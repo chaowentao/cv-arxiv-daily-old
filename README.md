@@ -1,4 +1,4 @@
-## Updated on 2023.08.27
+## Updated on 2023.08.28
 
 ## Image Generation
 
@@ -130,7 +130,7 @@
 |**2023-08-23**|**On-Manifold Projected Gradient Descent**|Aaron Mahler et.al.|[2308.12279v1](http://arxiv.org/abs/2308.12279v1)|null|
 |**2023-08-23**|**Score diffusion models without early stopping: finite Fisher information is all you need**|Giovanni Conforti et.al.|[2308.12240v1](http://arxiv.org/abs/2308.12240v1)|null|
 |**2023-08-23**|**Enhancing cardiovascular risk prediction through AI-enabled calcium-omics**|Ammar Hoori et.al.|[2308.12224v1](http://arxiv.org/abs/2308.12224v1)|null|
-|**2023-08-23**|**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**|Jiasheng Ye et.al.|[2308.12219v1](http://arxiv.org/abs/2308.12219v1)|**[link](https://github.com/yegcjs/diffusionllm)**|
+|**2023-08-23**|**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**|Jiasheng Ye et.al.|[2308.12219v2](http://arxiv.org/abs/2308.12219v2)|**[link](https://github.com/yegcjs/diffusionllm)**|
 |**2023-08-23**|**Turing patterns on a two-component isotropic growing system. Part 1: Homogeneous state and stability of perturbations in absence of diffusion**|Aldo Ledesma-Durán et.al.|[2308.12196v1](http://arxiv.org/abs/2308.12196v1)|null|
 |**2023-08-23**|**Multiple-scale analysis of the simplest large-delay differential equation**|Gregory Kozyreff et.al.|[2308.12172v1](http://arxiv.org/abs/2308.12172v1)|null|
 |**2023-08-23**|**Space-time hybridizable discontinuous Galerkin method for advection-diffusion on deforming domains: The advection-dominated regime**|Yuan Wang et.al.|[2308.12130v1](http://arxiv.org/abs/2308.12130v1)|null|
