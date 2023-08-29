@@ -1,4 +1,4 @@
-## Updated on 2023.08.28
+## Updated on 2023.08.29
 
 ## Image Generation
 
@@ -23,7 +23,7 @@
 |**2023-08-21**|**Patternshop: Editing Point Patterns by Image Manipulation**|Xingchang Huang et.al.|[2308.10517v2](http://arxiv.org/abs/2308.10517v2)|null|
 |**2023-08-20**|**Turning Waste into Wealth: Leveraging Low-Quality Samples for Enhancing Continuous Conditional Generative Adversarial Networks**|Xin Ding et.al.|[2308.10273v1](http://arxiv.org/abs/2308.10273v1)|null|
 |**2023-08-20**|**StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data**|Yanda Li et.al.|[2308.10253v1](http://arxiv.org/abs/2308.10253v1)|**[link](https://github.com/icoz69/stablellava)**|
-|**2023-08-20**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187v1](http://arxiv.org/abs/2308.10187v1)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
+|**2023-08-20**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187v2](http://arxiv.org/abs/2308.10187v2)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
 |**2023-08-20**|**SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-Image Generation**|Chengyou Jia et.al.|[2308.10156v1](http://arxiv.org/abs/2308.10156v1)|null|
 |**2023-08-19**|**ASPIRE: Language-Guided Augmentation for Robust Image Classification**|Sreyan Ghosh et.al.|[2308.10103v1](http://arxiv.org/abs/2308.10103v1)|null|
 |**2023-08-19**|**ControlCom: Controllable Image Composition using Diffusion Model**|Bo Zhang et.al.|[2308.10040v1](http://arxiv.org/abs/2308.10040v1)|**[link](https://github.com/bcmi/controlcom-image-composition)**|
@@ -129,7 +129,7 @@
 |**2023-08-24**|**APLA: Additional Perturbation for Latent Noise with Adversarial Training Enables Consistency**|Yupu Yao et.al.|[2308.12605v1](http://arxiv.org/abs/2308.12605v1)|null|
 |**2023-08-24**|**Stability threshold of the 2D Couette flow in a homogeneous magnetic field using symmetric variables**|Michele Dolce et.al.|[2308.12589v1](http://arxiv.org/abs/2308.12589v1)|null|
 |**2023-08-24**|**Effective reaction temperatures of irreversible dust chemical reactions in a protoplanetary disk**|Lily Ishizaki et.al.|[2308.12571v1](http://arxiv.org/abs/2308.12571v1)|null|
-|**2023-08-24**|**General Covariance-Based Conditions for Central Limit Theorems with Dependent Triangular Arrays**|Arun G. Chandrasekhar et.al.|[2308.12506v1](http://arxiv.org/abs/2308.12506v1)|null|
+|**2023-08-24**|**General Covariance-Based Conditions for Central Limit Theorems with Dependent Triangular Arrays**|Arun G. Chandrasekhar et.al.|[2308.12506v2](http://arxiv.org/abs/2308.12506v2)|null|
 |**2023-08-24**|**DD-GCN: Directed Diffusion Graph Convolutional Network for Skeleton-based Human Action Recognition**|Chang Li et.al.|[2308.12501v1](http://arxiv.org/abs/2308.12501v1)|**[link](https://github.com/shiyin-lc/dd-gcn)**|
 |**2023-08-24**|**False Information, Bots and Malicious Campaigns: Demystifying Elements of Social Media Manipulations**|Mohammad Majid Akhtar et.al.|[2308.12497v1](http://arxiv.org/abs/2308.12497v1)|null|
 |**2023-08-23**|**Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion**|Junjiao Tian et.al.|[2308.12469v1](http://arxiv.org/abs/2308.12469v1)|null|
@@ -141,7 +141,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-25**|**Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers**|Matthew Dutson et.al.|[2308.13494v1](http://arxiv.org/abs/2308.13494v1)|null|
+|**2023-08-25**|**Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers**|Matthew Dutson et.al.|[2308.13494v1](http://arxiv.org/abs/2308.13494v1)|**[link](https://github.com/WISION-Lab/eventful-transformer)**|
 |**2023-08-25**|**An investigation into the impact of deep learning model choice on sex and race bias in cardiac MR segmentation**|Tiarna Lee et.al.|[2308.13415v1](http://arxiv.org/abs/2308.13415v1)|null|
 |**2023-08-25**|**CS-Mixer: A Cross-Scale Vision MLP Model with Spatial-Channel Mixing**|Jonathan Cui et.al.|[2308.13363v1](http://arxiv.org/abs/2308.13363v1)|null|
 |**2023-08-25**|**A Re-Parameterized Vision Transformer (ReVT) for Domain-Generalized Semantic Segmentation**|Jan-Aike Termöhlen et.al.|[2308.13331v1](http://arxiv.org/abs/2308.13331v1)|null|
@@ -178,7 +178,7 @@
 |---|---|---|---|---|
 |**2023-08-24**|**NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects**|Dakshit Agrawal et.al.|[2308.12560v1](http://arxiv.org/abs/2308.12560v1)|**[link](https://github.com/dakshitagrawal/nova)**|
 |**2023-08-23**|**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**|Hyeonseop Song et.al.|[2308.11974v1](http://arxiv.org/abs/2308.11974v1)|null|
-|**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951v1](http://arxiv.org/abs/2308.11951v1)|null|
+|**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951v2](http://arxiv.org/abs/2308.11951v2)|null|
 |**2023-08-22**|**Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts**|Wenyan Cong et.al.|[2308.11793v1](http://arxiv.org/abs/2308.11793v1)|**[link](https://github.com/vita-group/gnt-move)**|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774v1](http://arxiv.org/abs/2308.11774v1)|null|
 |**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198v1](http://arxiv.org/abs/2308.11198v1)|null|
@@ -211,7 +211,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-24**|**FFEINR: Flow Feature-Enhanced Implicit Neural Representation for Spatio-temporal Super-Resolution**|Chenyue Jiao et.al.|[2308.12508v1](http://arxiv.org/abs/2308.12508v1)|null|
+|**2023-08-24**|**FFEINR: Flow Feature-Enhanced Implicit Neural Representation for Spatio-temporal Super-Resolution**|Chenyue Jiao et.al.|[2308.12508v2](http://arxiv.org/abs/2308.12508v2)|null|
 |**2023-08-23**|**InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model**|Jueqi Wang et.al.|[2308.12465v1](http://arxiv.org/abs/2308.12465v1)|**[link](https://github.com/biomedai-ucsc/inversesr)**|
 |**2023-08-23**|**DISGAN: Wavelet-informed Discriminator Guides GAN to MRI Super-resolution with Noise Cleaning**|Qi Wang et.al.|[2308.12084v1](http://arxiv.org/abs/2308.12084v1)|null|
 |**2023-08-23**|**StofNet: Super-resolution Time of Flight Network**|Christopher Hahne et.al.|[2308.12009v1](http://arxiv.org/abs/2308.12009v1)|null|
