@@ -10,7 +10,7 @@
 |**2023-08-28**|**HoloFusion: Towards Photo-realistic 3D Generative Modeling**|Animesh Karnewar et.al.|[2308.14244v1](http://arxiv.org/abs/2308.14244v1)|null|
 |**2023-08-27**|**A Bayesian Non-parametric Approach to Generative Models: Integrating Variational Autoencoder and Generative Adversarial Networks using Wasserstein and Maximum Mean Discrepancy**|Forough Fazeli-Asl et.al.|[2308.14048v1](http://arxiv.org/abs/2308.14048v1)|null|
 |**2023-08-26**|**ORES: Open-vocabulary Responsible Visual Synthesis**|Minheng Ni et.al.|[2308.13785v1](http://arxiv.org/abs/2308.13785v1)|**[link](https://github.com/kodenii/ores)**|
-|**2023-08-25**|**Residual Denoising Diffusion Models**|Jiawei Liu et.al.|[2308.13712v1](http://arxiv.org/abs/2308.13712v1)|null|
+|**2023-08-25**|**Residual Denoising Diffusion Models**|Jiawei Liu et.al.|[2308.13712v1](http://arxiv.org/abs/2308.13712v1)|**[link](https://github.com/nachifur/rddm)**|
 |**2023-08-25**|**Is Deep Learning Network Necessary for Image Generation?**|Chenqiu Zhao et.al.|[2308.13612v1](http://arxiv.org/abs/2308.13612v1)|null|
 |**2023-08-25**|**WorldSmith: Iterative and Expressive Prompting for World Building with a Generative AI**|Hai Dang et.al.|[2308.13355v1](http://arxiv.org/abs/2308.13355v1)|null|
 |**2023-08-25**|**Self-supervised Scene Text Segmentation with Object-centric Layered Representations Augmented by Text Regions**|Yibo Wang et.al.|[2308.13178v1](http://arxiv.org/abs/2308.13178v1)|null|
