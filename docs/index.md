@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.30
+## Updated on 2023.08.31
 
 ## Image Generation
 
@@ -113,7 +113,7 @@ layout: default
 |**2023-08-29**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459v1](http://arxiv.org/abs/2308.15459v1)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
 |**2023-08-29**|**Vortex core radius in baroclinic turbulence: Implications for scaling predictions**|Gabriel Hadjerci et.al.|[2308.15398v1](http://arxiv.org/abs/2308.15398v1)|null|
 |**2023-08-29**|**Rayleigh-Bénard instability in a horizontal porous layer with anomalous diffusion**|Antonio Barletta et.al.|[2308.15359v1](http://arxiv.org/abs/2308.15359v1)|null|
-|**2023-08-29**|**Elucidating the Exposure Bias in Diffusion Models**|Mang Ning et.al.|[2308.15321v1](http://arxiv.org/abs/2308.15321v1)|null|
+|**2023-08-29**|**Elucidating the Exposure Bias in Diffusion Models**|Mang Ning et.al.|[2308.15321v2](http://arxiv.org/abs/2308.15321v2)|null|
 |**2023-08-29**|**Turing instabilities are not enough to ensure pattern formation**|Andrew L. Krause et.al.|[2308.15311v1](http://arxiv.org/abs/2308.15311v1)|null|
 |**2023-08-29**|**Diffusion-based kernel density estimation improves the assessment of carbon isotope modelling**|Maria-Theresia Pelz et.al.|[2308.15282v1](http://arxiv.org/abs/2308.15282v1)|null|
 |**2023-08-29**|**Summary of IceCube Tau Neutrino Searches and Flavor Composition Measurements of the Diffuse Astrophysical Neutrino Flux**|Neha Lad et.al.|[2308.15213v1](http://arxiv.org/abs/2308.15213v1)|null|
