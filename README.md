@@ -1,4 +1,4 @@
-## Updated on 2023.09.05
+## Updated on 2023.09.06
 
 ## Image Generation
 
@@ -63,7 +63,7 @@
 |**2023-05-28**|**OccCasNet: Occlusion-aware Cascade Cost Volume for Light Field Depth Estimation**|Wentao Chao et.al.|[2305.17710v1](http://arxiv.org/abs/2305.17710v1)|**[link](https://github.com/chaowentao/occcasnet)**|
 |**2023-01-20**|**Unsupervised Light Field Depth Estimation via Multi-view Feature Matching with Occlusion Prediction**|Shansi Zhang et.al.|[2301.08433v2](http://arxiv.org/abs/2301.08433v2)|null|
 |**2022-08-20**|**Learning Sub-Pixel Disparity Distribution for Light Field Depth Estimation**|Wentao Chao et.al.|[2208.09688v2](http://arxiv.org/abs/2208.09688v2)|**[link](https://github.com/chaowentao/subfocal)**|
-|**2022-03-29**|**Light Field Depth Estimation Based on Stitched-EPI**|Ping Zhou et.al.|[2203.15201v1](http://arxiv.org/abs/2203.15201v1)|null|
+|**2022-03-29**|**Light Field Depth Estimation via Stitched Epipolar Plane Images**|Ping Zhou et.al.|[2203.15201v2](http://arxiv.org/abs/2203.15201v2)|null|
 |**2022-03-29**|**Self-Supervised Light Field Depth Estimation Using Epipolar Plane Images**|Kunyuan Li et.al.|[2203.15171v1](http://arxiv.org/abs/2203.15171v1)|null|
 |**2022-03-04**|**OPAL: Occlusion Pattern Aware Loss for Unsupervised Light Field Disparity Estimation**|Peng Li et.al.|[2203.02231v3](http://arxiv.org/abs/2203.02231v3)|null|
 |**2022-03-03**|**Occlusion-Aware Cost Constructor for Light Field Depth Estimation**|Yingqian Wang et.al.|[2203.01576v1](http://arxiv.org/abs/2203.01576v1)|**[link](https://github.com/yingqianwang/oacc-net)**|
@@ -178,7 +178,7 @@
 |---|---|---|---|---|
 |**2023-09-01**|**SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**|Lulin Zhang et.al.|[2309.00277v1](http://arxiv.org/abs/2309.00277v1)|**[link](https://github.com/lulinzhang/sps-nerf)**|
 |**2023-08-24**|**Improving NeRF Quality by Progressive Camera Placement for Unrestricted Navigation in Complex Environments**|Georgios Kopanas et.al.|[2309.00014v1](http://arxiv.org/abs/2309.00014v1)|null|
-|**2023-08-31**|**GHuNeRF: Generalizable Human NeRF from a Monocular Video**|Chen Li et.al.|[2308.16576v1](http://arxiv.org/abs/2308.16576v1)|null|
+|**2023-08-31**|**GHuNeRF: Generalizable Human NeRF from a Monocular Video**|Chen Li et.al.|[2308.16576v2](http://arxiv.org/abs/2308.16576v2)|null|
 |**2023-08-30**|**From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**|Shreyank N Gowda et.al.|[2308.16041v1](http://arxiv.org/abs/2308.16041v1)|null|
 |**2023-08-30**|**Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey**|Zhihao Jia et.al.|[2308.15733v1](http://arxiv.org/abs/2308.15733v1)|null|
 |**2023-08-29**|**Efficient Ray Sampling for Radiance Fields Reconstruction**|Shilei Sun et.al.|[2308.15547v1](http://arxiv.org/abs/2308.15547v1)|null|
@@ -216,7 +216,7 @@
 |**2023-08-30**|**Label-free image scanning microscopy for kHz super-resolution imaging and single particle tracking**|Duc-Minh Ta et.al.|[2308.15817v1](http://arxiv.org/abs/2308.15817v1)|null|
 |**2023-08-30**|**ACNPU: A 4.75TOPS/W 1080P@30FPS Super Resolution Accelerator with Decoupled Asymmetric Convolution**|Tun-Hao Yang et.al.|[2308.15807v1](http://arxiv.org/abs/2308.15807v1)|null|
 |**2023-08-29**|**DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior**|Xinqi Lin et.al.|[2308.15070v1](http://arxiv.org/abs/2308.15070v1)|**[link](https://github.com/xpixelgroup/diffbir)**|
-|**2023-08-28**|**Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization**|Tao Yang et.al.|[2308.14469v1](http://arxiv.org/abs/2308.14469v1)|null|
+|**2023-08-28**|**Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization**|Tao Yang et.al.|[2308.14469v1](http://arxiv.org/abs/2308.14469v1)|**[link](https://github.com/yangxy/pasd)**|
 |**2023-08-28**|**HoloFusion: Towards Photo-realistic 3D Generative Modeling**|Animesh Karnewar et.al.|[2308.14244v1](http://arxiv.org/abs/2308.14244v1)|null|
 |**2023-08-27**|**A comprehensive review on Plant Leaf Disease detection using Deep learning**|Sumaya Mustofa et.al.|[2308.14087v1](http://arxiv.org/abs/2308.14087v1)|null|
 |**2023-08-26**|**DiffI2I: Efficient Diffusion Model for Image-to-Image Translation**|Bin Xia et.al.|[2308.13767v1](http://arxiv.org/abs/2308.13767v1)|null|
