@@ -1,4 +1,4 @@
-## Updated on 2023.09.06
+## Updated on 2023.09.07
 
 ## Image Generation
 
@@ -143,7 +143,7 @@
 |---|---|---|---|---|
 |**2023-09-05**|**A survey on efficient vision transformers: algorithms, techniques, and performance benchmarking**|Lorenzo Papa et.al.|[2309.02031v1](http://arxiv.org/abs/2309.02031v1)|null|
 |**2023-09-04**|**Locality-Aware Hyperspectral Classification**|Fangqin Zhou et.al.|[2309.01561v1](http://arxiv.org/abs/2309.01561v1)|null|
-|**2023-09-04**|**Large Separable Kernel Attention: Rethinking the Large Kernel Attention Design in CNN**|Kin Wai Lau et.al.|[2309.01439v1](http://arxiv.org/abs/2309.01439v1)|null|
+|**2023-09-04**|**Large Separable Kernel Attention: Rethinking the Large Kernel Attention Design in CNN**|Kin Wai Lau et.al.|[2309.01439v2](http://arxiv.org/abs/2309.01439v2)|null|
 |**2023-09-04**|**DAT++: Spatially Dynamic Vision Transformer with Deformable Attention**|Zhuofan Xia et.al.|[2309.01430v1](http://arxiv.org/abs/2309.01430v1)|null|
 |**2023-09-04**|**Leveraging Self-Supervised Vision Transformers for Neural Transfer Function Design**|Dominik Engel et.al.|[2309.01408v1](http://arxiv.org/abs/2309.01408v1)|null|
 |**2023-09-04**|**Semantic-Constraint Matching Transformer for Weakly Supervised Object Localization**|Yiwen Cao et.al.|[2309.01331v1](http://arxiv.org/abs/2309.01331v1)|null|
@@ -176,7 +176,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-04**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811v1](http://arxiv.org/abs/2309.01811v1)|null|
+|**2023-09-04**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811v2](http://arxiv.org/abs/2309.01811v2)|null|
 |**2023-09-04**|**Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351v1](http://arxiv.org/abs/2309.01351v1)|null|
 |**2023-09-01**|**SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**|Lulin Zhang et.al.|[2309.00277v1](http://arxiv.org/abs/2309.00277v1)|**[link](https://github.com/lulinzhang/sps-nerf)**|
 |**2023-08-24**|**Improving NeRF Quality by Progressive Camera Placement for Unrestricted Navigation in Complex Environments**|Georgios Kopanas et.al.|[2309.00014v2](http://arxiv.org/abs/2309.00014v2)|null|
@@ -282,7 +282,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-05**|**TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction**|Zhenghong Zhou et.al.|[2309.02318v1](http://arxiv.org/abs/2309.02318v1)|null|
-|**2023-09-04**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811v1](http://arxiv.org/abs/2309.01811v1)|null|
+|**2023-09-04**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811v2](http://arxiv.org/abs/2309.01811v2)|null|
 |**2023-09-04**|**EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity**|Zijie Jiang et.al.|[2309.01296v1](http://arxiv.org/abs/2309.01296v1)|null|
 |**2023-09-03**|**Turn Fake into Real: Adversarial Head Turn Attacks Against Deepfake Detection**|Weijie Wang et.al.|[2309.01104v1](http://arxiv.org/abs/2309.01104v1)|null|
 |**2023-08-24**|**Improving NeRF Quality by Progressive Camera Placement for Unrestricted Navigation in Complex Environments**|Georgios Kopanas et.al.|[2309.00014v2](http://arxiv.org/abs/2309.00014v2)|null|
@@ -292,7 +292,7 @@
 |**2023-08-27**|**Depth self-supervision for single image novel view synthesis**|Giovanni Minelli et.al.|[2308.14108v1](http://arxiv.org/abs/2308.14108v1)|**[link](https://github.com/johnminelli/twowaysynth)**|
 |**2023-08-27**|**Sparse3D: Distilling Multiview-Consistent Diffusion for Object Reconstruction from Sparse Views**|Zi-Xin Zou et.al.|[2308.14078v1](http://arxiv.org/abs/2308.14078v1)|null|
 |**2023-08-24**|**NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes**|Muhammad Zubair Irshad et.al.|[2308.12967v1](http://arxiv.org/abs/2308.12967v1)|**[link](https://github.com/zubair-irshad/NeO-360)**|
-|**2023-08-23**|**ARF-Plus: Controlling Perceptual Factors in Artistic Radiance Fields for 3D Scene Stylization**|Wenzhao Li et.al.|[2308.12452v1](http://arxiv.org/abs/2308.12452v1)|null|
+|**2023-08-23**|**ARF-Plus: Controlling Perceptual Factors in Artistic Radiance Fields for 3D Scene Stylization**|Wenzhao Li et.al.|[2308.12452v2](http://arxiv.org/abs/2308.12452v2)|null|
 |**2023-08-22**|**Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts**|Wenyan Cong et.al.|[2308.11793v1](http://arxiv.org/abs/2308.11793v1)|**[link](https://github.com/vita-group/gnt-move)**|
 |**2023-08-22**|**IT3D: Improved Text-to-3D Generation with Explicit View Synthesis**|Yiwen Chen et.al.|[2308.11473v1](http://arxiv.org/abs/2308.11473v1)|**[link](https://github.com/buaacyw/it3d-text-to-3d)**|
 |**2023-08-22**|**ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes**|Chandan Yeshwanth et.al.|[2308.11417v1](http://arxiv.org/abs/2308.11417v1)|null|
