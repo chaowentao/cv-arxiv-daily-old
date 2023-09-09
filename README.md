@@ -18,12 +18,12 @@
 |**2023-09-05**|**Diffusion on the Probability Simplex**|Griffin Floto et.al.|[2309.02530v1](http://arxiv.org/abs/2309.02530v1)|null|
 |**2023-09-03**|**RSDiff: Remote Sensing Image Generation from Text Using Diffusion Model**|Ahmad Sebaq et.al.|[2309.02455v1](http://arxiv.org/abs/2309.02455v1)|null|
 |**2023-09-05**|**Breaking Barriers to Creative Expression: Co-Designing and Implementing an Accessible Text-to-Image Interface**|Atieh Taheri et.al.|[2309.02402v1](http://arxiv.org/abs/2309.02402v1)|null|
-|**2023-09-05**|**Exchanging-based Multimodal Fusion with Transformer**|Renyu Zhu et.al.|[2309.02190v1](http://arxiv.org/abs/2309.02190v1)|null|
+|**2023-09-05**|**Exchanging-based Multimodal Fusion with Transformer**|Renyu Zhu et.al.|[2309.02190v1](http://arxiv.org/abs/2309.02190v1)|**[link](https://github.com/recklessronan/muse)**|
 |**2023-09-04**|**Uncertainty in AI: Evaluating Deep Neural Networks on Out-of-Distribution Images**|Jamiu Idowu et.al.|[2309.01850v1](http://arxiv.org/abs/2309.01850v1)|null|
 |**2023-09-04**|**StyleAdapter: A Single-Pass LoRA-Free Model for Stylized Image Generation**|Zhouxia Wang et.al.|[2309.01770v1](http://arxiv.org/abs/2309.01770v1)|null|
 |**2023-09-04**|**Attention as Annotation: Generating Images and Pseudo-masks for Weakly Supervised Semantic Segmentation with Diffusion**|Ryota Yoshihashi et.al.|[2309.01369v1](http://arxiv.org/abs/2309.01369v1)|null|
 |**2023-09-04**|**Mutual Information Maximizing Quantum Generative Adversarial Network and Its Applications in Finance**|Mingyu Lee et.al.|[2309.01363v1](http://arxiv.org/abs/2309.01363v1)|null|
-|**2023-09-03**|**Diffusion Models with Deterministic Normalizing Flow Priors**|Mohsen Zand et.al.|[2309.01274v1](http://arxiv.org/abs/2309.01274v1)|null|
+|**2023-09-03**|**Diffusion Models with Deterministic Normalizing Flow Priors**|Mohsen Zand et.al.|[2309.01274v1](http://arxiv.org/abs/2309.01274v1)|**[link](https://github.com/mohsenzand/dinof)**|
 |**2023-09-03**|**Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning**|Yuanhao Zhai et.al.|[2309.01246v1](http://arxiv.org/abs/2309.01246v1)|null|
 |**2023-09-03**|**Turn Fake into Real: Adversarial Head Turn Attacks Against Deepfake Detection**|Weijie Wang et.al.|[2309.01104v1](http://arxiv.org/abs/2309.01104v1)|null|
 |**2023-09-02**|**Constrained CycleGAN for Effective Generation of Ultrasound Sector Images of Improved Spatial Resolution**|Xiaofei Sun et.al.|[2309.00995v1](http://arxiv.org/abs/2309.00995v1)|null|
