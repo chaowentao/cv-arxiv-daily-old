@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.11
+## Updated on 2023.09.12
 
 ## Image Generation
 
@@ -21,7 +21,7 @@ layout: default
 |**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198v1](http://arxiv.org/abs/2309.03198v1)|null|
 |**2023-09-06**|**SLiMe: Segment Like Me**|Aliasghar Khani et.al.|[2309.03179v1](http://arxiv.org/abs/2309.03179v1)|null|
 |**2023-09-06**|**Hierarchical-level rain image generative model based on GAN**|Zhenyuan Liu et.al.|[2309.02964v1](http://arxiv.org/abs/2309.02964v1)|null|
-|**2023-09-06**|**BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network**|Takashi Shibuya et.al.|[2309.02836v1](http://arxiv.org/abs/2309.02836v1)|**[link](https://github.com/sony/bigvsan_eval)**|
+|**2023-09-06**|**BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network**|Takashi Shibuya et.al.|[2309.02836v1](http://arxiv.org/abs/2309.02836v1)|**[link](https://github.com/sony/bigvsan)**|
 |**2023-09-06**|**Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter**|Jinglong Wang et.al.|[2309.02773v1](http://arxiv.org/abs/2309.02773v1)|null|
 |**2023-09-05**|**Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning**|Lili Yu et.al.|[2309.02591v1](http://arxiv.org/abs/2309.02591v1)|null|
 |**2023-09-05**|**Diffusion on the Probability Simplex**|Griffin Floto et.al.|[2309.02530v1](http://arxiv.org/abs/2309.02530v1)|null|
