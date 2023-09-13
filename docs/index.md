@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.12
+## Updated on 2023.09.13
 
 ## Image Generation
 
@@ -30,7 +30,7 @@ layout: default
 |**2023-09-06**|**BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network**|Takashi Shibuya et.al.|[2309.02836v1](http://arxiv.org/abs/2309.02836v1)|**[link](https://github.com/sony/bigvsan)**|
 |**2023-09-06**|**Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter**|Jinglong Wang et.al.|[2309.02773v1](http://arxiv.org/abs/2309.02773v1)|null|
 |**2023-09-05**|**Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning**|Lili Yu et.al.|[2309.02591v1](http://arxiv.org/abs/2309.02591v1)|null|
-|**2023-09-05**|**Diffusion on the Probability Simplex**|Griffin Floto et.al.|[2309.02530v1](http://arxiv.org/abs/2309.02530v1)|null|
+|**2023-09-05**|**Diffusion on the Probability Simplex**|Griffin Floto et.al.|[2309.02530v2](http://arxiv.org/abs/2309.02530v2)|null|
 |**2023-09-05**|**Breaking Barriers to Creative Expression: Co-Designing and Implementing an Accessible Text-to-Image Interface**|Atieh Taheri et.al.|[2309.02402v1](http://arxiv.org/abs/2309.02402v1)|null|
 |**2023-09-05**|**Exchanging-based Multimodal Fusion with Transformer**|Renyu Zhu et.al.|[2309.02190v1](http://arxiv.org/abs/2309.02190v1)|**[link](https://github.com/recklessronan/muse)**|
 |**2023-09-04**|**Uncertainty in AI: Evaluating Deep Neural Networks on Out-of-Distribution Images**|Jamiu Idowu et.al.|[2309.01850v1](http://arxiv.org/abs/2309.01850v1)|null|
@@ -116,7 +116,7 @@ layout: default
 |**2023-09-11**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519v1](http://arxiv.org/abs/2309.05519v1)|null|
 |**2023-09-11**|**Median Surface Brightness Profiles of Lyman-$α$ Haloes in the MUSE Extremely Deep Field**|Yucheng Guo et.al.|[2309.05513v1](http://arxiv.org/abs/2309.05513v1)|null|
 |**2023-09-11**|**Diffusion-Based Co-Speech Gesture Generation Using Joint Text and Audio Representation**|Anna Deichler et.al.|[2309.05455v1](http://arxiv.org/abs/2309.05455v1)|null|
-|**2023-09-11**|**Treatment-aware Diffusion Probabilistic Model for Longitudinal MRI Generation and Diffuse Glioma Growth Prediction**|Qinghui Liu et.al.|[2309.05406v1](http://arxiv.org/abs/2309.05406v1)|null|
+|**2023-09-11**|**Treatment-aware Diffusion Probabilistic Model for Longitudinal MRI Generation and Diffuse Glioma Growth Prediction**|Qinghui Liu et.al.|[2309.05406v2](http://arxiv.org/abs/2309.05406v2)|null|
 |**2023-09-11**|**Anomalous Hall effect in ultraclean electronic channels**|K. K. Grigoryan et.al.|[2309.05401v1](http://arxiv.org/abs/2309.05401v1)|null|
 |**2023-09-11**|**Large time behaviour of the 2D thermally non-diffusive Boussinesq equations with Navier-slip boundary conditions**|Fabian Bleitner et.al.|[2309.05400v1](http://arxiv.org/abs/2309.05400v1)|null|
 |**2023-09-11**|**Influence of protostellar outflows on star and protoplanetary disk formation in a massive star-forming clump**|U. Lebreuilly et.al.|[2309.05397v1](http://arxiv.org/abs/2309.05397v1)|null|
@@ -218,7 +218,7 @@ layout: default
 |**2023-09-11**|**Vacancy-Engineered Phonon Polaritons in $α$-MoO$_3$**|Naveed Hussain et.al.|[2309.05574v1](http://arxiv.org/abs/2309.05574v1)|null|
 |**2023-09-11**|**Diving into Darkness: A Dual-Modulated Framework for High-Fidelity Super-Resolution in Ultra-Dark Environments**|Jiaxin Gao et.al.|[2309.05267v1](http://arxiv.org/abs/2309.05267v1)|null|
 |**2023-09-11**|**HAT: Hybrid Attention Transformer for Image Restoration**|Xiangyu Chen et.al.|[2309.05239v1](http://arxiv.org/abs/2309.05239v1)|**[link](https://github.com/xpixelgroup/hat)**|
-|**2023-09-10**|**Super-Resolution Surface Reconstruction from Few Low-Resolution Slices**|Yiyao Zhang et.al.|[2309.05071v1](http://arxiv.org/abs/2309.05071v1)|null|
+|**2023-09-10**|**Super-Resolution Surface Reconstruction from Few Low-Resolution Slices**|Yiyao Zhang et.al.|[2309.05071v1](http://arxiv.org/abs/2309.05071v1)|**[link](https://github.com/cyiyoo/SurfaceReconstructionFromFewSlices)**|
 |**2023-09-09**|**Towards Real-World Burst Image Super-Resolution: Benchmark and Method**|Pengxu Wei et.al.|[2309.04803v1](http://arxiv.org/abs/2309.04803v1)|**[link](https://github.com/yjsunnn/fbanet)**|
 |**2023-09-07**|**SRN-SZ: Deep Leaning-Based Scientific Error-bounded Lossy Compression with Super-resolution Neural Networks**|Jinyang Liu et.al.|[2309.04037v1](http://arxiv.org/abs/2309.04037v1)|null|
 |**2023-09-07**|**Panoramas from Photons**|Sacha Jungerman et.al.|[2309.03811v1](http://arxiv.org/abs/2309.03811v1)|null|
@@ -228,7 +228,7 @@ layout: default
 |**2023-09-03**|**RSDiff: Remote Sensing Image Generation from Text Using Diffusion Model**|Ahmad Sebaq et.al.|[2309.02455v1](http://arxiv.org/abs/2309.02455v1)|null|
 |**2023-09-04**|**Direction-of-arrival estimation with conventional co-prime arrays using deep learning-based probablistic Bayesian neural networks**|Wael Elshennawy et.al.|[2309.01690v1](http://arxiv.org/abs/2309.01690v1)|null|
 |**2023-09-04**|**Building Footprint Extraction in Dense Areas using Super Resolution and Frame Field Learning**|Vuong Nguyen et.al.|[2309.01656v1](http://arxiv.org/abs/2309.01656v1)|null|
-|**2023-09-04**|**Implicit Neural Image Stitching With Enhanced and Blended Feature Reconstruction**|Minsu Kim et.al.|[2309.01409v2](http://arxiv.org/abs/2309.01409v2)|null|
+|**2023-09-04**|**Implicit Neural Image Stitching With Enhanced and Blended Feature Reconstruction**|Minsu Kim et.al.|[2309.01409v3](http://arxiv.org/abs/2309.01409v3)|null|
 |**2023-09-03**|**Deep Unfolding Convolutional Dictionary Model for Multi-Contrast MRI Super-resolution and Reconstruction**|Pengcheng Lei et.al.|[2309.01171v1](http://arxiv.org/abs/2309.01171v1)|null|
 |**2023-09-01**|**Robust Super-Resolution Imaging Based on a Ring Core Fiber with Orbital Angular Momentum**|Zheyu Wu et.al.|[2309.00371v1](http://arxiv.org/abs/2309.00371v1)|null|
 |**2023-08-30**|**Influence of adversarial training on super-resolution turbulence models**|Ludovico Nista et.al.|[2308.16015v2](http://arxiv.org/abs/2308.16015v2)|null|
