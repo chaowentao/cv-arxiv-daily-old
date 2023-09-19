@@ -1,4 +1,4 @@
-## Updated on 2023.09.18
+## Updated on 2023.09.19
 
 ## Image Generation
 
@@ -111,7 +111,7 @@
 |**2023-09-15**|**Compositional Foundation Models for Hierarchical Planning**|Anurag Ajay et.al.|[2309.08587v1](http://arxiv.org/abs/2309.08587v1)|null|
 |**2023-09-15**|**Norm Growth, Non-uniqueness, and Anomalous Dissipation in Passive Scalars**|Tarek M. Elgindi et.al.|[2309.08576v1](http://arxiv.org/abs/2309.08576v1)|null|
 |**2023-09-15**|**Denoising Diffusion Probabilistic Models for Hardware-Impaired Communications**|Mehdi Letafati et.al.|[2309.08568v1](http://arxiv.org/abs/2309.08568v1)|null|
-|**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523v1](http://arxiv.org/abs/2309.08523v1)|**[link](https://github.com/kongdai123/repainting_3d_assets)**|
+|**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523v1](http://arxiv.org/abs/2309.08523v1)|**[link](https://github.com/toshas/remesh_isotropic_planar)**|
 |**2023-09-15**|**Generalised Probabilistic Diffusion Scale-Spaces**|Pascal Peter et.al.|[2309.08511v1](http://arxiv.org/abs/2309.08511v1)|null|
 |**2023-09-15**|**Diffuse-illumination holographic optical coherence tomography**|Léo Puyo et.al.|[2309.08486v1](http://arxiv.org/abs/2309.08486v1)|null|
 |**2023-09-15**|**Isotropic active colloids: explicit vs. implicit descriptions of propulsion mechanisms**|Jeanne Decayeux et.al.|[2309.08455v1](http://arxiv.org/abs/2309.08455v1)|null|
@@ -142,11 +142,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-15**|**Replacing softmax with ReLU in Vision Transformers**|Mitchell Wortsman et.al.|[2309.08586v1](http://arxiv.org/abs/2309.08586v1)|null|
-|**2023-09-15**|**SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels**|Henry Hengyuan Zhao et.al.|[2309.08513v1](http://arxiv.org/abs/2309.08513v1)|**[link](https://github.com/zhaohengyuan1/sct)**|
+|**2023-09-15**|**SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels**|Henry Hengyuan Zhao et.al.|[2309.08513v2](http://arxiv.org/abs/2309.08513v2)|**[link](https://github.com/zhaohengyuan1/sct)**|
 |**2023-09-15**|**Cross-Modal Synthesis of Structural MRI and Functional Connectivity Networks via Conditional ViT-GANs**|Yuda Bi et.al.|[2309.08160v1](http://arxiv.org/abs/2309.08160v1)|null|
 |**2023-09-15**|**AnyOKP: One-Shot and Instance-Aware Object Keypoint Extraction with Pretrained ViT**|Fangbo Qin et.al.|[2309.08134v1](http://arxiv.org/abs/2309.08134v1)|null|
 |**2023-09-14**|**Interpretability-Aware Vision Transformer**|Yao Qiang et.al.|[2309.08035v1](http://arxiv.org/abs/2309.08035v1)|**[link](https://github.com/qiangyao1988/ia-vit)**|
-|**2023-09-13**|**Keep It SimPool: Who Said Supervised Transformers Suffer from Attention Deficit?**|Bill Psomas et.al.|[2309.06891v1](http://arxiv.org/abs/2309.06891v1)|null|
+|**2023-09-13**|**Keep It SimPool: Who Said Supervised Transformers Suffer from Attention Deficit?**|Bill Psomas et.al.|[2309.06891v1](http://arxiv.org/abs/2309.06891v1)|**[link](https://github.com/billpsomas/simpool)**|
 |**2023-09-12**|**Exploring Non-additive Randomness on ViT against Query-Based Black-Box Attacks**|Jindong Gu et.al.|[2309.06438v1](http://arxiv.org/abs/2309.06438v1)|null|
 |**2023-09-12**|**Jersey Number Recognition using Keyframe Identification from Low-Resolution Broadcast Videos**|Bavesh Balaji et.al.|[2309.06285v1](http://arxiv.org/abs/2309.06285v1)|null|
 |**2023-09-12**|**A 3M-Hybrid Model for the Restoration of Unique Giant Murals: A Case Study on the Murals of Yongle Palace**|Jing Yang et.al.|[2309.06194v1](http://arxiv.org/abs/2309.06194v1)|null|
@@ -211,8 +211,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-15**|**Head-Related Transfer Function Interpolation with a Spherical CNN**|Xingyu Chen et.al.|[2309.08290v1](http://arxiv.org/abs/2309.08290v1)|null|
-|**2023-09-15**|**MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**|Zhicun Yin et.al.|[2309.08113v1](http://arxiv.org/abs/2309.08113v1)|null|
+|**2023-09-15**|**Head-Related Transfer Function Interpolation with a Spherical CNN**|Xingyu Chen et.al.|[2309.08290v1](http://arxiv.org/abs/2309.08290v1)|**[link](https://github.com/xingyuaudio/HRTF-SCNN)**|
+|**2023-09-15**|**MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**|Zhicun Yin et.al.|[2309.08113v1](http://arxiv.org/abs/2309.08113v1)|**[link](https://github.com/yinzhicun/metaf2n)**|
 |**2023-09-14**|**Dual-angle interferometric scattering microscopy for optical multiparametric particle characterization**|Erik Olsén et.al.|[2309.07572v1](http://arxiv.org/abs/2309.07572v1)|null|
 |**2023-09-14**|**HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**|Yongyuan Li et.al.|[2309.07495v1](http://arxiv.org/abs/2309.07495v1)|**[link](https://github.com/yylgoodlucky/hdtr)**|
 |**2023-09-13**|**AudioSR: Versatile Audio Super-resolution at Scale**|Haohe Liu et.al.|[2309.07314v1](http://arxiv.org/abs/2309.07314v1)|null|
