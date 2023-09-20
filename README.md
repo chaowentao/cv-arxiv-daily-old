@@ -1,4 +1,4 @@
-## Updated on 2023.09.19
+## Updated on 2023.09.20
 
 ## Image Generation
 
@@ -113,7 +113,7 @@
 |**2023-09-18**|**DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving**|Xiaofeng Wang et.al.|[2309.09777v1](http://arxiv.org/abs/2309.09777v1)|null|
 |**2023-09-18**|**Application-driven Validation of Posteriors in Inverse Problems**|Tim J. Adler et.al.|[2309.09764v1](http://arxiv.org/abs/2309.09764v1)|null|
 |**2023-09-18**|**TeV gamma-ray sensitivity to velocity-dependent dark matter models in the Galactic Center**|Alessandro Montanari et.al.|[2309.09691v1](http://arxiv.org/abs/2309.09691v1)|null|
-|**2023-09-18**|**Non-Hermitian physics and topological phenomena in convective thermal metamaterials**|Zhoufei Liu et.al.|[2309.09681v1](http://arxiv.org/abs/2309.09681v1)|null|
+|**2023-09-18**|**Non-Hermitian physics and topological phenomena in convective thermal metamaterials**|Zhoufei Liu et.al.|[2309.09681v2](http://arxiv.org/abs/2309.09681v2)|null|
 |**2023-09-18**|**Single and Few-step Diffusion for Generative Speech Enhancement**|Bunlong Lay et.al.|[2309.09677v1](http://arxiv.org/abs/2309.09677v1)|null|
 |**2023-09-18**|**Anomalous Diffusion of Lithium-Anion Clusters in Ionic Liquids**|YeongKyu Lee et.al.|[2309.09674v1](http://arxiv.org/abs/2309.09674v1)|null|
 |**2023-09-18**|**High-order BDF convolution quadrature for fractional evolution equations with hyper-singular source term**|Jiankang Shi et.al.|[2309.09664v1](http://arxiv.org/abs/2309.09664v1)|null|
@@ -121,7 +121,7 @@
 |**2023-09-18**|**Speeding Up Speech Synthesis In Diffusion Models By Reducing Data Distribution Recovery Steps Via Content Transfer**|Peter Ochieng et.al.|[2309.09652v1](http://arxiv.org/abs/2309.09652v1)|null|
 |**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614v1](http://arxiv.org/abs/2309.09614v1)|null|
 |**2023-09-18**|**Causal-Story: Local Causal Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis**|Tianyi Song et.al.|[2309.09553v1](http://arxiv.org/abs/2309.09553v1)|null|
-|**2023-09-18**|**A performance characteristic curve for model evaluation: the application in information diffusion prediction**|Wenjin Xie et.al.|[2309.09537v1](http://arxiv.org/abs/2309.09537v1)|null|
+|**2023-09-18**|**A performance characteristic curve for model evaluation: the application in information diffusion prediction**|Wenjin Xie et.al.|[2309.09537v2](http://arxiv.org/abs/2309.09537v2)|null|
 |**2023-09-18**|**Anomalous transport of small polarons arises from transient lattice relaxation or immovable boundaries**|Srijan Bhattacharyya et.al.|[2309.09509v1](http://arxiv.org/abs/2309.09509v1)|null|
 |**2023-09-18**|**Progressive Text-to-Image Diffusion with Soft Latent Direction**|YuTeng Ye et.al.|[2309.09466v1](http://arxiv.org/abs/2309.09466v1)|**[link](https://github.com/babahui/progressive-text-to-image)**|
 |**2023-09-18**|**TransTouch: Learning Transparent Objects Depth Sensing Through Sparse Touches**|Liuyu Bian et.al.|[2309.09427v1](http://arxiv.org/abs/2309.09427v1)|null|
@@ -132,7 +132,7 @@
 |**2023-09-17**|**Creating Continuously Graded Microstructures with Electric Fields via Locally Altering Grain Boundary Complexions**|Qizhang Yan et.al.|[2309.09316v1](http://arxiv.org/abs/2309.09316v1)|null|
 |**2023-09-17**|**LivelySpeaker: Towards Semantic-Aware Co-Speech Gesture Generation**|Yihao Zhi et.al.|[2309.09294v1](http://arxiv.org/abs/2309.09294v1)|null|
 |**2023-09-17**|**PromptVC: Flexible Stylistic Voice Conversion in Latent Space Driven by Natural Language Prompts**|Jixun Yao et.al.|[2309.09262v1](http://arxiv.org/abs/2309.09262v1)|null|
-|**2023-09-17**|**LiDAR Data Synthesis with Denoising Diffusion Probabilistic Models**|Kazuto Nakashima et.al.|[2309.09256v1](http://arxiv.org/abs/2309.09256v1)|**[link](https://github.com/kazuto1011/r2dm)**|
+|**2023-09-17**|**LiDAR Data Synthesis with Denoising Diffusion Probabilistic Models**|Kazuto Nakashima et.al.|[2309.09256v1](http://arxiv.org/abs/2309.09256v1)|null|
 |**2023-09-17**|**Charge order above room-temperature in a prototypical kagome superconductor La(Ru$_{1-x}$Fe$_{x}$)$_{3}$Si$_{2}$**|I. Plokhikh et.al.|[2309.09255v1](http://arxiv.org/abs/2309.09255v1)|null|
 |**2023-09-17**|**Constraining baryon loading efficiency of AGNs with diffuse neutrino flux from galaxy clusters**|Xin-Yue Shi et.al.|[2309.09244v1](http://arxiv.org/abs/2309.09244v1)|null|
 |**2023-09-17**|**Energy-dependent flavour ratios in neutrino telescopes from charm**|Atri Bhattacharya et.al.|[2309.09139v1](http://arxiv.org/abs/2309.09139v1)|null|
@@ -145,7 +145,7 @@
 |**2023-09-18**|**Selective Volume Mixup for Video Action Recognition**|Yi Tan et.al.|[2309.09534v1](http://arxiv.org/abs/2309.09534v1)|null|
 |**2023-09-17**|**MVP: Meta Visual Prompt Tuning for Few-Shot Remote Sensing Image Scene Classification**|Junjie Zhu et.al.|[2309.09276v1](http://arxiv.org/abs/2309.09276v1)|null|
 |**2023-09-17**|**Image-level supervision and self-training for transformer-based cross-modality tumor segmentation**|Malo de Boisredon et.al.|[2309.09246v1](http://arxiv.org/abs/2309.09246v1)|null|
-|**2023-09-16**|**MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer**|Fudong Lin et.al.|[2309.09067v1](http://arxiv.org/abs/2309.09067v1)|**[link](https://github.com/fudong03/mmst-vit)**|
+|**2023-09-16**|**MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer**|Fudong Lin et.al.|[2309.09067v2](http://arxiv.org/abs/2309.09067v2)|**[link](https://github.com/fudong03/mmst-vit)**|
 |**2023-09-16**|**RingMo-lite: A Remote Sensing Multi-task Lightweight Network with CNN-Transformer Hybrid Framework**|Yuelei Wang et.al.|[2309.09003v1](http://arxiv.org/abs/2309.09003v1)|null|
 |**2023-09-15**|**Biased Attention: Do Vision Transformers Amplify Gender Bias More than Convolutional Neural Networks?**|Abhishek Mandal et.al.|[2309.08760v1](http://arxiv.org/abs/2309.08760v1)|**[link](https://github.com/aibhishek/Biased-Attention)**|
 |**2023-09-15**|**Replacing softmax with ReLU in Vision Transformers**|Mitchell Wortsman et.al.|[2309.08586v1](http://arxiv.org/abs/2309.08586v1)|null|
