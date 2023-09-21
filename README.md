@@ -1,4 +1,4 @@
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 
 ## Image Generation
 
@@ -146,7 +146,7 @@
 |**2023-09-19**|**Self-Supervised Super-Resolution Approach for Isotropic Reconstruction of 3D Electron Microscopy Images from Anisotropic Acquisition**|Mohammad Khateri et.al.|[2309.10646v1](http://arxiv.org/abs/2309.10646v1)|null|
 |**2023-09-19**|**Exploring the Influence of Information Entropy Change in Learning Systems**|Xiaowei Yu et.al.|[2309.10625v1](http://arxiv.org/abs/2309.10625v1)|null|
 |**2023-09-19**|**LineMarkNet: Line Landmark Detection for Valet Parking**|Zizhang Wu et.al.|[2309.10475v1](http://arxiv.org/abs/2309.10475v1)|null|
-|**2023-09-18**|**TransientViT: A novel CNN - Vision Transformer hybrid real/bogus transient classifier for the Kilodegree Automatic Transient Survey**|Zhuoyang Chen et.al.|[2309.09937v1](http://arxiv.org/abs/2309.09937v1)|null|
+|**2023-09-18**|**TransientViT: A novel CNN - Vision Transformer hybrid real/bogus transient classifier for the Kilodegree Automatic Transient Survey**|Zhuoyang Chen et.al.|[2309.09937v1](http://arxiv.org/abs/2309.09937v1)|**[link](https://github.com/timedevblocker/transientvit)**|
 |**2023-09-18**|**Selective Volume Mixup for Video Action Recognition**|Yi Tan et.al.|[2309.09534v1](http://arxiv.org/abs/2309.09534v1)|null|
 |**2023-09-17**|**MVP: Meta Visual Prompt Tuning for Few-Shot Remote Sensing Image Scene Classification**|Junjie Zhu et.al.|[2309.09276v1](http://arxiv.org/abs/2309.09276v1)|null|
 |**2023-09-17**|**Image-level supervision and self-training for transformer-based cross-modality tumor segmentation**|Malo de Boisredon et.al.|[2309.09246v1](http://arxiv.org/abs/2309.09246v1)|null|
@@ -154,7 +154,7 @@
 |**2023-09-16**|**RingMo-lite: A Remote Sensing Multi-task Lightweight Network with CNN-Transformer Hybrid Framework**|Yuelei Wang et.al.|[2309.09003v1](http://arxiv.org/abs/2309.09003v1)|null|
 |**2023-09-15**|**Biased Attention: Do Vision Transformers Amplify Gender Bias More than Convolutional Neural Networks?**|Abhishek Mandal et.al.|[2309.08760v1](http://arxiv.org/abs/2309.08760v1)|**[link](https://github.com/aibhishek/Biased-Attention)**|
 |**2023-09-15**|**Replacing softmax with ReLU in Vision Transformers**|Mitchell Wortsman et.al.|[2309.08586v1](http://arxiv.org/abs/2309.08586v1)|null|
-|**2023-09-15**|**SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels**|Henry Hengyuan Zhao et.al.|[2309.08513v2](http://arxiv.org/abs/2309.08513v2)|**[link](https://github.com/zhaohengyuan1/sct)**|
+|**2023-09-15**|**SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels**|Henry Hengyuan Zhao et.al.|[2309.08513v2](http://arxiv.org/abs/2309.08513v2)|**[link](https://github.com/showlab/sct)**|
 |**2023-09-15**|**Cross-Modal Synthesis of Structural MRI and Functional Connectivity Networks via Conditional ViT-GANs**|Yuda Bi et.al.|[2309.08160v1](http://arxiv.org/abs/2309.08160v1)|null|
 |**2023-09-15**|**AnyOKP: One-Shot and Instance-Aware Object Keypoint Extraction with Pretrained ViT**|Fangbo Qin et.al.|[2309.08134v1](http://arxiv.org/abs/2309.08134v1)|null|
 |**2023-09-14**|**Interpretability-Aware Vision Transformer**|Yao Qiang et.al.|[2309.08035v1](http://arxiv.org/abs/2309.08035v1)|**[link](https://github.com/qiangyao1988/ia-vit)**|
@@ -211,12 +211,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-19**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808v1](http://arxiv.org/abs/2309.10808v1)|null|
+|**2023-09-19**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808v2](http://arxiv.org/abs/2309.10808v2)|null|
 |**2023-09-19**|**Self-Supervised Super-Resolution Approach for Isotropic Reconstruction of 3D Electron Microscopy Images from Anisotropic Acquisition**|Mohammad Khateri et.al.|[2309.10646v1](http://arxiv.org/abs/2309.10646v1)|null|
-|**2023-09-18**|**Machine Learning for enhancing Wind Field Resolution in Complex Terrain**|Jacob Wulff Wold et.al.|[2309.10172v1](http://arxiv.org/abs/2309.10172v1)|null|
+|**2023-09-18**|**Machine Learning for enhancing Wind Field Resolution in Complex Terrain**|Jacob Wulff Wold et.al.|[2309.10172v1](http://arxiv.org/abs/2309.10172v1)|**[link](https://github.com/jacobwulffwold/gan_sr_wind_field)**|
 |**2023-09-18**|**Morphological evidence for nanoflares heating warm loops in the solar corona**|Y. Bi et.al.|[2309.10049v1](http://arxiv.org/abs/2309.10049v1)|null|
 |**2023-09-18**|**Instant Photorealistic Style Transfer: A Lightweight and Adaptive Approach**|Rong Liu et.al.|[2309.10011v1](http://arxiv.org/abs/2309.10011v1)|null|
-|**2023-09-17**|**Frequency Estimation Using Complex-Valued Shifted Window Transformer**|Josiah W. Smith et.al.|[2309.09352v1](http://arxiv.org/abs/2309.09352v1)|null|
+|**2023-09-17**|**Frequency Estimation Using Complex-Valued Shifted Window Transformer**|Josiah W. Smith et.al.|[2309.09352v1](http://arxiv.org/abs/2309.09352v1)|**[link](https://github.com/josiahwsmith10/spectral-super-resolution-swin)**|
 |**2023-09-16**|**Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution**|Wenyu Zhang et.al.|[2309.08919v1](http://arxiv.org/abs/2309.08919v1)|**[link](https://github.com/wenyu1009/rtsrn)**|
 |**2023-09-16**|**Emerging Approaches for THz Array Imaging: A Tutorial Review and Software Tool**|Josiah W. Smith et.al.|[2309.08844v1](http://arxiv.org/abs/2309.08844v1)|null|
 |**2023-09-15**|**Head-Related Transfer Function Interpolation with a Spherical CNN**|Xingyu Chen et.al.|[2309.08290v1](http://arxiv.org/abs/2309.08290v1)|**[link](https://github.com/xingyuaudio/HRTF-SCNN)**|
@@ -271,7 +271,7 @@
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774v1](http://arxiv.org/abs/2308.11774v1)|null|
 |**2023-08-21**|**A step towards understanding why classification helps regression**|Silvia L. Pintea et.al.|[2308.10603v1](http://arxiv.org/abs/2308.10603v1)|null|
 |**2023-08-21**|**RT-MonoDepth: Real-time Monocular Depth Estimation on Embedded Systems**|Cheng Feng et.al.|[2308.10569v1](http://arxiv.org/abs/2308.10569v1)|null|
-|**2023-08-21**|**LightDepth: Single-View Depth Self-Supervision from Illumination Decline**|Javier Rodríguez-Puigvert et.al.|[2308.10525v1](http://arxiv.org/abs/2308.10525v1)|null|
+|**2023-08-21**|**LightDepth: Single-View Depth Self-Supervision from Illumination Decline**|Javier Rodríguez-Puigvert et.al.|[2308.10525v2](http://arxiv.org/abs/2308.10525v2)|null|
 |**2023-08-19**|**AltNeRF: Learning Robust Neural Radiance Field via Alternating Depth-Pose Optimization**|Kun Wang et.al.|[2308.10001v1](http://arxiv.org/abs/2308.10001v1)|null|
 |**2023-08-19**|**TSAR-MVS: Textureless-aware Segmentation and Correlative Refinement Guided Multi-View Stereo**|Zhenlong Yuan et.al.|[2308.09990v1](http://arxiv.org/abs/2308.09990v1)|null|
 |**2023-08-18**|**Robust Monocular Depth Estimation under Challenging Conditions**|Stefano Gasperini et.al.|[2308.09711v1](http://arxiv.org/abs/2308.09711v1)|null|
