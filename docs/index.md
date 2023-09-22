@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.21
+## Updated on 2023.09.22
 
 ## Image Generation
 
@@ -10,10 +10,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-20**|**Language-Oriented Communication with Semantic Coding and Knowledge Distillation for Text-to-Image Generation**|Hyelin Nam et.al.|[2309.11127v1](http://arxiv.org/abs/2309.11127v1)|null|
 |**2023-09-19**|**Forgedit: Text Guided Image Editing via Learning and Forgetting**|Shiwen Zhang et.al.|[2309.10556v1](http://arxiv.org/abs/2309.10556v1)|**[link](https://github.com/witcherofresearch/forgedit)**|
-|**2023-09-19**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2309.10505v1](http://arxiv.org/abs/2309.10505v1)|null|
+|**2023-09-19**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2309.10505v2](http://arxiv.org/abs/2309.10505v2)|null|
 |**2023-09-19**|**AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration**|Lijiang Li et.al.|[2309.10438v1](http://arxiv.org/abs/2309.10438v1)|null|
 |**2023-09-19**|**Language Guided Adversarial Purification**|Himanshu Singh et.al.|[2309.10348v1](http://arxiv.org/abs/2309.10348v1)|null|
-|**2023-09-18**|**Multimodal Foundation Models: From Specialists to General-Purpose Assistants**|Chunyuan Li et.al.|[2309.10020v1](http://arxiv.org/abs/2309.10020v1)|null|
+|**2023-09-18**|**Multimodal Foundation Models: From Specialists to General-Purpose Assistants**|Chunyuan Li et.al.|[2309.10020v1](http://arxiv.org/abs/2309.10020v1)|**[link](https://github.com/computer-vision-in-the-wild/cvinw_readings)**|
 |**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614v1](http://arxiv.org/abs/2309.09614v1)|null|
 |**2023-09-18**|**DFIL: Deepfake Incremental Learning by Exploiting Domain-invariant Forgery Clues**|Kun Pan et.al.|[2309.09526v1](http://arxiv.org/abs/2309.09526v1)|**[link](https://github.com/deepfakeil/dfil)**|
 |**2023-09-18**|**Progressive Text-to-Image Diffusion with Soft Latent Direction**|YuTeng Ye et.al.|[2309.09466v1](http://arxiv.org/abs/2309.09466v1)|**[link](https://github.com/babahui/progressive-text-to-image)**|
@@ -117,10 +117,10 @@ layout: default
 |**2023-09-20**|**Deep Networks as Denoising Algorithms: Sample-Efficient Learning of Diffusion Models in High-Dimensional Graphical Models**|Song Mei et.al.|[2309.11420v1](http://arxiv.org/abs/2309.11420v1)|null|
 |**2023-09-20**|**EDMP: Ensemble-of-costs-guided Diffusion for Motion Planning**|Kallol Saha et.al.|[2309.11414v1](http://arxiv.org/abs/2309.11414v1)|null|
 |**2023-09-20**|**Mesoscale modeling of deformations and defects in crystalline sheets**|Lucas Benoit--Maréchal et.al.|[2309.11371v1](http://arxiv.org/abs/2309.11371v1)|null|
-|**2023-09-20**|**Face Aging via Diffusion-based Editing**|Xiangyi Chen et.al.|[2309.11321v1](http://arxiv.org/abs/2309.11321v1)|null|
+|**2023-09-20**|**Face Aging via Diffusion-based Editing**|Xiangyi Chen et.al.|[2309.11321v1](http://arxiv.org/abs/2309.11321v1)|**[link](https://github.com/MunchkinChen/FADING)**|
 |**2023-09-20**|**Social interactions for a sustainable lifestyle: The design of an experimental case study**|Angela Fontan et.al.|[2309.11310v1](http://arxiv.org/abs/2309.11310v1)|null|
-|**2023-09-20**|**FaceDiffuser: Speech-Driven 3D Facial Animation Synthesis Using Diffusion**|Stefan Stan et.al.|[2309.11306v1](http://arxiv.org/abs/2309.11306v1)|null|
-|**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281v1](http://arxiv.org/abs/2309.11281v1)|null|
+|**2023-09-20**|**FaceDiffuser: Speech-Driven 3D Facial Animation Synthesis Using Diffusion**|Stefan Stan et.al.|[2309.11306v1](http://arxiv.org/abs/2309.11306v1)|**[link](https://github.com/uuembodiedsocialai/FaceDiffuser)**|
+|**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281v1](http://arxiv.org/abs/2309.11281v1)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
 |**2023-09-20**|**TwinTex: Geometry-aware Texture Generation for Abstracted 3D Architectural Models**|Weidan Xiong et.al.|[2309.11258v1](http://arxiv.org/abs/2309.11258v1)|null|
 |**2023-09-20**|**Investigating Personalization Methods in Text to Music Generation**|Manos Plitsis et.al.|[2309.11140v1](http://arxiv.org/abs/2309.11140v1)|null|
 |**2023-09-20**|**X-ray - cosmic shear cross-correlations: first detection and constraints on baryonic effects**|Tassia Ferreira et.al.|[2309.11129v1](http://arxiv.org/abs/2309.11129v1)|null|
@@ -180,7 +180,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-20**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009v1](http://arxiv.org/abs/2309.11009v1)|null|
+|**2023-09-20**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009v2](http://arxiv.org/abs/2309.11009v2)|null|
 |**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987v1](http://arxiv.org/abs/2309.10987v1)|null|
 |**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684v1](http://arxiv.org/abs/2309.10684v1)|null|
 |**2023-09-19**|**Steganography for Neural Radiance Fields by Backdooring**|Weina Dong et.al.|[2309.10503v1](http://arxiv.org/abs/2309.10503v1)|null|
@@ -250,7 +250,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-20**|**BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird's Eye View Map Construction**|Minsu Kim et.al.|[2309.11119v1](http://arxiv.org/abs/2309.11119v1)|null|
+|**2023-09-20**|**BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird's Eye View Map Construction**|Minsu Kim et.al.|[2309.11119v2](http://arxiv.org/abs/2309.11119v2)|null|
 |**2023-09-20**|**Dense 2D-3D Indoor Prediction with Sound via Aligned Cross-Modal Distillation**|Heeseung Yun et.al.|[2309.11081v1](http://arxiv.org/abs/2309.11081v1)|null|
 |**2023-09-19**|**NDDepth: Normal-Distance Assisted Monocular Depth Estimation**|Shuwei Shao et.al.|[2309.10592v1](http://arxiv.org/abs/2309.10592v1)|null|
 |**2023-09-18**|**GEDepth: Ground Embedding for Monocular Depth Estimation**|Xiaodong Yang et.al.|[2309.09975v1](http://arxiv.org/abs/2309.09975v1)|**[link](https://github.com/qcraftai/gedepth)**|
@@ -285,11 +285,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-20**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009v1](http://arxiv.org/abs/2309.11009v1)|null|
+|**2023-09-20**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009v2](http://arxiv.org/abs/2309.11009v2)|null|
 |**2023-09-19**|**ReShader: View-Dependent Highlights for Single Image View-Synthesis**|Avinash Paliwal et.al.|[2309.10689v1](http://arxiv.org/abs/2309.10689v1)|null|
 |**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684v1](http://arxiv.org/abs/2309.10684v1)|null|
 |**2023-09-19**|**Anti-Aliased Neural Implicit Surfaces with Encoding Level of Detail**|Yiyu Zhuang et.al.|[2309.10336v1](http://arxiv.org/abs/2309.10336v1)|null|
-|**2023-09-16**|**ExBluRF: Efficient Radiance Fields for Extreme Motion Blurred Images**|Dongwoo Lee et.al.|[2309.08957v1](http://arxiv.org/abs/2309.08957v1)|null|
+|**2023-09-16**|**ExBluRF: Efficient Radiance Fields for Extreme Motion Blurred Images**|Dongwoo Lee et.al.|[2309.08957v2](http://arxiv.org/abs/2309.08957v2)|null|
 |**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927v1](http://arxiv.org/abs/2309.08927v1)|null|
 |**2023-09-14**|**Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models**|James Burgess et.al.|[2309.07986v1](http://arxiv.org/abs/2309.07986v1)|null|
 |**2023-09-14**|**CoRF : Colorizing Radiance Fields using Knowledge Distillation**|Ankit Dhiman et.al.|[2309.07668v1](http://arxiv.org/abs/2309.07668v1)|null|
