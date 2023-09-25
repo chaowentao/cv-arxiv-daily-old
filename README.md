@@ -1,4 +1,4 @@
-## Updated on 2023.09.24
+## Updated on 2023.09.25
 
 ## Image Generation
 
@@ -113,7 +113,7 @@
 |**2023-09-21**|**Wavelet-based Edge Multiscale Finite Element Methods for Singularly Perturbed Convection-Diffusion Equations**|Shubin Fu et.al.|[2309.12108v1](http://arxiv.org/abs/2309.12108v1)|null|
 |**2023-09-21**|**The Imaging X-ray Polarimetry Explorer (IXPE): Prospects for Spatially-Resolved X-ray Polarimetry of Extended Sources and In-Orbit Calibrations**|Riccardo Ferrazzoli et.al.|[2309.12026v1](http://arxiv.org/abs/2309.12026v1)|null|
 |**2023-09-21**|**Singular Control in a Cash Management Model with Ambiguity**|Arnon Archankul et.al.|[2309.12014v1](http://arxiv.org/abs/2309.12014v1)|null|
-|**2023-09-21**|**Thermal tides in neutrally stratified atmospheres: Revisiting the Earth's Precambrian rotational equilibrium**|Mohammad Farhat et.al.|[2309.11946v1](http://arxiv.org/abs/2309.11946v1)|null|
+|**2023-09-21**|**Thermal tides in neutrally stratified atmospheres: Revisiting the Earth's Precambrian rotational equilibrium**|Mohammad Farhat et.al.|[2309.11946v2](http://arxiv.org/abs/2309.11946v2)|null|
 |**2023-09-21**|**Tuning brittleness in multi-component metallic glasses through chemical disorder aging**|Kamran Karimi et.al.|[2309.11867v1](http://arxiv.org/abs/2309.11867v1)|null|
 |**2023-09-21**|**Stellar model calibrations with the Ai Phe binary system. Open questions about the robustness of the fit**|G. Valle et.al.|[2309.11837v1](http://arxiv.org/abs/2309.11837v1)|null|
 |**2023-09-21**|**WALLABY Pre-Pilot Survey: Ultra-Diffuse Galaxies in the Eridanus Supergroup**|B. -Q. For et.al.|[2309.11799v1](http://arxiv.org/abs/2309.11799v1)|null|
