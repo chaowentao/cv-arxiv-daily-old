@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.25
+## Updated on 2023.09.26
 
 ## Image Generation
 
@@ -11,12 +11,12 @@ layout: default
 |**2023-09-21**|**POLAR3D: Augmenting NASA's POLAR Dataset for Data-Driven Lunar Perception and Rover Simulation**|Bo-Hsun Chen et.al.|[2309.12397v1](http://arxiv.org/abs/2309.12397v1)|null|
 |**2023-09-21**|**TextCLIP: Text-Guided Face Image Generation And Manipulation Without Adversarial Training**|Xiaozhou You et.al.|[2309.11923v1](http://arxiv.org/abs/2309.11923v1)|null|
 |**2023-09-21**|**PIE: Simulating Disease Progression via Progressive Image Editing**|Kaizhao Liang et.al.|[2309.11745v1](http://arxiv.org/abs/2309.11745v1)|null|
-|**2023-09-20**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601v1](http://arxiv.org/abs/2309.11601v1)|null|
+|**2023-09-20**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601v2](http://arxiv.org/abs/2309.11601v2)|null|
 |**2023-09-20**|**Distilling Adversarial Prompts from Safety Benchmarks: Report for the Adversarial Nibbler Challenge**|Manuel Brack et.al.|[2309.11575v1](http://arxiv.org/abs/2309.11575v1)|null|
 |**2023-09-20**|**Language-Oriented Communication with Semantic Coding and Knowledge Distillation for Text-to-Image Generation**|Hyelin Nam et.al.|[2309.11127v1](http://arxiv.org/abs/2309.11127v1)|null|
 |**2023-09-19**|**Forgedit: Text Guided Image Editing via Learning and Forgetting**|Shiwen Zhang et.al.|[2309.10556v1](http://arxiv.org/abs/2309.10556v1)|**[link](https://github.com/witcherofresearch/forgedit)**|
 |**2023-09-19**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2309.10505v2](http://arxiv.org/abs/2309.10505v2)|null|
-|**2023-09-19**|**AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration**|Lijiang Li et.al.|[2309.10438v1](http://arxiv.org/abs/2309.10438v1)|null|
+|**2023-09-19**|**AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration**|Lijiang Li et.al.|[2309.10438v2](http://arxiv.org/abs/2309.10438v2)|null|
 |**2023-09-19**|**Language Guided Adversarial Purification**|Himanshu Singh et.al.|[2309.10348v1](http://arxiv.org/abs/2309.10348v1)|null|
 |**2023-09-18**|**Multimodal Foundation Models: From Specialists to General-Purpose Assistants**|Chunyuan Li et.al.|[2309.10020v1](http://arxiv.org/abs/2309.10020v1)|**[link](https://github.com/computer-vision-in-the-wild/cvinw_readings)**|
 |**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614v1](http://arxiv.org/abs/2309.09614v1)|null|
@@ -136,7 +136,7 @@ layout: default
 |**2023-09-21**|**Dependence of Solar supergranular lifetime on surface magnetic activity and rotation**|Sowmya G. M. et.al.|[2309.11787v1](http://arxiv.org/abs/2309.11787v1)|null|
 |**2023-09-21**|**PIE: Simulating Disease Progression via Progressive Image Editing**|Kaizhao Liang et.al.|[2309.11745v1](http://arxiv.org/abs/2309.11745v1)|null|
 |**2023-09-21**|**Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal**|Xiao Feng Zhang et.al.|[2309.11715v1](http://arxiv.org/abs/2309.11715v1)|null|
-|**2023-09-20**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601v1](http://arxiv.org/abs/2309.11601v1)|null|
+|**2023-09-20**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601v2](http://arxiv.org/abs/2309.11601v2)|null|
 |**2023-09-20**|**Rapid Changes in Synchronizability in Conductance-based Neuronal Networks with Conductance-based Coupling**|Wilten Nicola et.al.|[2309.11586v1](http://arxiv.org/abs/2309.11586v1)|null|
 |**2023-09-20**|**Segregation on small rubble bodies due to impact-induced seismic shaking**|Sohanjit Ghosh et.al.|[2309.11577v1](http://arxiv.org/abs/2309.11577v1)|null|
 |**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497v1](http://arxiv.org/abs/2309.11497v1)|null|
@@ -159,7 +159,7 @@ layout: default
 |**2023-09-19**|**Latent Space Energy-based Model for Fine-grained Open Set Recognition**|Wentao Bao et.al.|[2309.10711v1](http://arxiv.org/abs/2309.10711v1)|null|
 |**2023-09-19**|**Self-Supervised Super-Resolution Approach for Isotropic Reconstruction of 3D Electron Microscopy Images from Anisotropic Acquisition**|Mohammad Khateri et.al.|[2309.10646v1](http://arxiv.org/abs/2309.10646v1)|null|
 |**2023-09-19**|**Exploring the Influence of Information Entropy Change in Learning Systems**|Xiaowei Yu et.al.|[2309.10625v1](http://arxiv.org/abs/2309.10625v1)|null|
-|**2023-09-19**|**LineMarkNet: Line Landmark Detection for Valet Parking**|Zizhang Wu et.al.|[2309.10475v1](http://arxiv.org/abs/2309.10475v1)|null|
+|**2023-09-19**|**LineMarkNet: Line Landmark Detection for Valet Parking**|Zizhang Wu et.al.|[2309.10475v2](http://arxiv.org/abs/2309.10475v2)|null|
 |**2023-09-18**|**TransientViT: A novel CNN - Vision Transformer hybrid real/bogus transient classifier for the Kilodegree Automatic Transient Survey**|Zhuoyang Chen et.al.|[2309.09937v1](http://arxiv.org/abs/2309.09937v1)|**[link](https://github.com/timedevblocker/transientvit)**|
 |**2023-09-18**|**Selective Volume Mixup for Video Action Recognition**|Yi Tan et.al.|[2309.09534v1](http://arxiv.org/abs/2309.09534v1)|null|
 |**2023-09-17**|**MVP: Meta Visual Prompt Tuning for Few-Shot Remote Sensing Image Scene Classification**|Junjie Zhu et.al.|[2309.09276v1](http://arxiv.org/abs/2309.09276v1)|null|
@@ -252,13 +252,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-22**|**SRFNet: Monocular Depth Estimation with Fine-grained Structure via Spatial Reliability-oriented Fusion of Frames and Events**|Tianbo Pan et.al.|[2309.12842v1](http://arxiv.org/abs/2309.12842v1)|null|
 |**2023-09-21**|**SANPO: A Scene Understanding, Accessibility, Navigation, Pathfinding, Obstacle Avoidance Dataset**|Sagar M. Waghmare et.al.|[2309.12172v1](http://arxiv.org/abs/2309.12172v1)|null|
-|**2023-09-20**|**BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird's Eye View Map Construction**|Minsu Kim et.al.|[2309.11119v2](http://arxiv.org/abs/2309.11119v2)|null|
-|**2023-09-20**|**Dense 2D-3D Indoor Prediction with Sound via Aligned Cross-Modal Distillation**|Heeseung Yun et.al.|[2309.11081v1](http://arxiv.org/abs/2309.11081v1)|null|
-|**2023-09-19**|**NDDepth: Normal-Distance Assisted Monocular Depth Estimation**|Shuwei Shao et.al.|[2309.10592v1](http://arxiv.org/abs/2309.10592v1)|null|
+|**2023-09-20**|**BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird's Eye View Map Construction**|Minsu Kim et.al.|[2309.11119v3](http://arxiv.org/abs/2309.11119v3)|null|
+|**2023-09-20**|**Dense 2D-3D Indoor Prediction with Sound via Aligned Cross-Modal Distillation**|Heeseung Yun et.al.|[2309.11081v1](http://arxiv.org/abs/2309.11081v1)|**[link](https://github.com/hs-yn/daps)**|
+|**2023-09-19**|**NDDepth: Normal-Distance Assisted Monocular Depth Estimation**|Shuwei Shao et.al.|[2309.10592v2](http://arxiv.org/abs/2309.10592v2)|null|
 |**2023-09-18**|**GEDepth: Ground Embedding for Monocular Depth Estimation**|Xiaodong Yang et.al.|[2309.09975v1](http://arxiv.org/abs/2309.09975v1)|**[link](https://github.com/qcraftai/gedepth)**|
 |**2023-09-18**|**Robust Geometry-Preserving Depth Estimation Using Differentiable Rendering**|Chi Zhang et.al.|[2309.09724v1](http://arxiv.org/abs/2309.09724v1)|null|
 |**2023-09-17**|**Deep Neighbor Layer Aggregation for Lightweight Self-Supervised Monocular Depth Estimation**|Boya Wang et.al.|[2309.09272v1](http://arxiv.org/abs/2309.09272v1)|null|
-|**2023-09-15**|**X-PDNet: Accurate Joint Plane Instance Segmentation and Monocular Depth Estimation with Cross-Task Distillation and Boundary Correction**|Duc Cao Dinh et.al.|[2309.08424v1](http://arxiv.org/abs/2309.08424v1)|**[link](https://github.com/caodinhduc/x-pdnet-official)**|
+|**2023-09-15**|**X-PDNet: Accurate Joint Plane Instance Segmentation and Monocular Depth Estimation with Cross-Task Distillation and Boundary Correction**|Cao Dinh Duc et.al.|[2309.08424v2](http://arxiv.org/abs/2309.08424v2)|**[link](https://github.com/caodinhduc/x-pdnet-official)**|
 |**2023-09-14**|**Depth Estimation from a Single Optical Encoded Image using a Learned Colored-Coded Aperture**|Jhon Lopez et.al.|[2309.08033v1](http://arxiv.org/abs/2309.08033v1)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408v1](http://arxiv.org/abs/2309.07408v1)|null|
 |**2023-09-12**|**AmodalSynthDrive: A Synthetic Amodal Perception Dataset for Autonomous Driving**|Ahmed Rida Sekkat et.al.|[2309.06547v1](http://arxiv.org/abs/2309.06547v1)|null|
