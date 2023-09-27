@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.26
+## Updated on 2023.09.27
 
 ## Image Generation
 
@@ -127,13 +127,13 @@ layout: default
 |**2023-09-25**|**Diffusion metamaterials for plasma transport**|Fubao Yang et.al.|[2309.13875v1](http://arxiv.org/abs/2309.13875v1)|null|
 |**2023-09-25**|**Diffusion Conditional Expectation Model for Efficient and Robust Target Speech Extraction**|Leying Zhang et.al.|[2309.13874v1](http://arxiv.org/abs/2309.13874v1)|null|
 |**2023-09-25**|**Fuzzy Hunter Optimizer: An Bio-Metaheuristic Algorithm Inspired by Lévy Walks**|Matías Ezequiel Hernández Rodríguez et.al.|[2309.13829v1](http://arxiv.org/abs/2309.13829v1)|null|
-|**2023-09-25**|**Observing parity-time symmetry in diffusive systems**|Pei-Chao Cao et.al.|[2309.13818v1](http://arxiv.org/abs/2309.13818v1)|null|
+|**2023-09-25**|**Observing parity-time symmetry in diffusive systems**|Pei-Chao Cao et.al.|[2309.13818v2](http://arxiv.org/abs/2309.13818v2)|null|
 |**2023-09-25**|**From non-local to local Navier-Stokes equations**|Oscar Jarrin et.al.|[2309.13784v1](http://arxiv.org/abs/2309.13784v1)|null|
 |**2023-09-24**|**MOSAIC: Multi-Object Segmented Arbitrary Stylization Using CLIP**|Prajwal Ganugula et.al.|[2309.13716v1](http://arxiv.org/abs/2309.13716v1)|null|
 |**2023-09-24**|**Beginner's guide to Aggregation-Diffusion Equations**|David Gómez-Castro et.al.|[2309.13713v1](http://arxiv.org/abs/2309.13713v1)|null|
 |**2023-09-24**|**Inflection Phenomenon in Cryogenic MOSFET Behavior**|Arnout Beckers et.al.|[2309.13667v1](http://arxiv.org/abs/2309.13667v1)|null|
 |**2023-09-24**|**VoiceLDM: Text-to-Speech with Environmental Context**|Yeonghyeon Lee et.al.|[2309.13664v1](http://arxiv.org/abs/2309.13664v1)|null|
-|**2023-09-24**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v1](http://arxiv.org/abs/2309.13655v1)|**[link](https://github.com/naagar/art_restoration_dm)**|
+|**2023-09-24**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v2](http://arxiv.org/abs/2309.13655v2)|**[link](https://github.com/naagar/art_restoration_dm)**|
 |**2023-09-24**|**Bayesian Parameter Inference for Partially Observed Diffusions using Multilevel Stochastic Runge-Kutta Methods**|Pierre Del Moral et.al.|[2309.13557v1](http://arxiv.org/abs/2309.13557v1)|null|
 |**2023-09-24**|**Time-resolved laser speckle contrast imaging (TR-LSCI) of cerebral blood flow**|Faraneh Fathi et.al.|[2309.13527v1](http://arxiv.org/abs/2309.13527v1)|null|
 |**2023-09-23**|**Gaining Insights into Denoising by Inpainting**|Daniel Gaa et.al.|[2309.13486v1](http://arxiv.org/abs/2309.13486v1)|null|
@@ -149,10 +149,10 @@ layout: default
 |**2023-09-25**|**PARTICLE: Part Discovery and Contrastive Learning for Fine-grained Recognition**|Oindrila Saha et.al.|[2309.13822v1](http://arxiv.org/abs/2309.13822v1)|null|
 |**2023-09-24**|**MOSAIC: Multi-Object Segmented Arbitrary Stylization Using CLIP**|Prajwal Ganugula et.al.|[2309.13716v1](http://arxiv.org/abs/2309.13716v1)|null|
 |**2023-09-24**|**Multi-Dimensional Hyena for Spatial Inductive Bias**|Itamar Zimerman et.al.|[2309.13600v1](http://arxiv.org/abs/2309.13600v1)|null|
-|**2023-09-24**|**Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction**|Zechuan Zhang et.al.|[2309.13524v1](http://arxiv.org/abs/2309.13524v1)|null|
+|**2023-09-24**|**Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction**|Zechuan Zhang et.al.|[2309.13524v2](http://arxiv.org/abs/2309.13524v2)|null|
 |**2023-09-23**|**Beyond Grids: Exploring Elastic Input Sampling for Vision Transformers**|Adam Pardyl et.al.|[2309.13353v1](http://arxiv.org/abs/2309.13353v1)|null|
 |**2023-09-23**|**RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias**|Hao Cheng et.al.|[2309.13245v1](http://arxiv.org/abs/2309.13245v1)|null|
-|**2023-09-22**|**BayesDLL: Bayesian Deep Learning Library**|Minyoung Kim et.al.|[2309.12928v1](http://arxiv.org/abs/2309.12928v1)|**[link](https://github.com/minyoungkim21/bayesdll)**|
+|**2023-09-22**|**BayesDLL: Bayesian Deep Learning Library**|Minyoung Kim et.al.|[2309.12928v1](http://arxiv.org/abs/2309.12928v1)|**[link](https://github.com/samsunglabs/bayesdll)**|
 |**2023-09-22**|**Associative Transformer Is A Sparse Representation Learner**|Yuwei Sun et.al.|[2309.12862v1](http://arxiv.org/abs/2309.12862v1)|null|
 |**2023-09-22**|**Masking Improves Contrastive Self-Supervised Learning for ConvNets, and Saliency Tells You Where**|Zhi-Yi Chin et.al.|[2309.12757v1](http://arxiv.org/abs/2309.12757v1)|null|
 |**2023-09-22**|**Vision Transformers for Computer Go**|Amani Sagri et.al.|[2309.12675v1](http://arxiv.org/abs/2309.12675v1)|null|
@@ -191,7 +191,7 @@ layout: default
 |**2023-09-21**|**MarkNerf:Watermarking for Neural Radiance Field**|Lifeng Chen et.al.|[2309.11747v1](http://arxiv.org/abs/2309.11747v1)|null|
 |**2023-09-21**|**Rendering stable features improves sampling-based localisation with Neural radiance fields**|Boxuan Zhang et.al.|[2309.11698v1](http://arxiv.org/abs/2309.11698v1)|null|
 |**2023-09-20**|**GenLayNeRF: Generalizable Layered Representations with 3D Model Alignment for Multi-Human View Synthesis**|Youssef Abdelkareem et.al.|[2309.11627v1](http://arxiv.org/abs/2309.11627v1)|null|
-|**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525v1](http://arxiv.org/abs/2309.11525v1)|null|
+|**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525v2](http://arxiv.org/abs/2309.11525v2)|null|
 |**2023-09-20**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009v2](http://arxiv.org/abs/2309.11009v2)|null|
 |**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987v1](http://arxiv.org/abs/2309.10987v1)|null|
 |**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684v1](http://arxiv.org/abs/2309.10684v1)|null|
@@ -217,8 +217,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-25**|**Data Upcycling Knowledge Distillation for Image Super-Resolution**|Yun Zhang et.al.|[2309.14162v1](http://arxiv.org/abs/2309.14162v1)|null|
 |**2023-09-25**|**A Lightweight Recurrent Grouping Attention Network for Video Super-Resolution**|Yonggui Zhu et.al.|[2309.13940v1](http://arxiv.org/abs/2309.13940v1)|**[link](https://github.com/karlygzhu/rgan)**|
-|**2023-09-24**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v1](http://arxiv.org/abs/2309.13655v1)|**[link](https://github.com/naagar/art_restoration_dm)**|
-|**2023-09-23**|**Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data**|Wai Tong Chung et.al.|[2309.13457v1](http://arxiv.org/abs/2309.13457v1)|null|
+|**2023-09-24**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v2](http://arxiv.org/abs/2309.13655v2)|**[link](https://github.com/naagar/art_restoration_dm)**|
+|**2023-09-23**|**Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data**|Wai Tong Chung et.al.|[2309.13457v2](http://arxiv.org/abs/2309.13457v2)|null|
 |**2023-09-23**|**Cine cardiac MRI reconstruction using a convolutional recurrent network with refinement**|Yuyang Xue et.al.|[2309.13385v1](http://arxiv.org/abs/2309.13385v1)|null|
 |**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
 |**2023-09-21**|**Super-resolution and super-sensitivity of quantum LiDAR with multi-photonic state and binary outcome photon counting measurement**|Priyanka Sharma et.al.|[2309.12076v1](http://arxiv.org/abs/2309.12076v1)|null|
@@ -291,7 +291,7 @@ layout: default
 |**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183v1](http://arxiv.org/abs/2309.12183v1)|null|
 |**2023-09-21**|**Fast Satellite Tensorial Radiance Field for Multi-date Satellite Imagery of Large Size**|Tongtong Zhang et.al.|[2309.11767v1](http://arxiv.org/abs/2309.11767v1)|null|
 |**2023-09-20**|**GenLayNeRF: Generalizable Layered Representations with 3D Model Alignment for Multi-Human View Synthesis**|Youssef Abdelkareem et.al.|[2309.11627v1](http://arxiv.org/abs/2309.11627v1)|null|
-|**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525v1](http://arxiv.org/abs/2309.11525v1)|null|
+|**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525v2](http://arxiv.org/abs/2309.11525v2)|null|
 |**2023-09-20**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009v2](http://arxiv.org/abs/2309.11009v2)|null|
 |**2023-09-19**|**ReShader: View-Dependent Highlights for Single Image View-Synthesis**|Avinash Paliwal et.al.|[2309.10689v1](http://arxiv.org/abs/2309.10689v1)|null|
 |**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684v1](http://arxiv.org/abs/2309.10684v1)|null|
