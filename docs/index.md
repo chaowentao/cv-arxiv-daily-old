@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.27
+## Updated on 2023.09.28
 
 ## Image Generation
 
@@ -11,14 +11,14 @@ layout: default
 |**2023-09-26**|**Seimei KOOLS-IFU mapping of the gas and dust distributions in Galactic PNe: Unveiling the origin and evolution of Galactic halo PN H4-1**|Masaaki Otsuka et.al.|[2309.15099v1](http://arxiv.org/abs/2309.15099v1)|null|
 |**2023-09-26**|**VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning**|Han Lin et.al.|[2309.15091v1](http://arxiv.org/abs/2309.15091v1)|null|
 |**2023-09-26**|**FEC: Three Finetuning-free Methods to Enhance Consistency for Real Image Editing**|Songyan Chen et.al.|[2309.14934v1](http://arxiv.org/abs/2309.14934v1)|null|
-|**2023-09-26**|**Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning**|Jizhe Zhou et.al.|[2309.14900v1](http://arxiv.org/abs/2309.14900v1)|**[link](https://github.com/knightzjz/ncl-iml)**|
+|**2023-09-26**|**Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning**|Jizhe Zhou et.al.|[2309.14900v2](http://arxiv.org/abs/2309.14900v2)|**[link](https://github.com/knightzjz/ncl-iml)**|
 |**2023-09-26**|**Navigating Text-To-Image Customization:From LyCORIS Fine-Tuning to Model Evaluation**|Shin-Ying Yeh et.al.|[2309.14859v1](http://arxiv.org/abs/2309.14859v1)|**[link](https://github.com/kohakublueleaf/lycoris)**|
 |**2023-09-26**|**On quantifying and improving realism of images generated with diffusion**|Yunzhuo Chen et.al.|[2309.14756v1](http://arxiv.org/abs/2309.14756v1)|null|
 |**2023-09-26**|**Image Denoising via Style Disentanglement**|Jingwei Niu et.al.|[2309.14755v1](http://arxiv.org/abs/2309.14755v1)|null|
-|**2023-09-26**|**Text-to-Image Generation for Abstract Concepts**|Jiayi Liao et.al.|[2309.14623v1](http://arxiv.org/abs/2309.14623v1)|null|
+|**2023-09-26**|**Text-to-Image Generation for Abstract Concepts**|Jiayi Liao et.al.|[2309.14623v2](http://arxiv.org/abs/2309.14623v2)|null|
 |**2023-09-25**|**Incorporating Ensemble and Transfer Learning For An End-To-End Auto-Colorized Image Detection Model**|Ahmed Samir Ragab et.al.|[2309.14478v1](http://arxiv.org/abs/2309.14478v1)|null|
 |**2023-09-25**|**Chop & Learn: Recognizing and Generating Object-State Compositions**|Nirat Saini et.al.|[2309.14339v1](http://arxiv.org/abs/2309.14339v1)|null|
-|**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303v1](http://arxiv.org/abs/2309.14303v1)|null|
+|**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303v2](http://arxiv.org/abs/2309.14303v2)|null|
 |**2023-09-25**|**Identity-preserving Editing of Multiple Facial Attributes by Learning Global Edit Directions and Local Adjustments**|Najmeh Mohammadbagheri et.al.|[2309.14267v1](http://arxiv.org/abs/2309.14267v1)|null|
 |**2023-09-25**|**SurrogatePrompt: Bypassing the Safety Filter of Text-To-Image Models via Substitution**|Zhongjie Ba et.al.|[2309.14122v1](http://arxiv.org/abs/2309.14122v1)|null|
 |**2023-09-25**|**Diverse Semantic Image Editing with Style Codes**|Hakan Sivuk et.al.|[2309.13975v1](http://arxiv.org/abs/2309.13975v1)|**[link](https://github.com/hakansivuk/divsem)**|
@@ -112,11 +112,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-26**|**Generating Visual Scenes from Touch**|Fengyu Yang et.al.|[2309.15117v1](http://arxiv.org/abs/2309.15117v1)|null|
 |**2023-09-26**|**Solutions with positive components to quasilinear parabolic systems**|Evelina Shamarova et.al.|[2309.15114v1](http://arxiv.org/abs/2309.15114v1)|null|
-|**2023-09-26**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103v1](http://arxiv.org/abs/2309.15103v1)|null|
+|**2023-09-26**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103v2](http://arxiv.org/abs/2309.15103v2)|null|
 |**2023-09-26**|**The ATM implied skew in the ADO-Heston model**|Andrey Itkin et.al.|[2309.15044v1](http://arxiv.org/abs/2309.15044v1)|null|
 |**2023-09-26**|**Asymptotic freeness in tracial ultraproducts**|Cyril Houdayer et.al.|[2309.15029v1](http://arxiv.org/abs/2309.15029v1)|null|
 |**2023-09-26**|**FEC: Three Finetuning-free Methods to Enhance Consistency for Real Image Editing**|Songyan Chen et.al.|[2309.14934v1](http://arxiv.org/abs/2309.14934v1)|null|
-|**2023-09-26**|**ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models**|Shengqi Liu et.al.|[2309.14872v1](http://arxiv.org/abs/2309.14872v1)|null|
+|**2023-09-26**|**ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models**|Shengqi Liu et.al.|[2309.14872v2](http://arxiv.org/abs/2309.14872v2)|null|
 |**2023-09-26**|**Navigating Text-To-Image Customization:From LyCORIS Fine-Tuning to Model Evaluation**|Shin-Ying Yeh et.al.|[2309.14859v1](http://arxiv.org/abs/2309.14859v1)|**[link](https://github.com/kohakublueleaf/lycoris)**|
 |**2023-09-26**|**On a class of solvable stationary non equilibrium states for mass exchange models**|Monia Capanna et.al.|[2309.14836v1](http://arxiv.org/abs/2309.14836v1)|null|
 |**2023-09-26**|**Identifying and abating copper foil impurities to optimize graphene growth**|N. Reckinger et.al.|[2309.14811v1](http://arxiv.org/abs/2309.14811v1)|null|
@@ -127,14 +127,14 @@ layout: default
 |**2023-09-26**|**Bootstrap Diffusion Model Curve Estimation for High Resolution Low-Light Image Enhancement**|Jiancheng Huang et.al.|[2309.14709v1](http://arxiv.org/abs/2309.14709v1)|null|
 |**2023-09-26**|**Dynamic fluctuations of current and mass in nonequilibrium mass transport processes**|Animesh Hazra et.al.|[2309.14705v1](http://arxiv.org/abs/2309.14705v1)|null|
 |**2023-09-26**|**Theory of defect-mediated ionic transport in Li$^{+}$, Na$^{+}$ and K$^{+}$ $β$ and $β^{\prime\prime}$ aluminas**|Suchit Negi et.al.|[2309.14678v1](http://arxiv.org/abs/2309.14678v1)|null|
-|**2023-09-26**|**CO Adsorption on the Surface of MgO from Periodic Coupled-Cluster Theory with Local Natural Orbitals: Adding to the Consensus**|Hong-Zhou Ye et.al.|[2309.14651v1](http://arxiv.org/abs/2309.14651v1)|null|
+|**2023-09-26**|**CO Adsorption on the Surface of MgO from Periodic Coupled-Cluster Theory with Local Natural Orbitals: Adding to the Consensus**|Hong-Zhou Ye et.al.|[2309.14651v2](http://arxiv.org/abs/2309.14651v2)|null|
 |**2023-09-26**|**SOFIA FEEDBACK Survey: The Pillars of Creation in [C II] and Molecular Lines**|Ramsey L. Karim et.al.|[2309.14637v1](http://arxiv.org/abs/2309.14637v1)|null|
 |**2023-09-26**|**Efficient Post-training Quantization with FP8 Formats**|Haihao Shen et.al.|[2309.14592v1](http://arxiv.org/abs/2309.14592v1)|**[link](https://github.com/intel/neural-compressor)**|
 |**2023-09-25**|**Generative Escher Meshes**|Noam Aigerman et.al.|[2309.14564v1](http://arxiv.org/abs/2309.14564v1)|null|
 |**2023-09-25**|**Diffusion and interaction effects on molecular release from collapsed microgels**|Adri Escañuela-Copado et.al.|[2309.14536v1](http://arxiv.org/abs/2309.14536v1)|null|
 |**2023-09-25**|**Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator**|Hanzhuo Huang et.al.|[2309.14494v1](http://arxiv.org/abs/2309.14494v1)|**[link](https://github.com/soolab/free-bloom)**|
 |**2023-09-25**|**Multiple Noises in Diffusion Model for Semi-Supervised Multi-Domain Translation**|Tsiry Mayet et.al.|[2309.14394v1](http://arxiv.org/abs/2309.14394v1)|null|
-|**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303v1](http://arxiv.org/abs/2309.14303v1)|null|
+|**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303v2](http://arxiv.org/abs/2309.14303v2)|null|
 |**2023-09-25**|**Bayesian parameter estimation for characterising mobile ion vacancies in perovskite solar cells**|Samuel G. McCallum et.al.|[2309.14302v1](http://arxiv.org/abs/2309.14302v1)|null|
 |**2023-09-25**|**A Multi-Frequency View of the Radio Phoenix in the Abell 85 Cluster**|Ramij Raja et.al.|[2309.14244v1](http://arxiv.org/abs/2309.14244v1)|null|
 |**2023-09-25**|**Magneto-thermal evolution in the cores of adolescent neutron stars: The Grad-Shafranov equilibrium is never reached in the 'strong-coupling' regime**|Nicolás A. Moraga et.al.|[2309.14182v1](http://arxiv.org/abs/2309.14182v1)|null|
@@ -215,7 +215,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-26**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103v1](http://arxiv.org/abs/2309.15103v1)|null|
+|**2023-09-26**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103v2](http://arxiv.org/abs/2309.15103v2)|null|
 |**2023-09-26**|**An Ensemble Model for Distorted Images in Real Scenarios**|Boyuan Ji et.al.|[2309.14998v1](http://arxiv.org/abs/2309.14998v1)|null|
 |**2023-09-26**|**DONNAv2 -- Lightweight Neural Architecture Search for Vision tasks**|Sweta Priyadarshi et.al.|[2309.14670v1](http://arxiv.org/abs/2309.14670v1)|null|
 |**2023-09-25**|**Data Upcycling Knowledge Distillation for Image Super-Resolution**|Yun Zhang et.al.|[2309.14162v1](http://arxiv.org/abs/2309.14162v1)|null|
