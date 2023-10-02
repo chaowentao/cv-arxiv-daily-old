@@ -1,4 +1,4 @@
-## Updated on 2023.10.01
+## Updated on 2023.10.02
 
 ## Image Generation
 
@@ -27,7 +27,7 @@
 |**2023-09-26**|**Text-to-Image Generation for Abstract Concepts**|Jiayi Liao et.al.|[2309.14623v2](http://arxiv.org/abs/2309.14623v2)|null|
 |**2023-09-25**|**Incorporating Ensemble and Transfer Learning For An End-To-End Auto-Colorized Image Detection Model**|Ahmed Samir Ragab et.al.|[2309.14478v1](http://arxiv.org/abs/2309.14478v1)|null|
 |**2023-09-25**|**Chop & Learn: Recognizing and Generating Object-State Compositions**|Nirat Saini et.al.|[2309.14339v1](http://arxiv.org/abs/2309.14339v1)|null|
-|**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303v2](http://arxiv.org/abs/2309.14303v2)|null|
+|**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303v3](http://arxiv.org/abs/2309.14303v3)|null|
 |**2023-09-25**|**Identity-preserving Editing of Multiple Facial Attributes by Learning Global Edit Directions and Local Adjustments**|Najmeh Mohammadbagheri et.al.|[2309.14267v1](http://arxiv.org/abs/2309.14267v1)|null|
 |**2023-09-25**|**SurrogatePrompt: Bypassing the Safety Filter of Text-To-Image Models via Substitution**|Zhongjie Ba et.al.|[2309.14122v1](http://arxiv.org/abs/2309.14122v1)|**[link](https://github.com/zjm1900/surrogateprompt)**|
 |**2023-09-25**|**Diverse Semantic Image Editing with Style Codes**|Hakan Sivuk et.al.|[2309.13975v1](http://arxiv.org/abs/2309.13975v1)|**[link](https://github.com/hakansivuk/divsem)**|
@@ -135,7 +135,7 @@
 |**2023-09-27**|**Linear and non-linear infrared response of one-dimensional vibrational Holstein polarons in the anti-adiabatic limit: optical and acoustical phonon models**|Cyril Falvo et.al.|[2309.16001v1](http://arxiv.org/abs/2309.16001v1)|null|
 |**2023-09-27**|**Well-posedness and invariant measure for quasilinear parabolic SPDE on a bounded domain**|Mengzi Xie et.al.|[2309.15993v1](http://arxiv.org/abs/2309.15993v1)|null|
 |**2023-09-27**|**Optimal wall shapes and flows for steady planar convection**|Silas Alben et.al.|[2309.15953v1](http://arxiv.org/abs/2309.15953v1)|null|
-|**2023-09-27**|**Non-ideal magnetohydrodynamics on a moving mesh II: Hall effect**|Oliver Zier et.al.|[2309.15907v1](http://arxiv.org/abs/2309.15907v1)|null|
+|**2023-09-27**|**Non-ideal magnetohydrodynamics on a moving mesh II: Hall effect**|Oliver Zier et.al.|[2309.15907v1](http://arxiv.org/abs/2309.15907v1)|**[link](https://github.com/chessoli/c-shock-structure)**|
 
 ## Vision Transformer
 
@@ -282,7 +282,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-27**|**P2I-NET: Mapping Camera Pose to Image via Adversarial Learning for New View Synthesis in Real Indoor Environments**|Xujie Kang et.al.|[2309.15526v1](http://arxiv.org/abs/2309.15526v1)|null|
-|**2023-09-26**|**3D Reconstruction with Generalizable Neural Fields using Scene Priors**|Yang Fu et.al.|[2309.15164v1](http://arxiv.org/abs/2309.15164v1)|null|
+|**2023-09-26**|**3D Reconstruction with Generalizable Neural Fields using Scene Priors**|Yang Fu et.al.|[2309.15164v2](http://arxiv.org/abs/2309.15164v2)|null|
 |**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293v1](http://arxiv.org/abs/2309.14293v1)|null|
 |**2023-09-22**|**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**|Ziyi Yang et.al.|[2309.13101v1](http://arxiv.org/abs/2309.13101v1)|null|
 |**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen et.al.|[2309.13039v1](http://arxiv.org/abs/2309.13039v1)|**[link](https://github.com/dawning77/nerrf)**|
