@@ -123,7 +123,7 @@
 |**2023-09-29**|**ResBit: Residual Bit Vector for Categorical Values**|Masane Fuchi et.al.|[2309.17196v1](http://arxiv.org/abs/2309.17196v1)|null|
 |**2023-09-29**|**Advances in Kidney Biopsy Structural Assessment through Dense Instance Segmentation**|Zhan Xiong et.al.|[2309.17166v1](http://arxiv.org/abs/2309.17166v1)|null|
 |**2023-09-29**|**Speckled-speckle field as a resource for imaging techniques**|Silvia Cassina et.al.|[2309.17138v1](http://arxiv.org/abs/2309.17138v1)|null|
-|**2023-09-29**|**Reconstruction of Patient-Specific Confounders in AI-based Radiologic Image Interpretation using Generative Pretraining**|Tianyu Han et.al.|[2309.17123v1](http://arxiv.org/abs/2309.17123v1)|null|
+|**2023-09-29**|**Reconstruction of Patient-Specific Confounders in AI-based Radiologic Image Interpretation using Generative Pretraining**|Tianyu Han et.al.|[2309.17123v1](http://arxiv.org/abs/2309.17123v1)|**[link](https://github.com/peterhan91/diffchest)**|
 |**2023-09-29**|**Sheaf Hypergraph Networks**|Iulia Duta et.al.|[2309.17116v1](http://arxiv.org/abs/2309.17116v1)|null|
 |**2023-09-29**|**Diffusion Models as Stochastic Quantization in Lattice Field Theory**|Lingxiao Wang et.al.|[2309.17082v1](http://arxiv.org/abs/2309.17082v1)|null|
 |**2023-09-29**|**DeeDiff: Dynamic Uncertainty-Aware Early Exiting for Accelerating Diffusion Model Generation**|Shengkun Tang et.al.|[2309.17074v1](http://arxiv.org/abs/2309.17074v1)|null|
