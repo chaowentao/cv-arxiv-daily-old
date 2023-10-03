@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.02
+## Updated on 2023.10.03
 
 ## Image Generation
 
@@ -12,7 +12,7 @@ layout: default
 |**2023-09-29**|**Guiding Instruction-based Image Editing via Multimodal Large Language Models**|Tsu-Jui Fu et.al.|[2309.17102v1](http://arxiv.org/abs/2309.17102v1)|**[link](https://github.com/tsujuifu/pytorch_mgie)**|
 |**2023-09-29**|**Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning**|Zihan Ding et.al.|[2309.16984v1](http://arxiv.org/abs/2309.16984v1)|null|
 |**2023-09-29**|**Leveraging Optimization for Adaptive Attacks on Image Watermarks**|Nils Lukas et.al.|[2309.16952v1](http://arxiv.org/abs/2309.16952v1)|null|
-|**2023-09-29**|**Denoising Diffusion Bridge Models**|Linqi Zhou et.al.|[2309.16948v1](http://arxiv.org/abs/2309.16948v1)|null|
+|**2023-09-29**|**Denoising Diffusion Bridge Models**|Linqi Zhou et.al.|[2309.16948v1](http://arxiv.org/abs/2309.16948v1)|**[link](https://github.com/alexzhou907/DDBM)**|
 |**2023-09-28**|**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing**|Jiancheng Huang et.al.|[2309.16608v1](http://arxiv.org/abs/2309.16608v1)|null|
 |**2023-09-28**|**CCEdit: Creative and Controllable Video Editing via Diffusion Models**|Ruoyu Feng et.al.|[2309.16496v1](http://arxiv.org/abs/2309.16496v1)|null|
 |**2023-09-28**|**Biomedical Image Splicing Detection using Uncertainty-Guided Refinement**|Xun Lin et.al.|[2309.16388v1](http://arxiv.org/abs/2309.16388v1)|null|
@@ -139,7 +139,7 @@ layout: default
 |**2023-09-29**|**Dissociative Recombination of Rotationally Cold OH$^+$ and Its Implications for the Cosmic Ray Ionization Rate in Diffuse Clouds**|Ábel Kálosi et.al.|[2309.17015v1](http://arxiv.org/abs/2309.17015v1)|null|
 |**2023-09-29**|**Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning**|Zihan Ding et.al.|[2309.16984v1](http://arxiv.org/abs/2309.16984v1)|null|
 |**2023-09-29**|**Leveraging Optimization for Adaptive Attacks on Image Watermarks**|Nils Lukas et.al.|[2309.16952v1](http://arxiv.org/abs/2309.16952v1)|null|
-|**2023-09-29**|**Denoising Diffusion Bridge Models**|Linqi Zhou et.al.|[2309.16948v1](http://arxiv.org/abs/2309.16948v1)|null|
+|**2023-09-29**|**Denoising Diffusion Bridge Models**|Linqi Zhou et.al.|[2309.16948v1](http://arxiv.org/abs/2309.16948v1)|**[link](https://github.com/alexzhou907/DDBM)**|
 
 ## Vision Transformer
 
