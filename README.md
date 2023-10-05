@@ -1,4 +1,4 @@
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 
 ## Image Generation
 
@@ -143,9 +143,9 @@
 |---|---|---|---|---|
 |**2023-10-03**|**Selective Feature Adapter for Dense Vision Transformers**|Xueqing Deng et.al.|[2310.01843v1](http://arxiv.org/abs/2310.01843v1)|null|
 |**2023-10-03**|**PPT: Token Pruning and Pooling for Efficient Vision Transformers**|Xinjian Wu et.al.|[2310.01812v1](http://arxiv.org/abs/2310.01812v1)|null|
-|**2023-10-02**|**CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction**|Size Wu et.al.|[2310.01403v1](http://arxiv.org/abs/2310.01403v1)|null|
+|**2023-10-02**|**CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction**|Size Wu et.al.|[2310.01403v1](http://arxiv.org/abs/2310.01403v1)|**[link](https://github.com/wusize/clipself)**|
 |**2023-10-02**|**Self-distilled Masked Attention guided masked image modeling with noise Regularized Teacher (SMART) for medical image analysis**|Jue Jiang et.al.|[2310.01209v1](http://arxiv.org/abs/2310.01209v1)|null|
-|**2023-10-01**|**RegBN: Batch Normalization of Multimodal Data with Regularization**|Morteza Ghahremani et.al.|[2310.00641v1](http://arxiv.org/abs/2310.00641v1)|null|
+|**2023-10-01**|**RegBN: Batch Normalization of Multimodal Data with Regularization**|Morteza Ghahremani et.al.|[2310.00641v1](http://arxiv.org/abs/2310.00641v1)|**[link](https://github.com/mogvision/regbn)**|
 |**2023-10-01**|**Win-Win: Training High-Resolution Vision Transformers from Two Windows**|Vincent Leroy et.al.|[2310.00632v1](http://arxiv.org/abs/2310.00632v1)|null|
 |**2023-09-30**|**MVC: A Multi-Task Vision Transformer Network for COVID-19 Diagnosis from Chest X-ray Images**|Huyen Tran et.al.|[2310.00418v1](http://arxiv.org/abs/2310.00418v1)|null|
 |**2023-09-30**|**Distilling Inductive Bias: Knowledge Distillation Beyond Model Compression**|Gousia Habib et.al.|[2310.00369v1](http://arxiv.org/abs/2310.00369v1)|null|
@@ -187,7 +187,7 @@
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128v1](http://arxiv.org/abs/2309.17128v1)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859v1](http://arxiv.org/abs/2309.16859v1)|null|
 |**2023-09-28**|**MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond**|Yixuan Li et.al.|[2309.16553v1](http://arxiv.org/abs/2309.16553v1)|null|
-|**2023-09-28**|**FG-NeRF: Flow-GAN based Probabilistic Neural Radiance Field for Independence-Assumption-Free Uncertainty Estimation**|Songlin Wei et.al.|[2309.16364v1](http://arxiv.org/abs/2309.16364v1)|null|
+|**2023-09-28**|**FG-NeRF: Flow-GAN based Probabilistic Neural Radiance Field for Independence-Assumption-Free Uncertainty Estimation**|Songlin Wei et.al.|[2309.16364v2](http://arxiv.org/abs/2309.16364v2)|null|
 |**2023-09-28**|**Learning Effective NeRFs and SDFs Representations with 3D Generative Adversarial Networks for 3D Object Generation: Technical Report for ICCV 2023 OmniObject3D Challenge**|Zheyuan Yang et.al.|[2309.16110v1](http://arxiv.org/abs/2309.16110v1)|null|
 |**2023-09-27**|**P2I-NET: Mapping Camera Pose to Image via Adversarial Learning for New View Synthesis in Real Indoor Environments**|Xujie Kang et.al.|[2309.15526v1](http://arxiv.org/abs/2309.15526v1)|null|
 |**2023-09-27**|**BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields**|Shreya Saha et.al.|[2309.15329v1](http://arxiv.org/abs/2309.15329v1)|null|
@@ -212,13 +212,13 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-03**|**Deep learning-based image super-resolution of a novel end-expandable optical fiber probe for application in esophageal cancer diagnostics**|Xiaohui Zhang et.al.|[2310.02171v1](http://arxiv.org/abs/2310.02171v1)|null|
-|**2023-10-03**|**CoNO: Complex Neural Operator for Continuous Dynamical Systems**|Karn Tiwari et.al.|[2310.02094v1](http://arxiv.org/abs/2310.02094v1)|null|
+|**2023-10-03**|**CoNO: Complex Neural Operator for Continuous Dynamical Systems**|Karn Tiwari et.al.|[2310.02094v2](http://arxiv.org/abs/2310.02094v2)|null|
 |**2023-10-02**|**Forecasting Tropical Cyclones with Cascaded Diffusion Models**|Pritthijit Nath et.al.|[2310.01690v1](http://arxiv.org/abs/2310.01690v1)|**[link](https://github.com/nathzi1505/forecast-diffmodels)**|
 |**2023-10-02**|**CoDBench: A Critical Evaluation of Data-driven Models for Continuous Dynamical Systems**|Priyanshu Burark et.al.|[2310.01650v1](http://arxiv.org/abs/2310.01650v1)|null|
 |**2023-10-02**|**RF-ULM: Deep Learning for Radio-Frequency Ultrasound Localization Microscopy**|Christopher Hahne et.al.|[2310.01545v1](http://arxiv.org/abs/2310.01545v1)|**[link](https://github.com/hahnec/rf-ulm)**|
 |**2023-10-02**|**Conditional Diffusion Distillation**|Kangfu Mei et.al.|[2310.01407v1](http://arxiv.org/abs/2310.01407v1)|null|
 |**2023-10-02**|**A Restoration Network as an Implicit Prior**|Yuyang Hu et.al.|[2310.01391v1](http://arxiv.org/abs/2310.01391v1)|null|
-|**2023-10-02**|**EXTRACTER: Efficient Texture Matching with Attention and Gradient Enhancing for Large Scale Image Super Resolution**|Esteban Reyes-Saldana et.al.|[2310.01379v1](http://arxiv.org/abs/2310.01379v1)|null|
+|**2023-10-02**|**EXTRACTER: Efficient Texture Matching with Attention and Gradient Enhancing for Large Scale Image Super Resolution**|Esteban Reyes-Saldana et.al.|[2310.01379v1](http://arxiv.org/abs/2310.01379v1)|**[link](https://github.com/esteban-rs/extracter)**|
 |**2023-10-02**|**Prompt-tuning latent diffusion models for inverse problems**|Hyungjin Chung et.al.|[2310.01110v1](http://arxiv.org/abs/2310.01110v1)|null|
 |**2023-10-02**|**A New Real-World Video Dataset for the Comparison of Defogging Algorithms**|Alexandra Duminil et.al.|[2310.01020v1](http://arxiv.org/abs/2310.01020v1)|null|
 |**2023-10-01**|**Diving into the Depths of Spotting Text in Multi-Domain Noisy Scenes**|Alloy Das et.al.|[2310.00558v1](http://arxiv.org/abs/2310.00558v1)|null|
@@ -249,7 +249,7 @@
 |**2023-10-03**|**RSRD: A Road Surface Reconstruction Dataset and Benchmark for Safe and Comfortable Autonomous Driving**|Tong Zhao et.al.|[2310.02262v1](http://arxiv.org/abs/2310.02262v1)|null|
 |**2023-10-03**|**Selective Feature Adapter for Dense Vision Transformers**|Xueqing Deng et.al.|[2310.01843v1](http://arxiv.org/abs/2310.01843v1)|null|
 |**2023-10-03**|**Skin the sheep not only once: Reusing Various Depth Datasets to Drive the Learning of Optical Flow**|Sheng-Chi Huang et.al.|[2310.01833v1](http://arxiv.org/abs/2310.01833v1)|null|
-|**2023-10-02**|**Multi-task Learning with 3D-Aware Regularization**|Wei-Hong Li et.al.|[2310.00986v1](http://arxiv.org/abs/2310.00986v1)|null|
+|**2023-10-02**|**Multi-task Learning with 3D-Aware Regularization**|Wei-Hong Li et.al.|[2310.00986v1](http://arxiv.org/abs/2310.00986v1)|**[link](https://github.com/vico-uoe/mtpsl)**|
 |**2023-09-30**|**InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists**|Yulu Gan et.al.|[2310.00390v1](http://arxiv.org/abs/2310.00390v1)|**[link](https://github.com/AlaaLab/InstructCV)**|
 |**2023-09-29**|**Text-image Alignment for Diffusion-based Perception**|Neehar Kondapaneni et.al.|[2310.00031v1](http://arxiv.org/abs/2310.00031v1)|null|
 |**2023-09-29**|**IFAST: Weakly Supervised Interpretable Face Anti-spoofing from Single-shot Binocular NIR Images**|Jiancheng Huang et.al.|[2309.17399v1](http://arxiv.org/abs/2309.17399v1)|null|
