@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.08
+## Updated on 2023.10.09
 
 ## Image Generation
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739v1](http://arxiv.org/abs/2310.03739v1)|**[link](https://github.com/mihirp1998/alignprop)**|
 |**2023-10-05**|**Leveraging Unpaired Data for Vision-Language Generative Models via Cycle Consistency**|Tianhong Li et.al.|[2310.03734v1](http://arxiv.org/abs/2310.03734v1)|null|
-|**2023-10-05**|**MedSynV1: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559v1](http://arxiv.org/abs/2310.03559v1)|null|
+|**2023-10-05**|**MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559v2](http://arxiv.org/abs/2310.03559v2)|null|
 |**2023-10-05**|**Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion**|Anton Razzhigaev et.al.|[2310.03502v1](http://arxiv.org/abs/2310.03502v1)|**[link](https://github.com/ai-forever/movqgan)**|
 |**2023-10-04**|**Posterior Sampling Based on Gradient Flows of the MMD with Negative Distance Kernel**|Paul Hagemann et.al.|[2310.03054v1](http://arxiv.org/abs/2310.03054v1)|**[link](https://github.com/fabianaltekrueger/conditional_mmd_flows)**|
 |**2023-10-04**|**Kosmos-G: Generating Images in Context with Multimodal Large Language Models**|Xichen Pan et.al.|[2310.02992v1](http://arxiv.org/abs/2310.02992v1)|**[link](https://github.com/microsoft/unilm/tree/master/kosmos-g)**|
@@ -19,7 +19,7 @@ layout: default
 |**2023-10-03**|**GenCO: Generating Diverse Solutions to Design Problems with Combinatorial Nature**|Aaron Ferber et.al.|[2310.02442v1](http://arxiv.org/abs/2310.02442v1)|null|
 |**2023-10-03**|**EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods**|Samyadeep Basu et.al.|[2310.02426v1](http://arxiv.org/abs/2310.02426v1)|null|
 |**2023-10-03**|**FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models**|Yingqian Cui et.al.|[2310.02401v1](http://arxiv.org/abs/2310.02401v1)|null|
-|**2023-10-03**|**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**|Kaizhi Zheng et.al.|[2310.02239v1](http://arxiv.org/abs/2310.02239v1)|**[link](https://github.com/eric-ai-lab/minigpt-5)**|
+|**2023-10-03**|**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**|Kaizhi Zheng et.al.|[2310.02239v2](http://arxiv.org/abs/2310.02239v2)|**[link](https://github.com/eric-ai-lab/minigpt-5)**|
 |**2023-10-03**|**Optimizing microlens arrays for incoherent HiLo microscopy**|Ziao Jiao et.al.|[2310.01939v1](http://arxiv.org/abs/2310.01939v1)|null|
 |**2023-10-03**|**Amazing Combinatorial Creation: Acceptable Swap-Sampling for Text-to-Image Generation**|Jun Li et.al.|[2310.01819v1](http://arxiv.org/abs/2310.01819v1)|null|
 |**2023-10-02**|**ImagenHub: Standardizing the evaluation of conditional image generation models**|Max Ku et.al.|[2310.01596v1](http://arxiv.org/abs/2310.01596v1)|null|
@@ -115,7 +115,7 @@ layout: default
 |**2023-10-05**|**Certification of Deep Learning Models for Medical Image Segmentation**|Othmane Laousy et.al.|[2310.03664v1](http://arxiv.org/abs/2310.03664v1)|null|
 |**2023-10-05**|**Deep surrogate model for learning Green's function associated with linear reaction-diffusion operator**|Junqing Ji et.al.|[2310.03642v1](http://arxiv.org/abs/2310.03642v1)|null|
 |**2023-10-05**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602v1](http://arxiv.org/abs/2310.03602v1)|null|
-|**2023-10-05**|**MedSynV1: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559v1](http://arxiv.org/abs/2310.03559v1)|null|
+|**2023-10-05**|**MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559v2](http://arxiv.org/abs/2310.03559v2)|null|
 |**2023-10-05**|**Inverse design of self-folding 3D shells**|Diogo E. P. Pinto et.al.|[2310.03537v1](http://arxiv.org/abs/2310.03537v1)|null|
 |**2023-10-05**|**Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion**|Anton Razzhigaev et.al.|[2310.03502v1](http://arxiv.org/abs/2310.03502v1)|**[link](https://github.com/ai-forever/movqgan)**|
 |**2023-10-05**|**Deep Generative Models of Music Expectation**|Ninon Lizé Masclef et.al.|[2310.03500v1](http://arxiv.org/abs/2310.03500v1)|null|
@@ -133,7 +133,7 @@ layout: default
 |**2023-10-04**|**Efficient network exploration by means of resetting self-avoiding random walkers**|Gaia Colombani et.al.|[2310.03203v1](http://arxiv.org/abs/2310.03203v1)|null|
 |**2023-10-04**|**Stochastic optimal control in Hilbert spaces: $C^{1,1}$ regularity of the value function and optimal synthesis via viscosity solutions**|Filippo de Feo et.al.|[2310.03181v1](http://arxiv.org/abs/2310.03181v1)|null|
 |**2023-10-04**|**Exploring Solute-Defect Interactions in Nanosized Palladium Hydrides across Multiple Time Scales**|Xingsheng Sun et.al.|[2310.03177v1](http://arxiv.org/abs/2310.03177v1)|null|
-|**2023-10-04**|**Attributing Learned Concepts in Neural Networks to Training Data**|Nicholas Konz et.al.|[2310.03149v1](http://arxiv.org/abs/2310.03149v1)|null|
+|**2023-10-04**|**Attributing Learned Concepts in Neural Networks to Training Data**|Nicholas Konz et.al.|[2310.03149v2](http://arxiv.org/abs/2310.03149v2)|null|
 |**2023-10-04**|**Blind CT Image Quality Assessment Using DDPM-derived Content and Transformer-based Evaluator**|Yongyi Shi et.al.|[2310.03118v1](http://arxiv.org/abs/2310.03118v1)|null|
 |**2023-10-04**|**Low-Energy Radiative Backgrounds in CCD-Based Dark-Matter Detectors**|Peizhi Du et.al.|[2310.03068v1](http://arxiv.org/abs/2310.03068v1)|null|
 |**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020v1](http://arxiv.org/abs/2310.03020v1)|null|
@@ -168,7 +168,7 @@ layout: default
 |**2023-09-28**|**Depthwise Hyperparameter Transfer in Residual Networks: Dynamics and Scaling Limit**|Blake Bordelon et.al.|[2309.16620v1](http://arxiv.org/abs/2309.16620v1)|null|
 |**2023-09-28**|**Vision Transformers Need Registers**|Timothée Darcet et.al.|[2309.16588v1](http://arxiv.org/abs/2309.16588v1)|null|
 |**2023-09-28**|**HTC-DC Net: Monocular Height Estimation from Single Remote Sensing Images**|Sining Chen et.al.|[2309.16486v1](http://arxiv.org/abs/2309.16486v1)|**[link](https://github.com/zhu-xlab/htc-dc-net)**|
-|**2023-09-28**|**Channel Vision Transformers: An Image Is Worth C x 16 x 16 Words**|Yujia Bao et.al.|[2309.16108v1](http://arxiv.org/abs/2309.16108v1)|null|
+|**2023-09-28**|**Channel Vision Transformers: An Image Is Worth C x 16 x 16 Words**|Yujia Bao et.al.|[2309.16108v2](http://arxiv.org/abs/2309.16108v2)|null|
 |**2023-09-26**|**GasMono: Geometry-Aided Self-Supervised Monocular Depth Estimation for Indoor Scenes**|Chaoqiang Zhao et.al.|[2309.16019v1](http://arxiv.org/abs/2309.16019v1)|null|
 |**2023-09-27**|**CAIT: Triple-Win Compression towards High Accuracy, Fast Inference, and Favorable Transferability For ViTs**|Ao Wang et.al.|[2309.15755v1](http://arxiv.org/abs/2309.15755v1)|null|
 |**2023-09-27**|**Improving Facade Parsing with Vision Transformers and Line Integration**|Bowen Wang et.al.|[2309.15523v4](http://arxiv.org/abs/2309.15523v4)|**[link](https://github.com/wbw520/rtfp)**|
@@ -186,7 +186,7 @@ layout: default
 |**2023-10-04**|**Shielding the Unseen: Privacy Protection through Poisoning NeRF with Spatial Deformation**|Yihan Wu et.al.|[2310.03125v1](http://arxiv.org/abs/2310.03125v1)|null|
 |**2023-10-04**|**T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|**[link](https://github.com/THU-LYJ-Lab/T3Bench)**|
 |**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712v1](http://arxiv.org/abs/2310.02712v1)|null|
-|**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v1](http://arxiv.org/abs/2310.02687v1)|null|
+|**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v2](http://arxiv.org/abs/2310.02687v2)|null|
 |**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437v1](http://arxiv.org/abs/2310.02437v1)|null|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881v1](http://arxiv.org/abs/2310.01881v1)|null|
 |**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821v1](http://arxiv.org/abs/2310.01821v1)|null|
@@ -204,7 +204,7 @@ layout: default
 |**2023-09-27**|**P2I-NET: Mapping Camera Pose to Image via Adversarial Learning for New View Synthesis in Real Indoor Environments**|Xujie Kang et.al.|[2309.15526v1](http://arxiv.org/abs/2309.15526v1)|null|
 |**2023-09-27**|**BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields**|Shreya Saha et.al.|[2309.15329v1](http://arxiv.org/abs/2309.15329v1)|null|
 |**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800v1](http://arxiv.org/abs/2309.14800v1)|null|
-|**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293v1](http://arxiv.org/abs/2309.14293v1)|null|
+|**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293v2](http://arxiv.org/abs/2309.14293v2)|null|
 |**2023-09-25**|**Variational Inference for Scalable 3D Object-centric Learning**|Tianyu Wang et.al.|[2309.14010v1](http://arxiv.org/abs/2309.14010v1)|null|
 |**2023-09-24**|**MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field**|Zijiang Yang et.al.|[2309.13607v1](http://arxiv.org/abs/2309.13607v1)|null|
 |**2023-09-23**|**NeRF-Enhanced Outpainting for Faithful Field-of-View Extrapolation**|Rui Yu et.al.|[2309.13240v1](http://arxiv.org/abs/2309.13240v1)|null|
@@ -227,7 +227,7 @@ layout: default
 |**2023-10-02**|**EXTRACTER: Efficient Texture Matching with Attention and Gradient Enhancing for Large Scale Image Super Resolution**|Esteban Reyes-Saldana et.al.|[2310.01379v1](http://arxiv.org/abs/2310.01379v1)|**[link](https://github.com/esteban-rs/extracter)**|
 |**2023-10-02**|**Prompt-tuning latent diffusion models for inverse problems**|Hyungjin Chung et.al.|[2310.01110v1](http://arxiv.org/abs/2310.01110v1)|null|
 |**2023-10-02**|**A New Real-World Video Dataset for the Comparison of Defogging Algorithms**|Alexandra Duminil et.al.|[2310.01020v1](http://arxiv.org/abs/2310.01020v1)|null|
-|**2023-10-01**|**Diving into the Depths of Spotting Text in Multi-Domain Noisy Scenes**|Alloy Das et.al.|[2310.00558v1](http://arxiv.org/abs/2310.00558v1)|null|
+|**2023-10-01**|**Diving into the Depths of Spotting Text in Multi-Domain Noisy Scenes**|Alloy Das et.al.|[2310.00558v2](http://arxiv.org/abs/2310.00558v2)|null|
 |**2023-09-30**|**SSIF: Learning Continuous Image Representation for Spatial-Spectral Super-Resolution**|Gengchen Mai et.al.|[2310.00413v1](http://arxiv.org/abs/2310.00413v1)|null|
 |**2023-09-30**|**Steered Diffusion: A Generalized Framework for Plug-and-Play Conditional Image Synthesis**|Nithin Gopalakrishnan Nair et.al.|[2310.00224v1](http://arxiv.org/abs/2310.00224v1)|null|
 |**2023-09-30**|**An Investigation of Multi-feature Extraction and Super-resolution with Fast Microphone Arrays**|Eric T. Chang et.al.|[2310.00206v1](http://arxiv.org/abs/2310.00206v1)|null|
@@ -289,7 +289,7 @@ layout: default
 |**2023-10-05**|**Point-Based Radiance Fields for Controllable Human Motion Synthesis**|Haitao Yu et.al.|[2310.03375v1](http://arxiv.org/abs/2310.03375v1)|**[link](https://github.com/dehezhang2/point_based_nerf_editing)**|
 |**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020v1](http://arxiv.org/abs/2310.03020v1)|null|
 |**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015v1](http://arxiv.org/abs/2310.03015v1)|null|
-|**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v1](http://arxiv.org/abs/2310.02687v1)|null|
+|**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v2](http://arxiv.org/abs/2310.02687v2)|null|
 |**2023-10-04**|**MagicDrive: Street View Generation with Diverse 3D Geometry Control**|Ruiyuan Gao et.al.|[2310.02601v2](http://arxiv.org/abs/2310.02601v2)|null|
 |**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821v1](http://arxiv.org/abs/2310.01821v1)|null|
 |**2023-10-02**|**LEAP: Liberate Sparse-view 3D Modeling from Camera Poses**|Hanwen Jiang et.al.|[2310.01410v1](http://arxiv.org/abs/2310.01410v1)|null|
@@ -299,7 +299,7 @@ layout: default
 |**2023-09-29**|**PARF: Primitive-Aware Radiance Fusion for Indoor Scene Novel View Synthesis**|Haiyang Ying et.al.|[2309.17190v1](http://arxiv.org/abs/2309.17190v1)|null|
 |**2023-09-27**|**P2I-NET: Mapping Camera Pose to Image via Adversarial Learning for New View Synthesis in Real Indoor Environments**|Xujie Kang et.al.|[2309.15526v1](http://arxiv.org/abs/2309.15526v1)|null|
 |**2023-09-26**|**3D Reconstruction with Generalizable Neural Fields using Scene Priors**|Yang Fu et.al.|[2309.15164v2](http://arxiv.org/abs/2309.15164v2)|null|
-|**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293v1](http://arxiv.org/abs/2309.14293v1)|null|
+|**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293v2](http://arxiv.org/abs/2309.14293v2)|null|
 |**2023-09-22**|**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**|Ziyi Yang et.al.|[2309.13101v1](http://arxiv.org/abs/2309.13101v1)|null|
 |**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen et.al.|[2309.13039v1](http://arxiv.org/abs/2309.13039v1)|**[link](https://github.com/dawning77/nerrf)**|
 |**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183v1](http://arxiv.org/abs/2309.12183v1)|null|
