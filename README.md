@@ -1,4 +1,4 @@
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 
 ## Image Generation
 
@@ -106,13 +106,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-06**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417v1](http://arxiv.org/abs/2310.04417v1)|null|
-|**2023-10-06**|**CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis**|Xiaoxiao Sun et.al.|[2310.04414v1](http://arxiv.org/abs/2310.04414v1)|null|
+|**2023-10-06**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417v2](http://arxiv.org/abs/2310.04417v2)|null|
+|**2023-10-06**|**CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis**|Xiaoxiao Sun et.al.|[2310.04414v2](http://arxiv.org/abs/2310.04414v2)|null|
 |**2023-10-06**|**Seeding the CGM: How Satellites Populate the Cold Phase of Milky Way Halos**|Manami Roy et.al.|[2310.04404v1](http://arxiv.org/abs/2310.04404v1)|null|
 |**2023-10-06**|**Supernova Remnants in the Irregular Galaxy NGC4449**|P. Frank Winkler et.al.|[2310.04382v1](http://arxiv.org/abs/2310.04382v1)|null|
 |**2023-10-06**|**Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference**|Simian Luo et.al.|[2310.04378v1](http://arxiv.org/abs/2310.04378v1)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
 |**2023-10-06**|**Molecular Structural Dynamics in Water-Ethanol Mixtures: Spectroscopy with Polarized Neutrons Simultaneously Accessing Collective and Self-Diffusion**|Riccardo Morbidini et.al.|[2310.04320v1](http://arxiv.org/abs/2310.04320v1)|null|
-|**2023-10-06**|**Zentropy Theory for Quantitative Prediction of Emergent Behaviors**|Zi-Kui Liu et.al.|[2310.04279v1](http://arxiv.org/abs/2310.04279v1)|null|
+|**2023-10-06**|**Zentropy Theory for Quantitative Prediction of Emergent Behaviors**|Zi-Kui Liu et.al.|[2310.04279v2](http://arxiv.org/abs/2310.04279v2)|null|
 |**2023-10-06**|**Fully discrete Galerkin scheme for a semilinear subdiffusion equation with nonsmooth data and time-dependent coefficient**|Łukasz Płociniczak et.al.|[2310.04246v1](http://arxiv.org/abs/2310.04246v1)|null|
 |**2023-10-06**|**Exploring the interstellar medium of NGC 891 at millimeter wavelengths using the NIKA2 camera**|S. Katsioli et.al.|[2310.04204v1](http://arxiv.org/abs/2310.04204v1)|null|
 |**2023-10-06**|**Real diffusion with complex spectral gap**|Jean-Francois Bony et.al.|[2310.04203v1](http://arxiv.org/abs/2310.04203v1)|null|
@@ -131,7 +131,7 @@
 |**2023-10-05**|**Stochastic interpolants with data-dependent couplings**|Michael S. Albergo et.al.|[2310.03725v1](http://arxiv.org/abs/2310.03725v1)|null|
 |**2023-10-05**|**Certification of Deep Learning Models for Medical Image Segmentation**|Othmane Laousy et.al.|[2310.03664v1](http://arxiv.org/abs/2310.03664v1)|null|
 |**2023-10-05**|**Deep surrogate model for learning Green's function associated with linear reaction-diffusion operator**|Junqing Ji et.al.|[2310.03642v1](http://arxiv.org/abs/2310.03642v1)|null|
-|**2023-10-05**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602v1](http://arxiv.org/abs/2310.03602v1)|null|
+|**2023-10-05**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602v2](http://arxiv.org/abs/2310.03602v2)|null|
 |**2023-10-05**|**MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559v2](http://arxiv.org/abs/2310.03559v2)|null|
 |**2023-10-05**|**Inverse design of self-folding 3D shells**|Diogo E. P. Pinto et.al.|[2310.03537v1](http://arxiv.org/abs/2310.03537v1)|null|
 |**2023-10-05**|**Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion**|Anton Razzhigaev et.al.|[2310.03502v1](http://arxiv.org/abs/2310.03502v1)|**[link](https://github.com/ai-forever/movqgan)**|
@@ -170,7 +170,7 @@
 |**2023-09-28**|**HTC-DC Net: Monocular Height Estimation from Single Remote Sensing Images**|Sining Chen et.al.|[2309.16486v1](http://arxiv.org/abs/2309.16486v1)|**[link](https://github.com/zhu-xlab/htc-dc-net)**|
 |**2023-09-28**|**Channel Vision Transformers: An Image Is Worth C x 16 x 16 Words**|Yujia Bao et.al.|[2309.16108v2](http://arxiv.org/abs/2309.16108v2)|null|
 |**2023-09-27**|**CAIT: Triple-Win Compression towards High Accuracy, Fast Inference, and Favorable Transferability For ViTs**|Ao Wang et.al.|[2309.15755v1](http://arxiv.org/abs/2309.15755v1)|null|
-|**2023-09-27**|**Improving Facade Parsing with Vision Transformers and Line Integration**|Bowen Wang et.al.|[2309.15523v4](http://arxiv.org/abs/2309.15523v4)|**[link](https://github.com/wbw520/rtfp)**|
+|**2023-09-27**|**Improving Facade Parsing with Vision Transformers and Line Integration**|Bowen Wang et.al.|[2309.15523v5](http://arxiv.org/abs/2309.15523v5)|**[link](https://github.com/wbw520/rtfp)**|
 
 ## NeRF
 
