@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.10
+## Updated on 2023.10.11
 
 ## Image Generation
 
@@ -111,12 +111,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-09**|**FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing**|Yuren Cong et.al.|[2310.05922v1](http://arxiv.org/abs/2310.05922v1)|null|
-|**2023-10-09**|**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models**|Zhili Liu et.al.|[2310.05873v1](http://arxiv.org/abs/2310.05873v1)|null|
+|**2023-10-09**|**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models**|Zhili Liu et.al.|[2310.05873v2](http://arxiv.org/abs/2310.05873v2)|null|
 |**2023-10-09**|**Generative quantum machine learning via denoising diffusion probabilistic models**|Bingzhi Zhang et.al.|[2310.05866v1](http://arxiv.org/abs/2310.05866v1)|null|
 |**2023-10-09**|**A Bias-Variance-Covariance Decomposition of Kernel Scores for Generative Models**|Sebastian G. Gruber et.al.|[2310.05833v1](http://arxiv.org/abs/2310.05833v1)|null|
-|**2023-10-09**|**DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models**|Shansan Gong et.al.|[2310.05793v1](http://arxiv.org/abs/2310.05793v1)|null|
+|**2023-10-09**|**DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models**|Shansan Gong et.al.|[2310.05793v1](http://arxiv.org/abs/2310.05793v1)|**[link](https://github.com/Shark-NLP/DiffuSeq)**|
 |**2023-10-09**|**Transportation-cost inequalities for non-linear Gaussian functionals**|Ioannis Gasteratos et.al.|[2310.05750v1](http://arxiv.org/abs/2310.05750v1)|null|
-|**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737v1](http://arxiv.org/abs/2310.05737v1)|null|
+|**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737v1](http://arxiv.org/abs/2310.05737v1)|**[link](https://github.com/google-research/magvit)**|
 |**2023-10-09**|**Nanoscale engineering and dynamical stabilization of mesoscopic spin textures**|Kieren Harkins et.al.|[2310.05635v1](http://arxiv.org/abs/2310.05635v1)|null|
 |**2023-10-09**|**Understanding correlations in BaZrO3:Structure and dynamics on the nano-scale**|Erik Fransson et.al.|[2310.05565v1](http://arxiv.org/abs/2310.05565v1)|null|
 |**2023-10-09**|**The influence of metallic overlayers on ferromagnetism in LaMnO$_3$**|Bart Folkers et.al.|[2310.05514v1](http://arxiv.org/abs/2310.05514v1)|null|
@@ -151,11 +151,11 @@ layout: default
 |**2023-10-09**|**No Token Left Behind: Efficient Vision Transformer via Dynamic Token Idling**|Xuwei Xu et.al.|[2310.05654v1](http://arxiv.org/abs/2310.05654v1)|null|
 |**2023-10-09**|**Plug n' Play: Channel Shuffle Module for Enhancing Tiny Vision Transformers**|Xuwei Xu et.al.|[2310.05642v1](http://arxiv.org/abs/2310.05642v1)|null|
 |**2023-10-09**|**A Simple and Robust Framework for Cross-Modality Medical Image Segmentation applied to Vision Transformers**|Matteo Bastico et.al.|[2310.05572v1](http://arxiv.org/abs/2310.05572v1)|**[link](https://github.com/matteo-bastico/mi-seg)**|
-|**2023-10-09**|**RetSeg: Retention-based Colorectal Polyps Segmentation Network**|Khaled ELKarazle et.al.|[2310.05446v1](http://arxiv.org/abs/2310.05446v1)|null|
+|**2023-10-09**|**RetSeg: Retention-based Colorectal Polyps Segmentation Network**|Khaled ELKarazle et.al.|[2310.05446v2](http://arxiv.org/abs/2310.05446v2)|null|
 |**2023-10-09**|**Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers**|Shiyue Cao et.al.|[2310.05400v1](http://arxiv.org/abs/2310.05400v1)|null|
-|**2023-10-09**|**Hierarchical Side-Tuning for Vision Transformers**|Weifeng Lin et.al.|[2310.05393v1](http://arxiv.org/abs/2310.05393v1)|null|
+|**2023-10-09**|**Hierarchical Side-Tuning for Vision Transformers**|Weifeng Lin et.al.|[2310.05393v2](http://arxiv.org/abs/2310.05393v2)|null|
 |**2023-10-08**|**Low-Resolution Self-Attention for Semantic Segmentation**|Yu-Huan Wu et.al.|[2310.05026v1](http://arxiv.org/abs/2310.05026v1)|null|
-|**2023-10-06**|**PriViT: Vision Transformers for Fast Private Inference**|Naren Dhyani et.al.|[2310.04604v1](http://arxiv.org/abs/2310.04604v1)|null|
+|**2023-10-06**|**PriViT: Vision Transformers for Fast Private Inference**|Naren Dhyani et.al.|[2310.04604v1](http://arxiv.org/abs/2310.04604v1)|**[link](https://github.com/nyu-dice-lab/privit)**|
 |**2023-10-06**|**FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning**|Peiran Xu et.al.|[2310.04412v1](http://arxiv.org/abs/2310.04412v1)|**[link](https://github.com/ucsc-vlaa/fedconv)**|
 |**2023-10-06**|**TiC: Exploring Vision Transformer in Convolution**|Song Zhang et.al.|[2310.04134v1](http://arxiv.org/abs/2310.04134v1)|**[link](https://github.com/zs670980918/msa-conv)**|
 |**2023-10-06**|**Sub-token ViT Embedding via Stochastic Resonance Transformers**|Dong Lao et.al.|[2310.03967v1](http://arxiv.org/abs/2310.03967v1)|null|
@@ -216,10 +216,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-09**|**Dipole-Spread Function Engineering for 6D Super-Resolution Microscopy**|Tingting Wu et.al.|[2310.05810v1](http://arxiv.org/abs/2310.05810v1)|null|
-|**2023-10-09**|**Super Denoise Net: Speech Super Resolution with Noise Cancellation in Low Sampling Rate Noisy Environments**|Junkang Yang et.al.|[2310.05629v1](http://arxiv.org/abs/2310.05629v1)|null|
+|**2023-10-09**|**Super Denoise Net: Speech Super Resolution with Noise Cancellation in Low Sampling Rate Noisy Environments**|Junkang Yang et.al.|[2310.05629v2](http://arxiv.org/abs/2310.05629v2)|null|
 |**2023-10-09**|**Super-resolution diamond magnetic microscopy of superparamagnetic nanoparticles**|Nazanin Mosavian et.al.|[2310.05436v1](http://arxiv.org/abs/2310.05436v1)|null|
 |**2023-10-08**|**Learning Many-to-Many Mapping for Unpaired Real-World Image Super-resolution and Downscaling**|Wanjie Sun et.al.|[2310.04964v1](http://arxiv.org/abs/2310.04964v1)|null|
-|**2023-10-05**|**HartleyMHA: Self-Attention in Frequency Domain for Resolution-Robust and Parameter-Efficient 3D Image Segmentation**|Ken C. L. Wong et.al.|[2310.04466v1](http://arxiv.org/abs/2310.04466v1)|null|
+|**2023-10-05**|**HartleyMHA: Self-Attention in Frequency Domain for Resolution-Robust and Parameter-Efficient 3D Image Segmentation**|Ken C. L. Wong et.al.|[2310.04466v1](http://arxiv.org/abs/2310.04466v1)|**[link](https://github.com/ibm/multimodal-3d-image-segmentation)**|
 |**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
 |**2023-10-05**|**FNOSeg3D: Resolution-Robust 3D Image Segmentation with Fourier Neural Operator**|Ken C. L. Wong et.al.|[2310.03872v1](http://arxiv.org/abs/2310.03872v1)|**[link](https://github.com/ibm/multimodal-3d-image-segmentation)**|
 |**2023-10-05**|**Stochastic interpolants with data-dependent couplings**|Michael S. Albergo et.al.|[2310.03725v1](http://arxiv.org/abs/2310.03725v1)|null|
