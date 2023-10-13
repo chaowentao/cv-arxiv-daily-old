@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.12
+## Updated on 2023.10.13
 
 ## Image Generation
 
@@ -25,7 +25,7 @@ layout: default
 |**2023-10-09**|**Latent Diffusion Model for DNA Sequence Generation**|Zehui Li et.al.|[2310.06150v1](http://arxiv.org/abs/2310.06150v1)|null|
 |**2023-10-09**|**A Bias-Variance-Covariance Decomposition of Kernel Scores for Generative Models**|Sebastian G. Gruber et.al.|[2310.05833v1](http://arxiv.org/abs/2310.05833v1)|null|
 |**2023-10-09**|**Dipole-Spread Function Engineering for 6D Super-Resolution Microscopy**|Tingting Wu et.al.|[2310.05810v1](http://arxiv.org/abs/2310.05810v1)|null|
-|**2023-10-09**|**Locality-Aware Generalizable Implicit Neural Representation}**|Doyup Lee et.al.|[2310.05624v1](http://arxiv.org/abs/2310.05624v1)|null|
+|**2023-10-09**|**Locality-Aware Generalizable Implicit Neural Representation**|Doyup Lee et.al.|[2310.05624v2](http://arxiv.org/abs/2310.05624v2)|null|
 |**2023-10-09**|**Adaptive Multi-head Contrastive Learning**|Lei Wang et.al.|[2310.05615v1](http://arxiv.org/abs/2310.05615v1)|null|
 |**2023-10-09**|**A Simple and Robust Framework for Cross-Modality Medical Image Segmentation applied to Vision Transformers**|Matteo Bastico et.al.|[2310.05572v1](http://arxiv.org/abs/2310.05572v1)|**[link](https://github.com/matteo-bastico/mi-seg)**|
 |**2023-10-09**|**Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers**|Shiyue Cao et.al.|[2310.05400v1](http://arxiv.org/abs/2310.05400v1)|null|
@@ -120,12 +120,12 @@ layout: default
 |**2023-10-11**|**Variational stabilization of degenerate p-elasticae**|Tatsuya Miura et.al.|[2310.07451v1](http://arxiv.org/abs/2310.07451v1)|null|
 |**2023-10-11**|**Hadronic Re-Acceleration at the Crab Pulsar Wind Termination Shock as a Source of PeV Gamma-Rays**|Samuel T. Spencer et.al.|[2310.07429v1](http://arxiv.org/abs/2310.07429v1)|null|
 |**2023-10-11**|**Multi-Concept T2I-Zero: Tweaking Only The Text Embeddings and Nothing Else**|Hazarapet Tunanyan et.al.|[2310.07419v1](http://arxiv.org/abs/2310.07419v1)|null|
-|**2023-10-11**|**Mobility and diffusion of intruders in granular suspensions. Einstein relation**|Rubén Gómez González et.al.|[2310.07409v1](http://arxiv.org/abs/2310.07409v1)|null|
+|**2023-10-11**|**Mobility and diffusion of intruders in granular suspensions. Einstein relation**|Rubén Gómez González et.al.|[2310.07409v2](http://arxiv.org/abs/2310.07409v2)|null|
 |**2023-10-11**|**New analytical solution for time fractional Burgers-Huxley equation describing the interaction between reaction mechanisms and diffusion transport**|Gayatri Das et.al.|[2310.07375v1](http://arxiv.org/abs/2310.07375v1)|null|
 |**2023-10-11**|**Damping Density of an Absorptive Shoebox Room Derived from the Image-Source Method**|Sebastian J. Schlecht et.al.|[2310.07363v1](http://arxiv.org/abs/2310.07363v1)|null|
-|**2023-10-11**|**Adaptive Distributionally Robust Planning for Renewable-Powered Fast Charging Stations Under Decision-Dependent EV Diffusion Uncertainty**|Yujia Li et.al.|[2310.07352v1](http://arxiv.org/abs/2310.07352v1)|null|
-|**2023-10-11**|**WiGenAI: The Symphony of Wireless and Generative AI via Diffusion Models**|Mehdi Letafati et.al.|[2310.07312v1](http://arxiv.org/abs/2310.07312v1)|null|
-|**2023-10-11**|**Score Regularized Policy Optimization through Diffusion Behavior**|Huayu Chen et.al.|[2310.07297v1](http://arxiv.org/abs/2310.07297v1)|**[link](https://github.com/thu-ml/srpo)**|
+|**2023-10-11**|**Adaptive Distributionally Robust Planning for Renewable-Powered Fast Charging Stations Under Decision-Dependent EV Diffusion Uncertainty**|Yujia Li et.al.|[2310.07352v2](http://arxiv.org/abs/2310.07352v2)|null|
+|**2023-10-11**|**WiGenAI: The Symphony of Wireless and Generative AI via Diffusion Models**|Mehdi Letafati et.al.|[2310.07312v2](http://arxiv.org/abs/2310.07312v2)|null|
+|**2023-10-11**|**Score Regularized Policy Optimization through Diffusion Behavior**|Huayu Chen et.al.|[2310.07297v2](http://arxiv.org/abs/2310.07297v2)|**[link](https://github.com/thu-ml/srpo)**|
 |**2023-10-11**|**Scaling limit for local times and return times of a randomly biased walk on a Galton-Watson tree**|Alexis Kagan et.al.|[2310.07278v1](http://arxiv.org/abs/2310.07278v1)|null|
 |**2023-10-11**|**Eternal solutions to a porous medium equation with strong nonhomogeneous absorption. Part I: Radially non-increasing profiles**|Razvan Gabriel Iagar et.al.|[2310.07270v1](http://arxiv.org/abs/2310.07270v1)|null|
 |**2023-10-11**|**Integration by parts formula for exit times of one dimensional diffusions**|Noufel Frikha et.al.|[2310.07266v1](http://arxiv.org/abs/2310.07266v1)|null|
@@ -180,7 +180,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-11**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449v1](http://arxiv.org/abs/2310.07449v1)|null|
+|**2023-10-11**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449v2](http://arxiv.org/abs/2310.07449v2)|null|
 |**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179v1](http://arxiv.org/abs/2310.07179v1)|null|
 |**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984v1](http://arxiv.org/abs/2310.06984v1)|null|
 |**2023-10-10**|**High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field**|Minghan Qin et.al.|[2310.06275v1](http://arxiv.org/abs/2310.06275v1)|null|
@@ -267,7 +267,7 @@ layout: default
 |**2023-09-28**|**Multi-scale Recurrent LSTM and Transformer Network for Depth Completion**|Xiaogang Jia et.al.|[2309.16301v1](http://arxiv.org/abs/2309.16301v1)|null|
 |**2023-09-26**|**GasMono: Geometry-Aided Self-Supervised Monocular Depth Estimation for Indoor Scenes**|Chaoqiang Zhao et.al.|[2309.16019v1](http://arxiv.org/abs/2309.16019v1)|null|
 |**2023-09-27**|**InfraParis: A multi-modal and multi-task autonomous driving dataset**|Gianni Franchi et.al.|[2309.15751v1](http://arxiv.org/abs/2309.15751v1)|null|
-|**2023-09-27**|**Finite Scalar Quantization: VQ-VAE Made Simple**|Fabian Mentzer et.al.|[2309.15505v1](http://arxiv.org/abs/2309.15505v1)|null|
+|**2023-09-27**|**Finite Scalar Quantization: VQ-VAE Made Simple**|Fabian Mentzer et.al.|[2309.15505v2](http://arxiv.org/abs/2309.15505v2)|null|
 |**2023-09-26**|**M$^{3}$3D: Learning 3D priors using Multi-Modal Masked Autoencoders for 2D image and video understanding**|Muhammad Abdullah Jamal et.al.|[2309.15313v1](http://arxiv.org/abs/2309.15313v1)|null|
 |**2023-09-26**|**ADU-Depth: Attention-based Distillation with Uncertainty Modeling for Depth Estimation**|Zizhang Wu et.al.|[2309.14744v1](http://arxiv.org/abs/2309.14744v1)|null|
 |**2023-09-25**|**IEBins: Iterative Elastic Bins for Monocular Depth Estimation**|Shuwei Shao et.al.|[2309.14137v1](http://arxiv.org/abs/2309.14137v1)|**[link](https://github.com/shuweishao/iebins)**|
