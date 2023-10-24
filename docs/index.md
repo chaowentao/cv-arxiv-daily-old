@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.23
+## Updated on 2023.10.24
 
 ## Image Generation
 
@@ -26,7 +26,7 @@ layout: default
 |**2023-10-17**|**Elucidating The Design Space of Classifier-Guided Diffusion Generation**|Jiajun Ma et.al.|[2310.11311v1](http://arxiv.org/abs/2310.11311v1)|**[link](https://github.com/alexmaols/elucd)**|
 |**2023-10-17**|**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**|Siqi Kou et.al.|[2310.11142v1](http://arxiv.org/abs/2310.11142v1)|null|
 |**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769v1](http://arxiv.org/abs/2310.10769v1)|**[link](https://github.com/RQ-Wu/LAMP)**|
-|**2023-10-16**|**BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys**|Yu Gu et.al.|[2310.10765v2](http://arxiv.org/abs/2310.10765v2)|null|
+|**2023-10-16**|**BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys**|Yu Gu et.al.|[2310.10765v3](http://arxiv.org/abs/2310.10765v3)|null|
 |**2023-10-15**|**Enhancing ML model accuracy for Digital VLSI circuits using diffusion models: A study on synthetic data generation**|Prasha Srivastava et.al.|[2310.10691v1](http://arxiv.org/abs/2310.10691v1)|null|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647v1](http://arxiv.org/abs/2310.10647v1)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
 |**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640v1](http://arxiv.org/abs/2310.10640v1)|**[link](https://github.com/hananshafi/llmblueprint)**|
@@ -167,7 +167,7 @@ layout: default
 |**2023-10-11**|**ViT-A*: Legged Robot Path Planning using Vision Transformer A***|Jianwei Liu et.al.|[2310.07525v1](http://arxiv.org/abs/2310.07525v1)|null|
 |**2023-10-11**|**PtychoDV: Vision Transformer-Based Deep Unrolling Network for Ptychographic Image Reconstruction**|Weijie Gan et.al.|[2310.07504v1](http://arxiv.org/abs/2310.07504v1)|null|
 |**2023-10-11**|**Distilling Efficient Vision Transformers from CNNs for Semantic Segmentation**|Xu Zheng et.al.|[2310.07265v1](http://arxiv.org/abs/2310.07265v1)|null|
-|**2023-10-10**|**EViT: An Eagle Vision Transformer with Bi-Fovea Self-Attention**|Yulong Shi et.al.|[2310.06629v1](http://arxiv.org/abs/2310.06629v1)|null|
+|**2023-10-10**|**EViT: An Eagle Vision Transformer with Bi-Fovea Self-Attention**|Yulong Shi et.al.|[2310.06629v2](http://arxiv.org/abs/2310.06629v2)|null|
 |**2023-10-10**|**Machine Eye for Defects: Machine Learning-Based Solution to Identify and Characterize Topological Defects in Textured Images of Nematic Materials**|Haijie Ren et.al.|[2310.06406v1](http://arxiv.org/abs/2310.06406v1)|null|
 |**2023-10-10**|**Learning Stackable and Skippable LEGO Bricks for Efficient, Reconfigurable, and Variable-Resolution Diffusion Modeling**|Huangjie Zheng et.al.|[2310.06389v1](http://arxiv.org/abs/2310.06389v1)|null|
 |**2023-10-10**|**Efficient Adaptation of Large Vision Transformer via Adapter Re-Composing**|Wei Dong et.al.|[2310.06234v1](http://arxiv.org/abs/2310.06234v1)|**[link](https://github.com/davidyanande/arc)**|
