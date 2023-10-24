@@ -118,7 +118,7 @@ layout: default
 |**2023-10-20**|**Well-posedness of diffusion-aggregation equations with bounded kernels and their mean-field approximations**|Li Chen et.al.|[2310.13463v1](http://arxiv.org/abs/2310.13463v1)|null|
 |**2023-10-20**|**Malliavin differentiability of McKean-Vlasov SDEs with locally Lipschitz coefficients**|Goncalo dos Reis et.al.|[2310.13400v1](http://arxiv.org/abs/2310.13400v1)|null|
 |**2023-10-20**|**Tetraquark bound states in constituent quark models: benchmark test calculations**|Lu Meng et.al.|[2310.13354v1](http://arxiv.org/abs/2310.13354v1)|null|
-|**2023-10-20**|**Heat equation from a deterministic dynamics**|Giovanni Canestrari et.al.|[2310.13338v1](http://arxiv.org/abs/2310.13338v1)|null|
+|**2023-10-20**|**Heat equation from a deterministic dynamics**|Giovanni Canestrari et.al.|[2310.13338v2](http://arxiv.org/abs/2310.13338v2)|null|
 |**2023-10-20**|**A Critical Insight into Pretransitional Behavior and Dielectric Tunability of Relaxor Ceramics**|Sylwester J. Rzoska et.al.|[2310.13326v1](http://arxiv.org/abs/2310.13326v1)|null|
 |**2023-10-20**|**Molecular beam epitaxy of GaN/AlGaN quantum wells on bulk GaN substrate in the step-flow or step meandering regime: influence on indirect exciton diffusion**|Benjamin Damilano et.al.|[2310.13323v1](http://arxiv.org/abs/2310.13323v1)|null|
 |**2023-10-20**|**Uniform convergence of optimal order of a local discontinuous Galerkin method on a Shishkin mesh under a balanced norm**|Xiaoqi Ma et.al.|[2310.13313v1](http://arxiv.org/abs/2310.13313v1)|null|
@@ -145,7 +145,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-19**|**A Car Model Identification System for Streamlining the Automobile Sales Process**|Said Togru et.al.|[2310.13198v1](http://arxiv.org/abs/2310.13198v1)|null|
+|**2023-10-19**|**A Car Model Identification System for Streamlining the Automobile Sales Process**|Said Togru et.al.|[2310.13198v2](http://arxiv.org/abs/2310.13198v2)|null|
 |**2023-10-19**|**LeTFuser: Light-weight End-to-end Transformer-Based Sensor Fusion for Autonomous Driving with Multi-Task Learning**|Pedram Agand et.al.|[2310.13135v1](http://arxiv.org/abs/2310.13135v1)|**[link](https://github.com/pagand/e2etransfuser)**|
 |**2023-10-18**|**Tailoring Adversarial Attacks on Deep Neural Networks for Targeted Class Manipulation Using DeepFool Algorithm**|S. M. Fazle Rabby Labib et.al.|[2310.13019v1](http://arxiv.org/abs/2310.13019v1)|null|
 |**2023-10-19**|**Predicting Ovarian Cancer Treatment Response in Histopathology using Hierarchical Vision Transformers and Multiple Instance Learning**|Jack Breen et.al.|[2310.12866v1](http://arxiv.org/abs/2310.12866v1)|**[link](https://github.com/scjjb/hipt_abmil_atec23)**|
@@ -286,7 +286,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-20**|**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**|Daiju Kanaoka et.al.|[2310.13670v1](http://arxiv.org/abs/2310.13670v1)|null|
-|**2023-10-19**|**Perceptual Assessment and Optimization of High Dynamic Range Image Rendering**|Peibei Cao et.al.|[2310.12877v1](http://arxiv.org/abs/2310.12877v1)|null|
+|**2023-10-19**|**Perceptual Assessment and Optimization of High Dynamic Range Image Rendering**|Peibei Cao et.al.|[2310.12877v2](http://arxiv.org/abs/2310.12877v2)|null|
 |**2023-10-17**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448v2](http://arxiv.org/abs/2310.11448v2)|null|
 |**2023-10-16**|**TOSS:High-quality Text-guided Novel View Synthesis from a Single Image**|Yukai Shi et.al.|[2310.10644v1](http://arxiv.org/abs/2310.10644v1)|null|
 |**2023-10-16**|**GTA: A Geometry-Aware Attention Mechanism for Multi-View Transformers**|Takeru Miyato et.al.|[2310.10375v1](http://arxiv.org/abs/2310.10375v1)|**[link](https://github.com/autonomousvision/gta)**|
