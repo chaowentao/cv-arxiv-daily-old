@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.24
+## Updated on 2023.10.25
 
 ## Image Generation
 
@@ -22,7 +22,7 @@ layout: default
 |**2023-10-19**|**CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation**|Sihan Xu et.al.|[2310.13165v1](http://arxiv.org/abs/2310.13165v1)|**[link](https://github.com/sled-group/cyclenet)**|
 |**2023-10-19**|**Conditional Generative Modeling for Images, 3D Animations, and Video**|Vikram Voleti et.al.|[2310.13157v1](http://arxiv.org/abs/2310.13157v1)|null|
 |**2023-10-19**|**Particle Guidance: non-I.I.D. Diverse Sampling with Diffusion Models**|Gabriele Corso et.al.|[2310.13102v1](http://arxiv.org/abs/2310.13102v1)|**[link](https://github.com/gcorso/particle-guidance)**|
-|**2023-10-19**|**Cousins Of The Vendi Score: A Family Of Similarity-Based Diversity Metrics For Science And Machine Learning**|Amey Pasarkar et.al.|[2310.12952v1](http://arxiv.org/abs/2310.12952v1)|**[link](https://github.com/vertaix/vendi-sampling)**|
+|**2023-10-19**|**Cousins Of The Vendi Score: A Family Of Similarity-Based Diversity Metrics For Science And Machine Learning**|Amey P. Pasarkar et.al.|[2310.12952v2](http://arxiv.org/abs/2310.12952v2)|**[link](https://github.com/vertaix/vendi-score)**|
 |**2023-10-19**|**STANLEY: Stochastic Gradient Anisotropic Langevin Dynamics for Learning Energy-Based Models**|Belhal Karimi et.al.|[2310.12667v1](http://arxiv.org/abs/2310.12667v1)|null|
 |**2023-10-19**|**PrivacyGAN: robust generative image privacy**|Mariia Zameshina et.al.|[2310.12590v1](http://arxiv.org/abs/2310.12590v1)|null|
 |**2023-10-19**|**Diverse Diffusion: Enhancing Image Diversity in Text-to-Image Generation**|Mariia Zameshina et.al.|[2310.12583v1](http://arxiv.org/abs/2310.12583v1)|null|
@@ -115,7 +115,7 @@ layout: default
 |**2023-10-23**|**A Reactive Molecular Dynamics Model for Uranium/Hydrogen Containing Systems**|A. Soshnikov et.al.|[2310.15122v1](http://arxiv.org/abs/2310.15122v1)|null|
 |**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111v1](http://arxiv.org/abs/2310.15111v1)|null|
 |**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110v1](http://arxiv.org/abs/2310.15110v1)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
-|**2023-10-23**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008v1](http://arxiv.org/abs/2310.15008v1)|null|
+|**2023-10-23**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008v2](http://arxiv.org/abs/2310.15008v2)|null|
 |**2023-10-23**|**Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction**|Chunzhi Gu et.al.|[2310.14907v1](http://arxiv.org/abs/2310.14907v1)|null|
 |**2023-10-23**|**First passage duality in $d>2$**|Merek Johnson et.al.|[2310.14889v1](http://arxiv.org/abs/2310.14889v1)|null|
 |**2023-10-23**|**Joint Non-Linear MRI Inversion with Diffusion Priors**|Moritz Erlacher et.al.|[2310.14842v1](http://arxiv.org/abs/2310.14842v1)|null|
@@ -139,7 +139,7 @@ layout: default
 |**2023-10-22**|**Nonasymptotic Convergence Rate of Quasi-Monte Carlo: Applications to Linear Elliptic PDEs with Lognormal Coefficients and Importance Samplings**|Yang Liu et.al.|[2310.14351v1](http://arxiv.org/abs/2310.14351v1)|null|
 |**2023-10-22**|**Multi-fidelity Deep Learning-based methodology for epistemic uncertainty quantification of turbulence models**|Minghan Chu et.al.|[2310.14331v1](http://arxiv.org/abs/2310.14331v1)|null|
 |**2023-10-22**|**Blow-up for time-fractional diffusion equations with superlinear convex semilinear terms**|Xinchi Huang et.al.|[2310.14295v1](http://arxiv.org/abs/2310.14295v1)|null|
-|**2023-10-22**|**Diffusion-Based Adversarial Purification for Speaker Verification**|Yibo Bai et.al.|[2310.14270v1](http://arxiv.org/abs/2310.14270v1)|null|
+|**2023-10-22**|**Diffusion-Based Adversarial Purification for Speaker Verification**|Yibo Bai et.al.|[2310.14270v2](http://arxiv.org/abs/2310.14270v2)|null|
 
 ## Vision Transformer
 
