@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.25
+## Updated on 2023.10.26
 
 ## Image Generation
 
@@ -116,8 +116,8 @@ layout: default
 |**2023-10-24**|**Regularization estimates of the Landau-Coulomb diffusion**|Rene Cabrera et.al.|[2310.16012v1](http://arxiv.org/abs/2310.16012v1)|null|
 |**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003v1](http://arxiv.org/abs/2310.16003v1)|null|
 |**2023-10-24**|**Classical wave-particle localization in disordered landscapes**|Abel J. Abraham et.al.|[2310.16000v1](http://arxiv.org/abs/2310.16000v1)|null|
-|**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952v1](http://arxiv.org/abs/2310.15952v1)|null|
-|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948v1](http://arxiv.org/abs/2310.15948v1)|null|
+|**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952v2](http://arxiv.org/abs/2310.15952v2)|null|
+|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948v1](http://arxiv.org/abs/2310.15948v1)|**[link](https://github.com/andvg3/LSDM)**|
 |**2023-10-24**|**$L^2$-Wasserstein contraction for Euler schemes of elliptic diffusions and interacting particle systems**|Linshan Liu et.al.|[2310.15897v1](http://arxiv.org/abs/2310.15897v1)|null|
 |**2023-10-24**|**Long time behavior of a porous medium model with degenerate hysteresis**|Chiara Gavioli et.al.|[2310.15881v1](http://arxiv.org/abs/2310.15881v1)|null|
 |**2023-10-24**|**Hybridized Formulations of Flux Reconstruction Schemes for Advection-Diffusion Problems**|Carlos A. Pereira et.al.|[2310.15870v1](http://arxiv.org/abs/2310.15870v1)|null|
@@ -132,7 +132,7 @@ layout: default
 |**2023-10-24**|**Semantic-preserving image coding based on Conditional Diffusion models**|Francesco Pezone et.al.|[2310.15737v1](http://arxiv.org/abs/2310.15737v1)|null|
 |**2023-10-24**|**Supernova Ejecta with Crystalline Silicate Dust in the Supernova Remnant MSH 15-52**|Hyun-Jeong Kim et.al.|[2310.15733v1](http://arxiv.org/abs/2310.15733v1)|null|
 |**2023-10-24**|**Mechanism of charge transport in lithium thiophosphate**|Lorenzo Gigli et.al.|[2310.15679v1](http://arxiv.org/abs/2310.15679v1)|null|
-|**2023-10-24**|**Robust Methods for Multiscale Coarse Approximations of Diffusion Models in Perforated Domains**|Miranda Boutilier et.al.|[2310.15669v1](http://arxiv.org/abs/2310.15669v1)|null|
+|**2023-10-24**|**Robust Methods for Multiscale Coarse Approximations of Diffusion Models in Perforated Domains**|Miranda Boutilier et.al.|[2310.15669v2](http://arxiv.org/abs/2310.15669v2)|null|
 |**2023-10-24**|**Simple numerical X-ray polarization models of reflecting axially symmetric structures around accreting compact objects**|J. Podgorný et.al.|[2310.15647v1](http://arxiv.org/abs/2310.15647v1)|null|
 |**2023-10-24**|**Contribution to Galactic cosmic rays from young stellar clusters**|G. Morlino et.al.|[2310.15640v1](http://arxiv.org/abs/2310.15640v1)|null|
 |**2023-10-24**|**ScanDL: A Diffusion Model for Generating Synthetic Scanpaths on Texts**|Lena S. Bolliger et.al.|[2310.15587v1](http://arxiv.org/abs/2310.15587v1)|**[link](https://github.com/dili-lab/scandl)**|
