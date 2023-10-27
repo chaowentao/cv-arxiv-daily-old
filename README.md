@@ -1,4 +1,4 @@
-## Updated on 2023.10.26
+## Updated on 2023.10.27
 
 ## Image Generation
 
@@ -15,7 +15,7 @@
 |**2023-10-24**|**Complex Image Generation SwinTransformer Network for Audio Denoising**|Youshan Zhang et.al.|[2310.16109v1](http://arxiv.org/abs/2310.16109v1)|**[link](https://github.com/YoushanZhang/CoxImgSwinTransformer)**|
 |**2023-10-24**|**RePoseDM: Recurrent Pose Alignment and Gradient Guidance for Pose Guided Image Synthesis**|Anant Khandelwal et.al.|[2310.16074v1](http://arxiv.org/abs/2310.16074v1)|null|
 |**2023-10-23**|**PubPeer and Self-Correction of Science: Male-Led Publications More Prone to Retraction**|Abdelghani Maddi et.al.|[2310.16059v1](http://arxiv.org/abs/2310.16059v1)|null|
-|**2023-10-24**|**Integrating View Conditions for Image Synthesis**|Jinbin Bai et.al.|[2310.16002v1](http://arxiv.org/abs/2310.16002v1)|**[link](https://github.com/viiika/viewcontrol)**|
+|**2023-10-24**|**Integrating View Conditions for Image Synthesis**|Jinbin Bai et.al.|[2310.16002v2](http://arxiv.org/abs/2310.16002v2)|**[link](https://github.com/viiika/viewcontrol)**|
 |**2023-10-23**|**Fast Forward Modelling of Galaxy Spatial and Statistical Distributions**|Pascale Berner et.al.|[2310.15223v1](http://arxiv.org/abs/2310.15223v1)|null|
 |**2023-10-23**|**DEsignBench: Exploring and Benchmarking DALL-E 3 for Imagining Visual Design**|Kevin Lin et.al.|[2310.15144v1](http://arxiv.org/abs/2310.15144v1)|**[link](https://github.com/design-bench/design-bench.github.io)**|
 |**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111v1](http://arxiv.org/abs/2310.15111v1)|null|
@@ -27,7 +27,7 @@
 |**2023-10-20**|**Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models**|Shawn Shan et.al.|[2310.13828v1](http://arxiv.org/abs/2310.13828v1)|null|
 |**2023-10-20**|**Localizing and Editing Knowledge in Text-to-Image Generative Models**|Samyadeep Basu et.al.|[2310.13730v1](http://arxiv.org/abs/2310.13730v1)|null|
 |**2023-10-20**|**Bridging the Gap between Synthetic and Authentic Images for Multimodal Machine Translation**|Wenyu Guo et.al.|[2310.13361v1](http://arxiv.org/abs/2310.13361v1)|null|
-|**2023-10-20**|**DPM-Solver-v3: Improved Diffusion ODE Solver with Empirical Model Statistics**|Kaiwen Zheng et.al.|[2310.13268v1](http://arxiv.org/abs/2310.13268v1)|**[link](https://github.com/thu-ml/dpm-solver-v3)**|
+|**2023-10-20**|**DPM-Solver-v3: Improved Diffusion ODE Solver with Empirical Model Statistics**|Kaiwen Zheng et.al.|[2310.13268v2](http://arxiv.org/abs/2310.13268v2)|**[link](https://github.com/thu-ml/dpm-solver-v3)**|
 |**2023-10-19**|**CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation**|Sihan Xu et.al.|[2310.13165v1](http://arxiv.org/abs/2310.13165v1)|**[link](https://github.com/sled-group/cyclenet)**|
 |**2023-10-19**|**Conditional Generative Modeling for Images, 3D Animations, and Video**|Vikram Voleti et.al.|[2310.13157v1](http://arxiv.org/abs/2310.13157v1)|null|
 |**2023-10-19**|**Particle Guidance: non-I.I.D. Diverse Sampling with Diffusion Models**|Gabriele Corso et.al.|[2310.13102v1](http://arxiv.org/abs/2310.13102v1)|**[link](https://github.com/gcorso/particle-guidance)**|
@@ -109,11 +109,11 @@
 |**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834v1](http://arxiv.org/abs/2310.16834v1)|null|
 |**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831v1](http://arxiv.org/abs/2310.16831v1)|null|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825v1](http://arxiv.org/abs/2310.16825v1)|**[link](https://github.com/mosaicml/diffusion)**|
-|**2023-10-25**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818v1](http://arxiv.org/abs/2310.16818v1)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
+|**2023-10-25**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818v2](http://arxiv.org/abs/2310.16818v2)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
 |**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794v1](http://arxiv.org/abs/2310.16794v1)|null|
 |**2023-10-25**|**Optical Kinetic Theory of Nonlinear Multi-mode Photonic Networks**|Arkady Kurnosov et.al.|[2310.16784v1](http://arxiv.org/abs/2310.16784v1)|null|
 |**2023-10-25**|**Kiki or Bouba? Sound Symbolism in Vision-and-Language Models**|Morris Alper et.al.|[2310.16781v1](http://arxiv.org/abs/2310.16781v1)|null|
-|**2023-10-25**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779v1](http://arxiv.org/abs/2310.16779v1)|null|
+|**2023-10-25**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779v2](http://arxiv.org/abs/2310.16779v2)|null|
 |**2023-10-25**|**Discrete variance decay analysis of spurious mixing**|Tridib Banerjee et.al.|[2310.16768v1](http://arxiv.org/abs/2310.16768v1)|null|
 |**2023-10-25**|**Scalar mass conservation in turbulent mixture fraction based combustion models through consistent local flow parameters**|Marco Davidovic et.al.|[2310.16743v1](http://arxiv.org/abs/2310.16743v1)|null|
 |**2023-10-25**|**Assessing the Suitability of the Langevin Equation for Analyzing Measured Data Through Downsampling**|Pyei Phyo Lin et.al.|[2310.16722v1](http://arxiv.org/abs/2310.16722v1)|null|
@@ -176,7 +176,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-25**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832v1](http://arxiv.org/abs/2310.16832v1)|null|
+|**2023-10-25**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832v1](http://arxiv.org/abs/2310.16832v1)|**[link](https://github.com/lightspeed-r2l/lightspeed)**|
 |**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831v1](http://arxiv.org/abs/2310.16831v1)|null|
 |**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383v1](http://arxiv.org/abs/2310.16383v1)|null|
 |**2023-10-25**|**UAV-Sim: NeRF-based Synthetic Data Generation for UAV-based Perception**|Christopher Maxey et.al.|[2310.16255v1](http://arxiv.org/abs/2310.16255v1)|null|
@@ -281,7 +281,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-25**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832v1](http://arxiv.org/abs/2310.16832v1)|null|
+|**2023-10-25**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832v1](http://arxiv.org/abs/2310.16832v1)|**[link](https://github.com/lightspeed-r2l/lightspeed)**|
 |**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831v1](http://arxiv.org/abs/2310.16831v1)|null|
 |**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383v1](http://arxiv.org/abs/2310.16383v1)|null|
 |**2023-10-24**|**iNVS: Repurposing Diffusion Inpainters for Novel View Synthesis**|Yash Kant et.al.|[2310.16167v1](http://arxiv.org/abs/2310.16167v1)|null|
