@@ -113,7 +113,7 @@
 |**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794v1](http://arxiv.org/abs/2310.16794v1)|null|
 |**2023-10-25**|**Optical Kinetic Theory of Nonlinear Multi-mode Photonic Networks**|Arkady Kurnosov et.al.|[2310.16784v1](http://arxiv.org/abs/2310.16784v1)|null|
 |**2023-10-25**|**Kiki or Bouba? Sound Symbolism in Vision-and-Language Models**|Morris Alper et.al.|[2310.16781v1](http://arxiv.org/abs/2310.16781v1)|null|
-|**2023-10-25**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779v2](http://arxiv.org/abs/2310.16779v2)|null|
+|**2023-10-25**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779v2](http://arxiv.org/abs/2310.16779v2)|**[link](https://github.com/jh-jeong/smoothing-multiscale)**|
 |**2023-10-25**|**Discrete variance decay analysis of spurious mixing**|Tridib Banerjee et.al.|[2310.16768v1](http://arxiv.org/abs/2310.16768v1)|null|
 |**2023-10-25**|**Scalar mass conservation in turbulent mixture fraction based combustion models through consistent local flow parameters**|Marco Davidovic et.al.|[2310.16743v1](http://arxiv.org/abs/2310.16743v1)|null|
 |**2023-10-25**|**Assessing the Suitability of the Langevin Equation for Analyzing Measured Data Through Downsampling**|Pyei Phyo Lin et.al.|[2310.16722v1](http://arxiv.org/abs/2310.16722v1)|null|
