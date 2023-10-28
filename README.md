@@ -132,7 +132,7 @@
 |**2023-10-26**|**Towards a phase-field based model for combustion in particle beds: Reactive fluid flow**|Reza Namdar et.al.|[2310.17214v1](http://arxiv.org/abs/2310.17214v1)|null|
 |**2023-10-26**|**Exploring Iterative Refinement with Diffusion Models for Video Grounding**|Xiao Liang et.al.|[2310.17189v1](http://arxiv.org/abs/2310.17189v1)|**[link](https://github.com/mastervito/diffusionvg)**|
 |**2023-10-26**|**Improving Denoising Diffusion Models via Simultaneous Estimation of Image and Noise**|Zhenkai Zhang et.al.|[2310.17167v1](http://arxiv.org/abs/2310.17167v1)|null|
-|**2023-10-26**|**Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration**|Longlin Yu et.al.|[2310.17153v1](http://arxiv.org/abs/2310.17153v1)|null|
+|**2023-10-26**|**Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration**|Longlin Yu et.al.|[2310.17153v1](http://arxiv.org/abs/2310.17153v1)|**[link](https://github.com/longinyu/hsivi)**|
 |**2023-10-26**|**Global well-posedness for 2D inviscid and resistive MHD system near an equilibrium**|Yuanyuan Qiao et.al.|[2310.17134v1](http://arxiv.org/abs/2310.17134v1)|null|
 |**2023-10-25**|**$C^{1,α}$ Regularity For Stationary Mean-Field Games With Logarithmic Coupling**|Tigran Bakaryan et.al.|[2310.17027v1](http://arxiv.org/abs/2310.17027v1)|null|
 |**2023-10-25**|**Hydrodynamic limit of multiscale viscoelastic models for rigid particle suspensions**|Mitia Duerinckx et.al.|[2310.17008v1](http://arxiv.org/abs/2310.17008v1)|null|
