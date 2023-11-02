@@ -1,4 +1,4 @@
-## Updated on 2023.11.01
+## Updated on 2023.11.02
 
 ## Image Generation
 
@@ -157,7 +157,7 @@
 |**2023-10-28**|**Feature Guided Masked Autoencoder for Self-supervised Learning in Remote Sensing**|Yi Wang et.al.|[2310.18653v1](http://arxiv.org/abs/2310.18653v1)|**[link](https://github.com/zhu-xlab/fgmae)**|
 |**2023-10-28**|**Local-Global Self-Supervised Visual Representation Learning**|Ali Javidani et.al.|[2310.18651v1](http://arxiv.org/abs/2310.18651v1)|**[link](https://github.com/alijavidani/local_global_representation_learning)**|
 |**2023-10-28**|**One-shot Localization and Segmentation of Medical Images with Foundation Models**|Deepa Anand et.al.|[2310.18642v1](http://arxiv.org/abs/2310.18642v1)|null|
-|**2023-10-27**|**Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare**|Junling Liu et.al.|[2310.17956v1](http://arxiv.org/abs/2310.17956v1)|**[link](https://github.com/williamliujl/qilin-med-vl)**|
+|**2023-10-27**|**Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare**|Junling Liu et.al.|[2310.17956v2](http://arxiv.org/abs/2310.17956v2)|**[link](https://github.com/williamliujl/qilin-med-vl)**|
 |**2023-10-26**|**Generalizing to Unseen Domains in Diabetic Retinopathy Classification**|Chamuditha Jayanga Galappaththige et.al.|[2310.17255v2](http://arxiv.org/abs/2310.17255v2)|**[link](https://github.com/chumsy0725/spsd-vit)**|
 |**2023-10-26**|**Bridging The Gaps Between Token Pruning and Full Pre-training via Masked Fine-tuning**|Fengyuan Shi et.al.|[2310.17177v1](http://arxiv.org/abs/2310.17177v1)|null|
 |**2023-10-25**|**netFound: Foundation Model for Network Security**|Satyandra Guthula et.al.|[2310.17025v1](http://arxiv.org/abs/2310.17025v1)|null|
