@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.05
+## Updated on 2023.11.06
 
 ## Image Generation
 
@@ -161,7 +161,7 @@ layout: default
 |**2023-10-30**|**MIST: Medical Image Segmentation Transformer with Convolutional Attention Mixing (CAM) Decoder**|Md Motiur Rahman et.al.|[2310.19898v1](http://arxiv.org/abs/2310.19898v1)|**[link](https://github.com/rahman-motiur/mist)**|
 |**2023-10-30**|**Autoregressive Attention Neural Networks for Non-Line-of-Sight User Tracking with Dynamic Metasurface Antennas**|Kyriakos Stylianopoulos et.al.|[2310.19767v1](http://arxiv.org/abs/2310.19767v1)|null|
 |**2023-10-30**|**ViR: Vision Retention Networks**|Ali Hatamizadeh et.al.|[2310.19731v1](http://arxiv.org/abs/2310.19731v1)|null|
-|**2023-10-30**|**Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models**|Hao Li et.al.|[2310.19721v2](http://arxiv.org/abs/2310.19721v2)|null|
+|**2023-10-30**|**Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models**|Hao Li et.al.|[2310.19721v2](http://arxiv.org/abs/2310.19721v2)|**[link](https://github.com/medicl-vu/promise)**|
 |**2023-10-30**|**Exploiting Image-Related Inductive Biases in Single-Branch Visual Tracking**|Chuanming Tang et.al.|[2310.19542v1](http://arxiv.org/abs/2310.19542v1)|null|
 |**2023-10-29**|**Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation**|Fei Zhang et.al.|[2310.19001v1](http://arxiv.org/abs/2310.19001v1)|null|
 |**2023-10-29**|**Blacksmith: Fast Adversarial Training of Vision Transformers via a Mixture of Single-step and Multi-step Methods**|Mahdi Salmani et.al.|[2310.18975v1](http://arxiv.org/abs/2310.18975v1)|null|
