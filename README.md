@@ -29,7 +29,7 @@
 |**2023-10-27**|**Davidsonian Scene Graph: Improving Reliability in Fine-grained Evaluation for Text-to-Image Generation**|Jaemin Cho et.al.|[2310.18235v2](http://arxiv.org/abs/2310.18235v2)|null|
 |**2023-10-27**|**Hyper-Skin: A Hyperspectral Dataset for Reconstructing Facial Skin-Spectra from RGB Images**|Pai Chet Ng et.al.|[2310.17911v1](http://arxiv.org/abs/2310.17911v1)|**[link](https://github.com/hyperspectral-skin/hyper-skin-2023)**|
 |**2023-10-26**|**DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation**|Yongxin Zhu et.al.|[2310.17570v1](http://arxiv.org/abs/2310.17570v1)|null|
-|**2023-10-26**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al.|[2310.17419v1](http://arxiv.org/abs/2310.17419v1)|null|
+|**2023-10-26**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al.|[2310.17419v2](http://arxiv.org/abs/2310.17419v2)|null|
 |**2023-10-26**|**Exploring the Potential of Generative AI for the World Wide Web**|Nouar AlDahoul et.al.|[2310.17370v1](http://arxiv.org/abs/2310.17370v1)|null|
 |**2023-10-26**|**Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics**|Shuai Yang et.al.|[2310.17316v1](http://arxiv.org/abs/2310.17316v1)|null|
 |**2023-10-26**|**Improving Denoising Diffusion Models via Simultaneous Estimation of Image and Noise**|Zhenkai Zhang et.al.|[2310.17167v1](http://arxiv.org/abs/2310.17167v1)|null|
@@ -144,7 +144,7 @@
 |**2023-11-02**|**Efficient Vision Transformer for Accurate Traffic Sign Detection**|Javad Mirzapour Kaleybar et.al.|[2311.01429v1](http://arxiv.org/abs/2311.01429v1)|null|
 |**2023-11-02**|**Scattering Vision Transformer: Spectral Mixing Matters**|Badri N. Patro et.al.|[2311.01310v1](http://arxiv.org/abs/2311.01310v1)|null|
 |**2023-11-02**|**Distilling Knowledge from CNN-Transformer Models for Enhanced Human Action Recognition**|Hamid Ahmadabadi et.al.|[2311.01283v1](http://arxiv.org/abs/2311.01283v1)|null|
-|**2023-11-02**|**FacadeNet: Conditional Facade Synthesis via Selective Editing**|Yiangos Georgiou et.al.|[2311.01240v1](http://arxiv.org/abs/2311.01240v1)|null|
+|**2023-11-02**|**FacadeNet: Conditional Facade Synthesis via Selective Editing**|Yiangos Georgiou et.al.|[2311.01240v2](http://arxiv.org/abs/2311.01240v2)|null|
 |**2023-11-02**|**AiluRus: A Scalable ViT Framework for Dense Prediction**|Jin Li et.al.|[2311.01197v1](http://arxiv.org/abs/2311.01197v1)|**[link](https://github.com/caddyless/ailurus)**|
 |**2023-11-01**|**Kronecker-Factored Approximate Curvature for Modern Neural Network Architectures**|Runa Eschenhagen et.al.|[2311.00636v1](http://arxiv.org/abs/2311.00636v1)|null|
 |**2023-11-01**|**Improving Robustness for Vision Transformer with a Simple Dynamic Scanning Augmentation**|Shashank Kotyan et.al.|[2311.00441v1](http://arxiv.org/abs/2311.00441v1)|null|
