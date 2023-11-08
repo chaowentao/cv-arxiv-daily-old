@@ -114,7 +114,7 @@
 |**2023-11-06**|**Algebraic Dynamical Systems in Machine Learning**|Iolo Jones et.al.|[2311.03118v1](http://arxiv.org/abs/2311.03118v1)|null|
 |**2023-11-06**|**Persistent homology for high-dimensional data based on spectral methods**|Sebastian Damrich et.al.|[2311.03087v1](http://arxiv.org/abs/2311.03087v1)|**[link](https://github.com/berenslab/eff-ph)**|
 |**2023-11-06**|**A Two-Stage Generative Model with CycleGAN and Joint Diffusion for MRI-based Brain Tumor Detection**|Wenxin Wang et.al.|[2311.03074v1](http://arxiv.org/abs/2311.03074v1)|**[link](https://github.com/zhyjsiat/a-two-stage-cyclegan-ve-brats2020)**|
-|**2023-11-06**|**AnyText: Multilingual Visual Text Generation And Editing**|Yuxiang Tuo et.al.|[2311.03054v1](http://arxiv.org/abs/2311.03054v1)|null|
+|**2023-11-06**|**AnyText: Multilingual Visual Text Generation And Editing**|Yuxiang Tuo et.al.|[2311.03054v2](http://arxiv.org/abs/2311.03054v2)|null|
 |**2023-11-06**|**Lipschitz cutset for fractal graphs and applications to the spread of infections**|Alexander Drewitz et.al.|[2311.03045v1](http://arxiv.org/abs/2311.03045v1)|null|
 |**2023-11-06**|**Collisions enhance tracer diffusivity in an active Janus bath**|Maximilian Bailey et.al.|[2311.03022v1](http://arxiv.org/abs/2311.03022v1)|null|
 |**2023-11-06**|**Exploring the Capability of Text-to-Image Diffusion Models with Structural Edge Guidance for Multi-Spectral Satellite Image Inpainting**|Mikolaj Czerkawski et.al.|[2311.03008v1](http://arxiv.org/abs/2311.03008v1)|null|
@@ -130,7 +130,7 @@
 |**2023-11-05**|**Reaction-diffusion equations in mathematical models arising in epidemiology**|Vasyl' Davydovych et.al.|[2311.02652v1](http://arxiv.org/abs/2311.02652v1)|null|
 |**2023-11-05**|**Failure detection for transport processes on networks**|Edoardo Rolando et.al.|[2311.02624v1](http://arxiv.org/abs/2311.02624v1)|null|
 |**2023-11-05**|**SSL-DG: Rethinking and Fusing Semi-supervised Learning and Domain Generalization in Medical Image Segmentation**|Zanting Ye et.al.|[2311.02583v1](http://arxiv.org/abs/2311.02583v1)|**[link](https://github.com/yezanting/ssl-dg)**|
-|**2023-11-04**|**Thermal and electric field driven breakdown precursor formation on metal surfaces**|Ryo Shinohara et.al.|[2311.02519v1](http://arxiv.org/abs/2311.02519v1)|null|
+|**2023-11-04**|**Thermal and electric field driven breakdown precursor formation on metal surfaces**|Ryo Shinohara et.al.|[2311.02519v2](http://arxiv.org/abs/2311.02519v2)|null|
 |**2023-11-04**|**From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models**|Zhuoshi Pan et.al.|[2311.02373v1](http://arxiv.org/abs/2311.02373v1)|null|
 |**2023-11-04**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358v1](http://arxiv.org/abs/2311.02358v1)|null|
 |**2023-11-04**|**Stable Diffusion Reference Only: Image Prompt and Blueprint Jointly Guided Multi-Condition Diffusion Model for Secondary Painting**|Hao Ai et.al.|[2311.02343v1](http://arxiv.org/abs/2311.02343v1)|**[link](https://github.com/aihao2000/stable-diffusion-reference-only)**|
@@ -144,12 +144,12 @@
 |**2023-11-06**|**Machine Learning-Based Tea Leaf Disease Detection: A Comprehensive Review**|Faruk Ahmed et.al.|[2311.03240v1](http://arxiv.org/abs/2311.03240v1)|null|
 |**2023-11-06**|**Navigating Scaling Laws: Accelerating Vision Transformer's Training via Adaptive Strategies**|Sotiris Anagnostidis et.al.|[2311.03233v1](http://arxiv.org/abs/2311.03233v1)|null|
 |**2023-11-06**|**Asymmetric Masked Distillation for Pre-Training Small Foundation Models**|Zhiyu Zhao et.al.|[2311.03149v1](http://arxiv.org/abs/2311.03149v1)|null|
-|**2023-11-06**|**SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet**|Maurice Günder et.al.|[2311.03076v1](http://arxiv.org/abs/2311.03076v1)|null|
+|**2023-11-06**|**SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet**|Maurice Günder et.al.|[2311.03076v2](http://arxiv.org/abs/2311.03076v2)|null|
 |**2023-11-06**|**GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation**|Xuwei Xu et.al.|[2311.03035v1](http://arxiv.org/abs/2311.03035v1)|**[link](https://github.com/ackesnal/gtp-vit)**|
 |**2023-11-06**|**Fast and Interpretable Face Identification for Out-Of-Distribution Data Using Vision Transformers**|Hai Phan et.al.|[2311.02803v1](http://arxiv.org/abs/2311.02803v1)|null|
 |**2023-11-05**|**Rotation Invariant Transformer for Recognizing Object in UAVs**|Shuoyi Chen et.al.|[2311.02559v1](http://arxiv.org/abs/2311.02559v1)|null|
 |**2023-11-05**|**TokenMotion: Motion-Guided Vision Transformer for Video Camouflaged Object Detection Via Learnable Token Selection**|Zifan Yu et.al.|[2311.02535v1](http://arxiv.org/abs/2311.02535v1)|null|
-|**2023-11-03**|**ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation**|Xing Di et.al.|[2311.01929v1](http://arxiv.org/abs/2311.01929v1)|null|
+|**2023-11-03**|**ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation**|Xing Di et.al.|[2311.01929v2](http://arxiv.org/abs/2311.01929v2)|null|
 |**2023-11-01**|**Patch-Based Deep Unsupervised Image Segmentation using Graph Cuts**|Isaac Wasserman et.al.|[2311.01475v1](http://arxiv.org/abs/2311.01475v1)|null|
 |**2023-11-02**|**Efficient Vision Transformer for Accurate Traffic Sign Detection**|Javad Mirzapour Kaleybar et.al.|[2311.01429v1](http://arxiv.org/abs/2311.01429v1)|null|
 |**2023-11-02**|**Scattering Vision Transformer: Spectral Mixing Matters**|Badri N. Patro et.al.|[2311.01310v1](http://arxiv.org/abs/2311.01310v1)|null|
@@ -190,7 +190,7 @@
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994v1](http://arxiv.org/abs/2310.17994v1)|null|
 |**2023-10-27**|**Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations**|Tristan Aumentado-Armstrong et.al.|[2310.17880v1](http://arxiv.org/abs/2310.17880v1)|null|
 |**2023-10-26**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075v2](http://arxiv.org/abs/2310.17075v2)|null|
-|**2023-10-25**|**4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation**|Dadong Jiang et.al.|[2310.16858v1](http://arxiv.org/abs/2310.16858v1)|null|
+|**2023-10-25**|**4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via Semantic Distillation**|Dadong Jiang et.al.|[2310.16858v2](http://arxiv.org/abs/2310.16858v2)|null|
 |**2023-10-25**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832v2](http://arxiv.org/abs/2310.16832v2)|**[link](https://github.com/lightspeed-r2l/lightspeed)**|
 |**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831v2](http://arxiv.org/abs/2310.16831v2)|**[link](https://github.com/perf-project/PeRF)**|
 |**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383v1](http://arxiv.org/abs/2310.16383v1)|null|
