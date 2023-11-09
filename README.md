@@ -116,9 +116,9 @@
 |**2023-11-07**|**Unambiguous Simulation of Diffusive Charge Transport in Disordered Nanoribbons**|H. P. Veiga et.al.|[2311.03983v1](http://arxiv.org/abs/2311.03983v1)|null|
 |**2023-11-07**|**Relaxation dynamics of interacting bosons in a flat band system**|Ko Gondaira et.al.|[2311.03979v1](http://arxiv.org/abs/2311.03979v1)|null|
 |**2023-11-07**|**Persistence probabilities of a smooth self-similar anomalous diffusion process**|Frank Aurzada et.al.|[2311.03972v1](http://arxiv.org/abs/2311.03972v1)|null|
-|**2023-11-07**|**Improving the Effectiveness of Deep Generative Data**|Ruyu Wang et.al.|[2311.03959v1](http://arxiv.org/abs/2311.03959v1)|null|
+|**2023-11-07**|**Improving the Effectiveness of Deep Generative Data**|Ruyu Wang et.al.|[2311.03959v2](http://arxiv.org/abs/2311.03959v2)|null|
 |**2023-11-07**|**Computation of the Distribution of the Absorption Time of the Drifted Diffusion with Stochastic Resetting and Mixed Boundary Conditions**|Riccardo Turin et.al.|[2311.03939v1](http://arxiv.org/abs/2311.03939v1)|null|
-|**2023-11-07**|**Distributed Parameter Estimation with Gaussian Observation Noises in Time-varying Digraphs**|Jiaqi Yan et.al.|[2311.03911v1](http://arxiv.org/abs/2311.03911v1)|null|
+|**2023-11-07**|**Distributed Parameter Estimation with Gaussian Observation Noises in Time-varying Digraphs**|Jiaqi Yan et.al.|[2311.03911v2](http://arxiv.org/abs/2311.03911v2)|null|
 |**2023-11-07**|**RobustMat: Neural Diffusion for Street Landmark Patch Matching under Challenging Environments**|Rui She et.al.|[2311.03904v1](http://arxiv.org/abs/2311.03904v1)|**[link](https://github.com/ai-it-avs/robustmat)**|
 |**2023-11-07**|**Formulating Discrete Probability Flow Through Optimal Transport**|Pengze Zhang et.al.|[2311.03886v1](http://arxiv.org/abs/2311.03886v1)|**[link](https://github.com/pangzecheung/discrete-probability-flow)**|
 |**2023-11-07**|**Dark Matter in Fractional Gravity III: Dwarf Galaxies Kinematics**|F. Benetti et.al.|[2311.03876v1](http://arxiv.org/abs/2311.03876v1)|null|
@@ -135,7 +135,7 @@
 |**2023-11-06**|**Predicting Age from White Matter Diffusivity with Residual Learning**|Chenyu Gao et.al.|[2311.03500v1](http://arxiv.org/abs/2311.03500v1)|null|
 |**2023-11-06**|**Rotating convective turbulence in moderate to high Prandtl number fluids**|Jewel A. Abbate et.al.|[2311.03495v1](http://arxiv.org/abs/2311.03495v1)|null|
 |**2023-11-06**|**Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems**|Derek Lilienthal et.al.|[2311.03488v1](http://arxiv.org/abs/2311.03488v1)|null|
-|**2023-11-06**|**Is the Migdal-Eliashberg Theory for 2+1D Critical Fermi Surface Stable?**|Haoyu Guo et.al.|[2311.03455v1](http://arxiv.org/abs/2311.03455v1)|null|
+|**2023-11-06**|**Is the Migdal-Eliashberg Theory for 2+1D Critical Fermi Surface Stable?**|Haoyu Guo et.al.|[2311.03455v2](http://arxiv.org/abs/2311.03455v2)|null|
 
 ## Vision Transformer
 
@@ -178,7 +178,7 @@
 |---|---|---|---|---|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154v1](http://arxiv.org/abs/2311.04154v1)|null|
 |**2023-11-07**|**Fast Sun-aligned Outdoor Scene Relighting based on TensoRF**|Yeonjin Chang et.al.|[2311.03965v1](http://arxiv.org/abs/2311.03965v1)|null|
-|**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v1](http://arxiv.org/abs/2311.03784v1)|null|
+|**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v2](http://arxiv.org/abs/2311.03784v2)|null|
 |**2023-11-06**|**Osprey: Multi-Session Autonomous Aerial Mapping with LiDAR-based SLAM and Next Best View Planning**|Rowan Border et.al.|[2311.03484v1](http://arxiv.org/abs/2311.03484v1)|null|
 |**2023-11-06**|**Animating NeRFs from Texture Space: A Framework for Pose-Dependent Rendering of Human Performances**|Paul Knoll et.al.|[2311.03140v1](http://arxiv.org/abs/2311.03140v1)|null|
 |**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826v1](http://arxiv.org/abs/2311.02826v1)|**[link](https://github.com/mybabyyh/instructpix2nerf)**|
@@ -281,7 +281,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v1](http://arxiv.org/abs/2311.03784v1)|null|
+|**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v2](http://arxiv.org/abs/2311.03784v2)|null|
 |**2023-11-05**|**MuSHRoom: Multi-Sensor Hybrid Room Dataset for Joint 3D Reconstruction and Novel View Synthesis**|Xuqian Ren et.al.|[2311.02778v1](http://arxiv.org/abs/2311.02778v1)|null|
 |**2023-11-05**|**3D-Aware Talking-Head Video Motion Transfer**|Haomiao Ni et.al.|[2311.02549v1](http://arxiv.org/abs/2311.02549v1)|null|
 |**2023-11-03**|**A Neural Radiance Field-Based Architecture for Intelligent Multilayered View Synthesis**|D. Dhinakaran et.al.|[2311.01842v1](http://arxiv.org/abs/2311.01842v1)|null|
