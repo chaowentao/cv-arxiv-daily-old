@@ -1,4 +1,4 @@
-## Updated on 2023.11.11
+## Updated on 2023.11.12
 
 ## Image Generation
 
@@ -182,7 +182,7 @@
 |**2023-11-07**|**ADFactory: Automated Data Factory for Optical Flow Tasks**|Han Ling et.al.|[2311.04246v1](http://arxiv.org/abs/2311.04246v1)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154v1](http://arxiv.org/abs/2311.04154v1)|null|
 |**2023-11-07**|**Fast Sun-aligned Outdoor Scene Relighting based on TensoRF**|Yeonjin Chang et.al.|[2311.03965v1](http://arxiv.org/abs/2311.03965v1)|null|
-|**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v2](http://arxiv.org/abs/2311.03784v2)|null|
+|**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v2](http://arxiv.org/abs/2311.03784v2)|**[link](https://github.com/mlvlab/upnerf)**|
 |**2023-11-06**|**Osprey: Multi-Session Autonomous Aerial Mapping with LiDAR-based SLAM and Next Best View Planning**|Rowan Border et.al.|[2311.03484v1](http://arxiv.org/abs/2311.03484v1)|null|
 |**2023-11-06**|**Animating NeRFs from Texture Space: A Framework for Pose-Dependent Rendering of Human Performances**|Paul Knoll et.al.|[2311.03140v1](http://arxiv.org/abs/2311.03140v1)|null|
 |**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826v1](http://arxiv.org/abs/2311.02826v1)|**[link](https://github.com/mybabyyh/instructpix2nerf)**|
@@ -288,7 +288,7 @@
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634v1](http://arxiv.org/abs/2311.04634v1)|**[link](https://github.com/lfranke/vet)**|
 |**2023-11-08**|**Learning Robust Multi-Scale Representation for Neural Radiance Fields from Unposed Images**|Nishant Jain et.al.|[2311.04521v1](http://arxiv.org/abs/2311.04521v1)|null|
 |**2023-11-07**|**3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features**|Chenfeng Xu et.al.|[2311.04391v1](http://arxiv.org/abs/2311.04391v1)|null|
-|**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v2](http://arxiv.org/abs/2311.03784v2)|null|
+|**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v2](http://arxiv.org/abs/2311.03784v2)|**[link](https://github.com/mlvlab/upnerf)**|
 |**2023-11-05**|**MuSHRoom: Multi-Sensor Hybrid Room Dataset for Joint 3D Reconstruction and Novel View Synthesis**|Xuqian Ren et.al.|[2311.02778v1](http://arxiv.org/abs/2311.02778v1)|null|
 |**2023-11-05**|**3D-Aware Talking-Head Video Motion Transfer**|Haomiao Ni et.al.|[2311.02549v1](http://arxiv.org/abs/2311.02549v1)|null|
 |**2023-11-03**|**A Neural Radiance Field-Based Architecture for Intelligent Multilayered View Synthesis**|D. Dhinakaran et.al.|[2311.01842v1](http://arxiv.org/abs/2311.01842v1)|null|
