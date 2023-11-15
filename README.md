@@ -107,7 +107,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554v1](http://arxiv.org/abs/2311.07554v1)|null|
-|**2023-11-13**|**Scalar Curvature For Metric Spaces: Defining Curvature For Quantum Gravity Without Coordinates**|Agustín Silva et.al.|[2311.07507v1](http://arxiv.org/abs/2311.07507v1)|null|
+|**2023-11-13**|**Scalar curvature for metric spaces: Defining curvature for Quantum Gravity without coordinates**|Agustín Silva et.al.|[2311.07507v2](http://arxiv.org/abs/2311.07507v2)|null|
 |**2023-11-13**|**What can we learn from diffusion about Anderson localization of a degenerate Fermi gas?**|Sian Barbosa et.al.|[2311.07505v1](http://arxiv.org/abs/2311.07505v1)|null|
 |**2023-11-13**|**HESS J1809-193: Gamma-Ray Emission by Cosmic Rays from Past Explosion**|Sovan Boxi et.al.|[2311.07481v1](http://arxiv.org/abs/2311.07481v1)|null|
 |**2023-11-13**|**Quark production and thermalization of the quark-gluon plasma**|Sergio Barrera Cabodevila et.al.|[2311.07450v1](http://arxiv.org/abs/2311.07450v1)|null|
@@ -129,7 +129,7 @@
 |**2023-11-13**|**A new instability framework in 2-component reaction-diffusion systems**|Hirofumi Izuhara et.al.|[2311.07045v1](http://arxiv.org/abs/2311.07045v1)|null|
 |**2023-11-12**|**Spectral stability and perturbation results for kernel differentiation matrices on the sphere**|Thomas Hangelbroek et.al.|[2311.06982v1](http://arxiv.org/abs/2311.06982v1)|null|
 |**2023-11-12**|**Augmented Bridge Matching**|Valentin De Bortoli et.al.|[2311.06978v1](http://arxiv.org/abs/2311.06978v1)|null|
-|**2023-11-12**|**Analytic regularity for a singularly perturbed fourth order reaction-diffusion boundary value problem**|P. Constantinou et.al.|[2311.06849v1](http://arxiv.org/abs/2311.06849v1)|null|
+|**2023-11-12**|**Analytic regularity for a singularly perturbed fourth order reaction-diffusion boundary value problem**|P. Constantinou et.al.|[2311.06849v2](http://arxiv.org/abs/2311.06849v2)|null|
 |**2023-11-12**|**Sampler Scheduler for Diffusion Models**|Zitong Cheng et.al.|[2311.06845v1](http://arxiv.org/abs/2311.06845v1)|**[link](https://github.com/carzit/sd-webui-samplers-scheduler)**|
 |**2023-11-12**|**On the rate of change of Varentropy for Markov diffusion processes**|Michele Pavon et.al.|[2311.06824v1](http://arxiv.org/abs/2311.06824v1)|null|
 |**2023-11-12**|**IMPUS: Image Morphing with Perceptually-Uniform Sampling Using Diffusion Models**|Zhaoyuan Yang et.al.|[2311.06792v1](http://arxiv.org/abs/2311.06792v1)|null|
@@ -149,7 +149,7 @@
 |**2023-11-12**|**Two Stream Scene Understanding on Graph Embedding**|Wenkai Yang et.al.|[2311.06746v1](http://arxiv.org/abs/2311.06746v1)|null|
 |**2023-11-11**|**Traffic Sign Recognition Using Local Vision Transformer**|Ali Farzipour et.al.|[2311.06651v1](http://arxiv.org/abs/2311.06651v1)|null|
 |**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243v1](http://arxiv.org/abs/2311.06243v1)|null|
-|**2023-11-10**|**Automatic Report Generation for Histopathology images using pre-trained Vision Transformers**|Saurav Sengupta et.al.|[2311.06176v1](http://arxiv.org/abs/2311.06176v1)|null|
+|**2023-11-10**|**Automatic Report Generation for Histopathology images using pre-trained Vision Transformers**|Saurav Sengupta et.al.|[2311.06176v2](http://arxiv.org/abs/2311.06176v2)|null|
 |**2023-11-10**|**Vision Big Bird: Random Sparsification for Full Attention**|Zhemin Zhang et.al.|[2311.05988v1](http://arxiv.org/abs/2311.05988v1)|null|
 |**2023-11-09**|**Intelligent Cervical Spine Fracture Detection Using Deep Learning Methods**|Reza Behbahani Nejad et.al.|[2311.05708v1](http://arxiv.org/abs/2311.05708v1)|null|
 |**2023-11-09**|**FMViT: A multiple-frequency mixing Vision Transformer**|Wei Tan et.al.|[2311.05707v1](http://arxiv.org/abs/2311.05707v1)|null|
