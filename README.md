@@ -1,4 +1,4 @@
-## Updated on 2023.11.15
+## Updated on 2023.11.16
 
 ## Image Generation
 
@@ -25,7 +25,7 @@
 |**2023-11-07**|**Image Generation and Learning Strategy for Deep Document Forgery Detection**|Yamato Okamoto et.al.|[2311.03650v1](http://arxiv.org/abs/2311.03650v1)|null|
 |**2023-11-06**|**SegGen: Supercharging Segmentation Models with Text2Mask and Mask2Img Synthesis**|Hanrong Ye et.al.|[2311.03355v1](http://arxiv.org/abs/2311.03355v1)|null|
 |**2023-11-06**|**Cross-Image Attention for Zero-Shot Appearance Transfer**|Yuval Alaluf et.al.|[2311.03335v1](http://arxiv.org/abs/2311.03335v1)|null|
-|**2023-11-04**|**From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models**|Zhuoshi Pan et.al.|[2311.02373v1](http://arxiv.org/abs/2311.02373v1)|null|
+|**2023-11-04**|**From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models**|Zhuoshi Pan et.al.|[2311.02373v1](http://arxiv.org/abs/2311.02373v1)|**[link](https://github.com/optml-group/bibaddiff)**|
 |**2023-11-04**|**Stable Diffusion Reference Only: Image Prompt and Blueprint Jointly Guided Multi-Condition Diffusion Model for Secondary Painting**|Hao Ai et.al.|[2311.02343v1](http://arxiv.org/abs/2311.02343v1)|**[link](https://github.com/aihao2000/stable-diffusion-reference-only)**|
 |**2023-11-03**|**PRISM: Progressive Restoration for Scene Graph-based Image Manipulation**|Pavel Jahoda et.al.|[2311.02247v1](http://arxiv.org/abs/2311.02247v1)|null|
 |**2023-11-03**|**RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches**|Jiayuan Gu et.al.|[2311.01977v2](http://arxiv.org/abs/2311.01977v2)|null|
@@ -124,16 +124,16 @@
 |**2023-11-13**|**Deconstructing Magnetization Noise: Degeneracies, Phases, and Mobile Fractionalized Excitations in Tetris Artificial Spin Ice**|M. Goryca et.al.|[2311.07801v1](http://arxiv.org/abs/2311.07801v1)|null|
 |**2023-11-13**|**Optimal control formulation of transition path problems for Markov Jump Processes**|Yuan Gao et.al.|[2311.07795v1](http://arxiv.org/abs/2311.07795v1)|null|
 |**2023-11-13**|**Distributed pressure matching strategy using diffusion adaptation**|Mengfei Zhang et.al.|[2311.07729v1](http://arxiv.org/abs/2311.07729v1)|null|
-|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554v1](http://arxiv.org/abs/2311.07554v1)|null|
+|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554v1](http://arxiv.org/abs/2311.07554v1)|**[link](https://github.com/ucrparlay/influence-maximization)**|
 |**2023-11-13**|**Scalar curvature for metric spaces: Defining curvature for Quantum Gravity without coordinates**|Agustín Silva et.al.|[2311.07507v2](http://arxiv.org/abs/2311.07507v2)|null|
 |**2023-11-13**|**What can we learn from diffusion about Anderson localization of a degenerate Fermi gas?**|Sian Barbosa et.al.|[2311.07505v1](http://arxiv.org/abs/2311.07505v1)|null|
 |**2023-11-13**|**HESS J1809-193: Gamma-Ray Emission by Cosmic Rays from Past Explosion**|Sovan Boxi et.al.|[2311.07481v1](http://arxiv.org/abs/2311.07481v1)|null|
 |**2023-11-13**|**Quark production and thermalization of the quark-gluon plasma**|Sergio Barrera Cabodevila et.al.|[2311.07450v1](http://arxiv.org/abs/2311.07450v1)|null|
-|**2023-11-13**|**Harnessing elastic instabilities for enhanced mixing and reaction kinetics in porous media**|Christopher A. Browne et.al.|[2311.07431v1](http://arxiv.org/abs/2311.07431v1)|null|
+|**2023-11-13**|**Harnessing elastic instabilities for enhanced mixing and reaction kinetics in porous media**|Christopher A. Browne et.al.|[2311.07431v1](http://arxiv.org/abs/2311.07431v1)|**[link](https://github.com/cabrowne/enhancedmixing)**|
 |**2023-11-13**|**Robust semi-supervised segmentation with timestep ensembling diffusion models**|Margherita Rosnati et.al.|[2311.07421v1](http://arxiv.org/abs/2311.07421v1)|null|
 |**2023-11-13**|**Superdiffusive magnetization transport in the XX spin chain with non-local dephasing**|Marko Znidaric et.al.|[2311.07375v1](http://arxiv.org/abs/2311.07375v1)|null|
 |**2023-11-13**|**Coupling haze and cloud microphysics in WASP-39b's atmosphere based on JWST observations**|Anthony Arfaux et.al.|[2311.07365v1](http://arxiv.org/abs/2311.07365v1)|null|
-|**2023-11-13**|**Zero-Shot Duet Singing Voices Separation with Diffusion Models**|Chin-Yun Yu et.al.|[2311.07345v1](http://arxiv.org/abs/2311.07345v1)|null|
+|**2023-11-13**|**Zero-Shot Duet Singing Voices Separation with Diffusion Models**|Chin-Yun Yu et.al.|[2311.07345v1](http://arxiv.org/abs/2311.07345v1)|**[link](https://github.com/yoyololicon/duet-svs-diffusion)**|
 |**2023-11-13**|**Fibroblast mediated dynamics in diffusively uncoupled myocytes -- a simulation study using 2-cell motifs**|S. Sridhar et.al.|[2311.07313v1](http://arxiv.org/abs/2311.07313v1)|null|
 |**2023-11-13**|**Effect of inelastic ion collisions on low-gain avalanche detectors explained by an A_Si-Si_i-defect mode**|Kevin Lauer et.al.|[2311.07280v1](http://arxiv.org/abs/2311.07280v1)|null|
 
@@ -250,7 +250,7 @@
 |**2023-11-13**|**DeepMetricEye: Metric Depth Estimation in Periocular VR Imagery**|Yitong Sun et.al.|[2311.07235v1](http://arxiv.org/abs/2311.07235v1)|null|
 |**2023-11-13**|**MonoDiffusion: Self-Supervised Monocular Depth Estimation Using Diffusion Model**|Shuwei Shao et.al.|[2311.07198v1](http://arxiv.org/abs/2311.07198v1)|**[link](https://github.com/shuweishao/monodiffusion)**|
 |**2023-11-13**|**NDDepth: Normal-Distance Assisted Monocular Depth Estimation and Completion**|Shuwei Shao et.al.|[2311.07166v1](http://arxiv.org/abs/2311.07166v1)|**[link](https://github.com/ShuweiShao/NDDepth)**|
-|**2023-11-10**|**MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty**|Rémi Marsal et.al.|[2311.06137v1](http://arxiv.org/abs/2311.06137v1)|null|
+|**2023-11-10**|**MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty**|Rémi Marsal et.al.|[2311.06137v1](http://arxiv.org/abs/2311.06137v1)|**[link](https://github.com/cea-list/monoprob)**|
 |**2023-11-09**|**PolyMaX: General Dense Prediction with Mask Transformer**|Xuan Yang et.al.|[2311.05770v1](http://arxiv.org/abs/2311.05770v1)|**[link](https://github.com/google-research/deeplab2)**|
 |**2023-11-08**|**Leveraging a realistic synthetic database to learn Shape-from-Shading for estimating the colon depth in colonoscopy images**|Josué Ruano et.al.|[2311.05021v1](http://arxiv.org/abs/2311.05021v1)|null|
 |**2023-11-07**|**Analysis of NaN Divergence in Training Monocular Depth Estimation Model**|Bum Jun Kim et.al.|[2311.03938v1](http://arxiv.org/abs/2311.03938v1)|null|
