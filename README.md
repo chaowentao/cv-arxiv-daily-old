@@ -116,10 +116,10 @@
 |**2023-11-15**|**Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search**|Hefeng Wu et.al.|[2311.09084v1](http://arxiv.org/abs/2311.09084v1)|**[link](https://github.com/hcplab-sysu/personsearch-ctlg)**|
 |**2023-11-15**|**A Spectral Diffusion Prior for Hyperspectral Image Super-Resolution**|Jianjun Liu et.al.|[2311.08955v1](http://arxiv.org/abs/2311.08955v1)|null|
 |**2023-11-15**|**Observing planetesimal formation under streaming instability in the rings of HD 163296**|Francesco Zagaria et.al.|[2311.08950v1](http://arxiv.org/abs/2311.08950v1)|null|
-|**2023-11-15**|**Role of the isospin diffusion on cluster transfer in $^{12,14}$C + $^{209}$Bi reactions**|Zepeng Gao et.al.|[2311.08897v1](http://arxiv.org/abs/2311.08897v1)|null|
+|**2023-11-15**|**Role of the isospin diffusion on cluster transfer in $^{12,14}$C + $^{209}$Bi reactions**|Zepeng Gao et.al.|[2311.08897v2](http://arxiv.org/abs/2311.08897v2)|null|
 |**2023-11-15**|**Stark-Many body localization in interacting infinite dimensional systems**|Hristiana Atanasova et.al.|[2311.08893v1](http://arxiv.org/abs/2311.08893v1)|null|
 |**2023-11-15**|**Parameters of nucleon densities and the Coulomb barrier in heavy-ion collisions**|Makar Simonov et.al.|[2311.08892v1](http://arxiv.org/abs/2311.08892v1)|null|
-|**2023-11-15**|**One-Shot Federated Learning with Classifier-Guided Diffusion Models**|Mingzhao Yang et.al.|[2311.08870v1](http://arxiv.org/abs/2311.08870v1)|null|
+|**2023-11-15**|**One-Shot Federated Learning with Classifier-Guided Diffusion Models**|Mingzhao Yang et.al.|[2311.08870v2](http://arxiv.org/abs/2311.08870v2)|null|
 |**2023-11-15**|**A unified framework for multiscale spectral generalized FEMs and low-rank approximations to multiscale PDEs**|Chupeng Ma et.al.|[2311.08761v1](http://arxiv.org/abs/2311.08761v1)|null|
 |**2023-11-15**|**A Diffusion Model Based Quality Enhancement Method for HEVC Compressed Video**|Zheng Liu et.al.|[2311.08746v1](http://arxiv.org/abs/2311.08746v1)|null|
 |**2023-11-15**|**Towards Graph-Aware Diffusion Modeling for Collaborative Filtering**|Yunqin Zhu et.al.|[2311.08744v1](http://arxiv.org/abs/2311.08744v1)|null|
@@ -127,12 +127,12 @@
 |**2023-11-15**|**EDMSound: Spectrogram Based Diffusion Models for Efficient and High-Quality Audio Synthesis**|Ge Zhu et.al.|[2311.08667v1](http://arxiv.org/abs/2311.08667v1)|null|
 |**2023-11-14**|**A Two-Field Formulation for Surfactant Transport within the Algebraic Volume of Fluid Method**|T. Antritter et.al.|[2311.08591v1](http://arxiv.org/abs/2311.08591v1)|null|
 |**2023-11-14**|**Finding AI-Generated Faces in the Wild**|Gonzalo J. Aniano Porcile et.al.|[2311.08577v1](http://arxiv.org/abs/2311.08577v1)|null|
-|**2023-11-14**|**Probabilistic reconstruction of Dark Matter fields from biased tracers using diffusion models**|Core Francisco Park et.al.|[2311.08558v1](http://arxiv.org/abs/2311.08558v1)|null|
+|**2023-11-14**|**Probabilistic reconstruction of Dark Matter fields from biased tracers using diffusion models**|Core Francisco Park et.al.|[2311.08558v1](http://arxiv.org/abs/2311.08558v1)|**[link](https://github.com/cfpark00/vdm4cdm)**|
 |**2023-11-14**|**Direct numerical simulation of compressible interfacial multiphase flows using a mass-momentum-energy consistent volume-of-fluid method**|Bo Zhang et.al.|[2311.08510v1](http://arxiv.org/abs/2311.08510v1)|null|
 |**2023-11-14**|**AGN in overdense environments at high-$z$ with AXIS**|Fabio Vito et.al.|[2311.08466v1](http://arxiv.org/abs/2311.08466v1)|null|
 |**2023-11-14**|**Fermi-bubble bulk and edge analysis reveals dust, cooling breaks, and cosmic-ray diffusion, facilitating a self-consistent model**|Uri Keshet et.al.|[2311.08459v1](http://arxiv.org/abs/2311.08459v1)|null|
 |**2023-11-14**|**Deconfinement Dynamics of Fractons in Tilted Bose-Hubbard Chains**|Julian Boesl et.al.|[2311.08455v1](http://arxiv.org/abs/2311.08455v1)|null|
-|**2023-11-14**|**Mustango: Toward Controllable Text-to-Music Generation**|Jan Melechovsky et.al.|[2311.08355v1](http://arxiv.org/abs/2311.08355v1)|null|
+|**2023-11-14**|**Mustango: Toward Controllable Text-to-Music Generation**|Jan Melechovsky et.al.|[2311.08355v1](http://arxiv.org/abs/2311.08355v1)|**[link](https://github.com/amaai-lab/mustango)**|
 |**2023-11-14**|**Modelling two Energetic Storm Particle Events Observed by Solar Orbiter Using the Combined EUHFORIA and iPATH Models**|Zheyi Ding et.al.|[2311.08346v1](http://arxiv.org/abs/2311.08346v1)|null|
 |**2023-11-14**|**Generative De-Quantization for Neural Speech Codec via Latent Diffusion**|Haici Yang et.al.|[2311.08330v2](http://arxiv.org/abs/2311.08330v2)|null|
 |**2023-11-14**|**Dynamical evolution of spinodal decomposition in holographic superfluids**|Xin Zhao et.al.|[2311.08277v1](http://arxiv.org/abs/2311.08277v1)|null|
@@ -246,7 +246,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-15**|**Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions**|Xingshuai Dong et.al.|[2311.09093v1](http://arxiv.org/abs/2311.09093v1)|null|
+|**2023-11-15**|**Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions**|Xingshuai Dong et.al.|[2311.09093v2](http://arxiv.org/abs/2311.09093v2)|null|
 |**2023-11-14**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi et.al.|[2311.08129v1](http://arxiv.org/abs/2311.08129v1)|null|
 |**2023-11-13**|**DeepMetricEye: Metric Depth Estimation in Periocular VR Imagery**|Yitong Sun et.al.|[2311.07235v1](http://arxiv.org/abs/2311.07235v1)|null|
 |**2023-11-13**|**MonoDiffusion: Self-Supervised Monocular Depth Estimation Using Diffusion Model**|Shuwei Shao et.al.|[2311.07198v1](http://arxiv.org/abs/2311.07198v1)|**[link](https://github.com/shuweishao/monodiffusion)**|
