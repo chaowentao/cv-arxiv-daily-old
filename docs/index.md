@@ -19,7 +19,7 @@ layout: default
 |**2023-11-16**|**MAM-E: Mammographic synthetic image generation with diffusion models**|Ricardo Montoya-del-Angel et.al.|[2311.09822v1](http://arxiv.org/abs/2311.09822v1)|**[link](https://github.com/Likalto4/diffusion-models_master)**|
 |**2023-11-16**|**DIFFNAT: Improving Diffusion Image Quality Using Natural Image Statistics**|Aniket Roy et.al.|[2311.09753v1](http://arxiv.org/abs/2311.09753v1)|null|
 |**2023-11-15**|**FastBlend: a Powerful Model-Free Toolkit Making Video Stylization Easier**|Zhongjie Duan et.al.|[2311.09265v1](http://arxiv.org/abs/2311.09265v1)|**[link](https://github.com/artiprocher/sd-webui-fastblend)**|
-|**2023-11-14**|**UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs**|Yanwu Xu et.al.|[2311.09257v1](http://arxiv.org/abs/2311.09257v1)|null|
+|**2023-11-14**|**UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs**|Yanwu Xu et.al.|[2311.09257v2](http://arxiv.org/abs/2311.09257v2)|null|
 |**2023-11-15**|**Progressive Feedback-Enhanced Transformer for Image Forgery Localization**|Haochen Zhu et.al.|[2311.08910v1](http://arxiv.org/abs/2311.08910v1)|null|
 |**2023-11-14**|**Finding AI-Generated Faces in the Wild**|Gonzalo J. Aniano Porcile et.al.|[2311.08577v1](http://arxiv.org/abs/2311.08577v1)|null|
 |**2023-11-14**|**Peer is Your Pillar: A Data-unbalanced Conditional GANs for Few-shot Image Generation**|Ziqiang Li et.al.|[2311.08217v1](http://arxiv.org/abs/2311.08217v1)|null|
@@ -160,7 +160,7 @@ layout: default
 |**2023-11-14**|**Act-VIT: A Representationally Robust Attention Architecture for Skeleton Based Action Recognition Using Vision Transformer**|Ozge Oztimur Karadag et.al.|[2311.08094v1](http://arxiv.org/abs/2311.08094v1)|null|
 |**2023-11-14**|**Dual-channel Prototype Network for few-shot Classification of Pathological Images**|Hao Quan et.al.|[2311.07871v1](http://arxiv.org/abs/2311.07871v1)|null|
 |**2023-11-14**|**Probing clustering in neural network representations**|Thao Nguyen et.al.|[2311.07864v1](http://arxiv.org/abs/2311.07864v1)|null|
-|**2023-11-13**|**SynthEnsemble: A Fusion of CNN, Vision Transformer, and Hybrid Models for Multi-Label Chest X-Ray Classification**|S. M. Nabil Ashraf et.al.|[2311.07750v1](http://arxiv.org/abs/2311.07750v1)|null|
+|**2023-11-13**|**SynthEnsemble: A Fusion of CNN, Vision Transformer, and Hybrid Models for Multi-Label Chest X-Ray Classification**|S. M. Nabil Ashraf et.al.|[2311.07750v2](http://arxiv.org/abs/2311.07750v2)|null|
 |**2023-11-13**|**LT-ViT: A Vision Transformer for multi-label Chest X-ray classification**|Umar Marikkar et.al.|[2311.07263v1](http://arxiv.org/abs/2311.07263v1)|null|
 |**2023-11-13**|**Cross-Axis Transformer with 2D Rotary Embeddings**|Lily Erickson et.al.|[2311.07184v1](http://arxiv.org/abs/2311.07184v1)|null|
 |**2023-11-12**|**TSViT: A Time Series Vision Transformer for Fault Diagnosis**|Shouhua Zhang et.al.|[2311.06916v1](http://arxiv.org/abs/2311.06916v1)|null|
@@ -181,7 +181,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-17**|**Removing Adverse Volumetric Effects From Trained Neural Radiance Fields**|Andreas L. Teigen et.al.|[2311.10523v1](http://arxiv.org/abs/2311.10523v1)|null|
-|**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806v1](http://arxiv.org/abs/2311.09806v1)|null|
+|**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806v2](http://arxiv.org/abs/2311.09806v2)|null|
 |**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646v1](http://arxiv.org/abs/2311.09646v1)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221v1](http://arxiv.org/abs/2311.09221v1)|null|
 |**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217v1](http://arxiv.org/abs/2311.09217v1)|null|
@@ -241,7 +241,7 @@ layout: default
 |**2023-11-07**|**Predictive Sampling for Efficient Pairwise Subjective Image Quality Assessment**|Shima Mohammadi et.al.|[2311.03850v1](http://arxiv.org/abs/2311.03850v1)|**[link](https://github.com/shimamohammadi/ps-pc)**|
 |**2023-11-06**|**Analysis of the sparse super resolution limit using the Cramér-Rao lower bound**|Mathias Hockmann et.al.|[2311.03178v1](http://arxiv.org/abs/2311.03178v1)|null|
 |**2023-11-05**|**Super-resolved snapshot hyperspectral imaging of solid-state quantum emitters for high-throughput integrated quantum technologies**|Shunfa Liu et.al.|[2311.02626v1](http://arxiv.org/abs/2311.02626v1)|null|
-|**2023-11-04**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution $-$ a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358v2](http://arxiv.org/abs/2311.02358v2)|**[link](https://github.com/GreyCC/DTLS)**|
+|**2023-11-04**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution - a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358v3](http://arxiv.org/abs/2311.02358v3)|**[link](https://github.com/GreyCC/DTLS)**|
 |**2023-11-04**|**An Operator Learning Framework for Spatiotemporal Super-resolution of Scientific Simulations**|Valentin Duruisseaux et.al.|[2311.02328v1](http://arxiv.org/abs/2311.02328v1)|**[link](https://github.com/vduruiss/sropnet)**|
 |**2023-11-03**|**Learning-Based and Quality Preserving Super-Resolution of Noisy Images**|Simone Cammarasana et.al.|[2311.02254v1](http://arxiv.org/abs/2311.02254v1)|null|
 |**2023-11-03**|**A Structured Pruning Algorithm for Model-based Deep Learning**|Chicago Park et.al.|[2311.02003v1](http://arxiv.org/abs/2311.02003v1)|null|
