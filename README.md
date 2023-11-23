@@ -216,7 +216,7 @@
 |**2023-11-21**|**HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis**|Sang-Hoon Lee et.al.|[2311.12454v1](http://arxiv.org/abs/2311.12454v1)|**[link](https://github.com/sh-lee-prml/hierspeechpp)**|
 |**2023-11-20**|**Efficient Model Agnostic Approach for Implicit Neural Representation Based Arbitrary-Scale Image Super-Resolution**|Young Jae Oh et.al.|[2311.12077v1](http://arxiv.org/abs/2311.12077v1)|null|
 |**2023-11-18**|**LATIS: Lambda Abstraction-based Thermal Image Super-resolution**|Gargi Panda et.al.|[2311.12046v1](http://arxiv.org/abs/2311.12046v1)|null|
-|**2023-11-20**|**Generalized super-resolution 4D Flow MRI -- using ensemble learning to extend across the cardiovascular system**|Leon Ericsson et.al.|[2311.11819v1](http://arxiv.org/abs/2311.11819v1)|null|
+|**2023-11-20**|**Generalized super-resolution 4D Flow MRI $\unicode{x2013}$ using ensemble learning to extend across the cardiovascular system**|Leon Ericsson et.al.|[2311.11819v2](http://arxiv.org/abs/2311.11819v2)|null|
 |**2023-11-16**|**K-space Cold Diffusion: Learning to Reconstruct Accelerated MRI without Noise**|Guoyao Shen et.al.|[2311.10162v1](http://arxiv.org/abs/2311.10162v1)|null|
 |**2023-11-16**|**Combined Channel and Spatial Attention-based Stereo Endoscopic Image Super-Resolution**|Mansoor Hayat et.al.|[2311.10115v1](http://arxiv.org/abs/2311.10115v1)|null|
 |**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089v1](http://arxiv.org/abs/2311.10089v1)|null|
