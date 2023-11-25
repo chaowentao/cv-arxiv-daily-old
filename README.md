@@ -1,4 +1,4 @@
-## Updated on 2023.11.24
+## Updated on 2023.11.25
 
 ## Image Generation
 
@@ -7,7 +7,7 @@
 |**2023-11-22**|**Guided Flows for Generative Modeling and Decision Making**|Qinqing Zheng et.al.|[2311.13443v1](http://arxiv.org/abs/2311.13443v1)|null|
 |**2023-11-22**|**LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes**|Jaeyoung Chung et.al.|[2311.13384v1](http://arxiv.org/abs/2311.13384v1)|null|
 |**2023-11-22**|**Retargeting Visual Data with Deformation Fields**|Tim Elsner et.al.|[2311.13297v1](http://arxiv.org/abs/2311.13297v1)|null|
-|**2023-11-22**|**Diffusion360: Seamless 360 Degree Panoramic Image Generation based on Diffusion Models**|Mengyang Feng et.al.|[2311.13141v1](http://arxiv.org/abs/2311.13141v1)|null|
+|**2023-11-22**|**Diffusion360: Seamless 360 Degree Panoramic Image Generation based on Diffusion Models**|Mengyang Feng et.al.|[2311.13141v1](http://arxiv.org/abs/2311.13141v1)|**[link](https://github.com/archerfmy/sd-t2i-360panoimage)**|
 |**2023-11-21**|**GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning**|Jiaxi Lv et.al.|[2311.12631v1](http://arxiv.org/abs/2311.12631v1)|null|
 |**2023-11-20**|**NeuroPrompts: An Adaptive Framework to Optimize Prompts for Text-to-Image Generation**|Shachar Rosenman et.al.|[2311.12229v1](http://arxiv.org/abs/2311.12229v1)|null|
 |**2023-11-20**|**Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models**|Rohit Gandikota et.al.|[2311.12092v1](http://arxiv.org/abs/2311.12092v1)|**[link](https://github.com/rohitgandikota/sliders)**|
@@ -111,7 +111,7 @@
 |**2023-11-22**|**ADriver-I: A General World Model for Autonomous Driving**|Fan Jia et.al.|[2311.13549v1](http://arxiv.org/abs/2311.13549v1)|null|
 |**2023-11-22**|**DiffusionMat: Alpha Matting as Sequential Refinement Learning**|Yangyang Xu et.al.|[2311.13535v1](http://arxiv.org/abs/2311.13535v1)|null|
 |**2023-11-22**|**Analysis of a multi-species Cahn-Hilliard-Keller-Segel tumor growth model with chemotaxis and angiogenesis**|Abramo Agosti et.al.|[2311.13470v1](http://arxiv.org/abs/2311.13470v1)|null|
-|**2023-11-22**|**Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466v1](http://arxiv.org/abs/2311.13466v1)|null|
+|**2023-11-22**|**Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466v1](http://arxiv.org/abs/2311.13466v1)|**[link](https://github.com/dunni3/keypoint-diffusion)**|
 |**2023-11-22**|**An exact bandit model for the risk-volatility tradeoff**|Max-Olivier Hongler et.al.|[2311.13461v1](http://arxiv.org/abs/2311.13461v1)|null|
 |**2023-11-22**|**Guided Flows for Generative Modeling and Decision Making**|Qinqing Zheng et.al.|[2311.13443v1](http://arxiv.org/abs/2311.13443v1)|null|
 |**2023-11-22**|**Simultaneous uniqueness and numerical inversion for an inverse problem in the time-domain diffuse optical tomography with fluorescence**|Zhiyuan Li et.al.|[2311.13391v1](http://arxiv.org/abs/2311.13391v1)|null|
@@ -124,10 +124,10 @@
 |**2023-11-22**|**Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model**|Kai Yang et.al.|[2311.13231v1](http://arxiv.org/abs/2311.13231v1)|null|
 |**2023-11-22**|**Heat dissipation mechanisms in hybrid superconductor-semiconductor devices revealed by Joule spectroscopy**|Angel Ibabe et.al.|[2311.13229v1](http://arxiv.org/abs/2311.13229v1)|null|
 |**2023-11-22**|**Electrified Fracture of Nanotube Films**|Jinbo Bian et.al.|[2311.13208v1](http://arxiv.org/abs/2311.13208v1)|null|
-|**2023-11-22**|**Diffusion360: Seamless 360 Degree Panoramic Image Generation based on Diffusion Models**|Mengyang Feng et.al.|[2311.13141v1](http://arxiv.org/abs/2311.13141v1)|null|
-|**2023-11-22**|**Toward Robust Imperceptible Perturbation against Unauthorized Text-to-image Diffusion-based Synthesis**|Yixin Liu et.al.|[2311.13127v1](http://arxiv.org/abs/2311.13127v1)|null|
+|**2023-11-22**|**Diffusion360: Seamless 360 Degree Panoramic Image Generation based on Diffusion Models**|Mengyang Feng et.al.|[2311.13141v1](http://arxiv.org/abs/2311.13141v1)|**[link](https://github.com/archerfmy/sd-t2i-360panoimage)**|
+|**2023-11-22**|**Toward Robust Imperceptible Perturbation against Unauthorized Text-to-image Diffusion-based Synthesis**|Yixin Liu et.al.|[2311.13127v1](http://arxiv.org/abs/2311.13127v1)|**[link](https://github.com/liuyixin-louis/metacloak)**|
 |**2023-11-22**|**On the Limitation of Diffusion Models for Synthesizing Training Datasets**|Shin'ya Yamaguchi et.al.|[2311.13090v1](http://arxiv.org/abs/2311.13090v1)|null|
-|**2023-11-22**|**FusionFrames: Efficient Architectural Aspects for Text-to-Video Generation Pipeline**|Vladimir Arkhipkin et.al.|[2311.13073v1](http://arxiv.org/abs/2311.13073v1)|null|
+|**2023-11-22**|**FusionFrames: Efficient Architectural Aspects for Text-to-Video Generation Pipeline**|Vladimir Arkhipkin et.al.|[2311.13073v1](http://arxiv.org/abs/2311.13073v1)|**[link](https://github.com/ai-forever/kandinskyvideo)**|
 |**2023-11-21**|**Information Diffusion, Word-of-mouth effects, and Mutual Funds Performance: A Mathematical Modelling Approach**|Leonard Mushunje et.al.|[2311.12984v1](http://arxiv.org/abs/2311.12984v1)|null|
 |**2023-11-21**|**SD-NAE: Generating Natural Adversarial Examples with Stable Diffusion**|Yueqian Lin et.al.|[2311.12981v1](http://arxiv.org/abs/2311.12981v1)|null|
 |**2023-11-21**|**Differential rotation in convecting spherical shells with non-uniform viscosity and entropy diffusivity**|Parag Gupta et.al.|[2311.12957v1](http://arxiv.org/abs/2311.12957v1)|null|
@@ -149,7 +149,7 @@
 |**2023-11-19**|**Shape-Sensitive Loss for Catheter and Guidewire Segmentation**|Chayun Kongtongvattana et.al.|[2311.11205v1](http://arxiv.org/abs/2311.11205v1)|null|
 |**2023-11-18**|**Contextualizing Internet Memes Across Social Media Platforms**|Saurav Joshi et.al.|[2311.11157v1](http://arxiv.org/abs/2311.11157v1)|null|
 |**2023-11-17**|**Semi-supervised ViT knowledge distillation network with style transfer normalization for colorectal liver metastases survival prediction**|Mohamed El Amine Elforaici et.al.|[2311.10305v1](http://arxiv.org/abs/2311.10305v1)|null|
-|**2023-11-16**|**I&S-ViT: An Inclusive & Stable Method for Pushing the Limit of Post-Training ViTs Quantization**|Yunshan Zhong et.al.|[2311.10126v1](http://arxiv.org/abs/2311.10126v1)|**[link](https://github.com/zysxmu/ias-vit)**|
+|**2023-11-16**|**I&S-ViT: An Inclusive & Stable Method for Pushing the Limit of Post-Training ViTs Quantization**|Yunshan Zhong et.al.|[2311.10126v1](http://arxiv.org/abs/2311.10126v1)|null|
 |**2023-11-16**|**Multi-View Spectrogram Transformer for Respiratory Sound Classification**|Wentao He et.al.|[2311.09655v1](http://arxiv.org/abs/2311.09655v1)|null|
 |**2023-11-16**|**Improved TokenPose with Sparsity**|Anning Li et.al.|[2311.09653v1](http://arxiv.org/abs/2311.09653v1)|null|
 |**2023-11-15**|**DISTA: Denoising Spiking Transformer with intrinsic plasticity and spatiotemporal attention**|Boxun Xu et.al.|[2311.09376v1](http://arxiv.org/abs/2311.09376v1)|null|
@@ -247,7 +247,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398v1](http://arxiv.org/abs/2311.13398v1)|null|
-|**2023-11-21**|**Camera-Independent Single Image Depth Estimation from Defocus Blur**|Lahiru Wijayasingha et.al.|[2311.13045v1](http://arxiv.org/abs/2311.13045v1)|null|
+|**2023-11-21**|**Camera-Independent Single Image Depth Estimation from Defocus Blur**|Lahiru Wijayasingha et.al.|[2311.13045v1](http://arxiv.org/abs/2311.13045v1)|**[link](https://github.com/sleekeagle/defocus_camind)**|
 |**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2311.12754v1](http://arxiv.org/abs/2311.12754v1)|**[link](https://github.com/huang-yh/selfocc)**|
 |**2023-11-21**|**Transferring to Real-World Layouts: A Depth-aware Framework for Scene Adaptation**|Mu Chen et.al.|[2311.12682v1](http://arxiv.org/abs/2311.12682v1)|null|
 |**2023-11-19**|**SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints**|Aditya Nalgunda Ganesh et.al.|[2311.11371v1](http://arxiv.org/abs/2311.11371v1)|null|
