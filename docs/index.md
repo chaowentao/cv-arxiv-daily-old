@@ -33,7 +33,7 @@ layout: default
 |**2023-11-27**|**Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation**|Biao Gong et.al.|[2311.15773v1](http://arxiv.org/abs/2311.15773v1)|null|
 |**2023-11-27**|**Reinforcement Learning from Diffusion Feedback: Q* for Image Search**|Aboli Marathe et.al.|[2311.15648v1](http://arxiv.org/abs/2311.15648v1)|null|
 |**2023-11-27**|**ET3D: Efficient Text-to-3D Generation via Multi-View Distillation**|Yiming Chen et.al.|[2311.15561v1](http://arxiv.org/abs/2311.15561v1)|null|
-|**2023-11-27**|**PKU-I2IQA: An Image-to-Image Quality Assessment Database for AI Generated Images**|Jiquan Yuan et.al.|[2311.15556v1](http://arxiv.org/abs/2311.15556v1)|**[link](https://github.com/jiquan123/i2iqa)**|
+|**2023-11-27**|**PKU-I2IQA: An Image-to-Image Quality Assessment Database for AI Generated Images**|Jiquan Yuan et.al.|[2311.15556v2](http://arxiv.org/abs/2311.15556v2)|**[link](https://github.com/jiquan123/i2iqa)**|
 |**2023-11-26**|**Flow-Guided Diffusion for Video Inpainting**|Bohai Gu et.al.|[2311.15368v1](http://arxiv.org/abs/2311.15368v1)|**[link](https://github.com/nevsnev/fgdvi)**|
 |**2023-11-26**|**BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models from Chest X-Ray Images**|Zhanghao Chen et.al.|[2311.15328v1](http://arxiv.org/abs/2311.15328v1)|null|
 |**2023-11-25**|**Leveraging Diffusion Perturbations for Measuring Fairness in Computer Vision**|Nicholas Lui et.al.|[2311.15108v1](http://arxiv.org/abs/2311.15108v1)|null|
@@ -128,7 +128,7 @@ layout: default
 |**2023-11-28**|**UGG: Unified Generative Grasping**|Jiaxin Lu et.al.|[2311.16917v1](http://arxiv.org/abs/2311.16917v1)|null|
 |**2023-11-28**|**Diffusive evaporation dynamics in polymer solutions is ubiquitous**|Max Huisman et.al.|[2311.16911v1](http://arxiv.org/abs/2311.16911v1)|null|
 |**2023-11-28**|**On the existence of optimal multi-valued decoders and their accuracy bounds for undersampled inverse problems**|Nina Maria Gottschling et.al.|[2311.16898v1](http://arxiv.org/abs/2311.16898v1)|null|
-|**2023-11-28**|**A Unified Approach for Text- and Image-guided 4D Scene Generation**|Yufeng Zheng et.al.|[2311.16854v1](http://arxiv.org/abs/2311.16854v1)|null|
+|**2023-11-28**|**A Unified Approach for Text- and Image-guided 4D Scene Generation**|Yufeng Zheng et.al.|[2311.16854v2](http://arxiv.org/abs/2311.16854v2)|null|
 |**2023-11-28**|**Wavelet-based Fourier Information Interaction with Frequency Diffusion Adjustment for Underwater Image Restoration**|Chen Zhao et.al.|[2311.16845v1](http://arxiv.org/abs/2311.16845v1)|null|
 |**2023-11-28**|**Engineering Ratchet-Based Particle Separation via Shortcuts to Isothermality**|Xiu-Hua Zhao et.al.|[2311.16823v1](http://arxiv.org/abs/2311.16823v1)|null|
 |**2023-11-28**|**Denoising Diffusion Probabilistic Models for Image Inpainting of Cell Distributions in the Human Brain**|Jan-Oliver Kropp et.al.|[2311.16821v1](http://arxiv.org/abs/2311.16821v1)|null|
@@ -136,7 +136,7 @@ layout: default
 |**2023-11-28**|**As-Plausible-As-Possible: Plausibility-Aware Mesh Deformation Using 2D Diffusion Priors**|Seungwoo Yoo et.al.|[2311.16739v1](http://arxiv.org/abs/2311.16739v1)|null|
 |**2023-11-28**|**Sluggish and Chemically-Biased Interstitial Diffusion in Concentrated Solid Solution Alloys: Mechanisms and Methods**|Biao Xu et.al.|[2311.16727v1](http://arxiv.org/abs/2311.16727v1)|**[link](https://github.com/jeremy1189/interstitial-diffusion)**|
 |**2023-11-28**|**LEDITS++: Limitless Image Editing using Text-to-Image Models**|Manuel Brack et.al.|[2311.16711v1](http://arxiv.org/abs/2311.16711v1)|null|
-|**2023-11-28**|**ROSO: Improving Robotic Policy Inference via Synthetic Observations**|Yusuke Miyashita et.al.|[2311.16680v1](http://arxiv.org/abs/2311.16680v1)|null|
+|**2023-11-28**|**ROSO: Improving Robotic Policy Inference via Synthetic Observations**|Yusuke Miyashita et.al.|[2311.16680v2](http://arxiv.org/abs/2311.16680v2)|null|
 |**2023-11-28**|**Degenerate drift-diffusion systems for memristors**|Ansgar Jüngel et.al.|[2311.16591v1](http://arxiv.org/abs/2311.16591v1)|null|
 |**2023-11-28**|**Atomic diffusion-induced polarization and superconductivity in topological insulator-based heterostructures**|Xian-Kui Wei et.al.|[2311.16590v1](http://arxiv.org/abs/2311.16590v1)|null|
 |**2023-11-28**|**Geometric thermodynamics of reaction-diffusion systems: Thermodynamic trade-off relations and optimal transport for pattern formation**|Ryuna Nagayama et.al.|[2311.16569v1](http://arxiv.org/abs/2311.16569v1)|null|
@@ -205,7 +205,7 @@ layout: default
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398v1](http://arxiv.org/abs/2311.13398v1)|null|
 |**2023-11-22**|**3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization**|Jianwei Feng et.al.|[2311.13168v1](http://arxiv.org/abs/2311.13168v1)|null|
 |**2023-11-22**|**PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF**|Yutao Feng et.al.|[2311.13099v1](http://arxiv.org/abs/2311.13099v1)|null|
-|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775v1](http://arxiv.org/abs/2311.12775v1)|null|
+|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775v2](http://arxiv.org/abs/2311.12775v2)|null|
 |**2023-11-21**|**Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields**|Yifan Wang et.al.|[2311.12490v1](http://arxiv.org/abs/2311.12490v1)|null|
 |**2023-11-20**|**GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding**|Hao Li et.al.|[2311.11863v1](http://arxiv.org/abs/2311.11863v1)|null|
 |**2023-11-20**|**Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**|Zhiyuan Min et.al.|[2311.11845v1](http://arxiv.org/abs/2311.11845v1)|**[link](https://github.com/tatakai1/evenerf)**|
@@ -255,7 +255,7 @@ layout: default
 |**2023-11-23**|**MonoNav: MAV Navigation via Monocular Depth Estimation and Reconstruction**|Nathaniel Simon et.al.|[2311.14100v1](http://arxiv.org/abs/2311.14100v1)|null|
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398v1](http://arxiv.org/abs/2311.13398v1)|null|
 |**2023-11-21**|**Camera-Independent Single Image Depth Estimation from Defocus Blur**|Lahiru Wijayasingha et.al.|[2311.13045v1](http://arxiv.org/abs/2311.13045v1)|**[link](https://github.com/sleekeagle/defocus_camind)**|
-|**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2311.12754v1](http://arxiv.org/abs/2311.12754v1)|**[link](https://github.com/huang-yh/selfocc)**|
+|**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2311.12754v2](http://arxiv.org/abs/2311.12754v2)|**[link](https://github.com/huang-yh/selfocc)**|
 |**2023-11-21**|**Transferring to Real-World Layouts: A Depth-aware Framework for Scene Adaptation**|Mu Chen et.al.|[2311.12682v1](http://arxiv.org/abs/2311.12682v1)|null|
 |**2023-11-19**|**SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints**|Aditya Nalgunda Ganesh et.al.|[2311.11371v1](http://arxiv.org/abs/2311.11371v1)|null|
 |**2023-11-16**|**Depth Insight -- Contribution of Different Features to Indoor Single-image Depth Estimation**|Yihong Wu et.al.|[2311.10042v1](http://arxiv.org/abs/2311.10042v1)|null|
@@ -286,7 +286,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-28**|**UC-NeRF: Neural Radiance Field for Under-Calibrated multi-view cameras in autonomous driving**|Kai Cheng et.al.|[2311.16945v1](http://arxiv.org/abs/2311.16945v1)|null|
-|**2023-11-28**|**LiveNVS: Neural View Synthesis on Live RGB-D Streams**|Laura Fink et.al.|[2311.16668v1](http://arxiv.org/abs/2311.16668v1)|null|
+|**2023-11-28**|**LiveNVS: Neural View Synthesis on Live RGB-D Streams**|Laura Fink et.al.|[2311.16668v2](http://arxiv.org/abs/2311.16668v2)|null|
 |**2023-11-28**|**Rethinking Directional Integration in Neural Radiance Fields**|Congyue Deng et.al.|[2311.16504v1](http://arxiv.org/abs/2311.16504v1)|null|
 |**2023-11-27**|**Mip-Splatting: Alias-free 3D Gaussian Splatting**|Zehao Yu et.al.|[2311.16493v1](http://arxiv.org/abs/2311.16493v1)|null|
 |**2023-11-27**|**Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**|Yang Liu et.al.|[2311.16482v1](http://arxiv.org/abs/2311.16482v1)|**[link](https://github.com/jimmyYliu/Animatable-3D-Gaussian)**|
