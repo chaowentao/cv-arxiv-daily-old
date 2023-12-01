@@ -180,9 +180,9 @@ if __name__ == "__main__":
     
     keywords = dict()
     keywords["Image Generation"]      = "\"Text-to-Image\"OR\"Image Manipulation\"OR\"Image Editing\"OR\"Image Generation\""
-    keywords["Light Field Super Resolution"]      = "\"Light Field Super Resolution\""
+    keywords["Light Field Super Resolution"]      = "\"Light Field Super Resolution\"OR\"Light Field Image Super-Resolution\""
     keywords["Light Field Depth Estimation"]      = "\"Light Field Depth Estimation\"OR\"Light Field Disparity Estimation\""
-    keywords["Light Field View Synthesis"]      = "\"Light Field View Synthesis\"OR\"Light Field Angular Super Resolution\"OR\"Light Field Angular Reconstruction\""
+    keywords["Light Field View Synthesis"]      = "\"Light Field View Synthesis\"OR\"Light Field Angular Super Resolution\"OR\"Light Field Angular Reconstruction\"OR\"Light Field Reconstruction\""
     keywords["Light Field Other Applications"] = "\"Light Field Deblurring\"OR\"Light Field Saliency Detection\"OR\"Light Field Segmentation\""
     keywords["Diffusion"] = "\"Diffusion\""
 #     keywords["Diffusion"] = "\"Diffusion Super Resolution\"OR\"Diffusion Depth Estimation\"OR\"Diffusion Disparity Estimation\"OR\"Diffusion View Synthesis\""
