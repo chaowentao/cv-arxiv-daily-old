@@ -36,7 +36,7 @@ layout: default
 |**2023-11-27**|**ViT-Lens-2: Gateway to Omni-modal Intelligence**|Weixian Lei et.al.|[2311.16081v1](http://arxiv.org/abs/2311.16081v1)|**[link](https://github.com/TencentARC/ViT-Lens)**|
 |**2023-11-27**|**Direct2.5: Diverse Text-to-3D Generation via Multi-view 2.5D Diffusion**|Yuanxun Lu et.al.|[2311.15980v1](http://arxiv.org/abs/2311.15980v1)|null|
 |**2023-11-27**|**Tell2Design: A Dataset for Language-Guided Floor Plan Generation**|Sicong Leng et.al.|[2311.15941v1](http://arxiv.org/abs/2311.15941v1)|**[link](https://github.com/lengsicong/tell2design)**|
-|**2023-11-27**|**Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation**|Siteng Huang et.al.|[2311.15841v1](http://arxiv.org/abs/2311.15841v1)|null|
+|**2023-11-27**|**Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation**|Siteng Huang et.al.|[2311.15841v2](http://arxiv.org/abs/2311.15841v2)|null|
 |**2023-11-27**|**C-SAW: Self-Supervised Prompt Learning for Image Generalization in Remote Sensing**|Avigyan Bhattacharya et.al.|[2311.15812v1](http://arxiv.org/abs/2311.15812v1)|null|
 
 ## Light Field Super Resolution
@@ -110,14 +110,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921v1](http://arxiv.org/abs/2311.17921v1)|null|
+|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921v2](http://arxiv.org/abs/2311.17921v2)|**[link](https://github.com/soumik-kanad/diffssl)**|
 |**2023-11-29**|**Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models**|Daniel Geng et.al.|[2311.17919v1](http://arxiv.org/abs/2311.17919v1)|null|
 |**2023-11-29**|**AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text**|Jianfeng Zhang et.al.|[2311.17917v1](http://arxiv.org/abs/2311.17917v1)|null|
 |**2023-11-29**|**CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting**|Alexander Vilesov et.al.|[2311.17907v1](http://arxiv.org/abs/2311.17907v1)|null|
 |**2023-11-29**|**SODA: Bottleneck Diffusion Models for Representation Learning**|Drew A. Hudson et.al.|[2311.17901v1](http://arxiv.org/abs/2311.17901v1)|null|
 |**2023-11-29**|**S 308 and other X-ray emitting bubbles around Wolf-Rayet stars**|Francesco Camilloni et.al.|[2311.17879v1](http://arxiv.org/abs/2311.17879v1)|null|
 |**2023-11-29**|**Leveraging Graph Diffusion Models for Network Refinement Tasks**|Puja Trivedi et.al.|[2311.17856v1](http://arxiv.org/abs/2311.17856v1)|null|
-|**2023-11-29**|**SPiC-E : Structural Priors in 3D Diffusion Models using Cross Entity Attention**|Etai Sella et.al.|[2311.17834v1](http://arxiv.org/abs/2311.17834v1)|null|
+|**2023-11-29**|**SPiC-E : Structural Priors in 3D Diffusion Models using Cross-Entity Attention**|Etai Sella et.al.|[2311.17834v2](http://arxiv.org/abs/2311.17834v2)|null|
 |**2023-11-29**|**Analyzing and Explaining Image Classifiers via Diffusion Guidance**|Maximilian Augustin et.al.|[2311.17833v1](http://arxiv.org/abs/2311.17833v1)|null|
 |**2023-11-29**|**An Algorithm Based on a Cable-Nernst Planck Model Predicting Synaptic Activity throughout the Dendritic Arbor with Micron Specificity**|Claire Guerrier et.al.|[2311.17785v1](http://arxiv.org/abs/2311.17785v1)|null|
 |**2023-11-29**|**Experimental and Theoretical Brownian Dynamics Analysis of Ion Transport During Cellular Electroporation of E. coli Bacteria**|Juan González-Cuevas et.al.|[2311.17755v1](http://arxiv.org/abs/2311.17755v1)|null|
@@ -135,11 +135,11 @@ layout: default
 |**2023-11-29**|**HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models**|Shen Zhang et.al.|[2311.17528v1](http://arxiv.org/abs/2311.17528v1)|null|
 |**2023-11-29**|**MMA-Diffusion: MultiModal Attack on Diffusion Models**|Yijun Yang et.al.|[2311.17516v1](http://arxiv.org/abs/2311.17516v1)|null|
 |**2023-11-29**|**Non-Visible Light Data Synthesis and Application: A Case Study for Synthetic Aperture Radar Imagery**|Zichen Tian et.al.|[2311.17486v1](http://arxiv.org/abs/2311.17486v1)|null|
-|**2023-11-29**|**Classification, Challenges, and Automated Approaches to Handle Non-Functional Requirements in ML-Enabled Systems: A Systematic Literature Review**|Vincenzo De Martino et.al.|[2311.17483v1](http://arxiv.org/abs/2311.17483v1)|null|
+|**2023-11-29**|**Classification, Challenges, and Automated Approaches to Handle Non-Functional Requirements in ML-Enabled Systems: A Systematic Literature Review**|Vincenzo De Martino et.al.|[2311.17483v2](http://arxiv.org/abs/2311.17483v2)|null|
 |**2023-11-29**|**When StyleGAN Meets Stable Diffusion: a $\mathscr{W}_+$ Adapter for Personalized Image Generation**|Xiaoming Li et.al.|[2311.17461v1](http://arxiv.org/abs/2311.17461v1)|**[link](https://github.com/csxmli2016/w-plus-adapter)**|
 |**2023-11-29**|**DifFlow3D: Toward Robust Uncertainty-Aware Scene Flow Estimation with Diffusion Model**|Jiuming Liu et.al.|[2311.17456v1](http://arxiv.org/abs/2311.17456v1)|null|
 |**2023-11-29**|**Wireless Network Digital Twin for 6G: Generative AI as A Key Enabler**|Zhenyu Tao et.al.|[2311.17451v1](http://arxiv.org/abs/2311.17451v1)|null|
-|**2023-11-29**|**Quantifying Nonradiative Recombination and Resistive Losses in Perovskite Photovoltaics: A Modified Diode Model Approach**|Minshen Lin et.al.|[2311.17442v1](http://arxiv.org/abs/2311.17442v1)|null|
+|**2023-11-29**|**Quantifying Nonradiative Recombination and Resistive Losses in Perovskite Photovoltaics: A Modified Diode Model Approach**|Minshen Lin et.al.|[2311.17442v2](http://arxiv.org/abs/2311.17442v2)|null|
 
 ## Vision Transformer
 
