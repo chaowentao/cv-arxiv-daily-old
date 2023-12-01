@@ -122,15 +122,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-13**|**View Adaptive Light Field Deblurring Networks with Depth Perception**|Zeqi Shen et.al.|[2303.06860v1](http://arxiv.org/abs/2303.06860v1)|null|
-|**2022-04-28**|**Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection**|Mingtao Feng et.al.|[2204.13456v1](http://arxiv.org/abs/2204.13456v1)|**[link](https://github.com/olobbcode/noiself)**|
-|**2021-10-02**|**Light Field Saliency Detection with Dual Local Graph Learning andReciprocative Guidance**|Nian Liu et.al.|[2110.00698v1](http://arxiv.org/abs/2110.00698v1)|**[link](https://github.com/wangbo-zhao/2021iccv-dlglrg)**|
-|**2020-12-30**|**DUT-LFSaliency: Versatile Dataset and Light Field-to-RGB Saliency Detection**|Yongri Piao et.al.|[2012.15124v1](http://arxiv.org/abs/2012.15124v1)|null|
-|**2020-10-25**|**Fast and Accurate Light Field Saliency Detection through Deep Encoding**|Sahan Hemachandra et.al.|[2010.13073v2](http://arxiv.org/abs/2010.13073v2)|null|
-|**2019-06-19**|**Light Field Saliency Detection with Deep Convolutional Networks**|Jun Zhang et.al.|[1906.08331v2](http://arxiv.org/abs/1906.08331v2)|**[link](https://github.com/pencilzhang/MAC-light-field-saliency-net)**|
-|**2019-03-31**|**Fast and Full-Resolution Light Field Deblurring using a Deep Neural Network**|Jonathan Samuel Lumentut et.al.|[1904.00352v1](http://arxiv.org/abs/1904.00352v1)|null|
-|**2017-12-20**|**Light Field Segmentation From Super-pixel Graph Representation**|Xianqiang Lv et.al.|[1712.07394v1](http://arxiv.org/abs/1712.07394v1)|null|
-|**2017-11-29**|**Joint Blind Motion Deblurring and Depth Estimation of Light Field**|Dongwoo Lee et.al.|[1711.10918v2](http://arxiv.org/abs/1711.10918v2)|null|
+|**2023-11-29**|**Towards Real-World Focus Stacking with Deep Learning**|Alexandre Araujo et.al.|[2311.17846v1](http://arxiv.org/abs/2311.17846v1)|**[link](https://github.com/araujoalexandre/focusstackingdataset)**|
+|**2023-11-29**|**Erasing the Ephemeral: Joint Camera Refinement and Transient Object Removal for Street View Synthesis**|Mreenav Shyam Deka et.al.|[2311.17634v1](http://arxiv.org/abs/2311.17634v1)|null|
+|**2023-11-28**|**Enhancing exotic quantum fluctuations in a strongly entangled cavity BEC system**|Leon Mixa et.al.|[2311.16687v1](http://arxiv.org/abs/2311.16687v1)|null|
+|**2023-11-28**|**Binary holograms for shaping light with digital micromirror devices**|R. Gutiérrez-Cuevas et.al.|[2311.16685v1](http://arxiv.org/abs/2311.16685v1)|null|
+|**2023-11-27**|**LFSRDiff: Light Field Image Super-Resolution via Diffusion Models**|Wentao Chao et.al.|[2311.16517v1](http://arxiv.org/abs/2311.16517v1)|**[link](https://github.com/chaowentao/lfsrdiff)**|
+|**2023-11-28**|**Rethinking Directional Integration in Neural Radiance Fields**|Congyue Deng et.al.|[2311.16504v1](http://arxiv.org/abs/2311.16504v1)|null|
+|**2023-11-27**|**Optically Induced Monopoles, Knots, and Skyrmions in Quantum Gases**|Toni Annala et.al.|[2311.15972v1](http://arxiv.org/abs/2311.15972v1)|null|
+|**2023-11-25**|**Controlled generation of Poincaré sphere beams with inverse-designed multimode meta-waveguides**|Jing Luan et.al.|[2311.15058v1](http://arxiv.org/abs/2311.15058v1)|null|
+|**2023-11-24**|**Quantum tunnelling without a barrier**|Anne Weber et.al.|[2311.14826v1](http://arxiv.org/abs/2311.14826v1)|null|
+|**2023-11-23**|**All in One: RGB, RGB-D, and RGB-T Salient Object Detection**|Xingzhao Jia et.al.|[2311.14746v1](http://arxiv.org/abs/2311.14746v1)|null|
+|**2023-11-23**|**Efficient generation and amplification of intense vortex and vector laser pulses via strongly coupled stimulated Brillouin scattering in plasmas**|Yipeng Wu et.al.|[2311.13900v1](http://arxiv.org/abs/2311.13900v1)|null|
+|**2023-11-22**|**Buildup and dephasing of Floquet-Bloch bands on subcycle time scales**|S. Ito et.al.|[2311.13309v1](http://arxiv.org/abs/2311.13309v1)|null|
+|**2023-11-22**|**Spin-orbit interaction driven terahertz nonlinear dynamics in transition metals**|Ruslan Salikhov et.al.|[2311.13272v1](http://arxiv.org/abs/2311.13272v1)|null|
+|**2023-11-21**|**Generation of super-stable vector modes using on-axis complex-amplitude modulation**|Valeria Rodríguez-Fajardo et.al.|[2311.12250v1](http://arxiv.org/abs/2311.12250v1)|null|
+|**2023-11-17**|**Phase Guided Light Field for Spatial-Depth High Resolution 3D Imaging**|Geyou Zhang et.al.|[2311.10568v1](http://arxiv.org/abs/2311.10568v1)|null|
+|**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646v1](http://arxiv.org/abs/2311.09646v1)|null|
+|**2023-11-15**|**Gigahertz-rate-switchable wavefront shaping through integration of metasurfaces with photonic integrated circuit**|Haozong Zhong et.al.|[2311.08867v1](http://arxiv.org/abs/2311.08867v1)|null|
+|**2023-11-14**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi et.al.|[2311.08129v1](http://arxiv.org/abs/2311.08129v1)|null|
+|**2023-11-10**|**Low-Multi-Rank High-Order Bayesian Robust Tensor Factorization**|Jianan Liu et.al.|[2311.05888v1](http://arxiv.org/abs/2311.05888v1)|null|
+|**2023-11-08**|**Light Fields during Inflation from BOSS and Future Galaxy Surveys**|Daniel Green et.al.|[2311.04882v2](http://arxiv.org/abs/2311.04882v2)|null|
+|**2023-11-08**|**Collective photon emission in solid state environments: Concatenating non-markovian and markovian dynamics**|Devashish Pandey et.al.|[2311.04741v1](http://arxiv.org/abs/2311.04741v1)|null|
+|**2023-11-04**|**Light sheet and light field microscopy based on scanning Bessel beam illumination**|Chuhui Wang et.al.|[2311.02441v1](http://arxiv.org/abs/2311.02441v1)|null|
+|**2023-11-02**|**Joint 3D Shape and Motion Estimation from Rolling Shutter Light-Field Images**|Hermes McGriff et.al.|[2311.01292v1](http://arxiv.org/abs/2311.01292v1)|null|
+|**2023-11-01**|**Light Shift Suppression in Coherent-Population-Trapping Atomic Clocks in the Field of Two Circularly Polarized Light Beams**|D. V. Brazhnikov et.al.|[2311.00461v1](http://arxiv.org/abs/2311.00461v1)|null|
+|**2023-10-31**|**Single-shot, full characterization of the spatial wavefunction of light fields via Stokes tomography**|Bing-Shi Yu et.al.|[2310.20134v1](http://arxiv.org/abs/2310.20134v1)|null|
+|**2023-10-25**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832v2](http://arxiv.org/abs/2310.16832v2)|null|
+|**2023-10-23**|**Entanglement and squeezing of the optical field modes in high harmonic generation**|Philipp Stammer et.al.|[2310.15030v1](http://arxiv.org/abs/2310.15030v1)|null|
+|**2023-10-23**|**Relit-NeuLF: Efficient Relighting and Novel View Synthesis via Neural 4D Light Field**|Zhong Li et.al.|[2310.14642v1](http://arxiv.org/abs/2310.14642v1)|**[link](https://github.com/oppo-us-research/relitneulf)**|
+|**2023-10-20**|**Low Cross-Talk Optical Addressing of Trapped-Ion Qubits Using a Novel Integrated Photonic Chip**|A. S. Sotirova et.al.|[2310.13419v1](http://arxiv.org/abs/2310.13419v1)|null|
+|**2023-10-18**|**Advances in Atomic Time Scale imaging with a Fine Intrinsic Spatial Resolution**|Jingzhen Li et.al.|[2310.11695v1](http://arxiv.org/abs/2310.11695v1)|null|
 
 ## Diffusion
 
