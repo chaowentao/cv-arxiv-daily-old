@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.30
+## Updated on 2023.12.01
 
 ## Image Generation
 
@@ -222,7 +222,7 @@ layout: default
 |**2023-11-28**|**Precision Enhancement in Spatial Measurement by Introducing Squeezed Light into Weak Value Amplification**|Chaoxia Zhang et.al.|[2311.16622v1](http://arxiv.org/abs/2311.16622v1)|null|
 |**2023-11-27**|**SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2311.16518v1](http://arxiv.org/abs/2311.16518v1)|**[link](https://github.com/cswry/seesr)**|
 |**2023-11-27**|**LFSRDiff: Light Field Image Super-Resolution via Diffusion Models**|Wentao Chao et.al.|[2311.16517v1](http://arxiv.org/abs/2311.16517v1)|**[link](https://github.com/chaowentao/lfsrdiff)**|
-|**2023-11-27**|**CoSeR: Bridging Image and Language for Cognitive Super-Resolution**|Haoze Sun et.al.|[2311.16512v1](http://arxiv.org/abs/2311.16512v1)|null|
+|**2023-11-27**|**CoSeR: Bridging Image and Language for Cognitive Super-Resolution**|Haoze Sun et.al.|[2311.16512v2](http://arxiv.org/abs/2311.16512v2)|null|
 |**2023-11-27**|**SIRAN: Sinkhorn Distance Regularized Adversarial Network for DEM Super-resolution using Discriminative Spatial Self-attention**|Subhajit Paul et.al.|[2311.16490v1](http://arxiv.org/abs/2311.16490v1)|null|
 |**2023-11-27**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908v1](http://arxiv.org/abs/2311.15908v1)|**[link](https://github.com/claudiom4sir/stablevsr)**|
 |**2023-11-26**|**FLAIR: A Conditional Diffusion Framework with Applications to Face Video Restoration**|Zihao Zou et.al.|[2311.15445v1](http://arxiv.org/abs/2311.15445v1)|null|
@@ -293,7 +293,7 @@ layout: default
 |**2023-11-28**|**LiveNVS: Neural View Synthesis on Live RGB-D Streams**|Laura Fink et.al.|[2311.16668v2](http://arxiv.org/abs/2311.16668v2)|null|
 |**2023-11-28**|**Rethinking Directional Integration in Neural Radiance Fields**|Congyue Deng et.al.|[2311.16504v1](http://arxiv.org/abs/2311.16504v1)|null|
 |**2023-11-27**|**Mip-Splatting: Alias-free 3D Gaussian Splatting**|Zehao Yu et.al.|[2311.16493v1](http://arxiv.org/abs/2311.16493v1)|null|
-|**2023-11-27**|**Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**|Yang Liu et.al.|[2311.16482v1](http://arxiv.org/abs/2311.16482v1)|**[link](https://github.com/jimmyYliu/Animatable-3D-Gaussian)**|
+|**2023-11-27**|**Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**|Yang Liu et.al.|[2311.16482v2](http://arxiv.org/abs/2311.16482v2)|**[link](https://github.com/jimmyYliu/Animatable-3D-Gaussian)**|
 |**2023-11-26**|**GS-IR: 3D Gaussian Splatting for Inverse Rendering**|Zhihao Liang et.al.|[2311.16473v1](http://arxiv.org/abs/2311.16473v1)|**[link](https://github.com/lzhnb/gs-ir)**|
 |**2023-11-27**|**AerialBooth: Mutual Information Guidance for Text Controlled Aerial View Synthesis from a Single Image**|Divya Kothandaraman et.al.|[2311.15478v1](http://arxiv.org/abs/2311.15478v1)|null|
 |**2023-11-26**|**Obj-NeRF: Extract Object NeRFs from Multi-view Images**|Zhiyi Li et.al.|[2311.15291v1](http://arxiv.org/abs/2311.15291v1)|null|
