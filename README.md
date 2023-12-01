@@ -40,6 +40,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-05-30**|**Toward Real-World Light Field Super-Resolution**|Zeyu Xiao et.al.|[2305.18994v1](http://arxiv.org/abs/2305.18994v1)|**[link](https://github.com/zeyuxiao1997/reallfsr)**|
+|**2023-04-20**|**NTIRE 2023 Challenge on Light Field Image Super-Resolution: Dataset, Methods and Results**|Yingqian Wang et.al.|[2304.10415v1](http://arxiv.org/abs/2304.10415v1)|**[link](https://github.com/zhengyuliang24/basiclfsr)**|
 |**2022-10-09**|**Learning Texture Transformer Network for Light Field Super-Resolution**|Javeria Shabbir et.al.|[2210.09293v1](http://arxiv.org/abs/2210.09293v1)|null|
 |**2022-07-25**|**Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging**|Aupendu Kar et.al.|[2207.11894v2](http://arxiv.org/abs/2207.11894v2)|null|
 |**2022-06-09**|**A GPU-Accelerated Light-field Super-resolution Framework Based on Mixed Noise Model and Weighted Regularization**|Trung-Hieu Tran et.al.|[2206.05047v1](http://arxiv.org/abs/2206.05047v1)|null|
@@ -82,11 +83,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi et.al.|[2311.08129v1](http://arxiv.org/abs/2311.08129v1)|null|
+|**2023-09-04**|**ImmersiveNeRF: Hybrid Radiance Fields for Unbounded Immersive Light Field Reconstruction**|Xiaohang Yu et.al.|[2309.01374v1](http://arxiv.org/abs/2309.01374v1)|null|
+|**2023-07-06**|**RealLiFe: Real-Time Light Field Reconstruction via Hierarchical Sparse Gradient Descent**|Yijie Deng et.al.|[2307.03017v3](http://arxiv.org/abs/2307.03017v3)|null|
+|**2022-12-23**|**Quantum correlation light-field microscope with extreme depth of field**|Yingwen Zhang et.al.|[2212.12582v2](http://arxiv.org/abs/2212.12582v2)|null|
+|**2022-09-22**|**Fast Disparity Estimation from a Single Compressed Light Field Measurement**|Emmanuel Martinez et.al.|[2209.11342v1](http://arxiv.org/abs/2209.11342v1)|null|
+|**2022-04-26**|**Acquiring a Dynamic Light Field through a Single-Shot Coded Image**|Ryoya Mizuno et.al.|[2204.12089v1](http://arxiv.org/abs/2204.12089v1)|null|
+|**2022-04-01**|**Epipolar Focus Spectrum: A Novel Light Field Representation and Application in Dense-view Reconstruction**|Yaning Li et.al.|[2204.00193v1](http://arxiv.org/abs/2204.00193v1)|null|
+|**2021-08-27**|**A Novel Hierarchical Light Field Coding Scheme Based on Hybrid Stacked Multiplicative Layers and Fourier Disparity Layers for Glasses-Free 3D Displays**|Joshitha Ravishankar et.al.|[2108.12399v1](http://arxiv.org/abs/2108.12399v1)|null|
+|**2021-08-08**|**Efficient Light Field Reconstruction via Spatio-Angular Dense Network**|Zexi Hu et.al.|[2108.03635v1](http://arxiv.org/abs/2108.03635v1)|**[link](https://github.com/huzexi/SADenseNet)**|
+|**2021-06-04**|**Light Field Networks: Neural Scene Representations with Single-Evaluation Rendering**|Vincent Sitzmann et.al.|[2106.02634v2](http://arxiv.org/abs/2106.02634v2)|null|
+|**2021-03-24**|**Light Field Reconstruction Using Convolutional Network on EPI and Extended Applications**|Gaochang Wu et.al.|[2103.13043v1](http://arxiv.org/abs/2103.13043v1)|**[link](https://github.com/GaochangWu/lfepicnn)**|
+|**2021-02-14**|**Light Field Reconstruction via Deep Adaptive Fusion of Hybrid Lenses**|Jing Jin et.al.|[2102.07085v3](http://arxiv.org/abs/2102.07085v3)|**[link](https://github.com/jingjin25/LFhybridSR-Fusion)**|
 |**2020-12-03**|**Light-field view synthesis using convolutional block attention module**|M. Shahzeb Khan Gul et.al.|[2012.01900v2](http://arxiv.org/abs/2012.01900v2)|null|
 |**2020-09-07**|**Light Field View Synthesis via Aperture Disparity and Warping Confidence Map**|Nan Meng et.al.|[2009.02978v2](http://arxiv.org/abs/2009.02978v2)|null|
 |**2020-08-12**|**Self-supervised Light Field View Synthesis Using Cycle Consistency**|Yang Chen et.al.|[2008.05084v1](http://arxiv.org/abs/2008.05084v1)|null|
+|**2020-07-23**|**Deep Spatial-angular Regularization for Compressive Light Field Reconstruction over Coded Apertures**|Mantang Guo et.al.|[2007.11882v1](http://arxiv.org/abs/2007.11882v1)|**[link](https://github.com/angmt2008/LFCA)**|
+|**2020-07-05**|**Spatial-Angular Attention Network for Light Field Reconstruction**|Gaochang Wu et.al.|[2007.02252v2](http://arxiv.org/abs/2007.02252v2)|**[link](https://github.com/gaochangwu/saan)**|
 |**2020-05-13**|**A Generative Model for Generic Light Field Reconstruction**|Paramanand Chandramouli et.al.|[2005.06508v2](http://arxiv.org/abs/2005.06508v2)|null|
+|**2020-03-20**|**Self-Supervised Light Field Reconstruction Using Shearlet Transform and Cycle Consistency**|Yuan Gao et.al.|[2003.09294v1](http://arxiv.org/abs/2003.09294v1)|null|
+|**2020-03-19**|**DRST: Deep Residual Shearlet Transform for Densely Sampled Light Field Reconstruction**|Yuan Gao et.al.|[2003.08865v1](http://arxiv.org/abs/2003.08865v1)|null|
 |**2020-02-26**|**Learning Light Field Angular Super-Resolution via a Geometry-Aware Network**|Jing Jin et.al.|[2002.11263v1](http://arxiv.org/abs/2002.11263v1)|**[link](https://github.com/jingjin25/LFASR-geometry)**|
+|**2020-01-14**|**Seeing the World in a Bag of Chips**|Jeong Joon Park et.al.|[2001.04642v2](http://arxiv.org/abs/2001.04642v2)|null|
+|**2019-10-03**|**High-dimensional Dense Residual Convolutional Neural Network for Light Field Reconstruction**|Nan Meng et.al.|[1910.01426v4](http://arxiv.org/abs/1910.01426v4)|**[link](https://github.com/monaen/LightFieldReconstruction)**|
+|**2019-08-31**|**Deep Coarse-to-fine Dense Light Field Reconstruction with Flexible Sampling and Geometry-aware Fusion**|Jing Jin et.al.|[1909.01341v3](http://arxiv.org/abs/1909.01341v3)|**[link](https://github.com/jingjin25/LFASR-FS-GAF)**|
+|**2019-02-17**|**LapEPI-Net: A Laplacian Pyramid EPI structure for Learning-based Dense Light Field Reconstruction**|Gaochang Wu et.al.|[1902.06221v1](http://arxiv.org/abs/1902.06221v1)|null|
+|**2018-12-26**|**A Unified Learning Based Framework for Light Field Reconstruction from Coded Projections**|Anil Kumar Vadathya et.al.|[1812.10532v2](http://arxiv.org/abs/1812.10532v2)|null|
+|**2018-10-20**|**A System for Acquiring, Processing, and Rendering Panoramic Light Field Stills for Virtual Reality**|Ryan S. Overbeck et.al.|[1810.08860v1](http://arxiv.org/abs/1810.08860v1)|null|
+|**2018-06-14**|**Dense Light Field Reconstruction From Sparse Sampling Using Residual Network**|Mantang Guo et.al.|[1806.05506v2](http://arxiv.org/abs/1806.05506v2)|null|
+|**2018-02-05**|**Compressive Light Field Reconstructions using Deep Learning**|Mayank Gupta et.al.|[1802.01722v1](http://arxiv.org/abs/1802.01722v1)|null|
+|**2018-01-20**|**Learning Light Field Reconstruction from a Single Coded Image**|Anil Kumar Vadathya et.al.|[1801.06710v2](http://arxiv.org/abs/1801.06710v2)|null|
 
 ## Light Field Other Applications
 
