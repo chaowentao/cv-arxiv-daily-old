@@ -27,7 +27,7 @@
 |**2023-12-01**|**Adversarial Score Distillation: When score distillation meets GAN**|Min Wei et.al.|[2312.00739v1](http://arxiv.org/abs/2312.00739v1)|**[link](https://github.com/2y7c3/asd)**|
 |**2023-11-30**|**S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion**|Or Greenberg et.al.|[2312.00116v1](http://arxiv.org/abs/2312.00116v1)|null|
 |**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829v1](http://arxiv.org/abs/2311.18829v1)|null|
-|**2023-11-30**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828v2](http://arxiv.org/abs/2311.18828v2)|null|
+|**2023-11-30**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828v3](http://arxiv.org/abs/2311.18828v3)|null|
 |**2023-11-30**|**Motion-Conditioned Image Animation for Video Editing**|Wilson Yan et.al.|[2311.18827v1](http://arxiv.org/abs/2311.18827v1)|null|
 |**2023-11-30**|**ElasticDiffusion: Training-free Arbitrary Size Image Generation**|Moayed Haji-Ali et.al.|[2311.18822v1](http://arxiv.org/abs/2311.18822v1)|**[link](https://github.com/moayedhajiali/elasticdiffusion-official)**|
 |**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775v1](http://arxiv.org/abs/2311.18775v1)|null|
@@ -151,7 +151,7 @@
 |**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145v1](http://arxiv.org/abs/2312.02145v1)|null|
 |**2023-12-04**|**DiffiT: Diffusion Vision Transformers for Image Generation**|Ali Hatamizadeh et.al.|[2312.02139v1](http://arxiv.org/abs/2312.02139v1)|**[link](https://github.com/nvlabs/diffit)**|
 |**2023-12-04**|**Style Aligned Image Generation via Shared Attention**|Amir Hertz et.al.|[2312.02133v1](http://arxiv.org/abs/2312.02133v1)|null|
-|**2023-12-04**|**VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence**|Yuchao Gu et.al.|[2312.02087v1](http://arxiv.org/abs/2312.02087v1)|null|
+|**2023-12-04**|**VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence**|Yuchao Gu et.al.|[2312.02087v2](http://arxiv.org/abs/2312.02087v2)|null|
 |**2023-12-04**|**Fisher information susceptibility for multiparameter quantum estimation**|Marco Barbieri et.al.|[2312.02035v1](http://arxiv.org/abs/2312.02035v1)|null|
 |**2023-12-04**|**Stochastic Optimal Control Matching**|Carles Domingo-Enrich et.al.|[2312.02027v1](http://arxiv.org/abs/2312.02027v1)|null|
 |**2023-12-04**|**Computational Investigation on Collective Dynamical Behaviors of Flickering Laminar Buoyant Diffusion Flames in Circular Arrays**|Tao Yang et.al.|[2312.02018v1](http://arxiv.org/abs/2312.02018v1)|null|
@@ -190,7 +190,7 @@
 |**2023-12-04**|**Universal Deoxidation of Semiconductor Substrates Assisted by Machine-Learning and Real-Time-Feedback-Control**|Chao Shen et.al.|[2312.01662v1](http://arxiv.org/abs/2312.01662v1)|null|
 |**2023-12-03**|**Automatic Report Generation for Histopathology images using pre-trained Vision Transformers and BERT**|Saurav Sengupta et.al.|[2312.01435v1](http://arxiv.org/abs/2312.01435v1)|null|
 |**2023-12-03**|**MABViT -- Modified Attention Block Enhances Vision Transformers**|Mahesh Ramesh et.al.|[2312.01324v1](http://arxiv.org/abs/2312.01324v1)|null|
-|**2023-12-02**|**A Comprehensive Study of Vision Transformers in Image Classification Tasks**|Mahmoud Khalil et.al.|[2312.01232v1](http://arxiv.org/abs/2312.01232v1)|null|
+|**2023-12-02**|**A Comprehensive Study of Vision Transformers in Image Classification Tasks**|Mahmoud Khalil et.al.|[2312.01232v2](http://arxiv.org/abs/2312.01232v2)|null|
 |**2023-12-02**|**IDPL-PFOD2: A New Large-Scale Dataset for Printed Farsi Optical Character Recognition**|Fatemeh Asadi-zeydabadi et.al.|[2312.01177v1](http://arxiv.org/abs/2312.01177v1)|**[link](https://github.com/ftmasadi/idpl-pfod2)**|
 |**2023-12-02**|**Token Fusion: Bridging the Gap between Token Pruning and Token Merging**|Minchul Kim et.al.|[2312.01026v1](http://arxiv.org/abs/2312.01026v1)|null|
 |**2023-12-01**|**Improve Supervised Representation Learning with Masked Image Modeling**|Kaifeng Chen et.al.|[2312.00950v1](http://arxiv.org/abs/2312.00950v1)|null|
@@ -219,7 +219,7 @@
 |**2023-12-04**|**Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training**|Runze He et.al.|[2312.01663v1](http://arxiv.org/abs/2312.01663v1)|null|
 |**2023-12-03**|**SANeRF-HQ: Segment Anything for NeRF in High Quality**|Yichen Liu et.al.|[2312.01531v1](http://arxiv.org/abs/2312.01531v1)|null|
 |**2023-12-03**|**VideoRF: Rendering Dynamic Radiance Fields as 2D Feature Video Streams**|Liao Wang et.al.|[2312.01407v1](http://arxiv.org/abs/2312.01407v1)|null|
-|**2023-12-02**|**Self-Evolving Neural Radiance Fields**|Jaewoo Jung et.al.|[2312.01003v1](http://arxiv.org/abs/2312.01003v1)|null|
+|**2023-12-02**|**Self-Evolving Neural Radiance Fields**|Jaewoo Jung et.al.|[2312.01003v2](http://arxiv.org/abs/2312.01003v2)|null|
 |**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732v1](http://arxiv.org/abs/2312.00732v1)|**[link](https://github.com/lkeab/gaussian-grouping)**|
 |**2023-11-30**|**LucidDreaming: Controllable Object-Centric 3D Generation**|Zhaoning Wang et.al.|[2312.00588v1](http://arxiv.org/abs/2312.00588v1)|null|
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451v1](http://arxiv.org/abs/2312.00451v1)|null|
@@ -254,7 +254,7 @@
 |**2023-12-04**|**SRTransGAN: Image Super-Resolution using Transformer based Generative Adversarial Network**|Neeraj Baghel et.al.|[2312.01999v1](http://arxiv.org/abs/2312.01999v1)|null|
 |**2023-12-04**|**TMSR: Tiny Multi-path CNNs for Super Resolution**|Chia-Hung Liu et.al.|[2312.01644v1](http://arxiv.org/abs/2312.01644v1)|null|
 |**2023-12-04**|**J-Net: Improved U-Net for Terahertz Image Super-Resolution**|Woon-Ha Yeo et.al.|[2312.01638v1](http://arxiv.org/abs/2312.01638v1)|null|
-|**2023-12-02**|**Joint Multiple FMCW Chirp Sequence Processing for Velocity Estimation and Ambiguity Resolving**|Tarik Kazaz et.al.|[2312.01123v1](http://arxiv.org/abs/2312.01123v1)|null|
+|**2023-12-02**|**Joint Multiple FMCW Chirp Sequence Processing for Velocity Estimation and Ambiguity Resolving**|Tarik Kazaz et.al.|[2312.01123v2](http://arxiv.org/abs/2312.01123v2)|null|
 |**2023-12-02**|**High-speed image reconstruction for nonlinear structured illumination microscopy**|Jingxiang Zhang et.al.|[2312.01073v1](http://arxiv.org/abs/2312.01073v1)|null|
 |**2023-12-02**|**Spectral-wise Implicit Neural Representation for Hyperspectral Image Reconstruction**|Huan Chen et.al.|[2312.01061v1](http://arxiv.org/abs/2312.01061v1)|null|
 |**2023-12-01**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853v1](http://arxiv.org/abs/2312.00853v1)|null|
@@ -271,7 +271,7 @@
 |**2023-11-28**|**Precision Enhancement in Spatial Measurement by Introducing Squeezed Light into Weak Value Amplification**|Chaoxia Zhang et.al.|[2311.16622v1](http://arxiv.org/abs/2311.16622v1)|null|
 |**2023-11-27**|**SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2311.16518v1](http://arxiv.org/abs/2311.16518v1)|**[link](https://github.com/cswry/seesr)**|
 |**2023-11-27**|**LFSRDiff: Light Field Image Super-Resolution via Diffusion Models**|Wentao Chao et.al.|[2311.16517v1](http://arxiv.org/abs/2311.16517v1)|**[link](https://github.com/chaowentao/lfsrdiff)**|
-|**2023-11-27**|**CoSeR: Bridging Image and Language for Cognitive Super-Resolution**|Haoze Sun et.al.|[2311.16512v2](http://arxiv.org/abs/2311.16512v2)|null|
+|**2023-11-27**|**CoSeR: Bridging Image and Language for Cognitive Super-Resolution**|Haoze Sun et.al.|[2311.16512v3](http://arxiv.org/abs/2311.16512v3)|null|
 |**2023-11-27**|**SIRAN: Sinkhorn Distance Regularized Adversarial Network for DEM Super-resolution using Discriminative Spatial Self-attention**|Subhajit Paul et.al.|[2311.16490v1](http://arxiv.org/abs/2311.16490v1)|null|
 |**2023-11-27**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908v1](http://arxiv.org/abs/2311.15908v1)|**[link](https://github.com/claudiom4sir/stablevsr)**|
 |**2023-11-26**|**FLAIR: A Conditional Diffusion Framework with Applications to Face Video Restoration**|Zihao Zou et.al.|[2311.15445v1](http://arxiv.org/abs/2311.15445v1)|null|
@@ -327,7 +327,7 @@
 |**2023-12-04**|**GaussianHead: Impressive 3D Gaussian-based Head Avatars with Dynamic Hybrid Neural Field**|Jie Wang et.al.|[2312.01632v1](http://arxiv.org/abs/2312.01632v1)|null|
 |**2023-12-03**|**SANeRF-HQ: Segment Anything for NeRF in High Quality**|Yichen Liu et.al.|[2312.01531v1](http://arxiv.org/abs/2312.01531v1)|null|
 |**2023-12-03**|**ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models**|Jeong-gi Kwak et.al.|[2312.01305v1](http://arxiv.org/abs/2312.01305v1)|null|
-|**2023-12-02**|**Self-Evolving Neural Radiance Fields**|Jaewoo Jung et.al.|[2312.01003v1](http://arxiv.org/abs/2312.01003v1)|null|
+|**2023-12-02**|**Self-Evolving Neural Radiance Fields**|Jaewoo Jung et.al.|[2312.01003v2](http://arxiv.org/abs/2312.01003v2)|null|
 |**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732v1](http://arxiv.org/abs/2312.00732v1)|**[link](https://github.com/lkeab/gaussian-grouping)**|
 |**2023-12-01**|**EvE: Exploiting Generative Priors for Radiance Field Enrichment**|Karim Kassab et.al.|[2312.00639v1](http://arxiv.org/abs/2312.00639v1)|null|
 |**2023-11-30**|**MD-Splatting: Learning Metric Deformation from 4D Gaussians in Highly Deformable Scenes**|Bardienus P. Duisterhof et.al.|[2312.00583v1](http://arxiv.org/abs/2312.00583v1)|null|
@@ -349,5 +349,5 @@
 |**2023-11-27**|**Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**|Yang Liu et.al.|[2311.16482v2](http://arxiv.org/abs/2311.16482v2)|**[link](https://github.com/jimmyYliu/Animatable-3D-Gaussian)**|
 |**2023-11-27**|**AerialBooth: Mutual Information Guidance for Text Controlled Aerial View Synthesis from a Single Image**|Divya Kothandaraman et.al.|[2311.15478v1](http://arxiv.org/abs/2311.15478v1)|null|
 |**2023-11-26**|**Obj-NeRF: Extract Object NeRFs from Multi-view Images**|Zhiyi Li et.al.|[2311.15291v1](http://arxiv.org/abs/2311.15291v1)|null|
-|**2023-11-26**|**NeuRAD: Neural Rendering for Autonomous Driving**|Adam Tonderski et.al.|[2311.15260v1](http://arxiv.org/abs/2311.15260v1)|**[link](https://github.com/georghess/neurad)**|
+|**2023-11-26**|**NeuRAD: Neural Rendering for Autonomous Driving**|Adam Tonderski et.al.|[2311.15260v2](http://arxiv.org/abs/2311.15260v2)|**[link](https://github.com/georghess/neurad)**|
 
