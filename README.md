@@ -9,7 +9,7 @@
 |**2023-12-05**|**LivePhoto: Real Image Animation with Text-guided Motion Control**|Xi Chen et.al.|[2312.02928v1](http://arxiv.org/abs/2312.02928v1)|null|
 |**2023-12-05**|**BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models**|Fengyuan Shi et.al.|[2312.02813v1](http://arxiv.org/abs/2312.02813v1)|null|
 |**2023-12-05**|**Diffusion-Based Speech Enhancement in Matched and Mismatched Conditions Using a Heun-Based Sampler**|Philippe Gonzalez et.al.|[2312.02683v1](http://arxiv.org/abs/2312.02683v1)|null|
-|**2023-12-05**|**FaceStudio: Put Your Face Everywhere in Seconds**|Yuxuan Yan et.al.|[2312.02663v1](http://arxiv.org/abs/2312.02663v1)|null|
+|**2023-12-05**|**FaceStudio: Put Your Face Everywhere in Seconds**|Yuxuan Yan et.al.|[2312.02663v2](http://arxiv.org/abs/2312.02663v2)|null|
 |**2023-12-05**|**GeNIe: Generative Hard Negative Images Through Diffusion**|Soroush Abbasi Koohpayegani et.al.|[2312.02548v1](http://arxiv.org/abs/2312.02548v1)|**[link](https://github.com/ucdvision/genie)**|
 |**2023-12-05**|**Retrieving Conditions from Reference Images for Diffusion Models**|Haoran Tang et.al.|[2312.02521v1](http://arxiv.org/abs/2312.02521v1)|null|
 |**2023-12-05**|**Generator Born from Classifier**|Runpeng Yu et.al.|[2312.02470v1](http://arxiv.org/abs/2312.02470v1)|null|
@@ -150,7 +150,7 @@
 |**2023-12-05**|**AmbiGen: Generating Ambigrams from Pre-trained Diffusion Model**|Boheng Zhao et.al.|[2312.02967v1](http://arxiv.org/abs/2312.02967v1)|null|
 |**2023-12-05**|**Diffusion-SS3D: Diffusion Model for Semi-supervised 3D Object Detection**|Cheng-Ju Ho et.al.|[2312.02966v1](http://arxiv.org/abs/2312.02966v1)|**[link](https://github.com/luluho1208/diffusion-ss3d)**|
 |**2023-12-05**|**Drag-A-Video: Non-rigid Video Editing with Point-based Interaction**|Yao Teng et.al.|[2312.02936v1](http://arxiv.org/abs/2312.02936v1)|null|
-|**2023-12-05**|**WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation**|Jiachen Lu et.al.|[2312.02934v1](http://arxiv.org/abs/2312.02934v1)|**[link](https://github.com/fudan-zvg/wovogen)**|
+|**2023-12-05**|**WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation**|Jiachen Lu et.al.|[2312.02934v2](http://arxiv.org/abs/2312.02934v2)|**[link](https://github.com/fudan-zvg/wovogen)**|
 |**2023-12-05**|**Assessing Nonlinear Diffusion Acceleration for Boltzmann Fokker Planck Equation in Slab Geometry**|Japan K. Patel et.al.|[2312.02930v1](http://arxiv.org/abs/2312.02930v1)|null|
 |**2023-12-05**|**LivePhoto: Real Image Animation with Text-guided Motion Control**|Xi Chen et.al.|[2312.02928v1](http://arxiv.org/abs/2312.02928v1)|null|
 |**2023-12-05**|**A Diffusion Model of Dynamic Participant Inflow Management**|Baris Ata et.al.|[2312.02927v1](http://arxiv.org/abs/2312.02927v1)|null|
@@ -164,7 +164,7 @@
 |**2023-12-05**|**Enhance Diffuse Emission of Horticulture Luminescent Solar Concentrators Using Micro-Cone Arrays**|Zhijie Xu et.al.|[2312.02774v1](http://arxiv.org/abs/2312.02774v1)|null|
 |**2023-12-05**|**Generating Fine-Grained Human Motions Using ChatGPT-Refined Descriptions**|Xu Shi et.al.|[2312.02772v1](http://arxiv.org/abs/2312.02772v1)|null|
 |**2023-12-05**|**Three-dimensional modelling of polygonal ridges in salt playas**|R. A. I. Haque et.al.|[2312.02713v1](http://arxiv.org/abs/2312.02713v1)|null|
-|**2023-12-05**|**Computing the Frequency-Dependent NMR Relaxation of $^1$H Nuclei in Liquid Water**|Dietmar Paschek et.al.|[2312.02712v1](http://arxiv.org/abs/2312.02712v1)|null|
+|**2023-12-05**|**Computing the Frequency-Dependent NMR Relaxation of $^1$H Nuclei in Liquid Water**|Dietmar Paschek et.al.|[2312.02712v2](http://arxiv.org/abs/2312.02712v2)|null|
 |**2023-12-05**|**Neural Sign Actors: A diffusion model for 3D sign language production from text**|Vasileios Baltatzis et.al.|[2312.02702v1](http://arxiv.org/abs/2312.02702v1)|null|
 |**2023-12-05**|**Analyzing and Improving the Training Dynamics of Diffusion Models**|Tero Karras et.al.|[2312.02696v1](http://arxiv.org/abs/2312.02696v1)|null|
 |**2023-12-05**|**Diffusion-Based Speech Enhancement in Matched and Mismatched Conditions Using a Heun-Based Sampler**|Philippe Gonzalez et.al.|[2312.02683v1](http://arxiv.org/abs/2312.02683v1)|null|
