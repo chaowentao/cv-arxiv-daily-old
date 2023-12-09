@@ -259,6 +259,7 @@
 |**2023-12-04**|**TMSR: Tiny Multi-path CNNs for Super Resolution**|Chia-Hung Liu et.al.|[2312.01644v1](http://arxiv.org/abs/2312.01644v1)|null|
 |**2023-12-04**|**J-Net: Improved U-Net for Terahertz Image Super-Resolution**|Woon-Ha Yeo et.al.|[2312.01638v1](http://arxiv.org/abs/2312.01638v1)|null|
 |**2023-12-02**|**Joint Multiple FMCW Chirp Sequence Processing for Velocity Estimation and Ambiguity Resolving**|Tarik Kazaz et.al.|[2312.01123v2](http://arxiv.org/abs/2312.01123v2)|null|
+|**2023-12-02**|**High-speed image reconstruction for nonlinear structured illumination microscopy**|Jingxiang Zhang et.al.|[2312.01073v1](http://arxiv.org/abs/2312.01073v1)|null|
 |**2023-12-02**|**Spectral-wise Implicit Neural Representation for Hyperspectral Image Reconstruction**|Huan Chen et.al.|[2312.01061v1](http://arxiv.org/abs/2312.01061v1)|null|
 |**2023-12-01**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853v1](http://arxiv.org/abs/2312.00853v1)|**[link](https://github.com/ianyeung/mgld-vsr)**|
 |**2023-12-01**|**Infrared Image Super-Resolution via GAN**|Yongsong Huang et.al.|[2312.00689v1](http://arxiv.org/abs/2312.00689v1)|null|
@@ -277,6 +278,7 @@
 |**2023-11-27**|**CoSeR: Bridging Image and Language for Cognitive Super-Resolution**|Haoze Sun et.al.|[2311.16512v3](http://arxiv.org/abs/2311.16512v3)|**[link](https://github.com/vinhyu/coser)**|
 |**2023-11-27**|**SIRAN: Sinkhorn Distance Regularized Adversarial Network for DEM Super-resolution using Discriminative Spatial Self-attention**|Subhajit Paul et.al.|[2311.16490v1](http://arxiv.org/abs/2311.16490v1)|null|
 |**2023-11-27**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908v1](http://arxiv.org/abs/2311.15908v1)|**[link](https://github.com/claudiom4sir/stablevsr)**|
+|**2023-11-26**|**FLAIR: A Conditional Diffusion Framework with Applications to Face Video Restoration**|Zihao Zou et.al.|[2311.15445v1](http://arxiv.org/abs/2311.15445v1)|null|
 |**2023-11-26**|**Ultra-Range Gesture Recognition using an RGB Camera in Human-Robot Interaction**|Eran Bamani et.al.|[2311.15361v1](http://arxiv.org/abs/2311.15361v1)|null|
 
 ## Depth Estimation
