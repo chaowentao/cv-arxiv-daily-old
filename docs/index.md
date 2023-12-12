@@ -29,7 +29,7 @@ layout: default
 |**2023-12-07**|**Investigating the Design Space of Diffusion Models for Speech Enhancement**|Philippe Gonzalez et.al.|[2312.04370v1](http://arxiv.org/abs/2312.04370v1)|null|
 |**2023-12-07**|**Multi-View Unsupervised Image Generation with Cross Attention Guidance**|Llukman Cerkezi et.al.|[2312.04337v1](http://arxiv.org/abs/2312.04337v1)|null|
 |**2023-12-07**|**iDesigner: A High-Resolution and Complex-Prompt Following Text-to-Image Diffusion Model for Interior Design**|Ruyi Gan et.al.|[2312.04326v1](http://arxiv.org/abs/2312.04326v1)|null|
-|**2023-12-07**|**Stable diffusion for Data Augmentation in COCO and Weed Datasets**|Boyang Deng et.al.|[2312.03996v1](http://arxiv.org/abs/2312.03996v1)|null|
+|**2023-12-07**|**Stable diffusion for Data Augmentation in COCO and Weed Datasets**|Boyang Deng et.al.|[2312.03996v2](http://arxiv.org/abs/2312.03996v2)|null|
 |**2023-12-06**|**LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning**|Bolin Lai et.al.|[2312.03849v1](http://arxiv.org/abs/2312.03849v1)|null|
 |**2023-12-06**|**Self-conditioned Image Generation via Generating Representations**|Tianhong Li et.al.|[2312.03701v2](http://arxiv.org/abs/2312.03701v2)|**[link](https://github.com/LTH14/rcg)**|
 |**2023-12-06**|**Intrinsic Harmonization for Illumination-Aware Compositing**|Chris Careaga et.al.|[2312.03698v2](http://arxiv.org/abs/2312.03698v2)|null|
@@ -153,7 +153,7 @@ layout: default
 |**2023-12-08**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239v1](http://arxiv.org/abs/2312.05239v1)|null|
 |**2023-12-08**|**Stoichiometry preservation and generalization of Bilger mixture fraction for non-premixed combustion with differential molecular diffusion**|Haifeng Wang et.al.|[2312.05204v1](http://arxiv.org/abs/2312.05204v1)|null|
 |**2023-12-08**|**Membership Inference Attacks on Diffusion Models via Quantile Regression**|Shuai Tang et.al.|[2312.05140v1](http://arxiv.org/abs/2312.05140v1)|null|
-|**2023-12-08**|**DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models**|Mengyang Feng et.al.|[2312.05107v1](http://arxiv.org/abs/2312.05107v1)|null|
+|**2023-12-08**|**DreaMoving: A Human Video Generation Framework based on Diffusion Models**|Mengyang Feng et.al.|[2312.05107v2](http://arxiv.org/abs/2312.05107v2)|null|
 |**2023-12-08**|**Application of deep learning to the estimation of normalization coefficients in diffusion-based covariance models**|Folke K Skrunes et.al.|[2312.05068v1](http://arxiv.org/abs/2312.05068v1)|null|
 |**2023-12-08**|**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control**|Jaskirat Singh et.al.|[2312.05039v1](http://arxiv.org/abs/2312.05039v1)|null|
 |**2023-12-08**|**Numerical determination of iron dust laminar flame speeds with the counterflow twin-flame technique**|C. E. A. G. van Gool et.al.|[2312.04994v1](http://arxiv.org/abs/2312.04994v1)|null|
@@ -196,7 +196,7 @@ layout: default
 |**2023-12-06**|**When an Image is Worth 1,024 x 1,024 Words: A Case Study in Computational Pathology**|Wenhui Wang et.al.|[2312.03558v1](http://arxiv.org/abs/2312.03558v1)|null|
 |**2023-12-05**|**Predicting Bone Degradation Using Vision Transformer and Synthetic Cellular Microstructures Dataset**|Mohammad Saber Hashemi et.al.|[2312.03133v1](http://arxiv.org/abs/2312.03133v1)|null|
 |**2023-12-05**|**Are Vision Transformers More Data Hungry Than Newborn Visual Systems?**|Lalit Pandey et.al.|[2312.02843v1](http://arxiv.org/abs/2312.02843v1)|**[link](https://github.com/buildingamind/vit-cot)**|
-|**2023-12-05**|**R3D-SWIN:Use Shifted Window Attention for Single-View 3D Reconstruction**|Chenhuan Li et.al.|[2312.02725v1](http://arxiv.org/abs/2312.02725v1)|null|
+|**2023-12-05**|**R3D-SWIN:Use Shifted Window Attention for Single-View 3D Reconstruction**|Chenhuan Li et.al.|[2312.02725v2](http://arxiv.org/abs/2312.02725v2)|null|
 |**2023-12-05**|**UPOCR: Towards Unified Pixel-Level OCR Interface**|Dezhi Peng et.al.|[2312.02694v1](http://arxiv.org/abs/2312.02694v1)|null|
 |**2023-12-04**|**Class-Discriminative Attention Maps for Vision Transformers**|Lennart Brocki et.al.|[2312.02364v1](http://arxiv.org/abs/2312.02364v1)|**[link](https://github.com/lenbrocki/cdam)**|
 |**2023-12-03**|**QuantAttack: Exploiting Dynamic Quantization to Attack Vision Transformers**|Amit Baras et.al.|[2312.02220v1](http://arxiv.org/abs/2312.02220v1)|null|
@@ -303,7 +303,7 @@ layout: default
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451v1](http://arxiv.org/abs/2312.00451v1)|null|
 |**2023-11-30**|**Multi-task learning with cross-task consistency for improved depth estimation in colonoscopy**|Pedro Esteban Chavarrias Solano et.al.|[2311.18664v1](http://arxiv.org/abs/2311.18664v1)|null|
 |**2023-11-29**|**Improving Stability during Upsampling -- on the Importance of Spatial Context**|Shashank Agnihotri et.al.|[2311.17524v1](http://arxiv.org/abs/2311.17524v1)|null|
-|**2023-11-28**|**UC-NeRF: Neural Radiance Field for Under-Calibrated multi-view cameras in autonomous driving**|Kai Cheng et.al.|[2311.16945v1](http://arxiv.org/abs/2311.16945v1)|null|
+|**2023-11-28**|**UC-NeRF: Neural Radiance Field for Under-Calibrated Multi-view Cameras in Autonomous Driving**|Kai Cheng et.al.|[2311.16945v2](http://arxiv.org/abs/2311.16945v2)|null|
 |**2023-11-28**|**DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes**|Zhuopeng Li et.al.|[2311.16664v1](http://arxiv.org/abs/2311.16664v1)|null|
 |**2023-11-23**|**MonoNav: MAV Navigation via Monocular Depth Estimation and Reconstruction**|Nathaniel Simon et.al.|[2311.14100v1](http://arxiv.org/abs/2311.14100v1)|null|
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398v2](http://arxiv.org/abs/2311.13398v2)|null|
