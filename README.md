@@ -162,7 +162,7 @@
 |**2023-12-11**|**DiT-Head: High-Resolution Talking Head Synthesis using Diffusion Transformers**|Aaron Mir et.al.|[2312.06400v1](http://arxiv.org/abs/2312.06400v1)|null|
 |**2023-12-11**|**Feeding and feedback processes in the Spiderweb proto-intracluster medium**|M. Lepore et.al.|[2312.06392v1](http://arxiv.org/abs/2312.06392v1)|null|
 |**2023-12-11**|**PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization**|Xu Peng et.al.|[2312.06354v1](http://arxiv.org/abs/2312.06354v1)|null|
-|**2023-12-11**|**DiffAIL: Diffusion Adversarial Imitation Learning**|Bingzheng Wang et.al.|[2312.06348v1](http://arxiv.org/abs/2312.06348v1)|**[link](https://github.com/ml-group-sdu/diffail)**|
+|**2023-12-11**|**DiffAIL: Diffusion Adversarial Imitation Learning**|Bingzheng Wang et.al.|[2312.06348v2](http://arxiv.org/abs/2312.06348v2)|**[link](https://github.com/ml-group-sdu/diffail)**|
 |**2023-12-11**|**Superdiffusion of vortices in two-component quantum fluids of light**|M. Roldão et.al.|[2312.06319v1](http://arxiv.org/abs/2312.06319v1)|null|
 |**2023-12-11**|**Analysis and computations of a stochastic Cahn-Hilliard model for tumor growth with chemotaxis and variable mobility**|Marvin Fritz et.al.|[2312.06288v1](http://arxiv.org/abs/2312.06288v1)|null|
 |**2023-12-11**|**Compensation Sampling for Improved Convergence in Diffusion Models**|Hui Lu et.al.|[2312.06285v1](http://arxiv.org/abs/2312.06285v1)|null|
@@ -182,7 +182,7 @@
 |---|---|---|---|---|
 |**2023-12-11**|**U-MixFormer: UNet-like Transformer with Mix-Attention for Efficient Semantic Segmentation**|Seul-Ki Yeom et.al.|[2312.06272v1](http://arxiv.org/abs/2312.06272v1)|**[link](https://github.com/julian-klitzing/u-mixformer)**|
 |**2023-12-10**|**Activating Frequency and ViT for 3D Point Cloud Quality Assessment without Reference**|Oussama Messai et.al.|[2312.05972v1](http://arxiv.org/abs/2312.05972v1)|**[link](https://github.com/o-messai/3d-pcqa)**|
-|**2023-12-09**|**The Counterattack of CNNs in Self-Supervised Learning: Larger Kernel Size might be All You Need**|Tianjin Huang et.al.|[2312.05695v1](http://arxiv.org/abs/2312.05695v1)|null|
+|**2023-12-09**|**The Counterattack of CNNs in Self-Supervised Learning: Larger Kernel Size might be All You Need**|Tianjin Huang et.al.|[2312.05695v2](http://arxiv.org/abs/2312.05695v2)|null|
 |**2023-12-09**|**Identifying and Mitigating Model Failures through Few-shot CLIP-aided Diffusion Generation**|Atoosa Chegini et.al.|[2312.05464v1](http://arxiv.org/abs/2312.05464v1)|null|
 |**2023-12-09**|**From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos**|Yin Chen et.al.|[2312.05447v1](http://arxiv.org/abs/2312.05447v1)|**[link](https://github.com/FER-LMC/S2D)**|
 |**2023-12-08**|**Reconstructing Hands in 3D with Transformers**|Georgios Pavlakos et.al.|[2312.05251v1](http://arxiv.org/abs/2312.05251v1)|null|
@@ -256,7 +256,7 @@
 |**2023-12-11**|**Hundred-Kilobyte Lookup Tables for Efficient Single-Image Super-Resolution**|Binxiao Huang et.al.|[2312.06101v1](http://arxiv.org/abs/2312.06101v1)|null|
 |**2023-12-10**|**Study of Multiuser Multiple-Antenna Wireless Communications Systems Based on Super-Resolution Arrays**|S. Pinto et.al.|[2312.06033v1](http://arxiv.org/abs/2312.06033v1)|null|
 |**2023-12-10**|**Transformer-based Selective Super-Resolution for Efficient Image Refinement**|Tianyi Zhang et.al.|[2312.05803v1](http://arxiv.org/abs/2312.05803v1)|null|
-|**2023-12-10**|**SGNet: Structure Guided Network via Gradient-Frequency Awareness for Depth Map Super-Resolution**|Zhengxu Wang et.al.|[2312.05799v1](http://arxiv.org/abs/2312.05799v1)|**[link](https://github.com/yanzq95/sgnet)**|
+|**2023-12-10**|**SGNet: Structure Guided Network via Gradient-Frequency Awareness for Depth Map Super-Resolution**|Zhengxue Wang et.al.|[2312.05799v2](http://arxiv.org/abs/2312.05799v2)|**[link](https://github.com/yanzq95/sgnet)**|
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616v1](http://arxiv.org/abs/2312.05616v1)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385v1](http://arxiv.org/abs/2312.04385v1)|null|
 |**2023-12-06**|**Training Neural Networks on RAW and HDR Images for Restoration Tasks**|Lei Luo et.al.|[2312.03640v1](http://arxiv.org/abs/2312.03640v1)|**[link](https://github.com/gfxdisp/colorvideovdp)**|
@@ -340,7 +340,7 @@
 |**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981v1](http://arxiv.org/abs/2312.02981v1)|null|
 |**2023-12-04**|**Calibrated Uncertainties for Neural Radiance Fields**|Niki Amini-Naieni et.al.|[2312.02350v1](http://arxiv.org/abs/2312.02350v1)|null|
 |**2023-12-04**|**Re-Nerfing: Enforcing Geometric Constraints on Neural Radiance Fields through Novel Views Synthesis**|Felix Tristram et.al.|[2312.02255v1](http://arxiv.org/abs/2312.02255v1)|null|
-|**2023-12-03**|**Slice3D: Multi-Slice, Occlusion-Revealing, Single View 3D Reconstruction**|Yizhi Wang et.al.|[2312.02221v1](http://arxiv.org/abs/2312.02221v1)|null|
+|**2023-12-03**|**Slice3D: Multi-Slice, Occlusion-Revealing, Single View 3D Reconstruction**|Yizhi Wang et.al.|[2312.02221v2](http://arxiv.org/abs/2312.02221v2)|null|
 |**2023-12-04**|**GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis**|Shunyuan Zheng et.al.|[2312.02155v1](http://arxiv.org/abs/2312.02155v1)|null|
 |**2023-12-04**|**Fast View Synthesis of Casual Videos**|Yao-Chih Lee et.al.|[2312.02135v1](http://arxiv.org/abs/2312.02135v1)|null|
 |**2023-12-04**|**SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM**|Nikhil Keetha et.al.|[2312.02126v1](http://arxiv.org/abs/2312.02126v1)|null|
