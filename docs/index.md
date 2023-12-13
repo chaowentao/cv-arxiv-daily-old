@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.12
+## Updated on 2023.12.13
 
 ## Image Generation
 
@@ -11,7 +11,7 @@ layout: default
 |**2023-12-11**|**ControlNet-XS: Designing an Efficient and Effective Architecture for Controlling Text-to-Image Diffusion Models**|Denis Zavadski et.al.|[2312.06573v1](http://arxiv.org/abs/2312.06573v1)|**[link](https://github.com/vislearn/ControlNet-XS)**|
 |**2023-12-11**|**PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization**|Xu Peng et.al.|[2312.06354v1](http://arxiv.org/abs/2312.06354v1)|null|
 |**2023-12-11**|**Compensation Sampling for Improved Convergence in Diffusion Models**|Hui Lu et.al.|[2312.06285v1](http://arxiv.org/abs/2312.06285v1)|null|
-|**2023-12-11**|**UIEDP:Underwater Image Enhancement with Diffusion Prior**|Dazhao Du et.al.|[2312.06240v1](http://arxiv.org/abs/2312.06240v1)|**[link](https://github.com/ddz16/UIEDP)**|
+|**2023-12-11**|**UIEDP:Underwater Image Enhancement with Diffusion Prior**|Dazhao Du et.al.|[2312.06240v1](http://arxiv.org/abs/2312.06240v1)|null|
 |**2023-12-11**|**Invariant Representation Learning via Decoupling Style and Spurious Features**|Ruimeng Li et.al.|[2312.06226v1](http://arxiv.org/abs/2312.06226v1)|null|
 |**2023-12-11**|**DisControlFace: Disentangled Control for Personalized Facial Image Editing**|Haozhe Jia et.al.|[2312.06193v1](http://arxiv.org/abs/2312.06193v1)|null|
 |**2023-12-11**|**Stellar: Systematic Evaluation of Human-Centric Personalized Text-to-Image Methods**|Panos Achlioptas et.al.|[2312.06116v1](http://arxiv.org/abs/2312.06116v1)|null|
@@ -171,7 +171,7 @@ layout: default
 |**2023-12-11**|**Analysis and computations of a stochastic Cahn-Hilliard model for tumor growth with chemotaxis and variable mobility**|Marvin Fritz et.al.|[2312.06288v1](http://arxiv.org/abs/2312.06288v1)|null|
 |**2023-12-11**|**Compensation Sampling for Improved Convergence in Diffusion Models**|Hui Lu et.al.|[2312.06285v1](http://arxiv.org/abs/2312.06285v1)|null|
 |**2023-12-11**|**Local laser-induced solid-phase recrystallization of phosphorus-implanted Si/SiGe heterostructures for contacts below 4.2 K**|Malte Neul et.al.|[2312.06267v1](http://arxiv.org/abs/2312.06267v1)|null|
-|**2023-12-11**|**UIEDP:Underwater Image Enhancement with Diffusion Prior**|Dazhao Du et.al.|[2312.06240v1](http://arxiv.org/abs/2312.06240v1)|**[link](https://github.com/ddz16/UIEDP)**|
+|**2023-12-11**|**UIEDP:Underwater Image Enhancement with Diffusion Prior**|Dazhao Du et.al.|[2312.06240v1](http://arxiv.org/abs/2312.06240v1)|null|
 |**2023-12-11**|**The Journey, Not the Destination: How Data Guides Diffusion Models**|Kristian Georgiev et.al.|[2312.06205v1](http://arxiv.org/abs/2312.06205v1)|null|
 |**2023-12-11**|**Offloading and Quality Control for AI Generated Content Services in Edge Computing Networks**|Yitong Wang et.al.|[2312.06203v1](http://arxiv.org/abs/2312.06203v1)|null|
 |**2023-12-11**|**Optimized View and Geometry Distillation from Multi-view Diffuser**|Youjia Zhang et.al.|[2312.06198v1](http://arxiv.org/abs/2312.06198v1)|null|
