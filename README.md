@@ -155,10 +155,10 @@
 |**2023-12-13**|**$ρ$-Diffusion: A diffusion-based density estimation framework for computational physics**|Maxwell X. Cai et.al.|[2312.08153v1](http://arxiv.org/abs/2312.08153v1)|null|
 |**2023-12-13**|**A cross-diffusion system modelling rivaling gangs: global existence of bounded solutions and FCT stabilization for numerical simulation**|Mario Fuest et.al.|[2312.08147v1](http://arxiv.org/abs/2312.08147v1)|null|
 |**2023-12-13**|**Clockwork Diffusion: Efficient Generation With Model-Step Distillation**|Amirhossein Habibian et.al.|[2312.08128v1](http://arxiv.org/abs/2312.08128v1)|null|
-|**2023-12-13**|**How Social Rewiring Preferences Bridge Polarized Communities**|Henrique M. Borges et.al.|[2312.08088v1](http://arxiv.org/abs/2312.08088v1)|null|
+|**2023-12-13**|**How Social Rewiring Preferences Bridge Polarized Communities**|Henrique M. Borges et.al.|[2312.08088v2](http://arxiv.org/abs/2312.08088v2)|null|
 |**2023-12-13**|**Phase modulation of directed transport, energy diffusion and quantum scrambling in a Floquet non-Hermitian system**|Wen-Lei Zhao et.al.|[2312.08082v1](http://arxiv.org/abs/2312.08082v1)|null|
 |**2023-12-13**|**Knowledge-Aware Artifact Image Synthesis with LLM-Enhanced Prompting and Multi-Source Supervision**|Shengguang Wu et.al.|[2312.08056v1](http://arxiv.org/abs/2312.08056v1)|null|
-|**2023-12-13**|**Compositional Inversion for Stable Diffusion Models**|Xu-Lu Zhang et.al.|[2312.08048v1](http://arxiv.org/abs/2312.08048v1)|**[link](https://github.com/zhangxulu1996/compositional-inversion)**|
+|**2023-12-13**|**Compositional Inversion for Stable Diffusion Models**|Xu-Lu Zhang et.al.|[2312.08048v2](http://arxiv.org/abs/2312.08048v2)|**[link](https://github.com/zhangxulu1996/compositional-inversion)**|
 |**2023-12-13**|**ClusterDDPM: An EM clustering framework with Denoising Diffusion Probabilistic Models**|Jie Yan et.al.|[2312.08029v1](http://arxiv.org/abs/2312.08029v1)|null|
 |**2023-12-13**|**AdapEdit: Spatio-Temporal Guided Adaptive Editing Algorithm for Text-Based Continuity-Sensitive Image Editing**|Zhiyuan Ma et.al.|[2312.08019v1](http://arxiv.org/abs/2312.08019v1)|**[link](https://github.com/anonymouspony/adap-edit)**|
 |**2023-12-13**|**Effects of liquid fraction and contact angle on structure and coarsening in two-dimensional foams**|Jacob Morgan et.al.|[2312.08014v1](http://arxiv.org/abs/2312.08014v1)|null|
@@ -174,7 +174,7 @@
 |**2023-12-13**|**Quantum computing of reacting flows via Hamiltonian simulation**|Zhen Lu et.al.|[2312.07893v1](http://arxiv.org/abs/2312.07893v1)|null|
 |**2023-12-13**|**SimAC: A Simple Anti-Customization Method against Text-to-Image Synthesis of Diffusion Models**|Feifei Wang et.al.|[2312.07865v1](http://arxiv.org/abs/2312.07865v1)|null|
 |**2023-12-13**|**Diffusion Models Enable Zero-Shot Pose Estimation for Lower-Limb Prosthetic Users**|Tianxun Zhou et.al.|[2312.07854v1](http://arxiv.org/abs/2312.07854v1)|null|
-|**2023-12-13**|**Noise in the reverse process improves the approximation capabilities of diffusion models**|Karthik Elamvazhuthi et.al.|[2312.07851v1](http://arxiv.org/abs/2312.07851v1)|null|
+|**2023-12-13**|**Noise in the reverse process improves the approximation capabilities of diffusion models**|Karthik Elamvazhuthi et.al.|[2312.07851v2](http://arxiv.org/abs/2312.07851v2)|null|
 
 ## Vision Transformer
 
@@ -257,7 +257,7 @@
 |**2023-12-13**|**Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823v1](http://arxiv.org/abs/2312.07823v1)|null|
 |**2023-12-12**|**Super-Resolution on Rotationally Scanned Photoacoustic Microscopy Images Incorporating Scanning Prior**|Kai Pan et.al.|[2312.07226v1](http://arxiv.org/abs/2312.07226v1)|**[link](https://github.com/11710615/pamsr)**|
 |**2023-12-12**|**Hyper-Restormer: A General Hyperspectral Image Restoration Transformer for Remote Sensing Imaging**|Yo-Yu Lai et.al.|[2312.07016v1](http://arxiv.org/abs/2312.07016v1)|null|
-|**2023-12-11**|**TULIP: Transformer for Upsampling of LiDAR Point Cloud**|Bin Yang et.al.|[2312.06733v1](http://arxiv.org/abs/2312.06733v1)|null|
+|**2023-12-11**|**TULIP: Transformer for Upsampling of LiDAR Point Cloud**|Bin Yang et.al.|[2312.06733v2](http://arxiv.org/abs/2312.06733v2)|null|
 |**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662v1](http://arxiv.org/abs/2312.06662v1)|null|
 |**2023-12-11**|**Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution**|Shangchen Zhou et.al.|[2312.06640v1](http://arxiv.org/abs/2312.06640v1)|null|
 |**2023-12-11**|**Non-iterative Methods in Inhomogeneous Background Inverse Scattering Imaging Problem Assisted by Swin Transformer Network**|Naike Du et.al.|[2312.06302v1](http://arxiv.org/abs/2312.06302v1)|null|
