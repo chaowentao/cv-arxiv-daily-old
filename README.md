@@ -334,7 +334,7 @@
 |**2023-12-11**|**UpFusion: Novel View Diffusion from Unposed Sparse View Observations**|Bharath Raj Nagoor Kani et.al.|[2312.06661v1](http://arxiv.org/abs/2312.06661v1)|null|
 |**2023-12-11**|**Learning Naturally Aggregated Appearance for Efficient 3D Editing**|Ka Leong Cheng et.al.|[2312.06657v1](http://arxiv.org/abs/2312.06657v1)|**[link](https://github.com/felixcheng97/agap)**|
 |**2023-12-11**|**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**|Yixing Lao et.al.|[2312.06642v1](http://arxiv.org/abs/2312.06642v1)|**[link](https://github.com/yxlao/corres-nerf)**|
-|**2023-12-11**|**NVFi: Neural Velocity Fields for 3D Physics Learning from Dynamic Videos**|Jinxi Li et.al.|[2312.06398v1](http://arxiv.org/abs/2312.06398v1)|null|
+|**2023-12-11**|**NVFi: Neural Velocity Fields for 3D Physics Learning from Dynamic Videos**|Jinxi Li et.al.|[2312.06398v1](http://arxiv.org/abs/2312.06398v1)|**[link](https://github.com/vlar-group/nvfi)**|
 |**2023-12-11**|**Optimized View and Geometry Distillation from Multi-view Diffuser**|Youjia Zhang et.al.|[2312.06198v1](http://arxiv.org/abs/2312.06198v1)|null|
 |**2023-12-10**|**NeVRF: Neural Video-based Radiance Fields for Long-duration Sequences**|Minye Wu et.al.|[2312.05855v1](http://arxiv.org/abs/2312.05855v1)|null|
 |**2023-12-11**|**Nuvo: Neural UV Mapping for Unruly 3D Representations**|Pratul P. Srinivasan et.al.|[2312.05283v1](http://arxiv.org/abs/2312.05283v1)|null|
