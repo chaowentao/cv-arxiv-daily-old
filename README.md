@@ -343,7 +343,7 @@
 |**2023-12-14**|**VaLID: Variable-Length Input Diffusion for Novel View Synthesis**|Shijie Li et.al.|[2312.08892v1](http://arxiv.org/abs/2312.08892v1)|null|
 |**2023-12-14**|**CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning**|Qingsong Yan et.al.|[2312.08760v1](http://arxiv.org/abs/2312.08760v1)|null|
 |**2023-12-13**|**NViST: In the Wild New View Synthesis from a Single Image with Transformers**|Wonbong Jang et.al.|[2312.08568v1](http://arxiv.org/abs/2312.08568v1)|null|
-|**2023-12-13**|**FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects**|Bowen Wen et.al.|[2312.08344v1](http://arxiv.org/abs/2312.08344v1)|null|
+|**2023-12-13**|**FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects**|Bowen Wen et.al.|[2312.08344v1](http://arxiv.org/abs/2312.08344v1)|**[link](https://github.com/NVlabs/FoundationPose)**|
 |**2023-12-13**|**Global Latent Neural Rendering**|Thomas Tanay et.al.|[2312.08338v1](http://arxiv.org/abs/2312.08338v1)|null|
 |**2023-12-13**|**Neural Radiance Fields for Transparent Object Using Visual Hull**|Heechan Yoon et.al.|[2312.08118v1](http://arxiv.org/abs/2312.08118v1)|null|
 |**2023-12-13**|**Novel View Synthesis with View-Dependent Effects from a Single Image**|Juan Luis Gonzalez Bello et.al.|[2312.08071v1](http://arxiv.org/abs/2312.08071v1)|null|
