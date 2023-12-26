@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 
 ## Image Generation
 
@@ -13,7 +13,7 @@ layout: default
 |**2023-12-22**|**Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks**|Haz Sameen Shahgir et.al.|[2312.14440v1](http://arxiv.org/abs/2312.14440v1)|null|
 |**2023-12-22**|**Variance-insensitive and Target-preserving Mask Refinement for Interactive Image Segmentation**|Chaowei Fang et.al.|[2312.14387v1](http://arxiv.org/abs/2312.14387v1)|null|
 |**2023-12-22**|**Removing Interference and Recovering Content Imaginatively for Visible Watermark Removal**|Yicheng Leng et.al.|[2312.14383v1](http://arxiv.org/abs/2312.14383v1)|null|
-|**2023-12-21**|**Fine-grained Forecasting Models Via Gaussian Process Blurring Effect**|Sepideh Koohfar et.al.|[2312.14280v1](http://arxiv.org/abs/2312.14280v1)|null|
+|**2023-12-21**|**Fine-grained Forecasting Models Via Gaussian Process Blurring Effect**|Sepideh Koohfar et.al.|[2312.14280v1](http://arxiv.org/abs/2312.14280v1)|**[link](https://github.com/sepkfr/fine-grained-gaussian-process-forcating)**|
 |**2023-12-21**|**VCoder: Versatile Vision Encoders for Multimodal Large Language Models**|Jitesh Jain et.al.|[2312.14233v1](http://arxiv.org/abs/2312.14233v1)|**[link](https://github.com/shi-labs/vcoder)**|
 |**2023-12-21**|**Fast Diffusion-Based Counterfactuals for Shortcut Removal and Generation**|Nina Weng et.al.|[2312.14223v1](http://arxiv.org/abs/2312.14223v1)|null|
 |**2023-12-20**|**Fairy: Fast Parallelized Instruction-Guided Video-to-Video Synthesis**|Bichen Wu et.al.|[2312.13834v1](http://arxiv.org/abs/2312.13834v1)|null|
@@ -166,7 +166,7 @@ layout: default
 |**2023-12-22**|**Synthesis of hard magnetic α-MnBi phase by high pressure torsion and field assisted annealing**|Lukas Weissitsch et.al.|[2312.14580v1](http://arxiv.org/abs/2312.14580v1)|null|
 |**2023-12-22**|**FM-OV3D: Foundation Model-based Cross-modal Knowledge Blending for Open-Vocabulary 3D Detection**|Dongmei Zhang et.al.|[2312.14465v1](http://arxiv.org/abs/2312.14465v1)|null|
 |**2023-12-22**|**Disc Novae: Thermodynamics of Gas Assisted Binary Black Hole Formation in AGN Discs**|Henry Whitehead et.al.|[2312.14431v1](http://arxiv.org/abs/2312.14431v1)|null|
-|**2023-12-22**|**Sharp error estimates for target measure diffusion maps with applications to the committor problem**|Shashank Sule et.al.|[2312.14418v1](http://arxiv.org/abs/2312.14418v1)|null|
+|**2023-12-22**|**Sharp error estimates for target measure diffusion maps with applications to the committor problem**|Shashank Sule et.al.|[2312.14418v1](http://arxiv.org/abs/2312.14418v1)|**[link](https://github.com/shashanksule/tmdmaps)**|
 |**2023-12-22**|**3D Anderson localization of light in disordered systems of dielectric particles**|Yevgen Grynko et.al.|[2312.14393v1](http://arxiv.org/abs/2312.14393v1)|null|
 |**2023-12-22**|**Generative AI Beyond LLMs: System Implications of Multi-Modal Generation**|Alicia Golden et.al.|[2312.14385v1](http://arxiv.org/abs/2312.14385v1)|null|
 |**2023-12-21**|**On persistence of spatial analyticity in the hyper-dissipative Navier-Stokes models**|Aseel Farhat et.al.|[2312.14320v1](http://arxiv.org/abs/2312.14320v1)|null|
