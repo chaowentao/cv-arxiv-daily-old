@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.26
+## Updated on 2023.12.27
 
 ## Image Generation
 
@@ -305,7 +305,7 @@ layout: default
 |**2023-12-14**|**Text2Immersion: Generative Immersive Scene with 3D Gaussians**|Hao Ouyang et.al.|[2312.09242v1](http://arxiv.org/abs/2312.09242v1)|null|
 |**2023-12-14**|**Color Agnostic Cross-Spectral Disparity Estimation**|Frank Sippel et.al.|[2312.08946v1](http://arxiv.org/abs/2312.08946v1)|null|
 |**2023-12-14**|**CT-MVSNet: Efficient Multi-View Stereo with Cross-scale Transformer**|Sicheng Wang et.al.|[2312.08594v1](http://arxiv.org/abs/2312.08594v1)|**[link](https://github.com/wscstrive/ct-mvsnet)**|
-|**2023-12-13**|**EVP: Enhanced Visual Perception using Inverse Multi-Attentive Feature Refinement and Regularized Image-Text Alignment**|Mykola Lavreniuk et.al.|[2312.08548v1](http://arxiv.org/abs/2312.08548v1)|null|
+|**2023-12-13**|**EVP: Enhanced Visual Perception using Inverse Multi-Attentive Feature Refinement and Regularized Image-Text Alignment**|Mykola Lavreniuk et.al.|[2312.08548v1](http://arxiv.org/abs/2312.08548v1)|**[link](https://github.com/lavreniuk/evp)**|
 |**2023-12-13**|**Instance-aware Multi-Camera 3D Object Detection with Structural Priors Mining and Self-Boosting Learning**|Yang Jiao et.al.|[2312.08004v1](http://arxiv.org/abs/2312.08004v1)|null|
 |**2023-12-12**|**CompdVision: Combining Near-Field 3D Visual and Tactile Sensing Using a Compact Compound-Eye Imaging System**|Lifan Luo et.al.|[2312.07146v1](http://arxiv.org/abs/2312.07146v1)|null|
 |**2023-12-10**|**GenDepth: Generalizing Monocular Depth Estimation for Arbitrary Camera Parameters via Ground Plane Embedding**|Karlo Koledić et.al.|[2312.06021v1](http://arxiv.org/abs/2312.06021v1)|null|
