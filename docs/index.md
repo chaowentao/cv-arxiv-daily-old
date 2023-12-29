@@ -32,7 +32,7 @@ layout: default
 |**2023-12-21**|**Diff-Oracle: Diffusion Model for Oracle Character Generation with Controllable Styles and Contents**|Jing Li et.al.|[2312.13631v1](http://arxiv.org/abs/2312.13631v1)|null|
 |**2023-12-21**|**HyperEditor: Achieving Both Authenticity and Cross-Domain Capability in Image Editing via Hypernetworks**|Hai Zhang et.al.|[2312.13537v1](http://arxiv.org/abs/2312.13537v1)|**[link](https://github.com/Rainbow0204/HyperEditor)**|
 |**2023-12-20**|**Unlocking Pre-trained Image Backbones for Semantic Image Synthesis**|Tariq Berrada et.al.|[2312.13314v1](http://arxiv.org/abs/2312.13314v1)|null|
-|**2023-12-20**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271v2](http://arxiv.org/abs/2312.13271v2)|**[link](https://github.com/junwuzhang19/repaint123)**|
+|**2023-12-20**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271v3](http://arxiv.org/abs/2312.13271v3)|**[link](https://github.com/junwuzhang19/repaint123)**|
 |**2023-12-20**|**Conditional Image Generation with Pretrained Generative Model**|Rajesh Shrestha et.al.|[2312.13253v1](http://arxiv.org/abs/2312.13253v1)|null|
 |**2023-12-20**|**Quantifying Bias in Text-to-Image Generative Models**|Jordan Vice et.al.|[2312.13053v1](http://arxiv.org/abs/2312.13053v1)|null|
 |**2023-12-20**|**A self-attention-based differentially private tabular GAN with high data utility**|Zijian Li et.al.|[2312.13031v1](http://arxiv.org/abs/2312.13031v1)|null|
@@ -186,7 +186,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-25**|**Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers**|Peng Ye et.al.|[2312.15681v1](http://arxiv.org/abs/2312.15681v1)|null|
 |**2023-12-25**|**Deep Structure and Attention Aware Subspace Clustering**|Wenhao Wu et.al.|[2312.15577v1](http://arxiv.org/abs/2312.15577v1)|**[link](https://github.com/cs-whh/dsasc)**|
-|**2023-12-23**|**RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing**|Rojin Zandi et.al.|[2312.15345v1](http://arxiv.org/abs/2312.15345v1)|**[link](https://github.com/siamilab/robofisense)**|
+|**2023-12-23**|**RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing**|Rojin Zandi et.al.|[2312.15345v2](http://arxiv.org/abs/2312.15345v2)|**[link](https://github.com/siamilab/robofisense)**|
 |**2023-12-23**|**Towards Generalization in Subitizing with Neuro-Symbolic Loss using Holographic Reduced Representations**|Mohammad Mahmudul Alam et.al.|[2312.15310v1](http://arxiv.org/abs/2312.15310v1)|**[link](https://github.com/mahmudulalam/subitizing)**|
 |**2023-12-22**|**Fast-NTK: Parameter-Efficient Unlearning for Large-Scale Models**|Guihong Li et.al.|[2312.14923v1](http://arxiv.org/abs/2312.14923v1)|null|
 |**2023-12-22**|**DRStageNet: Deep Learning for Diabetic Retinopathy Staging from Fundus Images**|Yevgeniy Men et.al.|[2312.14891v1](http://arxiv.org/abs/2312.14891v1)|null|
@@ -202,7 +202,7 @@ layout: default
 |**2023-12-19**|**Context Disentangling and Prototype Inheriting for Robust Visual Grounding**|Wei Tang et.al.|[2312.11967v1](http://arxiv.org/abs/2312.11967v1)|**[link](https://github.com/waynetomas/transcp)**|
 |**2023-12-19**|**Transformer Network for Multi-Person Tracking and Re-Identification in Unconstrained Environment**|Hamza Mukhtar et.al.|[2312.11929v1](http://arxiv.org/abs/2312.11929v1)|null|
 |**2023-12-16**|**Transformers in Unsupervised Structure-from-Motion**|Hemang Chawla et.al.|[2312.10529v1](http://arxiv.org/abs/2312.10529v1)|**[link](https://github.com/neurai-lab/mt-sfmlearner)**|
-|**2023-12-15**|**Accelerating Neural Network Training: A Brief Review**|Sahil Nokhwal et.al.|[2312.10024v1](http://arxiv.org/abs/2312.10024v1)|**[link](https://github.com/sahilnokhwal/annt)**|
+|**2023-12-15**|**Accelerating Neural Network Training: A Brief Review**|Sahil Nokhwal et.al.|[2312.10024v2](http://arxiv.org/abs/2312.10024v2)|**[link](https://github.com/sahilnokhwal/annt)**|
 |**2023-12-15**|**DHFormer: A Vision Transformer-Based Attention Module for Image Dehazing**|Abdul Wasi et.al.|[2312.09955v1](http://arxiv.org/abs/2312.09955v1)|null|
 |**2023-12-15**|**TOP-ReID: Multi-spectral Object Re-Identification with Token Permutation**|Yuhao Wang et.al.|[2312.09612v1](http://arxiv.org/abs/2312.09612v1)|**[link](https://github.com/924973292/top-reid)**|
 |**2023-12-15**|**Multiscale Vision Transformer With Deep Clustering-Guided Refinement for Weakly Supervised Object Localization**|David Kim et.al.|[2312.09584v1](http://arxiv.org/abs/2312.09584v1)|null|
