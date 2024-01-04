@@ -147,7 +147,7 @@
 |---|---|---|---|---|
 |**2024-01-02**|**Metastability of stratified magnetohydrostatic equilibria and their relaxation**|David N. Hosking et.al.|[2401.01336v1](http://arxiv.org/abs/2401.01336v1)|null|
 |**2024-01-02**|**Influence of scanning plane on Human Spinal Cord functional Magnetic Resonance echo planar imaging**|Marta Moraschi et.al.|[2401.01281v1](http://arxiv.org/abs/2401.01281v1)|null|
-|**2024-01-02**|**Fairness Certification for Natural Language Processing and Large Language Models**|Vincent Freiberger et.al.|[2401.01262v1](http://arxiv.org/abs/2401.01262v1)|null|
+|**2024-01-02**|**Fairness Certification for Natural Language Processing and Large Language Models**|Vincent Freiberger et.al.|[2401.01262v2](http://arxiv.org/abs/2401.01262v2)|null|
 |**2024-01-02**|**VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM**|Fuchen Long et.al.|[2401.01256v1](http://arxiv.org/abs/2401.01256v1)|null|
 |**2024-01-02**|**Phase space maximal entropy random walk: Langevin-like ensemble of physical trajectories**|Jarek Duda et.al.|[2401.01239v1](http://arxiv.org/abs/2401.01239v1)|null|
 |**2024-01-02**|**PDRs4All. V. Modelling the dust evolution across the illuminated edge of the Orion Bar**|M. Elyajouri et.al.|[2401.01221v1](http://arxiv.org/abs/2401.01221v1)|null|
@@ -173,7 +173,7 @@
 |**2024-01-01**|**Tuning Thermal Conductivity of Hybrid Perovskites through Halide Alloying**|Guang Wang et.al.|[2401.00647v1](http://arxiv.org/abs/2401.00647v1)|null|
 |**2024-01-01**|**GD^2-NeRF: Generative Detail Compensation via GAN and Diffusion for One-shot Generalizable Neural Radiance Fields**|Xiao Pan et.al.|[2401.00616v2](http://arxiv.org/abs/2401.00616v2)|null|
 |**2023-12-31**|**A Generalist FaceX via Learning Unified Facial Representation**|Yue Han et.al.|[2401.00551v1](http://arxiv.org/abs/2401.00551v1)|**[link](https://github.com/diffusion-facex/facex)**|
-|**2023-12-31**|**Diff-PCR: Diffusion-Based Correspondence Searching in Doubly Stochastic Matrix Space for Point Cloud Registration**|Qianliang Wu et.al.|[2401.00436v1](http://arxiv.org/abs/2401.00436v1)|null|
+|**2023-12-31**|**Diff-PCR: Diffusion-Based Correspondence Searching in Doubly Stochastic Matrix Space for Point Cloud Registration**|Qianliang Wu et.al.|[2401.00436v2](http://arxiv.org/abs/2401.00436v2)|null|
 |**2023-12-31**|**SynCDR : Training Cross Domain Retrieval Models with Synthetic Data**|Samarth Mishra et.al.|[2401.00420v1](http://arxiv.org/abs/2401.00420v1)|**[link](https://github.com/samarth4149/syncdr)**|
 
 ## Vision Transformer
