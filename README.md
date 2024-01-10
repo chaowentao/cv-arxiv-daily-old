@@ -157,7 +157,7 @@
 |**2024-01-08**|**Elementary vibrational model for transport properties of dense fluids**|Sergey Khrapak et.al.|[2401.03871v1](http://arxiv.org/abs/2401.03871v1)|null|
 |**2024-01-08**|**End-to-End Crystal Structure Prediction from Powder X-Ray Diffraction**|Qingsi Lai et.al.|[2401.03862v1](http://arxiv.org/abs/2401.03862v1)|null|
 |**2024-01-08**|**Applications of the kinetic theory for a model of a confined quasi-two dimensional granular mixture: Stability analysis and thermal diffusion segregation**|Vicente Garzó et.al.|[2401.03822v1](http://arxiv.org/abs/2401.03822v1)|null|
-|**2024-01-08**|**Active Diffusion of Self-Propelled Particles in Semi-Flexible Polymer Networks**|Yeongjin Kim et.al.|[2401.03819v1](http://arxiv.org/abs/2401.03819v1)|null|
+|**2024-01-08**|**Active Diffusion of Self-Propelled Particles in Semi-Flexible Polymer Networks**|Yeongjin Kim et.al.|[2401.03819v2](http://arxiv.org/abs/2401.03819v2)|null|
 |**2024-01-08**|**Sub-GeV Dark Matter Annihilation: Limits from Milky Way observations with INTEGRAL**|Thomas Siegert et.al.|[2401.03795v1](http://arxiv.org/abs/2401.03795v1)|null|
 |**2024-01-08**|**Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion**|Minglong Xue et.al.|[2401.03788v1](http://arxiv.org/abs/2401.03788v1)|**[link](https://github.com/He-Jinhong/CFWD)**|
 |**2024-01-08**|**Modelling of power exhaust in TCV positive and negative triangularity L-mode plasmas**|E. Tonello et.al.|[2401.03782v1](http://arxiv.org/abs/2401.03782v1)|null|
@@ -168,7 +168,7 @@
 |**2024-01-07**|**On a Stochastic PDE Model for Epigenetic Dynamics**|Pablo Padilla-Longoria et.al.|[2401.03596v1](http://arxiv.org/abs/2401.03596v1)|null|
 |**2024-01-07**|**Absorption of Millimeter-band CO and CN in the Early Universe: Molecular Clouds in Radio Galaxy B2 0902+34 at Redshift 3.4**|Bjorn Emonts et.al.|[2401.03577v1](http://arxiv.org/abs/2401.03577v1)|null|
 |**2024-01-07**|**Physics-informed Neural Networks for Encoding Dynamics in Real Physical Systems**|Hamza Alsharif et.al.|[2401.03534v1](http://arxiv.org/abs/2401.03534v1)|null|
-|**2024-01-07**|**ROIC-DM: Robust Text Inference and Classification via Diffusion Model**|Shilong Yuan et.al.|[2401.03514v1](http://arxiv.org/abs/2401.03514v1)|null|
+|**2024-01-07**|**ROIC-DM: Robust Text Inference and Classification via Diffusion Model**|Shilong Yuan et.al.|[2401.03514v2](http://arxiv.org/abs/2401.03514v2)|null|
 |**2024-01-07**|**Freetalker: Controllable Speech and Text-Driven Gesture Generation Based on Diffusion Models for Enhanced Speaker Naturalness**|Sicheng Yang et.al.|[2401.03476v1](http://arxiv.org/abs/2401.03476v1)|null|
 |**2024-01-07**|**FurniScene: A Large-scale 3D Room Dataset with Intricate Furnishing Scenes**|Genghao Zhang et.al.|[2401.03470v1](http://arxiv.org/abs/2401.03470v1)|null|
 |**2024-01-07**|**SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing**|Songyan Chen et.al.|[2401.03433v1](http://arxiv.org/abs/2401.03433v1)|**[link](https://github.com/jingjiqinggong/specp2p)**|
