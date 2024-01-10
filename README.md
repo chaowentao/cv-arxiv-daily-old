@@ -1,11 +1,11 @@
-## Updated on 2024.01.09
+## Updated on 2024.01.10
 
 ## Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-07**|**A Classification of Critical Configurations for any Number of Projective Views**|Martin Bråtelund et.al.|[2401.03450v1](http://arxiv.org/abs/2401.03450v1)|null|
-|**2024-01-07**|**SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing**|Songyan Chen et.al.|[2401.03433v1](http://arxiv.org/abs/2401.03433v1)|null|
+|**2024-01-07**|**SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing**|Songyan Chen et.al.|[2401.03433v1](http://arxiv.org/abs/2401.03433v1)|**[link](https://github.com/jingjiqinggong/specp2p)**|
 |**2024-01-05**|**Dataset of turbulent flow over interacting barchan dunes**|Jimmy Gabriel Alvarez et.al.|[2401.03032v1](http://arxiv.org/abs/2401.03032v1)|null|
 |**2024-01-05**|**Generating Non-Stationary Textures using Self-Rectification**|Yang Zhou et.al.|[2401.02847v1](http://arxiv.org/abs/2401.02847v1)|**[link](https://github.com/xiaorongjun000/self-rectification)**|
 |**2024-01-04**|**VASE: Object-Centric Appearance and Shape Manipulation of Real Videos**|Elia Peruzzo et.al.|[2401.02473v1](http://arxiv.org/abs/2401.02473v1)|null|
@@ -159,7 +159,7 @@
 |**2024-01-08**|**Applications of the kinetic theory for a model of a confined quasi-two dimensional granular mixture: Stability analysis and thermal diffusion segregation**|Vicente Garzó et.al.|[2401.03822v1](http://arxiv.org/abs/2401.03822v1)|null|
 |**2024-01-08**|**Active Diffusion of Self-Propelled Particles in Semi-Flexible Polymer Networks**|Yeongjin Kim et.al.|[2401.03819v1](http://arxiv.org/abs/2401.03819v1)|null|
 |**2024-01-08**|**Sub-GeV Dark Matter Annihilation: Limits from Milky Way observations with INTEGRAL**|Thomas Siegert et.al.|[2401.03795v1](http://arxiv.org/abs/2401.03795v1)|null|
-|**2024-01-08**|**Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion**|Minglong Xue et.al.|[2401.03788v1](http://arxiv.org/abs/2401.03788v1)|null|
+|**2024-01-08**|**Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion**|Minglong Xue et.al.|[2401.03788v1](http://arxiv.org/abs/2401.03788v1)|**[link](https://github.com/He-Jinhong/CFWD)**|
 |**2024-01-08**|**Modelling of power exhaust in TCV positive and negative triangularity L-mode plasmas**|E. Tonello et.al.|[2401.03782v1](http://arxiv.org/abs/2401.03782v1)|null|
 |**2024-01-08**|**Decomposing Smiles: A Time Change Approach**|Liexin Cheng et.al.|[2401.03776v1](http://arxiv.org/abs/2401.03776v1)|null|
 |**2024-01-08**|**Anomalous diffusion of the heavy quarks through the fractional Langevin equation**|Jai Prakash et.al.|[2401.03757v1](http://arxiv.org/abs/2401.03757v1)|null|
@@ -171,7 +171,7 @@
 |**2024-01-07**|**ROIC-DM: Robust Text Inference and Classification via Diffusion Model**|Shilong Yuan et.al.|[2401.03514v1](http://arxiv.org/abs/2401.03514v1)|null|
 |**2024-01-07**|**Freetalker: Controllable Speech and Text-Driven Gesture Generation Based on Diffusion Models for Enhanced Speaker Naturalness**|Sicheng Yang et.al.|[2401.03476v1](http://arxiv.org/abs/2401.03476v1)|null|
 |**2024-01-07**|**FurniScene: A Large-scale 3D Room Dataset with Intricate Furnishing Scenes**|Genghao Zhang et.al.|[2401.03470v1](http://arxiv.org/abs/2401.03470v1)|null|
-|**2024-01-07**|**SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing**|Songyan Chen et.al.|[2401.03433v1](http://arxiv.org/abs/2401.03433v1)|null|
+|**2024-01-07**|**SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing**|Songyan Chen et.al.|[2401.03433v1](http://arxiv.org/abs/2401.03433v1)|**[link](https://github.com/jingjiqinggong/specp2p)**|
 |**2024-01-07**|**Deep Learning-based Image and Video Inpainting: A Survey**|Weize Quan et.al.|[2401.03395v1](http://arxiv.org/abs/2401.03395v1)|null|
 |**2024-01-07**|**Thermal conduction force under standing and quasi-standing temperature field**|Haohan Tan et.al.|[2401.03368v1](http://arxiv.org/abs/2401.03368v1)|null|
 |**2024-01-06**|**A regularity result for quasilinear elliptic systems with an equation of energy-type**|Pierre-Etienne Druet et.al.|[2401.03309v1](http://arxiv.org/abs/2401.03309v1)|null|
@@ -181,7 +181,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-08**|**Attention-Guided Erasing: A Novel Augmentation Method for Enhancing Downstream Breast Density Classification**|Adarsh Bhandary Panambur et.al.|[2401.03912v1](http://arxiv.org/abs/2401.03912v1)|null|
-|**2024-01-08**|**Fully Attentional Networks with Self-emerging Token Labeling**|Bingyin Zhao et.al.|[2401.03844v1](http://arxiv.org/abs/2401.03844v1)|null|
+|**2024-01-08**|**Fully Attentional Networks with Self-emerging Token Labeling**|Bingyin Zhao et.al.|[2401.03844v1](http://arxiv.org/abs/2401.03844v1)|**[link](https://github.com/NVlabs/STL)**|
 |**2024-01-06**|**Realism in Action: Anomaly-Aware Diagnosis of Brain Tumors from Medical Images Using YOLOv8 and DeiT**|Seyed Mohammad Hossein Hashemi et.al.|[2401.03302v1](http://arxiv.org/abs/2401.03302v1)|null|
 |**2024-01-06**|**Vision Transformers and Bi-LSTM for Alzheimer's Disease Diagnosis from 3D MRI**|Taymaz Akan et.al.|[2401.03132v1](http://arxiv.org/abs/2401.03132v1)|null|
 |**2024-01-05**|**Prompt-driven Latent Domain Generalization for Medical Image Classification**|Siyuan Yan et.al.|[2401.03002v1](http://arxiv.org/abs/2401.03002v1)|null|
@@ -320,7 +320,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-07**|**See360: Novel Panoramic View Interpolation**|Zhi-Song Liu et.al.|[2401.03431v1](http://arxiv.org/abs/2401.03431v1)|null|
+|**2024-01-07**|**See360: Novel Panoramic View Interpolation**|Zhi-Song Liu et.al.|[2401.03431v1](http://arxiv.org/abs/2401.03431v1)|**[link](https://github.com/Holmes-Alan/See360)**|
 |**2024-01-06**|**RustNeRF: Robust Neural Radiance Field with Low-Quality Images**|Mengfei Li et.al.|[2401.03257v1](http://arxiv.org/abs/2401.03257v1)|null|
 |**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339v1](http://arxiv.org/abs/2401.01339v1)|null|
 |**2024-01-01**|**Deblurring 3D Gaussian Splatting**|Byeonghyeon Lee et.al.|[2401.00834v1](http://arxiv.org/abs/2401.00834v1)|null|
