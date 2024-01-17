@@ -145,6 +145,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Well-posedness of a bulk-surface convective Cahn--Hilliard system with dynamic boundary conditions**|Patrik Knopf et.al.|[2401.08400v1](http://arxiv.org/abs/2401.08400v1)|null|
+|**2024-01-16**|**Collective photoprotection through light-induced phase separation in a phototactic micro-alga**|Eisenmann Isabelle et.al.|[2401.08394v1](http://arxiv.org/abs/2401.08394v1)|null|
 |**2024-01-16**|**Robotic Imitation of Human Actions**|Josua Spisak et.al.|[2401.08381v1](http://arxiv.org/abs/2401.08381v1)|null|
 |**2024-01-16**|**Optimization of the plasmonic properties of titanium nitride films sputtered at room temperature through microstructure and thickness control**|Mateusz Nieborek et.al.|[2401.08353v1](http://arxiv.org/abs/2401.08353v1)|null|
 |**2024-01-16**|**Automated solver selection for simulation of multiphysics processes in porous media**|Yury Zabegaev et.al.|[2401.08352v1](http://arxiv.org/abs/2401.08352v1)|null|
@@ -173,8 +175,6 @@
 |**2024-01-16**|**Freezing of short-range ordered antiferromagnetic clusters in the CrFeTi$_2$O$_7$ system**|Arun Kumar et.al.|[2401.08029v1](http://arxiv.org/abs/2401.08029v1)|null|
 |**2024-01-15**|**Regularity in diffusion models with gradient activation**|Damião Araújo et.al.|[2401.07979v1](http://arxiv.org/abs/2401.07979v1)|null|
 |**2024-01-15**|**Solution of the Probabilistic Lambert Problem: Connections with Optimal Mass Transport, Schrödinger Bridge and Reaction-Diffusion PDEs**|Alexis M. H. Teter et.al.|[2401.07961v1](http://arxiv.org/abs/2401.07961v1)|null|
-|**2024-01-15**|**Where do (random) trees grow leaves?**|Alessandra Caraceni et.al.|[2401.07891v1](http://arxiv.org/abs/2401.07891v1)|null|
-|**2024-01-15**|**Evolutionary dynamics of organised crime and terrorist networks**|Luis A. Martinez-Vaquero et.al.|[2401.07869v1](http://arxiv.org/abs/2401.07869v1)|null|
 
 ## Vision Transformer
 
@@ -250,6 +250,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Physics-informed Meta-instrument for eXperiments (PiMiX) with applications to fusion energy**|Zhehui Wang et.al.|[2401.08390v1](http://arxiv.org/abs/2401.08390v1)|null|
 |**2024-01-16**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209v1](http://arxiv.org/abs/2401.08209v1)|null|
 |**2024-01-16**|**The Devil is in the Details: Boosting Guided Depth Super-Resolution via Rethinking Cross-Modal Alignment and Aggregation**|Xinni Jiang et.al.|[2401.08123v1](http://arxiv.org/abs/2401.08123v1)|**[link](https://github.com/jiangxinni/d2a2)**|
 |**2024-01-16**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v1](http://arxiv.org/abs/2401.08115v1)|null|
@@ -272,7 +273,6 @@
 |**2024-01-04**|**What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs**|Alex Trevithick et.al.|[2401.02411v1](http://arxiv.org/abs/2401.02411v1)|null|
 |**2024-01-02**|**Efficient Hybrid Zoom using Camera Fusion on Mobile Phones**|Xiaotong Wu et.al.|[2401.01461v1](http://arxiv.org/abs/2401.01461v1)|null|
 |**2024-01-02**|**Noise-NeRF: Hide Information in Neural Radiance Fields using Trainable Noise**|Qinglong Huang et.al.|[2401.01216v1](http://arxiv.org/abs/2401.01216v1)|null|
-|**2023-12-30**|**Improving the Stability of Diffusion Models for Content Consistent Super-Resolution**|Lingchen Sun et.al.|[2401.00877v1](http://arxiv.org/abs/2401.00877v1)|**[link](https://github.com/csslc/ccsr)**|
 |**2024-01-01**|**Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images**|Zhilu Zhang et.al.|[2401.00766v1](http://arxiv.org/abs/2401.00766v1)|**[link](https://github.com/cszhilu1998/bracketire)**|
 |**2024-01-01**|**Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2401.00740v1](http://arxiv.org/abs/2401.00740v1)|null|
 |**2024-01-01**|**Diffusion Models, Image Super-Resolution And Everything: A Survey**|Brian B. Moser et.al.|[2401.00736v1](http://arxiv.org/abs/2401.00736v1)|null|
