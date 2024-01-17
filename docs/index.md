@@ -156,7 +156,7 @@ layout: default
 |**2024-01-12**|**Equity auction dynamics: latent liquidity models with activity acceleration**|Mohammed Salek et.al.|[2401.06724v1](http://arxiv.org/abs/2401.06724v1)|null|
 |**2024-01-12**|**Confinement determines transport of a reaction-diffusion active matter front**|Nicolas Lobato-Dauzier et.al.|[2401.06674v1](http://arxiv.org/abs/2401.06674v1)|null|
 |**2024-01-12**|**Decoupling Pixel Flipping and Occlusion Strategy for Consistent XAI Benchmarks**|Stefan Blücher et.al.|[2401.06654v1](http://arxiv.org/abs/2401.06654v1)|**[link](https://github.com/bluecher31/pixel-flipping)**|
-|**2024-01-12**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v1](http://arxiv.org/abs/2401.06637v1)|null|
+|**2024-01-12**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v2](http://arxiv.org/abs/2401.06637v2)|null|
 |**2024-01-12**|**Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking**|Wei Cao et.al.|[2401.06614v1](http://arxiv.org/abs/2401.06614v1)|null|
 |**2024-01-12**|**360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model**|Qian Wang et.al.|[2401.06578v1](http://arxiv.org/abs/2401.06578v1)|null|
 |**2024-01-12**|**First Principles Study of Electronic Structure and Transport in Graphene Grain Boundaries**|Aleksander Bach Lorentzen et.al.|[2401.06556v1](http://arxiv.org/abs/2401.06556v1)|null|
@@ -186,7 +186,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-12**|**UPDP: A Unified Progressive Depth Pruner for CNN and Vision Transformer**|Ji Liu et.al.|[2401.06426v1](http://arxiv.org/abs/2401.06426v1)|null|
 |**2024-01-12**|**MedTransformer: Accurate AD Diagnosis for 3D MRI Images through 2D Vision Transformers**|Yifeng Wang et.al.|[2401.06349v1](http://arxiv.org/abs/2401.06349v1)|null|
-|**2024-01-12**|**Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention**|Xingyu Zhou et.al.|[2401.06312v1](http://arxiv.org/abs/2401.06312v1)|null|
+|**2024-01-12**|**Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention**|Xingyu Zhou et.al.|[2401.06312v2](http://arxiv.org/abs/2401.06312v2)|null|
 |**2024-01-10**|**Derm-T2IM: Harnessing Synthetic Skin Lesion Data via Stable Diffusion Models for Enhanced Skin Disease Classification using ViT and CNN**|Muhammad Ali Farooq et.al.|[2401.05159v1](http://arxiv.org/abs/2401.05159v1)|null|
 |**2024-01-10**|**Efficient Fine-Tuning with Domain Adaptation for Privacy-Preserving Vision Transformer**|Teru Nagamori et.al.|[2401.05126v1](http://arxiv.org/abs/2401.05126v1)|null|
 |**2024-01-10**|**Adaptive-avg-pooling based Attention Vision Transformer for Face Anti-spoofing**|Jichen Yang et.al.|[2401.04953v1](http://arxiv.org/abs/2401.04953v1)|null|
@@ -254,7 +254,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-12**|**Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention**|Xingyu Zhou et.al.|[2401.06312v1](http://arxiv.org/abs/2401.06312v1)|null|
+|**2024-01-12**|**Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention**|Xingyu Zhou et.al.|[2401.06312v2](http://arxiv.org/abs/2401.06312v2)|null|
 |**2024-01-11**|**Frequency-Time Diffusion with Neural Cellular Automata**|John Kalkhof et.al.|[2401.06291v1](http://arxiv.org/abs/2401.06291v1)|null|
 |**2024-01-11**|**TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation**|Rajaei Khatib et.al.|[2401.06191v1](http://arxiv.org/abs/2401.06191v1)|null|
 |**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633v1](http://arxiv.org/abs/2401.05633v1)|**[link](https://github.com/aitical/cfsr)**|
@@ -347,7 +347,7 @@ layout: default
 |**2023-12-20**|**DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis**|Yuming Gu et.al.|[2312.13016v3](http://arxiv.org/abs/2312.13016v3)|**[link](https://github.com/FreedomGu/DiffPortrait3D)**|
 |**2023-12-20**|**Radar Fields: An Extension of Radiance Fields to SAR**|Thibaud Ehret et.al.|[2312.12961v1](http://arxiv.org/abs/2312.12961v1)|null|
 |**2023-12-19**|**pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction**|David Charatan et.al.|[2312.12337v2](http://arxiv.org/abs/2312.12337v2)|null|
-|**2023-12-19**|**MixRT: Mixed Neural Representations For Real-Time NeRF Rendering**|Chaojian Li et.al.|[2312.11841v2](http://arxiv.org/abs/2312.11841v2)|null|
+|**2023-12-19**|**MixRT: Mixed Neural Representations For Real-Time NeRF Rendering**|Chaojian Li et.al.|[2312.11841v3](http://arxiv.org/abs/2312.11841v3)|null|
 |**2023-12-18**|**GauFRe: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis**|Yiqing Liang et.al.|[2312.11458v1](http://arxiv.org/abs/2312.11458v1)|null|
 |**2023-12-18**|**SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images**|Guo Pu et.al.|[2312.11037v1](http://arxiv.org/abs/2312.11037v1)|**[link](https://github.com/trickygo/sinmpi)**|
 |**2023-12-18**|**T-Code: Simple Temporal Latent Code for Efficient Dynamic View Synthesis**|Zhenhuan Liu et.al.|[2312.11015v1](http://arxiv.org/abs/2312.11015v1)|null|
