@@ -152,7 +152,7 @@
 |**2024-01-16**|**Automated solver selection for simulation of multiphysics processes in porous media**|Yury Zabegaev et.al.|[2401.08352v1](http://arxiv.org/abs/2401.08352v1)|**[link](https://github.com/yuriyzabegaev/solver_selector)**|
 |**2024-01-16**|**Large-population asymptotics for the maximum of diffusive particles with mean-field interaction in the noises**|Nikolaos Kolliopoulos et.al.|[2401.08344v1](http://arxiv.org/abs/2401.08344v1)|null|
 |**2024-01-16**|**Controlled synthesis and characterization of porous silicon nanoparticles for dynamic nuclear polarization**|Gevin von Witte et.al.|[2401.08320v1](http://arxiv.org/abs/2401.08320v1)|null|
-|**2024-01-16**|**Hitomi-HXT deconvolution imaging of the Crab Nebula dazzled by the Crab pulsar**|Mikio Morii et.al.|[2401.08278v1](http://arxiv.org/abs/2401.08278v1)|null|
+|**2024-01-16**|**Hitomi-HXT deconvolution imaging of the Crab Nebula dazzled by the Crab pulsar**|Mikio Morii et.al.|[2401.08278v2](http://arxiv.org/abs/2401.08278v2)|null|
 |**2024-01-16**|**Modeling Spoof Noise by De-spoofing Diffusion and its Application in Face Anti-spoofing**|Bin Zhang et.al.|[2401.08275v1](http://arxiv.org/abs/2401.08275v1)|null|
 |**2024-01-16**|**Multi-scale 2D Temporal Map Diffusion Models for Natural Language Video Localization**|Chongzhi Zhang et.al.|[2401.08232v1](http://arxiv.org/abs/2401.08232v1)|null|
 |**2024-01-16**|**Characterizing the Gamma-ray Emission Properties of the Globular Cluster M5 with the Fermi-LAT**|X. Hou et.al.|[2401.08231v1](http://arxiv.org/abs/2401.08231v1)|null|
@@ -305,7 +305,7 @@
 |**2023-12-22**|**Global Occlusion-Aware Transformer for Robust Stereo Matching**|Zihua Liu et.al.|[2312.14650v1](http://arxiv.org/abs/2312.14650v1)|**[link](https://github.com/magicboomliu/goat)**|
 |**2023-12-21**|**DUSt3R: Geometric 3D Vision Made Easy**|Shuzhe Wang et.al.|[2312.14132v1](http://arxiv.org/abs/2312.14132v1)|null|
 |**2023-12-20**|**Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model**|Saurabh Saxena et.al.|[2312.13252v1](http://arxiv.org/abs/2312.13252v1)|null|
-|**2023-12-20**|**PPEA-Depth: Progressive Parameter-Efficient Adaptation for Self-Supervised Monocular Depth Estimation**|Yue-Jiang Dong et.al.|[2312.13066v1](http://arxiv.org/abs/2312.13066v1)|null|
+|**2023-12-20**|**PPEA-Depth: Progressive Parameter-Efficient Adaptation for Self-Supervised Monocular Depth Estimation**|Yue-Jiang Dong et.al.|[2312.13066v2](http://arxiv.org/abs/2312.13066v2)|null|
 |**2023-12-19**|**Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion**|Fan Zhang et.al.|[2312.12471v1](http://arxiv.org/abs/2312.12471v1)|**[link](https://github.com/zkawfanx/atlantis)**|
 |**2023-12-18**|**SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images**|Guo Pu et.al.|[2312.11037v1](http://arxiv.org/abs/2312.11037v1)|**[link](https://github.com/trickygo/sinmpi)**|
 |**2023-12-18**|**Long-Tailed 3D Detection via 2D Late Fusion**|Yechi Ma et.al.|[2312.10986v1](http://arxiv.org/abs/2312.10986v1)|null|
