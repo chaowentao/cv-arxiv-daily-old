@@ -1,4 +1,4 @@
-## Updated on 2024.01.21
+## Updated on 2024.01.22
 
 ## Image Generation
 
@@ -321,7 +321,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-18**|**Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions**|Namitha Padmanabhan et.al.|[2401.10217v1](http://arxiv.org/abs/2401.10217v1)|null|
-|**2024-01-18**|**GPAvatar: Generalizable and Precise Head Avatar from Image(s)**|Xuangeng Chu et.al.|[2401.10215v1](http://arxiv.org/abs/2401.10215v1)|null|
+|**2024-01-18**|**GPAvatar: Generalizable and Precise Head Avatar from Image(s)**|Xuangeng Chu et.al.|[2401.10215v1](http://arxiv.org/abs/2401.10215v1)|**[link](https://github.com/xg-chu/gpavatar)**|
 |**2024-01-17**|**Objects With Lighting: A Real-World Dataset for Evaluating Reconstruction and Rendering for Object Relighting**|Benjamin Ummenhofer et.al.|[2401.09126v1](http://arxiv.org/abs/2401.09126v1)|**[link](https://github.com/isl-org/objects-with-lighting)**|
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937v1](http://arxiv.org/abs/2401.08937v1)|null|
 |**2024-01-16**|**Fast Dynamic 3D Object Generation from a Single-view Video**|Zijie Pan et.al.|[2401.08742v1](http://arxiv.org/abs/2401.08742v1)|null|
