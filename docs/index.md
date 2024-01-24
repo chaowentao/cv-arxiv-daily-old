@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.23
+## Updated on 2024.01.24
 
 ## Image Generation
 
@@ -17,7 +17,7 @@ layout: default
 |**2024-01-18**|**Boosting Few-Shot Semantic Segmentation Via Segment Anything Model**|Chen-Bin Feng et.al.|[2401.09826v2](http://arxiv.org/abs/2401.09826v2)|null|
 |**2024-01-18**|**Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing**|Gwanhyeong Koo et.al.|[2401.09794v1](http://arxiv.org/abs/2401.09794v1)|null|
 |**2024-01-17**|**MITS-GAN: Safeguarding Medical Imaging from Tampering with Generative Adversarial Networks**|Giovanni Pasqualino et.al.|[2401.09624v1](http://arxiv.org/abs/2401.09624v1)|**[link](https://github.com/giovannipasq/mits-gan)**|
-|**2024-01-17**|**Efficient generative adversarial networks using linear additive-attention Transformers**|Emilio Morales-Juarez et.al.|[2401.09596v1](http://arxiv.org/abs/2401.09596v1)|null|
+|**2024-01-17**|**Efficient generative adversarial networks using linear additive-attention Transformers**|Emilio Morales-Juarez et.al.|[2401.09596v1](http://arxiv.org/abs/2401.09596v1)|**[link](https://github.com/milmor/ladagan)**|
 |**2024-01-16**|**Fast Dynamic 3D Object Generation from a Single-view Video**|Zijie Pan et.al.|[2401.08742v1](http://arxiv.org/abs/2401.08742v1)|null|
 |**2024-01-16**|**Fixed Point Diffusion Models**|Xingjian Bai et.al.|[2401.08741v1](http://arxiv.org/abs/2401.08741v1)|null|
 |**2024-01-16**|**Revealing Vulnerabilities in Stable Diffusion via Targeted Attacks**|Chenyu Zhang et.al.|[2401.08725v1](http://arxiv.org/abs/2401.08725v1)|**[link](https://github.com/datar001/revealing-vulnerabilities-in-stable-diffusion-via-targeted-attacks)**|
@@ -255,7 +255,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-22**|**Observation-Guided Meteorological Field Downscaling at Station Scale: A Benchmark and a New Method**|Zili Liu et.al.|[2401.11960v1](http://arxiv.org/abs/2401.11960v1)|null|
-|**2024-01-22**|**LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution**|Feiwei Qin et.al.|[2401.11859v1](http://arxiv.org/abs/2401.11859v1)|null|
+|**2024-01-22**|**LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution**|Feiwei Qin et.al.|[2401.11859v1](http://arxiv.org/abs/2401.11859v1)|**[link](https://github.com/sad192/large-kernel-transformer)**|
 |**2024-01-22**|**Simultaneous Blind Demixing and Super-resolution via Vectorized Hankel Lift**|Haifeng Wang et.al.|[2401.11805v1](http://arxiv.org/abs/2401.11805v1)|null|
 |**2024-01-18**|**Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution**|Xin Yuan et.al.|[2401.10404v1](http://arxiv.org/abs/2401.10404v1)|null|
 |**2024-01-17**|**3D orientation super-resolution spatial-frequency-shift microscopy**|Xiaowei Liu et.al.|[2401.09085v2](http://arxiv.org/abs/2401.09085v2)|null|
