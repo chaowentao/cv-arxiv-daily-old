@@ -5,7 +5,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-24**|**Research about the Ability of LLM in the Tamper-Detection Area**|Xinyu Yang et.al.|[2401.13504v1](http://arxiv.org/abs/2401.13504v1)|null|
-|**2024-01-24**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388v1](http://arxiv.org/abs/2401.13388v1)|null|
+|**2024-01-24**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388v2](http://arxiv.org/abs/2401.13388v2)|null|
 |**2024-01-24**|**Deep Learning for Improved Polyp Detection from Synthetic Narrow-Band Imaging**|Mathias Ramm Haugland et.al.|[2401.13315v1](http://arxiv.org/abs/2401.13315v1)|null|
 |**2024-01-24**|**Choose Your Diffusion: Efficient and flexible ways to accelerate the diffusion model in fast high energy physics simulation**|Cheng Jiang et.al.|[2401.13162v1](http://arxiv.org/abs/2401.13162v1)|null|
 |**2024-01-23**|**CCA: Collaborative Competitive Agents for Image Editing**|Tiankai Hang et.al.|[2401.13011v1](http://arxiv.org/abs/2401.13011v1)|**[link](https://github.com/tiankaihang/cca)**|
@@ -158,7 +158,7 @@
 |**2024-01-24**|**Disorder-induced phase transitions in higher-order nodal line semimetals**|Yue-Ran Ding et.al.|[2401.13443v1](http://arxiv.org/abs/2401.13443v1)|null|
 |**2024-01-24**|**Numerical Approximations and Convergence Analysis of Piecewise Diffusion Markov Processes, with Application to Glioma Cell Migration**|Evelyn Buckwar et.al.|[2401.13428v1](http://arxiv.org/abs/2401.13428v1)|null|
 |**2024-01-24**|**Tracer diffusion beyond Gaussian behavior: explicit results for general single-file systems**|Aurélien Grabsch et.al.|[2401.13409v1](http://arxiv.org/abs/2401.13409v1)|null|
-|**2024-01-24**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388v1](http://arxiv.org/abs/2401.13388v1)|null|
+|**2024-01-24**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388v2](http://arxiv.org/abs/2401.13388v2)|null|
 |**2024-01-24**|**Generative Video Diffusion for Unseen Cross-Domain Video Moment Retrieval**|Dezhao Luo et.al.|[2401.13329v1](http://arxiv.org/abs/2401.13329v1)|null|
 |**2024-01-24**|**Classification of Radiologically Isolated Syndrome and Clinically Isolated Syndrome with Machine-Learning Techniques**|V Mato-Abad et.al.|[2401.13301v1](http://arxiv.org/abs/2401.13301v1)|null|
 |**2024-01-24**|**RefreshNet: Learning Multiscale Dynamics through Hierarchical Refreshing**|Junaid Farooq et.al.|[2401.13282v1](http://arxiv.org/abs/2401.13282v1)|null|
@@ -229,7 +229,7 @@
 |**2024-01-15**|**6-DoF Grasp Pose Evaluation and Optimization via Transfer Learning from NeRFs**|Gergely Sóti et.al.|[2401.07935v1](http://arxiv.org/abs/2401.07935v1)|null|
 |**2024-01-11**|**TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation**|Rajaei Khatib et.al.|[2401.06191v1](http://arxiv.org/abs/2401.06191v1)|null|
 |**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052v1](http://arxiv.org/abs/2401.06052v1)|null|
-|**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925v1](http://arxiv.org/abs/2401.05925v1)|null|
+|**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians with Dual Feature Fusion**|Bin Dou et.al.|[2401.05925v2](http://arxiv.org/abs/2401.05925v2)|null|
 |**2024-01-11**|**GO-NeRF: Generating Virtual Objects in Neural Radiance Fields**|Peng Dai et.al.|[2401.05750v1](http://arxiv.org/abs/2401.05750v1)|null|
 |**2024-01-10**|**Diffusion Priors for Dynamic View Synthesis from Monocular Videos**|Chaoyang Wang et.al.|[2401.05583v1](http://arxiv.org/abs/2401.05583v1)|null|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335v1](http://arxiv.org/abs/2401.05335v1)|null|
