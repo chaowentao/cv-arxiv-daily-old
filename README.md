@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2024-01-25**|**Deconstructing Denoising Diffusion Models for Self-Supervised Learning**|Xinlei Chen et.al.|[2401.14404v1](http://arxiv.org/abs/2401.14404v1)|null|
 |**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379v1](http://arxiv.org/abs/2401.14379v1)|null|
-|**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159v1](http://arxiv.org/abs/2401.14159v1)|null|
+|**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159v1](http://arxiv.org/abs/2401.14159v1)|**[link](https://github.com/IDEA-Research/Grounded-Segment-Anything)**|
 |**2024-01-25**|**Scene Graph to Image Synthesis: Integrating CLIP Guidance with Graph Conditioning in Diffusion Models**|Rameshwar Mishra et.al.|[2401.14111v1](http://arxiv.org/abs/2401.14111v1)|null|
 |**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066v1](http://arxiv.org/abs/2401.14066v1)|**[link](https://github.com/haha-lisa/creativesynth)**|
 |**2024-01-25**|**Diffusion-based Data Augmentation for Object Counting Problems**|Zhen Wang et.al.|[2401.13992v1](http://arxiv.org/abs/2401.13992v1)|null|
@@ -157,13 +157,13 @@
 |**2024-01-25**|**Harnack inequalities for kinetic integral equations**|Francesca Anceschi et.al.|[2401.14182v1](http://arxiv.org/abs/2401.14182v1)|null|
 |**2024-01-25**|**Magnetic fields of protoplanetary disks**|Sergey A. Khaibrakhmanov et.al.|[2401.14180v1](http://arxiv.org/abs/2401.14180v1)|null|
 |**2024-01-25**|**A finite volume method preserving the invariant region property for the quasimonotone reaction-diffusion systems**|Huifang Zhou et.al.|[2401.14169v1](http://arxiv.org/abs/2401.14169v1)|null|
-|**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159v1](http://arxiv.org/abs/2401.14159v1)|null|
+|**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159v1](http://arxiv.org/abs/2401.14159v1)|**[link](https://github.com/IDEA-Research/Grounded-Segment-Anything)**|
 |**2024-01-25**|**Scene Graph to Image Synthesis: Integrating CLIP Guidance with Graph Conditioning in Diffusion Models**|Rameshwar Mishra et.al.|[2401.14111v1](http://arxiv.org/abs/2401.14111v1)|null|
 |**2024-01-25**|**GQHAN: A Grover-inspired Quantum Hard Attention Network**|Ren-Xin Zhao et.al.|[2401.14089v1](http://arxiv.org/abs/2401.14089v1)|null|
 |**2024-01-25**|**Diffusion of light in structurally anisotropic media with uniaxial symmetry**|Ernesto Pini et.al.|[2401.14068v1](http://arxiv.org/abs/2401.14068v1)|null|
 |**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066v1](http://arxiv.org/abs/2401.14066v1)|**[link](https://github.com/haha-lisa/creativesynth)**|
 |**2024-01-25**|**A real-time rendering method for high albedo anisotropic materials with multiple scattering**|Shun Fang et.al.|[2401.14051v1](http://arxiv.org/abs/2401.14051v1)|null|
-|**2024-01-25**|**Deep Clustering with Diffused Sampling and Hardness-aware Self-distillation**|Hai-Xin Zhang et.al.|[2401.14038v1](http://arxiv.org/abs/2401.14038v1)|null|
+|**2024-01-25**|**Deep Clustering with Diffused Sampling and Hardness-aware Self-distillation**|Hai-Xin Zhang et.al.|[2401.14038v1](http://arxiv.org/abs/2401.14038v1)|**[link](https://github.com/regan-zhang/hadis)**|
 |**2024-01-25**|**Diffusion-based Data Augmentation for Object Counting Problems**|Zhen Wang et.al.|[2401.13992v1](http://arxiv.org/abs/2401.13992v1)|null|
 |**2024-01-25**|**Magnon dispersion and spin transport in CrCl$_3$ bilayers under different strain-induced magnetic states**|Verena Brehm et.al.|[2401.13984v1](http://arxiv.org/abs/2401.13984v1)|null|
 |**2024-01-25**|**BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models**|Senthil Purushwalkam et.al.|[2401.13974v1](http://arxiv.org/abs/2401.13974v1)|null|
