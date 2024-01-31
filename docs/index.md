@@ -13,7 +13,7 @@ layout: default
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859v1](http://arxiv.org/abs/2401.15859v1)|null|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841v1](http://arxiv.org/abs/2401.15841v1)|null|
 |**2024-01-28**|**Object-Driven One-Shot Fine-tuning of Text-to-Image Diffusion with Prototypical Embedding**|Jianxiang Lu et.al.|[2401.15708v1](http://arxiv.org/abs/2401.15708v1)|null|
-|**2024-01-28**|**Divide and Conquer: Language Models can Plan and Self-Correct for Compositional Text-to-Image Generation**|Zhenyu Wang et.al.|[2401.15688v1](http://arxiv.org/abs/2401.15688v1)|null|
+|**2024-01-28**|**Divide and Conquer: Language Models can Plan and Self-Correct for Compositional Text-to-Image Generation**|Zhenyu Wang et.al.|[2401.15688v2](http://arxiv.org/abs/2401.15688v2)|null|
 |**2024-01-28**|**IntentTuner: An Interactive Framework for Integrating Human Intents in Fine-tuning Text-to-Image Generative Models**|Xingchen Zeng et.al.|[2401.15559v1](http://arxiv.org/abs/2401.15559v1)|null|
 |**2024-01-27**|**GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis**|Jing Hao et.al.|[2401.15282v1](http://arxiv.org/abs/2401.15282v1)|null|
 |**2024-01-25**|**Diffusion Enhancement for Cloud Removal in Ultra-Resolution Remote Sensing Imagery**|Jialu Sui et.al.|[2401.15105v1](http://arxiv.org/abs/2401.15105v1)|null|
@@ -24,7 +24,7 @@ layout: default
 |**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379v1](http://arxiv.org/abs/2401.14379v1)|null|
 |**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159v1](http://arxiv.org/abs/2401.14159v1)|**[link](https://github.com/IDEA-Research/Grounded-Segment-Anything)**|
 |**2024-01-25**|**Image Synthesis with Graph Conditioning: CLIP-Guided Diffusion Models for Scene Graphs**|Rameshwar Mishra et.al.|[2401.14111v2](http://arxiv.org/abs/2401.14111v2)|null|
-|**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066v1](http://arxiv.org/abs/2401.14066v1)|null|
+|**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066v2](http://arxiv.org/abs/2401.14066v2)|null|
 |**2024-01-25**|**Diffusion-based Data Augmentation for Object Counting Problems**|Zhen Wang et.al.|[2401.13992v1](http://arxiv.org/abs/2401.13992v1)|null|
 |**2024-01-25**|**Learning to Manipulate Artistic Images**|Wei Guo et.al.|[2401.13976v1](http://arxiv.org/abs/2401.13976v1)|**[link](https://github.com/snailforce/sim-net)**|
 |**2024-01-25**|**BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models**|Senthil Purushwalkam et.al.|[2401.13974v1](http://arxiv.org/abs/2401.13974v1)|null|
@@ -238,7 +238,7 @@ layout: default
 |**2024-01-15**|**6-DoF Grasp Pose Evaluation and Optimization via Transfer Learning from NeRFs**|Gergely Sóti et.al.|[2401.07935v1](http://arxiv.org/abs/2401.07935v1)|null|
 |**2024-01-11**|**TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation**|Rajaei Khatib et.al.|[2401.06191v1](http://arxiv.org/abs/2401.06191v1)|null|
 |**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052v1](http://arxiv.org/abs/2401.06052v1)|null|
-|**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians with Dual Feature Fusion**|Bin Dou et.al.|[2401.05925v2](http://arxiv.org/abs/2401.05925v2)|null|
+|**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians with Dual Feature Fusion**|Bin Dou et.al.|[2401.05925v3](http://arxiv.org/abs/2401.05925v3)|null|
 |**2024-01-11**|**GO-NeRF: Generating Virtual Objects in Neural Radiance Fields**|Peng Dai et.al.|[2401.05750v1](http://arxiv.org/abs/2401.05750v1)|null|
 |**2024-01-10**|**Diffusion Priors for Dynamic View Synthesis from Monocular Videos**|Chaoyang Wang et.al.|[2401.05583v1](http://arxiv.org/abs/2401.05583v1)|null|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335v1](http://arxiv.org/abs/2401.05335v1)|null|
