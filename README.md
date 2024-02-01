@@ -11,7 +11,7 @@
 |**2024-01-30**|**LATENTPATCH: A Non-Parametric Approach for Face Generation and Editing**|Benjamin Samuth et.al.|[2401.16830v1](http://arxiv.org/abs/2401.16830v1)|null|
 |**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459v1](http://arxiv.org/abs/2401.16459v1)|null|
 |**2024-01-29**|**Spatial-Aware Latent Initialization for Controllable Image Generation**|Wenqiang Sun et.al.|[2401.16157v1](http://arxiv.org/abs/2401.16157v1)|null|
-|**2024-01-29**|**Multilingual Text-to-Image Generation Magnifies Gender Stereotypes and Prompt Engineering May Not Help You**|Felix Friedrich et.al.|[2401.16092v1](http://arxiv.org/abs/2401.16092v1)|**[link](https://github.com/felifri/magbig)**|
+|**2024-01-29**|**Multilingual Text-to-Image Generation Magnifies Gender Stereotypes and Prompt Engineering May Not Help You**|Felix Friedrich et.al.|[2401.16092v2](http://arxiv.org/abs/2401.16092v2)|**[link](https://github.com/felifri/magbig)**|
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859v1](http://arxiv.org/abs/2401.15859v1)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841v1](http://arxiv.org/abs/2401.15841v1)|null|
 |**2024-01-28**|**Object-Driven One-Shot Fine-tuning of Text-to-Image Diffusion with Prototypical Embedding**|Jianxiang Lu et.al.|[2401.15708v1](http://arxiv.org/abs/2401.15708v1)|null|
@@ -153,7 +153,7 @@
 |**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258v1](http://arxiv.org/abs/2401.17258v1)|null|
 |**2024-01-30**|**Stochastic motions of the two-dimensional many-body delta-Bose gas**|Yu-Ting Chen et.al.|[2401.17243v1](http://arxiv.org/abs/2401.17243v1)|null|
 |**2024-01-30**|**ContactGen: Contact-Guided Interactive 3D Human Generation for Partners**|Dongjun Gu et.al.|[2401.17212v1](http://arxiv.org/abs/2401.17212v1)|null|
-|**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211v1](http://arxiv.org/abs/2401.17211v1)|null|
+|**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211v2](http://arxiv.org/abs/2401.17211v2)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181v1](http://arxiv.org/abs/2401.17181v1)|null|
 |**2024-01-30**|**A Hamilton-Jacobi approach to nonlocal kinetic equations**|Nadia Loy et.al.|[2401.17176v1](http://arxiv.org/abs/2401.17176v1)|null|
 |**2024-01-30**|**The magnetic field in the Flame nebula**|Ivana Bešlić et.al.|[2401.17171v1](http://arxiv.org/abs/2401.17171v1)|null|
@@ -162,7 +162,7 @@
 |**2024-01-30**|**PlantoGraphy: Incorporating Iterative Design Process into Generative Artificial Intelligence for Landscape Rendering**|Rong Huang et.al.|[2401.17120v1](http://arxiv.org/abs/2401.17120v1)|null|
 |**2024-01-30**|**Self-consistent sharp interface theory of active condensate dynamics**|Andriy Goychuk et.al.|[2401.17111v1](http://arxiv.org/abs/2401.17111v1)|null|
 |**2024-01-30**|**Markovian to non-Markovian phase transition in the operator dynamics of a mobile impurity**|Dominic Gribben et.al.|[2401.17066v1](http://arxiv.org/abs/2401.17066v1)|null|
-|**2024-01-30**|**BlockFusion: Expandable 3D Scene Generation using Latent Tri-plane Extrapolation**|Zhennan Wu et.al.|[2401.17053v1](http://arxiv.org/abs/2401.17053v1)|null|
+|**2024-01-30**|**BlockFusion: Expandable 3D Scene Generation using Latent Tri-plane Extrapolation**|Zhennan Wu et.al.|[2401.17053v2](http://arxiv.org/abs/2401.17053v2)|null|
 |**2024-01-30**|**Carrier-phase DNS of ignition and combustion of iron particles in a turbulent mixing layer**|Tien Duc Luu et.al.|[2401.16944v1](http://arxiv.org/abs/2401.16944v1)|null|
 |**2024-01-30**|**Local modification of subdiffusion by initial Fickian diffusion: Multiscale modeling, analysis and computation**|Xiangcheng Zheng et.al.|[2401.16885v1](http://arxiv.org/abs/2401.16885v1)|null|
 |**2024-01-30**|**Enhancing EEG Signal-Based Emotion Recognition with Synthetic Data: Diffusion Modeel Approach**|Gourav Siddhad et.al.|[2401.16878v1](http://arxiv.org/abs/2401.16878v1)|null|
@@ -216,7 +216,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|**[link](https://github.com/mercerai/paev3d)**|
-|**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v1](http://arxiv.org/abs/2401.16416v1)|null|
+|**2024-01-29**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v2](http://arxiv.org/abs/2401.16416v2)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144v1](http://arxiv.org/abs/2401.16144v1)|null|
 |**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726v1](http://arxiv.org/abs/2401.14726v1)|null|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354v1](http://arxiv.org/abs/2401.14354v1)|null|
@@ -257,7 +257,7 @@
 |**2024-01-29**|**Bridging the Domain Gap: A Simple Domain Matching Method for Reference-based Image Super-Resolution in Remote Sensing**|Jeongho Min et.al.|[2401.15944v1](http://arxiv.org/abs/2401.15944v1)|null|
 |**2024-01-29**|**Vision-Informed Flow Image Super-Resolution with Quaternion Spatial Modeling and Dynamic Flow Convolution**|Qinglong Cao et.al.|[2401.15913v1](http://arxiv.org/abs/2401.15913v1)|null|
 |**2024-01-28**|**Towards Arbitrary-Scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework via Implicit Self-texture Enhancement**|Minghong Duan et.al.|[2401.15613v1](http://arxiv.org/abs/2401.15613v1)|null|
-|**2024-01-27**|**Wind speed super-resolution and validation: from ERA5 to CERRA via diffusion models**|Fabio Merizzi et.al.|[2401.15469v1](http://arxiv.org/abs/2401.15469v1)|null|
+|**2024-01-27**|**Wind speed super-resolution and validation: from ERA5 to CERRA via diffusion models**|Fabio Merizzi et.al.|[2401.15469v2](http://arxiv.org/abs/2401.15469v2)|null|
 |**2024-01-27**|**Face to Cartoon Incremental Super-Resolution using Knowledge Distillation**|Trinetra Devkatte et.al.|[2401.15366v1](http://arxiv.org/abs/2401.15366v1)|null|
 |**2024-01-26**|**From Blurry to Brilliant Detection: YOLOv5-Based Aerial Object Detection with Super Resolution**|Ragib Amin Nihal et.al.|[2401.14661v1](http://arxiv.org/abs/2401.14661v1)|null|
 |**2024-01-26**|**Super Efficient Neural Network for Compression Artifacts Reduction and Super Resolution**|Wen Ma et.al.|[2401.14641v1](http://arxiv.org/abs/2401.14641v1)|null|
@@ -286,7 +286,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-29**|**Depth Anything in Medical Images: A Comparative Study**|John J. Han et.al.|[2401.16600v1](http://arxiv.org/abs/2401.16600v1)|null|
-|**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v1](http://arxiv.org/abs/2401.16416v1)|null|
+|**2024-01-29**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v2](http://arxiv.org/abs/2401.16416v2)|null|
 |**2024-01-25**|**Range-Agnostic Multi-View Depth Estimation With Keyframe Selection**|Andrea Conti et.al.|[2401.14401v1](http://arxiv.org/abs/2401.14401v1)|**[link](https://github.com/andreaconti/ramdepth)**|
 |**2024-01-24**|**FoVA-Depth: Field-of-View Agnostic Depth Estimation for Cross-Dataset Generalization**|Daniel Lichy et.al.|[2401.13786v1](http://arxiv.org/abs/2401.13786v1)|null|
 |**2024-01-23**|**InverseMatrixVT3D: An Efficient Projection Matrix-Based Approach for 3D Occupancy Prediction**|Zhenxing Ming et.al.|[2401.12422v1](http://arxiv.org/abs/2401.12422v1)|null|
