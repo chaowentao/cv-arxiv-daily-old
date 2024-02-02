@@ -188,14 +188,14 @@ layout: default
 |**2024-01-31**|**Towards Image Semantics and Syntax Sequence Learning**|Chun Tao et.al.|[2401.17515v1](http://arxiv.org/abs/2401.17515v1)|null|
 |**2024-01-30**|**Towards Visual Syntactical Understanding**|Sayeed Shafayet Chowdhury et.al.|[2401.17497v1](http://arxiv.org/abs/2401.17497v1)|null|
 |**2024-01-30**|**ViTree: Single-path Neural Tree for Step-wise Interpretable Fine-grained Visual Categorization**|Danning Lao et.al.|[2401.17050v1](http://arxiv.org/abs/2401.17050v1)|null|
-|**2024-01-30**|**OptiState: State Estimation of Legged Robots using Gated Networks with Transformer-based Vision and Kalman Filtering**|Alexander Schperberg et.al.|[2401.16719v1](http://arxiv.org/abs/2401.16719v1)|**[link](https://github.com/alexs28/optistate)**|
+|**2024-01-30**|**OptiState: State Estimation of Legged Robots using Gated Networks with Transformer-based Vision and Kalman Filtering**|Alexander Schperberg et.al.|[2401.16719v2](http://arxiv.org/abs/2401.16719v2)|**[link](https://github.com/alexs28/optistate)**|
 |**2024-01-29**|**SHViT: Single-Head Vision Transformer with Memory Efficient Macro Design**|Seokju Yun et.al.|[2401.16456v1](http://arxiv.org/abs/2401.16456v1)|null|
 |**2024-01-29**|**Cutup and Detect: Human Fall Detection on Cutup Untrimmed Videos Using a Large Foundational Video Understanding Model**|Till Grutschus et.al.|[2401.16280v1](http://arxiv.org/abs/2401.16280v1)|null|
 |**2024-01-29**|**Transparency Attacks: How Imperceptible Image Layers Can Fool AI Perception**|Forrest McKee et.al.|[2401.15817v1](http://arxiv.org/abs/2401.15817v1)|null|
 |**2024-01-28**|**Prediction of Breast Cancer Recurrence Risk Using a Multi-Model Approach Integrating Whole Slide Imaging and Clinicopathologic Features**|Manu Goyal et.al.|[2401.15805v1](http://arxiv.org/abs/2401.15805v1)|null|
 |**2024-01-28**|**Intriguing Equivalence Structures of the Embedding Space of Vision Transformers**|Shaeke Salman et.al.|[2401.15568v1](http://arxiv.org/abs/2401.15568v1)|null|
 |**2024-01-27**|**SkipViT: Speeding Up Vision Transformers with a Token-Level Skip Connection**|Foozhan Ataiefard et.al.|[2401.15293v1](http://arxiv.org/abs/2401.15293v1)|null|
-|**2024-01-26**|**MPTQ-ViT:Mixed-PrecisionPost-TrainingQuantizationforVisionTransformer**|Yu-Shan Tai et.al.|[2401.14895v1](http://arxiv.org/abs/2401.14895v1)|null|
+|**2024-01-26**|**MPTQ-ViT: Mixed-Precision Post-Training Quantization for Vision Transformer**|Yu-Shan Tai et.al.|[2401.14895v2](http://arxiv.org/abs/2401.14895v2)|null|
 |**2024-01-26**|**PL-FSCIL: Harnessing the Power of Prompts for Few-Shot Class-Incremental Learning**|Songsong Tian et.al.|[2401.14807v1](http://arxiv.org/abs/2401.14807v1)|**[link](https://github.com/tiansongs/pl-fscil)**|
 |**2024-01-25**|**Producing Plankton Classifiers that are Robust to Dataset Shift**|Cheng Chen et.al.|[2401.14256v1](http://arxiv.org/abs/2401.14256v1)|**[link](https://github.com/cchen07/plankiformer_ood)**|
 |**2024-01-23**|**DatUS^2: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer**|Sonal Kumar et.al.|[2401.12820v1](http://arxiv.org/abs/2401.12820v1)|null|
@@ -220,7 +220,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075v1](http://arxiv.org/abs/2401.18075v1)|null|
-|**2024-01-31**|**Semantic Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857v1](http://arxiv.org/abs/2401.17857v1)|null|
+|**2024-01-31**|**Segment Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857v2](http://arxiv.org/abs/2401.17857v2)|null|
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|**[link](https://github.com/mercerai/paev3d)**|
 |**2024-01-29**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v2](http://arxiv.org/abs/2401.16416v2)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144v1](http://arxiv.org/abs/2401.16144v1)|null|
