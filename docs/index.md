@@ -167,7 +167,7 @@ layout: default
 |**2024-02-06**|**A Unified Model for Non-Fickian Diffusion and Anomalous Swelling of Glassy Polymers**|Peihan Lyu et.al.|[2402.03844v1](http://arxiv.org/abs/2402.03844v1)|null|
 |**2024-02-06**|**SDEMG: Score-based Diffusion Model for Surface Electromyographic Signal Denoising**|Yu-Tung Liu et.al.|[2402.03808v1](http://arxiv.org/abs/2402.03808v1)|**[link](https://github.com/tonyliu0910/sdemg)**|
 |**2024-02-06**|**High sampling rate single-pixel digital holography system employing a DMD and phase-encoded patterns**|Humberto González et.al.|[2402.03786v1](http://arxiv.org/abs/2402.03786v1)|null|
-|**2024-02-06**|**AirPhyNet: Harnessing Physics-Guided Neural Networks for Air Quality Prediction**|Kethmi Hirushini Hettige et.al.|[2402.03784v1](http://arxiv.org/abs/2402.03784v1)|null|
+|**2024-02-06**|**AirPhyNet: Harnessing Physics-Guided Neural Networks for Air Quality Prediction**|Kethmi Hirushini Hettige et.al.|[2402.03784v2](http://arxiv.org/abs/2402.03784v2)|null|
 |**2024-02-06**|**FoolSDEdit: Deceptively Steering Your Edits Towards Targeted Attribute-aware Distribution**|Qi Zhou et.al.|[2402.03705v1](http://arxiv.org/abs/2402.03705v1)|null|
 |**2024-02-06**|**Improving and Unifying Discrete&Continuous-time Discrete Denoising Diffusion**|Lingxiao Zhao et.al.|[2402.03701v1](http://arxiv.org/abs/2402.03701v1)|null|
 |**2024-02-06**|**Pard: Permutation-Invariant Autoregressive Diffusion for Graph Generation**|Lingxiao Zhao et.al.|[2402.03687v1](http://arxiv.org/abs/2402.03687v1)|null|
@@ -327,7 +327,7 @@ layout: default
 |**2024-02-06**|**EscherNet: A Generative Model for Scalable View Synthesis**|Xin Kong et.al.|[2402.03908v1](http://arxiv.org/abs/2402.03908v1)|null|
 |**2024-02-06**|**Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos**|Alfredo Rivero et.al.|[2402.03723v1](http://arxiv.org/abs/2402.03723v1)|null|
 |**2024-02-05**|**Denoising Diffusion via Image-Based Rendering**|Titas Anciukevicius et.al.|[2402.03445v1](http://arxiv.org/abs/2402.03445v1)|null|
-|**2024-02-05**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307v1](http://arxiv.org/abs/2402.03307v1)|null|
+|**2024-02-05**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307v2](http://arxiv.org/abs/2402.03307v2)|null|
 |**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906v1](http://arxiv.org/abs/2402.02906v1)|**[link](https://github.com/bronemos/view-fusion)**|
 |**2024-02-02**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459v2](http://arxiv.org/abs/2402.01459v2)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763v1](http://arxiv.org/abs/2402.00763v1)|null|
