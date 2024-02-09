@@ -10,11 +10,11 @@
 |**2024-02-07**|**ColorSwap: A Color and Word Order Dataset for Multimodal Evaluation**|Jirayu Burapacheep et.al.|[2402.04492v1](http://arxiv.org/abs/2402.04492v1)|**[link](https://github.com/top34051/colorswap)**|
 |**2024-02-06**|**QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning**|Haoxuan Wang et.al.|[2402.03666v1](http://arxiv.org/abs/2402.03666v1)|null|
 |**2024-02-05**|**An Inpainting-Infused Pipeline for Attire and Background Replacement**|Felipe Rodrigues Perche-Mahlow et.al.|[2402.03501v1](http://arxiv.org/abs/2402.03501v1)|null|
-|**2024-02-05**|**Assessing the Efficacy of Invisible Watermarks in AI-Generated Medical Images**|Xiaodan Xing et.al.|[2402.03473v1](http://arxiv.org/abs/2402.03473v1)|null|
+|**2024-02-05**|**Assessing the Efficacy of Invisible Watermarks in AI-Generated Medical Images**|Xiaodan Xing et.al.|[2402.03473v2](http://arxiv.org/abs/2402.03473v2)|null|
 |**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305v1](http://arxiv.org/abs/2402.03305v1)|null|
 |**2024-02-05**|**InstanceDiffusion: Instance-level Control for Image Generation**|Xudong Wang et.al.|[2402.03290v1](http://arxiv.org/abs/2402.03290v1)|null|
 |**2024-02-05**|**Training-Free Consistent Text-to-Image Generation**|Yoad Tewel et.al.|[2402.03286v1](http://arxiv.org/abs/2402.03286v1)|null|
-|**2024-02-05**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227v1](http://arxiv.org/abs/2402.03227v1)|**[link](https://github.com/rocavincent/iguane_harmonization)**|
+|**2024-02-05**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227v2](http://arxiv.org/abs/2402.03227v2)|**[link](https://github.com/rocavincent/iguane_harmonization)**|
 |**2024-02-05**|**Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing**|Yan Shu et.al.|[2402.03082v1](http://arxiv.org/abs/2402.03082v1)|null|
 |**2024-02-05**|**InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions**|Yiyuan Zhang et.al.|[2402.03040v1](http://arxiv.org/abs/2402.03040v1)|**[link](https://github.com/invictus717/interactivevideo)**|
 |**2024-02-05**|**SynthVision -- Harnessing Minimal Input for Maximal Output in Computer Vision Models using Synthetic Image data**|Yudara Kularathne et.al.|[2402.02826v1](http://arxiv.org/abs/2402.02826v1)|null|
@@ -162,7 +162,7 @@
 |**2024-02-07**|**Understanding the Nature of the Ultra-Steep Spectrum Diffuse Radio Source in the Galaxy Cluster Abell 272**|Arthur Whyley et.al.|[2402.04876v1](http://arxiv.org/abs/2402.04876v1)|null|
 |**2024-02-07**|**Nonlinear Stability of Planar Shock Waves for the 3-D Boltzmann Equation**|Dingqun Deng et.al.|[2402.04871v1](http://arxiv.org/abs/2402.04871v1)|null|
 |**2024-02-07**|**Tactile Ergodic Control Using Diffusion and Geometric Algebra**|Cem Bilaloglu et.al.|[2402.04862v1](http://arxiv.org/abs/2402.04862v1)|null|
-|**2024-02-07**|**Fast Timing-Conditioned Latent Audio Diffusion**|Zach Evans et.al.|[2402.04825v1](http://arxiv.org/abs/2402.04825v1)|**[link](https://github.com/stability-ai/stable-audio-metrics)**|
+|**2024-02-07**|**Fast Timing-Conditioned Latent Audio Diffusion**|Zach Evans et.al.|[2402.04825v2](http://arxiv.org/abs/2402.04825v2)|**[link](https://github.com/stability-ai/stable-audio-metrics)**|
 |**2024-02-07**|**Ab initio study of subsurface diffusion of Cu on the H-passivated Si(001) surface**|A. Rodriguez-Prieto et.al.|[2402.04804v1](http://arxiv.org/abs/2402.04804v1)|null|
 |**2024-02-07**|**Exact solutions for the probability density of various conditioned processes with an entrance boundary**|Alain Mazzolo et.al.|[2402.04781v1](http://arxiv.org/abs/2402.04781v1)|null|
 |**2024-02-07**|**Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints**|Jian Chen et.al.|[2402.04754v1](http://arxiv.org/abs/2402.04754v1)|null|
@@ -197,7 +197,7 @@
 |**2024-02-04**|**Vision Transformer-based Multimodal Feature Fusion Network for Lymphoma Segmentation on PET/CT Images**|Huan Huang et.al.|[2402.02349v1](http://arxiv.org/abs/2402.02349v1)|null|
 |**2024-02-04**|**Learning Semantic Proxies from Visual Prompts for Parameter-Efficient Fine-Tuning in Deep Metric Learning**|Li Ren et.al.|[2402.02340v1](http://arxiv.org/abs/2402.02340v1)|**[link](https://github.com/noahsark/parameterefficient-dml)**|
 |**2024-02-03**|**ParZC: Parametric Zero-Cost Proxies for Efficient NAS**|Peijie Dong et.al.|[2402.02105v1](http://arxiv.org/abs/2402.02105v1)|null|
-|**2024-02-02**|**ALERT-Transformer: Bridging Asynchronous and Synchronous Machine Learning for Real-Time Event-based Spatio-Temporal Data**|Carmen Martin-Turrero et.al.|[2402.01393v1](http://arxiv.org/abs/2402.01393v1)|null|
+|**2024-02-02**|**ALERT-Transformer: Bridging Asynchronous and Synchronous Machine Learning for Real-Time Event-based Spatio-Temporal Data**|Carmen Martin-Turrero et.al.|[2402.01393v2](http://arxiv.org/abs/2402.01393v2)|null|
 |**2024-02-02**|**Training-time Neuron Alignment through Permutation Subspace for Improving Linear Mode Connectivity and Model Fusion**|Zexi Li et.al.|[2402.01342v1](http://arxiv.org/abs/2402.01342v1)|null|
 |**2024-02-02**|**Faster Inference of Integer SWIN Transformer by Removing the GELU Activation**|Mohammadreza Tayaranian et.al.|[2402.01169v1](http://arxiv.org/abs/2402.01169v1)|null|
 |**2024-02-01**|**Hybrid Quantum Vision Transformers for Event Classification in High Energy Physics**|Eyup B. Unlu et.al.|[2402.00776v1](http://arxiv.org/abs/2402.00776v1)|null|
