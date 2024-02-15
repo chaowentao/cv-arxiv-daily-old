@@ -12,7 +12,7 @@ layout: default
 |**2024-02-13**|**Learning Continuous 3D Words for Text-to-Image Generation**|Ta-Ying Cheng et.al.|[2402.08654v1](http://arxiv.org/abs/2402.08654v1)|null|
 |**2024-02-13**|**Captions Are Worth a Thousand Words: Enhancing Product Retrieval with Pretrained Image-to-Text Models**|Jason Tang et.al.|[2402.08532v1](http://arxiv.org/abs/2402.08532v1)|null|
 |**2024-02-12**|**Using AI for Wavefront Estimation with the Rubin Observatory Active Optics System**|John Franklin Crenshaw et.al.|[2402.08094v1](http://arxiv.org/abs/2402.08094v1)|null|
-|**2024-02-12**|**Score-based generative models break the curse of dimensionality in learning a family of sub-Gaussian probability distributions**|Frank Cole et.al.|[2402.08082v1](http://arxiv.org/abs/2402.08082v1)|null|
+|**2024-02-12**|**Score-based generative models break the curse of dimensionality in learning a family of sub-Gaussian probability distributions**|Frank Cole et.al.|[2402.08082v2](http://arxiv.org/abs/2402.08082v2)|null|
 |**2024-02-05**|**Point and Instruct: Enabling Precise Image Editing by Unifying Direct Manipulation and Text Instructions**|Alec Helbling et.al.|[2402.07925v1](http://arxiv.org/abs/2402.07925v1)|null|
 |**2024-02-12**|**Trustworthy SR: Resolving Ambiguity in Image Super-resolution via Diffusion Models and Human Feedback**|Cansu Korkmaz et.al.|[2402.07597v1](http://arxiv.org/abs/2402.07597v1)|null|
 |**2024-02-12**|**Exploring Saliency Bias in Manipulation Detection**|Joshua Krinsky et.al.|[2402.07338v1](http://arxiv.org/abs/2402.07338v1)|null|
@@ -154,7 +154,7 @@ layout: default
 |**2024-02-13**|**Target Score Matching**|Valentin De Bortoli et.al.|[2402.08667v1](http://arxiv.org/abs/2402.08667v1)|null|
 |**2024-02-13**|**Learning Continuous 3D Words for Text-to-Image Generation**|Ta-Ying Cheng et.al.|[2402.08654v1](http://arxiv.org/abs/2402.08654v1)|null|
 |**2024-02-13**|**Clustering of primordial black holes from quantum diffusion during inflation**|Chiara Animali et.al.|[2402.08642v1](http://arxiv.org/abs/2402.08642v1)|null|
-|**2024-02-13**|**Latent Inversion with Timestep-aware Sampling for Training-free Non-rigid Editing**|Yunji Jung et.al.|[2402.08601v1](http://arxiv.org/abs/2402.08601v1)|null|
+|**2024-02-13**|**Latent Inversion with Timestep-aware Sampling for Training-free Non-rigid Editing**|Yunji Jung et.al.|[2402.08601v2](http://arxiv.org/abs/2402.08601v2)|null|
 |**2024-02-13**|**Denoising Diffusion Restoration Tackles Forward and Inverse Problems for the Laplace Operator**|Amartya Mukherjee et.al.|[2402.08563v1](http://arxiv.org/abs/2402.08563v1)|null|
 |**2024-02-13**|**Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases**|Ziyi Zhang et.al.|[2402.08552v1](http://arxiv.org/abs/2402.08552v1)|null|
 |**2024-02-13**|**Branching Interval Partition Diffusions**|Matthew Buckland et.al.|[2402.08548v1](http://arxiv.org/abs/2402.08548v1)|null|
@@ -167,10 +167,10 @@ layout: default
 |**2024-02-13**|**Approximating Families of Sharp Solutions to Fisher's Equation with Physics-Informed Neural Networks**|Franz M. Rohrhofer et.al.|[2402.08313v1](http://arxiv.org/abs/2402.08313v1)|null|
 |**2024-02-13**|**What the Fix? A Study of ASATs Rule Documentation**|Corentin Latappy et.al.|[2402.08270v1](http://arxiv.org/abs/2402.08270v1)|null|
 |**2024-02-13**|**A Dense Reward View on Aligning Text-to-Image Diffusion with Preference**|Shentao Yang et.al.|[2402.08265v1](http://arxiv.org/abs/2402.08265v1)|**[link](https://github.com/shentao-yang/dense_reward_t2i)**|
-|**2024-02-13**|**Inherent photocurrent of infrared diode under negative illumination**|Toru Matsuura et.al.|[2402.08253v1](http://arxiv.org/abs/2402.08253v1)|null|
+|**2024-02-13**|**Inherent photocurrent of infrared diode under negative illumination**|Toru Matsuura et.al.|[2402.08253v2](http://arxiv.org/abs/2402.08253v2)|null|
 |**2024-02-13**|**Fine-Tuning Text-To-Image Diffusion Models for Class-Wise Spurious Feature Generation**|AprilPyone MaungMaung et.al.|[2402.08200v1](http://arxiv.org/abs/2402.08200v1)|null|
 |**2024-02-13**|**Poisson flow consistency models for low-dose CT image denoising**|Dennis Hein et.al.|[2402.08159v1](http://arxiv.org/abs/2402.08159v1)|null|
-|**2024-02-12**|**Convergence Analysis of Discrete Diffusion Model: Exact Implementation through Uniformization**|Hongrui Chen et.al.|[2402.08095v1](http://arxiv.org/abs/2402.08095v1)|null|
+|**2024-02-12**|**Convergence Analysis of Discrete Diffusion Model: Exact Implementation through Uniformization**|Hongrui Chen et.al.|[2402.08095v2](http://arxiv.org/abs/2402.08095v2)|null|
 |**2024-02-12**|**On the asymptotics of a lazy reinforced random walk**|Manuel González-Navarrete et.al.|[2402.08033v1](http://arxiv.org/abs/2402.08033v1)|null|
 |**2024-02-12**|**Nearest Neighbour Score Estimators for Diffusion Generative Models**|Matthew Niedoba et.al.|[2402.08018v1](http://arxiv.org/abs/2402.08018v1)|null|
 |**2024-02-12**|**Historical Fermi All-Sky Variability Analysis of Galactic Flares**|Scott D. Joffre et.al.|[2402.07994v1](http://arxiv.org/abs/2402.07994v1)|null|
