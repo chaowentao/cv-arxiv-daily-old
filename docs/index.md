@@ -24,7 +24,7 @@ layout: default
 |**2024-02-12**|**Using AI for Wavefront Estimation with the Rubin Observatory Active Optics System**|John Franklin Crenshaw et.al.|[2402.08094v1](http://arxiv.org/abs/2402.08094v1)|null|
 |**2024-02-12**|**Score-based generative models break the curse of dimensionality in learning a family of sub-Gaussian probability distributions**|Frank Cole et.al.|[2402.08082v2](http://arxiv.org/abs/2402.08082v2)|null|
 |**2024-02-12**|**Trustworthy SR: Resolving Ambiguity in Image Super-resolution via Diffusion Models and Human Feedback**|Cansu Korkmaz et.al.|[2402.07597v1](http://arxiv.org/abs/2402.07597v1)|null|
-|**2024-02-12**|**Exploring Saliency Bias in Manipulation Detection**|Joshua Krinsky et.al.|[2402.07338v1](http://arxiv.org/abs/2402.07338v1)|null|
+|**2024-02-12**|**Exploring Saliency Bias in Manipulation Detection**|Joshua Krinsky et.al.|[2402.07338v2](http://arxiv.org/abs/2402.07338v2)|null|
 |**2024-02-11**|**The Aleph & Other Metaphors for Image Generation**|Gonzalo Ramos et.al.|[2402.07104v1](http://arxiv.org/abs/2402.07104v1)|null|
 |**2024-02-10**|**Disentangled Latent Energy-Based Style Translation: An Image-Level Structural MRI Harmonization Framework**|Mengqi Wu et.al.|[2402.06875v1](http://arxiv.org/abs/2402.06875v1)|null|
 |**2024-02-09**|**Cardiac ultrasound simulation for autonomous ultrasound navigation**|Abdoul Aziz Amadou et.al.|[2402.06463v1](http://arxiv.org/abs/2402.06463v1)|null|
@@ -162,7 +162,7 @@ layout: default
 |**2024-02-15**|**Quantum Backtracking in Qrisp Applied to Sudoku Problems**|Raphael Seidel et.al.|[2402.10060v1](http://arxiv.org/abs/2402.10060v1)|null|
 |**2024-02-15**|**Neural Network Approaches for Parameterized Optimal Control**|Deepanshu Verma et.al.|[2402.10033v1](http://arxiv.org/abs/2402.10033v1)|null|
 |**2024-02-15**|**Diffusion Models Meet Contextual Bandits with Large Action Spaces**|Imad Aouali et.al.|[2402.10028v1](http://arxiv.org/abs/2402.10028v1)|null|
-|**2024-02-15**|**Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion**|Hila Manor et.al.|[2402.10009v1](http://arxiv.org/abs/2402.10009v1)|null|
+|**2024-02-15**|**Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion**|Hila Manor et.al.|[2402.10009v2](http://arxiv.org/abs/2402.10009v2)|null|
 |**2024-02-15**|**Accelerating Parallel Sampling of Diffusion Models**|Zhiwei Tang et.al.|[2402.09970v1](http://arxiv.org/abs/2402.09970v1)|null|
 |**2024-02-15**|**Textual Localization: Decomposing Multi-concept Images for Subject-Driven Text-to-Image Generation**|Junjie Shentu et.al.|[2402.09966v1](http://arxiv.org/abs/2402.09966v1)|**[link](https://github.com/junjie-shentu/textual-localization)**|
 |**2024-02-15**|**Lester: rotoscope animation through video object segmentation and tracking**|Ruben Tous et.al.|[2402.09883v1](http://arxiv.org/abs/2402.09883v1)|**[link](https://github.com/rtous/lester)**|
@@ -171,7 +171,7 @@ layout: default
 |**2024-02-15**|**A Péclet-robust discontinuous Galerkin method for nonlinear diffusion with advection**|Lourenço Beirão da Veiga et.al.|[2402.09814v1](http://arxiv.org/abs/2402.09814v1)|null|
 |**2024-02-15**|**DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization**|Jisu Nam et.al.|[2402.09812v1](http://arxiv.org/abs/2402.09812v1)|null|
 |**2024-02-15**|**Diffusion Model with Cross Attention as an Inductive Bias for Disentanglement**|Tao Yang et.al.|[2402.09712v1](http://arxiv.org/abs/2402.09712v1)|null|
-|**2024-02-15**|**Asymptotic stability for $n$-dimensional isentropic compressible MHD equations without magnetic diffusion**|Quansen Jiu et.al.|[2402.09661v1](http://arxiv.org/abs/2402.09661v1)|null|
+|**2024-02-15**|**Asymptotic stability for $n$-dimensional isentropic compressible MHD equations without magnetic diffusion**|Quansen Jiu et.al.|[2402.09661v2](http://arxiv.org/abs/2402.09661v2)|null|
 |**2024-02-15**|**Misinformation Regulation in the Presence of Competition between Social Media Platforms (Extended Version)**|So Sasaki et.al.|[2402.09639v1](http://arxiv.org/abs/2402.09639v1)|null|
 |**2024-02-15**|**Nonlinear stability of shock profiles to Burgers' equation with critical fast diffusion and singularity**|Xiaowen Li et.al.|[2402.09630v1](http://arxiv.org/abs/2402.09630v1)|null|
 |**2024-02-14**|**Numerical Study of a Strongly Coupled Two-scale System with Nonlinear Dispersion**|Surendra Nepal et.al.|[2402.09607v1](http://arxiv.org/abs/2402.09607v1)|null|
