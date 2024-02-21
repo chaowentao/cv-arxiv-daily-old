@@ -165,7 +165,7 @@ layout: default
 |**2024-02-19**|**Tagged particle behavior in a harmonic chain of direction reversing active Brownian particles**|Shashank Prakash et.al.|[2402.11964v1](http://arxiv.org/abs/2402.11964v1)|null|
 |**2024-02-19**|**Stylized Facts of High-Frequency Bitcoin Time Series**|Yaoyue Tang et.al.|[2402.11930v1](http://arxiv.org/abs/2402.11930v1)|null|
 |**2024-02-19**|**DiLightNet: Fine-grained Lighting Control for Diffusion-based Image Generation**|Chong Zeng et.al.|[2402.11929v1](http://arxiv.org/abs/2402.11929v1)|null|
-|**2024-02-19**|**A Generative Pre-Training Framework for Spatio-Temporal Graph Transfer Learning**|Yuan Yuan et.al.|[2402.11922v1](http://arxiv.org/abs/2402.11922v1)|null|
+|**2024-02-19**|**A Generative Pre-Training Framework for Spatio-Temporal Graph Transfer Learning**|Yuan Yuan et.al.|[2402.11922v2](http://arxiv.org/abs/2402.11922v2)|null|
 |**2024-02-19**|**Exponential attractors for a nonlocal delayed reaction-diffusion equation on an unbounded domain**|Wenjie Hu et.al.|[2402.11856v1](http://arxiv.org/abs/2402.11856v1)|null|
 |**2024-02-19**|**ComFusion: Personalized Subject Generation in Multiple Specific Scenes From Single Image**|Yan Hong et.al.|[2402.11849v1](http://arxiv.org/abs/2402.11849v1)|null|
 |**2024-02-19**|**UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models**|Yihua Zhang et.al.|[2402.11846v1](http://arxiv.org/abs/2402.11846v1)|null|
