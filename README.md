@@ -151,7 +151,7 @@
 |**2024-02-22**|**Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models**|Yixuan Ren et.al.|[2402.14780v1](http://arxiv.org/abs/2402.14780v1)|null|
 |**2024-02-22**|**Two-stage Cytopathological Image Synthesis for Augmenting Cervical Abnormality Screening**|Zhenrong Shen et.al.|[2402.14707v1](http://arxiv.org/abs/2402.14707v1)|null|
 |**2024-02-22**|**PeriodGrad: Towards Pitch-Controllable Neural Vocoder Based on a Diffusion Probabilistic Model**|Yukiya Hono et.al.|[2402.14692v1](http://arxiv.org/abs/2402.14692v1)|null|
-|**2024-02-22**|**Error Estimates for First- and Second-Order Lagrange-Galerkin Moving Mesh Schemes for the One-Dimensional Convection-Diffusion Equation**|Kharisma Surya Putri et.al.|[2402.14691v1](http://arxiv.org/abs/2402.14691v1)|null|
+|**2024-02-22**|**Error Estimates for First- and Second-Order Lagrange-Galerkin Moving Mesh Schemes for the One-Dimensional Convection-Diffusion Equation**|Kharisma Surya Putri et.al.|[2402.14691v2](http://arxiv.org/abs/2402.14691v2)|null|
 |**2024-02-22**|**Structure and thermodynamics of defects in Na-feldspar from a neural network potential**|Alexander Gorfer et.al.|[2402.14640v1](http://arxiv.org/abs/2402.14640v1)|null|
 |**2024-02-22**|**Debiasing Text-to-Image Diffusion Models**|Ruifei He et.al.|[2402.14577v1](http://arxiv.org/abs/2402.14577v1)|null|
 |**2024-02-22**|**DynGMA: a robust approach for learning stochastic differential equations from data**|Aiqing Zhu et.al.|[2402.14475v1](http://arxiv.org/abs/2402.14475v1)|**[link](https://github.com/aiqing-zhu/dyngma)**|
@@ -162,7 +162,7 @@
 |**2024-02-22**|**Luminosity class of the symbiotic stars 4U1954+319 and ZZ CMi**|R. Zamanov et.al.|[2402.14378v1](http://arxiv.org/abs/2402.14378v1)|null|
 |**2024-02-22**|**Typographic Text Generation with Off-the-Shelf Diffusion Model**|KhayTze Peong et.al.|[2402.14314v1](http://arxiv.org/abs/2402.14314v1)|null|
 |**2024-02-22**|**Font Style Interpolation with Diffusion Models**|Tetta Kondo et.al.|[2402.14311v1](http://arxiv.org/abs/2402.14311v1)|null|
-|**2024-02-22**|**Symbolic Music Generation with Non-Differentiable Rule Guided Diffusion**|Yujia Huang et.al.|[2402.14285v1](http://arxiv.org/abs/2402.14285v1)|**[link](https://github.com/yjhuangcd/rule-guided-music)**|
+|**2024-02-22**|**Symbolic Music Generation with Non-Differentiable Rule Guided Diffusion**|Yujia Huang et.al.|[2402.14285v2](http://arxiv.org/abs/2402.14285v2)|**[link](https://github.com/yjhuangcd/rule-guided-music)**|
 |**2024-02-22**|**Innovation Diffusion in EV Charging Location Decisions: Integrating Demand & Supply through Market Dynamics**|Xiangyong Luo et.al.|[2402.14263v1](http://arxiv.org/abs/2402.14263v1)|null|
 |**2024-02-22**|**MVD$^2$: Efficient Multiview 3D Reconstruction for Multiview Diffusion**|Xin-Yang Zheng et.al.|[2402.14253v1](http://arxiv.org/abs/2402.14253v1)|null|
 |**2024-02-22**|**From Adoption to Adaption: Tracing the Diffusion of New Emojis on Twitter**|Yuhang Zhou et.al.|[2402.14187v1](http://arxiv.org/abs/2402.14187v1)|null|
@@ -251,7 +251,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-21**|**Generative Adversarial Models for Extreme Downscaling of Climate Datasets**|Guiye Li et.al.|[2402.14049v1](http://arxiv.org/abs/2402.14049v1)|null|
-|**2024-02-21**|**Scene Prior Filtering for Depth Map Super-Resolution**|Zhengxue Wang et.al.|[2402.13876v1](http://arxiv.org/abs/2402.13876v1)|null|
+|**2024-02-21**|**Scene Prior Filtering for Depth Map Super-Resolution**|Zhengxue Wang et.al.|[2402.13876v2](http://arxiv.org/abs/2402.13876v2)|null|
 |**2024-02-21**|**Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion**|Lianghu Guo et.al.|[2402.13776v1](http://arxiv.org/abs/2402.13776v1)|null|
 |**2024-02-20**|**Diffusion Posterior Sampling is Computationally Intractable**|Shivam Gupta et.al.|[2402.12727v1](http://arxiv.org/abs/2402.12727v1)|null|
 |**2024-02-19**|**Image Super-resolution Inspired Electron Density Prediction**|Chenghan Li et.al.|[2402.12335v1](http://arxiv.org/abs/2402.12335v1)|null|
