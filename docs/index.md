@@ -149,8 +149,6 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-26**|**Small-Scale Anisotropies of Cosmic Rays from Turbulent Flow**|Yiran Zhang et.al.|[2402.16554v1](http://arxiv.org/abs/2402.16554v1)|null|
-|**2024-02-26**|**Exact relations between the conductivities and their connection to the chemical composition of QCD matter**|Jan A. Fotakis et.al.|[2402.16552v1](http://arxiv.org/abs/2402.16552v1)|null|
 |**2024-02-26**|**Stochastic Conditional Diffusion Models for Semantic Image Synthesis**|Juyeon Ko et.al.|[2402.16506v1](http://arxiv.org/abs/2402.16506v1)|null|
 |**2024-02-26**|**Outline-Guided Object Inpainting with Diffusion Models**|Markus Pobitzer et.al.|[2402.16421v1](http://arxiv.org/abs/2402.16421v1)|null|
 |**2024-02-26**|**Renormalisation Group Methods for Effective Epidemiological Models**|Stefan Hohenegger et.al.|[2402.16409v1](http://arxiv.org/abs/2402.16409v1)|null|
@@ -179,6 +177,8 @@ layout: default
 |**2024-02-24**|**Turing pattern theory on homogeneous and heterogeneous higher-order temporal network system**|Junyuan Shi et.al.|[2402.15736v1](http://arxiv.org/abs/2402.15736v1)|null|
 |**2024-02-24**|**Consensus seeking in diffusive multidimensional networks with a repeated interaction pattern and time-delays**|Hoang Huy Vu et.al.|[2402.15677v1](http://arxiv.org/abs/2402.15677v1)|null|
 |**2024-02-24**|**A simple model of globally magnetized accretion discs**|Mitchell C. Begelman et.al.|[2402.15657v1](http://arxiv.org/abs/2402.15657v1)|null|
+|**2024-02-23**|**Minimax Optimality of Score-based Diffusion Models: Beyond the Density Lower Bound Assumptions**|Kaihong Zhang et.al.|[2402.15602v1](http://arxiv.org/abs/2402.15602v1)|null|
+|**2024-02-23**|**Seamless Human Motion Composition with Blended Positional Encodings**|German Barquero et.al.|[2402.15509v1](http://arxiv.org/abs/2402.15509v1)|**[link](https://github.com/BarqueroGerman/FlowMDM)**|
 
 ## Vision Transformer
 
