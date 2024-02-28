@@ -149,9 +149,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-26**|**Small-Scale Anisotropies of Cosmic Rays from Turbulent Flow**|Yiran Zhang et.al.|[2402.16554v1](http://arxiv.org/abs/2402.16554v1)|null|
-|**2024-02-26**|**Exact relations between the conductivities and their connection to the chemical composition of QCD matter**|Jan A. Fotakis et.al.|[2402.16552v1](http://arxiv.org/abs/2402.16552v1)|null|
-|**2024-02-26**|**Stochastic Conditional Diffusion Models for Semantic Image Synthesis**|Juyeon Ko et.al.|[2402.16506v1](http://arxiv.org/abs/2402.16506v1)|null|
+|**2024-02-26**|**Stochastic Conditional Diffusion Models for Semantic Image Synthesis**|Juyeon Ko et.al.|[2402.16506v2](http://arxiv.org/abs/2402.16506v2)|null|
 |**2024-02-26**|**Outline-Guided Object Inpainting with Diffusion Models**|Markus Pobitzer et.al.|[2402.16421v1](http://arxiv.org/abs/2402.16421v1)|null|
 |**2024-02-26**|**Renormalisation Group Methods for Effective Epidemiological Models**|Stefan Hohenegger et.al.|[2402.16409v1](http://arxiv.org/abs/2402.16409v1)|null|
 |**2024-02-26**|**Entropy production for diffusion processes across a semipermeable interface**|Paul C Bressloff et.al.|[2402.16403v1](http://arxiv.org/abs/2402.16403v1)|null|
@@ -179,6 +177,8 @@ layout: default
 |**2024-02-24**|**Turing pattern theory on homogeneous and heterogeneous higher-order temporal network system**|Junyuan Shi et.al.|[2402.15736v1](http://arxiv.org/abs/2402.15736v1)|null|
 |**2024-02-24**|**Consensus seeking in diffusive multidimensional networks with a repeated interaction pattern and time-delays**|Hoang Huy Vu et.al.|[2402.15677v1](http://arxiv.org/abs/2402.15677v1)|null|
 |**2024-02-24**|**A simple model of globally magnetized accretion discs**|Mitchell C. Begelman et.al.|[2402.15657v1](http://arxiv.org/abs/2402.15657v1)|null|
+|**2024-02-23**|**Minimax Optimality of Score-based Diffusion Models: Beyond the Density Lower Bound Assumptions**|Kaihong Zhang et.al.|[2402.15602v1](http://arxiv.org/abs/2402.15602v1)|null|
+|**2024-02-23**|**Seamless Human Motion Composition with Blended Positional Encodings**|German Barquero et.al.|[2402.15509v1](http://arxiv.org/abs/2402.15509v1)|**[link](https://github.com/BarqueroGerman/FlowMDM)**|
 
 ## Vision Transformer
 
@@ -201,7 +201,7 @@ layout: default
 |**2024-02-19**|**FiT: Flexible Vision Transformer for Diffusion Model**|Zeyu Lu et.al.|[2402.12376v1](http://arxiv.org/abs/2402.12376v1)|**[link](https://github.com/whlzy/fit)**|
 |**2024-02-19**|**Stealing the Invisible: Unveiling Pre-Trained CNN Models through Adversarial Examples and Timing Side-Channels**|Shubhi Shukla et.al.|[2402.11953v1](http://arxiv.org/abs/2402.11953v1)|null|
 |**2024-02-19**|**MM-SurvNet: Deep Learning-Based Survival Risk Stratification in Breast Cancer Through Multimodal Data Fusion**|Raktim Kumar Mondol et.al.|[2402.11788v1](http://arxiv.org/abs/2402.11788v1)|null|
-|**2024-02-17**|**FViT: A Focal Vision Transformer with Gabor Filter**|Yulong Shi et.al.|[2402.11303v1](http://arxiv.org/abs/2402.11303v1)|null|
+|**2024-02-17**|**FViT: A Focal Vision Transformer with Gabor Filter**|Yulong Shi et.al.|[2402.11303v2](http://arxiv.org/abs/2402.11303v2)|null|
 |**2024-02-17**|**ReViT: Enhancing Vision Transformers with Attention Residual Connections for Visual Recognition**|Anxhelo Diko et.al.|[2402.11301v1](http://arxiv.org/abs/2402.11301v1)|**[link](https://github.com/adiko1997/revit)**|
 |**2024-02-17**|**DiffPoint: Single and Multi-view Point Cloud Reconstruction with ViT Based Diffusion Model**|Yu Feng et.al.|[2402.11241v1](http://arxiv.org/abs/2402.11241v1)|null|
 |**2024-02-17**|**A Decoding Scheme with Successive Aggregation of Multi-Level Features for Light-Weight Semantic Segmentation**|Jiwon Yoo et.al.|[2402.11201v1](http://arxiv.org/abs/2402.11201v1)|null|
@@ -299,7 +299,7 @@ layout: default
 |**2024-02-18**|**MAL: Motion-Aware Loss with Temporal and Distillation Hints for Self-Supervised Depth Estimation**|Yup-Jiang Dong et.al.|[2402.11507v1](http://arxiv.org/abs/2402.11507v1)|null|
 |**2024-02-16**|**Efficient Multi-task Uncertainties for Joint Semantic Segmentation and Monocular Depth Estimation**|Steven Landgraf et.al.|[2402.10580v1](http://arxiv.org/abs/2402.10580v1)|null|
 |**2024-02-15**|**X-maps: Direct Depth Lookup for Event-based Structured Light Systems**|Wieland Morgenstern et.al.|[2402.10061v1](http://arxiv.org/abs/2402.10061v1)|null|
-|**2024-02-14**|**Depth-aware Volume Attention for Texture-less Stereo Matching**|Tong Zhao et.al.|[2402.08931v1](http://arxiv.org/abs/2402.08931v1)|**[link](https://github.com/ztsrxh/DVANet)**|
+|**2024-02-14**|**Depth-aware Volume Attention for Texture-less Stereo Matching**|Tong Zhao et.al.|[2402.08931v2](http://arxiv.org/abs/2402.08931v2)|**[link](https://github.com/ztsrxh/DVANet)**|
 |**2024-02-09**|**Hybridnet for depth estimation and semantic segmentation**|Dalila Sánchez-Escobedo et.al.|[2402.06539v1](http://arxiv.org/abs/2402.06539v1)|null|
 |**2024-02-08**|**Adaptive Surface Normal Constraint for Geometric Estimation from Monocular Images**|Xiaoxiao Long et.al.|[2402.05869v1](http://arxiv.org/abs/2402.05869v1)|null|
 |**2024-02-07**|**Toward Accurate Camera-based 3D Object Detection via Cascade Depth Estimation and Calibration**|Chaoqun Wang et.al.|[2402.04883v1](http://arxiv.org/abs/2402.04883v1)|null|
