@@ -1,4 +1,4 @@
-## Updated on 2024.02.29
+## Updated on 2024.03.01
 
 ## Image Generation
 
@@ -287,7 +287,7 @@
 |---|---|---|---|---|
 |**2024-02-28**|**CFDNet: A Generalizable Foggy Stereo Matching Network with Contrastive Feature Distillation**|Zihua Liu et.al.|[2402.18181v1](http://arxiv.org/abs/2402.18181v1)|null|
 |**2024-02-28**|**Self-Supervised Spatially Variant PSF Estimation for Aberration-Aware Depth-from-Defocus**|Zhuofeng Wu et.al.|[2402.18175v1](http://arxiv.org/abs/2402.18175v1)|null|
-|**2024-02-28**|**Digging Into Normal Incorporated Stereo Matching**|Zihua Liu et.al.|[2402.18171v1](http://arxiv.org/abs/2402.18171v1)|null|
+|**2024-02-28**|**Digging Into Normal Incorporated Stereo Matching**|Zihua Liu et.al.|[2402.18171v1](http://arxiv.org/abs/2402.18171v1)|**[link](https://github.com/Magicboomliu/NINet)**|
 |**2024-02-28**|**Passive Snapshot Coded Aperture Dual-Pixel RGB-D Imaging**|Bhargav Ghanekar et.al.|[2402.18102v1](http://arxiv.org/abs/2402.18102v1)|null|
 |**2024-02-27**|**A Vanilla Multi-Task Framework for Dense Visual Prediction Solution to 1st VCL Challenge -- Multi-Task Robustness Track**|Zehui Chen et.al.|[2402.17319v1](http://arxiv.org/abs/2402.17319v1)|null|
 |**2024-02-26**|**Automated Floodwater Depth Estimation Using Large Multimodal Model for Rapid Flood Mapping**|Temitope Akinboyewa et.al.|[2402.16684v1](http://arxiv.org/abs/2402.16684v1)|null|
