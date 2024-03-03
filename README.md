@@ -153,7 +153,7 @@
 |**2024-02-29**|**A new analytical model of the cosmic-ray energy flux for Galactic diffuse radio emission**|Andrea Bracco et.al.|[2402.19367v1](http://arxiv.org/abs/2402.19367v1)|null|
 |**2024-02-29**|**A Novel Approach to Industrial Defect Generation through Blended Latent Diffusion Model with Online Adaptation**|Hanxi Li et.al.|[2402.19330v1](http://arxiv.org/abs/2402.19330v1)|null|
 |**2024-02-29**|**DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly**|Gianluca Scarpellini et.al.|[2402.19302v1](http://arxiv.org/abs/2402.19302v1)|**[link](https://github.com/iit-pavis/diffassemble)**|
-|**2024-02-29**|**Modeling the Progenitor Stars of Observed IIP Supernovae**|Kai-An You et.al.|[2402.19260v1](http://arxiv.org/abs/2402.19260v1)|null|
+|**2024-02-29**|**Modeling the Progenitor Stars of Observed IIP Supernovae**|Kai-An You et.al.|[2402.19260v1](http://arxiv.org/abs/2402.19260v1)|**[link](https://github.com/astrocatalogs/OACAPI)**|
 |**2024-02-29**|**Generative models struggle with kirigami metamaterials**|Gerrit Felsch et.al.|[2402.19196v1](http://arxiv.org/abs/2402.19196v1)|null|
 |**2024-02-29**|**Long-range translational order and hyperuniformity in two-dimensional chiral active crystal**|Yuta Kuroda et.al.|[2402.19192v1](http://arxiv.org/abs/2402.19192v1)|null|
 |**2024-02-29**|**An asymptotic-preserving method for the three-temperature radiative transfer model**|Ruo Li et.al.|[2402.19191v1](http://arxiv.org/abs/2402.19191v1)|null|
@@ -183,7 +183,7 @@
 |**2024-02-29**|**Assessing Visually-Continuous Corruption Robustness of Neural Networks Relative to Human Performance**|Huakun Shen et.al.|[2402.19401v1](http://arxiv.org/abs/2402.19401v1)|null|
 |**2024-02-29**|**Stitching Gaps: Fusing Situated Perceptual Knowledge with Vision Transformers for High-Level Image Classification**|Delfina Sol Martinez Pandiani et.al.|[2402.19339v1](http://arxiv.org/abs/2402.19339v1)|null|
 |**2024-02-29**|**Loss-Free Machine Unlearning**|Jack Foster et.al.|[2402.19308v1](http://arxiv.org/abs/2402.19308v1)|null|
-|**2024-02-29**|**VideoMAC: Video Masked Autoencoders Meet ConvNets**|Gensheng Pei et.al.|[2402.19082v1](http://arxiv.org/abs/2402.19082v1)|null|
+|**2024-02-29**|**VideoMAC: Video Masked Autoencoders Meet ConvNets**|Gensheng Pei et.al.|[2402.19082v1](http://arxiv.org/abs/2402.19082v1)|**[link](https://github.com/nust-machine-intelligence-laboratory/videomac)**|
 |**2024-02-29**|**RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation**|Jie Zhang et.al.|[2402.19004v1](http://arxiv.org/abs/2402.19004v1)|null|
 |**2024-02-29**|**End-to-End Quantum Vision Transformer: Towards Practical Quantum Speedup in Large-Scale Models**|Cheng Xue et.al.|[2402.18940v1](http://arxiv.org/abs/2402.18940v1)|null|
 |**2024-02-29**|**A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection**|Chao Hao et.al.|[2402.18922v1](http://arxiv.org/abs/2402.18922v1)|null|
