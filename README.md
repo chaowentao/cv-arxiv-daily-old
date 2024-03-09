@@ -1,4 +1,4 @@
-## Updated on 2024.03.08
+## Updated on 2024.03.09
 
 ## Image Generation
 
@@ -158,7 +158,7 @@
 |**2024-03-07**|**Poisson equation with measure data, reconstruction formula and Doob classes of processes**|Andrzej Rozkosz et.al.|[2403.04543v1](http://arxiv.org/abs/2403.04543v1)|null|
 |**2024-03-07**|**Anatomy-Guided Surface Diffusion Model for Alzheimer's Disease Normative Modeling**|Jianwei Zhang et.al.|[2403.04531v1](http://arxiv.org/abs/2403.04531v1)|null|
 |**2024-03-07**|**On a mathematical model for tissue regeneration**|Shimi Chettiparambil Mohanan et.al.|[2403.04516v1](http://arxiv.org/abs/2403.04516v1)|null|
-|**2024-03-07**|**Langevin equations and a geometric integration scheme for the overdamped limit of homogeneous rotational Brownian motion**|Arthur V. Straube et.al.|[2403.04501v1](http://arxiv.org/abs/2403.04501v1)|null|
+|**2024-03-07**|**Langevin equations and a geometric integration scheme for the overdamped limit of homogeneous rotational Brownian motion**|Felix Höfling et.al.|[2403.04501v1](http://arxiv.org/abs/2403.04501v1)|null|
 |**2024-03-07**|**Effect of turbulent diffusion in modeling anaerobic digestion**|Jeremy Z. Yan et.al.|[2403.04457v1](http://arxiv.org/abs/2403.04457v1)|null|
 |**2024-03-07**|**Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser**|Qingyuan Cai et.al.|[2403.04444v1](http://arxiv.org/abs/2403.04444v1)|null|
 |**2024-03-07**|**StableDrag: Stable Dragging for Point-based Image Editing**|Yutao Cui et.al.|[2403.04437v1](http://arxiv.org/abs/2403.04437v1)|null|
