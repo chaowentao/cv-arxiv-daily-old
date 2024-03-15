@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.14
+## Updated on 2024.03.15
 
 ## Image Generation
 
@@ -18,7 +18,7 @@ layout: default
 |**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842v1](http://arxiv.org/abs/2403.07842v1)|null|
 |**2024-03-12**|**Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model**|Yuxuan Zhang et.al.|[2403.07764v1](http://arxiv.org/abs/2403.07764v1)|null|
 |**2024-03-12**|**Synth$^2$: Boosting Visual-Language Models with Synthetic Captions and Image Embeddings**|Sahand Sharifzadeh et.al.|[2403.07750v1](http://arxiv.org/abs/2403.07750v1)|null|
-|**2024-03-12**|**Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion**|Dongyang Li et.al.|[2403.07721v2](http://arxiv.org/abs/2403.07721v2)|**[link](https://github.com/dongyangli-del/eeg_image_decode)**|
+|**2024-03-12**|**Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion**|Dongyang Li et.al.|[2403.07721v3](http://arxiv.org/abs/2403.07721v3)|**[link](https://github.com/dongyangli-del/eeg_image_decode)**|
 |**2024-03-12**|**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces**|Yuta Oshima et.al.|[2403.07711v1](http://arxiv.org/abs/2403.07711v1)|**[link](https://github.com/shim0114/ssm-meets-video-diffusion-models)**|
 |**2024-03-12**|**Optimizing Negative Prompts for Enhanced Aesthetics and Fidelity in Text-To-Image Generation**|Michael Ogezi et.al.|[2403.07605v1](http://arxiv.org/abs/2403.07605v1)|null|
 |**2024-03-12**|**Block-wise LoRA: Revisiting Fine-grained LoRA for Effective Personalization and Stylization in Text-to-Image Generation**|Likun Li et.al.|[2403.07500v1](http://arxiv.org/abs/2403.07500v1)|null|
@@ -152,10 +152,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-13**|**VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**|Enric Corona et.al.|[2403.08764v1](http://arxiv.org/abs/2403.08764v1)|null|
 |**2024-03-13**|**Spatiotemporal Diffusion Model with Paired Sampling for Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08758v1](http://arxiv.org/abs/2403.08758v1)|null|
-|**2024-03-13**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757v1](http://arxiv.org/abs/2403.08757v1)|null|
+|**2024-03-13**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757v2](http://arxiv.org/abs/2403.08757v2)|null|
 |**2024-03-13**|**Sticky-threshold diffusions, local time approximation and parameter estimation**|Alexis Anagnostakis et.al.|[2403.08754v1](http://arxiv.org/abs/2403.08754v1)|null|
 |**2024-03-13**|**Clinically Feasible Diffusion Reconstruction for Highly-Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08749v1](http://arxiv.org/abs/2403.08749v1)|null|
-|**2024-03-13**|**GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing**|Jing Wu et.al.|[2403.08733v1](http://arxiv.org/abs/2403.08733v1)|null|
+|**2024-03-13**|**GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing**|Jing Wu et.al.|[2403.08733v2](http://arxiv.org/abs/2403.08733v2)|null|
 |**2024-03-13**|**Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models trained on Corrupted Data**|Asad Aali et.al.|[2403.08728v1](http://arxiv.org/abs/2403.08728v1)|**[link](https://github.com/utcsilab/ambient-diffusion-mri)**|
 |**2024-03-13**|**Historical Astronomical Diagrams Decomposition in Geometric Primitives**|Syrine Kalleli et.al.|[2403.08721v1](http://arxiv.org/abs/2403.08721v1)|null|
 |**2024-03-13**|**Limits on the OH Molecule in the Smith High Velocity Cloud**|Anthony H. Minter et.al.|[2403.08704v1](http://arxiv.org/abs/2403.08704v1)|null|
@@ -163,7 +163,7 @@ layout: default
 |**2024-03-13**|**Physics-Guided Inverse Regression for Crop Quality Assessment**|David Shulman et.al.|[2403.08653v1](http://arxiv.org/abs/2403.08653v1)|null|
 |**2024-03-13**|**Data Augmentation in Human-Centric Vision**|Wentao Jiang et.al.|[2403.08650v1](http://arxiv.org/abs/2403.08650v1)|null|
 |**2024-03-13**|**Scaling Up Dynamic Human-Scene Interaction Modeling**|Nan Jiang et.al.|[2403.08629v1](http://arxiv.org/abs/2403.08629v1)|null|
-|**2024-03-13**|**On the Convergence of Locally Adaptive and Scalable Diffusion-Based Sampling Methods for Deep Bayesian Neural Network Posteriors**|Tim Rensmeyer et.al.|[2403.08609v1](http://arxiv.org/abs/2403.08609v1)|null|
+|**2024-03-13**|**On the Convergence of Locally Adaptive and Scalable Diffusion-Based Sampling Methods for Deep Bayesian Neural Network Posteriors**|Tim Rensmeyer et.al.|[2403.08609v2](http://arxiv.org/abs/2403.08609v2)|null|
 |**2024-03-13**|**ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos**|Lei Shi et.al.|[2403.08591v1](http://arxiv.org/abs/2403.08591v1)|null|
 |**2024-03-13**|**Federated Knowledge Graph Unlearning via Diffusion Model**|Bingchen Liu et.al.|[2403.08554v1](http://arxiv.org/abs/2403.08554v1)|null|
 |**2024-03-13**|**Model Will Tell: Training Membership Inference for Diffusion Models**|Xiaomeng Fu et.al.|[2403.08487v1](http://arxiv.org/abs/2403.08487v1)|null|
