@@ -148,7 +148,7 @@
 |---|---|---|---|---|
 |**2024-03-13**|**VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**|Enric Corona et.al.|[2403.08764v1](http://arxiv.org/abs/2403.08764v1)|null|
 |**2024-03-13**|**Spatiotemporal Diffusion Model with Paired Sampling for Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08758v1](http://arxiv.org/abs/2403.08758v1)|null|
-|**2024-03-13**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757v2](http://arxiv.org/abs/2403.08757v2)|null|
+|**2024-03-13**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757v2](http://arxiv.org/abs/2403.08757v2)|**[link](https://github.com/awakermhy/heo)**|
 |**2024-03-13**|**Sticky-threshold diffusions, local time approximation and parameter estimation**|Alexis Anagnostakis et.al.|[2403.08754v1](http://arxiv.org/abs/2403.08754v1)|null|
 |**2024-03-13**|**Clinically Feasible Diffusion Reconstruction for Highly-Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08749v1](http://arxiv.org/abs/2403.08749v1)|null|
 |**2024-03-13**|**GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing**|Jing Wu et.al.|[2403.08733v2](http://arxiv.org/abs/2403.08733v2)|null|
