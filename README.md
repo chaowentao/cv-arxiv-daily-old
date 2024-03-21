@@ -17,7 +17,7 @@
 |**2024-03-18**|**DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing**|Hyeonho Jeong et.al.|[2403.12002v1](http://arxiv.org/abs/2403.12002v1)|null|
 |**2024-03-18**|**LayerDiff: Exploring Text-guided Multi-layered Composable Image Synthesis via Layer-Collaborative Diffusion Model**|Runhui Huang et.al.|[2403.11929v1](http://arxiv.org/abs/2403.11929v1)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870v1](http://arxiv.org/abs/2403.11870v1)|null|
-|**2024-03-18**|**View-Consistent 3D Editing with Gaussian Splatting**|Yuxuan Wang et.al.|[2403.11868v1](http://arxiv.org/abs/2403.11868v1)|null|
+|**2024-03-18**|**View-Consistent 3D Editing with Gaussian Splatting**|Yuxuan Wang et.al.|[2403.11868v2](http://arxiv.org/abs/2403.11868v2)|null|
 |**2024-03-18**|**A psychophysical evaluation of techniques for Mooney image generation**|Lars C. Reining et.al.|[2403.11867v1](http://arxiv.org/abs/2403.11867v1)|null|
 |**2024-03-18**|**Evaluating Text to Image Synthesis: Survey and Taxonomy of Image Quality Metrics**|Sebastian Hartwig et.al.|[2403.11821v1](http://arxiv.org/abs/2403.11821v1)|null|
 |**2024-03-18**|**Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm**|Yi Wu et.al.|[2403.11781v1](http://arxiv.org/abs/2403.11781v1)|null|
