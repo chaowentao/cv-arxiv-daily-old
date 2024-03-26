@@ -8,7 +8,6 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-25**|**Iso-Diffusion: Improving Diffusion Probabilistic Models Using the Isotropy of the Additive Gaussian Noise**|Dilum Fernando et.al.|[2403.16790v1](http://arxiv.org/abs/2403.16790v1)|null|
 |**2024-03-25**|**Multi-Scale Texture Loss for CT denoising with GANs**|Francesco Di Feola et.al.|[2403.16640v1](http://arxiv.org/abs/2403.16640v1)|**[link](https://github.com/francescodifeola/denotextureloss)**|
 |**2024-03-25**|**SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions**|Yuda Song et.al.|[2403.16627v1](http://arxiv.org/abs/2403.16627v1)|null|
 |**2024-03-25**|**An Intermediate Fusion ViT Enables Efficient Text-Image Alignment in Diffusion Models**|Zizhao Hu et.al.|[2403.16530v1](http://arxiv.org/abs/2403.16530v1)|null|
@@ -38,6 +37,7 @@ layout: default
 |**2024-03-20**|**BlendScape: Enabling Unified and Personalized Video-Conferencing Environments through Generative AI**|Shwetha Rajaram et.al.|[2403.13947v1](http://arxiv.org/abs/2403.13947v1)|null|
 |**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804v1](http://arxiv.org/abs/2403.13804v1)|null|
 |**2024-03-20**|**Step-Calibrated Diffusion for Biomedical Optical Image Restoration**|Yiwei Lyu et.al.|[2403.13680v1](http://arxiv.org/abs/2403.13680v1)|**[link](https://github.com/mlneurosurg/restorative_step-calibrated_diffusion)**|
+|**2024-03-20**|**ReGround: Improving Textual and Spatial Grounding at No Cost**|Yuseung Lee et.al.|[2403.13589v1](http://arxiv.org/abs/2403.13589v1)|null|
 
 ## Light Field Super Resolution
 
@@ -150,13 +150,6 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-25**|**Exploiting Priors from 3D Diffusion Models for RGB-Based One-Shot View Planning**|Sicong Pan et.al.|[2403.16803v1](http://arxiv.org/abs/2403.16803v1)|null|
-|**2024-03-25**|**Iso-Diffusion: Improving Diffusion Probabilistic Models Using the Isotropy of the Additive Gaussian Noise**|Dilum Fernando et.al.|[2403.16790v1](http://arxiv.org/abs/2403.16790v1)|null|
-|**2024-03-25**|**Diff-Def: Diffusion-Generated Deformation Fields for Conditional Atlases**|Sophie Starck et.al.|[2403.16776v1](http://arxiv.org/abs/2403.16776v1)|null|
-|**2024-03-25**|**Stochastic Inertial Dynamics Via Time Scaling and Averaging**|Rodrigo Maulen-Soto et.al.|[2403.16775v1](http://arxiv.org/abs/2403.16775v1)|null|
-|**2024-03-25**|**Multilevel Modeling as a Methodology for the Simulation of Human Mobility**|Luca Serena et.al.|[2403.16745v1](http://arxiv.org/abs/2403.16745v1)|null|
-|**2024-03-25**|**A Robotic Skill Learning System Built Upon Diffusion Policies and Foundation Models**|Nils Ingelhag et.al.|[2403.16730v1](http://arxiv.org/abs/2403.16730v1)|null|
-|**2024-03-25**|**Improving Diffusion Models's Data-Corruption Resistance using Scheduled Pseudo-Huber Loss**|Artem Khrapov et.al.|[2403.16728v1](http://arxiv.org/abs/2403.16728v1)|null|
 |**2024-03-25**|**The effect of inter-track coupling on H$_2$O$_2$ productions**|Ramin Abolfath et.al.|[2403.16722v1](http://arxiv.org/abs/2403.16722v1)|null|
 |**2024-03-25**|**Phase Transformation in Lithium Niobate-Lithium Tantalate Solid Solutions (LiNb$_{1-x}$Ta$_x$O$_3$)**|Fatima El Azzouzi et.al.|[2403.16717v1](http://arxiv.org/abs/2403.16717v1)|null|
 |**2024-03-25**|**The Directionality of Gravitational and Thermal Diffusive Transport in Geologic Fluid Storage**|Anna Herring et.al.|[2403.16659v1](http://arxiv.org/abs/2403.16659v1)|null|
@@ -180,6 +173,13 @@ layout: default
 |**2024-03-24**|**Skull-to-Face: Anatomy-Guided 3D Facial Reconstruction and Editing**|Yongqing Liang et.al.|[2403.16207v1](http://arxiv.org/abs/2403.16207v1)|null|
 |**2024-03-24**|**Diffusion Model is a Good Pose Estimator from 3D RF-Vision**|Junqiao Fan et.al.|[2403.16198v1](http://arxiv.org/abs/2403.16198v1)|null|
 |**2024-03-24**|**Pose-Guided Self-Training with Two-Stage Clustering for Unsupervised Landmark Discovery**|Siddharth Tourani et.al.|[2403.16194v1](http://arxiv.org/abs/2403.16194v1)|**[link](https://github.com/skt9/pose-proxy-uld)**|
+|**2024-03-24**|**Gaze-guided Hand-Object Interaction Synthesis: Benchmark and Method**|Jie Tian et.al.|[2403.16169v1](http://arxiv.org/abs/2403.16169v1)|null|
+|**2024-03-24**|**Rearranged Stochastic Heat Equation: Ergodicity and Related Gradient Descent on the Space of Probability Measures**|François Delarue et.al.|[2403.16140v1](http://arxiv.org/abs/2403.16140v1)|null|
+|**2024-03-24**|**EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing**|Xiangpeng Yang et.al.|[2403.16111v1](http://arxiv.org/abs/2403.16111v1)|null|
+|**2024-03-24**|**The seeding of cosmic ray electrons by cluster radio galaxies: a review**|Franco Vazza et.al.|[2403.16068v1](http://arxiv.org/abs/2403.16068v1)|null|
+|**2024-03-24**|**Robust Diffusion Models for Adversarial Purification**|Guang Lin et.al.|[2403.16067v1](http://arxiv.org/abs/2403.16067v1)|null|
+|**2024-03-24**|**Manifold Regularization Classification Model Based On Improved Diffusion Map**|Hongfu Guo et.al.|[2403.16059v1](http://arxiv.org/abs/2403.16059v1)|null|
+|**2024-03-24**|**A Unified Module for Accelerating STABLE-DIFFUSION: LCM-LORA**|Ayush Thakur et.al.|[2403.16024v1](http://arxiv.org/abs/2403.16024v1)|null|
 
 ## Vision Transformer
 
