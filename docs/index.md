@@ -150,9 +150,6 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-25**|**Multilevel Modeling as a Methodology for the Simulation of Human Mobility**|Luca Serena et.al.|[2403.16745v1](http://arxiv.org/abs/2403.16745v1)|null|
-|**2024-03-25**|**A Robotic Skill Learning System Built Upon Diffusion Policies and Foundation Models**|Nils Ingelhag et.al.|[2403.16730v1](http://arxiv.org/abs/2403.16730v1)|null|
-|**2024-03-25**|**Improving Diffusion Models's Data-Corruption Resistance using Scheduled Pseudo-Huber Loss**|Artem Khrapov et.al.|[2403.16728v1](http://arxiv.org/abs/2403.16728v1)|null|
 |**2024-03-25**|**The effect of inter-track coupling on H$_2$O$_2$ productions**|Ramin Abolfath et.al.|[2403.16722v1](http://arxiv.org/abs/2403.16722v1)|null|
 |**2024-03-25**|**Phase Transformation in Lithium Niobate-Lithium Tantalate Solid Solutions (LiNb$_{1-x}$Ta$_x$O$_3$)**|Fatima El Azzouzi et.al.|[2403.16717v1](http://arxiv.org/abs/2403.16717v1)|null|
 |**2024-03-25**|**The Directionality of Gravitational and Thermal Diffusive Transport in Geologic Fluid Storage**|Anna Herring et.al.|[2403.16659v1](http://arxiv.org/abs/2403.16659v1)|null|
@@ -180,6 +177,9 @@ layout: default
 |**2024-03-24**|**Rearranged Stochastic Heat Equation: Ergodicity and Related Gradient Descent on the Space of Probability Measures**|François Delarue et.al.|[2403.16140v1](http://arxiv.org/abs/2403.16140v1)|null|
 |**2024-03-24**|**EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing**|Xiangpeng Yang et.al.|[2403.16111v1](http://arxiv.org/abs/2403.16111v1)|null|
 |**2024-03-24**|**The seeding of cosmic ray electrons by cluster radio galaxies: a review**|Franco Vazza et.al.|[2403.16068v1](http://arxiv.org/abs/2403.16068v1)|null|
+|**2024-03-24**|**Robust Diffusion Models for Adversarial Purification**|Guang Lin et.al.|[2403.16067v1](http://arxiv.org/abs/2403.16067v1)|null|
+|**2024-03-24**|**Manifold Regularization Classification Model Based On Improved Diffusion Map**|Hongfu Guo et.al.|[2403.16059v1](http://arxiv.org/abs/2403.16059v1)|null|
+|**2024-03-24**|**A Unified Module for Accelerating STABLE-DIFFUSION: LCM-LORA**|Ayush Thakur et.al.|[2403.16024v1](http://arxiv.org/abs/2403.16024v1)|null|
 
 ## Vision Transformer
 
