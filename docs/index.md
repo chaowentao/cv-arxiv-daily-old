@@ -13,7 +13,7 @@ layout: default
 |**2024-03-22**|**Controlled Training Data Generation with Diffusion Models**|Teresa Yeo et.al.|[2403.15309v1](http://arxiv.org/abs/2403.15309v1)|null|
 |**2024-03-22**|**A Multimodal Approach for Cross-Domain Image Retrieval**|Lucas Iijima et.al.|[2403.15152v1](http://arxiv.org/abs/2403.15152v1)|null|
 |**2024-03-22**|**MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration**|Zhichao Wei et.al.|[2403.15059v1](http://arxiv.org/abs/2403.15059v1)|null|
-|**2024-03-22**|**Cartoon Hallucinations Detection: Pose-aware In Context Visual Learning**|Bumsoo Kim et.al.|[2403.15048v1](http://arxiv.org/abs/2403.15048v1)|null|
+|**2024-03-22**|**Cartoon Hallucinations Detection: Pose-aware In Context Visual Learning**|Bumsoo Kim et.al.|[2403.15048v2](http://arxiv.org/abs/2403.15048v2)|null|
 |**2024-03-22**|**CLIP-VQDiffusion : Langauge Free Training of Text To Image generation using CLIP and vector quantized diffusion model**|Seungdae Han et.al.|[2403.14944v1](http://arxiv.org/abs/2403.14944v1)|null|
 |**2024-03-22**|**Geometric Generative Models based on Morphological Equivariant PDEs and GANs**|El Hadji S. Diop et.al.|[2403.14897v1](http://arxiv.org/abs/2403.14897v1)|null|
 |**2024-03-21**|**Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2403.14828v1](http://arxiv.org/abs/2403.14828v1)|null|
@@ -36,7 +36,7 @@ layout: default
 |**2024-03-20**|**IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models**|Siying Cui et.al.|[2403.13535v2](http://arxiv.org/abs/2403.13535v2)|null|
 |**2024-03-20**|**Deepfake Detection without Deepfakes: Generalization via Synthetic Frequency Patterns Injection**|Davide Alessandro Coccomini et.al.|[2403.13479v1](http://arxiv.org/abs/2403.13479v1)|null|
 |**2024-03-20**|**S2DM: Sector-Shaped Diffusion Models for Video Generation**|Haoran Lang et.al.|[2403.13408v2](http://arxiv.org/abs/2403.13408v2)|null|
-|**2024-03-20**|**AGFSync: Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation**|Jingkun An et.al.|[2403.13352v1](http://arxiv.org/abs/2403.13352v1)|null|
+|**2024-03-20**|**AGFSync: Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation**|Jingkun An et.al.|[2403.13352v2](http://arxiv.org/abs/2403.13352v2)|null|
 |**2024-03-20**|**TiBiX: Leveraging Temporal Information for Bidirectional X-ray and Report Generation**|Santosh Sanjeev et.al.|[2403.13343v1](http://arxiv.org/abs/2403.13343v1)|null|
 
 ## Light Field Super Resolution
