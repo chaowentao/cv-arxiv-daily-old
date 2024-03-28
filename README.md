@@ -1,4 +1,4 @@
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 
 ## Image Generation
 
@@ -228,7 +228,7 @@
 |**2024-03-24**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080v2](http://arxiv.org/abs/2403.16080v2)|**[link](https://github.com/zhengxyun/PKU-DyMVHumans)**|
 |**2024-03-24**|**Semantic Is Enough: Only Semantic Information For NeRF Reconstruction**|Ruibo Wang et.al.|[2403.16043v1](http://arxiv.org/abs/2403.16043v1)|null|
 |**2024-03-24**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|unhong Zhao et.al.|[2403.15981v1](http://arxiv.org/abs/2403.15981v1)|null|
-|**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791v1](http://arxiv.org/abs/2403.15791v1)|null|
+|**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791v1](http://arxiv.org/abs/2403.15791v1)|**[link](https://github.com/muyishen2040/driveenvnerf)**|
 |**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705v1](http://arxiv.org/abs/2403.15705v1)|null|
 |**2024-03-23**|**Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections**|Dongbin Zhang et.al.|[2403.15704v1](http://arxiv.org/abs/2403.15704v1)|null|
 |**2024-03-22**|**Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting**|Jun Guo et.al.|[2403.15624v1](http://arxiv.org/abs/2403.15624v1)|null|
@@ -289,7 +289,7 @@
 |**2024-03-26**|**Track Everything Everywhere Fast and Robustly**|Yunzhou Song et.al.|[2403.17931v1](http://arxiv.org/abs/2403.17931v1)|null|
 |**2024-03-26**|**Leveraging Near-Field Lighting for Monocular Depth Estimation from Endoscopy Videos**|Akshay Paruchuri et.al.|[2403.17915v1](http://arxiv.org/abs/2403.17915v1)|null|
 |**2024-03-26**|**DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing**|Matias Turkulainen et.al.|[2403.17822v1](http://arxiv.org/abs/2403.17822v1)|null|
-|**2024-03-26**|**Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving**|Junhao Zheng et.al.|[2403.17301v1](http://arxiv.org/abs/2403.17301v1)|**[link](https://github.com/gandolfczjh/3d2fool)**|
+|**2024-03-26**|**Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving**|Junhao Zheng et.al.|[2403.17301v2](http://arxiv.org/abs/2403.17301v2)|**[link](https://github.com/gandolfczjh/3d2fool)**|
 |**2024-03-25**|**Spike-NeRF: Neural Radiance Field Based On Spike Camera**|Yijia Guo et.al.|[2403.16410v1](http://arxiv.org/abs/2403.16410v1)|null|
 |**2024-03-25**|**Elite360D: Towards Efficient 360 Depth Estimation via Semantic- and Distance-Aware Bi-Projection Fusion**|Hao Ai et.al.|[2403.16376v1](http://arxiv.org/abs/2403.16376v1)|null|
 |**2024-03-23**|**Depth Estimation fusing Image and Radar Measurements with Uncertain Directions**|Masaya Kotani et.al.|[2403.15787v1](http://arxiv.org/abs/2403.15787v1)|null|
