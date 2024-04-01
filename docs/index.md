@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.31
+## Updated on 2024.04.01
 
 ## Image Generation
 
@@ -160,10 +160,10 @@ layout: default
 |**2024-03-28**|**Enhance Image Classification via Inter-Class Image Mixup with Diffusion Model**|Zhicai Wang et.al.|[2403.19600v1](http://arxiv.org/abs/2403.19600v1)|**[link](https://github.com/zhicaiwww/diff-mix)**|
 |**2024-03-28**|**Frame by Familiar Frame: Understanding Replication in Video Diffusion Models**|Aimon Rahman et.al.|[2403.19593v1](http://arxiv.org/abs/2403.19593v1)|null|
 |**2024-03-28**|**Keypoint Action Tokens Enable In-Context Imitation Learning in Robotics**|Norman Di Palo et.al.|[2403.19578v1](http://arxiv.org/abs/2403.19578v1)|null|
-|**2024-03-28**|**Experimental determination of effective light transport properties in fully anisotropic media**|Ernesto Pini et.al.|[2403.19558v1](http://arxiv.org/abs/2403.19558v1)|null|
+|**2024-03-28**|**Experimental determination of effective light transport properties in fully anisotropic media**|Ernesto Pini et.al.|[2403.19558v2](http://arxiv.org/abs/2403.19558v2)|null|
 |**2024-03-28**|**Impact of Resin Molecular Weight on Drying Kinetics and Sag of Coatings**|Marola W. Issa et.al.|[2403.19544v1](http://arxiv.org/abs/2403.19544v1)|null|
 |**2024-03-28**|**Debiasing Cardiac Imaging with Controlled Latent Diffusion Models**|Grzegorz Skorupko et.al.|[2403.19508v1](http://arxiv.org/abs/2403.19508v1)|**[link](https://github.com/faildeny/debiasing-cardiac-mri)**|
-|**2024-03-28**|**BAMM: Bidirectional Autoregressive Motion Model**|Ekkasit Pinyoanuntapong et.al.|[2403.19435v1](http://arxiv.org/abs/2403.19435v1)|null|
+|**2024-03-28**|**BAMM: Bidirectional Autoregressive Motion Model**|Ekkasit Pinyoanuntapong et.al.|[2403.19435v2](http://arxiv.org/abs/2403.19435v2)|null|
 |**2024-03-28**|**Transport properties through alternating borophene and graphene superlattices**|Nadia Benlakhouy et.al.|[2403.19429v1](http://arxiv.org/abs/2403.19429v1)|null|
 |**2024-03-28**|**Burst Super-Resolution with Diffusion Models for Improving Perceptual Quality**|Kyotaro Tokoro et.al.|[2403.19428v1](http://arxiv.org/abs/2403.19428v1)|**[link](https://github.com/placerkyo/bsrd)**|
 |**2024-03-28**|**A Robust Ensemble Algorithm for Ischemic Stroke Lesion Segmentation: Generalizability and Clinical Utility Beyond the ISLES Challenge**|Ezequiel de la Rosa et.al.|[2403.19425v1](http://arxiv.org/abs/2403.19425v1)|**[link](https://github.com/tabrisrei/isles22_ensemble)**|
@@ -224,7 +224,7 @@ layout: default
 |**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495v1](http://arxiv.org/abs/2403.19495v1)|null|
 |**2024-03-28**|**Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation**|Yujin Chen et.al.|[2403.19319v1](http://arxiv.org/abs/2403.19319v1)|null|
 |**2024-03-28**|**Sine Activated Low-Rank Matrices for Parameter Efficient Learning**|Yiping Ji et.al.|[2403.19243v1](http://arxiv.org/abs/2403.19243v1)|null|
-|**2024-03-27**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795v1](http://arxiv.org/abs/2403.18795v1)|null|
+|**2024-03-27**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795v2](http://arxiv.org/abs/2403.18795v2)|null|
 |**2024-03-27**|**SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery**|Camille Billouard et.al.|[2403.18711v1](http://arxiv.org/abs/2403.18711v1)|null|
 |**2024-03-27**|**Modeling uncertainty for Gaussian Splatting**|Luca Savant et.al.|[2403.18476v1](http://arxiv.org/abs/2403.18476v1)|null|
 |**2024-03-26**|**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**|Kerui Ren et.al.|[2403.17898v1](http://arxiv.org/abs/2403.17898v1)|null|
