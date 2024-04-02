@@ -165,14 +165,14 @@ layout: default
 |**2024-03-29**|**Analysis of Signal Distortion in Molecular Communication Channels Using Frequency Response**|Shoichiro Kitada et.al.|[2403.20029v1](http://arxiv.org/abs/2403.20029v1)|null|
 |**2024-03-29**|**Cutoff for the transience and mixing time of a SSEP with traps and consequences on the FEP**|Clément Erignoux et.al.|[2403.20010v1](http://arxiv.org/abs/2403.20010v1)|null|
 |**2024-03-29**|**Diff-Reg v1: Diffusion Matching Model for Registration Problem**|Qianliang Wu et.al.|[2403.19919v1](http://arxiv.org/abs/2403.19919v1)|null|
-|**2024-03-29**|**Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting**|Haipeng Liu et.al.|[2403.19898v1](http://arxiv.org/abs/2403.19898v1)|**[link](https://github.com/htyjers/strdiffusion)**|
+|**2024-03-29**|**Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting**|Haipeng Liu et.al.|[2403.19898v2](http://arxiv.org/abs/2403.19898v2)|**[link](https://github.com/htyjers/strdiffusion)**|
 |**2024-03-28**|**Vision-Language Synthetic Data Enhances Echocardiography Downstream Tasks**|Pooria Ashrafian et.al.|[2403.19880v1](http://arxiv.org/abs/2403.19880v1)|**[link](https://github.com/pooria90/diffecho)**|
 |**2024-03-28**|**A Harris theorem for enhanced dissipation, and an example of Pierrehumbert**|William Cooperman et.al.|[2403.19858v1](http://arxiv.org/abs/2403.19858v1)|null|
 |**2024-03-28**|**Bridging Microscopic Dynamics and Hydraulic Permeability in Mechanically-Deformed Nanoporous Materials**|Alexander Schlaich et.al.|[2403.19812v1](http://arxiv.org/abs/2403.19812v1)|null|
 |**2024-03-28**|**Modeling local decoherence of a spin ensemble using a generalized Holstein-Primakoff mapping to a bosonic mode**|Andrew Kolmer Forbes et.al.|[2403.19801v1](http://arxiv.org/abs/2403.19801v1)|null|
 |**2024-03-28**|**ShapeFusion: A 3D diffusion model for localized shape editing**|Rolandos Alexandros Potamias et.al.|[2403.19773v1](http://arxiv.org/abs/2403.19773v1)|null|
 |**2024-03-28**|**Vortical waves in a quantum fluid with vector, axial and helical charges. II. Dissipative effects**|Sergio Morales-Tejera et.al.|[2403.19756v1](http://arxiv.org/abs/2403.19756v1)|null|
-|**2024-03-28**|**Well-posedness of Keller-Segel systems on compact metric graphs**|Hewan Shemtaga et.al.|[2403.19747v1](http://arxiv.org/abs/2403.19747v1)|null|
+|**2024-03-28**|**Well-posedness of Keller-Segel systems on compact metric graphs**|Hewan Shemtaga et.al.|[2403.19747v2](http://arxiv.org/abs/2403.19747v2)|null|
 |**2024-03-28**|**MIST: Mitigating Intersectional Bias with Disentangled Cross-Attention Editing in Text-to-Image Diffusion Models**|Hidir Yesiltepe et.al.|[2403.19738v1](http://arxiv.org/abs/2403.19738v1)|null|
 |**2024-03-28**|**GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling**|Bowen Zhang et.al.|[2403.19655v1](http://arxiv.org/abs/2403.19655v1)|null|
 |**2024-03-28**|**Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond**|Katherine Xu et.al.|[2403.19653v1](http://arxiv.org/abs/2403.19653v1)|**[link](https://github.com/k8xu/imageattribution)**|
@@ -188,7 +188,7 @@ layout: default
 |**2024-03-29**|**Convolutional Prompting meets Language Models for Continual Learning**|Anurag Roy et.al.|[2403.20317v1](http://arxiv.org/abs/2403.20317v1)|null|
 |**2024-03-29**|**An FPGA-Based Reconfigurable Accelerator for Convolution-Transformer Hybrid EfficientViT**|Haikuo Shao et.al.|[2403.20230v1](http://arxiv.org/abs/2403.20230v1)|null|
 |**2024-03-28**|**Enhancing Efficiency in Vision Transformer Networks: Design Techniques and Insights**|Moein Heidari et.al.|[2403.19882v1](http://arxiv.org/abs/2403.19882v1)|null|
-|**2024-03-28**|**Siamese Vision Transformers are Scalable Audio-visual Learners**|Yan-Bo Lin et.al.|[2403.19638v1](http://arxiv.org/abs/2403.19638v1)|null|
+|**2024-03-28**|**Siamese Vision Transformers are Scalable Audio-visual Learners**|Yan-Bo Lin et.al.|[2403.19638v1](http://arxiv.org/abs/2403.19638v1)|**[link](https://github.com/genjib/avsiam)**|
 |**2024-03-28**|**Sine Activated Low-Rank Matrices for Parameter Efficient Learning**|Yiping Ji et.al.|[2403.19243v1](http://arxiv.org/abs/2403.19243v1)|null|
 |**2024-03-28**|**Patch Spatio-Temporal Relation Prediction for Video Anomaly Detection**|Hao Shen et.al.|[2403.19111v1](http://arxiv.org/abs/2403.19111v1)|null|
 |**2024-03-28**|**Low-Rank Rescaled Vision Transformer Fine-Tuning: A Residual Design Approach**|Wei Dong et.al.|[2403.19067v1](http://arxiv.org/abs/2403.19067v1)|**[link](https://github.com/zstarn70/rlrr)**|
@@ -315,7 +315,7 @@ layout: default
 |**2024-03-19**|**Geometric Constraints in Deep Learning Frameworks: A Survey**|Vibhas K Vats et.al.|[2403.12431v1](http://arxiv.org/abs/2403.12431v1)|null|
 |**2024-03-18**|**GraphBEV: Towards Robust BEV Feature Alignment for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2403.11848v1](http://arxiv.org/abs/2403.11848v1)|null|
 |**2024-03-18**|**SSAP: A Shape-Sensitive Adversarial Patch for Comprehensive Disruption of Monocular Depth Estimation in Autonomous Navigation Applications**|Amira Guesmi et.al.|[2403.11515v1](http://arxiv.org/abs/2403.11515v1)|null|
-|**2024-03-17**|**Bilateral Propagation Network for Depth Completion**|Jie Tang et.al.|[2403.11270v1](http://arxiv.org/abs/2403.11270v1)|**[link](https://github.com/kakaxi314/bp-net)**|
+|**2024-03-17**|**Bilateral Propagation Network for Depth Completion**|Jie Tang et.al.|[2403.11270v2](http://arxiv.org/abs/2403.11270v2)|**[link](https://github.com/kakaxi314/bp-net)**|
 |**2024-03-16**|**MSI-NeRF: Linking Omni-Depth with View Synthesis through Multi-Sphere Image aided Generalizable Neural Radiance Field**|Dongyu Yan et.al.|[2403.10840v1](http://arxiv.org/abs/2403.10840v1)|null|
 |**2024-03-15**|**SwinMTL: A Shared Architecture for Simultaneous Depth Estimation and Semantic Segmentation from Monocular Camera Images**|Pardis Taghavi et.al.|[2403.10662v1](http://arxiv.org/abs/2403.10662v1)|**[link](https://github.com/pardistaghavi/swinmtl)**|
 |**2024-03-15**|**Robust Shape Fitting for 3D Scene Abstraction**|Florian Kluger et.al.|[2403.10452v1](http://arxiv.org/abs/2403.10452v1)|**[link](https://github.com/fkluger/cuboids_revisited)**|
