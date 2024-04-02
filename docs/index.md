@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.01
+## Updated on 2024.04.02
 
 ## Image Generation
 
@@ -36,7 +36,7 @@ layout: default
 |**2024-03-27**|**ECNet: Effective Controllable Text-to-Image Diffusion Models**|Sicheng Li et.al.|[2403.18417v1](http://arxiv.org/abs/2403.18417v1)|null|
 |**2024-03-27**|**Ship in Sight: Diffusion Models for Ship-Image Super Resolution**|Luigi Sigillo et.al.|[2403.18370v1](http://arxiv.org/abs/2403.18370v1)|**[link](https://github.com/luigisigillo/shipinsight)**|
 |**2024-03-26**|**Tutorial on Diffusion Models for Imaging and Vision**|Stanley H. Chan et.al.|[2403.18103v1](http://arxiv.org/abs/2403.18103v1)|null|
-|**2024-03-26**|**Bidirectional Consistency Models**|Liangchen Li et.al.|[2403.18035v1](http://arxiv.org/abs/2403.18035v1)|null|
+|**2024-03-26**|**Bidirectional Consistency Models**|Liangchen Li et.al.|[2403.18035v2](http://arxiv.org/abs/2403.18035v2)|null|
 |**2024-03-26**|**Boosting Diffusion Models with Moving Average Sampling in Frequency Domain**|Yurui Qian et.al.|[2403.17870v1](http://arxiv.org/abs/2403.17870v1)|null|
 
 ## Light Field Super Resolution
@@ -179,7 +179,7 @@ layout: default
 |**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652v1](http://arxiv.org/abs/2403.19652v1)|null|
 |**2024-03-28**|**GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models**|Yusuf Dalva et.al.|[2403.19645v1](http://arxiv.org/abs/2403.19645v1)|null|
 |**2024-03-28**|**In the driver's mind: modeling the dynamics of human overtaking decisions in interactions with oncoming automated vehicles**|Samir H. A. Mohammad et.al.|[2403.19637v1](http://arxiv.org/abs/2403.19637v1)|null|
-|**2024-03-28**|**Generalisation of the Spectral Difference scheme for the diffused-interface five equation model**|Niccolò Tonicello et.al.|[2403.19623v1](http://arxiv.org/abs/2403.19623v1)|null|
+|**2024-03-28**|**Generalisation of the Spectral Difference scheme for the diffused-interface five equation model**|Niccolò Tonicello et.al.|[2403.19623v2](http://arxiv.org/abs/2403.19623v2)|null|
 
 ## Vision Transformer
 
@@ -236,7 +236,7 @@ layout: default
 |**2024-03-27**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795v2](http://arxiv.org/abs/2403.18795v2)|null|
 |**2024-03-27**|**SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery**|Camille Billouard et.al.|[2403.18711v1](http://arxiv.org/abs/2403.18711v1)|null|
 |**2024-03-27**|**Modeling uncertainty for Gaussian Splatting**|Luca Savant et.al.|[2403.18476v1](http://arxiv.org/abs/2403.18476v1)|null|
-|**2024-03-26**|**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**|Kerui Ren et.al.|[2403.17898v1](http://arxiv.org/abs/2403.17898v1)|null|
+|**2024-03-26**|**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**|Kerui Ren et.al.|[2403.17898v1](http://arxiv.org/abs/2403.17898v1)|**[link](https://github.com/city-super/Octree-GS)**|
 |**2024-03-26**|**NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation**|Jiahao Chen et.al.|[2403.17537v1](http://arxiv.org/abs/2403.17537v1)|null|
 |**2024-03-25**|**VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation**|Yang Chen et.al.|[2403.17001v1](http://arxiv.org/abs/2403.17001v1)|null|
 |**2024-03-25**|**CVT-xRF: Contrastive In-Voxel Transformer for 3D Consistent Radiance Fields from Sparse Inputs**|Yingji Zhong et.al.|[2403.16885v1](http://arxiv.org/abs/2403.16885v1)|null|
@@ -292,7 +292,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034v1](http://arxiv.org/abs/2403.20034v1)|**[link](https://github.com/dtc111111/neslam)**|
 |**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607v1](http://arxiv.org/abs/2403.19607v1)|null|
-|**2024-03-28**|**GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM**|Ganlin Zhang et.al.|[2403.19549v1](http://arxiv.org/abs/2403.19549v1)|null|
+|**2024-03-28**|**GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM**|Ganlin Zhang et.al.|[2403.19549v2](http://arxiv.org/abs/2403.19549v2)|null|
 |**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495v1](http://arxiv.org/abs/2403.19495v1)|null|
 |**2024-03-28**|**FlowDepth: Decoupling Optical Flow for Self-Supervised Monocular Depth Estimation**|Yiyang Sun et.al.|[2403.19294v1](http://arxiv.org/abs/2403.19294v1)|null|
 |**2024-03-28**|**Neural Fields for 3D Tracking of Anatomy and Surgical Instruments in Monocular Laparoscopic Video Clips**|Beerend G. A. Gerats et.al.|[2403.19265v1](http://arxiv.org/abs/2403.19265v1)|null|
@@ -338,7 +338,7 @@ layout: default
 |**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495v1](http://arxiv.org/abs/2403.19495v1)|null|
 |**2024-03-28**|**Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation**|Yujin Chen et.al.|[2403.19319v1](http://arxiv.org/abs/2403.19319v1)|null|
 |**2024-03-27**|**MetaCap: Meta-learning Priors from Multi-View Imagery for Sparse-view Human Performance Capture and Rendering**|Guoxing Sun et.al.|[2403.18820v1](http://arxiv.org/abs/2403.18820v1)|null|
-|**2024-03-27**|**SplatFace: Gaussian Splat Face Reconstruction Leveraging an Optimizable Surface**|Jiahao Luo et.al.|[2403.18784v1](http://arxiv.org/abs/2403.18784v1)|null|
+|**2024-03-27**|**SplatFace: Gaussian Splat Face Reconstruction Leveraging an Optimizable Surface**|Jiahao Luo et.al.|[2403.18784v2](http://arxiv.org/abs/2403.18784v2)|null|
 |**2024-03-27**|**Modeling uncertainty for Gaussian Splatting**|Luca Savant et.al.|[2403.18476v1](http://arxiv.org/abs/2403.18476v1)|null|
 |**2024-03-26**|**2D Gaussian Splatting for Geometrically Accurate Radiance Fields**|Binbin Huang et.al.|[2403.17888v1](http://arxiv.org/abs/2403.17888v1)|null|
 |**2024-03-26**|**DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing**|Matias Turkulainen et.al.|[2403.17822v1](http://arxiv.org/abs/2403.17822v1)|null|
