@@ -1,4 +1,4 @@
-## Updated on 2024.04.03
+## Updated on 2024.04.04
 
 ## Image Generation
 
@@ -7,7 +7,7 @@
 |**2024-04-02**|**Diffusion$^2$: Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**|Zeyu Yang et.al.|[2404.02148v1](http://arxiv.org/abs/2404.02148v1)|**[link](https://github.com/fudan-zvg/diffusion-square)**|
 |**2024-04-02**|**3D Congealing: 3D-Aware Image Alignment in the Wild**|Yunzhi Zhang et.al.|[2404.02125v1](http://arxiv.org/abs/2404.02125v1)|null|
 |**2024-04-02**|**Fashion Style Editing with Generative Human Prior**|Chaerin Kong et.al.|[2404.01984v1](http://arxiv.org/abs/2404.01984v1)|null|
-|**2024-04-02**|**Real, fake and synthetic faces - does the coin have three sides?**|Shahzeb Naeem et.al.|[2404.01878v1](http://arxiv.org/abs/2404.01878v1)|null|
+|**2024-04-02**|**Real, fake and synthetic faces -- does the coin have three sides?**|Shahzeb Naeem et.al.|[2404.01878v1](http://arxiv.org/abs/2404.01878v1)|null|
 |**2024-04-02**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al.|[2404.01725v1](http://arxiv.org/abs/2404.01725v1)|null|
 |**2024-04-01**|**PlayFutures: Imagining Civic Futures with AI and Puppets**|Supratim Pait et.al.|[2404.01527v1](http://arxiv.org/abs/2404.01527v1)|null|
 |**2024-04-01**|**Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data**|Matthias Gerstgrasser et.al.|[2404.01413v1](http://arxiv.org/abs/2404.01413v1)|null|
@@ -32,7 +32,7 @@
 |**2024-03-29**|**FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models**|Barbara Toniella Corradini et.al.|[2403.20105v1](http://arxiv.org/abs/2403.20105v1)|null|
 |**2024-03-29**|**FairRAG: Fair Human Generation via Fair Retrieval Augmentation**|Robik Shrestha et.al.|[2403.19964v2](http://arxiv.org/abs/2403.19964v2)|null|
 |**2024-03-28**|**Vision-Language Synthetic Data Enhances Echocardiography Downstream Tasks**|Pooria Ashrafian et.al.|[2403.19880v1](http://arxiv.org/abs/2403.19880v1)|**[link](https://github.com/pooria90/diffecho)**|
-|**2024-03-28**|**Is Synthetic Image Useful for Transfer Learning? An Investigation into Data Generation, Volume, and Utilization**|Yuhang Li et.al.|[2403.19866v1](http://arxiv.org/abs/2403.19866v1)|null|
+|**2024-03-28**|**Is Synthetic Image Useful for Transfer Learning? An Investigation into Data Generation, Volume, and Utilization**|Yuhang Li et.al.|[2403.19866v2](http://arxiv.org/abs/2403.19866v2)|null|
 |**2024-03-28**|**CLoRA: A Contrastive Approach to Compose Multiple LoRA Models**|Tuna Han Salih Meral et.al.|[2403.19776v1](http://arxiv.org/abs/2403.19776v1)|null|
 
 ## Light Field Super Resolution
@@ -151,7 +151,7 @@
 |**2024-04-02**|**WcDT: World-centric Diffusion Transformer for Traffic Scene Generation**|Chen Yang et.al.|[2404.02082v1](http://arxiv.org/abs/2404.02082v1)|**[link](https://github.com/yangchen1997/wcdt)**|
 |**2024-04-02**|**Brownian Particles and Matter Waves**|Nicos Makris et.al.|[2404.02016v1](http://arxiv.org/abs/2404.02016v1)|null|
 |**2024-04-02**|**Superionic Fluoride Gate Dielectrics with Low Diffusion Barrier for Advanced Electronics**|Kui Meng et.al.|[2404.02011v1](http://arxiv.org/abs/2404.02011v1)|null|
-|**2024-04-02**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003v1](http://arxiv.org/abs/2404.02003v1)|null|
+|**2024-04-02**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003v2](http://arxiv.org/abs/2404.02003v2)|null|
 |**2024-04-02**|**Rigorous derivation of an effective model for coupled Stokes advection, reaction and diffusion with freely evolving microstructure**|Markus Gahn et.al.|[2404.01983v1](http://arxiv.org/abs/2404.01983v1)|null|
 |**2024-04-02**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.01959v1](http://arxiv.org/abs/2404.01959v1)|null|
 |**2024-04-02**|**Nonlinear stability for active suspensions**|Helge Dietert et.al.|[2404.01906v1](http://arxiv.org/abs/2404.01906v1)|null|
@@ -239,7 +239,7 @@
 |**2024-03-29**|**SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**|Yunhao Li et.al.|[2403.20018v1](http://arxiv.org/abs/2403.20018v1)|**[link](https://github.com/wu-cvgl/scinerf)**|
 |**2024-03-29**|**DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal**|Yunhao Li et.al.|[2403.20013v1](http://arxiv.org/abs/2403.20013v1)|null|
 |**2024-03-29**|**Stable Surface Regularization for Fast Few-Shot NeRF**|Byeongin Joung et.al.|[2403.19985v1](http://arxiv.org/abs/2403.19985v1)|null|
-|**2024-03-29**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920v1](http://arxiv.org/abs/2403.19920v1)|null|
+|**2024-03-29**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920v2](http://arxiv.org/abs/2403.19920v2)|null|
 |**2024-03-28**|**Mitigating Motion Blur in Neural Radiance Fields with Events and Frames**|Marco Cannici et.al.|[2403.19780v1](http://arxiv.org/abs/2403.19780v1)|**[link](https://github.com/uzh-rpg/evdeblurnerf)**|
 |**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607v1](http://arxiv.org/abs/2403.19607v1)|null|
 |**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495v1](http://arxiv.org/abs/2403.19495v1)|null|
@@ -261,7 +261,7 @@
 |**2024-03-31**|**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion**|Chunyang Bi et.al.|[2404.00661v1](http://arxiv.org/abs/2404.00661v1)|null|
 |**2024-03-30**|**SGDFormer: One-stage Transformer-based Architecture for Cross-Spectral Stereo Image Guided Denoising**|Runmin Zhang et.al.|[2404.00349v1](http://arxiv.org/abs/2404.00349v1)|null|
 |**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|null|
-|**2024-03-28**|**Burst Super-Resolution with Diffusion Models for Improving Perceptual Quality**|Kyotaro Tokoro et.al.|[2403.19428v1](http://arxiv.org/abs/2403.19428v1)|**[link](https://github.com/placerkyo/bsrd)**|
+|**2024-03-28**|**Burst Super-Resolution with Diffusion Models for Improving Perceptual Quality**|Kyotaro Tokoro et.al.|[2403.19428v2](http://arxiv.org/abs/2403.19428v2)|**[link](https://github.com/placerkyo/bsrd)**|
 |**2024-03-28**|**Structured illumination microscopy with extreme ultraviolet pulses**|R. Mincigrucci et.al.|[2403.19382v1](http://arxiv.org/abs/2403.19382v1)|null|
 |**2024-03-27**|**Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D**|Mukund Varma T et.al.|[2403.18922v1](http://arxiv.org/abs/2403.18922v1)|null|
 |**2024-03-27**|**Breaking the Limitations with Sparse Inputs by Variational Frameworks (BLIss) in Terahertz Super-Resolution 3D Reconstruction**|Yiyao Zhang et.al.|[2403.18776v1](http://arxiv.org/abs/2403.18776v1)|**[link](https://github.com/cyiyoo/bliss)**|
