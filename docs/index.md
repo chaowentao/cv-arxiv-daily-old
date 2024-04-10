@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.09
+## Updated on 2024.04.10
 
 ## Image Generation
 
@@ -156,7 +156,7 @@ layout: default
 |**2024-04-08**|**YaART: Yet Another ART Rendering Technology**|Sergey Kastryulin et.al.|[2404.05666v1](http://arxiv.org/abs/2404.05666v1)|null|
 |**2024-04-08**|**BinaryDM: Towards Accurate Binarization of Diffusion Model**|Xingyu Zheng et.al.|[2404.05662v1](http://arxiv.org/abs/2404.05662v1)|null|
 |**2024-04-08**|**Convergence rates for the finite volume scheme of the stochastic heat equation**|Niklas Sapountzoglou et.al.|[2404.05655v1](http://arxiv.org/abs/2404.05655v1)|null|
-|**2024-04-08**|**The persistence of high altitude non-equilibrium diffuse ionized gas in simulations of star forming galaxies**|Lewis McCallum et.al.|[2404.05651v1](http://arxiv.org/abs/2404.05651v1)|null|
+|**2024-04-08**|**The persistence of high altitude non-equilibrium diffuse ionized gas in simulations of star forming galaxies**|Lewis McCallum et.al.|[2404.05651v2](http://arxiv.org/abs/2404.05651v2)|null|
 |**2024-04-08**|**Resistive Memory-based Neural Differential Equation Solver for Score-based Diffusion Model**|Jichang Yang et.al.|[2404.05648v1](http://arxiv.org/abs/2404.05648v1)|null|
 |**2024-04-08**|**eDIG-CHANGES II: Project Design and Initial Results on NGC 3556**|Jiang-Tao Li et.al.|[2404.05628v1](http://arxiv.org/abs/2404.05628v1)|null|
 |**2024-04-08**|**Learning a Category-level Object Pose Estimator without Pose Annotations**|Fengrui Tian et.al.|[2404.05626v1](http://arxiv.org/abs/2404.05626v1)|null|
@@ -165,7 +165,7 @@ layout: default
 |**2024-04-08**|**Prediction of topotactic transition from black to blue phosphorus induced by surface Br adsorption**|Hao Tian et.al.|[2404.05575v1](http://arxiv.org/abs/2404.05575v1)|null|
 |**2024-04-08**|**Investigating the Effectiveness of Cross-Attention to Unlock Zero-Shot Editing of Text-to-Video Diffusion Models**|Saman Motamed et.al.|[2404.05519v1](http://arxiv.org/abs/2404.05519v1)|null|
 |**2024-04-08**|**Taming Transformers for Realistic Lidar Point Cloud Generation**|Hamed Haghighi et.al.|[2404.05505v1](http://arxiv.org/abs/2404.05505v1)|**[link](https://github.com/hamedhaghighi/lidargrit)**|
-|**2024-04-08**|**Generating Galaxy Clusters Mass Density Maps from Mock Multiview Images via Deep Learning**|Daniel de Andres et.al.|[2404.05400v1](http://arxiv.org/abs/2404.05400v1)|null|
+|**2024-04-08**|**Generating Galaxy Clusters Mass Density Maps from Mock Multiview Images via Deep Learning**|Daniel de Andres et.al.|[2404.05400v2](http://arxiv.org/abs/2404.05400v2)|null|
 |**2024-04-08**|**Rethinking the Spatial Inconsistency in Classifier-Free Diffusion Guidance**|Dazhong Shen et.al.|[2404.05384v1](http://arxiv.org/abs/2404.05384v1)|**[link](https://github.com/smilesdzgk/s-cfg)**|
 |**2024-04-08**|**A theoretical perspective on the almost dark galaxy Nube: exploring the fuzzy dark matter model**|Yu-Ming Yang et.al.|[2404.05375v1](http://arxiv.org/abs/2404.05375v1)|null|
 |**2024-04-08**|**Global solutions to quadratic systems of stochastic reaction-diffusion equations in space-dimension two**|Marta Leocata et.al.|[2404.05360v1](http://arxiv.org/abs/2404.05360v1)|null|
@@ -291,7 +291,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-06**|**HawkDrive: A Transformer-driven Visual Perception System for Autonomous Driving in Night Scene**|Ziang Guo et.al.|[2404.04653v1](http://arxiv.org/abs/2404.04653v1)|**[link](https://github.com/ziongo6/hawkdrive)**|
-|**2024-04-06**|**Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction**|Jingyi Pan et.al.|[2404.04561v1](http://arxiv.org/abs/2404.04561v1)|null|
+|**2024-04-06**|**Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction**|Jingyi Pan et.al.|[2404.04561v2](http://arxiv.org/abs/2404.04561v2)|null|
 |**2024-04-05**|**SpatialTracker: Tracking Any 2D Pixels in 3D Space**|Yuxi Xiao et.al.|[2404.04319v1](http://arxiv.org/abs/2404.04319v1)|null|
 |**2024-04-05**|**Deep Phase Coded Image Prior**|Nimrod Shabtay et.al.|[2404.03906v1](http://arxiv.org/abs/2404.03906v1)|null|
 |**2024-04-04**|**Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning**|Rui Li et.al.|[2404.03658v1](http://arxiv.org/abs/2404.03658v1)|**[link](https://github.com/ruili3/Know-Your-Neighbors)**|
