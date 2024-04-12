@@ -1,4 +1,4 @@
-## Updated on 2024.04.11
+## Updated on 2024.04.12
 
 ## Image Generation
 
@@ -164,14 +164,14 @@
 |**2024-04-10**|**UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion**|Junsheng Zhou et.al.|[2404.06851v1](http://arxiv.org/abs/2404.06851v1)|null|
 |**2024-04-10**|**Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer**|Yanqi Ge et.al.|[2404.06835v1](http://arxiv.org/abs/2404.06835v1)|null|
 |**2024-04-10**|**Zero-shot Point Cloud Completion Via 2D Priors**|Tianxin Huang et.al.|[2404.06814v1](http://arxiv.org/abs/2404.06814v1)|null|
-|**2024-04-10**|**Modeling of antenna-coupled Si MOSFETs in the Terahertz Frequency Range**|Florian Ludwig et.al.|[2404.06790v1](http://arxiv.org/abs/2404.06790v1)|null|
+|**2024-04-10**|**Modeling of antenna-coupled Si MOSFETs in the Terahertz Frequency Range**|Florian Ludwig et.al.|[2404.06790v2](http://arxiv.org/abs/2404.06790v2)|null|
 |**2024-04-10**|**Fluid Simulation for a Finite Size Plasma**|Subhasish Bag et.al.|[2404.06786v1](http://arxiv.org/abs/2404.06786v1)|null|
 |**2024-04-10**|**Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior**|Fan Lu et.al.|[2404.06780v1](http://arxiv.org/abs/2404.06780v1)|null|
 |**2024-04-10**|**DiffusionDialog: A Diffusion Model for Diverse Dialog Generation with Latent Space**|Jianxiang Xiang et.al.|[2404.06760v1](http://arxiv.org/abs/2404.06760v1)|null|
 |**2024-04-10**|**The Physics of Antimicrobial Activity of Ionic Liquids**|V. K. Sharma et.al.|[2404.06739v1](http://arxiv.org/abs/2404.06739v1)|null|
-|**2024-04-10**|**Disguised Copyright Infringement of Latent Diffusion Model**|Yiwei Lu et.al.|[2404.06737v1](http://arxiv.org/abs/2404.06737v1)|null|
+|**2024-04-10**|**Disguised Copyright Infringement of Latent Diffusion Models**|Yiwei Lu et.al.|[2404.06737v2](http://arxiv.org/abs/2404.06737v2)|null|
 |**2024-04-10**|**Covariance Regression with High-Dimensional Predictors**|Yuheng He et.al.|[2404.06701v1](http://arxiv.org/abs/2404.06701v1)|null|
-|**2024-04-10**|**VoiceShop: A Unified Speech-to-Speech Framework for Identity-Preserving Zero-Shot Voice Editing**|Philip Anastassiou et.al.|[2404.06674v1](http://arxiv.org/abs/2404.06674v1)|null|
+|**2024-04-10**|**VoiceShop: A Unified Speech-to-Speech Framework for Identity-Preserving Zero-Shot Voice Editing**|Philip Anastassiou et.al.|[2404.06674v2](http://arxiv.org/abs/2404.06674v2)|null|
 |**2024-04-10**|**Simple arithmetic operation in latent space can generate a novel three dimensional graph metamaterials**|Namjung Kim et.al.|[2404.06671v1](http://arxiv.org/abs/2404.06671v1)|null|
 |**2024-04-10**|**SafeGen: Mitigating Unsafe Content Generation in Text-to-Image Models**|Xinfeng Li et.al.|[2404.06666v1](http://arxiv.org/abs/2404.06666v1)|**[link](https://github.com/letterligo/text-agnostic-governance)**|
 |**2024-04-10**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665v1](http://arxiv.org/abs/2404.06665v1)|**[link](https://github.com/yongquan-qu/slams)**|
@@ -201,7 +201,7 @@
 |**2024-04-03**|**DeiT-LT Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets**|Harsh Rangwani et.al.|[2404.02900v1](http://arxiv.org/abs/2404.02900v1)|**[link](https://github.com/val-iisc/DeiT-LT)**|
 |**2024-04-02**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jieneng Chen et.al.|[2404.02132v2](http://arxiv.org/abs/2404.02132v2)|**[link](https://github.com/beckschen/vitamin)**|
 |**2024-04-02**|**Minimize Quantization Output Error with Bias Compensation**|Cheng Gong et.al.|[2404.01892v1](http://arxiv.org/abs/2404.01892v1)|**[link](https://github.com/gongcheng1919/bias-compensation)**|
-|**2024-04-02**|**Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model**|Qinfeng Zhu et.al.|[2404.01705v1](http://arxiv.org/abs/2404.01705v1)|**[link](https://github.com/zhuqinfeng1999/samba)**|
+|**2024-04-02**|**Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model**|Qinfeng Zhu et.al.|[2404.01705v2](http://arxiv.org/abs/2404.01705v2)|**[link](https://github.com/zhuqinfeng1999/samba)**|
 |**2024-04-01**|**On the Faithfulness of Vision Transformer Explanations**|Junyi Wu et.al.|[2404.01415v1](http://arxiv.org/abs/2404.01415v1)|null|
 |**2024-04-01**|**NeRF-MAE : Masked AutoEncoders for Self Supervised 3D representation Learning for Neural Radiance Fields**|Muhammad Zubair Irshad et.al.|[2404.01300v1](http://arxiv.org/abs/2404.01300v1)|null|
 |**2024-04-01**|**Vision-language models for decoding provider attention during neonatal resuscitation**|Felipe Parodi et.al.|[2404.01207v1](http://arxiv.org/abs/2404.01207v1)|null|
@@ -219,7 +219,7 @@
 |**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832v1](http://arxiv.org/abs/2404.06832v1)|**[link](https://github.com/m-kruse98/splatpose)**|
 |**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753v1](http://arxiv.org/abs/2404.06753v1)|null|
 |**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727v1](http://arxiv.org/abs/2404.06727v1)|**[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**|
-|**2024-04-10**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710v1](http://arxiv.org/abs/2404.06710v1)|null|
+|**2024-04-10**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710v2](http://arxiv.org/abs/2404.06710v2)|null|
 |**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429v1](http://arxiv.org/abs/2404.06429v1)|null|
 |**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270v1](http://arxiv.org/abs/2404.06270v1)|null|
 |**2024-04-09**|**GHNeRF: Learning Generalizable Human Features with Efficient Neural Radiance Fields**|Arnab Dey et.al.|[2404.06246v1](http://arxiv.org/abs/2404.06246v1)|null|
@@ -287,7 +287,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-10**|**Self-supervised Monocular Depth Estimation on Water Scenes via Specular Reflection Prior**|Zhengyang Lu et.al.|[2404.07176v1](http://arxiv.org/abs/2404.07176v1)|null|
-|**2024-04-10**|**MoCha-Stereo: Motif Channel Attention Network for Stereo Matching**|Ziyang Chen et.al.|[2404.06842v1](http://arxiv.org/abs/2404.06842v1)|**[link](https://github.com/zyangchen/mocha-stereo)**|
+|**2024-04-10**|**MoCha-Stereo: Motif Channel Attention Network for Stereo Matching**|Ziyang Chen et.al.|[2404.06842v2](http://arxiv.org/abs/2404.06842v2)|**[link](https://github.com/zyangchen/mocha-stereo)**|
 |**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753v1](http://arxiv.org/abs/2404.06753v1)|null|
 |**2024-04-09**|**RoadBEV: Road Surface Reconstruction in Bird's Eye View**|Tong Zhao et.al.|[2404.06605v1](http://arxiv.org/abs/2404.06605v1)|**[link](https://github.com/ztsrxh/roadbev)**|
 |**2024-04-09**|**ZeST: Zero-Shot Material Transfer from a Single Image**|Ta-Ying Cheng et.al.|[2404.06425v1](http://arxiv.org/abs/2404.06425v1)|null|
@@ -322,7 +322,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-10**|**Self-supervised Monocular Depth Estimation on Water Scenes via Specular Reflection Prior**|Zhengyang Lu et.al.|[2404.07176v1](http://arxiv.org/abs/2404.07176v1)|null|
-|**2024-04-10**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710v1](http://arxiv.org/abs/2404.06710v1)|null|
+|**2024-04-10**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710v2](http://arxiv.org/abs/2404.06710v2)|null|
 |**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270v1](http://arxiv.org/abs/2404.06270v1)|null|
 |**2024-04-09**|**HFNeRF: Learning Human Biomechanic Features with Neural Radiance Fields**|Arnab Dey et.al.|[2404.06152v1](http://arxiv.org/abs/2404.06152v1)|null|
 |**2024-04-09**|**Gaussian Pancakes: Geometrically-Regularized 3D Gaussian Splatting for Realistic Endoscopic Reconstruction**|Sierra Bonilla et.al.|[2404.06128v1](http://arxiv.org/abs/2404.06128v1)|**[link](https://github.com/smbonilla/gaussianpancakes)**|
