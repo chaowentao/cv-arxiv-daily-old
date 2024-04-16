@@ -150,6 +150,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**Accurate quantum Monte Carlo forces for machine-learned force fields: Ethanol as a benchmark**|Emiel Slootman et.al.|[2404.09755v1](http://arxiv.org/abs/2404.09755v1)|null|
 |**2024-04-15**|**Electric potential during tokamak disruptions and steady-state current drive**|Allen H Boozer et.al.|[2404.09744v1](http://arxiv.org/abs/2404.09744v1)|null|
 |**2024-04-15**|**Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement**|Wenyi Lian et.al.|[2404.09735v1](http://arxiv.org/abs/2404.09735v1)|**[link](https://github.com/shermanlian/spatial-entropy-loss)**|
 |**2024-04-15**|**Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models**|Ziwei Luo et.al.|[2404.09732v1](http://arxiv.org/abs/2404.09732v1)|**[link](https://github.com/algolzw/daclip-uir)**|
@@ -179,7 +180,6 @@ layout: default
 |**2024-04-14**|**Some new bistable transition fronts with changing shape**|Hongjun Guo et.al.|[2404.09237v1](http://arxiv.org/abs/2404.09237v1)|null|
 |**2024-04-14**|**DreamScape: 3D Scene Creation via Gaussian Splatting joint Correlation Modeling**|Xuening Yuan et.al.|[2404.09227v1](http://arxiv.org/abs/2404.09227v1)|null|
 |**2024-04-14**|**Physics-informed tracking of qubit fluctuations**|Fabrizio Berritta et.al.|[2404.09212v1](http://arxiv.org/abs/2404.09212v1)|null|
-|**2024-04-14**|**Numerical Methods for Optimal Boundary Control of Advection-Diffusion-Reaction Systems**|Marcus Johan Schytt et.al.|[2404.09209v1](http://arxiv.org/abs/2404.09209v1)|null|
 
 ## Vision Transformer
 
