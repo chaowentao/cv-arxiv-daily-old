@@ -13,7 +13,7 @@ layout: default
 |**2024-04-15**|**Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models**|Peifei Zhu et.al.|[2404.09401v1](http://arxiv.org/abs/2404.09401v1)|null|
 |**2024-04-14**|**DreamScape: 3D Scene Creation via Gaussian Splatting joint Correlation Modeling**|Xuening Yuan et.al.|[2404.09227v1](http://arxiv.org/abs/2404.09227v1)|null|
 |**2024-04-13**|**Diffusion Models Meet Remote Sensing: Principles, Methods, and Perspectives**|Yidan Liu et.al.|[2404.08926v1](http://arxiv.org/abs/2404.08926v1)|null|
-|**2024-04-12**|**E3: Ensemble of Expert Embedders for Adapting Synthetic Image Detectors to New Generators Using Limited Data**|Aref Azizpour et.al.|[2404.08814v1](http://arxiv.org/abs/2404.08814v1)|**[link](https://github.com/arefaz/e3-ensemble-of-expert-embedders-cvprwmf24)**|
+|**2024-04-12**|**E3: Ensemble of Expert Embedders for Adapting Synthetic Image Detectors to New Generators Using Limited Data**|Aref Azizpour et.al.|[2404.08814v2](http://arxiv.org/abs/2404.08814v2)|**[link](https://github.com/arefaz/e3-ensemble-of-expert-embedders-cvprwmf24)**|
 |**2024-04-12**|**Semantic Approach to Quantifying the Consistency of Diffusion Model Image Generation**|Brinnae Bent et.al.|[2404.08799v1](http://arxiv.org/abs/2404.08799v1)|null|
 |**2024-04-12**|**Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts**|Yang Li et.al.|[2404.08341v1](http://arxiv.org/abs/2404.08341v1)|**[link](https://github.com/yangli-lab/artifact-eraser)**|
 |**2024-04-11**|**Latent Guard: a Safety Framework for Text-to-image Generation**|Runtao Liu et.al.|[2404.08031v1](http://arxiv.org/abs/2404.08031v1)|**[link](https://github.com/rt219/latentguard)**|
@@ -328,7 +328,7 @@ layout: default
 |**2024-04-15**|**Efficient and accurate neural field reconstruction using resistive memory**|Yifei Yu et.al.|[2404.09613v1](http://arxiv.org/abs/2404.09613v1)|null|
 |**2024-04-15**|**ViFu: Multiple 360$^\circ$ Objects Reconstruction with Clean Background via Visible Part Fusion**|Tianhan Xu et.al.|[2404.09426v1](http://arxiv.org/abs/2404.09426v1)|null|
 |**2024-04-15**|**DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading**|Tong Wu et.al.|[2404.09412v1](http://arxiv.org/abs/2404.09412v1)|null|
-|**2024-04-13**|**LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field**|Jiyang Li et.al.|[2404.08966v1](http://arxiv.org/abs/2404.08966v1)|null|
+|**2024-04-13**|**LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field**|Jiyang Li et.al.|[2404.08966v2](http://arxiv.org/abs/2404.08966v2)|null|
 |**2024-04-12**|**MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**|Yuqun Wu et.al.|[2404.08252v1](http://arxiv.org/abs/2404.08252v1)|null|
 |**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933v1](http://arxiv.org/abs/2404.07933v1)|**[link](https://github.com/keonhee-han/KDBTS)**|
 |**2024-04-11**|**G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images**|Zixiong Huang et.al.|[2404.07474v1](http://arxiv.org/abs/2404.07474v1)|**[link](https://github.com/llrtt/G-NeRF)**|
