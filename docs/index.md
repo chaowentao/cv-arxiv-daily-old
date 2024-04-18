@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 
 ## Image Generation
 
@@ -11,7 +11,7 @@ layout: default
 |**2024-04-16**|**LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?**|Yuchi Wang et.al.|[2404.10763v1](http://arxiv.org/abs/2404.10763v1)|**[link](https://github.com/wangyuchi369/ladic)**|
 |**2024-04-16**|**Adversarial Identity Injection for Semantic Face Image Synthesis**|Giuseppe Tarollo et.al.|[2404.10408v1](http://arxiv.org/abs/2404.10408v1)|null|
 |**2024-04-16**|**CanvasPic: An Interactive Tool for Freely Generating Facial Images Based on Spatial Layout**|Jiafu Wei et.al.|[2404.10352v1](http://arxiv.org/abs/2404.10352v1)|null|
-|**2024-04-16**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312v1](http://arxiv.org/abs/2404.10312v1)|null|
+|**2024-04-16**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312v2](http://arxiv.org/abs/2404.10312v2)|null|
 |**2024-04-16**|**OneActor: Consistent Character Generation via Cluster-Conditioned Guidance**|Jiahao Wang et.al.|[2404.10267v1](http://arxiv.org/abs/2404.10267v1)|null|
 |**2024-04-16**|**Diffusion assisted image reconstruction in optoacoustic tomography**|M. G. González et.al.|[2404.10239v1](http://arxiv.org/abs/2404.10239v1)|null|
 |**2024-04-15**|**HQ-Edit: A High-Quality Dataset for Instruction-based Image Editing**|Mude Hui et.al.|[2404.09990v1](http://arxiv.org/abs/2404.09990v1)|null|
@@ -25,7 +25,7 @@ layout: default
 |**2024-04-15**|**In-Context Translation: Towards Unifying Image Recognition, Processing, and Generation**|Han Xue et.al.|[2404.09633v1](http://arxiv.org/abs/2404.09633v1)|null|
 |**2024-04-15**|**Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models**|Peifei Zhu et.al.|[2404.09401v1](http://arxiv.org/abs/2404.09401v1)|null|
 |**2024-04-14**|**DreamScape: 3D Scene Creation via Gaussian Splatting joint Correlation Modeling**|Xuening Yuan et.al.|[2404.09227v1](http://arxiv.org/abs/2404.09227v1)|null|
-|**2024-04-13**|**Diffusion Models Meet Remote Sensing: Principles, Methods, and Perspectives**|Yidan Liu et.al.|[2404.08926v1](http://arxiv.org/abs/2404.08926v1)|null|
+|**2024-04-13**|**Diffusion Models Meet Remote Sensing: Principles, Methods, and Perspectives**|Yidan Liu et.al.|[2404.08926v2](http://arxiv.org/abs/2404.08926v2)|null|
 |**2024-04-12**|**E3: Ensemble of Expert Embedders for Adapting Synthetic Image Detectors to New Generators Using Limited Data**|Aref Azizpour et.al.|[2404.08814v2](http://arxiv.org/abs/2404.08814v2)|**[link](https://github.com/arefaz/e3-ensemble-of-expert-embedders-cvprwmf24)**|
 |**2024-04-12**|**Semantic Approach to Quantifying the Consistency of Diffusion Model Image Generation**|Brinnae Bent et.al.|[2404.08799v1](http://arxiv.org/abs/2404.08799v1)|null|
 |**2024-04-12**|**Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts**|Yang Li et.al.|[2404.08341v1](http://arxiv.org/abs/2404.08341v1)|**[link](https://github.com/yangli-lab/artifact-eraser)**|
@@ -160,12 +160,12 @@ layout: default
 |**2024-04-16**|**StyleCity: Large-Scale 3D Urban Scenes Stylization with Vision-and-Text Reference via Progressive Optimization**|Yingshu Chen et.al.|[2404.10681v1](http://arxiv.org/abs/2404.10681v1)|null|
 |**2024-04-16**|**Arsenic diffusion in MOVPE-Grown GaAs/Ge epitaxial structures**|V. Orejuela et.al.|[2404.10669v1](http://arxiv.org/abs/2404.10669v1)|null|
 |**2024-04-16**|**Continual Offline Reinforcement Learning via Diffusion-based Dual Generative Replay**|Jinmei Liu et.al.|[2404.10662v1](http://arxiv.org/abs/2404.10662v1)|**[link](https://github.com/nju-rl/cugro)**|
-|**2024-04-16**|**Quantum Simulation of Open Quantum Dynamics via Non-Markovian Quantum State Diffusion**|Yu Kaiguo et.al.|[2404.10655v1](http://arxiv.org/abs/2404.10655v1)|null|
+|**2024-04-16**|**Quantum Simulation of Open Quantum Dynamics via Non-Markovian Quantum State Diffusion**|Yukai Guo et.al.|[2404.10655v2](http://arxiv.org/abs/2404.10655v2)|null|
 |**2024-04-16**|**Emergent intelligence of buckling-driven elasto-active structures**|Yuchen Xi et.al.|[2404.10614v1](http://arxiv.org/abs/2404.10614v1)|null|
 |**2024-04-16**|**Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences**|Seungwook Kim et.al.|[2404.10603v1](http://arxiv.org/abs/2404.10603v1)|null|
-|**2024-04-16**|**Do Counterfactual Examples Complicate Adversarial Training?**|Eric Yeats et.al.|[2404.10588v1](http://arxiv.org/abs/2404.10588v1)|null|
+|**2024-04-16**|**Do Counterfactual Examples Complicate Adversarial Training?**|Eric Yeats et.al.|[2404.10588v2](http://arxiv.org/abs/2404.10588v2)|null|
 |**2024-04-16**|**Self-diffusion is temperature independent on active membranes**|Saurav G. Varma et.al.|[2404.10581v1](http://arxiv.org/abs/2404.10581v1)|null|
-|**2024-04-16**|**AAVDiff: Experimental Validation of Enhanced Viability and Diversity in Recombinant Adeno-Associated Virus (AAV) Capsids through Diffusion Generation**|Lijun Liu et.al.|[2404.10573v1](http://arxiv.org/abs/2404.10573v1)|null|
+|**2024-04-16**|**AAVDiff: Experimental Validation of Enhanced Viability and Diversity in Recombinant Adeno-Associated Virus (AAV) Capsids through Diffusion Generation**|Lijun Liu et.al.|[2404.10573v2](http://arxiv.org/abs/2404.10573v2)|null|
 |**2024-04-16**|**Progressive polymer deformation induced by polar activity and the influence of inertia**|Andrés R. Tejedor et.al.|[2404.10553v1](http://arxiv.org/abs/2404.10553v1)|null|
 |**2024-04-16**|**A bridge between spatial and first-passage properties of continuous and discrete time stochastic processes: from hard walls to absorbing boundary conditions**|Mathis Guéneau et.al.|[2404.10537v1](http://arxiv.org/abs/2404.10537v1)|null|
 |**2024-04-16**|**Four-hour thunderstorm nowcasting using deep diffusion models of satellite**|Kuai Dai et.al.|[2404.10512v1](http://arxiv.org/abs/2404.10512v1)|null|
@@ -176,7 +176,7 @@ layout: default
 |**2024-04-16**|**Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior**|Yiqian Wu et.al.|[2404.10394v1](http://arxiv.org/abs/2404.10394v1)|null|
 |**2024-04-16**|**Generating Counterfactual Trajectories with Latent Diffusion Models for Concept Discovery**|Payal Varshney et.al.|[2404.10356v1](http://arxiv.org/abs/2404.10356v1)|null|
 |**2024-04-16**|**Efficiently Adversarial Examples Generation for Visual-Language Models under Targeted Transfer Scenarios using Diffusion Models**|Qi Guo et.al.|[2404.10335v1](http://arxiv.org/abs/2404.10335v1)|null|
-|**2024-04-16**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312v1](http://arxiv.org/abs/2404.10312v1)|null|
+|**2024-04-16**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312v2](http://arxiv.org/abs/2404.10312v2)|null|
 |**2024-04-16**|**Long-form music generation with latent diffusion**|Zach Evans et.al.|[2404.10301v1](http://arxiv.org/abs/2404.10301v1)|null|
 |**2024-04-16**|**EucliDreamer: Fast and High-Quality Texturing for 3D Models with Depth-Conditioned Stable Diffusion**|Cindy Le et.al.|[2404.10279v1](http://arxiv.org/abs/2404.10279v1)|null|
 |**2024-04-16**|**OneActor: Consistent Character Generation via Cluster-Conditioned Guidance**|Jiahao Wang et.al.|[2404.10267v1](http://arxiv.org/abs/2404.10267v1)|null|
@@ -187,7 +187,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-16**|**Comprehensive Survey of Model Compression and Speed up for Vision Transformers**|Feiyang Chen et.al.|[2404.10407v1](http://arxiv.org/abs/2404.10407v1)|null|
 |**2024-04-15**|**SegFormer3D: an Efficient Transformer for 3D Medical Image Segmentation**|Shehan Perera et.al.|[2404.10156v1](http://arxiv.org/abs/2404.10156v1)|**[link](https://github.com/osupcvlab/segformer3d)**|
-|**2024-04-14**|**Weight Copy and Low-Rank Adaptation for Few-Shot Distillation of Vision Transformers**|Diana-Nicoleta Grigore et.al.|[2404.09326v1](http://arxiv.org/abs/2404.09326v1)|null|
+|**2024-04-14**|**Weight Copy and Low-Rank Adaptation for Few-Shot Distillation of Vision Transformers**|Diana-Nicoleta Grigore et.al.|[2404.09326v2](http://arxiv.org/abs/2404.09326v2)|null|
 |**2024-04-14**|**Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics**|Haosong Peng et.al.|[2404.09245v1](http://arxiv.org/abs/2404.09245v1)|null|
 |**2024-04-13**|**HEAT: Head-level Parameter Efficient Adaptation of Vision Transformers with Taylor-expansion Importance Scores**|Yibo Zhong et.al.|[2404.08894v1](http://arxiv.org/abs/2404.08894v1)|null|
 |**2024-04-12**|**Single-image driven 3d viewpoint training data augmentation for effective wine label recognition**|Yueh-Cheng Huang et.al.|[2404.08820v1](http://arxiv.org/abs/2404.08820v1)|null|
@@ -258,7 +258,7 @@ layout: default
 |**2024-04-16**|**Efficient Conditional Diffusion Model with Probability Flow Sampling for Image Super-resolution**|Yutao Yuan et.al.|[2404.10688v1](http://arxiv.org/abs/2404.10688v1)|**[link](https://github.com/yuan-yutao/ecdp)**|
 |**2024-04-16**|**The Ninth NTIRE 2024 Efficient Super-Resolution Challenge Report**|Bin Ren et.al.|[2404.10343v1](http://arxiv.org/abs/2404.10343v1)|**[link](https://github.com/amazingren/ntire2024_esr)**|
 |**2024-04-16**|**SRGS: Super-Resolution 3D Gaussian Splatting**|Xiang Feng et.al.|[2404.10318v1](http://arxiv.org/abs/2404.10318v1)|null|
-|**2024-04-16**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312v1](http://arxiv.org/abs/2404.10312v1)|null|
+|**2024-04-16**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312v2](http://arxiv.org/abs/2404.10312v2)|null|
 |**2024-04-16**|**Little Pilot is Needed for Channel Estimation with Integrated Super-Resolution Sensing and Communication**|Jingran Xu et.al.|[2404.10233v1](http://arxiv.org/abs/2404.10233v1)|null|
 |**2024-04-15**|**The Problem Of Image Super-Resolution, Denoising And Some Image Restoration Methods In Deep Learning Models**|Ngoc-Giau Pham et.al.|[2404.09817v1](http://arxiv.org/abs/2404.09817v1)|null|
 |**2024-04-15**|**NTIRE 2024 Challenge on Image Super-Resolution ($\times$4): Methods and Results**|Zheng Chen et.al.|[2404.09790v1](http://arxiv.org/abs/2404.09790v1)|null|
@@ -291,11 +291,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-12**|**Into the Fog: Evaluating Multiple Object Tracking Robustness**|Nadezda Kirillova et.al.|[2404.10534v1](http://arxiv.org/abs/2404.10534v1)|null|
-|**2024-04-15**|**Digging into contrastive learning for robust depth estimation with diffusion models**|Jiyuan Wang et.al.|[2404.09831v1](http://arxiv.org/abs/2404.09831v1)|null|
+|**2024-04-15**|**Digging into contrastive learning for robust depth estimation with diffusion models**|Jiyuan Wang et.al.|[2404.09831v2](http://arxiv.org/abs/2404.09831v2)|null|
 |**2024-04-15**|**Virtually Enriched NYU Depth V2 Dataset for Monocular Depth Estimation: Do We Need Artificial Augmentation?**|Dmitry Ignatov et.al.|[2404.09469v1](http://arxiv.org/abs/2404.09469v1)|**[link](https://github.com/abrain-one/anyu)**|
 |**2024-04-14**|**In My Perspective, In My Hands: Accurate Egocentric 2D Hand Pose and Action Recognition**|Wiktor Mucha et.al.|[2404.09308v1](http://arxiv.org/abs/2404.09308v1)|null|
 |**2024-04-12**|**FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**|Hexiang Wei et.al.|[2404.08563v1](http://arxiv.org/abs/2404.08563v1)|null|
-|**2024-04-12**|**On the Robustness of Language Guidance for Low-Level Vision Tasks: Findings from Depth Estimation**|Agneet Chatterjee et.al.|[2404.08540v1](http://arxiv.org/abs/2404.08540v1)|null|
+|**2024-04-12**|**On the Robustness of Language Guidance for Low-Level Vision Tasks: Findings from Depth Estimation**|Agneet Chatterjee et.al.|[2404.08540v1](http://arxiv.org/abs/2404.08540v1)|**[link](https://github.com/agneet42/robustness_depth_lang)**|
 |**2024-04-11**|**Depth Estimation using Weighted-loss and Transfer Learning**|Muhammad Adeel Hafeez et.al.|[2404.07686v1](http://arxiv.org/abs/2404.07686v1)|null|
 |**2024-04-11**|**GLID: Pre-training a Generalist Encoder-Decoder Vision Model**|Jihao Liu et.al.|[2404.07603v1](http://arxiv.org/abs/2404.07603v1)|null|
 |**2024-04-11**|**Implicit and Explicit Language Guidance for Diffusion-based Visual Perception**|Hefeng Wang et.al.|[2404.07600v1](http://arxiv.org/abs/2404.07600v1)|null|
