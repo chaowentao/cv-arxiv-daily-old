@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.04.22
+## Updated on 2024.04.23
 
 ## Image Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-19**|**Robust CLIP-Based Detector for Exposing Diffusion Model-Generated Images**|Santosh et.al.|[2404.12908v1](http://arxiv.org/abs/2404.12908v1)|**[link](https://github.com/purdue-m2/robust_dm_generated_image_detection)**|
-|**2024-04-19**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814v1](http://arxiv.org/abs/2404.12814v1)|null|
+|**2024-04-19**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814v2](http://arxiv.org/abs/2404.12814v2)|null|
 |**2024-04-19**|**How Real Is Real? A Human Evaluation Framework for Unrestricted Adversarial Examples**|Dren Fazlija et.al.|[2404.12653v1](http://arxiv.org/abs/2404.12653v1)|null|
 |**2024-04-18**|**Lazy Diffusion Transformer for Interactive Image Editing**|Yotam Nitzan et.al.|[2404.12382v1](http://arxiv.org/abs/2404.12382v1)|null|
 |**2024-04-18**|**Customizing Text-to-Image Diffusion with Camera Viewpoint Control**|Nupur Kumari et.al.|[2404.12333v1](http://arxiv.org/abs/2404.12333v1)|null|
@@ -22,7 +22,7 @@ layout: default
 |**2024-04-18**|**FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models**|Wei Wu et.al.|[2404.11895v1](http://arxiv.org/abs/2404.11895v1)|null|
 |**2024-04-18**|**TextCenGen: Attention-Guided Text-Centric Background Adaptation for Text-to-Image Generation**|Tianyi Liang et.al.|[2404.11824v1](http://arxiv.org/abs/2404.11824v1)|null|
 |**2024-04-17**|**On the Scalability of GNNs for Molecular Graphs**|Maciej Sypetkowski et.al.|[2404.11568v1](http://arxiv.org/abs/2404.11568v1)|null|
-|**2024-04-17**|**MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation**|Kuan-Chieh et.al.|[2404.11565v1](http://arxiv.org/abs/2404.11565v1)|null|
+|**2024-04-17**|**MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation**|Kuan-Chieh Wang et.al.|[2404.11565v1](http://arxiv.org/abs/2404.11565v1)|null|
 |**2024-04-17**|**SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening**|Yu Zhong et.al.|[2404.11537v1](http://arxiv.org/abs/2404.11537v1)|null|
 |**2024-04-17**|**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt**|Zhanjie Zhang et.al.|[2404.11474v1](http://arxiv.org/abs/2404.11474v1)|**[link](https://github.com/jamie-cheung/lsast)**|
 |**2024-04-17**|**Image Generative Semantic Communication with Multi-Modal Similarity Estimation for Resource-Limited Networks**|Eri Hosonuma et.al.|[2404.11280v1](http://arxiv.org/abs/2404.11280v1)|null|
@@ -165,7 +165,7 @@ layout: default
 |**2024-04-19**|**Training-and-prompt-free General Painterly Harmonization Using Image-wise Attention Sharing**|Teng-Fang Hsiao et.al.|[2404.12900v1](http://arxiv.org/abs/2404.12900v1)|**[link](https://github.com/bluedyee/tf-gph)**|
 |**2024-04-19**|**MCM: Multi-condition Motion Synthesis Framework**|Zeyu Ling et.al.|[2404.12886v1](http://arxiv.org/abs/2404.12886v1)|null|
 |**2024-04-19**|**Mixed Polyanionic NaFe$_{1.6}$V$_{0.4}$(PO$_{4}$)(SO$_{4}$)$_{2}$@CNT Cathode for Sodium-ion Batteries: Electrochemical Diffusion Kinetics and Distribution of Relaxation Time Analysis at Different Temperatures**|Jayashree Pati et.al.|[2404.12822v1](http://arxiv.org/abs/2404.12822v1)|null|
-|**2024-04-19**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814v1](http://arxiv.org/abs/2404.12814v1)|null|
+|**2024-04-19**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814v2](http://arxiv.org/abs/2404.12814v2)|null|
 |**2024-04-19**|**Enhancing Counterfactual Explanation Search with Diffusion Distance and Directional Coherence**|Marharyta Domnich et.al.|[2404.12810v1](http://arxiv.org/abs/2404.12810v1)|null|
 |**2024-04-19**|**Universality of giant diffusion in tilted periodic potentials**|Kento Iida et.al.|[2404.12761v1](http://arxiv.org/abs/2404.12761v1)|null|
 |**2024-04-19**|**Change of Measure for Bayesian Field Inversion with Hierarchical Hyperparameters Sampling**|Nadège Polette et.al.|[2404.12688v1](http://arxiv.org/abs/2404.12688v1)|null|
@@ -258,7 +258,7 @@ layout: default
 |**2024-04-19**|**A New Multi-Picture Architecture for Learned Video Deinterlacing and Demosaicing with Parallel Deformable Convolution and Self-Attention Blocks**|Ronglei Ji et.al.|[2404.13018v1](http://arxiv.org/abs/2404.13018v1)|null|
 |**2024-04-19**|**Cross-modal Diffusion Modelling for Super-resolved Spatial Transcriptomics**|Xiaofei Wang et.al.|[2404.12973v1](http://arxiv.org/abs/2404.12973v1)|null|
 |**2024-04-18**|**VideoGigaGAN: Towards Detail-rich Video Super-Resolution**|Yiran Xu et.al.|[2404.12388v1](http://arxiv.org/abs/2404.12388v1)|null|
-|**2024-04-18**|**Multichannel-GaAsP-photomultiplier-based fiber bundle ISM-STED microscope**|Marcus Babin et.al.|[2404.12370v1](http://arxiv.org/abs/2404.12370v1)|null|
+|**2024-04-18**|**Multichannel-GaAsP-photomultiplier-based fiber bundle ISM-STED microscope**|Marcus Babin et.al.|[2404.12370v2](http://arxiv.org/abs/2404.12370v2)|null|
 |**2024-04-18**|**Multiphoton super-resolution imaging via virtual structured illumination**|Sumin Lim et.al.|[2404.11849v1](http://arxiv.org/abs/2404.11849v1)|null|
 |**2024-04-18**|**Partial Large Kernel CNNs for Efficient Super-Resolution**|Dongheon Lee et.al.|[2404.11848v1](http://arxiv.org/abs/2404.11848v1)|**[link](https://github.com/dslisleedh/PLKSR)**|
 |**2024-04-17**|**Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution**|Cansu Korkmaz et.al.|[2404.11273v1](http://arxiv.org/abs/2404.11273v1)|null|
