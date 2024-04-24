@@ -163,7 +163,7 @@
 |**2024-04-22**|**Travelling waves in an ensemble of excitable oscillators: the interplay of memristive coupling and noise**|Ivan A. Korneev et.al.|[2404.14147v1](http://arxiv.org/abs/2404.14147v1)|null|
 |**2024-04-22**|**Generative Artificial Intelligence Assisted Wireless Sensing: Human Flow Detection in Practical Communication Environments**|Jiacheng Wang et.al.|[2404.14140v1](http://arxiv.org/abs/2404.14140v1)|null|
 |**2024-04-22**|**Chemically Stable Group IV-V Transition Metal Carbide Thin Films in Hydrogen Radical Environments**|Abdul Rehman et.al.|[2404.14108v1](http://arxiv.org/abs/2404.14108v1)|null|
-|**2024-04-22**|**RingID: Rethinking Tree-Ring Watermarking for Enhanced Multi-Key Identification**|Hai Ci et.al.|[2404.14055v2](http://arxiv.org/abs/2404.14055v2)|null|
+|**2024-04-22**|**RingID: Rethinking Tree-Ring Watermarking for Enhanced Multi-Key Identification**|Hai Ci et.al.|[2404.14055v2](http://arxiv.org/abs/2404.14055v2)|**[link](https://github.com/showlab/ringid)**|
 |**2024-04-22**|**Logarithmic convexity of non-symmetric time-fractional diffusion equations**|S. E. Chorfi et.al.|[2404.14046v1](http://arxiv.org/abs/2404.14046v1)|null|
 |**2024-04-22**|**PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer**|Rui She et.al.|[2404.14034v1](http://arxiv.org/abs/2404.14034v1)|null|
 |**2024-04-22**|**Carleman estimates for higher order partial differential operators and its applications**|Xiaoyu Fu et.al.|[2404.14008v1](http://arxiv.org/abs/2404.14008v1)|null|
