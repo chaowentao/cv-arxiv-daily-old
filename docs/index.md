@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.24
+## Updated on 2024.04.25
 
 ## Image Generation
 
@@ -210,7 +210,7 @@ layout: default
 |**2024-04-17**|**Supervised Contrastive Vision Transformer for Breast Histopathological Image Classification**|Mohammad Shiri et.al.|[2404.11052v2](http://arxiv.org/abs/2404.11052v2)|null|
 |**2024-04-16**|**Gasformer: A Transformer-based Architecture for Segmenting Methane Emissions from Livestock in Optical Gas Imaging**|Toqi Tahamid Sarker et.al.|[2404.10841v1](http://arxiv.org/abs/2404.10841v1)|**[link](https://github.com/toqitahamid/gasformer)**|
 |**2024-04-16**|**Comprehensive Survey of Model Compression and Speed up for Vision Transformers**|Feiyang Chen et.al.|[2404.10407v1](http://arxiv.org/abs/2404.10407v1)|null|
-|**2024-04-15**|**SegFormer3D: an Efficient Transformer for 3D Medical Image Segmentation**|Shehan Perera et.al.|[2404.10156v1](http://arxiv.org/abs/2404.10156v1)|**[link](https://github.com/osupcvlab/segformer3d)**|
+|**2024-04-15**|**SegFormer3D: an Efficient Transformer for 3D Medical Image Segmentation**|Shehan Perera et.al.|[2404.10156v2](http://arxiv.org/abs/2404.10156v2)|**[link](https://github.com/osupcvlab/segformer3d)**|
 |**2024-04-14**|**Weight Copy and Low-Rank Adaptation for Few-Shot Distillation of Vision Transformers**|Diana-Nicoleta Grigore et.al.|[2404.09326v2](http://arxiv.org/abs/2404.09326v2)|null|
 |**2024-04-14**|**Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics**|Haosong Peng et.al.|[2404.09245v1](http://arxiv.org/abs/2404.09245v1)|null|
 |**2024-04-13**|**HEAT: Head-level Parameter Efficient Adaptation of Vision Transformers with Taylor-expansion Importance Scores**|Yibo Zhong et.al.|[2404.08894v1](http://arxiv.org/abs/2404.08894v1)|null|
