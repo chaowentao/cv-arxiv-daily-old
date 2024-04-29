@@ -15,7 +15,7 @@
 |**2024-04-24**|**Guardians of the Quantum GAN**|Archisman Ghosh et.al.|[2404.16156v2](http://arxiv.org/abs/2404.16156v2)|null|
 |**2024-04-24**|**Spinning solar jets explained through the interplay between plasma sheets and vortex columns**|Sahel Dey et.al.|[2404.16096v1](http://arxiv.org/abs/2404.16096v1)|null|
 |**2024-04-24**|**Editable Image Elements for Controllable Synthesis**|Jiteng Mu et.al.|[2404.16029v1](http://arxiv.org/abs/2404.16029v1)|null|
-|**2024-04-24**|**PuLID: Pure and Lightning ID Customization via Contrastive Alignment**|Zinan Guo et.al.|[2404.16022v1](http://arxiv.org/abs/2404.16022v1)|null|
+|**2024-04-24**|**PuLID: Pure and Lightning ID Customization via Contrastive Alignment**|Zinan Guo et.al.|[2404.16022v1](http://arxiv.org/abs/2404.16022v1)|**[link](https://github.com/tothebeginning/pulid)**|
 |**2024-04-24**|**Beyond Deepfake Images: Detecting AI-Generated Videos**|Danial Samadi Vahdati et.al.|[2404.15955v1](http://arxiv.org/abs/2404.15955v1)|null|
 |**2024-04-24**|**Sketch2Human: Deep Human Generation with Disentangled Geometry and Appearance Control**|Linzi Qu et.al.|[2404.15889v1](http://arxiv.org/abs/2404.15889v1)|null|
 |**2024-04-24**|**DeepFeatureX Net: Deep Features eXtractors based Network for discriminating synthetic from real images**|Orazio Pontorno et.al.|[2404.15697v1](http://arxiv.org/abs/2404.15697v1)|null|
@@ -172,7 +172,7 @@
 |**2024-04-24**|**Boomerang effect in classical stochastic models**|Santiago Zamora et.al.|[2404.16119v1](http://arxiv.org/abs/2404.16119v1)|null|
 |**2024-04-24**|**Critical Multitype Branching Processes with Random Migration**|Miguel González et.al.|[2404.16108v1](http://arxiv.org/abs/2404.16108v1)|null|
 |**2024-04-24**|**Editable Image Elements for Controllable Synthesis**|Jiteng Mu et.al.|[2404.16029v1](http://arxiv.org/abs/2404.16029v1)|null|
-|**2024-04-24**|**PuLID: Pure and Lightning ID Customization via Contrastive Alignment**|Zinan Guo et.al.|[2404.16022v1](http://arxiv.org/abs/2404.16022v1)|null|
+|**2024-04-24**|**PuLID: Pure and Lightning ID Customization via Contrastive Alignment**|Zinan Guo et.al.|[2404.16022v1](http://arxiv.org/abs/2404.16022v1)|**[link](https://github.com/tothebeginning/pulid)**|
 |**2024-04-24**|**RetinaRegNet: A Versatile Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017v1](http://arxiv.org/abs/2404.16017v1)|null|
 |**2024-04-24**|**Fabrication of planar halfmetallic ferromagnetic Josephson junctions with long range coupling**|Junxiang Yao et.al.|[2404.15969v1](http://arxiv.org/abs/2404.15969v1)|null|
 |**2024-04-24**|**Adapted Lie splitting method for convection-diffusion problems with singular convective term**|Thi Tam Dang et.al.|[2404.15947v1](http://arxiv.org/abs/2404.15947v1)|null|
