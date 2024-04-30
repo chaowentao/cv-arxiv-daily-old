@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.29
+## Updated on 2024.04.30
 
 ## Image Generation
 
@@ -12,7 +12,7 @@ layout: default
 |**2024-04-26**|**Trinity Detector:text-assisted and attention mechanisms based spectral fusion for diffusion generation image detection**|Jiawei Song et.al.|[2404.17254v1](http://arxiv.org/abs/2404.17254v1)|null|
 |**2024-04-26**|**Synthesizing Iris Images using Generative Adversarial Networks: Survey and Comparative Analysis**|Shivangi Yadav et.al.|[2404.17105v1](http://arxiv.org/abs/2404.17105v1)|null|
 |**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767v1](http://arxiv.org/abs/2404.16767v1)|null|
-|**2024-04-25**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617v1](http://arxiv.org/abs/2404.16617v1)|**[link](https://github.com/tetsuyaodaka/steerablepyramid)**|
+|**2024-04-25**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617v2](http://arxiv.org/abs/2404.16617v2)|**[link](https://github.com/tetsuyaodaka/steerablepyramid)**|
 |**2024-04-25**|**MuseumMaker: Continual Style Customization without Catastrophic Forgetting**|Chenxi Liu et.al.|[2404.16612v1](http://arxiv.org/abs/2404.16612v1)|null|
 |**2024-04-25**|**AudioScenic: Audio-Driven Video Scene Editing**|Kaixin Shen et.al.|[2404.16581v1](http://arxiv.org/abs/2404.16581v1)|null|
 |**2024-04-25**|**Conditional Distribution Modelling for Few-Shot Image Synthesis with Diffusion Models**|Parul Gupta et.al.|[2404.16556v1](http://arxiv.org/abs/2404.16556v1)|null|
@@ -178,7 +178,7 @@ layout: default
 |**2024-04-25**|**Giant microwave absorption in the vortex lattice in $s$-wave superconductors**|T. Liu et.al.|[2404.16998v1](http://arxiv.org/abs/2404.16998v1)|null|
 |**2024-04-25**|**Universal fragmentation in annihilation reactions with constrained kinetics**|Enrique Rozas Garcia et.al.|[2404.16950v1](http://arxiv.org/abs/2404.16950v1)|null|
 |**2024-04-25**|**Observational predictions for the survival of atomic hydrogen in simulated Fornax-like galaxy clusters**|Avinash Chaturvedi et.al.|[2404.16926v1](http://arxiv.org/abs/2404.16926v1)|null|
-|**2024-04-25**|**The Third Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2404.16831v1](http://arxiv.org/abs/2404.16831v1)|null|
+|**2024-04-25**|**The Third Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2404.16831v2](http://arxiv.org/abs/2404.16831v2)|null|
 |**2024-04-25**|**Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials**|Ye Fang et.al.|[2404.16829v1](http://arxiv.org/abs/2404.16829v1)|null|
 
 ## Vision Transformer
@@ -225,7 +225,7 @@ layout: default
 |**2024-04-24**|**NeRF-XL: Scaling NeRFs with Multiple GPUs**|Ruilong Li et.al.|[2404.16221v1](http://arxiv.org/abs/2404.16221v1)|null|
 |**2024-04-24**|**ESR-NeRF: Emissive Source Reconstruction Using LDR Multi-view Images**|Jinseo Jeong et.al.|[2404.15707v1](http://arxiv.org/abs/2404.15707v1)|null|
 |**2024-04-23**|**DreamCraft: Text-Guided Generation of Functional 3D Environments in Minecraft**|Sam Earle et.al.|[2404.15538v1](http://arxiv.org/abs/2404.15538v1)|null|
-|**2024-04-22**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037v1](http://arxiv.org/abs/2404.14037v1)|null|
+|**2024-04-22**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037v2](http://arxiv.org/abs/2404.14037v2)|null|
 |**2024-04-22**|**NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**|Chi Huang et.al.|[2404.13921v1](http://arxiv.org/abs/2404.13921v1)|null|
 |**2024-04-22**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896v2](http://arxiv.org/abs/2404.13896v2)|null|
 |**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816v2](http://arxiv.org/abs/2404.13816v2)|null|
@@ -291,7 +291,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-26**|**A Novel Spike Transformer Network for Depth Estimation from Event Cameras via Cross-modality Knowledge Distillation**|Xin Zhang et.al.|[2404.17335v1](http://arxiv.org/abs/2404.17335v1)|null|
-|**2024-04-25**|**The Third Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2404.16831v1](http://arxiv.org/abs/2404.16831v1)|null|
+|**2024-04-25**|**The Third Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2404.16831v2](http://arxiv.org/abs/2404.16831v2)|null|
 |**2024-04-25**|**MonoPCC: Photometric-invariant Cycle Constraint for Monocular Depth Estimation of Endoscopic Images**|Zhiwei Wang et.al.|[2404.16571v1](http://arxiv.org/abs/2404.16571v1)|null|
 |**2024-04-25**|**Promoting CNNs with Cross-Architecture Knowledge Distillation for Efficient Monocular Depth Estimation**|Zhimeng Zheng et.al.|[2404.16386v1](http://arxiv.org/abs/2404.16386v1)|null|
 |**2024-04-23**|**SGFormer: Spherical Geometry Transformer for 360 Depth Estimation**|Junsong Zhang et.al.|[2404.14979v1](http://arxiv.org/abs/2404.14979v1)|null|
