@@ -1,4 +1,4 @@
-## Updated on 2024.04.30
+## Updated on 2024.05.01
 
 ## Image Generation
 
@@ -12,7 +12,7 @@
 |**2024-04-29**|**Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting**|Tianyidan Xie et.al.|[2404.18598v1](http://arxiv.org/abs/2404.18598v1)|null|
 |**2024-04-29**|**Autonomous Quality and Hallucination Assessment for Virtual Tissue Staining and Digital Pathology**|Luzhe Huang et.al.|[2404.18458v1](http://arxiv.org/abs/2404.18458v1)|null|
 |**2024-04-29**|**PKU-AIGIQA-4K: A Perceptual Quality Assessment Database for Both Text-to-Image and Image-to-Image AI-Generated Images**|Jiquan Yuan et.al.|[2404.18409v1](http://arxiv.org/abs/2404.18409v1)|null|
-|**2024-04-29**|**Equivalence: An analysis of artists' roles with Image Generative AI from Conceptual Art perspective through an interactive installation design practice**|Yixuan Li et.al.|[2404.18385v1](http://arxiv.org/abs/2404.18385v1)|null|
+|**2024-04-29**|**Equivalence: An analysis of artists' roles with Image Generative AI from Conceptual Art perspective through an interactive installation design practice**|Yixuan Li et.al.|[2404.18385v2](http://arxiv.org/abs/2404.18385v2)|null|
 |**2024-04-29**|**G-Refine: A General Quality Refiner for Text-to-Image Generation**|Chunyi Li et.al.|[2404.18343v1](http://arxiv.org/abs/2404.18343v1)|null|
 |**2024-04-28**|**Fisher Information Improved Training-Free Conditional Diffusion Model**|Kaiyu Song et.al.|[2404.18252v1](http://arxiv.org/abs/2404.18252v1)|null|
 |**2024-04-28**|**Paint by Inpaint: Learning to Add Image Objects by Removing Them First**|Navve Wasserman et.al.|[2404.18212v1](http://arxiv.org/abs/2404.18212v1)|null|
@@ -168,7 +168,7 @@
 |**2024-04-29**|**Sustained Oscillations in Hyperbolic-Parabolic Systems**|Athanasios E. Tzavaras et.al.|[2404.18457v1](http://arxiv.org/abs/2404.18457v1)|null|
 |**2024-04-29**|**U-Nets as Belief Propagation: Efficient Classification, Denoising, and Diffusion in Generative Hierarchical Models**|Song Mei et.al.|[2404.18444v1](http://arxiv.org/abs/2404.18444v1)|null|
 |**2024-04-29**|**Diffusion Limit with Optimal Convergence Rate of Classical Solutions to the Vlasov-Maxwell-Boltzmann System**|Tong Yang et.al.|[2404.18389v1](http://arxiv.org/abs/2404.18389v1)|null|
-|**2024-04-29**|**Equivalence: An analysis of artists' roles with Image Generative AI from Conceptual Art perspective through an interactive installation design practice**|Yixuan Li et.al.|[2404.18385v1](http://arxiv.org/abs/2404.18385v1)|null|
+|**2024-04-29**|**Equivalence: An analysis of artists' roles with Image Generative AI from Conceptual Art perspective through an interactive installation design practice**|Yixuan Li et.al.|[2404.18385v2](http://arxiv.org/abs/2404.18385v2)|null|
 |**2024-04-29**|**Interface motion from Glauber-Kawasaki dynamics of non-gradient type**|Tadahisa Funaki et.al.|[2404.18364v1](http://arxiv.org/abs/2404.18364v1)|null|
 |**2024-04-28**|**$H^2$-regularity for stationary and non-stationary Bingham problems with perfect slip boundary condition**|Takeshi Fukao et.al.|[2404.18333v1](http://arxiv.org/abs/2404.18333v1)|null|
 |**2024-04-28**|**Fisher Information Improved Training-Free Conditional Diffusion Model**|Kaiyu Song et.al.|[2404.18252v1](http://arxiv.org/abs/2404.18252v1)|null|
@@ -202,7 +202,7 @@
 |**2024-04-23**|**Other Tokens Matter: Exploring Global and Local Features of Vision Transformers for Object Re-Identification**|Yingquan Wang et.al.|[2404.14985v1](http://arxiv.org/abs/2404.14985v1)|null|
 |**2024-04-23**|**SGFormer: Spherical Geometry Transformer for 360 Depth Estimation**|Junsong Zhang et.al.|[2404.14979v1](http://arxiv.org/abs/2404.14979v1)|null|
 |**2024-04-23**|**ORBIT: Oak Ridge Base Foundation Model for Earth System Predictability**|Xiao Wang et.al.|[2404.14712v1](http://arxiv.org/abs/2404.14712v1)|null|
-|**2024-04-22**|**Cross-Task Multi-Branch Vision Transformer for Facial Expression and Mask Wearing Classification**|Armando Zhu et.al.|[2404.14606v1](http://arxiv.org/abs/2404.14606v1)|null|
+|**2024-04-22**|**Cross-Task Multi-Branch Vision Transformer for Facial Expression and Mask Wearing Classification**|Armando Zhu et.al.|[2404.14606v2](http://arxiv.org/abs/2404.14606v2)|null|
 |**2024-04-21**|**Object-Attribute Binding in Text-to-Image Generation: Evaluation and Control**|Maria Mihaela Trusca et.al.|[2404.13766v1](http://arxiv.org/abs/2404.13766v1)|null|
 |**2024-04-21**|**MathNet: A Data-Centric Approach for Printed Mathematical Expression Recognition**|Felix M. Schmitt-Koopmann et.al.|[2404.13667v1](http://arxiv.org/abs/2404.13667v1)|null|
 |**2024-04-21**|**LMFNet: An Efficient Multimodal Fusion Approach for Semantic Segmentation in High-Resolution Remote Sensing**|Tong Wang et.al.|[2404.13659v1](http://arxiv.org/abs/2404.13659v1)|null|
