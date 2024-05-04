@@ -19,10 +19,10 @@
 |**2024-04-30**|**SwipeGANSpace: Swipe-to-Compare Image Generation via Efficient Latent Space Exploration**|Yuto Nakashima et.al.|[2404.19693v1](http://arxiv.org/abs/2404.19693v1)|null|
 |**2024-04-30**|**TwinDiffusion: Enhancing Coherence and Efficiency in Panoramic Image Generation with Diffusion Models**|Teng Zhou et.al.|[2404.19475v1](http://arxiv.org/abs/2404.19475v1)|null|
 |**2024-04-30**|**InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation**|Chanran Kim et.al.|[2404.19427v1](http://arxiv.org/abs/2404.19427v1)|null|
-|**2024-04-30**|**FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills**|Yongqiang Zhao et.al.|[2404.19217v2](http://arxiv.org/abs/2404.19217v2)|null|
+|**2024-04-30**|**FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills**|Yongqiang Zhao et.al.|[2404.19217v2](http://arxiv.org/abs/2404.19217v2)|**[link](https://github.com/rancho-zhao/fots)**|
 |**2024-04-30**|**NeRF-Insert: 3D Local Editing with Multimodal Control Signals**|Benet Oriol Sabat et.al.|[2404.19204v1](http://arxiv.org/abs/2404.19204v1)|null|
 |**2024-04-29**|**DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing**|Minghao Chen et.al.|[2404.18929v1](http://arxiv.org/abs/2404.18929v1)|null|
-|**2024-04-29**|**TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation**|Junhao Cheng et.al.|[2404.18919v1](http://arxiv.org/abs/2404.18919v1)|null|
+|**2024-04-29**|**TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation**|Junhao Cheng et.al.|[2404.18919v1](http://arxiv.org/abs/2404.18919v1)|**[link](https://github.com/donahowe/theatergen)**|
 |**2024-04-29**|**Hide and Seek: How Does Watermarking Impact Face Recognition?**|Yuguang Yao et.al.|[2404.18890v1](http://arxiv.org/abs/2404.18890v1)|null|
 |**2024-04-29**|**Learning Mixtures of Gaussians Using Diffusion Models**|Khashayar Gatmiry et.al.|[2404.18869v1](http://arxiv.org/abs/2404.18869v1)|null|
 |**2024-04-29**|**FlexiFilm: Long Video Generation with Flexible Conditions**|Yichen Ouyang et.al.|[2404.18620v1](http://arxiv.org/abs/2404.18620v1)|**[link](https://github.com/Y-ichen/FlexiFilm)**|
