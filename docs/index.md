@@ -300,7 +300,7 @@ layout: default
 |**2024-04-27**|**Underwater Variable Zoom: Depth-Guided Perception Network for Underwater Image Enhancement**|Zhixiong Huang et.al.|[2404.17883v2](http://arxiv.org/abs/2404.17883v2)|**[link](https://github.com/windysprint/uvz)**|
 |**2024-04-26**|**A Novel Spike Transformer Network for Depth Estimation from Event Cameras via Cross-modality Knowledge Distillation**|Xin Zhang et.al.|[2404.17335v2](http://arxiv.org/abs/2404.17335v2)|null|
 |**2024-04-25**|**The Third Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2404.16831v2](http://arxiv.org/abs/2404.16831v2)|null|
-|**2024-04-25**|**MonoPCC: Photometric-invariant Cycle Constraint for Monocular Depth Estimation of Endoscopic Images**|Zhiwei Wang et.al.|[2404.16571v1](http://arxiv.org/abs/2404.16571v1)|null|
+|**2024-04-25**|**MonoPCC: Photometric-invariant Cycle Constraint for Monocular Depth Estimation of Endoscopic Images**|Zhiwei Wang et.al.|[2404.16571v2](http://arxiv.org/abs/2404.16571v2)|null|
 |**2024-04-25**|**Promoting CNNs with Cross-Architecture Knowledge Distillation for Efficient Monocular Depth Estimation**|Zhimeng Zheng et.al.|[2404.16386v1](http://arxiv.org/abs/2404.16386v1)|null|
 |**2024-04-23**|**SGFormer: Spherical Geometry Transformer for 360 Depth Estimation**|Junsong Zhang et.al.|[2404.14979v1](http://arxiv.org/abs/2404.14979v1)|null|
 |**2024-04-23**|**Mining Supervision for Dynamic Regions in Self-Supervised Monocular Depth Estimation**|Hoang Chuong Nguyen et.al.|[2404.14908v1](http://arxiv.org/abs/2404.14908v1)|null|
