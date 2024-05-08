@@ -1,4 +1,4 @@
-## Updated on 2024.05.07
+## Updated on 2024.05.08
 
 ## Image Generation
 
@@ -14,7 +14,7 @@
 |**2024-05-03**|**Defect Image Sample Generation With Diffusion Prior for Steel Surface Defect Recognition**|Yichun Tai et.al.|[2405.01872v1](http://arxiv.org/abs/2405.01872v1)|null|
 |**2024-05-02**|**Long Tail Image Generation Through Feature Space Augmentation and Iterated Learning**|Rafael Elberg et.al.|[2405.01705v1](http://arxiv.org/abs/2405.01705v1)|**[link](https://github.com/sugarfreemanatee/feature-space-augmentation-and-iterated-learning)**|
 |**2024-05-02**|**LocInv: Localization-aware Inversion for Text-Guided Image Editing**|Chuanming Tang et.al.|[2405.01496v1](http://arxiv.org/abs/2405.01496v1)|**[link](https://github.com/wangkai930418/DPL)**|
-|**2024-05-02**|**Towards Inclusive Face Recognition Through Synthetic Ethnicity Alteration**|Praveen Kumar Chandaliya et.al.|[2405.01273v1](http://arxiv.org/abs/2405.01273v1)|null|
+|**2024-05-02**|**Towards Inclusive Face Recognition Through Synthetic Ethnicity Alteration**|Praveen Kumar Chandaliya et.al.|[2405.01273v2](http://arxiv.org/abs/2405.01273v2)|null|
 |**2024-05-02**|**DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines**|Ye Tian et.al.|[2405.01248v1](http://arxiv.org/abs/2405.01248v1)|null|
 |**2024-05-02**|**On Mechanistic Knowledge Localization in Text-to-Image Generative Models**|Samyadeep Basu et.al.|[2405.01008v1](http://arxiv.org/abs/2405.01008v1)|null|
 |**2024-05-01**|**SonicDiffusion: Audio-Driven Image Generation and Editing with Pretrained Diffusion Models**|Burak Can Biner et.al.|[2405.00878v1](http://arxiv.org/abs/2405.00878v1)|null|
@@ -26,7 +26,7 @@
 |**2024-04-30**|**DOCCI: Descriptions of Connected and Contrasting Images**|Yasumasa Onoe et.al.|[2404.19753v1](http://arxiv.org/abs/2404.19753v1)|null|
 |**2024-04-30**|**Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**|Yunhao Ge et.al.|[2404.19752v1](http://arxiv.org/abs/2404.19752v1)|null|
 |**2024-04-30**|**SwipeGANSpace: Swipe-to-Compare Image Generation via Efficient Latent Space Exploration**|Yuto Nakashima et.al.|[2404.19693v1](http://arxiv.org/abs/2404.19693v1)|null|
-|**2024-04-30**|**TwinDiffusion: Enhancing Coherence and Efficiency in Panoramic Image Generation with Diffusion Models**|Teng Zhou et.al.|[2404.19475v1](http://arxiv.org/abs/2404.19475v1)|null|
+|**2024-04-30**|**TwinDiffusion: Enhancing Coherence and Efficiency in Panoramic Image Generation with Diffusion Models**|Teng Zhou et.al.|[2404.19475v2](http://arxiv.org/abs/2404.19475v2)|null|
 |**2024-04-30**|**InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation**|Chanran Kim et.al.|[2404.19427v1](http://arxiv.org/abs/2404.19427v1)|null|
 |**2024-04-30**|**FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills**|Yongqiang Zhao et.al.|[2404.19217v2](http://arxiv.org/abs/2404.19217v2)|**[link](https://github.com/rancho-zhao/fots)**|
 |**2024-04-30**|**NeRF-Insert: 3D Local Editing with Multimodal Control Signals**|Benet Oriol Sabat et.al.|[2404.19204v1](http://arxiv.org/abs/2404.19204v1)|null|
@@ -187,7 +187,7 @@
 |**2024-05-04**|**Boosting 3D Neuron Segmentation with 2D Vision Transformer Pre-trained on Natural Images**|Yik San Cheng et.al.|[2405.02686v1](http://arxiv.org/abs/2405.02686v1)|null|
 |**2024-05-04**|**ViTALS: Vision Transformer for Action Localization in Surgical Nephrectomy**|Soumyadeep Chandra et.al.|[2405.02571v1](http://arxiv.org/abs/2405.02571v1)|null|
 |**2024-05-03**|**What matters when building vision-language models?**|Hugo Laurençon et.al.|[2405.02246v1](http://arxiv.org/abs/2405.02246v1)|null|
-|**2024-05-03**|**An Attention Based Pipeline for Identifying Pre-Cancer Lesions in Head and Neck Clinical Images**|Abdullah Alsalemi et.al.|[2405.01937v1](http://arxiv.org/abs/2405.01937v1)|**[link](https://github.com/precision-vision/oed-classification-segmentation)**|
+|**2024-05-03**|**An Attention Based Pipeline for Identifying Pre-Cancer Lesions in Head and Neck Clinical Images**|Abdullah Alsalemi et.al.|[2405.01937v2](http://arxiv.org/abs/2405.01937v2)|**[link](https://github.com/precision-vision/oed-classification-segmentation)**|
 |**2024-05-02**|**Torch2Chip: An End-to-end Customizable Deep Neural Network Compression and Deployment Toolkit for Prototype Hardware Accelerator Design**|Jian Meng et.al.|[2405.01775v2](http://arxiv.org/abs/2405.01775v2)|**[link](https://github.com/seolabcornell/torch2chip)**|
 |**2024-05-02**|**Transformer-Aided Semantic Communications**|Matin Mortaheb et.al.|[2405.01521v1](http://arxiv.org/abs/2405.01521v1)|null|
 |**2024-05-01**|**LOTUS: Improving Transformer Efficiency with Sparsity Pruning and Data Lottery Tickets**|Ojasw Upadhyay et.al.|[2405.00906v1](http://arxiv.org/abs/2405.00906v1)|null|
