@@ -1,4 +1,4 @@
-## Updated on 2024.05.08
+## Updated on 2024.05.09
 
 ## Image Generation
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2024-05-07**|**Towards Geographic Inclusion in the Evaluation of Text-to-Image Models**|Melissa Hall et.al.|[2405.04457v1](http://arxiv.org/abs/2405.04457v1)|null|
 |**2024-05-07**|**Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation**|Jihyun Kim et.al.|[2405.04356v1](http://arxiv.org/abs/2405.04356v1)|null|
-|**2024-05-07**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312v1](http://arxiv.org/abs/2405.04312v1)|**[link](https://github.com/thudm/inf-dit)**|
+|**2024-05-07**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312v2](http://arxiv.org/abs/2405.04312v2)|**[link](https://github.com/thudm/inf-dit)**|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290v1](http://arxiv.org/abs/2405.04290v1)|null|
 |**2024-05-07**|**SEED-Data-Edit Technical Report: A Hybrid Dataset for Instructional Image Editing**|Yuying Ge et.al.|[2405.04007v1](http://arxiv.org/abs/2405.04007v1)|null|
 |**2024-05-07**|**Simple Drop-in LoRA Conditioning on Attention Layers Will Improve Your Diffusion Model**|Joo Young Choi et.al.|[2405.03958v1](http://arxiv.org/abs/2405.03958v1)|null|
@@ -22,7 +22,7 @@
 |**2024-05-02**|**LocInv: Localization-aware Inversion for Text-Guided Image Editing**|Chuanming Tang et.al.|[2405.01496v1](http://arxiv.org/abs/2405.01496v1)|**[link](https://github.com/wangkai930418/DPL)**|
 |**2024-05-02**|**Towards Inclusive Face Recognition Through Synthetic Ethnicity Alteration**|Praveen Kumar Chandaliya et.al.|[2405.01273v2](http://arxiv.org/abs/2405.01273v2)|null|
 |**2024-05-02**|**DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines**|Ye Tian et.al.|[2405.01248v1](http://arxiv.org/abs/2405.01248v1)|null|
-|**2024-05-02**|**On Mechanistic Knowledge Localization in Text-to-Image Generative Models**|Samyadeep Basu et.al.|[2405.01008v1](http://arxiv.org/abs/2405.01008v1)|null|
+|**2024-05-02**|**On Mechanistic Knowledge Localization in Text-to-Image Generative Models**|Samyadeep Basu et.al.|[2405.01008v2](http://arxiv.org/abs/2405.01008v2)|null|
 |**2024-05-01**|**SonicDiffusion: Audio-Driven Image Generation and Editing with Pretrained Diffusion Models**|Burak Can Biner et.al.|[2405.00878v1](http://arxiv.org/abs/2405.00878v1)|null|
 |**2024-05-01**|**TexSliders: Diffusion-Based Texture Editing in CLIP Space**|Julia Guerrero-Viu et.al.|[2405.00672v1](http://arxiv.org/abs/2405.00672v1)|null|
 |**2024-05-01**|**UWAFA-GAN: Ultra-Wide-Angle Fluorescein Angiography Transformation via Multi-scale Generation and Registration Enhancement**|Ruiquan Ge et.al.|[2405.00542v1](http://arxiv.org/abs/2405.00542v1)|**[link](https://github.com/tinysqua/uwafa-gan)**|
@@ -158,8 +158,8 @@
 |**2024-05-07**|**Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos**|Junyi Ma et.al.|[2405.04370v1](http://arxiv.org/abs/2405.04370v1)|null|
 |**2024-05-07**|**Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation**|Jihyun Kim et.al.|[2405.04356v1](http://arxiv.org/abs/2405.04356v1)|null|
 |**2024-05-07**|**Study of Particle Acceleration using Fine Structures and Oscillations in Microwaves from Electron Cyclotron Maser**|Rohit Sharma et.al.|[2405.04351v1](http://arxiv.org/abs/2405.04351v1)|null|
-|**2024-05-07**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312v1](http://arxiv.org/abs/2405.04312v1)|**[link](https://github.com/thudm/inf-dit)**|
-|**2024-05-07**|**Alfvén waves at low Magnetic Reynolds number**|Samy Lalloz et.al.|[2405.04276v1](http://arxiv.org/abs/2405.04276v1)|null|
+|**2024-05-07**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312v2](http://arxiv.org/abs/2405.04312v2)|**[link](https://github.com/thudm/inf-dit)**|
+|**2024-05-07**|**Alfvén waves at low Magnetic Reynolds number**|Samy Lalloz et.al.|[2405.04276v2](http://arxiv.org/abs/2405.04276v2)|null|
 |**2024-05-07**|**BUDDy: Single-Channel Blind Unsupervised Dereverberation with Diffusion Models**|Eloi Moliner et.al.|[2405.04272v1](http://arxiv.org/abs/2405.04272v1)|null|
 |**2024-05-07**|**Dynamics of an epidemic model with nonlocal di?usion and a free boundary**|Lei Li et.al.|[2405.04268v1](http://arxiv.org/abs/2405.04268v1)|null|
 |**2024-05-07**|**LTLDoG: Satisfying Temporally-Extended Symbolic Constraints for Safe Diffusion-based Planning**|Zeyu Feng et.al.|[2405.04235v1](http://arxiv.org/abs/2405.04235v1)|**[link](https://github.com/clear-nus/ltldog)**|
@@ -173,7 +173,7 @@
 |**2024-05-07**|**Collapse of Neutrino Wave Functions under Penrose Gravitational Reduction**|B. J. P. Jones et.al.|[2405.03954v1](http://arxiv.org/abs/2405.03954v1)|null|
 |**2024-05-06**|**Stability of traveling waves in non-cooperative systems with nonlocal dispersal of equal diffusivities**|Jong-Shenq Guo et.al.|[2405.03909v1](http://arxiv.org/abs/2405.03909v1)|null|
 |**2024-05-06**|**MVDiff: Scalable and Flexible Multi-View Diffusion for 3D Object Reconstruction from Single-View**|Emmanuelle Bourigault et.al.|[2405.03894v1](http://arxiv.org/abs/2405.03894v1)|null|
-|**2024-05-06**|**Non-locality and Spillover Effects of Residential Flood Damage on Community Recovery: Insights from High-resolution Flood Claim and Mobility Data**|Junwei Ma et.al.|[2405.03874v1](http://arxiv.org/abs/2405.03874v1)|null|
+|**2024-05-06**|**Non-locality and Spillover Effects of Residential Flood Damage on Community Recovery: Insights from High-resolution Flood Claim and Mobility Data**|Junwei Ma et.al.|[2405.03874v2](http://arxiv.org/abs/2405.03874v2)|null|
 |**2024-05-06**|**Fractional Brownian motion with fluctuating diffusivities**|Adrian Pacheco-Pozo et.al.|[2405.03836v1](http://arxiv.org/abs/2405.03836v1)|null|
 |**2024-05-06**|**Statistical inference for a stochastic generalized logistic differential equation**|Fernando Baltazar-Larios et.al.|[2405.03815v1](http://arxiv.org/abs/2405.03815v1)|null|
 
@@ -185,7 +185,7 @@
 |**2024-05-07**|**Structured Click Control in Transformer-based Interactive Segmentation**|Long Xu et.al.|[2405.04009v1](http://arxiv.org/abs/2405.04009v1)|**[link](https://github.com/hahamyt/scc)**|
 |**2024-05-06**|**Trio-ViT: Post-Training Quantization and Acceleration for Softmax-Free Efficient Vision Transformer**|Huihong Shi et.al.|[2405.03882v1](http://arxiv.org/abs/2405.03882v1)|null|
 |**2024-05-06**|**Class-relevant Patch Embedding Selection for Few-Shot Image Classification**|Weihao Jiang et.al.|[2405.03722v1](http://arxiv.org/abs/2405.03722v1)|null|
-|**2024-05-02**|**Leafy Spurge Dataset: Real-world Weed Classification Within Aerial Drone Imagery**|Kyle Doherty et.al.|[2405.03702v1](http://arxiv.org/abs/2405.03702v1)|null|
+|**2024-05-02**|**Leafy Spurge Dataset: Real-world Weed Classification Within Aerial Drone Imagery**|Kyle Doherty et.al.|[2405.03702v2](http://arxiv.org/abs/2405.03702v2)|null|
 |**2024-05-06**|**Intra-task Mutual Attention based Vision Transformer for Few-Shot Learning**|Weihao Jiang et.al.|[2405.03109v1](http://arxiv.org/abs/2405.03109v1)|null|
 |**2024-05-06**|**Structure-Preserving Network Compression Via Low-Rank Induced Training Through Linear Layers Composition**|Xitong Zhang et.al.|[2405.03089v1](http://arxiv.org/abs/2405.03089v1)|null|
 |**2024-05-05**|**MR-Transformer: Vision Transformer for Total Knee Replacement Prediction Using Magnetic Resonance Imaging**|Chaojie Zhang et.al.|[2405.02784v1](http://arxiv.org/abs/2405.02784v1)|null|
@@ -216,7 +216,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-07**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416v1](http://arxiv.org/abs/2405.04416v1)|null|
+|**2024-05-07**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416v2](http://arxiv.org/abs/2405.04416v2)|null|
 |**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345v1](http://arxiv.org/abs/2405.04345v1)|null|
 |**2024-05-05**|**Blending Distributed NeRFs with Tri-stage Robust Pose Optimization**|Baijun Ye et.al.|[2405.02880v1](http://arxiv.org/abs/2405.02880v1)|null|
 |**2024-05-05**|**MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior**|Honghua Chen et.al.|[2405.02859v1](http://arxiv.org/abs/2405.02859v1)|null|
@@ -252,7 +252,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-07**|**CloudDiff: Super-resolution ensemble retrieval of cloud properties for all day using the generative diffusion model**|Haixia Xiao et.al.|[2405.04483v1](http://arxiv.org/abs/2405.04483v1)|null|
-|**2024-05-07**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312v1](http://arxiv.org/abs/2405.04312v1)|**[link](https://github.com/thudm/inf-dit)**|
+|**2024-05-07**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312v2](http://arxiv.org/abs/2405.04312v2)|**[link](https://github.com/thudm/inf-dit)**|
 |**2024-05-06**|**All-in-One Deep Learning Framework for MR Image Reconstruction**|Geunu Jeong et.al.|[2405.03684v1](http://arxiv.org/abs/2405.03684v1)|null|
 |**2024-05-05**|**DVMSR: Distillated Vision Mamba for Efficient Super-Resolution**|Xiaoyan Lei et.al.|[2405.03008v1](http://arxiv.org/abs/2405.03008v1)|**[link](https://github.com/nathan66666/dvmsr)**|
 |**2024-05-05**|**I$^3$Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis**|Haofei Song et.al.|[2405.02857v1](http://arxiv.org/abs/2405.02857v1)|null|
