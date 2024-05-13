@@ -1,4 +1,4 @@
-## Updated on 2024.05.12
+## Updated on 2024.05.13
 
 ## Image Generation
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2024-05-09**|**Frame Interpolation with Consecutive Brownian Bridge Diffusion**|Zonglin Lyu et.al.|[2405.05953v1](http://arxiv.org/abs/2405.05953v1)|null|
 |**2024-05-09**|**Could It Be Generated? Towards Practical Analysis of Memorization in Text-To-Image Diffusion Models**|Zhe Ma et.al.|[2405.05846v1](http://arxiv.org/abs/2405.05846v1)|null|
-|**2024-05-09**|**MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation**|Yuxiang Wei et.al.|[2405.05806v1](http://arxiv.org/abs/2405.05806v1)|**[link](https://github.com/csyxwei/masterweaver)**|
+|**2024-05-09**|**MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation**|Yuxiang Wei et.al.|[2405.05806v2](http://arxiv.org/abs/2405.05806v2)|**[link](https://github.com/csyxwei/masterweaver)**|
 |**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800v1](http://arxiv.org/abs/2405.05800v1)|null|
 |**2024-05-09**|**Exploring Text-Guided Single Image Editing for Remote Sensing Images**|Fangzhou Han et.al.|[2405.05769v1](http://arxiv.org/abs/2405.05769v1)|null|
 |**2024-05-09**|**End-to-End Generative Semantic Communication Powered by Shared Semantic Knowledge Base**|Shuling Li et.al.|[2405.05738v1](http://arxiv.org/abs/2405.05738v1)|null|
@@ -22,7 +22,7 @@
 |**2024-05-07**|**Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation**|Jihyun Kim et.al.|[2405.04356v1](http://arxiv.org/abs/2405.04356v1)|null|
 |**2024-05-07**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312v2](http://arxiv.org/abs/2405.04312v2)|**[link](https://github.com/thudm/inf-dit)**|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290v1](http://arxiv.org/abs/2405.04290v1)|null|
-|**2024-05-07**|**SEED-Data-Edit Technical Report: A Hybrid Dataset for Instructional Image Editing**|Yuying Ge et.al.|[2405.04007v1](http://arxiv.org/abs/2405.04007v1)|null|
+|**2024-05-07**|**SEED-Data-Edit Technical Report: A Hybrid Dataset for Instructional Image Editing**|Yuying Ge et.al.|[2405.04007v1](http://arxiv.org/abs/2405.04007v1)|**[link](https://github.com/ailab-cvc/seed-x)**|
 |**2024-05-07**|**Simple Drop-in LoRA Conditioning on Attention Layers Will Improve Your Diffusion Model**|Joo Young Choi et.al.|[2405.03958v1](http://arxiv.org/abs/2405.03958v1)|null|
 |**2024-05-06**|**CCDM: Continuous Conditional Diffusion Models for Image Generation**|Xin Ding et.al.|[2405.03546v1](http://arxiv.org/abs/2405.03546v1)|**[link](https://github.com/ubcdingxin/ccdm)**|
 |**2024-05-05**|**Data-Efficient Molecular Generation with Hierarchical Textual Inversion**|Seojin Kim et.al.|[2405.02845v1](http://arxiv.org/abs/2405.02845v1)|null|
@@ -98,7 +98,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-15**|**Den-SOFT: Dense Space-Oriented Light Field DataseT for 6-DOF Immersive Experience**|Xiaohang Yu et.al.|[2403.09973v1](http://arxiv.org/abs/2403.09973v1)|null|
-|**2024-03-02**|**Neural radiance fields-based holography [Invited]**|Minsung Kang et.al.|[2403.01137v1](http://arxiv.org/abs/2403.01137v1)|null|
+|**2024-03-02**|**Neural radiance fields-based holography [Invited]**|Minsung Kang et.al.|[2403.01137v2](http://arxiv.org/abs/2403.01137v2)|null|
 |**2023-11-14**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi et.al.|[2311.08129v1](http://arxiv.org/abs/2311.08129v1)|null|
 |**2023-09-04**|**ImmersiveNeRF: Hybrid Radiance Fields for Unbounded Immersive Light Field Reconstruction**|Xiaohang Yu et.al.|[2309.01374v1](http://arxiv.org/abs/2309.01374v1)|null|
 |**2023-07-06**|**RealLiFe: Real-Time Light Field Reconstruction via Hierarchical Sparse Gradient Descent**|Yijie Deng et.al.|[2307.03017v3](http://arxiv.org/abs/2307.03017v3)|null|
@@ -156,7 +156,7 @@
 |**2024-05-09**|**Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control**|Gunshi Gupta et.al.|[2405.05852v1](http://arxiv.org/abs/2405.05852v1)|**[link](https://github.com/ykarmesh/stable-control-representations)**|
 |**2024-05-09**|**Could It Be Generated? Towards Practical Analysis of Memorization in Text-To-Image Diffusion Models**|Zhe Ma et.al.|[2405.05846v1](http://arxiv.org/abs/2405.05846v1)|null|
 |**2024-05-09**|**MSDiff: Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction**|Pinhuang Tan et.al.|[2405.05814v1](http://arxiv.org/abs/2405.05814v1)|null|
-|**2024-05-09**|**MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation**|Yuxiang Wei et.al.|[2405.05806v1](http://arxiv.org/abs/2405.05806v1)|**[link](https://github.com/csyxwei/masterweaver)**|
+|**2024-05-09**|**MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation**|Yuxiang Wei et.al.|[2405.05806v2](http://arxiv.org/abs/2405.05806v2)|**[link](https://github.com/csyxwei/masterweaver)**|
 |**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800v1](http://arxiv.org/abs/2405.05800v1)|null|
 |**2024-05-09**|**Sequential Amodal Segmentation via Cumulative Occlusion Learning**|Jiayang Ao et.al.|[2405.05791v1](http://arxiv.org/abs/2405.05791v1)|null|
 |**2024-05-09**|**Exploring Text-Guided Single Image Editing for Remote Sensing Images**|Fangzhou Han et.al.|[2405.05769v1](http://arxiv.org/abs/2405.05769v1)|null|
@@ -169,7 +169,7 @@
 |**2024-05-09**|**AI in Your Toolbox: A Plugin for Generating Renderings from 3D Models**|Mingming Wang et.al.|[2405.05627v1](http://arxiv.org/abs/2405.05627v1)|null|
 |**2024-05-09**|**Elliptic and parabolic problems in thin domains with doubly weak oscillatory boundary**|José M. Arrieta et.al.|[2405.05607v1](http://arxiv.org/abs/2405.05607v1)|null|
 |**2024-05-09**|**Homogenization in 3D thin domains with oscillating boundaries of different orders**|José M. Arrieta et.al.|[2405.05599v1](http://arxiv.org/abs/2405.05599v1)|null|
-|**2024-05-09**|**Denoising Diffusion Delensing Delight: Reconstructing the Non-Gaussian CMB Lensing Potential with Diffusion Models**|Thomas Flöss et.al.|[2405.05598v1](http://arxiv.org/abs/2405.05598v1)|null|
+|**2024-05-09**|**Denoising Diffusion Delensing Delight: Reconstructing the Non-Gaussian CMB Lensing Potential with Diffusion Models**|Thomas Flöss et.al.|[2405.05598v1](http://arxiv.org/abs/2405.05598v1)|**[link](https://github.com/tsfloss/cmblensingdiffusion)**|
 |**2024-05-09**|**Vision-Language Modeling with Regularized Spatial Transformer Networks for All Weather Crosswind Landing of Aircraft**|Debabrata Pal et.al.|[2405.05574v1](http://arxiv.org/abs/2405.05574v1)|null|
 |**2024-05-09**|**Improved electrochemical performance of NASICON type Na$_{3}$V$_{2-x}$Co$_x$(PO$_{4}$)$_{3}$/C ($x=$ 0--0.15) cathode for high rate and stable sodium-ion batteries**|Simranjot K. Sapra et.al.|[2405.05559v1](http://arxiv.org/abs/2405.05559v1)|null|
 |**2024-05-09**|**Composition Rules for Strong Structural Controllability and Minimum Input Problem in Diffusively-Coupled Networks**|Nam-Jin Park et.al.|[2405.05557v1](http://arxiv.org/abs/2405.05557v1)|null|
@@ -217,7 +217,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800v1](http://arxiv.org/abs/2405.05800v1)|null|
-|**2024-05-09**|**NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749v1](http://arxiv.org/abs/2405.05749v1)|null|
+|**2024-05-09**|**NeRFFaceSpeech: One-shot Audio-driven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749v2](http://arxiv.org/abs/2405.05749v2)|null|
 |**2024-05-09**|**RPBG: Towards Robust Neural Point-based Graphics in the Wild**|Qingtian Zhu et.al.|[2405.05663v1](http://arxiv.org/abs/2405.05663v1)|null|
 |**2024-05-09**|**Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview**|Yuhang Ming et.al.|[2405.05526v1](http://arxiv.org/abs/2405.05526v1)|null|
 |**2024-05-08**|**${M^2D}$NeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields**|Ning Wang et.al.|[2405.05010v1](http://arxiv.org/abs/2405.05010v1)|null|
