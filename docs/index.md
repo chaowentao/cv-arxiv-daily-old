@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.05.16
+## Updated on 2024.05.17
 
 ## Image Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-15**|**Global-Local Image Perceptual Score (GLIPS): Evaluating Photorealistic Quality of AI-Generated Images**|Memoona Aziz et.al.|[2405.09426v1](http://arxiv.org/abs/2405.09426v1)|null|
+|**2024-05-15**|**Global-Local Image Perceptual Score (GLIPS): Evaluating Photorealistic Quality of AI-Generated Images**|Memoona Aziz et.al.|[2405.09426v2](http://arxiv.org/abs/2405.09426v2)|null|
 |**2024-05-15**|**DeCoDEx: Confounder Detector Guidance for Improved Diffusion-based Counterfactual Explanations**|Nima Fathi et.al.|[2405.09288v1](http://arxiv.org/abs/2405.09288v1)|**[link](https://github.com/nimafathi/decodex)**|
 |**2024-05-14**|**Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**|Zhimin Li et.al.|[2405.08748v1](http://arxiv.org/abs/2405.08748v1)|**[link](https://github.com/tencent/hunyuandit)**|
 |**2024-05-14**|**Compositional Text-to-Image Generation with Dense Blob Representations**|Weili Nie et.al.|[2405.08246v1](http://arxiv.org/abs/2405.08246v1)|null|
@@ -150,7 +150,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-15**|**MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer**|Chengyu Wu et.al.|[2405.09539v1](http://arxiv.org/abs/2405.09539v1)|**[link](https://github.com/wuchengyu123/mmfusion)**|
+|**2024-05-15**|**MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer**|Chengyu Wu et.al.|[2405.09539v2](http://arxiv.org/abs/2405.09539v2)|**[link](https://github.com/wuchengyu123/mmfusion)**|
 |**2024-05-15**|**A velocity-based moving mesh Discontinuous Galerkin method for the advection-diffusion equation**|Ezra Rozier et.al.|[2405.09408v1](http://arxiv.org/abs/2405.09408v1)|null|
 |**2024-05-15**|**Probing particle acceleration in Abell 2256: from to 16 MHz to gamma rays**|E. Osinga et.al.|[2405.09384v1](http://arxiv.org/abs/2405.09384v1)|null|
 |**2024-05-15**|**Diffusion-based Contrastive Learning for Sequential Recommendation**|Ziqiang Cui et.al.|[2405.09369v1](http://arxiv.org/abs/2405.09369v1)|null|
@@ -294,7 +294,7 @@ layout: default
 |**2024-05-14**|**The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition**|Lingdong Kong et.al.|[2405.08816v1](http://arxiv.org/abs/2405.08816v1)|null|
 |**2024-05-14**|**EndoDAC: Efficient Adapting Foundation Model for Self-Supervised Depth Estimation from Any Endoscopic Camera**|Beilei Cui et.al.|[2405.08672v1](http://arxiv.org/abs/2405.08672v1)|**[link](https://github.com/beileicui/endodac)**|
 |**2024-05-13**|**SceneFactory: A Workflow-centric and Unified Framework for Incremental Scene Modeling**|Yijun Yuan et.al.|[2405.07847v1](http://arxiv.org/abs/2405.07847v1)|null|
-|**2024-05-10**|**Ensuring UAV Safety: A Vision-only and Real-time Framework for Collision Avoidance Through Object Detection, Tracking, and Distance Estimation**|Vasileios Karampinis et.al.|[2405.06749v1](http://arxiv.org/abs/2405.06749v1)|null|
+|**2024-05-10**|**Ensuring UAV Safety: A Vision-only and Real-time Framework for Collision Avoidance Through Object Detection, Tracking, and Distance Estimation**|Vasileios Karampinis et.al.|[2405.06749v2](http://arxiv.org/abs/2405.06749v2)|null|
 |**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241v1](http://arxiv.org/abs/2405.06241v1)|null|
 |**2024-04-30**|**A critical appraisal of water table depth estimation: Challenges and opportunities within machine learning**|Joseph Janssen et.al.|[2405.04579v1](http://arxiv.org/abs/2405.04579v1)|null|
 |**2024-05-06**|**A Construct-Optimize Approach to Sparse View Synthesis without Camera Pose**|Kaiwen Jiang et.al.|[2405.03659v1](http://arxiv.org/abs/2405.03659v1)|null|
