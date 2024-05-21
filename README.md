@@ -1,4 +1,4 @@
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 
 ## Image Generation
 
@@ -159,7 +159,7 @@
 |**2024-05-17**|**LoCI-DiffCom: Longitudinal Consistency-Informed Diffusion Model for 3D Infant Brain Image Completion**|Zihao Zhu et.al.|[2405.10691v1](http://arxiv.org/abs/2405.10691v1)|null|
 |**2024-05-17**|**Proportional scintillation in liquid xenon: demonstration in a single-phase liquid-only time projection chamber**|Florian Tönnies et.al.|[2405.10687v1](http://arxiv.org/abs/2405.10687v1)|null|
 |**2024-05-17**|**Recovery of Sparse Graph Signals**|Gal Morgenstern et.al.|[2405.10649v1](http://arxiv.org/abs/2405.10649v1)|null|
-|**2024-05-17**|**A \emph{$Γ$}-convergence of level-two large deviation for metastable systems: The case of zero-range processes**|Kyuhyeon Choi et.al.|[2405.10631v1](http://arxiv.org/abs/2405.10631v1)|null|
+|**2024-05-17**|**A $Γ$-convergence of level-two large deviation for metastable systems: The case of zero-range processes**|Kyuhyeon Choi et.al.|[2405.10631v2](http://arxiv.org/abs/2405.10631v2)|null|
 |**2024-05-17**|**LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion**|Tong Chen et.al.|[2405.10550v1](http://arxiv.org/abs/2405.10550v1)|**[link](https://github.com/davismeee/lightdiff)**|
 |**2024-05-17**|**The Impact of Positive AGN Feedback on the Properties of Galaxies in a Semi-Analytic Model of Galaxy Formation**|Emanuele Contini et.al.|[2405.10544v1](http://arxiv.org/abs/2405.10544v1)|null|
 |**2024-05-17**|**ART3D: 3D Gaussian Splatting for Text-Guided Artistic Scenes Generation**|Pengzhi Li et.al.|[2405.10508v1](http://arxiv.org/abs/2405.10508v1)|null|
@@ -268,7 +268,7 @@
 |**2024-05-11**|**Super-Resolving Blurry Images with Events**|Chi Zhang et.al.|[2405.06918v1](http://arxiv.org/abs/2405.06918v1)|null|
 |**2024-05-10**|**Machine learning for reconstruction of polarity inversion lines from solar filaments**|V. Kisielius et.al.|[2405.06293v1](http://arxiv.org/abs/2405.06293v1)|**[link](https://github.com/observethesun/PIL)**|
 |**2024-05-07**|**Single-antenna super-resolution positioning with nonseparable toroidal pulses**|Ren Wang et.al.|[2405.05979v2](http://arxiv.org/abs/2405.05979v2)|null|
-|**2024-05-09**|**Diag2Diag: Multi modal super resolution for physics discovery with application to fusion**|Azarakhsh Jalalvand et.al.|[2405.05908v1](http://arxiv.org/abs/2405.05908v1)|null|
+|**2024-05-09**|**Diag2Diag: Multimodal super-resolution diagnostics for physics discovery with application to fusion**|Azarakhsh Jalalvand et.al.|[2405.05908v2](http://arxiv.org/abs/2405.05908v2)|null|
 |**2024-05-09**|**Multi-Level Feature Fusion Network for Lightweight Stereo Image Super-Resolution**|Yunxiang Li et.al.|[2405.05497v1](http://arxiv.org/abs/2405.05497v1)|null|
 |**2024-05-08**|**HMANet: Hybrid Multi-Axis Aggregation Network for Image Super-Resolution**|Shu-Chuan Chu et.al.|[2405.05001v1](http://arxiv.org/abs/2405.05001v1)|**[link](https://github.com/korouuuuu/hma)**|
 |**2024-05-08**|**Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**|Yi Xiao et.al.|[2405.04964v1](http://arxiv.org/abs/2405.04964v1)|null|
