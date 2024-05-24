@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.23
+## Updated on 2024.05.24
 
 ## Image Generation
 
@@ -186,7 +186,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-17**|**Enhancing the analysis of murine neonatal ultrasonic vocalizations: Development, evaluation, and application of different mathematical models**|Rudolf Herdt et.al.|[2405.12957v1](http://arxiv.org/abs/2405.12957v1)|null|
-|**2024-05-19**|**A Method on Searching Better Activation Functions**|Haoyuan Sun et.al.|[2405.12954v1](http://arxiv.org/abs/2405.12954v1)|null|
+|**2024-05-19**|**A Method on Searching Better Activation Functions**|Haoyuan Sun et.al.|[2405.12954v2](http://arxiv.org/abs/2405.12954v2)|null|
 |**2024-05-21**|**On a time-frequency blurring operator with applications in data augmentation**|Simon Halvdansson et.al.|[2405.12899v1](http://arxiv.org/abs/2405.12899v1)|null|
 |**2024-05-21**|**BIMM: Brain Inspired Masked Modeling for Video Representation Learning**|Zhifan Wan et.al.|[2405.12757v1](http://arxiv.org/abs/2405.12757v1)|null|
 |**2024-05-21**|**Is Dataset Quality Still a Concern in Diagnosis Using Large Foundation Model?**|Ziqin Lin et.al.|[2405.12584v1](http://arxiv.org/abs/2405.12584v1)|null|
@@ -194,7 +194,7 @@ layout: default
 |**2024-05-17**|**Not All Prompts Are Secure: A Switchable Backdoor Attack Against Pre-trained Vision Transformers**|Sheng Yang et.al.|[2405.10612v1](http://arxiv.org/abs/2405.10612v1)|**[link](https://github.com/20000yshust/swarm)**|
 |**2024-05-16**|**Vision Transformers for End-to-End Vision-Based Quadrotor Obstacle Avoidance**|Anish Bhattacharya et.al.|[2405.10391v1](http://arxiv.org/abs/2405.10391v1)|null|
 |**2024-05-16**|**Quantum Vision Transformers for Quark-Gluon Classification**|Marçal Comajoan Cara et.al.|[2405.10284v1](http://arxiv.org/abs/2405.10284v1)|**[link](https://github.com/salcc/QuantumTransformers)**|
-|**2024-05-16**|**LaT-PFN: A Joint Embedding Predictive Architecture for In-context Time-series Forecasting**|Stijn Verdenius et.al.|[2405.10093v1](http://arxiv.org/abs/2405.10093v1)|null|
+|**2024-05-16**|**LaT-PFN: A Joint Embedding Predictive Architecture for In-context Time-series Forecasting**|Stijn Verdenius et.al.|[2405.10093v2](http://arxiv.org/abs/2405.10093v2)|null|
 |**2024-05-16**|**Histopathology Foundation Models Enable Accurate Ovarian Cancer Subtype Classification**|Jack Breen et.al.|[2405.09990v1](http://arxiv.org/abs/2405.09990v1)|**[link](https://github.com/scjjb/ovarian_features)**|
 |**2024-05-16**|**LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation**|Wentao Jiang et.al.|[2405.09789v1](http://arxiv.org/abs/2405.09789v1)|**[link](https://github.com/vitae-transformer/lemevit)**|
 |**2024-05-15**|**CaloDREAM -- Detector Response Emulation via Attentive flow Matching**|Luigi Favaro et.al.|[2405.09629v2](http://arxiv.org/abs/2405.09629v2)|null|
@@ -325,7 +325,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-20**|**AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field**|Rong Liu et.al.|[2405.12369v1](http://arxiv.org/abs/2405.12369v1)|null|
+|**2024-05-20**|**AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field**|Rong Liu et.al.|[2405.12369v2](http://arxiv.org/abs/2405.12369v2)|null|
 |**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218v1](http://arxiv.org/abs/2405.12218v1)|null|
 |**2024-05-20**|**CoR-GS: Sparse-View 3D Gaussian Splatting via Co-Regularization**|Jiawei Zhang et.al.|[2405.12110v1](http://arxiv.org/abs/2405.12110v1)|null|
 |**2024-05-20**|**MirrorGaussian: Reflecting 3D Gaussians for Reconstructing Mirror Reflections**|Jiayue Liu et.al.|[2405.11921v1](http://arxiv.org/abs/2405.11921v1)|null|
