@@ -194,7 +194,7 @@ layout: default
 |**2024-05-17**|**Not All Prompts Are Secure: A Switchable Backdoor Attack Against Pre-trained Vision Transformers**|Sheng Yang et.al.|[2405.10612v1](http://arxiv.org/abs/2405.10612v1)|**[link](https://github.com/20000yshust/swarm)**|
 |**2024-05-16**|**Vision Transformers for End-to-End Vision-Based Quadrotor Obstacle Avoidance**|Anish Bhattacharya et.al.|[2405.10391v1](http://arxiv.org/abs/2405.10391v1)|null|
 |**2024-05-16**|**Quantum Vision Transformers for Quark-Gluon Classification**|Marçal Comajoan Cara et.al.|[2405.10284v1](http://arxiv.org/abs/2405.10284v1)|**[link](https://github.com/salcc/QuantumTransformers)**|
-|**2024-05-16**|**LaT-PFN: A Joint Embedding Predictive Architecture for In-context Time-series Forecasting**|Stijn Verdenius et.al.|[2405.10093v2](http://arxiv.org/abs/2405.10093v2)|null|
+|**2024-05-16**|**LaT-PFN: A Joint Embedding Predictive Architecture for In-context Time-series Forecasting**|Stijn Verdenius et.al.|[2405.10093v2](http://arxiv.org/abs/2405.10093v2)|**[link](https://github.com/stijnverdenius/lat-pfn)**|
 |**2024-05-16**|**Histopathology Foundation Models Enable Accurate Ovarian Cancer Subtype Classification**|Jack Breen et.al.|[2405.09990v1](http://arxiv.org/abs/2405.09990v1)|**[link](https://github.com/scjjb/ovarian_features)**|
 |**2024-05-16**|**LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation**|Wentao Jiang et.al.|[2405.09789v1](http://arxiv.org/abs/2405.09789v1)|**[link](https://github.com/vitae-transformer/lemevit)**|
 |**2024-05-15**|**CaloDREAM -- Detector Response Emulation via Attentive flow Matching**|Luigi Favaro et.al.|[2405.09629v2](http://arxiv.org/abs/2405.09629v2)|null|
@@ -208,7 +208,7 @@ layout: default
 |**2024-05-12**|**BoQ: A Place is Worth a Bag of Learnable Queries**|Amar Ali-bey et.al.|[2405.07364v1](http://arxiv.org/abs/2405.07364v1)|**[link](https://github.com/amaralibey/bag-of-queries)**|
 |**2024-05-10**|**Dual-Task Vision Transformer for Rapid and Accurate Intracerebral Hemorrhage Classification on CT Images**|Jialiang Fan et.al.|[2405.06814v1](http://arxiv.org/abs/2405.06814v1)|**[link](https://github.com/Jialiangfan/ICH-classification)**|
 |**2024-05-09**|**UnSegGNet: Unsupervised Image Segmentation using Graph Neural Networks**|Kovvuri Sai Gopal Reddy et.al.|[2405.06057v1](http://arxiv.org/abs/2405.06057v1)|**[link](https://github.com/ksgr5566/unseggnet)**|
-|**2024-05-09**|**TransAnaNet: Transformer-based Anatomy Change Prediction Network for Head and Neck Cancer Patient Radiotherapy**|Meixu Chen et.al.|[2405.05674v1](http://arxiv.org/abs/2405.05674v1)|null|
+|**2024-05-09**|**TransAnaNet: Transformer-based Anatomy Change Prediction Network for Head and Neck Cancer Patient Radiotherapy**|Meixu Chen et.al.|[2405.05674v2](http://arxiv.org/abs/2405.05674v2)|null|
 |**2024-05-08**|**Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches**|Qing Yu et.al.|[2405.04771v1](http://arxiv.org/abs/2405.04771v1)|null|
 |**2024-05-07**|**The Dark Side of Dataset Scaling: Evaluating Racial Classification in Multimodal Models**|Abeba Birhane et.al.|[2405.04623v1](http://arxiv.org/abs/2405.04623v1)|**[link](https://github.com/SepehrDehdashtian/the-dark-side-of-dataset-scaling)**|
 |**2024-05-07**|**An Advanced Features Extraction Module for Remote Sensing Image Super-Resolution**|Naveed Sultan et.al.|[2405.04595v1](http://arxiv.org/abs/2405.04595v1)|null|
@@ -267,7 +267,7 @@ layout: default
 |**2024-05-15**|**Low-Complexity Joint Azimuth-Range-Velocity Estimation for Integrated Sensing and Communication with OFDM Waveform**|Jun Zhang et.al.|[2405.09443v1](http://arxiv.org/abs/2405.09443v1)|null|
 |**2024-05-15**|**Large coordinate kernel attention network for lightweight image super-resolution**|Fangwei Hao et.al.|[2405.09353v1](http://arxiv.org/abs/2405.09353v1)|null|
 |**2024-05-14**|**NAFRSSR: a Lightweight Recursive Network for Efficient Stereo Image Super-Resolution**|Yihong Chen et.al.|[2405.08423v1](http://arxiv.org/abs/2405.08423v1)|null|
-|**2024-05-13**|**Exploring the Low-Pass Filtering Behavior in Image Super-Resolution**|Haoyu Deng et.al.|[2405.07919v2](http://arxiv.org/abs/2405.07919v2)|null|
+|**2024-05-13**|**Exploring the Low-Pass Filtering Behavior in Image Super-Resolution**|Haoyu Deng et.al.|[2405.07919v3](http://arxiv.org/abs/2405.07919v3)|null|
 |**2024-05-13**|**CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2405.07648v1](http://arxiv.org/abs/2405.07648v1)|**[link](https://github.com/i2-multimedia-lab/cdformer)**|
 |**2024-05-11**|**Semantic Guided Large Scale Factor Remote Sensing Image Super-resolution with Generative Diffusion Prior**|Ce Wang et.al.|[2405.07044v1](http://arxiv.org/abs/2405.07044v1)|**[link](https://github.com/wwangcece/sgdm)**|
 |**2024-05-11**|**Efficient Real-world Image Super-Resolution Via Adaptive Directional Gradient Convolution**|Long Peng et.al.|[2405.07023v1](http://arxiv.org/abs/2405.07023v1)|null|
@@ -312,7 +312,7 @@ layout: default
 |**2024-05-01**|**Depth Priors in Removal Neural Radiance Fields**|Zhihao Guo et.al.|[2405.00630v2](http://arxiv.org/abs/2405.00630v2)|null|
 |**2024-04-30**|**Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting**|Paul Engstler et.al.|[2404.19758v1](http://arxiv.org/abs/2404.19758v1)|null|
 |**2024-04-30**|**Masked Spatial Propagation Network for Sparsity-Adaptive Depth Refinement**|Jinyoung Jun et.al.|[2404.19294v1](http://arxiv.org/abs/2404.19294v1)|**[link](https://github.com/jyjunmcl/mspn_sdr)**|
-|**2024-04-29**|**Simple-RF: Regularizing Sparse Input Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2404.19015v1](http://arxiv.org/abs/2404.19015v1)|null|
+|**2024-04-29**|**Simple-RF: Regularizing Sparse Input Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2404.19015v2](http://arxiv.org/abs/2404.19015v2)|null|
 |**2024-04-27**|**Underwater Variable Zoom: Depth-Guided Perception Network for Underwater Image Enhancement**|Zhixiong Huang et.al.|[2404.17883v2](http://arxiv.org/abs/2404.17883v2)|**[link](https://github.com/windysprint/uvz)**|
 |**2024-04-26**|**A Novel Spike Transformer Network for Depth Estimation from Event Cameras via Cross-modality Knowledge Distillation**|Xin Zhang et.al.|[2404.17335v2](http://arxiv.org/abs/2404.17335v2)|null|
 |**2024-04-25**|**The Third Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2404.16831v2](http://arxiv.org/abs/2404.16831v2)|null|
@@ -343,7 +343,7 @@ layout: default
 |**2024-05-01**|**LidaRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900v2](http://arxiv.org/abs/2405.00900v2)|null|
 |**2024-04-30**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706v3](http://arxiv.org/abs/2404.19706v3)|null|
 |**2024-04-29**|**SAGS: Structure-Aware 3D Gaussian Splatting**|Evangelos Ververas et.al.|[2404.19149v1](http://arxiv.org/abs/2404.19149v1)|null|
-|**2024-04-29**|**Simple-RF: Regularizing Sparse Input Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2404.19015v1](http://arxiv.org/abs/2404.19015v1)|null|
+|**2024-04-29**|**Simple-RF: Regularizing Sparse Input Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2404.19015v2](http://arxiv.org/abs/2404.19015v2)|null|
 |**2024-04-29**|**3D Gaussian Splatting with Deferred Reflection**|Keyang Ye et.al.|[2404.18454v1](http://arxiv.org/abs/2404.18454v1)|null|
 |**2024-04-29**|**$ν$-DBA: Neural Implicit Dense Bundle Adjustment Enables Image-Only Driving Scene Reconstruction**|Yunxuan Mao et.al.|[2404.18439v1](http://arxiv.org/abs/2404.18439v1)|null|
 |**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429v1](http://arxiv.org/abs/2404.16429v1)|null|
