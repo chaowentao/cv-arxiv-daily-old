@@ -1,4 +1,4 @@
-## Updated on 2024.05.27
+## Updated on 2024.05.28
 
 ## Image Generation
 
@@ -149,7 +149,7 @@
 |**2024-05-24**|**Self-consistent evaluation of proximity and inverse proximity effects with pair-breaking in diffusive SN junctions**|Arpit Raj et.al.|[2405.15770v1](http://arxiv.org/abs/2405.15770v1)|null|
 |**2024-05-24**|**FastDrag: Manipulate Anything in One Step**|Xuanjia Zhao et.al.|[2405.15769v1](http://arxiv.org/abs/2405.15769v1)|null|
 |**2024-05-24**|**InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation**|Yuchi Wang et.al.|[2405.15758v1](http://arxiv.org/abs/2405.15758v1)|**[link](https://github.com/wangyuchi369/InstructAvatar)**|
-|**2024-05-24**|**Looking Backward: Streaming Video-to-Video Translation with Feature Banks**|Feng Liang et.al.|[2405.15757v1](http://arxiv.org/abs/2405.15757v1)|null|
+|**2024-05-24**|**Looking Backward: Streaming Video-to-Video Translation with Feature Banks**|Feng Liang et.al.|[2405.15757v1](http://arxiv.org/abs/2405.15757v1)|**[link](https://github.com/Jeff-LiangF/streamv2v)**|
 |**2024-05-24**|**Score-based generative models are provably robust: an uncertainty quantification perspective**|Nikiforos Mimikos-Stamatopoulos et.al.|[2405.15754v1](http://arxiv.org/abs/2405.15754v1)|null|
 |**2024-05-24**|**Murray-von Neumann dimension for strictly semifinite weights**|Aldo Garcia Guinto et.al.|[2405.15725v1](http://arxiv.org/abs/2405.15725v1)|null|
 |**2024-05-24**|**Hierarchical Uncertainty Exploration via Feedforward Posterior Trees**|Elias Nehme et.al.|[2405.15719v1](http://arxiv.org/abs/2405.15719v1)|null|
