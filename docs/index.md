@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 
 ## Image Generation
 
@@ -19,7 +19,7 @@ layout: default
 |**2024-05-27**|**Training-free Editioning of Text-to-Image Models**|Jinqi Wang et.al.|[2405.17069v1](http://arxiv.org/abs/2405.17069v1)|null|
 |**2024-05-27**|**The Poisson Midpoint Method for Langevin Dynamics: Provably Efficient Discretization for Diffusion Models**|Saravanan Kandasamy et.al.|[2405.17068v1](http://arxiv.org/abs/2405.17068v1)|null|
 |**2024-05-27**|**Glauber Generative Model: Discrete Diffusion Models via Binary Classification**|Harshit Varma et.al.|[2405.17035v1](http://arxiv.org/abs/2405.17035v1)|null|
-|**2024-05-27**|**Blind Data Adaptation to tackle Covariate Shift in Operational Steganalysis**|Rony Abecidan et.al.|[2405.16961v1](http://arxiv.org/abs/2405.16961v1)|null|
+|**2024-05-27**|**Blind Data Adaptation to tackle Covariate Shift in Operational Steganalysis**|Rony Abecidan et.al.|[2405.16961v2](http://arxiv.org/abs/2405.16961v2)|null|
 |**2024-05-27**|**Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation**|Liang Shi et.al.|[2405.16895v1](http://arxiv.org/abs/2405.16895v1)|null|
 |**2024-05-27**|**Think Before You Act: A Two-Stage Framework for Mitigating Gender Bias Towards Vision-Language Tasks**|Yunqi Zhang et.al.|[2405.16860v1](http://arxiv.org/abs/2405.16860v1)|**[link](https://github.com/zyq0000/gama)**|
 |**2024-05-27**|**Unified Editing of Panorama, 3D Scenes, and Videos Through Disentangled Self-Attention Injection**|Gihyun Kwon et.al.|[2405.16823v1](http://arxiv.org/abs/2405.16823v1)|null|
@@ -36,7 +36,7 @@ layout: default
 |**2024-05-24**|**Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation**|Shentong Mo et.al.|[2405.15881v1](http://arxiv.org/abs/2405.15881v1)|null|
 |**2024-05-24**|**FastDrag: Manipulate Anything in One Step**|Xuanjia Zhao et.al.|[2405.15769v1](http://arxiv.org/abs/2405.15769v1)|null|
 |**2024-05-24**|**A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence**|Ali Kashefi et.al.|[2405.15406v1](http://arxiv.org/abs/2405.15406v1)|null|
-|**2024-05-24**|**Stochastic SR for Gaussian microtextures**|Emile Pierret et.al.|[2405.15399v1](http://arxiv.org/abs/2405.15399v1)|null|
+|**2024-05-24**|**Stochastic super-resolution for Gaussian microtextures**|Emile Pierret et.al.|[2405.15399v2](http://arxiv.org/abs/2405.15399v2)|null|
 |**2024-05-24**|**Challenges and Opportunities in 3D Content Generation**|Ke Zhao et.al.|[2405.15335v1](http://arxiv.org/abs/2405.15335v1)|null|
 
 ## Light Field Super Resolution
@@ -163,7 +163,7 @@ layout: default
 |**2024-05-28**|**Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning**|Vitalis Vosylius et.al.|[2405.18196v1](http://arxiv.org/abs/2405.18196v1)|null|
 |**2024-05-28**|**VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation**|Qilin Wang et.al.|[2405.18156v1](http://arxiv.org/abs/2405.18156v1)|null|
 |**2024-05-28**|**EG4D: Explicit Generation of 4D Object without Score Distillation**|Qi Sun et.al.|[2405.18132v1](http://arxiv.org/abs/2405.18132v1)|null|
-|**2024-05-28**|**Coupling Analysis of the Asymptotic Behaviour of a Primal-Dual Langevin Algorithm**|Martin Burger et.al.|[2405.18098v1](http://arxiv.org/abs/2405.18098v1)|null|
+|**2024-05-28**|**Coupling Analysis of the Asymptotic Behaviour of a Primal-Dual Langevin Algorithm**|Martin Burger et.al.|[2405.18098v2](http://arxiv.org/abs/2405.18098v2)|null|
 |**2024-05-28**|**Network Diffusion -- Framework to Simulate Spreading Processes in Complex Networks**|Michał Czuba et.al.|[2405.18085v1](http://arxiv.org/abs/2405.18085v1)|null|
 |**2024-05-28**|**Text Modality Oriented Image Feature Extraction for Detecting Diffusion-based DeepFake**|Di Yang et.al.|[2405.18071v1](http://arxiv.org/abs/2405.18071v1)|null|
 |**2024-05-28**|**Rank-Refining Seed Selection Methods for Budget Constrained Influence Maximisation in Multilayer Networks under Linear Threshold Model**|Michał Czuba et.al.|[2405.18059v1](http://arxiv.org/abs/2405.18059v1)|null|
@@ -185,7 +185,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-28**|**ViG: Linear-complexity Visual Sequence Learning with Gated Linear Attention**|Bencheng Liao et.al.|[2405.18425v1](http://arxiv.org/abs/2405.18425v1)|**[link](https://github.com/hustvl/vig)**|
+|**2024-05-28**|**ViG: Linear-complexity Visual Sequence Learning with Gated Linear Attention**|Bencheng Liao et.al.|[2405.18425v2](http://arxiv.org/abs/2405.18425v2)|**[link](https://github.com/hustvl/vig)**|
 |**2024-05-28**|**MSPE: Multi-Scale Patch Embedding Prompts Vision Transformers to Any Resolution**|Wenzhuo Liu et.al.|[2405.18240v1](http://arxiv.org/abs/2405.18240v1)|null|
 |**2024-05-28**|**An Empirical Analysis of Forgetting in Pre-trained Models with Incremental Low-Rank Updates**|Albin Soutif--Cormerais et.al.|[2405.18069v1](http://arxiv.org/abs/2405.18069v1)|null|
 |**2024-05-28**|**Visualizing the loss landscape of Self-supervised Vision Transformer**|Youngwan Lee et.al.|[2405.18042v1](http://arxiv.org/abs/2405.18042v1)|null|
@@ -222,10 +222,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[2405.17942v1](http://arxiv.org/abs/2405.17942v1)|null|
 |**2024-05-28**|**A Refined 3D Gaussian Representation for High-Quality Dynamic Scene Reconstruction**|Bin Zhang et.al.|[2405.17891v1](http://arxiv.org/abs/2405.17891v1)|null|
-|**2024-05-28**|**HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction**|Haoyu Zhao et.al.|[2405.17872v1](http://arxiv.org/abs/2405.17872v1)|null|
+|**2024-05-28**|**HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction**|Haoyu Zhao et.al.|[2405.17872v2](http://arxiv.org/abs/2405.17872v2)|null|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811v1](http://arxiv.org/abs/2405.17811v1)|null|
 |**2024-05-27**|**F-3DGS: Factorized Coordinates and Representations for 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2405.17083v2](http://arxiv.org/abs/2405.17083v2)|null|
-|**2024-05-27**|**PyGS: Large-scale Scene Representation with Pyramidal 3D Gaussian Splatting**|Zipeng Wang et.al.|[2405.16829v2](http://arxiv.org/abs/2405.16829v2)|null|
+|**2024-05-27**|**PyGS: Large-scale Scene Representation with Pyramidal 3D Gaussian Splatting**|Zipeng Wang et.al.|[2405.16829v3](http://arxiv.org/abs/2405.16829v3)|null|
 |**2024-05-26**|**Sp2360: Sparse-view 360 Scene Reconstruction using Cascaded 2D Diffusion Priors**|Soumava Paul et.al.|[2405.16517v1](http://arxiv.org/abs/2405.16517v1)|null|
 |**2024-05-24**|**Neural Elevation Models for Terrain Mapping and Path Planning**|Adam Dai et.al.|[2405.15227v1](http://arxiv.org/abs/2405.15227v1)|null|
 |**2024-05-24**|**HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting**|Yuanhao Cai et.al.|[2405.15125v2](http://arxiv.org/abs/2405.15125v2)|**[link](https://github.com/caiyuanhao1998/hdr-gs)**|
@@ -264,7 +264,7 @@ layout: default
 |**2024-05-26**|**Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models**|Regev Cohen et.al.|[2405.16475v1](http://arxiv.org/abs/2405.16475v1)|null|
 |**2024-05-25**|**BOLD: Boolean Logic Deep Learning**|Van Minh Nguyen et.al.|[2405.16339v1](http://arxiv.org/abs/2405.16339v1)|null|
 |**2024-05-24**|**Visible-frequency hyperbolic plasmon polaritons in a natural van der Waals crystal**|Giacomo Venturi et.al.|[2405.15420v1](http://arxiv.org/abs/2405.15420v1)|null|
-|**2024-05-24**|**Stochastic SR for Gaussian microtextures**|Emile Pierret et.al.|[2405.15399v1](http://arxiv.org/abs/2405.15399v1)|null|
+|**2024-05-24**|**Stochastic super-resolution for Gaussian microtextures**|Emile Pierret et.al.|[2405.15399v2](http://arxiv.org/abs/2405.15399v2)|null|
 |**2024-05-24**|**Blaze3DM: Marry Triplane Representation with Diffusion for 3D Medical Inverse Problem Solving**|Jia He et.al.|[2405.15241v1](http://arxiv.org/abs/2405.15241v1)|null|
 |**2024-05-23**|**Universal Robustness via Median Randomized Smoothing for Real-World Super-Resolution**|Zakariya Chaouai et.al.|[2405.14934v1](http://arxiv.org/abs/2405.14934v1)|null|
 |**2024-05-23**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802v2](http://arxiv.org/abs/2405.14802v2)|**[link](https://github.com/mirthai/fast-ddpm)**|
@@ -331,7 +331,7 @@ layout: default
 |**2024-05-28**|**A Refined 3D Gaussian Representation for High-Quality Dynamic Scene Reconstruction**|Bin Zhang et.al.|[2405.17891v1](http://arxiv.org/abs/2405.17891v1)|null|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811v1](http://arxiv.org/abs/2405.17811v1)|null|
 |**2024-05-28**|**SafeguardGS: 3D Gaussian Primitive Pruning While Avoiding Catastrophic Scene Destruction**|Yongjae Lee et.al.|[2405.17793v1](http://arxiv.org/abs/2405.17793v1)|null|
-|**2024-05-27**|**DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos**|Linhan Wang et.al.|[2405.17705v1](http://arxiv.org/abs/2405.17705v1)|null|
+|**2024-05-27**|**DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos**|Linhan Wang et.al.|[2405.17705v2](http://arxiv.org/abs/2405.17705v2)|null|
 |**2024-05-27**|**DOF-GS: Adjustable Depth-of-Field 3D Gaussian Splatting for Refocusing,Defocus Rendering and Blur Removal**|Yujie Wang et.al.|[2405.17351v1](http://arxiv.org/abs/2405.17351v1)|null|
 |**2024-05-27**|**GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping**|Junyoung Seo et.al.|[2405.17251v1](http://arxiv.org/abs/2405.17251v1)|null|
 |**2024-05-24**|**Feature Splatting for Better Novel View Synthesis with Low Overlap**|T. Berriel Martins et.al.|[2405.15518v1](http://arxiv.org/abs/2405.15518v1)|null|
