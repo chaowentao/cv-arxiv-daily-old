@@ -1,4 +1,4 @@
-## Updated on 2024.06.04
+## Updated on 2024.06.05
 
 ## Image Generation
 
@@ -264,7 +264,7 @@
 |**2024-05-27**|**Does Diffusion Beat GAN in Image Super Resolution?**|Denis Kuznedelev et.al.|[2405.17261v1](http://arxiv.org/abs/2405.17261v1)|**[link](https://github.com/yandex-research/gan_vs_diff_sr)**|
 |**2024-05-27**|**PatchScaler: An Efficient Patch-Independent Diffusion Model for Super-Resolution**|Yong Liu et.al.|[2405.17158v2](http://arxiv.org/abs/2405.17158v2)|**[link](https://github.com/yongliuy/patchscaler)**|
 |**2024-05-27**|**Greedy Growing Enables High-Resolution Pixel-Based Diffusion Models**|Cristina N. Vasconcelos et.al.|[2405.16759v1](http://arxiv.org/abs/2405.16759v1)|null|
-|**2024-05-26**|**Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models**|Regev Cohen et.al.|[2405.16475v1](http://arxiv.org/abs/2405.16475v1)|null|
+|**2024-05-26**|**Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models**|Regev Cohen et.al.|[2405.16475v2](http://arxiv.org/abs/2405.16475v2)|null|
 |**2024-05-25**|**BOLD: Boolean Logic Deep Learning**|Van Minh Nguyen et.al.|[2405.16339v1](http://arxiv.org/abs/2405.16339v1)|null|
 |**2024-05-24**|**Visible-frequency hyperbolic plasmon polaritons in a natural van der Waals crystal**|Giacomo Venturi et.al.|[2405.15420v1](http://arxiv.org/abs/2405.15420v1)|null|
 |**2024-05-24**|**Stochastic super-resolution for Gaussian microtextures**|Emile Pierret et.al.|[2405.15399v2](http://arxiv.org/abs/2405.15399v2)|null|
