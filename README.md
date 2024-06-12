@@ -1,4 +1,4 @@
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 
 ## Image Generation
 
@@ -9,7 +9,7 @@
 |**2024-06-10**|**ProcessPainter: Learn Painting Process from Sequence Data**|Yiren Song et.al.|[2406.06062v1](http://arxiv.org/abs/2406.06062v1)|null|
 |**2024-06-09**|**OmniControlNet: Dual-stage Integration for Conditional Image Generation**|Yilin Wang et.al.|[2406.05871v1](http://arxiv.org/abs/2406.05871v1)|null|
 |**2024-06-09**|**Unified Text-to-Image Generation and Retrieval**|Leigang Qu et.al.|[2406.05814v1](http://arxiv.org/abs/2406.05814v1)|null|
-|**2024-06-09**|**MLCM: Multistep Consistency Distillation of Latent Diffusion Model**|Qingsong Xie et.al.|[2406.05768v1](http://arxiv.org/abs/2406.05768v1)|null|
+|**2024-06-09**|**MLCM: Multistep Consistency Distillation of Latent Diffusion Model**|Qingsong Xie et.al.|[2406.05768v2](http://arxiv.org/abs/2406.05768v2)|null|
 |**2024-06-09**|**PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction**|Shangyu Chen et.al.|[2406.05641v1](http://arxiv.org/abs/2406.05641v1)|null|
 |**2024-06-09**|**Can Prompt Modifiers Control Bias? A Comparative Analysis of Text-to-Image Generative Models**|Philip Wootaek Shin et.al.|[2406.05602v1](http://arxiv.org/abs/2406.05602v1)|null|
 |**2024-06-08**|**Medical Vision Generalist: Unifying Medical Imaging Tasks in Context**|Sucheng Ren et.al.|[2406.05565v1](http://arxiv.org/abs/2406.05565v1)|**[link](https://github.com/oliverrensu/mvg)**|
@@ -162,7 +162,7 @@
 |**2024-06-10**|**MVGamba: Unify 3D Content Generation as State Space Sequence Modeling**|Xuanyu Yi et.al.|[2406.06367v1](http://arxiv.org/abs/2406.06367v1)|null|
 |**2024-06-10**|**Latent Directions: A Simple Pathway to Bias Mitigation in Generative AI**|Carolina Lopez Olmos et.al.|[2406.06352v1](http://arxiv.org/abs/2406.06352v1)|null|
 |**2024-06-10**|**Schwarz preconditioner with $H_k$-GenEO coarse space for the indefinite Helmholtz problem**|Victorita Dolean et.al.|[2406.06283v1](http://arxiv.org/abs/2406.06283v1)|null|
-|**2024-06-10**|**Tuning-Free Visual Customization via View Iterative Self-Attention Control**|Xiaojie Li et.al.|[2406.06258v1](http://arxiv.org/abs/2406.06258v1)|null|
+|**2024-06-10**|**Tuning-Free Visual Customization via View Iterative Self-Attention Control**|Xiaojie Li et.al.|[2406.06258v2](http://arxiv.org/abs/2406.06258v2)|null|
 |**2024-06-10**|**On uniqueness in nonlocal diffuse optical tomography**|Yi-Hsuan Lin et.al.|[2406.06226v1](http://arxiv.org/abs/2406.06226v1)|null|
 |**2024-06-10**|**Data Augmentation in Earth Observation: A Diffusion Model Approach**|Tiago Sousa et.al.|[2406.06218v1](http://arxiv.org/abs/2406.06218v1)|null|
 |**2024-06-10**|**New ACV variables discovered in the Zwicky Transient Facility survey**|B. Bauer-Fasching et.al.|[2406.06203v1](http://arxiv.org/abs/2406.06203v1)|null|
@@ -182,14 +182,14 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-10**|**A Comparative Survey of Vision Transformers for Feature Extraction in Texture Analysis**|Leonardo Scabini et.al.|[2406.06136v1](http://arxiv.org/abs/2406.06136v1)|null|
-|**2024-06-10**|**Adapting Pretrained ViTs with Convolution Injector for Visuo-Motor Control**|Dongyoon Hwang et.al.|[2406.06072v1](http://arxiv.org/abs/2406.06072v1)|null|
+|**2024-06-10**|**Adapting Pretrained ViTs with Convolution Injector for Visuo-Motor Control**|Dongyoon Hwang et.al.|[2406.06072v1](http://arxiv.org/abs/2406.06072v1)|**[link](https://github.com/dojeon-ai/CoIn)**|
 |**2024-06-09**|**GCtx-UNet: Efficient Network for Medical Image Segmentation**|Khaled Alrfou et.al.|[2406.05891v1](http://arxiv.org/abs/2406.05891v1)|null|
 |**2024-06-09**|**Utilizing Grounded SAM for self-supervised frugal camouflaged human detection**|Matthias Pijarowski et.al.|[2406.05776v1](http://arxiv.org/abs/2406.05776v1)|null|
-|**2024-06-09**|**Visual Prompt Tuning in Null Space for Continual Learning**|Yue Lu et.al.|[2406.05658v1](http://arxiv.org/abs/2406.05658v1)|**[link](https://github.com/zugexiaodui/vptinnsforcl)**|
+|**2024-06-09**|**Visual Prompt Tuning in Null Space for Continual Learning**|Yue Lu et.al.|[2406.05658v2](http://arxiv.org/abs/2406.05658v2)|**[link](https://github.com/zugexiaodui/vptinnsforcl)**|
 |**2024-06-08**|**1st Place Winner of the 2024 Pixel-level Video Understanding in the Wild (CVPR'24 PVUW) Challenge in Video Panoptic Segmentation and Best Long Video Consistency of Video Semantic Segmentation**|Qingfeng Liu et.al.|[2406.05352v1](http://arxiv.org/abs/2406.05352v1)|null|
-|**2024-06-08**|**Weakly Supervised Set-Consistency Learning Improves Morphological Profiling of Single-Cell Images**|Heming Yao et.al.|[2406.05308v1](http://arxiv.org/abs/2406.05308v1)|null|
-|**2024-06-07**|**Hibou: A Family of Foundational Vision Transformers for Pathology**|Dmitry Nechaev et.al.|[2406.05074v1](http://arxiv.org/abs/2406.05074v1)|null|
-|**2024-06-07**|**MA-AVT: Modality Alignment for Parameter-Efficient Audio-Visual Transformers**|Tanvir Mahmud et.al.|[2406.04930v1](http://arxiv.org/abs/2406.04930v1)|null|
+|**2024-06-08**|**Weakly Supervised Set-Consistency Learning Improves Morphological Profiling of Single-Cell Images**|Heming Yao et.al.|[2406.05308v1](http://arxiv.org/abs/2406.05308v1)|**[link](https://github.com/Genentech/set-dino)**|
+|**2024-06-07**|**Hibou: A Family of Foundational Vision Transformers for Pathology**|Dmitry Nechaev et.al.|[2406.05074v1](http://arxiv.org/abs/2406.05074v1)|**[link](https://github.com/histai/hibou)**|
+|**2024-06-07**|**MA-AVT: Modality Alignment for Parameter-Efficient Audio-Visual Transformers**|Tanvir Mahmud et.al.|[2406.04930v1](http://arxiv.org/abs/2406.04930v1)|**[link](https://github.com/enyac-group/MA-AVT)**|
 |**2024-06-07**|**Navigating Efficiency in MobileViT through Gaussian Process on Global Architecture Factors**|Ke Meng et.al.|[2406.04820v1](http://arxiv.org/abs/2406.04820v1)|null|
 |**2024-06-07**|**REP: Resource-Efficient Prompting for On-device Continual Learning**|Sungho Jeon et.al.|[2406.04772v1](http://arxiv.org/abs/2406.04772v1)|null|
 |**2024-06-06**|**DeepStack: Deeply Stacking Visual Tokens is Surprisingly Simple and Effective for LMMs**|Lingchen Meng et.al.|[2406.04334v1](http://arxiv.org/abs/2406.04334v1)|null|
@@ -219,11 +219,11 @@
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527v1](http://arxiv.org/abs/2406.06527v1)|null|
 |**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526v1](http://arxiv.org/abs/2406.06526v1)|null|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521v1](http://arxiv.org/abs/2406.06521v1)|null|
-|**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216v1](http://arxiv.org/abs/2406.06216v1)|null|
+|**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216v1](http://arxiv.org/abs/2406.06216v1)|**[link](https://github.com/srameo/le3d)**|
 |**2024-06-10**|**ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models**|Meng-Li Shih et.al.|[2406.06133v1](http://arxiv.org/abs/2406.06133v1)|null|
 |**2024-06-09**|**GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement**|Peiye Zhuang et.al.|[2406.05649v1](http://arxiv.org/abs/2406.05649v1)|null|
 |**2024-06-07**|**Multiplane Prior Guided Few-Shot Aerial Scene Rendering**|Zihan Gao et.al.|[2406.04961v1](http://arxiv.org/abs/2406.04961v1)|null|
-|**2024-06-07**|**Multi-style Neural Radiance Field with AdaIN**|Yu-Wen Pao et.al.|[2406.04960v1](http://arxiv.org/abs/2406.04960v1)|null|
+|**2024-06-07**|**Multi-style Neural Radiance Field with AdaIN**|Yu-Wen Pao et.al.|[2406.04960v1](http://arxiv.org/abs/2406.04960v1)|**[link](https://github.com/vppyw/Stylized-NeRF-with-AdaIN)**|
 |**2024-06-06**|**Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization**|Takuhiro Kaneko et.al.|[2406.04155v1](http://arxiv.org/abs/2406.04155v1)|null|
 |**2024-06-06**|**How Far Can We Compress Instant-NGP-Based NeRF?**|Yihang Chen et.al.|[2406.04101v1](http://arxiv.org/abs/2406.04101v1)|**[link](https://github.com/yihangchen-ee/cnc)**|
 |**2024-06-06**|**Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**|Xinhang Liu et.al.|[2406.03723v1](http://arxiv.org/abs/2406.03723v1)|null|
@@ -263,7 +263,7 @@
 |**2024-06-04**|**ReLUs Are Sufficient for Learning Implicit Neural Representations**|Joseph Shenouda et.al.|[2406.02529v1](http://arxiv.org/abs/2406.02529v1)|**[link](https://github.com/joeshenouda/relu-inrs)**|
 |**2024-06-04**|**Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation**|Clement Chadebec et.al.|[2406.02347v2](http://arxiv.org/abs/2406.02347v2)|**[link](https://github.com/gojasper/flash-diffusion)**|
 |**2024-06-03**|**L-MAGIC: Language Model Assisted Generation of Images with Coherence**|Zhipeng Cai et.al.|[2406.01843v1](http://arxiv.org/abs/2406.01843v1)|**[link](https://github.com/intellabs/mmpano)**|
-|**2024-06-03**|**PolyCLEAN: When Högbom meets Bayes -- Fast Super-Resolution Imaging with Bayesian MAP Estimation**|Adrian Jarret et.al.|[2406.01342v1](http://arxiv.org/abs/2406.01342v1)|null|
+|**2024-06-03**|**PolyCLEAN: When Högbom meets Bayes -- Fast Super-Resolution Imaging with Bayesian MAP Estimation**|Adrian Jarret et.al.|[2406.01342v1](http://arxiv.org/abs/2406.01342v1)|**[link](https://github.com/AdriaJ/polyclean)**|
 |**2024-06-03**|**Arctic Sea Ice Image Super-Resolution Based on Multi-Scale Convolution and Dual-Gating Mechanism**|Zhaomin Fang et.al.|[2406.01240v1](http://arxiv.org/abs/2406.01240v1)|null|
 |**2024-06-02**|**Stealing Image-to-Image Translation Models With a Single Query**|Nurit Spingarn-Eliezer et.al.|[2406.00828v1](http://arxiv.org/abs/2406.00828v1)|null|
 |**2024-06-02**|**Multidimensional optical singularities and their applications**|Soon Wei Daniel Lim et.al.|[2406.00784v1](http://arxiv.org/abs/2406.00784v1)|null|
@@ -286,7 +286,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-09**|**Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks**|Zhiyuan Cheng et.al.|[2406.05857v1](http://arxiv.org/abs/2406.05857v1)|null|
+|**2024-06-09**|**Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks**|Zhiyuan Cheng et.al.|[2406.05857v1](http://arxiv.org/abs/2406.05857v1)|**[link](https://github.com/Bob-cheng/DepthModelHardening)**|
 |**2024-06-09**|**RefGaussian: Disentangling Reflections from 3D Gaussian Splatting for Realistic Rendering**|Rui Zhang et.al.|[2406.05852v1](http://arxiv.org/abs/2406.05852v1)|null|
 |**2024-06-07**|**Normal-guided Detail-Preserving Neural Implicit Functions for High-Fidelity 3D Surface Reconstruction**|Aarya Patel et.al.|[2406.04861v1](http://arxiv.org/abs/2406.04861v1)|null|
 |**2024-06-07**|**UVCPNet: A UAV-Vehicle Collaborative Perception Network for 3D Object Detection**|Yuchao Wang et.al.|[2406.04647v1](http://arxiv.org/abs/2406.04647v1)|null|
@@ -322,18 +322,18 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527v1](http://arxiv.org/abs/2406.06527v1)|null|
-|**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216v1](http://arxiv.org/abs/2406.06216v1)|null|
-|**2024-06-09**|**Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks**|Zhiyuan Cheng et.al.|[2406.05857v1](http://arxiv.org/abs/2406.05857v1)|null|
+|**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216v1](http://arxiv.org/abs/2406.06216v1)|**[link](https://github.com/srameo/le3d)**|
+|**2024-06-09**|**Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks**|Zhiyuan Cheng et.al.|[2406.05857v1](http://arxiv.org/abs/2406.05857v1)|**[link](https://github.com/Bob-cheng/DepthModelHardening)**|
 |**2024-06-09**|**RefGaussian: Disentangling Reflections from 3D Gaussian Splatting for Realistic Rendering**|Rui Zhang et.al.|[2406.05852v1](http://arxiv.org/abs/2406.05852v1)|null|
 |**2024-06-09**|**VCR-GauS: View Consistent Depth-Normal Regularizer for Gaussian Surface Reconstruction**|Hanlin Chen et.al.|[2406.05774v1](http://arxiv.org/abs/2406.05774v1)|null|
-|**2024-06-07**|**Multi-style Neural Radiance Field with AdaIN**|Yu-Wen Pao et.al.|[2406.04960v1](http://arxiv.org/abs/2406.04960v1)|null|
+|**2024-06-07**|**Multi-style Neural Radiance Field with AdaIN**|Yu-Wen Pao et.al.|[2406.04960v1](http://arxiv.org/abs/2406.04960v1)|**[link](https://github.com/vppyw/Stylized-NeRF-with-AdaIN)**|
 |**2024-06-06**|**Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image**|Stanislaw Szymanowicz et.al.|[2406.04343v1](http://arxiv.org/abs/2406.04343v1)|null|
 |**2024-06-06**|**Coarse-To-Fine Tensor Trains for Compact Visual Representations**|Sebastian Loeschcke et.al.|[2406.04332v1](http://arxiv.org/abs/2406.04332v1)|**[link](https://github.com/sebulo/PuTT)**|
 |**2024-06-06**|**Conv-INR: Convolutional Implicit Neural Representation for Multimodal Visual Signals**|Zhicheng Cai et.al.|[2406.04249v1](http://arxiv.org/abs/2406.04249v1)|null|
 |**2024-06-06**|**Encoding Semantic Priors into the Weights of Implicit Neural Representation**|Zhicheng Cai et.al.|[2406.04178v1](http://arxiv.org/abs/2406.04178v1)|null|
 |**2024-06-06**|**Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**|Xinhang Liu et.al.|[2406.03723v1](http://arxiv.org/abs/2406.03723v1)|null|
 |**2024-06-05**|**Dynamic 3D Gaussian Fields for Urban Areas**|Tobias Fischer et.al.|[2406.03175v1](http://arxiv.org/abs/2406.03175v1)|null|
-|**2024-06-05**|**Event3DGS: Event-based 3D Gaussian Splatting for Fast Egomotion**|Tianyi Xiong et.al.|[2406.02972v1](http://arxiv.org/abs/2406.02972v1)|null|
+|**2024-06-05**|**Event3DGS: Event-Based 3D Gaussian Splatting for High-Speed Robot Egomotion**|Tianyi Xiong et.al.|[2406.02972v2](http://arxiv.org/abs/2406.02972v2)|null|
 |**2024-06-04**|**WE-GS: An In-the-wild Efficient 3D Gaussian Representation for Unconstrained Photo Collections**|Yuze Wang et.al.|[2406.02407v1](http://arxiv.org/abs/2406.02407v1)|null|
 |**2024-06-03**|**Learning Temporally Consistent Video Depth from Video Diffusion Priors**|Jiahao Shao et.al.|[2406.01493v2](http://arxiv.org/abs/2406.01493v2)|null|
 |**2024-06-03**|**RaDe-GS: Rasterizing Depth in Gaussian Splatting**|Baowen Zhang et.al.|[2406.01467v1](http://arxiv.org/abs/2406.01467v1)|null|
