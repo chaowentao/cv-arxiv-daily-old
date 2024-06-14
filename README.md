@@ -1,4 +1,4 @@
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 
 ## Image Generation
 
@@ -8,14 +8,14 @@
 |**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478v1](http://arxiv.org/abs/2406.08478v1)|null|
 |**2024-06-12**|**PAL: Pluralistic Alignment Framework for Learning from Heterogeneous Preferences**|Daiwei Chen et.al.|[2406.08469v1](http://arxiv.org/abs/2406.08469v1)|null|
 |**2024-06-12**|**Diffusion Soup: Model Merging for Text-to-Image Diffusion Models**|Benjamin Biggs et.al.|[2406.08431v1](http://arxiv.org/abs/2406.08431v1)|null|
-|**2024-06-12**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394v1](http://arxiv.org/abs/2406.08394v1)|null|
+|**2024-06-12**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394v1](http://arxiv.org/abs/2406.08394v1)|**[link](https://github.com/opengvlab/visionllm)**|
 |**2024-06-12**|**FontStudio: Shape-Adaptive Diffusion Model for Coherent and Consistent Font Effect Generation**|Xinzhi Mu et.al.|[2406.08392v1](http://arxiv.org/abs/2406.08392v1)|null|
 |**2024-06-12**|**WMAdapter: Adding WaterMark Control to Latent Diffusion Models**|Hai Ci et.al.|[2406.08337v1](http://arxiv.org/abs/2406.08337v1)|null|
 |**2024-06-12**|**CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models**|Hyungjin Chung et.al.|[2406.08070v1](http://arxiv.org/abs/2406.08070v1)|null|
-|**2024-06-12**|**Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models**|Arman Zarei et.al.|[2406.07844v1](http://arxiv.org/abs/2406.07844v1)|null|
+|**2024-06-12**|**Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models**|Arman Zarei et.al.|[2406.07844v1](http://arxiv.org/abs/2406.07844v1)|**[link](https://github.com/ArmanZarei/Mitigating-T2I-Comp-Issues)**|
 |**2024-06-11**|**CUPID: Contextual Understanding of Prompt-conditioned Image Distributions**|Yayan Zhao et.al.|[2406.07699v1](http://arxiv.org/abs/2406.07699v1)|null|
 |**2024-06-11**|**AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and Video Generation**|Kai Wang et.al.|[2406.07686v1](http://arxiv.org/abs/2406.07686v1)|null|
-|**2024-06-11**|**Progress Towards Decoding Visual Imagery via fNIRS**|Michel Adamic et.al.|[2406.07662v1](http://arxiv.org/abs/2406.07662v1)|null|
+|**2024-06-11**|**Progress Towards Decoding Visual Imagery via fNIRS**|Michel Adamic et.al.|[2406.07662v2](http://arxiv.org/abs/2406.07662v2)|null|
 |**2024-06-11**|**Zero-shot Image Editing with Reference Imitation**|Xi Chen et.al.|[2406.07547v1](http://arxiv.org/abs/2406.07547v1)|null|
 |**2024-06-11**|**Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?**|Xingyu Fu et.al.|[2406.07546v1](http://arxiv.org/abs/2406.07546v1)|null|
 |**2024-06-11**|**Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance**|Kuan Heng Lin et.al.|[2406.07540v1](http://arxiv.org/abs/2406.07540v1)|null|
@@ -23,9 +23,9 @@
 |**2024-06-11**|**Instant 3D Human Avatar Generation using Image Diffusion Models**|Nikos Kolotouros et.al.|[2406.07516v1](http://arxiv.org/abs/2406.07516v1)|null|
 |**2024-06-11**|**Understanding Visual Concepts Across Models**|Brandon Trabucco et.al.|[2406.07506v1](http://arxiv.org/abs/2406.07506v1)|**[link](https://github.com/visual-words/visual-words)**|
 |**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502v1](http://arxiv.org/abs/2406.07502v1)|**[link](https://github.com/sterzhang/image-textualization)**|
-|**2024-06-11**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500v2](http://arxiv.org/abs/2406.07500v2)|null|
+|**2024-06-11**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500v2](http://arxiv.org/abs/2406.07500v2)|**[link](https://github.com/vpulab/spin)**|
 |**2024-06-11**|**Beware of Aliases -- Signal Preservation is Crucial for Robust Image Restoration**|Shashank Agnihotri et.al.|[2406.07435v1](http://arxiv.org/abs/2406.07435v1)|null|
-|**2024-06-11**|**Is One GPU Enough? Pushing Image Generation at Higher-Resolutions with Foundation Models**|Athanasios Tragakis et.al.|[2406.07251v2](http://arxiv.org/abs/2406.07251v2)|null|
+|**2024-06-11**|**Is One GPU Enough? Pushing Image Generation at Higher-Resolutions with Foundation Models**|Athanasios Tragakis et.al.|[2406.07251v2](http://arxiv.org/abs/2406.07251v2)|**[link](https://github.com/thanos-db/pixelsmith)**|
 |**2024-06-11**|**MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance**|X. Wang et.al.|[2406.07209v1](http://arxiv.org/abs/2406.07209v1)|**[link](https://github.com/MS-Diffusion/MS-Diffusion)**|
 |**2024-06-10**|**Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**|Peize Sun et.al.|[2406.06525v1](http://arxiv.org/abs/2406.06525v1)|**[link](https://github.com/foundationvision/llamagen)**|
 |**2024-06-10**|**The Effect of Training Dataset Size on Discriminative and Diffusion-Based Speech Enhancement Systems**|Philippe Gonzalez et.al.|[2406.06160v1](http://arxiv.org/abs/2406.06160v1)|null|
@@ -159,7 +159,7 @@
 |**2024-06-12**|**WMAdapter: Adding WaterMark Control to Latent Diffusion Models**|Hai Ci et.al.|[2406.08337v1](http://arxiv.org/abs/2406.08337v1)|null|
 |**2024-06-12**|**Dynamical evolution of social network polarization and its impact on the propagation of a virus**|Ixandra Achitouv et.al.|[2406.08299v1](http://arxiv.org/abs/2406.08299v1)|null|
 |**2024-06-12**|**Collective Invasion: When does domain curvature matter?**|Joseph J. Pollacco et.al.|[2406.08291v1](http://arxiv.org/abs/2406.08291v1)|null|
-|**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249v1](http://arxiv.org/abs/2406.08249v1)|null|
+|**2024-06-12**|**Dataset Enhancement with Instance-Level Augmentations**|Orest Kupyn et.al.|[2406.08249v1](http://arxiv.org/abs/2406.08249v1)|**[link](https://github.com/KupynOrest/instance_augmentation)**|
 |**2024-06-12**|**MaIL: Improving Imitation Learning with Mamba**|Xiaogang Jia et.al.|[2406.08234v1](http://arxiv.org/abs/2406.08234v1)|null|
 |**2024-06-12**|**Diffusion-Promoted HDR Video Reconstruction**|Yuanshen Guan et.al.|[2406.08204v1](http://arxiv.org/abs/2406.08204v1)|null|
 |**2024-06-12**|**LAFMA: A Latent Flow Matching Model for Text-to-Audio Generation**|Wenhao Guan et.al.|[2406.08203v1](http://arxiv.org/abs/2406.08203v1)|null|
@@ -192,7 +192,7 @@
 |**2024-06-10**|**Adapting Pretrained ViTs with Convolution Injector for Visuo-Motor Control**|Dongyoon Hwang et.al.|[2406.06072v1](http://arxiv.org/abs/2406.06072v1)|**[link](https://github.com/dojeon-ai/CoIn)**|
 |**2024-06-09**|**GCtx-UNet: Efficient Network for Medical Image Segmentation**|Khaled Alrfou et.al.|[2406.05891v1](http://arxiv.org/abs/2406.05891v1)|null|
 |**2024-06-09**|**Utilizing Grounded SAM for self-supervised frugal camouflaged human detection**|Matthias Pijarowski et.al.|[2406.05776v1](http://arxiv.org/abs/2406.05776v1)|null|
-|**2024-06-09**|**Visual Prompt Tuning in Null Space for Continual Learning**|Yue Lu et.al.|[2406.05658v2](http://arxiv.org/abs/2406.05658v2)|**[link](https://github.com/zugexiaodui/vptinnsforcl)**|
+|**2024-06-09**|**Visual Prompt Tuning in Null Space for Continual Learning**|Yue Lu et.al.|[2406.05658v2](http://arxiv.org/abs/2406.05658v2)|null|
 |**2024-06-08**|**1st Place Winner of the 2024 Pixel-level Video Understanding in the Wild (CVPR'24 PVUW) Challenge in Video Panoptic Segmentation and Best Long Video Consistency of Video Semantic Segmentation**|Qingfeng Liu et.al.|[2406.05352v1](http://arxiv.org/abs/2406.05352v1)|null|
 |**2024-06-08**|**Weakly Supervised Set-Consistency Learning Improves Morphological Profiling of Single-Cell Images**|Heming Yao et.al.|[2406.05308v1](http://arxiv.org/abs/2406.05308v1)|**[link](https://github.com/Genentech/set-dino)**|
 |**2024-06-07**|**Hibou: A Family of Foundational Vision Transformers for Pathology**|Dmitry Nechaev et.al.|[2406.05074v1](http://arxiv.org/abs/2406.05074v1)|**[link](https://github.com/histai/hibou)**|
@@ -218,7 +218,7 @@
 |---|---|---|---|---|
 |**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488v1](http://arxiv.org/abs/2406.08488v1)|null|
 |**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009v1](http://arxiv.org/abs/2406.08009v1)|**[link](https://github.com/BIT-DYN/OpenObj)**|
-|**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828v1](http://arxiv.org/abs/2406.07828v1)|null|
+|**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828v1](http://arxiv.org/abs/2406.07828v1)|**[link](https://github.com/pulangk97/SANeRF)**|
 |**2024-06-11**|**C3DAG: Controlled 3D Animal Generation using 3D pose guidance**|Sandeep Mishra et.al.|[2406.07742v1](http://arxiv.org/abs/2406.07742v1)|null|
 |**2024-06-11**|**M-LRM: Multi-view Large Reconstruction Model**|Mengfei Li et.al.|[2406.07648v1](http://arxiv.org/abs/2406.07648v1)|null|
 |**2024-06-11**|**Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Environments**|Christopher D. Hsu et.al.|[2406.07431v1](http://arxiv.org/abs/2406.07431v1)|null|
@@ -286,10 +286,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-11**|**Back to the Color: Learning Depth to Specific Color Transformation for Unsupervised Depth Estimation**|Yufan Zhu et.al.|[2406.07741v1](http://arxiv.org/abs/2406.07741v1)|null|
+|**2024-06-11**|**Back to the Color: Learning Depth to Specific Color Transformation for Unsupervised Depth Estimation**|Yufan Zhu et.al.|[2406.07741v1](http://arxiv.org/abs/2406.07741v1)|**[link](https://github.com/BlueEg/back2color)**|
 |**2024-06-11**|**PLT-D3: A High-fidelity Dynamic Driving Simulation Dataset for Stereo Depth and Scene Flow**|Joshua Tokarsky et.al.|[2406.07667v1](http://arxiv.org/abs/2406.07667v1)|null|
 |**2024-06-11**|**RS-DFM: A Remote Sensing Distributed Foundation Model for Diverse Downstream Tasks**|Zhechao Wang et.al.|[2406.07032v1](http://arxiv.org/abs/2406.07032v1)|null|
-|**2024-06-11**|**Stepwise Regression and Pre-trained Edge for Robust Stereo Matching**|Weiqing Xiao et.al.|[2406.06953v1](http://arxiv.org/abs/2406.06953v1)|null|
+|**2024-06-11**|**Stepwise Regression and Pre-trained Edge for Robust Stereo Matching**|Weiqing Xiao et.al.|[2406.06953v2](http://arxiv.org/abs/2406.06953v2)|null|
 |**2024-06-10**|**PatchRefiner: Leveraging Synthetic Data for Real-Domain High-Resolution Monocular Metric Depth Estimation**|Zhenyu Li et.al.|[2406.06679v1](http://arxiv.org/abs/2406.06679v1)|null|
 |**2024-06-09**|**Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks**|Zhiyuan Cheng et.al.|[2406.05857v1](http://arxiv.org/abs/2406.05857v1)|**[link](https://github.com/Bob-cheng/DepthModelHardening)**|
 |**2024-06-09**|**RefGaussian: Disentangling Reflections from 3D Gaussian Splatting for Realistic Rendering**|Rui Zhang et.al.|[2406.05852v1](http://arxiv.org/abs/2406.05852v1)|null|
@@ -322,7 +322,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-12**|**From Chaos to Clarity: 3DGS in the Dark**|Zhihao Li et.al.|[2406.08300v1](http://arxiv.org/abs/2406.08300v1)|null|
-|**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828v1](http://arxiv.org/abs/2406.07828v1)|null|
+|**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828v1](http://arxiv.org/abs/2406.07828v1)|**[link](https://github.com/pulangk97/SANeRF)**|
 |**2024-06-11**|**Cinematic Gaussians: Real-Time HDR Radiance Fields with Depth of Field**|Chao Wang et.al.|[2406.07329v1](http://arxiv.org/abs/2406.07329v1)|null|
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527v1](http://arxiv.org/abs/2406.06527v1)|null|
 |**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216v1](http://arxiv.org/abs/2406.06216v1)|**[link](https://github.com/srameo/le3d)**|
