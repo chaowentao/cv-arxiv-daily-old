@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.06.20
+## Updated on 2024.06.21
 
 ## Image Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-18**|**VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing**|Jing Gu et.al.|[2406.12831v1](http://arxiv.org/abs/2406.12831v1)|null|
-|**2024-06-18**|**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation**|Xinyu Hou et.al.|[2406.12805v1](http://arxiv.org/abs/2406.12805v1)|**[link](https://github.com/itsmag11/aitti)**|
+|**2024-06-18**|**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation**|Xinyu Hou et.al.|[2406.12805v2](http://arxiv.org/abs/2406.12805v2)|**[link](https://github.com/itsmag11/aitti)**|
 |**2024-06-18**|**Unmasking the Veil: An Investigation into Concept Ablation for Privacy and Copyright Protection in Images**|Shivank Garg et.al.|[2406.12592v1](http://arxiv.org/abs/2406.12592v1)|**[link](https://github.com/vlgiitr/unmasking-the-veil)**|
 |**2024-06-18**|**Training Diffusion Models with Federated Learning**|Matthijs de Goede et.al.|[2406.12575v1](http://arxiv.org/abs/2406.12575v1)|null|
 |**2024-06-17**|**ARTIST: Improving the Generation of Text-rich Images by Disentanglement**|Jianyi Zhang et.al.|[2406.12044v1](http://arxiv.org/abs/2406.12044v1)|null|
@@ -187,7 +187,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-18**|**ChangeViT: Unleashing Plain Vision Transformers for Change Detection**|Duowang Zhu et.al.|[2406.12847v1](http://arxiv.org/abs/2406.12847v1)|**[link](https://github.com/zhuduowang/changevit)**|
 |**2024-06-18**|**Synergizing Foundation Models and Federated Learning: A Survey**|Shenghui Li et.al.|[2406.12844v1](http://arxiv.org/abs/2406.12844v1)|null|
-|**2024-06-18**|**Probabilistic Conceptual Explainers: Trustworthy Conceptual Explanations for Vision Foundation Models**|Hengyi Wang et.al.|[2406.12649v1](http://arxiv.org/abs/2406.12649v1)|null|
+|**2024-06-18**|**Probabilistic Conceptual Explainers: Trustworthy Conceptual Explanations for Vision Foundation Models**|Hengyi Wang et.al.|[2406.12649v2](http://arxiv.org/abs/2406.12649v2)|null|
 |**2024-06-18**|**PCIE_EgoHandPose Solution for EgoExo4D Hand Pose Challenge**|Feng Chen et.al.|[2406.12219v1](http://arxiv.org/abs/2406.12219v1)|**[link](https://github.com/kanokphanl/pcie_egohandpose)**|
 |**2024-06-17**|**Inpainting the Gaps: A Novel Framework for Evaluating Explanation Methods in Vision Transformers**|Lokesh Badisa et.al.|[2406.11534v1](http://arxiv.org/abs/2406.11534v1)|null|
 |**2024-06-17**|**HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model**|Di Wang et.al.|[2406.11519v1](http://arxiv.org/abs/2406.11519v1)|**[link](https://github.com/whu-sigma/hypersigma)**|
