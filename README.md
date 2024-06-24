@@ -1,4 +1,4 @@
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 
 ## Image Generation
 
@@ -26,7 +26,7 @@
 |**2024-06-16**|**Mixture-of-Subspaces in Low-Rank Adaptation**|Taiqiang Wu et.al.|[2406.11909v1](http://arxiv.org/abs/2406.11909v1)|**[link](https://github.com/wutaiqiang/moslora)**|
 |**2024-06-17**|**Autoregressive Image Generation without Vector Quantization**|Tianhong Li et.al.|[2406.11838v1](http://arxiv.org/abs/2406.11838v1)|null|
 |**2024-06-17**|**Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%**|Lei Zhu et.al.|[2406.11837v1](http://arxiv.org/abs/2406.11837v1)|**[link](https://github.com/zh460045050/vqgan-lc)**|
-|**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831v1](http://arxiv.org/abs/2406.11831v1)|null|
+|**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831v2](http://arxiv.org/abs/2406.11831v2)|null|
 |**2024-06-17**|**PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models**|Fanqing Meng et.al.|[2406.11802v1](http://arxiv.org/abs/2406.11802v1)|**[link](https://github.com/opengvlab/phybench)**|
 |**2024-06-17**|**Discriminative Hamiltonian Variational Autoencoder for Accurate Tumor Segmentation in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.11659v1](http://arxiv.org/abs/2406.11659v1)|null|
 |**2024-06-17**|**GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation**|Shihao Cai et.al.|[2406.11503v1](http://arxiv.org/abs/2406.11503v1)|null|
@@ -147,7 +147,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555v1](http://arxiv.org/abs/2406.14555v1)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
-|**2024-06-20**|**Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**|Eyal Michaeli et.al.|[2406.14551v1](http://arxiv.org/abs/2406.14551v1)|**[link](https://github.com/eyalmichaeli/saspa-aug)**|
+|**2024-06-20**|**Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**|Eyal Michaeli et.al.|[2406.14551v2](http://arxiv.org/abs/2406.14551v2)|**[link](https://github.com/eyalmichaeli/saspa-aug)**|
 |**2024-06-20**|**Consistency Models Made Easy**|Zhengyang Geng et.al.|[2406.14548v1](http://arxiv.org/abs/2406.14548v1)|**[link](https://github.com/locuslab/ect)**|
 |**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539v1](http://arxiv.org/abs/2406.14539v1)|null|
 |**2024-06-20**|**Formulation of Chimera Gradient Flows for Chemotaxis Systems with Indirect Signal Production and Degenerate Diffusion**|Yoshifumi Mimura et.al.|[2406.14536v1](http://arxiv.org/abs/2406.14536v1)|null|
@@ -208,7 +208,7 @@
 |**2024-06-13**|**ToSA: Token Selective Attention for Efficient Vision Transformers**|Manish Kumar Singh et.al.|[2406.08816v1](http://arxiv.org/abs/2406.08816v1)|null|
 |**2024-06-12**|**ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery**|Kam Woh Ng et.al.|[2406.08457v1](http://arxiv.org/abs/2406.08457v1)|**[link](https://github.com/kamwoh/concepthash)**|
 |**2024-06-12**|**Transformation-Dependent Adversarial Attacks**|Yaoteng Tan et.al.|[2406.08443v1](http://arxiv.org/abs/2406.08443v1)|null|
-|**2024-06-12**|**AdaNCA: Neural Cellular Automata As Adaptors For More Robust Vision Transformer**|Yitao Xu et.al.|[2406.08298v2](http://arxiv.org/abs/2406.08298v2)|null|
+|**2024-06-12**|**AdaNCA: Neural Cellular Automata As Adaptors For More Robust Vision Transformer**|Yitao Xu et.al.|[2406.08298v3](http://arxiv.org/abs/2406.08298v3)|null|
 |**2024-06-12**|**Adaptively Bypassing Vision Transformer Blocks for Efficient Visual Tracking**|Xiangyang Yang et.al.|[2406.08037v1](http://arxiv.org/abs/2406.08037v1)|null|
 |**2024-06-12**|**KernelWarehouse: Rethinking the Design of Dynamic Convolution**|Chao Li et.al.|[2406.07879v1](http://arxiv.org/abs/2406.07879v1)|**[link](https://github.com/osvai/kernelwarehouse)**|
 
@@ -289,7 +289,7 @@
 |**2024-06-20**|**Uncertainty and Self-Supervision in Single-View Depth**|Javier Rodriguez-Puigvert et.al.|[2406.14226v1](http://arxiv.org/abs/2406.14226v1)|null|
 |**2024-06-19**|**WaterMono: Teacher-Guided Anomaly Masking and Enhancement Boosting for Robust Underwater Self-Supervised Monocular Depth Estimation**|Yilin Ding et.al.|[2406.13344v1](http://arxiv.org/abs/2406.13344v1)|**[link](https://github.com/oucvisiongroup/watermono)**|
 |**2024-06-18**|**Depth Anywhere: Enhancing 360 Monocular Depth Estimation via Perspective Distillation and Unlabeled Data Augmentation**|Ning-Hsu Wang et.al.|[2406.12849v1](http://arxiv.org/abs/2406.12849v1)|null|
-|**2024-06-18**|**GeoBench: Benchmarking and Analyzing Monocular Geometry Estimation Models**|Yongtao Ge et.al.|[2406.12671v1](http://arxiv.org/abs/2406.12671v1)|**[link](https://github.com/aim-uofa/geobench)**|
+|**2024-06-18**|**GeoBench: Benchmarking and Analyzing Monocular Geometry Estimation Models**|Yongtao Ge et.al.|[2406.12671v2](http://arxiv.org/abs/2406.12671v2)|**[link](https://github.com/aim-uofa/geobench)**|
 |**2024-06-17**|**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**|Letian Wang et.al.|[2406.12095v1](http://arxiv.org/abs/2406.12095v1)|null|
 |**2024-06-17**|**MEDeA: Multi-view Efficient Depth Adjustment**|Mikhail Artemyev et.al.|[2406.12048v1](http://arxiv.org/abs/2406.12048v1)|null|
 |**2024-06-17**|**Multispectral Snapshot Image Registration Using Learned Cross Spectral Disparity Estimation and a Deep Guided Occlusion Reconstruction Network**|Frank Sippel et.al.|[2406.11284v1](http://arxiv.org/abs/2406.11284v1)|**[link](https://github.com/fau-lms/msir)**|
