@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 
 ## Image Generation
 
@@ -174,7 +174,7 @@ layout: default
 |**2024-06-23**|**Computing the SSR**|Peter K. Friz et.al.|[2406.16131v1](http://arxiv.org/abs/2406.16131v1)|null|
 |**2024-06-23**|**UDHF2-Net: An Uncertainty-diffusion-model-based High-Frequency TransFormer Network for High-accuracy Interpretation of Remotely Sensed Imagery**|Pengfei Zhang et.al.|[2406.16129v1](http://arxiv.org/abs/2406.16129v1)|null|
 |**2024-06-23**|**Diffusion Spectral Representation for Reinforcement Learning**|Dmitry Shribak et.al.|[2406.16121v1](http://arxiv.org/abs/2406.16121v1)|null|
-|**2024-06-23**|**X-ray2CTPA: Generating 3D CTPA scans from 2D X-ray conditioning**|Noa Cahan et.al.|[2406.16109v1](http://arxiv.org/abs/2406.16109v1)|null|
+|**2024-06-23**|**X-ray2CTPA: Generating 3D CTPA scans from 2D X-ray conditioning**|Noa Cahan et.al.|[2406.16109v2](http://arxiv.org/abs/2406.16109v2)|null|
 |**2024-06-23**|**Boundary Estimates for Doubly Nonlinear Parabolic Equations**|Ugo Gianazza et.al.|[2406.16096v1](http://arxiv.org/abs/2406.16096v1)|null|
 |**2024-06-23**|**Heat conduction in low-dimensional electron gases without and with a magnetic field**|Rongxiang Luo et.al.|[2406.16067v1](http://arxiv.org/abs/2406.16067v1)|null|
 |**2024-06-23**|**Constructing Boundary-identical Microstructures by Guided Diffusion for Fast Multiscale Designs**|Jingxuan Feng et.al.|[2406.16066v1](http://arxiv.org/abs/2406.16066v1)|null|
