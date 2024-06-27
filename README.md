@@ -1,4 +1,4 @@
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 
 ## Image Generation
 
@@ -30,7 +30,7 @@
 |**2024-06-20**|**Evaluating Numerical Reasoning in Text-to-Image Models**|Ivana Kajić et.al.|[2406.14774v1](http://arxiv.org/abs/2406.14774v1)|null|
 |**2024-06-20**|**Holistic Evaluation for Interleaved Text-and-Image Generation**|Minqian Liu et.al.|[2406.14643v1](http://arxiv.org/abs/2406.14643v1)|null|
 |**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555v1](http://arxiv.org/abs/2406.14555v1)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
-|**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539v1](http://arxiv.org/abs/2406.14539v1)|null|
+|**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539v2](http://arxiv.org/abs/2406.14539v2)|null|
 |**2024-06-20**|**Fantastic Copyrighted Beasts and How (Not) to Generate Them**|Luxi He et.al.|[2406.14526v1](http://arxiv.org/abs/2406.14526v1)|null|
 |**2024-06-20**|**Video Generation with Learned Action Prior**|Meenakshi Sarkar et.al.|[2406.14436v1](http://arxiv.org/abs/2406.14436v1)|null|
 |**2024-06-19**|**GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation**|Baiqi Li et.al.|[2406.13743v2](http://arxiv.org/abs/2406.13743v2)|**[link](https://github.com/linzhiqiu/t2v_metrics)**|
@@ -153,7 +153,7 @@
 |**2024-06-25**|**Unified Auto-Encoding with Masked Diffusion**|Philippe Hansen-Estruch et.al.|[2406.17688v1](http://arxiv.org/abs/2406.17688v1)|null|
 |**2024-06-25**|**Asymptotic Properties of Random Homology Induced by Diffusion Processes**|Artem Galkin et.al.|[2406.17683v1](http://arxiv.org/abs/2406.17683v1)|null|
 |**2024-06-25**|**LaTable: Towards Large Tabular Models**|Boris van Breugel et.al.|[2406.17673v1](http://arxiv.org/abs/2406.17673v1)|null|
-|**2024-06-25**|**SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**|Marco Comunita et.al.|[2406.17672v1](http://arxiv.org/abs/2406.17672v1)|null|
+|**2024-06-25**|**SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**|Marco Comunità et.al.|[2406.17672v2](http://arxiv.org/abs/2406.17672v2)|null|
 |**2024-06-25**|**Aligning Diffusion Models with Noise-Conditioned Perception**|Alexander Gambashidze et.al.|[2406.17636v1](http://arxiv.org/abs/2406.17636v1)|null|
 |**2024-06-25**|**Test-Time Generative Augmentation for Medical Image Segmentation**|Xiao Ma et.al.|[2406.17608v1](http://arxiv.org/abs/2406.17608v1)|**[link](https://github.com/maxiao0234/ttga)**|
 |**2024-06-25**|**Diffusion-based Adversarial Purification for Intrusion Detection**|Mohamed Amine Merzouk et.al.|[2406.17606v1](http://arxiv.org/abs/2406.17606v1)|null|
@@ -187,7 +187,7 @@
 |**2024-06-24**|**Diff3Dformer: Leveraging Slice Sequence Diffusion for Enhanced 3D CT Classification with Transformer Networks**|Zihao Jin et.al.|[2406.17173v1](http://arxiv.org/abs/2406.17173v1)|null|
 |**2024-06-24**|**Accelerating Phase Field Simulations Through a Hybrid Adaptive Fourier Neural Operator with U-Net Backbone**|Christophe Bonneville et.al.|[2406.17119v1](http://arxiv.org/abs/2406.17119v1)|null|
 |**2024-06-24**|**Multi-Aperture Fusion of Transformer-Convolutional Network (MFTC-Net) for 3D Medical Image Segmentation and Visualization**|Siyavash Shabani et.al.|[2406.17080v1](http://arxiv.org/abs/2406.17080v1)|**[link](https://github.com/siyavashshabani/mftc-net)**|
-|**2024-06-24**|**Are Vision xLSTM Embedded UNet More Reliable in Medical 3D Image Segmentation?**|Pallabi Dutta et.al.|[2406.16993v1](http://arxiv.org/abs/2406.16993v1)|**[link](https://github.com/duttapallabi2907/U-VixLSTM)**|
+|**2024-06-24**|**Are Vision xLSTM Embedded UNet More Reliable in Medical 3D Image Segmentation?**|Pallabi Dutta et.al.|[2406.16993v1](http://arxiv.org/abs/2406.16993v1)|null|
 |**2024-06-20**|**SRViT: Vision Transformers for Estimating Radar Reflectivity from Satellite Observations at Scale**|Jason Stock et.al.|[2406.16955v1](http://arxiv.org/abs/2406.16955v1)|null|
 |**2024-06-24**|**Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series**|Theresa Follath et.al.|[2406.16513v1](http://arxiv.org/abs/2406.16513v1)|null|
 |**2024-06-24**|**Priorformer: A UGC-VQA Method with content and distortion priors**|Yajing Pei et.al.|[2406.16297v1](http://arxiv.org/abs/2406.16297v1)|null|
@@ -331,7 +331,7 @@
 |**2024-06-21**|**Relighting Scenes with Object Insertions in Neural Radiance Fields**|Xuening Zhu et.al.|[2406.14806v1](http://arxiv.org/abs/2406.14806v1)|null|
 |**2024-06-20**|**Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment**|Yunshan Qi et.al.|[2406.14360v1](http://arxiv.org/abs/2406.14360v1)|null|
 |**2024-06-19**|**Simultaneous Map and Object Reconstruction**|Nathaniel Chodosh et.al.|[2406.13896v1](http://arxiv.org/abs/2406.13896v1)|null|
-|**2024-06-19**|**Splatter a Video: Video Gaussian Representation for Versatile Processing**|Yang-Tian Sun et.al.|[2406.13870v1](http://arxiv.org/abs/2406.13870v1)|null|
+|**2024-06-19**|**Splatter a Video: Video Gaussian Representation for Versatile Processing**|Yang-Tian Sun et.al.|[2406.13870v2](http://arxiv.org/abs/2406.13870v2)|null|
 |**2024-06-18**|**HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors**|Panwang Pan et.al.|[2406.12459v1](http://arxiv.org/abs/2406.12459v1)|**[link](https://github.com/humansplat/humansplat.github.io)**|
 |**2024-06-17**|**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**|Letian Wang et.al.|[2406.12095v1](http://arxiv.org/abs/2406.12095v1)|null|
 |**2024-06-17**|**A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets**|Bernhard Kerbl et.al.|[2406.12080v1](http://arxiv.org/abs/2406.12080v1)|null|
