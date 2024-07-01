@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 
 ## Image Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-27**|**Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model**|Jiangtong Tan et.al.|[2406.19030v1](http://arxiv.org/abs/2406.19030v1)|null|
-|**2024-06-27**|**AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation**|Yanan Sun et.al.|[2406.18958v1](http://arxiv.org/abs/2406.18958v1)|null|
+|**2024-06-27**|**AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation**|Yanan Sun et.al.|[2406.18958v2](http://arxiv.org/abs/2406.18958v2)|null|
 |**2024-06-27**|**CLIP3D-AD: Extending CLIP for 3D Few-Shot Anomaly Detection with Multi-View Images Generation**|Zuo Zuo et.al.|[2406.18941v1](http://arxiv.org/abs/2406.18941v1)|null|
 |**2024-06-26**|**MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data**|William Berman et.al.|[2406.18790v1](http://arxiv.org/abs/2406.18790v1)|null|
 |**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524v1](http://arxiv.org/abs/2406.18524v1)|null|
@@ -26,7 +26,7 @@ layout: default
 |**2024-06-24**|**Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback for Text-to-Image Generation**|Katherine M. Collins et.al.|[2406.16807v1](http://arxiv.org/abs/2406.16807v1)|null|
 |**2024-06-24**|**Repulsive Score Distillation for Diverse Sampling of Diffusion Models**|Nicolas Zilberstein et.al.|[2406.16683v1](http://arxiv.org/abs/2406.16683v1)|**[link](https://github.com/nzilberstein/Repulsive-score-distillation-RSD-)**|
 |**2024-06-24**|**EVALALIGN: Supervised Fine-Tuning Multimodal LLMs with Human-Aligned Data for Evaluating Text-to-Image Models**|Zhiyu Tan et.al.|[2406.16562v2](http://arxiv.org/abs/2406.16562v2)|**[link](https://github.com/sais-fuxi/evalalign)**|
-|**2024-06-24**|**Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization**|Yuhang Ma et.al.|[2406.16537v1](http://arxiv.org/abs/2406.16537v1)|null|
+|**2024-06-24**|**Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization**|Yuhang Ma et.al.|[2406.16537v2](http://arxiv.org/abs/2406.16537v2)|**[link](https://github.com/character-adapter/character-adapter)**|
 |**2024-06-24**|**GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization**|Yirui Chen et.al.|[2406.16531v1](http://arxiv.org/abs/2406.16531v1)|**[link](https://github.com/chenyirui/gim)**|
 |**2024-06-24**|**ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance**|Shuwei Shi et.al.|[2406.16476v1](http://arxiv.org/abs/2406.16476v1)|null|
 |**2024-06-24**|**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**|Yichen Sun et.al.|[2406.16333v1](http://arxiv.org/abs/2406.16333v1)|null|
@@ -160,7 +160,7 @@ layout: default
 |**2024-06-27**|**Diffuse interstellar bands in the near-infrared: Expanding the reddening range**|R. Castellanos et.al.|[2406.19229v1](http://arxiv.org/abs/2406.19229v1)|null|
 |**2024-06-27**|**Numerical Analysis of the Complete Active-Space Extended Koopmans's Theorem**|Reza Hemmati et.al.|[2406.19211v1](http://arxiv.org/abs/2406.19211v1)|null|
 |**2024-06-27**|**The case for Centaurus A as the main source of ultrahigh-energy cosmic rays**|Silvia Mollerach et.al.|[2406.19199v1](http://arxiv.org/abs/2406.19199v1)|null|
-|**2024-06-27**|**Mechanical cell interactions on curved interfaces**|Pascal R. Buenzli et.al.|[2406.19197v1](http://arxiv.org/abs/2406.19197v1)|null|
+|**2024-06-27**|**Mechanical cell interactions on curved interfaces**|Pascal R. Buenzli et.al.|[2406.19197v1](http://arxiv.org/abs/2406.19197v1)|**[link](https://github.com/prbuen/buenzli2024_mechanical_cell_interactions_on_curved_interfaces)**|
 |**2024-06-27**|**Existence of solution of a triangular degenerate reaction-diffusion system**|Saumyajit Das IIT Bombay et.al.|[2406.19196v1](http://arxiv.org/abs/2406.19196v1)|null|
 |**2024-06-27**|**DEX-TTS: Diffusion-based EXpressive Text-to-Speech with Style Modeling on Time Variability**|Hyun Joon Park et.al.|[2406.19135v1](http://arxiv.org/abs/2406.19135v1)|**[link](https://github.com/winddori2002/dex-tts)**|
 |**2024-06-27**|**Coagulation-flocculation process on a lattice: Monte Carlo simulations**|V. Blavatska et.al.|[2406.19115v1](http://arxiv.org/abs/2406.19115v1)|null|
@@ -172,10 +172,10 @@ layout: default
 |**2024-06-27**|**Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model**|Jiangtong Tan et.al.|[2406.19030v1](http://arxiv.org/abs/2406.19030v1)|null|
 |**2024-06-27**|**The prototypical major cluster merger Abell 754. I. Calibration of MeerKAT data and radio/X-ray spectral mapping of the cluster**|A. Botteon et.al.|[2406.18983v1](http://arxiv.org/abs/2406.18983v1)|null|
 |**2024-06-27**|**Bifurcation structure of steady-states for a cooperative model with population flux by attractive transition**|Masahiro Adachi et.al.|[2406.18976v1](http://arxiv.org/abs/2406.18976v1)|null|
-|**2024-06-27**|**AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation**|Yanan Sun et.al.|[2406.18958v1](http://arxiv.org/abs/2406.18958v1)|null|
+|**2024-06-27**|**AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation**|Yanan Sun et.al.|[2406.18958v2](http://arxiv.org/abs/2406.18958v2)|null|
 |**2024-06-27**|**Supercloseness of the HDG method on Shishkin mesh for a singularly perturbed convection diffusion problem in 2D**|Xiaoqi Ma et.al.|[2406.18948v1](http://arxiv.org/abs/2406.18948v1)|null|
 |**2024-06-27**|**Investigating and Defending Shortcut Learning in Personalized Diffusion Models**|Yixin Liu et.al.|[2406.18944v1](http://arxiv.org/abs/2406.18944v1)|null|
-|**2024-06-27**|**AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models**|Aishwarya Agarwal et.al.|[2406.18893v1](http://arxiv.org/abs/2406.18893v1)|null|
+|**2024-06-27**|**AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models**|Aishwarya Agarwal et.al.|[2406.18893v2](http://arxiv.org/abs/2406.18893v2)|null|
 |**2024-06-27**|**Chemical Continuous Time Random Walks under Anomalous Diffusion**|Hong Zhang et.al.|[2406.18869v1](http://arxiv.org/abs/2406.18869v1)|null|
 |**2024-06-27**|**Magneto-Rayleigh-Taylor instability and feedthrough in a resistive liquid-metal liner of a finite thickness**|Paria Makaremi-Esfarjani et.al.|[2406.18867v1](http://arxiv.org/abs/2406.18867v1)|null|
 |**2024-06-27**|**Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs**|Jie Zhang et.al.|[2406.18849v1](http://arxiv.org/abs/2406.18849v1)|**[link](https://github.com/benchmark-dysca/dysca)**|
@@ -185,7 +185,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-27**|**Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads**|Ali Khaleghi Rahimian et.al.|[2406.19391v1](http://arxiv.org/abs/2406.19391v1)|null|
+|**2024-06-27**|**Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads**|Ali Khaleghi Rahimian et.al.|[2406.19391v1](http://arxiv.org/abs/2406.19391v1)|**[link](https://github.com/charlotte-charmlab/fibottention)**|
 |**2024-06-26**|**Human-free Prompted Based Anomaly Detection: prompt optimization with Meta-guiding prompt scheme**|Pi-Wei Chen et.al.|[2406.18197v1](http://arxiv.org/abs/2406.18197v1)|null|
 |**2024-06-26**|**ViT-1.58b: Mobile Vision Transformers in the 1-bit Era**|Zhengqing Yuan et.al.|[2406.18051v1](http://arxiv.org/abs/2406.18051v1)|null|
 |**2024-06-25**|**Semi-supervised classification of dental conditions in panoramic radiographs using large language model and instance segmentation: A real-world dataset evaluation**|Bernardo Silva et.al.|[2406.17915v1](http://arxiv.org/abs/2406.17915v1)|null|
