@@ -198,7 +198,7 @@ layout: default
 |**2024-06-24**|**Accelerating Phase Field Simulations Through a Hybrid Adaptive Fourier Neural Operator with U-Net Backbone**|Christophe Bonneville et.al.|[2406.17119v1](http://arxiv.org/abs/2406.17119v1)|null|
 |**2024-06-24**|**Multi-Aperture Fusion of Transformer-Convolutional Network (MFTC-Net) for 3D Medical Image Segmentation and Visualization**|Siyavash Shabani et.al.|[2406.17080v1](http://arxiv.org/abs/2406.17080v1)|**[link](https://github.com/siyavashshabani/mftc-net)**|
 |**2024-06-24**|**Are Vision xLSTM Embedded UNet More Reliable in Medical 3D Image Segmentation?**|Pallabi Dutta et.al.|[2406.16993v1](http://arxiv.org/abs/2406.16993v1)|**[link](https://github.com/duttapallabi2907/uvixlstm)**|
-|**2024-06-20**|**SRViT: Vision Transformers for Estimating Radar Reflectivity from Satellite Observations at Scale**|Jason Stock et.al.|[2406.16955v2](http://arxiv.org/abs/2406.16955v2)|null|
+|**2024-06-20**|**SRViT: Vision Transformers for Estimating Radar Reflectivity from Satellite Observations at Scale**|Jason Stock et.al.|[2406.16955v2](http://arxiv.org/abs/2406.16955v2)|**[link](https://github.com/stockeh/srvit)**|
 |**2024-06-24**|**Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series**|Theresa Follath et.al.|[2406.16513v1](http://arxiv.org/abs/2406.16513v1)|null|
 |**2024-06-24**|**Priorformer: A UGC-VQA Method with content and distortion priors**|Yajing Pei et.al.|[2406.16297v1](http://arxiv.org/abs/2406.16297v1)|null|
 |**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204v1](http://arxiv.org/abs/2406.16204v1)|**[link](https://github.com/weitong8591/vop)**|
