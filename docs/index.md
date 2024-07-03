@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.02
+## Updated on 2024.07.03
 
 ## Image Generation
 
@@ -303,7 +303,7 @@ layout: default
 |**2024-06-17**|**MEDeA: Multi-view Efficient Depth Adjustment**|Mikhail Artemyev et.al.|[2406.12048v1](http://arxiv.org/abs/2406.12048v1)|null|
 |**2024-06-17**|**Multispectral Snapshot Image Registration Using Learned Cross Spectral Disparity Estimation and a Deep Guided Occlusion Reconstruction Network**|Frank Sippel et.al.|[2406.11284v1](http://arxiv.org/abs/2406.11284v1)|**[link](https://github.com/fau-lms/msir)**|
 |**2024-06-16**|**3D Gaze Tracking for Studying Collaborative Interactions in Mixed-Reality Environments**|Eduardo Davalos et.al.|[2406.11003v1](http://arxiv.org/abs/2406.11003v1)|null|
-|**2024-06-16**|**Rectified Iterative Disparity for Stereo Matching**|Weiqing Xiao et.al.|[2406.10943v1](http://arxiv.org/abs/2406.10943v1)|null|
+|**2024-06-16**|**Rectified Iterative Disparity for Stereo Matching**|Weiqing Xiao et.al.|[2406.10943v2](http://arxiv.org/abs/2406.10943v2)|null|
 |**2024-06-15**|**GenMM: Geometrically and Temporally Consistent Multimodal Data Generation for Video and LiDAR**|Bharat Singh et.al.|[2406.10722v1](http://arxiv.org/abs/2406.10722v1)|null|
 |**2024-06-14**|**The BabyView dataset: High-resolution egocentric videos of infants' and young children's everyday experiences**|Bria Long et.al.|[2406.10447v1](http://arxiv.org/abs/2406.10447v1)|null|
 |**2024-06-14**|**D-NPC: Dynamic Neural Point Clouds for Non-Rigid View Synthesis from Monocular Video**|Moritz Kappel et.al.|[2406.10078v1](http://arxiv.org/abs/2406.10078v1)|null|
