@@ -20,13 +20,13 @@
 |**2024-06-30**|**Efficient Personalized Text-to-image Generation by Leveraging Textual Subspace**|Shian Du et.al.|[2407.00608v1](http://arxiv.org/abs/2407.00608v1)|**[link](https://github.com/studying910/BaTex)**|
 |**2024-06-29**|**Toward a Diffusion-Based Generalist for Dense Vision Tasks**|Yue Fan et.al.|[2407.00503v1](http://arxiv.org/abs/2407.00503v1)|null|
 |**2024-06-29**|**The Factuality Tax of Diversity-Intervened Text-to-Image Generation: Benchmark and Fact-Augmented Intervention**|Yixin Wan et.al.|[2407.00377v1](http://arxiv.org/abs/2407.00377v1)|null|
-|**2024-06-28**|**Prompt Refinement with Image Pivot for Text-to-Image Generation**|Jingtao Zhan et.al.|[2407.00247v1](http://arxiv.org/abs/2407.00247v1)|null|
+|**2024-06-28**|**Prompt Refinement with Image Pivot for Text-to-Image Generation**|Jingtao Zhan et.al.|[2407.00247v1](http://arxiv.org/abs/2407.00247v1)|**[link](https://github.com/jingtaozhan/promptreformulate)**|
 |**2024-06-28**|**Analyzing Quality, Bias, and Performance in Text-to-Image Generative Models**|Nila Masrourisaadat et.al.|[2407.00138v1](http://arxiv.org/abs/2407.00138v1)|null|
 |**2024-06-28**|**Wavelets Are All You Need for Autoregressive Image Generation**|Wael Mattar et.al.|[2406.19997v1](http://arxiv.org/abs/2406.19997v1)|null|
 |**2024-06-28**|**Concept Lens: Visually Analyzing the Consistency of Semantic Manipulation in GANs**|Sangwon Jeong et.al.|[2406.19987v1](http://arxiv.org/abs/2406.19987v1)|null|
 |**2024-06-28**|**MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance**|Yuang Zhang et.al.|[2406.19680v1](http://arxiv.org/abs/2406.19680v1)|null|
 |**2024-06-28**|**PopAlign: Population-Level Alignment for Fair Text-to-Image Generation**|Shufan Li et.al.|[2406.19668v1](http://arxiv.org/abs/2406.19668v1)|**[link](https://github.com/jacklishufan/popalignsdxl)**|
-|**2024-06-28**|**Network Bending of Diffusion Models for Audio-Visual Generation**|Luke Dzwonczyk et.al.|[2406.19589v1](http://arxiv.org/abs/2406.19589v1)|null|
+|**2024-06-28**|**Network Bending of Diffusion Models for Audio-Visual Generation**|Luke Dzwonczyk et.al.|[2406.19589v1](http://arxiv.org/abs/2406.19589v1)|**[link](https://github.com/dzluke/DAFX2024)**|
 |**2024-06-27**|**Understanding Modality Preferences in Search Clarification**|Leila Tavakoli et.al.|[2406.19546v1](http://arxiv.org/abs/2406.19546v1)|null|
 |**2024-06-27**|**Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model**|Jiangtong Tan et.al.|[2406.19030v1](http://arxiv.org/abs/2406.19030v1)|null|
 |**2024-06-27**|**AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation**|Yanan Sun et.al.|[2406.18958v2](http://arxiv.org/abs/2406.18958v2)|null|
@@ -288,7 +288,7 @@
 |---|---|---|---|---|
 |**2024-07-03**|**Stereo Risk: A Continuous Modeling Approach to Stereo Matching**|Ce Liu et.al.|[2407.03152v1](http://arxiv.org/abs/2407.03152v1)|null|
 |**2024-07-02**|**Parametric Modeling and Estimation of Photon Registrations for 3D Imaging**|Weijian Zhang et.al.|[2407.02712v1](http://arxiv.org/abs/2407.02712v1)|null|
-|**2024-07-02**|**Depth-Aware Endoscopic Video Inpainting**|Francis Xiatian Zhang et.al.|[2407.02675v1](http://arxiv.org/abs/2407.02675v1)|null|
+|**2024-07-02**|**Depth-Aware Endoscopic Video Inpainting**|Francis Xiatian Zhang et.al.|[2407.02675v1](http://arxiv.org/abs/2407.02675v1)|**[link](https://github.com/FrancisXZhang/DAEVI)**|
 |**2024-07-02**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo et.al.|[2407.02038v2](http://arxiv.org/abs/2407.02038v2)|null|
 |**2024-06-30**|**CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation**|Huawei Sun et.al.|[2407.00697v1](http://arxiv.org/abs/2407.00697v1)|null|
 |**2024-06-28**|**Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey**|Uchitha Rajapaksha et.al.|[2406.19675v1](http://arxiv.org/abs/2406.19675v1)|null|
@@ -322,7 +322,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-03**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945v1](http://arxiv.org/abs/2407.02945v1)|null|
-|**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918v1](http://arxiv.org/abs/2407.02918v1)|null|
+|**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918v1](http://arxiv.org/abs/2407.02918v1)|**[link](https://github.com/wrld/free-surgs)**|
 |**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668v1](http://arxiv.org/abs/2407.02668v1)|null|
 |**2024-07-02**|**AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction**|Mustafa Khan et.al.|[2407.02598v1](http://arxiv.org/abs/2407.02598v1)|null|
 |**2024-07-01**|**DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**|Yujin Ham et.al.|[2407.01761v1](http://arxiv.org/abs/2407.01761v1)|null|
