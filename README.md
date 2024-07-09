@@ -1,4 +1,4 @@
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 
 ## Image Generation
 
@@ -155,7 +155,7 @@
 |**2024-07-05**|**Unified continuous-time q-learning for mean-field game and mean-field control problems**|Xiaoli Wei et.al.|[2407.04521v1](http://arxiv.org/abs/2407.04521v1)|null|
 |**2024-07-05**|**G-Adaptive mesh refinement -- leveraging graph neural networks and differentiable finite element solvers**|James Rowbottom et.al.|[2407.04516v1](http://arxiv.org/abs/2407.04516v1)|null|
 |**2024-07-05**|**Analysis of SIR Reaction diffusion system with constant birth and death rate**|Yiting Yao et.al.|[2407.04509v1](http://arxiv.org/abs/2407.04509v1)|null|
-|**2024-07-05**|**Speed-accuracy trade-off for the diffusion models: Wisdom from nonequlibrium thermodynamics and optimal transport**|Kotaro Ikeda et.al.|[2407.04495v1](http://arxiv.org/abs/2407.04495v1)|null|
+|**2024-07-05**|**Speed-accuracy trade-off for the diffusion models: Wisdom from nonequilibrium thermodynamics and optimal transport**|Kotaro Ikeda et.al.|[2407.04495v2](http://arxiv.org/abs/2407.04495v2)|null|
 |**2024-07-05**|**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**|Yinghua Yao et.al.|[2407.04493v1](http://arxiv.org/abs/2407.04493v1)|null|
 |**2024-07-05**|**VCD-Texture: Variance Alignment based 3D-2D Co-Denoising for Text-Guided Texturing**|Shang Liu et.al.|[2407.04461v1](http://arxiv.org/abs/2407.04461v1)|null|
 |**2024-07-05**|**Elemental Abundances in And XIX From Coadded Spectra**|L. R. Cullinane et.al.|[2407.04349v1](http://arxiv.org/abs/2407.04349v1)|null|
@@ -197,7 +197,7 @@
 |**2024-07-03**|**ADFQ-ViT: Activation-Distribution-Friendly Post-Training Quantization for Vision Transformers**|Yanfeng Jiang et.al.|[2407.02763v1](http://arxiv.org/abs/2407.02763v1)|null|
 |**2024-07-02**|**Deep Learning Based Apparent Diffusion Coefficient Map Generation from Multi-parametric MR Images for Patients with Diffuse Gliomas**|Zach Eidex et.al.|[2407.02616v2](http://arxiv.org/abs/2407.02616v2)|null|
 |**2024-07-02**|**OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation**|Kepan Nan et.al.|[2407.02371v1](http://arxiv.org/abs/2407.02371v1)|null|
-|**2024-07-02**|**LPViT: Low-Power Semi-structured Pruning for Vision Transformers**|Kaixin Xu et.al.|[2407.02068v1](http://arxiv.org/abs/2407.02068v1)|null|
+|**2024-07-02**|**LPViT: Low-Power Semi-structured Pruning for Vision Transformers**|Kaixin Xu et.al.|[2407.02068v2](http://arxiv.org/abs/2407.02068v2)|null|
 |**2024-07-02**|**Learning Granular Media Avalanche Behavior for Indirectly Manipulating Obstacles on a Granular Slope**|Haodi Hu et.al.|[2407.01898v1](http://arxiv.org/abs/2407.01898v1)|null|
 |**2024-06-30**|**Learning Frequency-Aware Dynamic Transformers for All-In-One Image Restoration**|Zenglin Shi et.al.|[2407.01636v1](http://arxiv.org/abs/2407.01636v1)|null|
 |**2024-07-01**|**xLSTM-UNet can be an Effective 2D & 3D Medical Image Segmentation Backbone with Vision-LSTM (ViL) better than its Mamba Counterpart**|Tianrun Chen et.al.|[2407.01530v2](http://arxiv.org/abs/2407.01530v2)|**[link](https://github.com/tianrun-chen/xLSTM-UNet-PyTorch)**|
@@ -292,7 +292,7 @@
 |**2024-07-02**|**Parametric Modeling and Estimation of Photon Registrations for 3D Imaging**|Weijian Zhang et.al.|[2407.02712v1](http://arxiv.org/abs/2407.02712v1)|null|
 |**2024-07-02**|**Depth-Aware Endoscopic Video Inpainting**|Francis Xiatian Zhang et.al.|[2407.02675v1](http://arxiv.org/abs/2407.02675v1)|**[link](https://github.com/FrancisXZhang/DAEVI)**|
 |**2024-07-02**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo et.al.|[2407.02038v3](http://arxiv.org/abs/2407.02038v3)|null|
-|**2024-06-30**|**CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation**|Huawei Sun et.al.|[2407.00697v1](http://arxiv.org/abs/2407.00697v1)|null|
+|**2024-06-30**|**CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation**|Huawei Sun et.al.|[2407.00697v2](http://arxiv.org/abs/2407.00697v2)|null|
 |**2024-06-28**|**Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey**|Uchitha Rajapaksha et.al.|[2406.19675v1](http://arxiv.org/abs/2406.19675v1)|null|
 |**2024-06-27**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park et.al.|[2406.18898v2](http://arxiv.org/abs/2406.18898v2)|null|
 |**2024-06-27**|**Dense Monocular Motion Segmentation Using Optical Flow and Pseudo Depth Map: A Zero-Shot Approach**|Yuxiang Huang et.al.|[2406.18837v1](http://arxiv.org/abs/2406.18837v1)|null|
