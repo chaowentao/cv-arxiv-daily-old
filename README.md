@@ -1,4 +1,4 @@
-## Updated on 2024.07.10
+## Updated on 2024.07.11
 
 ## Image Generation
 
@@ -170,11 +170,11 @@
 |**2024-07-08**|**Mixing of metastable diffusion processes with Gibbs invariant distribution**|Jungkyoung Lee et.al.|[2407.06383v1](http://arxiv.org/abs/2407.06383v1)|null|
 |**2024-07-08**|**Particle control via cryopumping and its impact on the edge plasma profiles of Alcator C-Mod**|M. A. Miller et.al.|[2407.06382v1](http://arxiv.org/abs/2407.06382v1)|null|
 |**2024-07-08**|**Microstructure.jl: a Julia Package for Probabilistic Microstructure Model Fitting with Diffusion MRI**|Ting Gong et.al.|[2407.06379v1](http://arxiv.org/abs/2407.06379v1)|null|
-|**2024-07-08**|**Enhanced Safety in Autonomous Driving: Integrating Latent State Diffusion Model for End-to-End Navigation**|Jianuo Huang et.al.|[2407.06317v1](http://arxiv.org/abs/2407.06317v1)|null|
+|**2024-07-08**|**Enhanced Safety in Autonomous Driving: Integrating Latent State Diffusion Model for End-to-End Navigation**|Jianuo Huang et.al.|[2407.06317v2](http://arxiv.org/abs/2407.06317v2)|null|
 |**2024-07-08**|**VIMI: Grounding Video Generation through Multi-modal Instruction**|Yuwei Fang et.al.|[2407.06304v1](http://arxiv.org/abs/2407.06304v1)|null|
 |**2024-07-08**|**Engineering morphogenesis of cell clusters with differentiable programming**|Ramya Deshpande et.al.|[2407.06295v1](http://arxiv.org/abs/2407.06295v1)|null|
 |**2024-07-08**|**Beyond theory driven discovery: hot random search and datum derived structures**|Chris J. Pickard et.al.|[2407.06294v1](http://arxiv.org/abs/2407.06294v1)|null|
-|**2024-07-08**|**New Synoptic Observations of the Cosmic Optical Background with New Horizons**|Marc Postman et.al.|[2407.06273v1](http://arxiv.org/abs/2407.06273v1)|null|
+|**2024-07-08**|**New Synoptic Observations of the Cosmic Optical Background with New Horizons**|Marc Postman et.al.|[2407.06273v2](http://arxiv.org/abs/2407.06273v2)|null|
 |**2024-07-08**|**FairDiff: Fair Segmentation with Point-Image Diffusion**|Wenyi Li et.al.|[2407.06250v1](http://arxiv.org/abs/2407.06250v1)|null|
 
 ## Vision Transformer
@@ -274,7 +274,7 @@
 |**2024-07-02**|**Efficient Stochastic Differential Equation for DEM Super Resolution with Void Filling**|Tongtong Zhang et.al.|[2407.01908v1](http://arxiv.org/abs/2407.01908v1)|null|
 |**2024-07-01**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519v1](http://arxiv.org/abs/2407.01519v1)|null|
 |**2024-07-01**|**Preserving Full Degradation Details for Blind Image Super-Resolution**|Hongda Liu et.al.|[2407.01299v2](http://arxiv.org/abs/2407.01299v2)|**[link](https://github.com/Chernobyllight/ReDSR)**|
-|**2024-07-01**|**DaBiT: Depth and Blur informed Transformer for Joint Refocusing and Super-Resolution**|Crispian Morris et.al.|[2407.01230v1](http://arxiv.org/abs/2407.01230v1)|null|
+|**2024-07-01**|**DaBiT: Depth and Blur informed Transformer for Joint Refocusing and Super-Resolution**|Crispian Morris et.al.|[2407.01230v2](http://arxiv.org/abs/2407.01230v2)|null|
 |**2024-06-28**|**ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**|Ding-Jiun Huang et.al.|[2406.20066v1](http://arxiv.org/abs/2406.20066v1)|null|
 |**2024-06-28**|**Neural Differentiable Modeling with Diffusion-Based Super-resolution for Two-Dimensional Spatiotemporal Turbulence**|Xiantao Fan et.al.|[2406.20047v1](http://arxiv.org/abs/2406.20047v1)|null|
 |**2024-06-28**|**CSAKD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Image Fusion**|Chih-Chung Hsu et.al.|[2406.19666v1](http://arxiv.org/abs/2406.19666v1)|**[link](https://github.com/ming053l/csakd)**|
