@@ -1,4 +1,4 @@
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 
 ## Image Generation
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875v1](http://arxiv.org/abs/2407.07875v1)|null|
 |**2024-07-10**|**StoryDiffusion: How to Support UX Storyboarding With Generative-AI**|Zhaohui Liang et.al.|[2407.07672v1](http://arxiv.org/abs/2407.07672v1)|null|
-|**2024-07-10**|**Trainable Highly-expressive Activation Functions**|Irit Chelly et.al.|[2407.07564v1](http://arxiv.org/abs/2407.07564v1)|null|
+|**2024-07-10**|**Trainable Highly-expressive Activation Functions**|Irit Chelly et.al.|[2407.07564v2](http://arxiv.org/abs/2407.07564v2)|null|
 |**2024-07-10**|**Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis**|Jian-Qing Zheng et.al.|[2407.07295v1](http://arxiv.org/abs/2407.07295v1)|null|
 |**2024-07-09**|**Few-Shot Image Generation by Conditional Relaxing Diffusion Inversion**|Yu Cao et.al.|[2407.07249v1](http://arxiv.org/abs/2407.07249v1)|null|
 |**2024-07-09**|**Accelerating Mobile Edge Generation (MEG) by Constrained Learning**|Xiaoxia Xu et.al.|[2407.07245v1](http://arxiv.org/abs/2407.07245v1)|null|
@@ -32,7 +32,7 @@
 |**2024-07-05**|**NSD-DIL: Null-Shot Deblurring Using Deep Identity Learning**|Sree Rama Vamsidhar S et.al.|[2407.04815v1](http://arxiv.org/abs/2407.04815v1)|null|
 |**2024-07-05**|**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**|Yinghua Yao et.al.|[2407.04493v1](http://arxiv.org/abs/2407.04493v1)|null|
 |**2024-07-04**|**Performance of Medical Image Fusion in High-level Analysis Tasks: A Mutual Enhancement Framework for Unaligned PAT and MRI Image Fusion**|Yutian Zhong et.al.|[2407.03992v1](http://arxiv.org/abs/2407.03992v1)|**[link](https://github.com/zhongniuniu/PAMRFuse-plus)**|
-|**2024-07-04**|**Leveraging Latent Diffusion Models for Training-Free In-Distribution Data Augmentation for Surface Defect Detection**|Federico Girella et.al.|[2407.03961v1](http://arxiv.org/abs/2407.03961v1)|**[link](https://github.com/intelligolabs/diag)**|
+|**2024-07-04**|**Leveraging Latent Diffusion Models for Training-Free In-Distribution Data Augmentation for Surface Defect Detection**|Federico Girella et.al.|[2407.03961v2](http://arxiv.org/abs/2407.03961v2)|**[link](https://github.com/intelligolabs/diag)**|
 |**2024-07-04**|**M^3:Manipulation Mask Manufacturer for Arbitrary-Scale Super-Resolution Mask**|Xinyu Yang et.al.|[2407.03695v1](http://arxiv.org/abs/2407.03695v1)|null|
 
 ## Light Field Super Resolution
@@ -157,7 +157,7 @@
 |**2024-07-10**|**Feasibility Study on Active Learning of Smart Surrogates for Scientific Simulations**|Pradeep Bajracharya et.al.|[2407.07674v1](http://arxiv.org/abs/2407.07674v1)|null|
 |**2024-07-10**|**VEnhancer: Generative Space-Time Enhancement for Video Generation**|Jingwen He et.al.|[2407.07667v1](http://arxiv.org/abs/2407.07667v1)|null|
 |**2024-07-10**|**Single Crystal Diffuse Neutron Scattering Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce$_2$Zr$_2$O$_7$: No Apparent Octupolar Correlations Above $T = 0.05$ K**|E. M. Smith et.al.|[2407.07640v1](http://arxiv.org/abs/2407.07640v1)|null|
-|**2024-07-10**|**MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis**|Wanggui He et.al.|[2407.07614v1](http://arxiv.org/abs/2407.07614v1)|**[link](https://github.com/fusiming3/mars)**|
+|**2024-07-10**|**MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis**|Wanggui He et.al.|[2407.07614v2](http://arxiv.org/abs/2407.07614v2)|**[link](https://github.com/fusiming3/mars)**|
 |**2024-07-10**|**Collective Effects in Breath Figures**|Ambre Bouillant et.al.|[2407.07608v1](http://arxiv.org/abs/2407.07608v1)|null|
 |**2024-07-10**|**Extended gamma-ray emission from particle escape in pulsar wind nebulae -- Application to HESS J1809-193 and HESS J1825-137**|Pierrick Martin et.al.|[2407.07583v1](http://arxiv.org/abs/2407.07583v1)|null|
 |**2024-07-10**|**IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2407.07520v1](http://arxiv.org/abs/2407.07520v1)|**[link](https://github.com/ipic-lab/irsam)**|
@@ -175,7 +175,7 @@
 |**2024-07-09**|**Reproducing Kernel Hilbert Space Approach to Non-Markovian Quantum Stochastic Models**|John E. Gough et.al.|[2407.07231v1](http://arxiv.org/abs/2407.07231v1)|null|
 |**2024-07-09**|**Using Galaxy Evolution as Source of Physics-Based Ground Truth for Generative Models**|Yun Qi Li et.al.|[2407.07229v1](http://arxiv.org/abs/2407.07229v1)|**[link](https://github.com/astrodatalab/li2024_public)**|
 |**2024-07-09**|**A Toy Model for the 2/3 Fractional Quantum Hall edge channel**|D. Christian Glattli et.al.|[2407.07208v1](http://arxiv.org/abs/2407.07208v1)|null|
-|**2024-07-09**|**ColorPeel: Color Prompt Learning with Diffusion Models via Color and Shape Disentanglement**|Muhammad Atif Butt et.al.|[2407.07197v1](http://arxiv.org/abs/2407.07197v1)|null|
+|**2024-07-09**|**ColorPeel: Color Prompt Learning with Diffusion Models via Color and Shape Disentanglement**|Muhammad Atif Butt et.al.|[2407.07197v1](http://arxiv.org/abs/2407.07197v1)|**[link](https://github.com/moatifbutt/color-peel)**|
 
 ## Vision Transformer
 
