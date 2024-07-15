@@ -4,11 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3**|Georgios Makridis et.al.|[2407.09467v1](http://arxiv.org/abs/2407.09467v1)|null|
+|**2024-07-12**|**PID: Physics-Informed Diffusion Model for Infrared Image Generation**|Fangyuan Mao et.al.|[2407.09299v1](http://arxiv.org/abs/2407.09299v1)|**[link](https://github.com/fangyuanmao/pid)**|
+|**2024-07-12**|**Surgical Text-to-Image Generation**|Chinedu Innocent Nwoye et.al.|[2407.09230v1](http://arxiv.org/abs/2407.09230v1)|null|
+|**2024-07-12**|**DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training**|Chen Xin et.al.|[2407.09174v1](http://arxiv.org/abs/2407.09174v1)|**[link](https://github.com/chen-xin-94/dart)**|
+|**2024-07-12**|**Machine Apophenia: The Kaleidoscopic Generation of Architectural Images**|Alexey Tikhonov et.al.|[2407.09172v1](http://arxiv.org/abs/2407.09172v1)|null|
 |**2024-07-11**|**SEED-Story: Multimodal Long Story Generation with Large Language Model**|Shuai Yang et.al.|[2407.08683v1](http://arxiv.org/abs/2407.08683v1)|**[link](https://github.com/tencentarc/seed-story)**|
 |**2024-07-11**|**CAD-Prompted Generative Models: A Pathway to Feasible and Novel Engineering Designs**|Leah Chong et.al.|[2407.08675v1](http://arxiv.org/abs/2407.08675v1)|null|
 |**2024-07-11**|**Neural Poisson Solver: A Universal and Continuous Framework for Natural Signal Blending**|Delong Wu et.al.|[2407.08457v2](http://arxiv.org/abs/2407.08457v2)|null|
 |**2024-07-11**|**E2VIDiff: Perceptual Events-to-Video Reconstruction using Diffusion Priors**|Jinxiu Liang et.al.|[2407.08231v1](http://arxiv.org/abs/2407.08231v1)|null|
-|**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875v1](http://arxiv.org/abs/2407.07875v1)|null|
+|**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875v1](http://arxiv.org/abs/2407.07875v1)|**[link](https://github.com/MohitShridhar/genima)**|
 |**2024-07-10**|**StoryDiffusion: How to Support UX Storyboarding With Generative-AI**|Zhaohui Liang et.al.|[2407.07672v1](http://arxiv.org/abs/2407.07672v1)|null|
 |**2024-07-10**|**Trainable Highly-expressive Activation Functions**|Irit Chelly et.al.|[2407.07564v2](http://arxiv.org/abs/2407.07564v2)|null|
 |**2024-07-10**|**Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis**|Jian-Qing Zheng et.al.|[2407.07295v1](http://arxiv.org/abs/2407.07295v1)|null|
@@ -29,11 +34,6 @@
 |**2024-07-07**|**Enhancing Label-efficient Medical Image Segmentation with Text-guided Diffusion Models**|Chun-Mei Feng et.al.|[2407.05323v1](http://arxiv.org/abs/2407.05323v1)|null|
 |**2024-07-07**|**Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data**|Eun Som Jeon et.al.|[2407.05315v1](http://arxiv.org/abs/2407.05315v1)|null|
 |**2024-07-07**|**An Improved Method for Personalizing Diffusion Models**|Yan Zeng et.al.|[2407.05312v1](http://arxiv.org/abs/2407.05312v1)|null|
-|**2024-07-07**|**UltraEdit: Instruction-based Fine-Grained Image Editing at Scale**|Haozhe Zhao et.al.|[2407.05282v1](http://arxiv.org/abs/2407.05282v1)|null|
-|**2024-07-07**|**Multi-scale Conditional Generative Modeling for Microscopic Image Restoration**|Luzhe Huang et.al.|[2407.05259v1](http://arxiv.org/abs/2407.05259v1)|null|
-|**2024-07-06**|**A Domain Adaptation Model for Carotid Ultrasound: Image Harmonization, Noise Reduction, and Impact on Cardiovascular Risk Markers**|Mohd Usama et.al.|[2407.05163v1](http://arxiv.org/abs/2407.05163v1)|null|
-|**2024-07-05**|**MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?**|Zhaorun Chen et.al.|[2407.04842v1](http://arxiv.org/abs/2407.04842v1)|**[link](https://github.com/MJ-Bench/MJ-Bench)**|
-|**2024-07-05**|**NSD-DIL: Null-Shot Deblurring Using Deep Identity Learning**|Sree Rama Vamsidhar S et.al.|[2407.04815v1](http://arxiv.org/abs/2407.04815v1)|null|
 
 ## Light Field Super Resolution
 
@@ -146,41 +146,43 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**A Primitive Model for Predicting Membrane Currents in Excitable Cells Based Only on Ion Diffusion Coefficients**|Vivaan Patel et.al.|[2407.09474v1](http://arxiv.org/abs/2407.09474v1)|null|
+|**2024-07-12**|**Weak Chaos, Anomalous Diffusion, and Weak Ergodicity Breaking in Systems with Delay**|Tony Albers et.al.|[2407.09449v1](http://arxiv.org/abs/2407.09449v1)|null|
+|**2024-07-12**|**Intensive broadband reverberation mapping of Fairall 9 with 1.8 years of daily Swift monitoring**|R. Edelson et.al.|[2407.09445v1](http://arxiv.org/abs/2407.09445v1)|null|
+|**2024-07-12**|**Efficient energy-stable parametric finite element methods for surface diffusion flow and applications in solid-state dewetting**|Meng Li et.al.|[2407.09418v1](http://arxiv.org/abs/2407.09418v1)|null|
+|**2024-07-12**|**A Numerical Study of WENO Approximations to Sharp Propagating Fronts for Reaction-Diffusion Systems**|Jiaxi Gu et.al.|[2407.09393v1](http://arxiv.org/abs/2407.09393v1)|null|
+|**2024-07-12**|**Grain boundaries control lithiation of solid solution substrates in lithium metal batteries**|Leonardo Shoji Aota et.al.|[2407.09374v1](http://arxiv.org/abs/2407.09374v1)|null|
+|**2024-07-12**|**Any-Property-Conditional Molecule Generation with Self-Criticism using Spanning Trees**|Alexia Jolicoeur-Martineau et.al.|[2407.09357v1](http://arxiv.org/abs/2407.09357v1)|null|
+|**2024-07-12**|**Thermodynamics of Giant Molecular Clouds: The Effects of Dust Grain Size**|Nadine H. Soliman et.al.|[2407.09343v1](http://arxiv.org/abs/2407.09343v1)|null|
+|**2024-07-12**|**PID: Physics-Informed Diffusion Model for Infrared Image Generation**|Fangyuan Mao et.al.|[2407.09299v1](http://arxiv.org/abs/2407.09299v1)|**[link](https://github.com/fangyuanmao/pid)**|
+|**2024-07-12**|**SS-SfP:Neural Inverse Rendering for Self Supervised Shape from (Mixed) Polarization**|Ashish Tiwari et.al.|[2407.09294v1](http://arxiv.org/abs/2407.09294v1)|null|
+|**2024-07-12**|**Surgical Text-to-Image Generation**|Chinedu Innocent Nwoye et.al.|[2407.09230v1](http://arxiv.org/abs/2407.09230v1)|null|
+|**2024-07-12**|**Salt & Pepper Heatmaps: Diffusion-informed Landmark Detection Strategy**|Julian Wyatt et.al.|[2407.09192v1](http://arxiv.org/abs/2407.09192v1)|null|
+|**2024-07-12**|**Nonequilibrium Thermodynamics of Non-Ideal Reaction-Diffusion Systems: Implications for Active Self-Organization**|Francesco Avanzini et.al.|[2407.09128v1](http://arxiv.org/abs/2407.09128v1)|null|
+|**2024-07-12**|**Quantitative diffusion approximation for the Neutral $r$-Alleles Wright-Fisher Model with Mutations**|Peng Chen et.al.|[2407.09102v1](http://arxiv.org/abs/2407.09102v1)|null|
+|**2024-07-12**|**On Exact Bit-level Reversible Transformers Without Changing Architectures**|Guoqiang Zhang et.al.|[2407.09093v1](http://arxiv.org/abs/2407.09093v1)|null|
+|**2024-07-12**|**Aligning Diffusion Behaviors with Q-functions for Efficient Continuous Control**|Huayu Chen et.al.|[2407.09024v1](http://arxiv.org/abs/2407.09024v1)|null|
+|**2024-07-12**|**TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models**|Jeongho Kim et.al.|[2407.09012v1](http://arxiv.org/abs/2407.09012v1)|null|
+|**2024-07-12**|**Hot Spot Offset Variability from Magnetohydrodynamical Thermoresistive Instability in Hot Jupiters**|Raphaël Hardy et.al.|[2407.08960v1](http://arxiv.org/abs/2407.08960v1)|null|
+|**2024-07-12**|**Your Diffusion Model is Secretly a Noise Classifier and Benefits from Contrastive Training**|Yunshu Wu et.al.|[2407.08946v1](http://arxiv.org/abs/2407.08946v1)|null|
+|**2024-07-12**|**Bora: Biomedical Generalist Video Generation Model**|Weixiang Sun et.al.|[2407.08944v1](http://arxiv.org/abs/2407.08944v1)|null|
+|**2024-07-12**|**LightenDiffusion: Unsupervised Low-Light Image Enhancement with Latent-Retinex Diffusion Models**|Hai Jiang et.al.|[2407.08939v1](http://arxiv.org/abs/2407.08939v1)|**[link](https://github.com/jianghaiscu/lightendiffusion)**|
+|**2024-07-12**|**Dynamics for a diffusive epidemic model with a free boundary: spreading speed**|Xueping Li et.al.|[2407.08928v1](http://arxiv.org/abs/2407.08928v1)|null|
+|**2024-07-12**|**Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning**|Chuang Zhang et.al.|[2407.08914v1](http://arxiv.org/abs/2407.08914v1)|null|
+|**2024-07-12**|**AirSketch: Generative Motion to Sketch**|Hui Xian Grace Lim et.al.|[2407.08906v1](http://arxiv.org/abs/2407.08906v1)|null|
+|**2024-07-11**|**TractGraphFormer: Anatomically Informed Hybrid Graph CNN-Transformer Network for Classification from Diffusion MRI Tractography**|Yuqian Chen et.al.|[2407.08883v1](http://arxiv.org/abs/2407.08883v1)|null|
+|**2024-07-11**|**Inflationary Flows: Calibrated Bayesian Inference with Diffusion-Based Models**|Daniela de Albuquerque et.al.|[2407.08843v1](http://arxiv.org/abs/2407.08843v1)|null|
 |**2024-07-11**|**Video Diffusion Alignment via Reward Gradients**|Mihir Prabhudesai et.al.|[2407.08737v1](http://arxiv.org/abs/2407.08737v1)|**[link](https://github.com/mihirp1998/vader)**|
 |**2024-07-11**|**Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models**|Zhening Xing et.al.|[2407.08701v1](http://arxiv.org/abs/2407.08701v1)|null|
 |**2024-07-11**|**CAD-Prompted Generative Models: A Pathway to Feasible and Novel Engineering Designs**|Leah Chong et.al.|[2407.08675v1](http://arxiv.org/abs/2407.08675v1)|null|
 |**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659v1](http://arxiv.org/abs/2407.08659v1)|null|
-|**2024-07-11**|**Fine-Tuning Stable Diffusion XL for Stylistic Icon Generation: A Comparison of Caption Size**|Youssef Sultan et.al.|[2407.08513v1](http://arxiv.org/abs/2407.08513v1)|null|
-|**2024-07-11**|**Latent Conditional Diffusion-based Data Augmentation for Continuous-Time Dynamic Graph Mode**|Yuxing Tian et.al.|[2407.08500v1](http://arxiv.org/abs/2407.08500v1)|null|
-|**2024-07-11**|**Killing versus catastrophes in birth-death processes and an application to population genetics**|Ellen Baake et.al.|[2407.08478v1](http://arxiv.org/abs/2407.08478v1)|null|
-|**2024-07-11**|**Propagation and non-reciprocity in time-modulated diffusion through the lens of high-order homogenization**|Marie Touboul et.al.|[2407.08456v1](http://arxiv.org/abs/2407.08456v1)|null|
-|**2024-07-11**|**A fitted space-time finite element method for an advection-diffusion problem with moving interfaces**|Quang Huy Nguyen et.al.|[2407.08439v1](http://arxiv.org/abs/2407.08439v1)|null|
-|**2024-07-11**|**Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers**|Zhengbo Zhang et.al.|[2407.08394v1](http://arxiv.org/abs/2407.08394v1)|null|
-|**2024-07-11**|**Dissolution of variable-in-shape drug particles via the level-set method**|Emiliano Cristiani et.al.|[2407.08350v1](http://arxiv.org/abs/2407.08350v1)|null|
-|**2024-07-11**|**Wind Power Assessment based on Super-Resolution and Downscaling -- A Comparison of Deep Learning Methods**|Luca Schmidt et.al.|[2407.08259v1](http://arxiv.org/abs/2407.08259v1)|null|
-|**2024-07-11**|**Adaptive Compressed Sensing with Diffusion-Based Posterior Sampling**|Noam Elata et.al.|[2407.08256v1](http://arxiv.org/abs/2407.08256v1)|null|
-|**2024-07-11**|**Synchronous Diffusion for Unsupervised Smooth Non-Rigid 3D Shape Matching**|Dongliang Cao et.al.|[2407.08244v1](http://arxiv.org/abs/2407.08244v1)|null|
-|**2024-07-11**|**E2VIDiff: Perceptual Events-to-Video Reconstruction using Diffusion Priors**|Jinxiu Liang et.al.|[2407.08231v1](http://arxiv.org/abs/2407.08231v1)|null|
-|**2024-07-11**|**The Cauchy problem for quasi-linear parabolic systems revisited**|Isabelle Gallagher et.al.|[2407.08226v1](http://arxiv.org/abs/2407.08226v1)|null|
-|**2024-07-11**|**Dynamical critical behavior of the two-dimensional three-state Potts model**|Erol Vatansever et.al.|[2407.08198v1](http://arxiv.org/abs/2407.08198v1)|null|
-|**2024-07-11**|**Performance-Barrier Event-Triggered Control of a Class of Reaction-Diffusion PDEs**|Bhathiya Rathnayake et.al.|[2407.08178v1](http://arxiv.org/abs/2407.08178v1)|null|
-|**2024-07-11**|**Generalized Diffusive Epidemic Process with Permanent Immunity in Two Dimensions**|V. R. Carvalho et.al.|[2407.08175v1](http://arxiv.org/abs/2407.08175v1)|null|
-|**2024-07-11**|**Survey on Fundamental Deep Learning 3D Reconstruction Techniques**|Yonge Bai et.al.|[2407.08137v1](http://arxiv.org/abs/2407.08137v1)|null|
-|**2024-07-11**|**Non-convergence of Adam and other adaptive stochastic gradient descent optimization methods for non-vanishing learning rates**|Steffen Dereich et.al.|[2407.08100v1](http://arxiv.org/abs/2407.08100v1)|null|
-|**2024-07-10**|**RoCap: A Robotic Data Collection Pipeline for the Pose Estimation of Appearance-Changing Objects**|Jiahao Nick Li et.al.|[2407.08081v1](http://arxiv.org/abs/2407.08081v1)|null|
-|**2024-07-10**|**Towards Interpretable Foundation Models of Robot Behavior: A Task Specific Policy Generation Approach**|Isaac Sheidlower et.al.|[2407.08065v1](http://arxiv.org/abs/2407.08065v1)|null|
-|**2024-07-10**|**Geospecific View Generation -- Geometry-Context Aware High-resolution Ground View Inference from Satellite Views**|Ningli Xu et.al.|[2407.08061v1](http://arxiv.org/abs/2407.08061v1)|null|
-|**2024-07-10**|**Coherent and Multi-modality Image Inpainting via Latent Space Optimization**|Lingzhi Pan et.al.|[2407.08019v1](http://arxiv.org/abs/2407.08019v1)|null|
-|**2024-07-10**|**What's the score? Automated Denoising Score Matching for Nonlinear Diffusions**|Raghav Singhal et.al.|[2407.07998v1](http://arxiv.org/abs/2407.07998v1)|null|
-|**2024-07-10**|**Purity benchmarking study of error coherence in a single Xmon qubit**|Auda Zhu et.al.|[2407.07960v1](http://arxiv.org/abs/2407.07960v1)|null|
-|**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875v1](http://arxiv.org/abs/2407.07875v1)|null|
-|**2024-07-10**|**Dynamical Measure Transport and Neural PDE Solvers for Sampling**|Jingtong Sun et.al.|[2407.07873v1](http://arxiv.org/abs/2407.07873v1)|null|
-|**2024-07-10**|**Controlling Space and Time with Diffusion Models**|Daniel Watson et.al.|[2407.07860v1](http://arxiv.org/abs/2407.07860v1)|null|
 
 ## Vision Transformer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Revealing the Dark Secrets of Extremely Large Kernel ConvNets on Robustness**|Honghao Chen et.al.|[2407.08972v1](http://arxiv.org/abs/2407.08972v1)|**[link](https://github.com/lauch1ng/lkrobust)**|
+|**2024-07-11**|**CXR-Agent: Vision-language models for chest X-ray interpretation with uncertainty aware radiology reporting**|Naman Sharma et.al.|[2407.08811v1](http://arxiv.org/abs/2407.08811v1)|null|
 |**2024-07-11**|**Semantic GUI Scene Learning and Video Alignment for Detecting Duplicate Video-based Bug Reports**|Yanfu Yan et.al.|[2407.08610v1](http://arxiv.org/abs/2407.08610v1)|null|
 |**2024-07-10**|**DIOR-ViT: Differential Ordinal Learning Vision Transformer for Cancer Classification in Pathology Images**|Ju Cheon Lee et.al.|[2407.08503v1](http://arxiv.org/abs/2407.08503v1)|null|
 |**2024-07-10**|**MambaVision: A Hybrid Mamba-Transformer Vision Backbone**|Ali Hatamizadeh et.al.|[2407.08083v1](http://arxiv.org/abs/2407.08083v1)|**[link](https://github.com/nvlabs/mambavision)**|
@@ -209,13 +211,14 @@
 |**2024-07-06**|**PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference**|Ye Li et.al.|[2407.05010v1](http://arxiv.org/abs/2407.05010v1)|null|
 |**2024-07-05**|**Improving ensemble extreme precipitation forecasts using generative artificial intelligence**|Yingkai Sha et.al.|[2407.04882v1](http://arxiv.org/abs/2407.04882v1)|null|
 |**2024-07-05**|**Transformer Wave Function for Quantum Long-Range models**|Sebastián Roca-Jerat et.al.|[2407.04773v1](http://arxiv.org/abs/2407.04773v1)|null|
-|**2024-07-05**|**Isomorphic Pruning for Vision Models**|Gongfan Fang et.al.|[2407.04616v1](http://arxiv.org/abs/2407.04616v1)|**[link](https://github.com/vainf/isomorphic-pruning)**|
-|**2024-07-05**|**PDiscoFormer: Relaxing Part Discovery Constraints with Vision Transformers**|Ananthu Aniraj et.al.|[2407.04538v2](http://arxiv.org/abs/2407.04538v2)|**[link](https://github.com/ananthu-aniraj/pdiscoformer)**|
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Radiance Fields from Photons**|Sacha Jungerman et.al.|[2407.09386v1](http://arxiv.org/abs/2407.09386v1)|null|
+|**2024-07-12**|**HPC: Hierarchical Progressive Coding Framework for Volumetric Video**|Zihan Zheng et.al.|[2407.09026v1](http://arxiv.org/abs/2407.09026v1)|null|
+|**2024-07-11**|**Feasibility of Neural Radiance Fields for Crime Scene Video Reconstruction**|Shariq Nadeem Malik et.al.|[2407.08795v1](http://arxiv.org/abs/2407.08795v1)|null|
 |**2024-07-11**|**WildGaussians: 3D Gaussian Splatting in the Wild**|Jonas Kulhanek et.al.|[2407.08447v1](http://arxiv.org/abs/2407.08447v1)|null|
 |**2024-07-11**|**MeshAvatar: Learning High-quality Triangular Human Avatars from Multi-view Videos**|Yushuo Chen et.al.|[2407.08414v1](http://arxiv.org/abs/2407.08414v1)|**[link](https://github.com/shad0wta9/meshavatar)**|
 |**2024-07-11**|**Explicit_NeRF_QA: A Quality Assessment Database for Explicit NeRF Model Compression**|Yuke Xing et.al.|[2407.08165v1](http://arxiv.org/abs/2407.08165v1)|null|
@@ -243,14 +246,13 @@
 |**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811v1](http://arxiv.org/abs/2406.19811v1)|null|
 |**2024-06-27**|**Shorter SPECT Scans Using Self-supervised Coordinate Learning to Synthesize Skipped Projection Views**|Zongyu Li et.al.|[2406.18840v1](http://arxiv.org/abs/2406.18840v1)|null|
 |**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438v1](http://arxiv.org/abs/2406.17438v1)|**[link](https://github.com/qimaqi/Implicit-Zoo)**|
-|**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345v1](http://arxiv.org/abs/2406.17345v1)|null|
-|**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850v1](http://arxiv.org/abs/2406.16850v1)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
-|**2024-06-24**|**Articulate your NeRF: Unsupervised articulated object modeling via conditional view synthesis**|Jianning Deng et.al.|[2406.16623v1](http://arxiv.org/abs/2406.16623v1)|null|
 
 ## Super Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268v1](http://arxiv.org/abs/2407.09268v1)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
+|**2024-07-12**|**Task-driven single-image super-resolution reconstruction of document scans**|Maciej Zyrek et.al.|[2407.08993v1](http://arxiv.org/abs/2407.08993v1)|null|
 |**2024-07-11**|**Global Spatial-Temporal Information-based Residual ConvLSTM for Video Space-Time Super-Resolution**|Congrui Fu et.al.|[2407.08466v1](http://arxiv.org/abs/2407.08466v1)|null|
 |**2024-07-11**|**Wind Power Assessment based on Super-Resolution and Downscaling -- A Comparison of Deep Learning Methods**|Luca Schmidt et.al.|[2407.08259v1](http://arxiv.org/abs/2407.08259v1)|null|
 |**2024-07-11**|**Spatially-Variant Degradation Model for Dataset-free Super-resolution**|Shaojie Guo et.al.|[2407.08252v1](http://arxiv.org/abs/2407.08252v1)|null|
@@ -279,13 +281,12 @@
 |**2024-07-02**|**Real HSI-MSI-PAN image dataset for the hyperspectral/multi-spectral/panchromatic image fusion and super-resolution fields**|Shuangliang Li et.al.|[2407.02387v2](http://arxiv.org/abs/2407.02387v2)|**[link](https://github.com/rs-lsl/cssnet)**|
 |**2024-07-02**|**Efficient Stochastic Differential Equation for DEM Super Resolution with Void Filling**|Tongtong Zhang et.al.|[2407.01908v1](http://arxiv.org/abs/2407.01908v1)|null|
 |**2024-07-01**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519v1](http://arxiv.org/abs/2407.01519v1)|null|
-|**2024-07-01**|**Preserving Full Degradation Details for Blind Image Super-Resolution**|Hongda Liu et.al.|[2407.01299v2](http://arxiv.org/abs/2407.01299v2)|**[link](https://github.com/Chernobyllight/ReDSR)**|
-|**2024-07-01**|**DaBiT: Depth and Blur informed Transformer for Joint Refocusing and Super-Resolution**|Crispian Morris et.al.|[2407.01230v2](http://arxiv.org/abs/2407.01230v2)|null|
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**ProDepth: Boosting Self-Supervised Multi-Frame Monocular Depth with Probabilistic Fusion**|Sungmin Woo et.al.|[2407.09303v1](http://arxiv.org/abs/2407.09303v1)|**[link](https://github.com/sungmin-woo/ProDepth)**|
 |**2024-07-11**|**ScaleDepth: Decomposing Metric Depth Estimation into Scale Prediction and Relative Depth Estimation**|Ruijie Zhu et.al.|[2407.08187v1](http://arxiv.org/abs/2407.08187v1)|null|
 |**2024-07-10**|**Controlling Space and Time with Diffusion Models**|Daniel Watson et.al.|[2407.07860v1](http://arxiv.org/abs/2407.07860v1)|null|
 |**2024-07-07**|**SCIPaD: Incorporating Spatial Clues into Unsupervised Pose-Depth Joint Learning**|Yi Feng et.al.|[2407.05283v1](http://arxiv.org/abs/2407.05283v1)|**[link](https://github.com/fengyi233/SCIPaD)**|
@@ -315,16 +316,17 @@
 |**2024-06-14**|**D-NPC: Dynamic Neural Point Clouds for Non-Rigid View Synthesis from Monocular Video**|Moritz Kappel et.al.|[2406.10078v1](http://arxiv.org/abs/2406.10078v1)|null|
 |**2024-06-14**|**DurLAR: A High-fidelity 128-channel LiDAR Dataset with Panoramic Ambient and Reflectivity Imagery for Multi-modal Autonomous Driving Applications**|Li Li et.al.|[2406.10068v1](http://arxiv.org/abs/2406.10068v1)|**[link](https://github.com/l1997i/DurLAR)**|
 |**2024-06-14**|**Unsupervised Monocular Depth Estimation Based on Hierarchical Feature-Guided Diffusion**|Runze Liu et.al.|[2406.09782v1](http://arxiv.org/abs/2406.09782v1)|null|
-|**2024-06-13**|**Depth Anything V2**|Lihe Yang et.al.|[2406.09414v1](http://arxiv.org/abs/2406.09414v1)|**[link](https://github.com/DepthAnything/Depth-Anything-V2)**|
 
 ## View Synthesis
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Radiance Fields from Photons**|Sacha Jungerman et.al.|[2407.09386v1](http://arxiv.org/abs/2407.09386v1)|null|
+|**2024-07-12**|**Learning High-Frequency Functions Made Easy with Sinusoidal Positional Encoding**|Chuanhao Sun et.al.|[2407.09370v1](http://arxiv.org/abs/2407.09370v1)|null|
 |**2024-07-11**|**WayveScenes101: A Dataset and Benchmark for Novel View Synthesis in Autonomous Driving**|Jannik Zürn et.al.|[2407.08280v1](http://arxiv.org/abs/2407.08280v1)|**[link](https://github.com/wayveai/wayve_scenes)**|
 |**2024-07-11**|**GAURA: Generalizable Approach for Unified Restoration and Rendering of Arbitrary Views**|Vinayak Gupta et.al.|[2407.08221v1](http://arxiv.org/abs/2407.08221v1)|null|
 |**2024-07-10**|**Geospecific View Generation -- Geometry-Context Aware High-resolution Ground View Inference from Satellite Views**|Ningli Xu et.al.|[2407.08061v1](http://arxiv.org/abs/2407.08061v1)|null|
-|**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875v1](http://arxiv.org/abs/2407.07875v1)|null|
+|**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875v1](http://arxiv.org/abs/2407.07875v1)|**[link](https://github.com/MohitShridhar/genima)**|
 |**2024-07-10**|**Controlling Space and Time with Diffusion Models**|Daniel Watson et.al.|[2407.07860v1](http://arxiv.org/abs/2407.07860v1)|null|
 |**2024-07-09**|**Reference-based Controllable Scene Stylization with Gaussian Splatting**|Yiqun Mei et.al.|[2407.07220v1](http://arxiv.org/abs/2407.07220v1)|null|
 |**2024-07-08**|**RRM: Relightable assets using Radiance guided Material extraction**|Diego Gomez et.al.|[2407.06397v1](http://arxiv.org/abs/2407.06397v1)|null|
@@ -349,6 +351,4 @@
 |**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524v1](http://arxiv.org/abs/2406.18524v1)|null|
 |**2024-06-26**|**XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis**|Hao Li et.al.|[2406.18360v2](http://arxiv.org/abs/2406.18360v2)|null|
 |**2024-06-26**|**VDG: Vision-Only Dynamic Gaussian for Driving Simulation**|Hao Li et.al.|[2406.18198v1](http://arxiv.org/abs/2406.18198v1)|null|
-|**2024-06-26**|**View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**|Subin Varghese et.al.|[2406.18012v1](http://arxiv.org/abs/2406.18012v1)|null|
-|**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345v1](http://arxiv.org/abs/2406.17345v1)|null|
 
