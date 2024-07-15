@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 
 ## Image Generation
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-11**|**SEED-Story: Multimodal Long Story Generation with Large Language Model**|Shuai Yang et.al.|[2407.08683v1](http://arxiv.org/abs/2407.08683v1)|**[link](https://github.com/tencentarc/seed-story)**|
 |**2024-07-11**|**CAD-Prompted Generative Models: A Pathway to Feasible and Novel Engineering Designs**|Leah Chong et.al.|[2407.08675v1](http://arxiv.org/abs/2407.08675v1)|null|
-|**2024-07-11**|**Neural Poisson Solver: A Universal and Continuous Framework for Natural Signal Blending**|Delong Wu et.al.|[2407.08457v1](http://arxiv.org/abs/2407.08457v1)|null|
+|**2024-07-11**|**Neural Poisson Solver: A Universal and Continuous Framework for Natural Signal Blending**|Delong Wu et.al.|[2407.08457v2](http://arxiv.org/abs/2407.08457v2)|null|
 |**2024-07-11**|**E2VIDiff: Perceptual Events-to-Video Reconstruction using Diffusion Priors**|Jinxiu Liang et.al.|[2407.08231v1](http://arxiv.org/abs/2407.08231v1)|null|
 |**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875v1](http://arxiv.org/abs/2407.07875v1)|null|
 |**2024-07-10**|**StoryDiffusion: How to Support UX Storyboarding With Generative-AI**|Zhaohui Liang et.al.|[2407.07672v1](http://arxiv.org/abs/2407.07672v1)|null|
@@ -277,7 +277,7 @@ layout: default
 |**2024-07-04**|**M^3:Manipulation Mask Manufacturer for Arbitrary-Scale Super-Resolution Mask**|Xinyu Yang et.al.|[2407.03695v1](http://arxiv.org/abs/2407.03695v1)|null|
 |**2024-07-04**|**ASteISR: Adapting Single Image Super-resolution Pre-trained Model for Efficient Stereo Image Super-resolution**|Yuanbo Zhou et.al.|[2407.03598v1](http://arxiv.org/abs/2407.03598v1)|null|
 |**2024-07-03**|**Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis**|Tong Zhou et.al.|[2407.03089v2](http://arxiv.org/abs/2407.03089v2)|null|
-|**2024-07-03**|**Data Overfitting for On-Device Super-Resolution with Dynamic Algorithm and Compiler Co-Design**|Gen Li et.al.|[2407.02813v1](http://arxiv.org/abs/2407.02813v1)|**[link](https://github.com/coulsonlee/dy-dca-eccv2024)**|
+|**2024-07-03**|**Data Overfitting for On-Device Super-Resolution with Dynamic Algorithm and Compiler Co-Design**|Gen Li et.al.|[2407.02813v2](http://arxiv.org/abs/2407.02813v2)|**[link](https://github.com/coulsonlee/dy-dca-eccv2024)**|
 |**2024-07-02**|**Adversarial Magnification to Deceive Deepfake Detection through Super Resolution**|Davide Alessandro Coccomini et.al.|[2407.02670v1](http://arxiv.org/abs/2407.02670v1)|**[link](https://github.com/davide-coccomini/adversarial-magnification-to-deceive-deepfake-detection-through-super-resolution)**|
 |**2024-07-01**|**Broadband planar electromagnetic hyper-lens with uniform magnification in air**|Ran Sun et.al.|[2407.02532v1](http://arxiv.org/abs/2407.02532v1)|null|
 |**2024-07-02**|**Real HSI-MSI-PAN image dataset for the hyperspectral/multi-spectral/panchromatic image fusion and super-resolution fields**|Shuangliang Li et.al.|[2407.02387v2](http://arxiv.org/abs/2407.02387v2)|**[link](https://github.com/rs-lsl/cssnet)**|
