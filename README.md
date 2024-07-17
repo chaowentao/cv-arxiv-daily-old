@@ -1,11 +1,11 @@
-## Updated on 2024.07.16
+## Updated on 2024.07.17
 
 ## Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-15**|**OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting**|Penglei Gao et.al.|[2407.10923v1](http://arxiv.org/abs/2407.10923v1)|null|
-|**2024-07-15**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910v1](http://arxiv.org/abs/2407.10910v1)|**[link](https://github.com/explainableml/datadream)**|
+|**2024-07-15**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910v2](http://arxiv.org/abs/2407.10910v2)|**[link](https://github.com/explainableml/datadream)**|
 |**2024-07-15**|**Optical Diffusion Models for Image Generation**|Ilker Oguz et.al.|[2407.10897v1](http://arxiv.org/abs/2407.10897v1)|null|
 |**2024-07-15**|**Physics-Inspired Generative Models in Medical Imaging: A Review**|Dennis Hein et.al.|[2407.10856v1](http://arxiv.org/abs/2407.10856v1)|null|
 |**2024-07-15**|**An Autonomous Drone Swarm for Detecting and Tracking Anomalies among Dense Vegetation**|Rakesh John Amala Arokia Nathan et.al.|[2407.10754v1](http://arxiv.org/abs/2407.10754v1)|null|
@@ -150,7 +150,7 @@
 |**2024-07-15**|**InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models**|Nirat Saini et.al.|[2407.10958v1](http://arxiv.org/abs/2407.10958v1)|null|
 |**2024-07-15**|**IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation**|Yuanhao Zhai et.al.|[2407.10937v1](http://arxiv.org/abs/2407.10937v1)|**[link](https://github.com/yhZhai/idol)**|
 |**2024-07-15**|**On the Cyclostationary Linear Inverse Models: A Mathematical Insight and Implication**|Justin Lien et.al.|[2407.10931v1](http://arxiv.org/abs/2407.10931v1)|null|
-|**2024-07-15**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910v1](http://arxiv.org/abs/2407.10910v1)|**[link](https://github.com/explainableml/datadream)**|
+|**2024-07-15**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910v2](http://arxiv.org/abs/2407.10910v2)|**[link](https://github.com/explainableml/datadream)**|
 |**2024-07-15**|**Optical Diffusion Models for Image Generation**|Ilker Oguz et.al.|[2407.10897v1](http://arxiv.org/abs/2407.10897v1)|null|
 |**2024-07-15**|**R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection**|Zheyuan Zhou et.al.|[2407.10862v1](http://arxiv.org/abs/2407.10862v1)|null|
 |**2024-07-15**|**Physics-Inspired Generative Models in Medical Imaging: A Review**|Dennis Hein et.al.|[2407.10856v1](http://arxiv.org/abs/2407.10856v1)|null|
@@ -158,7 +158,7 @@
 |**2024-07-15**|**The effective diffusion constant of stochastic processes with spatially periodic noise**|Stefano Giordano et.al.|[2407.10813v1](http://arxiv.org/abs/2407.10813v1)|null|
 |**2024-07-15**|**Near-deterministic quantum search algorithm without phase control**|Zhen Wang et.al.|[2407.10748v1](http://arxiv.org/abs/2407.10748v1)|null|
 |**2024-07-15**|**When Synthetic Traces Hide Real Content: Analysis of Stable Diffusion Image Laundering**|Sara Mandelli et.al.|[2407.10736v1](http://arxiv.org/abs/2407.10736v1)|null|
-|**2024-07-15**|**Impact of electron spectra on morphology of pulsar halo**|YingYing Guo et.al.|[2407.10705v1](http://arxiv.org/abs/2407.10705v1)|null|
+|**2024-07-15**|**Impact of electron spectra on morphology of pulsar halos at ultra-high energies**|YingYing Guo et.al.|[2407.10705v2](http://arxiv.org/abs/2407.10705v2)|null|
 |**2024-07-15**|**Towards Robust Event-based Networks for Nighttime via Unpaired Day-to-Night Event Translation**|Yuhwan Jeong et.al.|[2407.10703v1](http://arxiv.org/abs/2407.10703v1)|**[link](https://github.com/jeongyh98/udnet)**|
 |**2024-07-15**|**Conditional Guided Generative Diffusion for Particle Accelerator Beam Diagnostics**|Alexander Scheinker et.al.|[2407.10693v1](http://arxiv.org/abs/2407.10693v1)|null|
 |**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683v1](http://arxiv.org/abs/2407.10683v1)|null|
@@ -337,12 +337,12 @@
 |**2024-07-09**|**Reference-based Controllable Scene Stylization with Gaussian Splatting**|Yiqun Mei et.al.|[2407.07220v1](http://arxiv.org/abs/2407.07220v1)|null|
 |**2024-07-08**|**RRM: Relightable assets using Radiance guided Material extraction**|Diego Gomez et.al.|[2407.06397v1](http://arxiv.org/abs/2407.06397v1)|null|
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150v1](http://arxiv.org/abs/2407.06150v1)|null|
-|**2024-07-08**|**PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models**|Jinhua Zhang et.al.|[2407.06109v1](http://arxiv.org/abs/2407.06109v1)|**[link](https://github.com/labshuhanggu/perldiff)**|
+|**2024-07-08**|**PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models**|Jinhua Zhang et.al.|[2407.06109v2](http://arxiv.org/abs/2407.06109v2)|**[link](https://github.com/labshuhanggu/perldiff)**|
 |**2024-07-08**|**OSN: Infinite Representations of Dynamic 3D Scenes from Monocular Videos**|Ziyang Song et.al.|[2407.05615v1](http://arxiv.org/abs/2407.05615v1)|**[link](https://github.com/vlar-group/osn)**|
 |**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597v1](http://arxiv.org/abs/2407.05597v1)|null|
 |**2024-07-08**|**Dynamic Neural Radiance Field From Defocused Monocular Video**|Xianrui Luo et.al.|[2407.05586v1](http://arxiv.org/abs/2407.05586v1)|null|
 |**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254v1](http://arxiv.org/abs/2407.05254v1)|null|
-|**2024-07-05**|**LaRa: Efficient Large-Baseline Radiance Fields**|Anpei Chen et.al.|[2407.04699v1](http://arxiv.org/abs/2407.04699v1)|null|
+|**2024-07-05**|**LaRa: Efficient Large-Baseline Radiance Fields**|Anpei Chen et.al.|[2407.04699v2](http://arxiv.org/abs/2407.04699v2)|null|
 |**2024-07-03**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945v3](http://arxiv.org/abs/2407.02945v3)|null|
 |**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918v1](http://arxiv.org/abs/2407.02918v1)|**[link](https://github.com/wrld/free-surgs)**|
 |**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668v1](http://arxiv.org/abs/2407.02668v1)|null|
