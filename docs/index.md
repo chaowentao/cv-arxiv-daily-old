@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 
 ## Image Generation
 
@@ -173,9 +173,9 @@ layout: default
 |**2024-07-16**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652v1](http://arxiv.org/abs/2407.11652v1)|null|
 |**2024-07-16**|**Scaling Diffusion Transformers to 16 Billion Parameters**|Zhengcong Fei et.al.|[2407.11633v1](http://arxiv.org/abs/2407.11633v1)|**[link](https://github.com/feizc/dit-moe)**|
 |**2024-07-16**|**DiNO-Diffusion. Scaling Medical Diffusion via Self-Supervised Pre-Training**|Guillermo Jimenez-Perez et.al.|[2407.11594v1](http://arxiv.org/abs/2407.11594v1)|null|
-|**2024-07-16**|**QVD: Post-training Quantization for Video Diffusion Models**|Shilong Tian et.al.|[2407.11585v1](http://arxiv.org/abs/2407.11585v1)|null|
+|**2024-07-16**|**QVD: Post-training Quantization for Video Diffusion Models**|Shilong Tian et.al.|[2407.11585v2](http://arxiv.org/abs/2407.11585v2)|null|
 |**2024-07-16**|**Extension of a phase-field KKS model to predict the microstructure evolution in LPBF AlSi10Mg alloy submitted to non isothermal processes**|Seifallah Fetni et.al.|[2407.11580v1](http://arxiv.org/abs/2407.11580v1)|null|
-|**2024-07-16**|**UP-Diff: Latent Diffusion Model for Remote Sensing Urban Prediction**|Zeyu Wang et.al.|[2407.11578v1](http://arxiv.org/abs/2407.11578v1)|null|
+|**2024-07-16**|**UP-Diff: Latent Diffusion Model for Remote Sensing Urban Prediction**|Zeyu Wang et.al.|[2407.11578v2](http://arxiv.org/abs/2407.11578v2)|null|
 |**2024-07-16**|**TGIF: Text-Guided Inpainting Forgery Dataset**|Hannes Mareen et.al.|[2407.11566v1](http://arxiv.org/abs/2407.11566v1)|**[link](https://github.com/idlabmedia/tgif-dataset)**|
 |**2024-07-16**|**Self-Guided Generation of Minority Samples Using Diffusion Models**|Soobin Um et.al.|[2407.11555v1](http://arxiv.org/abs/2407.11555v1)|**[link](https://github.com/soobin-um/sg-minority)**|
 |**2024-07-16**|**Length-Aware Motion Synthesis via Latent Diffusion**|Alessio Sampieri et.al.|[2407.11532v1](http://arxiv.org/abs/2407.11532v1)|null|
@@ -187,7 +187,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-16**|**SpaceJAM: a Lightweight and Regularization-free Method for Fast Joint Alignment of Images**|Nir Barel et.al.|[2407.11850v1](http://arxiv.org/abs/2407.11850v1)|null|
 |**2024-07-16**|**Probing the Efficacy of Federated Parameter-Efficient Fine-Tuning of Vision Transformers for Medical Image Classification**|Naif Alkhunaizi et.al.|[2407.11573v1](http://arxiv.org/abs/2407.11573v1)|null|
-|**2024-07-16**|**ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment**|Xinyi Wang et.al.|[2407.11496v1](http://arxiv.org/abs/2407.11496v1)|null|
+|**2024-07-16**|**ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment**|Xinyi Wang et.al.|[2407.11496v1](http://arxiv.org/abs/2407.11496v1)|**[link](https://github.com/xinyiw915/relax-vqa)**|
 |**2024-07-16**|**PADRe: A Unifying Polynomial Attention Drop-in Replacement for Efficient Vision Transformer**|Pierre-David Letourneau et.al.|[2407.11306v1](http://arxiv.org/abs/2407.11306v1)|null|
 |**2024-07-15**|**Aligning Neuronal Coding of Dynamic Visual Scenes with Foundation Vision Models**|Rining Wu et.al.|[2407.10737v1](http://arxiv.org/abs/2407.10737v1)|**[link](https://github.com/wurining/Vi-ST)**|
 |**2024-07-15**|**APC: Adaptive Patch Contrast for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2407.10649v1](http://arxiv.org/abs/2407.10649v1)|null|
@@ -334,7 +334,7 @@ layout: default
 |**2024-07-14**|**SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion**|Jiyuan Zhang et.al.|[2407.10062v1](http://arxiv.org/abs/2407.10062v1)|null|
 |**2024-07-12**|**Mixed-View Panorama Synthesis using Geospatially Guided Diffusion**|Zhexiao Xiong et.al.|[2407.09672v1](http://arxiv.org/abs/2407.09672v1)|null|
 |**2024-07-12**|**Radiance Fields from Photons**|Sacha Jungerman et.al.|[2407.09386v1](http://arxiv.org/abs/2407.09386v1)|null|
-|**2024-07-12**|**Learning High-Frequency Functions Made Easy with Sinusoidal Positional Encoding**|Chuanhao Sun et.al.|[2407.09370v1](http://arxiv.org/abs/2407.09370v1)|**[link](https://github.com/zhyuan11/SPE)**|
+|**2024-07-12**|**Learning High-Frequency Functions Made Easy with Sinusoidal Positional Encoding**|Chuanhao Sun et.al.|[2407.09370v2](http://arxiv.org/abs/2407.09370v2)|**[link](https://github.com/zhyuan11/SPE)**|
 |**2024-07-11**|**WayveScenes101: A Dataset and Benchmark for Novel View Synthesis in Autonomous Driving**|Jannik Zürn et.al.|[2407.08280v1](http://arxiv.org/abs/2407.08280v1)|**[link](https://github.com/wayveai/wayve_scenes)**|
 |**2024-07-11**|**GAURA: Generalizable Approach for Unified Restoration and Rendering of Arbitrary Views**|Vinayak Gupta et.al.|[2407.08221v1](http://arxiv.org/abs/2407.08221v1)|null|
 |**2024-07-10**|**Geospecific View Generation -- Geometry-Context Aware High-resolution Ground View Inference from Satellite Views**|Ningli Xu et.al.|[2407.08061v1](http://arxiv.org/abs/2407.08061v1)|null|
