@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 
 ## Image Generation
 
@@ -33,7 +33,7 @@ layout: default
 |**2024-07-16**|**Scaling Diffusion Transformers to 16 Billion Parameters**|Zhengcong Fei et.al.|[2407.11633v1](http://arxiv.org/abs/2407.11633v1)|**[link](https://github.com/feizc/dit-moe)**|
 |**2024-07-16**|**DiNO-Diffusion. Scaling Medical Diffusion via Self-Supervised Pre-Training**|Guillermo Jimenez-Perez et.al.|[2407.11594v1](http://arxiv.org/abs/2407.11594v1)|null|
 |**2024-07-16**|**TGIF: Text-Guided Inpainting Forgery Dataset**|Hannes Mareen et.al.|[2407.11566v1](http://arxiv.org/abs/2407.11566v1)|**[link](https://github.com/idlabmedia/tgif-dataset)**|
-|**2024-07-16**|**How Control Information Influences Multilingual Text Image Generation and Editing?**|Boqiang Zhang et.al.|[2407.11502v1](http://arxiv.org/abs/2407.11502v1)|**[link](https://github.com/huggingface/diffusers)**|
+|**2024-07-16**|**How Control Information Influences Multilingual Text Image Generation and Editing?**|Boqiang Zhang et.al.|[2407.11502v2](http://arxiv.org/abs/2407.11502v2)|**[link](https://github.com/huggingface/diffusers)**|
 |**2024-07-16**|**AIGC for Industrial Time Series: From Deep Generative Models to Large Generative Models**|Lei Ren et.al.|[2407.11480v1](http://arxiv.org/abs/2407.11480v1)|null|
 |**2024-07-16**|**Cover-separable Fixed Neural Network Steganography via Deep Generative Models**|Guobiao Li et.al.|[2407.11405v1](http://arxiv.org/abs/2407.11405v1)|**[link](https://github.com/albblgb/cs-fnns)**|
 |**2024-07-16**|**Flatfish Disease Detection Based on Part Segmentation Approach and Disease Image Generation**|Seo-Bin Hwang et.al.|[2407.11348v1](http://arxiv.org/abs/2407.11348v1)|null|
@@ -191,7 +191,7 @@ layout: default
 |**2024-07-17**|**Global-Local Similarity for Efficient Fine-Grained Image Recognition with Vision Transformers**|Edwin Arkel Rios et.al.|[2407.12891v1](http://arxiv.org/abs/2407.12891v1)|**[link](https://github.com/arkel23/GLSim)**|
 |**2024-07-17**|**Contrastive Adversarial Training for Unsupervised Domain Adaptation**|Jiahong Chen et.al.|[2407.12782v1](http://arxiv.org/abs/2407.12782v1)|null|
 |**2024-07-17**|**LookupViT: Compressing visual information to a limited number of tokens**|Rajat Koner et.al.|[2407.12753v1](http://arxiv.org/abs/2407.12753v1)|null|
-|**2024-07-17**|**CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference**|Mohammad Erfan Sadeghi et.al.|[2407.12736v1](http://arxiv.org/abs/2407.12736v1)|null|
+|**2024-07-17**|**CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference**|Mohammad Erfan Sadeghi et.al.|[2407.12736v2](http://arxiv.org/abs/2407.12736v2)|null|
 |**2024-07-17**|**Evaluating the transferability potential of deep learning models for climate downscaling**|Ayush Prasad et.al.|[2407.12517v1](http://arxiv.org/abs/2407.12517v1)|null|
 |**2024-07-17**|**GeneralAD: Anomaly Detection Across Domains by Attending to Distorted Features**|Luc P. J. Sträter et.al.|[2407.12427v1](http://arxiv.org/abs/2407.12427v1)|**[link](https://github.com/LucStrater/GeneralAD)**|
 |**2024-07-17**|**Compound Expression Recognition via Multi Model Ensemble for the ABAW7 Challenge**|Xuxiong Liu et.al.|[2407.12257v1](http://arxiv.org/abs/2407.12257v1)|null|
