@@ -1,4 +1,4 @@
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 
 ## Image Generation
 
@@ -10,7 +10,7 @@
 |**2024-07-22**|**DiffX: Guide Your Layout to Cross-Modal Generative Modeling**|Zeyu Wang et.al.|[2407.15488v1](http://arxiv.org/abs/2407.15488v1)|**[link](https://github.com/zeyuwang-zju/diffx)**|
 |**2024-07-22**|**Text2Place: Affordance-aware Text Guided Human Placement**|Rishubh Parihar et.al.|[2407.15446v1](http://arxiv.org/abs/2407.15446v1)|null|
 |**2024-07-21**|**MedEdit: Counterfactual Diffusion-based Image Editing on Brain MRI**|Malek Ben Alaya et.al.|[2407.15270v1](http://arxiv.org/abs/2407.15270v1)|null|
-|**2024-07-21**|**BIGbench: A Unified Benchmark for Social Bias in Text-to-Image Generative Models Based on Multi-modal LLM**|Hanjun Luo et.al.|[2407.15240v1](http://arxiv.org/abs/2407.15240v1)|null|
+|**2024-07-21**|**BIGbench: A Unified Benchmark for Social Bias in Text-to-Image Generative Models Based on Multi-modal LLM**|Hanjun Luo et.al.|[2407.15240v2](http://arxiv.org/abs/2407.15240v2)|null|
 |**2024-07-21**|**Variational Potential Flow: A Novel Probabilistic Framework for Energy-Based Generative Modelling**|Junn Yong Loo et.al.|[2407.15238v1](http://arxiv.org/abs/2407.15238v1)|null|
 |**2024-07-21**|**Assessing Sample Quality via the Latent Space of Generative Models**|Jingyi Xu et.al.|[2407.15171v1](http://arxiv.org/abs/2407.15171v1)|null|
 |**2024-07-21**|**The VEP Booster: A Closed-Loop AI System for Visual EEG Biomarker Auto-generation**|Junwen Luo et.al.|[2407.15167v1](http://arxiv.org/abs/2407.15167v1)|null|
@@ -19,7 +19,7 @@
 |**2024-07-20**|**CoCoG-2: Controllable generation of visual stimuli for understanding human concept representation**|Chen Wei et.al.|[2407.14949v1](http://arxiv.org/abs/2407.14949v1)|null|
 |**2024-07-20**|**EidetiCom: A Cross-modal Brain-Computer Semantic Communication Paradigm for Decoding Visual Perception**|Linfeng Zheng et.al.|[2407.14936v1](http://arxiv.org/abs/2407.14936v1)|null|
 |**2024-07-20**|**Do Generative AI Models Output Harm while Representing Non-Western Cultures: Evidence from A Community-Centered Approach**|Sourojit Ghosh et.al.|[2407.14779v1](http://arxiv.org/abs/2407.14779v1)|null|
-|**2024-07-19**|**Are handcrafted filters helpful for attributing AI-generated images?**|Jialiang Li et.al.|[2407.14570v1](http://arxiv.org/abs/2407.14570v1)|null|
+|**2024-07-19**|**Are handcrafted filters helpful for attributing AI-generated images?**|Jialiang Li et.al.|[2407.14570v2](http://arxiv.org/abs/2407.14570v2)|null|
 |**2024-07-19**|**Thinking Racial Bias in Fair Forgery Detection: Models, Datasets and Evaluations**|Decheng Liu et.al.|[2407.14367v1](http://arxiv.org/abs/2407.14367v1)|null|
 |**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326v1](http://arxiv.org/abs/2407.14326v1)|null|
 |**2024-07-19**|**Time Series Generative Learning with Application to Brain Imaging Analysis**|Zhenghao Li et.al.|[2407.14003v1](http://arxiv.org/abs/2407.14003v1)|null|
@@ -157,8 +157,8 @@
 |**2024-07-22**|**Particle Based Inference for Continuous-Discrete State Space Models**|Christopher Stanton et.al.|[2407.15666v1](http://arxiv.org/abs/2407.15666v1)|null|
 |**2024-07-22**|**DriveDiTFit: Fine-tuning Diffusion Transformers for Autonomous Driving**|Jiahang Tu et.al.|[2407.15661v1](http://arxiv.org/abs/2407.15661v1)|**[link](https://github.com/ttuhamg/driveditfit)**|
 |**2024-07-22**|**Coupled dynamics in binary mixtures of colloidal Yukawa systems**|Daniel Weidig et.al.|[2407.15659v1](http://arxiv.org/abs/2407.15659v1)|null|
-|**2024-07-22**|**Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models**|Xin Ma et.al.|[2407.15642v1](http://arxiv.org/abs/2407.15642v1)|**[link](https://github.com/maxin-cn/Cinemo)**|
-|**2024-07-22**|**A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control**|Karim Kadry et.al.|[2407.15631v1](http://arxiv.org/abs/2407.15631v1)|null|
+|**2024-07-22**|**Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models**|Xin Ma et.al.|[2407.15642v2](http://arxiv.org/abs/2407.15642v2)|**[link](https://github.com/maxin-cn/Cinemo)**|
+|**2024-07-22**|**A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control**|Karim Kadry et.al.|[2407.15631v2](http://arxiv.org/abs/2407.15631v2)|null|
 |**2024-07-22**|**StylusAI: Stylistic Adaptation for Robust German Handwritten Text Generation**|Nauman Riaz et.al.|[2407.15608v1](http://arxiv.org/abs/2407.15608v1)|null|
 |**2024-07-22**|**Discrete Flow Matching**|Itai Gat et.al.|[2407.15595v1](http://arxiv.org/abs/2407.15595v1)|null|
 |**2024-07-22**|**Large deviations for generalized backward stochastic differential equations**|Yawen Liu et.al.|[2407.15584v1](http://arxiv.org/abs/2407.15584v1)|null|
@@ -169,10 +169,10 @@
 |**2024-07-22**|**DiffX: Guide Your Layout to Cross-Modal Generative Modeling**|Zeyu Wang et.al.|[2407.15488v1](http://arxiv.org/abs/2407.15488v1)|**[link](https://github.com/zeyuwang-zju/diffx)**|
 |**2024-07-22**|**A New Perspective on the Diffuse Gamma-Ray Emission Excess**|Ensheng Chen et.al.|[2407.15474v1](http://arxiv.org/abs/2407.15474v1)|null|
 |**2024-07-22**|**Cross-diffusion systems coupled via a moving interface**|Clément Cancès et.al.|[2407.15457v1](http://arxiv.org/abs/2407.15457v1)|null|
-|**2024-07-22**|**Score matching for bridges without time-reversals**|Elizabeth L. Baker et.al.|[2407.15455v1](http://arxiv.org/abs/2407.15455v1)|null|
+|**2024-07-22**|**Score matching for bridges without time-reversals**|Elizabeth L. Baker et.al.|[2407.15455v2](http://arxiv.org/abs/2407.15455v2)|null|
 |**2024-07-22**|**Covariant currents and a thermodynamic uncertainty relation on curved manifolds**|Harry J. D. Miller et.al.|[2407.15405v1](http://arxiv.org/abs/2407.15405v1)|null|
 |**2024-07-22**|**Optical alignment of contamination-sensitive Far-Ultraviolet spectrographs for Aspera SmallSat mission**|Aafaque R. Khan et.al.|[2407.15391v1](http://arxiv.org/abs/2407.15391v1)|null|
-|**2024-07-22**|**A new paradigm of mortality modeling via individual vitality dynamics**|Xiaobai Zhu et.al.|[2407.15388v1](http://arxiv.org/abs/2407.15388v1)|null|
+|**2024-07-22**|**A new paradigm of mortality modeling via individual vitality dynamics**|Xiaobai Zhu et.al.|[2407.15388v2](http://arxiv.org/abs/2407.15388v2)|null|
 |**2024-07-22**|**Nonequilibrium Membrane Dynamics Induced by Active Protein Interactions and Chemical Reactions: A Review**|Hiroshi Noguchi et.al.|[2407.15371v1](http://arxiv.org/abs/2407.15371v1)|null|
 |**2024-07-22**|**Hybrid PDE-Deep Neural Network Model for Calcium Dynamics in Neurons**|Abel Gurung et.al.|[2407.15364v1](http://arxiv.org/abs/2407.15364v1)|null|
 |**2024-07-22**|**A vector-host epidemic model with spatial structure and seasonality**|Mingxin Wang et.al.|[2407.15361v1](http://arxiv.org/abs/2407.15361v1)|null|
