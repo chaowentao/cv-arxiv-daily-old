@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 
 ## Image Generation
 
@@ -33,7 +33,7 @@ layout: default
 |**2024-07-22**|**DStruct2Design: Data and Benchmarks for Data Structure Driven Generative Floor Plan Design**|Zhi Hao Luo et.al.|[2407.15723v1](http://arxiv.org/abs/2407.15723v1)|**[link](https://github.com/plstory/ds2d)**|
 |**2024-07-22**|**SpotDiffusion: A Fast Approach For Seamless Panorama Generation Over Time**|Stanislav Frolov et.al.|[2407.15507v1](http://arxiv.org/abs/2407.15507v1)|null|
 |**2024-07-22**|**TextureCrop: Enhancing Synthetic Image Detection through Texture-based Cropping**|Despina Konstantinidou et.al.|[2407.15500v1](http://arxiv.org/abs/2407.15500v1)|null|
-|**2024-07-22**|**DiffX: Guide Your Layout to Cross-Modal Generative Modeling**|Zeyu Wang et.al.|[2407.15488v1](http://arxiv.org/abs/2407.15488v1)|**[link](https://github.com/zeyuwang-zju/diffx)**|
+|**2024-07-22**|**DiffX: Guide Your Layout to Cross-Modal Generative Modeling**|Zeyu Wang et.al.|[2407.15488v2](http://arxiv.org/abs/2407.15488v2)|**[link](https://github.com/zeyuwang-zju/diffx)**|
 |**2024-07-22**|**Text2Place: Affordance-aware Text Guided Human Placement**|Rishubh Parihar et.al.|[2407.15446v1](http://arxiv.org/abs/2407.15446v1)|null|
 |**2024-07-21**|**MedEdit: Counterfactual Diffusion-based Image Editing on Brain MRI**|Malek Ben Alaya et.al.|[2407.15270v1](http://arxiv.org/abs/2407.15270v1)|null|
 |**2024-07-21**|**BIGbench: A Unified Benchmark for Social Bias in Text-to-Image Generative Models Based on Multi-modal LLM**|Hanjun Luo et.al.|[2407.15240v2](http://arxiv.org/abs/2407.15240v2)|null|
@@ -200,7 +200,7 @@ layout: default
 |**2024-07-24**|**Trans2Unet: Neural fusion for Nuclei Semantic Segmentation**|Dinh-Phu Tran et.al.|[2407.17181v1](http://arxiv.org/abs/2407.17181v1)|null|
 |**2024-07-24**|**Case-Enhanced Vision Transformer: Improving Explanations of Image Similarity with a ViT-based Similarity Metric**|Ziwei Zhao et.al.|[2407.16981v1](http://arxiv.org/abs/2407.16981v1)|null|
 |**2024-07-23**|**SINDER: Repairing the Singular Defects of DINOv2**|Haoqi Wang et.al.|[2407.16826v1](http://arxiv.org/abs/2407.16826v1)|**[link](https://github.com/haoqiwang/sinder)**|
-|**2024-07-23**|**Exploring The Neural Burden In Pruned Models: An Insight Inspired By Neuroscience**|Zeyu Wang et.al.|[2407.16716v1](http://arxiv.org/abs/2407.16716v1)|null|
+|**2024-07-23**|**Exploring The Neural Burden In Pruned Models: An Insight Inspired By Neuroscience**|Zeyu Wang et.al.|[2407.16716v2](http://arxiv.org/abs/2407.16716v2)|null|
 |**2024-07-22**|**Towards Robust Vision Transformer via Masked Adaptive Ensemble**|Fudong Lin et.al.|[2407.15385v1](http://arxiv.org/abs/2407.15385v1)|null|
 |**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085v1](http://arxiv.org/abs/2407.15085v1)|null|
 |**2024-07-20**|**FairViT: Fair Vision Transformer via Adaptive Masking**|Bowei Tian et.al.|[2407.14799v1](http://arxiv.org/abs/2407.14799v1)|**[link](https://github.com/abdd68/Fair-Vision-Transformer)**|
@@ -328,7 +328,7 @@ layout: default
 |**2024-07-25**|**Towards the Spectral bias Alleviation by Normalizations in Coordinate Networks**|Zhicheng Cai et.al.|[2407.17834v1](http://arxiv.org/abs/2407.17834v1)|**[link](https://github.com/aiolus-x/norm-inr)**|
 |**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470v1](http://arxiv.org/abs/2407.17470v1)|null|
 |**2024-07-24**|**Pose Estimation from Camera Images for Underwater Inspection**|Luyuan Peng et.al.|[2407.16961v1](http://arxiv.org/abs/2407.16961v1)|null|
-|**2024-07-23**|**DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene**|Xi Shi et.al.|[2407.16600v1](http://arxiv.org/abs/2407.16600v1)|null|
+|**2024-07-23**|**DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene**|Xi Shi et.al.|[2407.16600v2](http://arxiv.org/abs/2407.16600v2)|null|
 |**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503v1](http://arxiv.org/abs/2407.16503v1)|**[link](https://github.com/shreyesss/hdrsplat)**|
 |**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848v1](http://arxiv.org/abs/2407.15848v1)|null|
 |**2024-07-22**|**6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model**|Matteo Bortolon et.al.|[2407.15484v1](http://arxiv.org/abs/2407.15484v1)|null|
