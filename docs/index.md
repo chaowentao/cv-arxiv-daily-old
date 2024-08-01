@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.31
+## Updated on 2024.08.01
 
 ## Image Generation
 
@@ -36,7 +36,7 @@ layout: default
 |**2024-07-24**|**ViPer: Visual Personalization of Generative Models via Individual Preference Learning**|Sogand Salehi et.al.|[2407.17365v1](http://arxiv.org/abs/2407.17365v1)|null|
 |**2024-07-24**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229v2](http://arxiv.org/abs/2407.17229v2)|null|
 |**2024-07-24**|**MemBench: Memorized Image Trigger Prompt Dataset for Diffusion Models**|Chunsan Hong et.al.|[2407.17095v1](http://arxiv.org/abs/2407.17095v1)|null|
-|**2024-07-24**|**An Adaptive Gradient Regularization Method**|Huixiu Jiang et.al.|[2407.16944v1](http://arxiv.org/abs/2407.16944v1)|null|
+|**2024-07-24**|**An Adaptive Gradient Regularization Method**|Huixiu Jiang et.al.|[2407.16944v2](http://arxiv.org/abs/2407.16944v2)|null|
 |**2024-07-24**|**Synthetic Trajectory Generation Through Convolutional Neural Networks**|Jesse Merhi et.al.|[2407.16938v1](http://arxiv.org/abs/2407.16938v1)|**[link](https://github.com/jesse-merhi/CNN-TRAJGAN)**|
 
 ## Light Field Super Resolution
@@ -175,7 +175,7 @@ layout: default
 |**2024-07-29**|**Contrasting Deepfakes Diffusion via Contrastive Learning and Global-Local Similarities**|Lorenzo Baraldi et.al.|[2407.20337v1](http://arxiv.org/abs/2407.20337v1)|**[link](https://github.com/aimagelab/code)**|
 |**2024-07-29**|**Sun Off, Lights On: Photorealistic Monocular Nighttime Simulation for Robust Semantic Perception**|Konstantinos Tzevelekakis et.al.|[2407.20336v1](http://arxiv.org/abs/2407.20336v1)|null|
 |**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232v1](http://arxiv.org/abs/2407.20232v1)|null|
-|**2024-07-29**|**cDVAE: Multimodal Generative Conditional Diffusion Guided by Variational Autoencoder Latent Embedding for Virtual 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2407.20218v2](http://arxiv.org/abs/2407.20218v2)|null|
+|**2024-07-29**|**cDVAE: Multimodal Generative Conditional Diffusion Guided by Variational Autoencoder Latent Embedding for Virtual 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2407.20218v3](http://arxiv.org/abs/2407.20218v3)|null|
 |**2024-07-29**|**On the leptonic contribution to the ultra high-energy diffuse gamma-ray background**|Samy Kaci et.al.|[2407.20186v1](http://arxiv.org/abs/2407.20186v1)|null|
 |**2024-07-29**|**LatentArtiFusion: An Effective and Efficient Histological Artifacts Restoration Framework**|Zhenqi He et.al.|[2407.20172v1](http://arxiv.org/abs/2407.20172v1)|**[link](https://github.com/bugs-creator/latentartifusion)**|
 |**2024-07-29**|**Diffusion Feedback Helps CLIP See Better**|Wenxuan Wang et.al.|[2407.20171v1](http://arxiv.org/abs/2407.20171v1)|null|
