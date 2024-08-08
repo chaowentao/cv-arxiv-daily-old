@@ -1,4 +1,4 @@
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 
 ## Image Generation
 
@@ -8,10 +8,10 @@
 |**2024-08-06**|**An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion**|Xingguang Yan et.al.|[2408.03178v1](http://arxiv.org/abs/2408.03178v1)|null|
 |**2024-08-06**|**Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models**|Sho Ozaki et.al.|[2408.03156v1](http://arxiv.org/abs/2408.03156v1)|null|
 |**2024-08-06**|**Multitask and Multimodal Neural Tuning for Large Models**|Hao Sun et.al.|[2408.03001v1](http://arxiv.org/abs/2408.03001v1)|null|
-|**2024-08-06**|**DreamLCM: Towards High-Quality Text-to-3D Generation via Latent Consistency Model**|Yiming Zhong et.al.|[2408.02993v1](http://arxiv.org/abs/2408.02993v1)|null|
+|**2024-08-06**|**DreamLCM: Towards High-Quality Text-to-3D Generation via Latent Consistency Model**|Yiming Zhong et.al.|[2408.02993v1](http://arxiv.org/abs/2408.02993v1)|**[link](https://github.com/1yimingzhong/dreamlcm)**|
 |**2024-08-05**|**Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services**|Shaopeng Fu et.al.|[2408.02814v1](http://arxiv.org/abs/2408.02814v1)|null|
-|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|null|
-|**2024-08-05**|**ProCreate, Dont Reproduce! Propulsive Energy Diffusion for Creative Generation**|Jack Lu et.al.|[2408.02226v1](http://arxiv.org/abs/2408.02226v1)|null|
+|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|**[link](https://github.com/alpha-vllm/lumina-mgpt)**|
+|**2024-08-05**|**ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation**|Jack Lu et.al.|[2408.02226v2](http://arxiv.org/abs/2408.02226v2)|**[link](https://github.com/agentic-learning-ai-lab/procreate-diffusion-public)**|
 |**2024-08-05**|**Dense Feature Interaction Network for Image Inpainting Localization**|Ye Yao et.al.|[2408.02191v1](http://arxiv.org/abs/2408.02191v1)|null|
 |**2024-08-04**|**PanoFree: Tuning-Free Holistic Multi-view Image Generation with Cross-view Self-Guidance**|Aoming Liu et.al.|[2408.02157v1](http://arxiv.org/abs/2408.02157v1)|null|
 |**2024-08-04**|**LDFaceNet: Latent Diffusion-based Network for High-Fidelity Deepfake Generation**|Dwij Mehta et.al.|[2408.02078v1](http://arxiv.org/abs/2408.02078v1)|null|
@@ -24,7 +24,7 @@
 |**2024-08-02**|**"I don't see myself represented here at all": User Experiences of Stable Diffusion Outputs Containing Representational Harms across Gender Identities and Nationalities**|Sourojit Ghosh et.al.|[2408.01594v1](http://arxiv.org/abs/2408.01594v1)|null|
 |**2024-08-02**|**Interpretations, Representations, and Stereotypes of Caste within Text-to-Image Generators**|Sourojit Ghosh et.al.|[2408.01590v1](http://arxiv.org/abs/2408.01590v1)|null|
 |**2024-08-02**|**Multi-task SAR Image Processing via GAN-based Unsupervised Manipulation**|Xuran Hu et.al.|[2408.01553v1](http://arxiv.org/abs/2408.01553v1)|null|
-|**2024-08-02**|**VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling**|Qian Zhang et.al.|[2408.01181v1](http://arxiv.org/abs/2408.01181v1)|null|
+|**2024-08-02**|**VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling**|Qian Zhang et.al.|[2408.01181v1](http://arxiv.org/abs/2408.01181v1)|**[link](https://github.com/daixiangzi/var-clip)**|
 |**2024-08-02**|**PINNs for Medical Image Analysis: A Survey**|Chayan Banerjee et.al.|[2408.01026v1](http://arxiv.org/abs/2408.01026v1)|null|
 |**2024-08-02**|**EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts**|Die Chen et.al.|[2408.01014v1](http://arxiv.org/abs/2408.01014v1)|null|
 |**2024-08-02**|**FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation**|Xiang Gao et.al.|[2408.00998v2](http://arxiv.org/abs/2408.00998v2)|null|
@@ -161,7 +161,7 @@
 |**2024-08-06**|**Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models**|Sho Ozaki et.al.|[2408.03156v1](http://arxiv.org/abs/2408.03156v1)|null|
 |**2024-08-06**|**Learning to Turn: Diffusion Imitation for Robust Row Turning in Under-Canopy Robots**|Arun N. Sivakumar et.al.|[2408.03059v1](http://arxiv.org/abs/2408.03059v1)|null|
 |**2024-08-06**|**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**|Van Phi Nguyen et.al.|[2408.03035v1](http://arxiv.org/abs/2408.03035v1)|null|
-|**2024-08-06**|**Generalized autocorrelation function in the family of deterministic and stochastic anomalous diffusion processes**|Muhammad Tayyab et.al.|[2408.02989v1](http://arxiv.org/abs/2408.02989v1)|null|
+|**2024-08-06**|**Generalized autocorrelation function in the family of deterministic and stochastic anomalous diffusion processes**|Muhammad Tayyab et.al.|[2408.02989v2](http://arxiv.org/abs/2408.02989v2)|null|
 |**2024-08-06**|**Diffusion Model Meets Non-Exemplar Class-Incremental Learning and Beyond**|Jichuan Zhang et.al.|[2408.02983v1](http://arxiv.org/abs/2408.02983v1)|null|
 |**2024-08-06**|**Data-Driven Stochastic Closure Modeling via Conditional Diffusion Model and Neural Operator**|Xinghao Dong et.al.|[2408.02965v1](http://arxiv.org/abs/2408.02965v1)|null|
 |**2024-08-06**|**Slowly generated anomalously large nuclear field in bulk n-AlGaAs**|A. Shen et.al.|[2408.02956v1](http://arxiv.org/abs/2408.02956v1)|null|
@@ -169,7 +169,7 @@
 |**2024-08-06**|**Viability for locally monotone evolution inclusions and lower semicontinuous solutions of Hamilton-Jacobi-Bellman equations in infinite dimensions**|Jichao Jiang et.al.|[2408.02915v1](http://arxiv.org/abs/2408.02915v1)|null|
 |**2024-08-06**|**Diverse Generation while Maintaining Semantic Coordination: A Diffusion-Based Data Augmentation Method for Object Detection**|Sen Nie et.al.|[2408.02891v1](http://arxiv.org/abs/2408.02891v1)|null|
 |**2024-08-05**|**Back-Projection Diffusion: Solving the Wideband Inverse Scattering Problem with Diffusion Models**|Borong Zhang et.al.|[2408.02866v1](http://arxiv.org/abs/2408.02866v1)|null|
-|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|null|
+|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|**[link](https://github.com/alpha-vllm/lumina-mgpt)**|
 |**2024-08-05**|**Ionic-electronic transistors small signal AC admittance: Theory and experiment**|Juan Bisquert et.al.|[2408.02648v1](http://arxiv.org/abs/2408.02648v1)|null|
 |**2024-08-05**|**Learning the Latent dynamics of Fluid flows from High-Fidelity Numerical Simulations using Parsimonious Diffusion Maps**|Alessandro Della Pia et.al.|[2408.02630v1](http://arxiv.org/abs/2408.02630v1)|null|
 |**2024-08-05**|**A Reverse Non-Equilibrium Molecular Dynamics (RNEMD) Algorithm for Coupled Mass and Heat Transport in Mixtures**|Cody R. Drisko et.al.|[2408.02621v1](http://arxiv.org/abs/2408.02621v1)|null|
@@ -228,7 +228,7 @@
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908v1](http://arxiv.org/abs/2407.20908v1)|**[link](https://github.com/zyp123494/dynavol)**|
 |**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194v1](http://arxiv.org/abs/2407.20194v1)|**[link](https://github.com/leggedrobotics/rf_ros)**|
 |**2024-07-29**|**Garment Animation NeRF with Color Editing**|Renke Wang et.al.|[2407.19774v1](http://arxiv.org/abs/2407.19774v1)|**[link](https://github.com/wrk226/garmentanimationnerf)**|
-|**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166v1](http://arxiv.org/abs/2407.19166v1)|null|
+|**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166v2](http://arxiv.org/abs/2407.19166v2)|null|
 |**2024-07-26**|**IOVS4NeRF:Incremental Optimal View Selection for Large-Scale NeRFs**|Jingpeng Xie et.al.|[2407.18611v1](http://arxiv.org/abs/2407.18611v1)|null|
 |**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470v1](http://arxiv.org/abs/2407.17470v1)|null|
 |**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503v1](http://arxiv.org/abs/2407.16503v1)|**[link](https://github.com/shreyesss/hdrsplat)**|
@@ -288,7 +288,7 @@
 |---|---|---|---|---|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078v1](http://arxiv.org/abs/2408.03078v1)|null|
 |**2024-08-05**|**Gaussian Mixture based Evidential Learning for Stereo Matching**|Weide Liu et.al.|[2408.02796v1](http://arxiv.org/abs/2408.02796v1)|null|
-|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|null|
+|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|**[link](https://github.com/alpha-vllm/lumina-mgpt)**|
 |**2024-08-03**|**MCPDepth: Omnidirectional Depth Estimation via Stereo Matching from Multi-Cylindrical Panoramas**|Feng Qiao et.al.|[2408.01653v1](http://arxiv.org/abs/2408.01653v1)|null|
 |**2024-08-02**|**Self-Supervised Depth Estimation Based on Camera Models**|Jinchang Zhang et.al.|[2408.01565v1](http://arxiv.org/abs/2408.01565v1)|null|
 |**2024-08-01**|**MonoMM: A Multi-scale Mamba-Enhanced Network for Real-time Monocular 3D Object Detection**|Youjia Fu et.al.|[2408.00438v1](http://arxiv.org/abs/2408.00438v1)|null|
@@ -297,7 +297,7 @@
 |**2024-07-29**|**BaseBoostDepth: Exploiting Larger Baselines For Self-supervised Monocular Depth Estimation**|Kieran Saunders et.al.|[2407.20437v1](http://arxiv.org/abs/2407.20437v1)|null|
 |**2024-07-29**|**Analysis and Improvement of Rank-Ordered Mean Algorithm in Single-Photon LiDAR**|William C. Yau et.al.|[2407.20399v1](http://arxiv.org/abs/2407.20399v1)|null|
 |**2024-07-29**|**Improving 2D Feature Representations by 3D-Aware Fine-Tuning**|Yuanwen Yue et.al.|[2407.20229v1](http://arxiv.org/abs/2407.20229v1)|null|
-|**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166v1](http://arxiv.org/abs/2407.19166v1)|null|
+|**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166v2](http://arxiv.org/abs/2407.19166v2)|null|
 |**2024-07-27**|**RePLAy: Remove Projective LiDAR Depthmap Artifacts via Exploiting Epipolar Geometry**|Shengjie Zhu et.al.|[2407.19154v1](http://arxiv.org/abs/2407.19154v1)|null|
 |**2024-07-26**|**HybridDepth: Robust Depth Fusion for Mobile AR by Leveraging Depth from Focus and Single-Image Priors**|Ashkan Ganj et.al.|[2407.18443v1](http://arxiv.org/abs/2407.18443v1)|**[link](https://github.com/cake-lab/hybriddepth)**|
 |**2024-07-25**|**Enhanced Depth Estimation and 3D Geometry Reconstruction using Bayesian Helmholtz Stereopsis with Belief Propagation**|Razieh Azizi et.al.|[2407.18195v2](http://arxiv.org/abs/2407.18195v2)|null|
