@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.09
+## Updated on 2024.08.10
 
 ## Image Generation
 
@@ -203,7 +203,7 @@ layout: default
 |**2024-08-01**|**SegStitch: Multidimensional Transformer for Robust and Efficient Medical Imaging Segmentation**|Shengbo Tan et.al.|[2408.00496v1](http://arxiv.org/abs/2408.00496v1)|null|
 |**2024-07-31**|**CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation**|Shreyank N Gowda et.al.|[2408.00181v1](http://arxiv.org/abs/2408.00181v1)|null|
 |**2024-07-31**|**An Explainable Vision Transformer with Transfer Learning Combined with Support Vector Machine Based Efficient Drought Stress Identification**|Aswini Kumar Patra et.al.|[2407.21666v1](http://arxiv.org/abs/2407.21666v1)|null|
-|**2024-07-31**|**EUDA: An Efficient Unsupervised Domain Adaptation via Self-Supervised Vision Transformer**|Ali Abedi et.al.|[2407.21311v1](http://arxiv.org/abs/2407.21311v1)|null|
+|**2024-07-31**|**EUDA: An Efficient Unsupervised Domain Adaptation via Self-Supervised Vision Transformer**|Ali Abedi et.al.|[2407.21311v1](http://arxiv.org/abs/2407.21311v1)|**[link](https://github.com/a-abedi/euda)**|
 |**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[2407.21293v1](http://arxiv.org/abs/2407.21293v1)|null|
 |**2024-07-30**|**Embedding Space Selection for Detecting Memorization and Fingerprinting in Generative Models**|Jack He et.al.|[2407.21159v1](http://arxiv.org/abs/2407.21159v1)|null|
 |**2024-07-30**|**Machine learning surrogates for efficient hydrologic modeling: Insights from stochastic simulations of managed aquifer recharge**|Timothy Dai et.al.|[2407.20902v1](http://arxiv.org/abs/2407.20902v1)|null|
