@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.08.11
+## Updated on 2024.08.12
 
 ## Image Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-08**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594v1](http://arxiv.org/abs/2408.04594v1)|**[link](https://github.com/modelscope/data-juicer)**|
+|**2024-08-08**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594v2](http://arxiv.org/abs/2408.04594v2)|**[link](https://github.com/modelscope/data-juicer)**|
 |**2024-08-07**|**ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**|William Y. Zhu et.al.|[2408.04102v1](http://arxiv.org/abs/2408.04102v1)|null|
 |**2024-08-07**|**Counterfactuals and Uncertainty-Based Explainable Paradigm for the Automated Detection and Segmentation of Renal Cysts in Computed Tomography Images: A Multi-Center Study**|Zohaib Salahuddin et.al.|[2408.03789v1](http://arxiv.org/abs/2408.03789v1)|null|
 |**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748v1](http://arxiv.org/abs/2408.03748v1)|**[link](https://github.com/lengmo1996/ECDM)**|
@@ -20,7 +20,7 @@ layout: default
 |**2024-08-06**|**An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion**|Xingguang Yan et.al.|[2408.03178v1](http://arxiv.org/abs/2408.03178v1)|null|
 |**2024-08-06**|**Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models**|Sho Ozaki et.al.|[2408.03156v1](http://arxiv.org/abs/2408.03156v1)|null|
 |**2024-08-06**|**Multitask and Multimodal Neural Tuning for Large Models**|Hao Sun et.al.|[2408.03001v1](http://arxiv.org/abs/2408.03001v1)|null|
-|**2024-08-06**|**DreamLCM: Towards High-Quality Text-to-3D Generation via Latent Consistency Model**|Yiming Zhong et.al.|[2408.02993v1](http://arxiv.org/abs/2408.02993v1)|**[link](https://github.com/1yimingzhong/dreamlcm)**|
+|**2024-08-06**|**DreamLCM: Towards High-Quality Text-to-3D Generation via Latent Consistency Model**|Yiming Zhong et.al.|[2408.02993v2](http://arxiv.org/abs/2408.02993v2)|**[link](https://github.com/1yimingzhong/dreamlcm)**|
 |**2024-08-05**|**Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services**|Shaopeng Fu et.al.|[2408.02814v1](http://arxiv.org/abs/2408.02814v1)|null|
 |**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|**[link](https://github.com/alpha-vllm/lumina-mgpt)**|
 |**2024-08-05**|**ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation**|Jack Lu et.al.|[2408.02226v2](http://arxiv.org/abs/2408.02226v2)|**[link](https://github.com/agentic-learning-ai-lab/procreate-diffusion-public)**|
@@ -153,10 +153,10 @@ layout: default
 |**2024-08-08**|**Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics**|Ruining Li et.al.|[2408.04631v1](http://arxiv.org/abs/2408.04631v1)|null|
 |**2024-08-08**|**Regularized Unconstrained Weakly Submodular Maximization**|Yanhui Zhu et.al.|[2408.04620v1](http://arxiv.org/abs/2408.04620v1)|null|
 |**2024-08-08**|**An empirical background modeling tool (TweedleDEE) applied to new Milky Way satellite Leo VI**|Chance Hoskinson et.al.|[2408.04611v1](http://arxiv.org/abs/2408.04611v1)|null|
-|**2024-08-08**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594v1](http://arxiv.org/abs/2408.04594v1)|**[link](https://github.com/modelscope/data-juicer)**|
+|**2024-08-08**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594v2](http://arxiv.org/abs/2408.04594v2)|**[link](https://github.com/modelscope/data-juicer)**|
 |**2024-08-08**|**Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches**|Yongzhi Xu et.al.|[2408.04567v1](http://arxiv.org/abs/2408.04567v1)|null|
 |**2024-08-08**|**Local and global existence for the stochastic Prandtl equation driven by multiplicative noises in two and three dimensions**|Ya-Guang Wang et.al.|[2408.04546v1](http://arxiv.org/abs/2408.04546v1)|null|
-|**2024-08-08**|**Electrical resistivity, thermal conductivity, and viscosity of Fe-H alloys at Earth's core conditions**|Cong Liu et.al.|[2408.04521v1](http://arxiv.org/abs/2408.04521v1)|null|
+|**2024-08-08**|**Electrical resistivity, thermal conductivity, and viscosity of Fe-H alloys at Earth's core conditions**|Cong Liu et.al.|[2408.04521v2](http://arxiv.org/abs/2408.04521v2)|null|
 |**2024-08-08**|**Diffusive hydrodynamics from long-range correlations**|Friedrich Hübner et.al.|[2408.04502v1](http://arxiv.org/abs/2408.04502v1)|null|
 |**2024-08-08**|**Extrinsic Orbital Hall Effect: Interplay Between Diffusive and Intrinsic Transport**|Alessandro Veneri et.al.|[2408.04492v1](http://arxiv.org/abs/2408.04492v1)|null|
 |**2024-08-08**|**Random Walk Diffusion for Efficient Large-Scale Graph Generation**|Tobias Bernecker et.al.|[2408.04461v1](http://arxiv.org/abs/2408.04461v1)|null|
