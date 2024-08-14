@@ -1,4 +1,4 @@
-## Updated on 2024.08.13
+## Updated on 2024.08.14
 
 ## Image Generation
 
@@ -157,12 +157,12 @@
 |**2024-08-12**|**Gradient flow for a class of diffusion equations with Dirichlet boundary data**|Matthias Erbar et.al.|[2408.05987v1](http://arxiv.org/abs/2408.05987v1)|null|
 |**2024-08-12**|**Diffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models**|Haifan Gong et.al.|[2408.05985v1](http://arxiv.org/abs/2408.05985v1)|null|
 |**2024-08-12**|**Global weak solutions to a fractional Cahn-Hilliard cross-diffusion system in lymphangiogenesis**|Ansgar Jüngel et.al.|[2408.05972v1](http://arxiv.org/abs/2408.05972v1)|null|
-|**2024-08-12**|**Exciton diffusion in two-dimensional chiral perovskites**|Sophia Terres et.al.|[2408.05946v1](http://arxiv.org/abs/2408.05946v1)|null|
+|**2024-08-12**|**Exciton diffusion in two-dimensional chiral perovskites**|Sophia Terres et.al.|[2408.05946v2](http://arxiv.org/abs/2408.05946v2)|null|
 |**2024-08-12**|**UniPortrait: A Unified Framework for Identity-Preserving Single- and Multi-Human Image Personalization**|Junjie He et.al.|[2408.05939v1](http://arxiv.org/abs/2408.05939v1)|null|
 |**2024-08-12**|**Deep Geometric Moments Promote Shape Consistency in Text-to-3D Generation**|Utkarsh Nath et.al.|[2408.05938v1](http://arxiv.org/abs/2408.05938v1)|null|
 |**2024-08-12**|**A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models**|Taehong Moon et.al.|[2408.05927v1](http://arxiv.org/abs/2408.05927v1)|null|
 |**2024-08-12**|**Lifetime of edge modes at rough surfaces of chiral superconductors**|Seiji Higashitani et.al.|[2408.05925v1](http://arxiv.org/abs/2408.05925v1)|null|
-|**2024-08-12**|**HcNet: Image Modeling with Heat Conduction Equation**|Zhemin Zhang et.al.|[2408.05901v1](http://arxiv.org/abs/2408.05901v1)|**[link](https://github.com/zheminzhang1/hcnet)**|
+|**2024-08-12**|**HcNet: Image Modeling with Heat Conduction Equation**|Zhemin Zhang et.al.|[2408.05901v2](http://arxiv.org/abs/2408.05901v2)|**[link](https://github.com/zheminzhang1/hcnet)**|
 |**2024-08-12**|**Classifier Guidance Enhances Diffusion-based Adversarial Purification by Preserving Predictive Information**|Mingkun Zhang et.al.|[2408.05900v1](http://arxiv.org/abs/2408.05900v1)|null|
 |**2024-08-12**|**Simulating the dynamics of NV^- formation in diamond in the presence of carbon self-interstitials**|Guangzhao Chen et.al.|[2408.05881v1](http://arxiv.org/abs/2408.05881v1)|null|
 |**2024-08-11**|**LaWa: Using Latent Space for In-Generation Image Watermarking**|Ahmad Rezaei et.al.|[2408.05868v1](http://arxiv.org/abs/2408.05868v1)|null|
