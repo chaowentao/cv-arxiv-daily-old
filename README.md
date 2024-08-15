@@ -1,4 +1,4 @@
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 
 ## Image Generation
 
@@ -182,7 +182,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-13**|**Spectrum Prediction With Deep 3D Pyramid Vision Transformer Learning**|Guangliang Pan et.al.|[2408.06870v1](http://arxiv.org/abs/2408.06870v1)|null|
-|**2024-08-13**|**Dynamic and Compressive Adaptation of Transformers From Images to Videos**|Guozhen Zhang et.al.|[2408.06840v1](http://arxiv.org/abs/2408.06840v1)|null|
+|**2024-08-13**|**Dynamic and Compressive Adaptation of Transformers From Images to Videos**|Guozhen Zhang et.al.|[2408.06840v2](http://arxiv.org/abs/2408.06840v2)|null|
 |**2024-08-13**|**Token Compensator: Altering Inference Cost of Vision Transformer without Re-Tuning**|Shibo Jie et.al.|[2408.06798v1](http://arxiv.org/abs/2408.06798v1)|null|
 |**2024-08-13**|**Cross-View Geolocalization and Disaster Mapping with Street-View and VHR Satellite Imagery: A Case Study of Hurricane IAN**|Hao Li et.al.|[2408.06761v1](http://arxiv.org/abs/2408.06761v1)|null|
 |**2024-08-13**|**ReCLIP++: Learn to Rectify the Bias of CLIP for Unsupervised Semantic Segmentation**|Jingyun Wang et.al.|[2408.06747v1](http://arxiv.org/abs/2408.06747v1)|**[link](https://github.com/dogehhh/reclip)**|
