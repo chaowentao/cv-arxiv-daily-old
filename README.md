@@ -1,4 +1,4 @@
-## Updated on 2024.08.20
+## Updated on 2024.08.21
 
 ## Image Generation
 
@@ -33,7 +33,7 @@
 |**2024-08-12**|**Prompt Recovery for Image Generation Models: A Comparative Study of Discrete Optimizers**|Joshua Nathaniel Williams et.al.|[2408.06502v1](http://arxiv.org/abs/2408.06502v1)|null|
 |**2024-08-12**|**Wavelet based inpainting detection**|Barglazan Adrian-Alin et.al.|[2408.06429v1](http://arxiv.org/abs/2408.06429v1)|null|
 |**2024-08-10**|**ZePo: Zero-Shot Portrait Stylization with Faster Sampling**|Jin Liu et.al.|[2408.05492v1](http://arxiv.org/abs/2408.05492v1)|**[link](https://github.com/liujin112/zepo)**|
-|**2024-08-10**|**Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE**|Yiying Yang et.al.|[2408.05477v1](http://arxiv.org/abs/2408.05477v1)|null|
+|**2024-08-10**|**Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE**|Yiying Yang et.al.|[2408.05477v2](http://arxiv.org/abs/2408.05477v2)|null|
 
 ## Light Field Super Resolution
 
@@ -200,7 +200,7 @@
 |**2024-08-14**|**G$^2$V$^2$former: Graph Guided Video Vision Transformer for Face Anti-Spoofing**|Jingyi Yang et.al.|[2408.07675v1](http://arxiv.org/abs/2408.07675v1)|null|
 |**2024-08-14**|**CNN-JEPA: Self-Supervised Pretraining Convolutional Neural Networks Using Joint Embedding Predictive Architecture**|András Kalapos et.al.|[2408.07514v1](http://arxiv.org/abs/2408.07514v1)|**[link](https://github.com/kaland313/cnn-jepa)**|
 |**2024-08-14**|**Image-Based Leopard Seal Recognition: Approaches and Challenges in Current Automated Systems**|Jorge Yero Salazar et.al.|[2408.07269v1](http://arxiv.org/abs/2408.07269v1)|null|
-|**2024-08-13**|**Spectrum Prediction With Deep 3D Pyramid Vision Transformer Learning**|Guangliang Pan et.al.|[2408.06870v2](http://arxiv.org/abs/2408.06870v2)|**[link](https://github.com/pgl1234/Real-world-Spectrum)**|
+|**2024-08-13**|**Spectrum Prediction With Deep 3D Pyramid Vision Transformer Learning**|Guangliang Pan et.al.|[2408.06870v3](http://arxiv.org/abs/2408.06870v3)|**[link](https://github.com/pgl1234/Real-world-Spectrum)**|
 |**2024-08-13**|**Dynamic and Compressive Adaptation of Transformers From Images to Videos**|Guozhen Zhang et.al.|[2408.06840v2](http://arxiv.org/abs/2408.06840v2)|null|
 |**2024-08-13**|**Token Compensator: Altering Inference Cost of Vision Transformer without Re-Tuning**|Shibo Jie et.al.|[2408.06798v1](http://arxiv.org/abs/2408.06798v1)|**[link](https://github.com/jieshibo/tocom)**|
 |**2024-08-13**|**Cross-View Geolocalization and Disaster Mapping with Street-View and VHR Satellite Imagery: A Case Study of Hurricane IAN**|Hao Li et.al.|[2408.06761v1](http://arxiv.org/abs/2408.06761v1)|null|
@@ -218,7 +218,7 @@
 |---|---|---|---|---|
 |**2024-08-19**|**$R^2$-Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135v1](http://arxiv.org/abs/2408.10135v1)|null|
 |**2024-08-19**|**DiscoNeRF: Class-Agnostic Object Field for 3D Object Discovery**|Corentin Dumery et.al.|[2408.09928v1](http://arxiv.org/abs/2408.09928v1)|null|
-|**2024-08-19**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663v1](http://arxiv.org/abs/2408.09663v1)|null|
+|**2024-08-19**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663v2](http://arxiv.org/abs/2408.09663v2)|null|
 |**2024-08-18**|**S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis**|Dongze Li et.al.|[2408.09347v1](http://arxiv.org/abs/2408.09347v1)|null|
 |**2024-08-17**|**SSNeRF: Sparse View Semi-supervised Neural Radiance Fields with Augmentation**|Xiao Cao et.al.|[2408.09144v1](http://arxiv.org/abs/2408.09144v1)|null|
 |**2024-08-17**|**HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction**|Xiao Zhao et.al.|[2408.09104v1](http://arxiv.org/abs/2408.09104v1)|null|
@@ -322,7 +322,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-19**|**Implicit Gaussian Splatting with Efficient Multi-Level Tri-Plane Representation**|Minye Wu et.al.|[2408.10041v1](http://arxiv.org/abs/2408.10041v1)|null|
-|**2024-08-17**|**Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting**|Sheng Ye et.al.|[2408.09130v1](http://arxiv.org/abs/2408.09130v1)|null|
+|**2024-08-17**|**Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting**|Sheng Ye et.al.|[2408.09130v2](http://arxiv.org/abs/2408.09130v2)|null|
 |**2024-08-16**|**Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS**|Wei Sun et.al.|[2408.08723v1](http://arxiv.org/abs/2408.08723v1)|null|
 |**2024-08-16**|**GS-ID: Illumination Decomposition on Gaussian Splatting via Diffusion Prior and Parametric Light Source Optimization**|Kang Du et.al.|[2408.08524v1](http://arxiv.org/abs/2408.08524v1)|**[link](https://github.com/dukang/gs-id)**|
 |**2024-08-15**|**MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing**|Chenjie Cao et.al.|[2408.08000v1](http://arxiv.org/abs/2408.08000v1)|null|
