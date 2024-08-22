@@ -16,7 +16,7 @@
 |**2024-08-20**|**MS$^3$D: A RG Flow-Based Regularization for GAN Training with Limited Data**|Jian Wang et.al.|[2408.11135v1](http://arxiv.org/abs/2408.11135v1)|null|
 |**2024-08-18**|**DiffZOO: A Purely Query-Based Black-Box Attack for Red-teaming Text-to-Image Generative Model via Zeroth Order Optimization**|Pucheng Dang et.al.|[2408.11071v1](http://arxiv.org/abs/2408.11071v1)|null|
 |**2024-08-20**|**Prompt-Guided Image-Adaptive Neural Implicit Lookup Tables for Interpretable Image Enhancement**|Satoshi Kosugi et.al.|[2408.11055v1](http://arxiv.org/abs/2408.11055v1)|**[link](https://github.com/satoshi-kosugi/pg-ia-nilut)**|
-|**2024-08-20**|**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning**|Haoning Wu et.al.|[2408.11001v1](http://arxiv.org/abs/2408.11001v1)|null|
+|**2024-08-20**|**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning**|Haoning Wu et.al.|[2408.11001v1](http://arxiv.org/abs/2408.11001v1)|**[link](https://github.com/ShaochengShen/MegaFusion)**|
 |**2024-08-20**|**A Grey-box Attack against Latent Diffusion Model-based Image Editing by Posterior Collapse**|Zhongliang Guo et.al.|[2408.10901v1](http://arxiv.org/abs/2408.10901v1)|null|
 |**2024-08-20**|**DAAD: Dynamic Analysis and Adaptive Discriminator for Fake News Detection**|Xinqi Su et.al.|[2408.10883v1](http://arxiv.org/abs/2408.10883v1)|**[link](https://github.com/suxinqi/daad)**|
 |**2024-08-20**|**MUSES: 3D-Controllable Image Generation via Multi-Modal Agent Collaboration**|Yanbo Ding et.al.|[2408.10605v2](http://arxiv.org/abs/2408.10605v2)|null|
