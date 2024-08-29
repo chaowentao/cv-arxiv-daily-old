@@ -1,4 +1,4 @@
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 
 ## Image Generation
 
@@ -21,7 +21,7 @@
 |**2024-08-25**|**Localization of Synthetic Manipulations in Western Blot Images**|Anmol Manjunath et.al.|[2408.13786v1](http://arxiv.org/abs/2408.13786v1)|**[link](https://github.com/polimi-ispl/western-blot-synthetic-manipulation-localization)**|
 |**2024-08-25**|**SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting**|Wenrui Li et.al.|[2408.13711v1](http://arxiv.org/abs/2408.13711v1)|**[link](https://github.com/liwrui/scenedreamer360)**|
 |**2024-08-24**|**Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing**|Yitong Yang et.al.|[2408.13623v2](http://arxiv.org/abs/2408.13623v2)|null|
-|**2024-08-24**|**DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation**|Ying Jin et.al.|[2408.13509v1](http://arxiv.org/abs/2408.13509v1)|null|
+|**2024-08-24**|**DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation**|Ying Jin et.al.|[2408.13509v2](http://arxiv.org/abs/2408.13509v2)|null|
 |**2024-08-24**|**Explainable Concept Generation through Vision-Language Preference Learning**|Aditya Taparia et.al.|[2408.13438v1](http://arxiv.org/abs/2408.13438v1)|null|
 |**2024-08-23**|**Task-Oriented Diffusion Inversion for High-Fidelity Text-based Editing**|Yangyang Xu et.al.|[2408.13395v1](http://arxiv.org/abs/2408.13395v1)|null|
 |**2024-08-23**|**Shape-Preserving Generation of Food Images for Automatic Dietary Assessment**|Guangzong Chen et.al.|[2408.13358v1](http://arxiv.org/abs/2408.13358v1)|null|
@@ -173,7 +173,7 @@
 |**2024-08-27**|**Build-A-Scene: Interactive 3D Layout Control for Diffusion-Based Image Generation**|Abdelrahman Eldesokey et.al.|[2408.14819v1](http://arxiv.org/abs/2408.14819v1)|null|
 |**2024-08-27**|**A versatile informative diffusion model for single-cell ATAC-seq data generation and analysis**|Lei Huang et.al.|[2408.14801v1](http://arxiv.org/abs/2408.14801v1)|null|
 |**2024-08-27**|**CrossViewDiff: A Cross-View Diffusion Model for Satellite-to-Street View Synthesis**|Weijia Li et.al.|[2408.14765v1](http://arxiv.org/abs/2408.14765v1)|null|
-|**2024-08-27**|**VoiceTailor: Lightweight Plug-In Adapter for Diffusion-Based Personalized Text-to-Speech**|Heeseung Kim et.al.|[2408.14739v1](http://arxiv.org/abs/2408.14739v1)|null|
+|**2024-08-27**|**VoiceTailor: Lightweight Plug-In Adapter for Diffusion-Based Personalized Text-to-Speech**|Heeseung Kim et.al.|[2408.14739v2](http://arxiv.org/abs/2408.14739v2)|null|
 |**2024-08-27**|**Learning Differentially Private Diffusion Models via Stochastic Adversarial Distillation**|Bochao Liu et.al.|[2408.14738v1](http://arxiv.org/abs/2408.14738v1)|null|
 |**2024-08-27**|**OctFusion: Octree-based Diffusion Models for 3D Shape Generation**|Bojun Xiong et.al.|[2408.14732v1](http://arxiv.org/abs/2408.14732v1)|**[link](https://github.com/octree-nn/octfusion)**|
 
@@ -218,7 +218,7 @@
 |---|---|---|---|---|
 |**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235v1](http://arxiv.org/abs/2408.15235v1)|null|
 |**2024-08-27**|**GeoTransfer : Generalizable Few-Shot Multi-View Reconstruction via Transfer Learning**|Shubhendu Jena et.al.|[2408.14724v1](http://arxiv.org/abs/2408.14724v1)|null|
-|**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v1](http://arxiv.org/abs/2408.14035v1)|**[link](https://github.com/hku-mars/fast-livo2)**|
+|**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035v2](http://arxiv.org/abs/2408.14035v2)|**[link](https://github.com/hku-mars/fast-livo2)**|
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770v1](http://arxiv.org/abs/2408.13770v1)|null|
 |**2024-08-24**|**G3DST: Generalizing 3D Style Transfer with Neural Radiance Fields across Scenes and Styles**|Adil Meric et.al.|[2408.13508v1](http://arxiv.org/abs/2408.13508v1)|null|
 |**2024-08-23**|**SIn-NeRF2NeRF: Editing 3D Scenes with Instructions through Segmentation and Inpainting**|Jiseung Hong et.al.|[2408.13285v1](http://arxiv.org/abs/2408.13285v1)|**[link](https://github.com/kaistchangmin/sin-nerf2nerf)**|
@@ -324,7 +324,7 @@
 |**2024-08-27**|**Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty**|Saining Zhang et.al.|[2408.15242v1](http://arxiv.org/abs/2408.15242v1)|**[link](https://github.com/sainingzhang/uc-gs)**|
 |**2024-08-27**|**CrossViewDiff: A Cross-View Diffusion Model for Satellite-to-Street View Synthesis**|Weijia Li et.al.|[2408.14765v1](http://arxiv.org/abs/2408.14765v1)|null|
 |**2024-08-26**|**MagicMan: Generative Novel View Synthesis of Humans with 3D-Aware Diffusion and Iterative Refinement**|Xu He et.al.|[2408.14211v1](http://arxiv.org/abs/2408.14211v1)|null|
-|**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibarated Image Pairs**|Brandon Smart et.al.|[2408.13912v1](http://arxiv.org/abs/2408.13912v1)|null|
+|**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs**|Brandon Smart et.al.|[2408.13912v2](http://arxiv.org/abs/2408.13912v2)|null|
 |**2024-08-23**|**BiGS: Bidirectional Gaussian Primitives for Relightable 3D Gaussian Splatting**|Zhenyuan Liu et.al.|[2408.13370v1](http://arxiv.org/abs/2408.13370v1)|null|
 |**2024-08-23**|**LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation**|Shuai Yang et.al.|[2408.13252v1](http://arxiv.org/abs/2408.13252v1)|null|
 |**2024-08-23**|**Deep Learning at the Intersection: Certified Robustness as a Tool for 3D Vision**|Gabriel Pérez S et.al.|[2408.13135v1](http://arxiv.org/abs/2408.13135v1)|null|
