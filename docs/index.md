@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.31
+## Updated on 2024.09.01
 
 ## Image Generation
 
@@ -17,7 +17,7 @@ layout: default
 |**2024-08-29**|**What to Preserve and What to Transfer: Faithful, Identity-Preserving Diffusion-based Hairstyle Transfer**|Chaeyeon Chung et.al.|[2408.16450v1](http://arxiv.org/abs/2408.16450v1)|null|
 |**2024-08-29**|**ResVG: Enhancing Relation and Semantic Understanding in Multiple Instances for Visual Grounding**|Minghang Zheng et.al.|[2408.16314v1](http://arxiv.org/abs/2408.16314v1)|**[link](https://github.com/minghangz/resvg)**|
 |**2024-08-29**|**Improving Diffusion-based Data Augmentation with Inversion Spherical Interpolation**|Yanghao Wang et.al.|[2408.16266v1](http://arxiv.org/abs/2408.16266v1)|null|
-|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232v1](http://arxiv.org/abs/2408.16232v1)|null|
+|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232v1](http://arxiv.org/abs/2408.16232v1)|**[link](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model)**|
 |**2024-08-28**|**Disentangled Diffusion Autoencoder for Harmonization of Multi-site Neuroimaging Data**|Ayodeji Ijishakin et.al.|[2408.15890v1](http://arxiv.org/abs/2408.15890v1)|null|
 |**2024-08-28**|**Merging and Splitting Diffusion Paths for Semantically Coherent Panoramas**|Fabio Quattrini et.al.|[2408.15660v1](http://arxiv.org/abs/2408.15660v1)|**[link](https://github.com/aimagelab/mad)**|
 |**2024-08-28**|**Hand1000: Generating Realistic Hands from Text with Only 1,000 Images**|Haozhuo Zhang et.al.|[2408.15461v1](http://arxiv.org/abs/2408.15461v1)|null|
