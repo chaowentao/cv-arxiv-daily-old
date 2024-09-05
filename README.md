@@ -1,4 +1,4 @@
-## Updated on 2024.09.04
+## Updated on 2024.09.05
 
 ## Image Generation
 
@@ -12,7 +12,7 @@
 |**2024-08-30**|**Contrastive Learning with Synthetic Positives**|Dewen Zeng et.al.|[2408.16965v1](http://arxiv.org/abs/2408.16965v1)|**[link](https://github.com/dewenzeng/clsp)**|
 |**2024-08-29**|**Enabling Local Editing in Diffusion Models by Joint and Individual Component Analysis**|Theodoros Kouzelis et.al.|[2408.16845v2](http://arxiv.org/abs/2408.16845v2)|null|
 |**2024-08-29**|**STEREO: Towards Adversarially Robust Concept Erasing from Text-to-Image Generation Models**|Koushik Srivatsan et.al.|[2408.16807v1](http://arxiv.org/abs/2408.16807v1)|**[link](https://github.com/koushiksrivats/robust-concept-erasing)**|
-|**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766v1](http://arxiv.org/abs/2408.16766v1)|null|
+|**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766v2](http://arxiv.org/abs/2408.16766v2)|null|
 |**2024-08-29**|**GradBias: Unveiling Word Influence on Bias in Text-to-Image Generative Models**|Moreno D'Incà et.al.|[2408.16700v1](http://arxiv.org/abs/2408.16700v1)|**[link](https://github.com/moreno98/gradbias)**|
 |**2024-08-29**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634v2](http://arxiv.org/abs/2408.16634v2)|null|
 |**2024-08-29**|**FastForensics: Efficient Two-Stream Design for Real-Time Image Manipulation Detection**|Yangxiang Zhang et.al.|[2408.16582v1](http://arxiv.org/abs/2408.16582v1)|null|
@@ -24,7 +24,7 @@
 |**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232v1](http://arxiv.org/abs/2408.16232v1)|**[link](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model)**|
 |**2024-08-28**|**Disentangled Diffusion Autoencoder for Harmonization of Multi-site Neuroimaging Data**|Ayodeji Ijishakin et.al.|[2408.15890v1](http://arxiv.org/abs/2408.15890v1)|null|
 |**2024-08-28**|**Merging and Splitting Diffusion Paths for Semantically Coherent Panoramas**|Fabio Quattrini et.al.|[2408.15660v1](http://arxiv.org/abs/2408.15660v1)|**[link](https://github.com/aimagelab/mad)**|
-|**2024-08-28**|**Hand1000: Generating Realistic Hands from Text with Only 1,000 Images**|Haozhuo Zhang et.al.|[2408.15461v1](http://arxiv.org/abs/2408.15461v1)|null|
+|**2024-08-28**|**Hand1000: Generating Realistic Hands from Text with Only 1,000 Images**|Haozhuo Zhang et.al.|[2408.15461v2](http://arxiv.org/abs/2408.15461v2)|null|
 |**2024-08-28**|**Avoiding Generative Model Writer's Block With Embedding Nudging**|Ali Zand et.al.|[2408.15450v1](http://arxiv.org/abs/2408.15450v1)|null|
 |**2024-08-27**|**Alfie: Democratising RGBA Image Generation With No $$$**|Fabio Quattrini et.al.|[2408.14826v1](http://arxiv.org/abs/2408.14826v1)|**[link](https://github.com/aimagelab/alfie)**|
 |**2024-08-27**|**Build-A-Scene: Interactive 3D Layout Control for Diffusion-Based Image Generation**|Abdelrahman Eldesokey et.al.|[2408.14819v1](http://arxiv.org/abs/2408.14819v1)|null|
@@ -167,7 +167,7 @@
 |**2024-08-29**|**Mapping AGN winds: a connection between radio-mode AGN and the AGN feedback cycle**|Marco Albán et.al.|[2408.16831v1](http://arxiv.org/abs/2408.16831v1)|null|
 |**2024-08-29**|**Intensity mapping of intergalactic Lyman-$α$ haloes before reionization**|Hamsa Padmanabhan et.al.|[2408.16820v1](http://arxiv.org/abs/2408.16820v1)|null|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767v1](http://arxiv.org/abs/2408.16767v1)|null|
-|**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766v1](http://arxiv.org/abs/2408.16766v1)|null|
+|**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766v2](http://arxiv.org/abs/2408.16766v2)|null|
 |**2024-08-29**|**A Score-Based Density Formula, with Applications in Diffusion Generative Models**|Gen Li et.al.|[2408.16765v1](http://arxiv.org/abs/2408.16765v1)|null|
 |**2024-08-29**|**UV-free Texture Generation with Denoising and Geodesic Heat Diffusions**|Simone Foti et.al.|[2408.16762v1](http://arxiv.org/abs/2408.16762v1)|**[link](https://github.com/simofoti/uv3-ted)**|
 |**2024-08-29**|**Non-detection of Neutrinos from the BOAT: Improved Constraints on the Parameters of GRB 221009A**|P. Veres et.al.|[2408.16748v1](http://arxiv.org/abs/2408.16748v1)|null|
