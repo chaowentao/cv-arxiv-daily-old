@@ -1,4 +1,4 @@
-## Updated on 2024.09.06
+## Updated on 2024.09.07
 
 ## Image Generation
 
@@ -256,7 +256,7 @@
 |**2024-09-05**|**Raw Speech Enhancement with Deep State Space Modeling**|Yan Ru Pei et.al.|[2409.03377v1](http://arxiv.org/abs/2409.03377v1)|**[link](https://github.com/Brainchip-Inc/aTENNuate)**|
 |**2024-09-05**|**Enhancing digital core image resolution using optimal upscaling algorithm: with application to paired SEM images**|Shaohua You et.al.|[2409.03265v1](http://arxiv.org/abs/2409.03265v1)|null|
 |**2024-09-05**|**Perceptual-Distortion Balanced Image Super-Resolution is a Multi-Objective Optimization Problem**|Qiwen Zhu et.al.|[2409.03179v1](http://arxiv.org/abs/2409.03179v1)|**[link](https://github.com/ZhuKeven/MOBOSR)**|
-|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851v1](http://arxiv.org/abs/2409.02851v1)|null|
+|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851v1](http://arxiv.org/abs/2409.02851v1)|**[link](https://github.com/Human-VDM/Human-VDM)**|
 |**2024-09-04**|**Solving Video Inverse Problems Using Image Diffusion Models**|Taesung Kwon et.al.|[2409.02574v1](http://arxiv.org/abs/2409.02574v1)|null|
 |**2024-09-02**|**EarthGen: Generating the World from Top-Down Views**|Ansh Sharma et.al.|[2409.01491v1](http://arxiv.org/abs/2409.01491v1)|**[link](https://github.com/anshgs/earthgen)**|
 |**2024-09-02**|**DiffEyeSyn: Diffusion-based User-specific Eye Movement Synthesis**|Chuhan Jiao et.al.|[2409.01240v1](http://arxiv.org/abs/2409.01240v1)|null|
