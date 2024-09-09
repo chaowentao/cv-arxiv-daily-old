@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.08
+## Updated on 2024.09.09
 
 ## Image Generation
 
@@ -14,7 +14,7 @@ layout: default
 |**2024-09-05**|**Fine-tuning large language models for domain adaptation: Exploration of training strategies, scaling, model merging and synergistic capabilities**|Wei Lu et.al.|[2409.03444v1](http://arxiv.org/abs/2409.03444v1)|**[link](https://github.com/lamm-mit/llm-finetuning)**|
 |**2024-09-05**|**RoVi-Aug: Robot and Viewpoint Augmentation for Cross-Embodiment Robot Learning**|Lawrence Yunliang Chen et.al.|[2409.03403v1](http://arxiv.org/abs/2409.03403v1)|null|
 |**2024-09-05**|**Enhancing digital core image resolution using optimal upscaling algorithm: with application to paired SEM images**|Shaohua You et.al.|[2409.03265v1](http://arxiv.org/abs/2409.03265v1)|null|
-|**2024-09-04**|**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**|Xinyu Liu et.al.|[2409.02919v1](http://arxiv.org/abs/2409.02919v1)|**[link](https://github.com/Liuxinyv/HiPrompt)**|
+|**2024-09-04**|**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**|Xinyu Liu et.al.|[2409.02919v2](http://arxiv.org/abs/2409.02919v2)|**[link](https://github.com/Liuxinyv/HiPrompt)**|
 |**2024-09-04**|**Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects**|Kyungmin Jo et.al.|[2409.02653v1](http://arxiv.org/abs/2409.02653v1)|null|
 |**2024-09-04**|**StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models**|Wen Li et.al.|[2409.02543v1](http://arxiv.org/abs/2409.02543v1)|**[link](https://github.com/alipay/style-tokenizer)**|
 |**2024-09-04**|**A Learnable Color Correction Matrix for RAW Reconstruction**|Anqi Liu et.al.|[2409.02497v1](http://arxiv.org/abs/2409.02497v1)|null|
@@ -33,7 +33,7 @@ layout: default
 |**2024-09-01**|**ReMOVE: A Reference-free Metric for Object Erasure**|Aditya Chandrasekar et.al.|[2409.00707v1](http://arxiv.org/abs/2409.00707v1)|null|
 |**2024-09-01**|**Seed-to-Seed: Image Translation in Diffusion Seed Space**|Or Greenberg et.al.|[2409.00654v1](http://arxiv.org/abs/2409.00654v1)|null|
 |**2024-08-31**|**Accurate Compression of Text-to-Image Diffusion Models via Vector Quantization**|Vage Egiazarian et.al.|[2409.00492v1](http://arxiv.org/abs/2409.00492v1)|null|
-|**2024-08-31**|**AdaNAT: Exploring Adaptive Policy for Token-Based Image Generation**|Zanlin Ni et.al.|[2409.00342v1](http://arxiv.org/abs/2409.00342v1)|null|
+|**2024-08-31**|**AdaNAT: Exploring Adaptive Policy for Token-Based Image Generation**|Zanlin Ni et.al.|[2409.00342v2](http://arxiv.org/abs/2409.00342v2)|null|
 |**2024-08-31**|**Training-Free Sketch-Guided Diffusion with Latent Optimization**|Sandra Zhang Ding et.al.|[2409.00313v1](http://arxiv.org/abs/2409.00313v1)|null|
 |**2024-08-30**|**Image-Perfect Imperfections: Safety, Bias, and Authenticity in the Shadow of Text-To-Image Model Evolution**|Yixin Wu et.al.|[2408.17285v1](http://arxiv.org/abs/2408.17285v1)|null|
 |**2024-08-30**|**VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers**|Juncan Deng et.al.|[2408.17131v1](http://arxiv.org/abs/2408.17131v1)|null|
@@ -177,7 +177,7 @@ layout: default
 |**2024-09-05**|**Absorbing state transitions with long-range annihilation**|Nicholas O'Dea et.al.|[2409.03280v1](http://arxiv.org/abs/2409.03280v1)|null|
 |**2024-09-05**|**SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model**|Weipeng Tan et.al.|[2409.03270v1](http://arxiv.org/abs/2409.03270v1)|null|
 |**2024-09-05**|**Optimizing 3D Gaussian Splatting for Sparse Viewpoint Scene Reconstruction**|Shen Chen et.al.|[2409.03213v1](http://arxiv.org/abs/2409.03213v1)|null|
-|**2024-09-05**|**iSeg: An Iterative Refinement-based Framework for Training-free Segmentation**|Lin Sun et.al.|[2409.03209v1](http://arxiv.org/abs/2409.03209v1)|**[link](https://github.com/linsun449/iseg.code)**|
+|**2024-09-05**|**iSeg: An Iterative Refinement-based Framework for Training-free Segmentation**|Lin Sun et.al.|[2409.03209v2](http://arxiv.org/abs/2409.03209v2)|**[link](https://github.com/linsun449/iseg.code)**|
 |**2024-09-05**|**An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification**|Zhuowei Chen et.al.|[2409.03203v1](http://arxiv.org/abs/2409.03203v1)|null|
 |**2024-09-05**|**RoomDiffusion: A Specialized Diffusion Model in the Interior Design Industry**|Zhaowei Wang et.al.|[2409.03198v1](http://arxiv.org/abs/2409.03198v1)|null|
 
@@ -243,7 +243,7 @@ layout: default
 |**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789v1](http://arxiv.org/abs/2408.10789v1)|null|
 |**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739v1](http://arxiv.org/abs/2408.10739v1)|null|
 |**2024-08-19**|**$R^2$-Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135v1](http://arxiv.org/abs/2408.10135v1)|null|
-|**2024-08-19**|**DiscoNeRF: Class-Agnostic Object Field for 3D Object Discovery**|Corentin Dumery et.al.|[2408.09928v1](http://arxiv.org/abs/2408.09928v1)|null|
+|**2024-08-19**|**DiscoNeRF: Class-Agnostic Object Field for 3D Object Discovery**|Corentin Dumery et.al.|[2408.09928v2](http://arxiv.org/abs/2408.09928v2)|null|
 |**2024-08-19**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663v2](http://arxiv.org/abs/2408.09663v2)|null|
 |**2024-08-18**|**S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis**|Dongze Li et.al.|[2408.09347v1](http://arxiv.org/abs/2408.09347v1)|null|
 |**2024-08-17**|**SSNeRF: Sparse View Semi-supervised Neural Radiance Fields with Augmentation**|Xiao Cao et.al.|[2408.09144v1](http://arxiv.org/abs/2408.09144v1)|null|
