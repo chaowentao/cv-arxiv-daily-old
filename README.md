@@ -22,7 +22,7 @@
 |**2024-09-10**|**PoseEmbroider: Towards a 3D, Visual, Semantic-aware Human Pose Representation**|Ginger Delmas et.al.|[2409.06535v1](http://arxiv.org/abs/2409.06535v1)|null|
 |**2024-09-09**|**NeIn: Telling What You Don't Want**|Nhat-Tan Bui et.al.|[2409.06481v1](http://arxiv.org/abs/2409.06481v1)|null|
 |**2024-09-10**|**DiffQRCoder: Diffusion-based Aesthetic QR Code Generation with Scanning Robustness Guided Iterative Refinement**|Jia-Wei Liao et.al.|[2409.06355v1](http://arxiv.org/abs/2409.06355v1)|null|
-|**2024-09-09**|**MemoVis: A GenAI-Powered Tool for Creating Companion Reference Images for 3D Design Feedback**|Chen Chen et.al.|[2409.06082v1](http://arxiv.org/abs/2409.06082v1)|null|
+|**2024-09-09**|**MemoVis: A GenAI-Powered Tool for Creating Companion Reference Images for 3D Design Feedback**|Chen Chen et.al.|[2409.06082v2](http://arxiv.org/abs/2409.06082v2)|null|
 |**2024-09-09**|**SVFit: Parameter-Efficient Fine-Tuning of Large Pre-Trained Models Using Singular Values**|Chengwei Sun et.al.|[2409.05926v1](http://arxiv.org/abs/2409.05926v1)|null|
 |**2024-09-09**|**CipherDM: Secure Three-Party Inference for Diffusion Model Sampling**|Xin Zhao et.al.|[2409.05414v1](http://arxiv.org/abs/2409.05414v1)|null|
 |**2024-09-09**|**TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors**|Yichuan Mo et.al.|[2409.05294v1](http://arxiv.org/abs/2409.05294v1)|**[link](https://github.com/pku-ml/terd)**|
