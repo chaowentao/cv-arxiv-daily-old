@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 
 ## Image Generation
 
@@ -269,7 +269,7 @@ layout: default
 |**2024-09-13**|**Think Twice Before You Act: Improving Inverse Problem Solving With MCMC**|Yaxuan Zhu et.al.|[2409.08551v1](http://arxiv.org/abs/2409.08551v1)|null|
 |**2024-09-12**|**Learned Compression for Images and Point Clouds**|Mateen Ulhaq et.al.|[2409.08376v1](http://arxiv.org/abs/2409.08376v1)|**[link](https://github.com/multimedialabsfu/learned-point-cloud-compression-for-classification)**|
 |**2024-09-12**|**Mapping the nanoscale optical topological textures with a fiber-integrated plasmonic probe**|Yunkun Wu et.al.|[2409.07894v1](http://arxiv.org/abs/2409.07894v1)|null|
-|**2024-09-12**|**Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural Networks**|Shivam Barwey et.al.|[2409.07769v1](http://arxiv.org/abs/2409.07769v1)|null|
+|**2024-09-12**|**Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural Networks**|Shivam Barwey et.al.|[2409.07769v2](http://arxiv.org/abs/2409.07769v2)|null|
 |**2024-09-11**|**Dual scale Residual-Network for turbulent flow sub grid scale resolving: A prior analysis**|Omar Sallam et.al.|[2409.07605v1](http://arxiv.org/abs/2409.07605v1)|null|
 |**2024-09-11**|**Three-Dimensional, Multimodal Synchrotron Data for Machine Learning Applications**|Calum Green et.al.|[2409.07322v1](http://arxiv.org/abs/2409.07322v1)|null|
 |**2024-09-11**|**CWT-Net: Super-resolution of Histopathology Images Using a Cross-scale Wavelet-based Transformer**|Feiyang Jia et.al.|[2409.07092v1](http://arxiv.org/abs/2409.07092v1)|null|
