@@ -24,7 +24,7 @@
 |**2024-09-15**|**GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion**|Vitor Guizilini et.al.|[2409.09896v1](http://arxiv.org/abs/2409.09896v1)|null|
 |**2024-09-15**|**Generalizing Alignment Paradigm of Text-to-Image Generation with Preferences through $f$-divergence Minimization**|Haoyuan Sun et.al.|[2409.09774v1](http://arxiv.org/abs/2409.09774v1)|null|
 |**2024-09-15**|**MFCLIP: Multi-modal Fine-grained CLIP for Generalizable Diffusion Face Forgery Detection**|Yaning Zhang et.al.|[2409.09724v1](http://arxiv.org/abs/2409.09724v1)|null|
-|**2024-09-15**|**Finetuning CLIP to Reason about Pairwise Differences**|Dylan Sam et.al.|[2409.09721v1](http://arxiv.org/abs/2409.09721v1)|null|
+|**2024-09-15**|**Finetuning CLIP to Reason about Pairwise Differences**|Dylan Sam et.al.|[2409.09721v1](http://arxiv.org/abs/2409.09721v1)|**[link](https://github.com/dsam99/pc_clip)**|
 |**2024-09-15**|**E-Commerce Inpainting with Mask Guidance in Controlnet for Reducing Overcompletion**|Guandong Li et.al.|[2409.09681v1](http://arxiv.org/abs/2409.09681v1)|null|
 |**2024-09-15**|**TextureDiffusion: Target Prompt Disentangled Editing for Various Texture Transfer**|Zihan Su et.al.|[2409.09610v1](http://arxiv.org/abs/2409.09610v1)|null|
 |**2024-09-13**|**Pushing Joint Image Denoising and Classification to the Edge**|Thomas C Markhorst et.al.|[2409.08943v1](http://arxiv.org/abs/2409.08943v1)|null|
@@ -217,11 +217,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-18**|**JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation**|Sai Tanmay Reddy Chakkera et.al.|[2409.12156v1](http://arxiv.org/abs/2409.12156v1)|null|
-|**2024-09-18**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014v1](http://arxiv.org/abs/2409.12014v1)|null|
+|**2024-09-18**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014v1](http://arxiv.org/abs/2409.12014v1)|**[link](https://github.com/lulinzhang/brdf-nerf)**|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356v1](http://arxiv.org/abs/2409.11356v1)|null|
 |**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925v1](http://arxiv.org/abs/2409.10925v1)|null|
 |**2024-09-16**|**Baking Relightable NeRF for Real-time Direct/Indirect Illumination Rendering**|Euntae Choi et.al.|[2409.10327v1](http://arxiv.org/abs/2409.10327v1)|null|
-|**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041v1](http://arxiv.org/abs/2409.10041v1)|null|
+|**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041v1](http://arxiv.org/abs/2409.10041v1)|**[link](https://github.com/sntubix/denser)**|
 |**2024-09-15**|**NARF24: Estimating Articulated Object Structure for Implicit Rendering**|Stanley Lewis et.al.|[2409.09829v1](http://arxiv.org/abs/2409.09829v1)|null|
 |**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278v1](http://arxiv.org/abs/2409.08278v1)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454v1](http://arxiv.org/abs/2409.07454v1)|null|
