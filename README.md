@@ -1,4 +1,4 @@
-## Updated on 2024.09.22
+## Updated on 2024.09.23
 
 ## Image Generation
 
@@ -12,7 +12,7 @@
 |**2024-09-18**|**InverseMeetInsert: Robust Real Image Editing via Geometric Accumulation Inversion in Guided Diffusion Models**|Yan Zheng et.al.|[2409.11734v1](http://arxiv.org/abs/2409.11734v1)|null|
 |**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689v1](http://arxiv.org/abs/2409.11689v1)|null|
 |**2024-09-17**|**Using Physics Informed Generative Adversarial Networks to Model 3D porous media**|Zihan Ren et.al.|[2409.11541v1](http://arxiv.org/abs/2409.11541v1)|null|
-|**2024-09-15**|**Machine Learning for Analyzing Atomic Force Microscopy (AFM) Images Generated from Polymer Blends**|Aanish Paruchuri et.al.|[2409.11438v1](http://arxiv.org/abs/2409.11438v1)|**[link](https://github.com/arthijayaraman-lab/automated-atomic-force-microscopy-image-analysis)**|
+|**2024-09-15**|**Machine Learning for Analyzing Atomic Force Microscopy (AFM) Images Generated from Polymer Blends**|Aanish Paruchuri et.al.|[2409.11438v2](http://arxiv.org/abs/2409.11438v2)|**[link](https://github.com/arthijayaraman-lab/automated-atomic-force-microscopy-image-analysis)**|
 |**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355v1](http://arxiv.org/abs/2409.11355v1)|**[link](https://github.com/VisualComputingInstitute/diffusion-e2e-ft)**|
 |**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340v1](http://arxiv.org/abs/2409.11340v1)|**[link](https://github.com/vectorspacelab/omnigen)**|
 |**2024-09-17**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148v1](http://arxiv.org/abs/2409.11148v1)|null|
