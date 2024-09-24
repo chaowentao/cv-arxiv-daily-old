@@ -10,7 +10,7 @@
 |**2024-09-18**|**Finding the Subjective Truth: Collecting 2 Million Votes for Comprehensive Gen-AI Model Evaluation**|Dimitrios Christodoulou et.al.|[2409.11904v1](http://arxiv.org/abs/2409.11904v1)|null|
 |**2024-09-18**|**RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets**|Jikai Ye et.al.|[2409.11831v1](http://arxiv.org/abs/2409.11831v1)|null|
 |**2024-09-18**|**InverseMeetInsert: Robust Real Image Editing via Geometric Accumulation Inversion in Guided Diffusion Models**|Yan Zheng et.al.|[2409.11734v1](http://arxiv.org/abs/2409.11734v1)|null|
-|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689v1](http://arxiv.org/abs/2409.11689v1)|null|
+|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689v1](http://arxiv.org/abs/2409.11689v1)|**[link](https://github.com/liangshuowen/posediffusion)**|
 |**2024-09-17**|**Using Physics Informed Generative Adversarial Networks to Model 3D porous media**|Zihan Ren et.al.|[2409.11541v1](http://arxiv.org/abs/2409.11541v1)|null|
 |**2024-09-15**|**Machine Learning for Analyzing Atomic Force Microscopy (AFM) Images Generated from Polymer Blends**|Aanish Paruchuri et.al.|[2409.11438v2](http://arxiv.org/abs/2409.11438v2)|**[link](https://github.com/arthijayaraman-lab/automated-atomic-force-microscopy-image-analysis)**|
 |**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355v1](http://arxiv.org/abs/2409.11355v1)|**[link](https://github.com/VisualComputingInstitute/diffusion-e2e-ft)**|
@@ -169,7 +169,7 @@
 |**2024-09-18**|**InverseMeetInsert: Robust Real Image Editing via Geometric Accumulation Inversion in Guided Diffusion Models**|Yan Zheng et.al.|[2409.11734v1](http://arxiv.org/abs/2409.11734v1)|null|
 |**2024-09-18**|**Insights into the Incorporation of Signal Information in Binaural Signal Matching with Wearable Microphone Arrays**|Ami Berger et.al.|[2409.11731v1](http://arxiv.org/abs/2409.11731v1)|null|
 |**2024-09-18**|**The generation of a multi-phase medium in "Splash" bridge systems: Towards an understanding of star formation suppression in turbulent galaxy systems**|Travis Yeager et.al.|[2409.11707v1](http://arxiv.org/abs/2409.11707v1)|null|
-|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689v1](http://arxiv.org/abs/2409.11689v1)|null|
+|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689v1](http://arxiv.org/abs/2409.11689v1)|**[link](https://github.com/liangshuowen/posediffusion)**|
 |**2024-09-18**|**Recurrent Interpolants for Probabilistic Time Series Prediction**|Yu Chen et.al.|[2409.11684v1](http://arxiv.org/abs/2409.11684v1)|null|
 |**2024-09-18**|**SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation**|Mingze Sun et.al.|[2409.11682v1](http://arxiv.org/abs/2409.11682v1)|null|
 |**2024-09-18**|**Hydrodynamic modes and operator spreading in a long-range center-of-mass-conserving Brownian SYK model**|Bai-Lin Cheng et.al.|[2409.11655v1](http://arxiv.org/abs/2409.11655v1)|null|
@@ -195,7 +195,7 @@
 |**2024-09-13**|**Phikon-v2, A large and public feature extractor for biomarker prediction**|Alexandre Filiot et.al.|[2409.09173v1](http://arxiv.org/abs/2409.09173v1)|null|
 |**2024-09-13**|**ClearDepth: Enhanced Stereo Perception of Transparent Objects for Robotic Manipulation**|Kaixin Bai et.al.|[2409.08926v1](http://arxiv.org/abs/2409.08926v1)|null|
 |**2024-09-13**|**Detect Fake with Fake: Leveraging Synthetic Data-driven Representation for Synthetic Image Detection**|Hina Otake et.al.|[2409.08884v1](http://arxiv.org/abs/2409.08884v1)|**[link](https://github.com/cvpaperchallenge/detect-fake-with-fake)**|
-|**2024-09-13**|**Pathfinder for Low-altitude Aircraft with Binary Neural Network**|Kaijie Yin et.al.|[2409.08824v1](http://arxiv.org/abs/2409.08824v1)|**[link](https://github.com/imrl/pathfinder)**|
+|**2024-09-13**|**Pathfinder for Low-altitude Aircraft with Binary Neural Network**|Kaijie Yin et.al.|[2409.08824v2](http://arxiv.org/abs/2409.08824v2)|**[link](https://github.com/imrl/pathfinder)**|
 |**2024-09-13**|**HTR-VT: Handwritten Text Recognition with Vision Transformer**|Yuting Li et.al.|[2409.08573v1](http://arxiv.org/abs/2409.08573v1)|**[link](https://github.com/yutingli0606/htr-vt)**|
 |**2024-09-13**|**VLTP: Vision-Language Guided Token Pruning for Task-Oriented Segmentation**|Hanning Chen et.al.|[2409.08464v1](http://arxiv.org/abs/2409.08464v1)|null|
 |**2024-09-13**|**VistaFormer: Scalable Vision Transformers for Satellite Image Time Series Segmentation**|Ezra MacDonald et.al.|[2409.08461v1](http://arxiv.org/abs/2409.08461v1)|**[link](https://github.com/macdonaldezra/VistaFormer)**|
