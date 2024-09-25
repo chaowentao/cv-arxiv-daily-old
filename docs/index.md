@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.24
+## Updated on 2024.09.25
 
 ## Image Generation
 
@@ -278,7 +278,7 @@ layout: default
 |**2024-09-11**|**Dual scale Residual-Network for turbulent flow sub grid scale resolving: A prior analysis**|Omar Sallam et.al.|[2409.07605v1](http://arxiv.org/abs/2409.07605v1)|null|
 |**2024-09-11**|**Three-Dimensional, Multimodal Synchrotron Data for Machine Learning Applications**|Calum Green et.al.|[2409.07322v1](http://arxiv.org/abs/2409.07322v1)|null|
 |**2024-09-11**|**CWT-Net: Super-resolution of Histopathology Images Using a Cross-scale Wavelet-based Transformer**|Feiyang Jia et.al.|[2409.07092v1](http://arxiv.org/abs/2409.07092v1)|null|
-|**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590v1](http://arxiv.org/abs/2409.06590v1)|null|
+|**2024-09-10**|**Lightweight single-image super-resolution network based on dual paths**|Li Ke et.al.|[2409.06590v2](http://arxiv.org/abs/2409.06590v2)|null|
 |**2024-09-10**|**Distilling Generative-Discriminative Representations for Very Low-Resolution Face Recognition**|Junzheng Zhang et.al.|[2409.06371v1](http://arxiv.org/abs/2409.06371v1)|null|
 |**2024-09-10**|**EDADepth: Enhanced Data Augmentation for Monocular Depth Estimation**|Nischal Khanal et.al.|[2409.06183v1](http://arxiv.org/abs/2409.06183v1)|**[link](https://github.com/edadepthmde/edadepth_icmla)**|
 |**2024-09-07**|**Single-snapshot machine learning for turbulence super resolution**|Kai Fukami et.al.|[2409.04923v1](http://arxiv.org/abs/2409.04923v1)|null|
@@ -295,7 +295,7 @@ layout: default
 |**2024-09-15**|**GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion**|Vitor Guizilini et.al.|[2409.09896v1](http://arxiv.org/abs/2409.09896v1)|null|
 |**2024-09-15**|**Towards Single-Lens Controllable Depth-of-Field Imaging via All-in-Focus Aberration Correction and Monocular Depth Estimation**|Xiaolong Qian et.al.|[2409.09754v1](http://arxiv.org/abs/2409.09754v1)|**[link](https://github.com/xiaolongqian/dcdi)**|
 |**2024-09-13**|**PrimeDepth: Efficient Monocular Depth Estimation with a Stable Diffusion Preimage**|Denis Zavadski et.al.|[2409.09144v1](http://arxiv.org/abs/2409.09144v1)|**[link](https://github.com/vislearn/PrimeDepth)**|
-|**2024-09-13**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695v1](http://arxiv.org/abs/2409.08695v1)|**[link](https://github.com/ahmedheakl/fish-counting)**|
+|**2024-09-13**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695v2](http://arxiv.org/abs/2409.08695v2)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-09-12**|**Depth on Demand: Streaming Dense Depth from a Low Frame Rate Active Sensor**|Andrea Conti et.al.|[2409.08277v1](http://arxiv.org/abs/2409.08277v1)|null|
 |**2024-09-12**|**LED: Light Enhanced Depth Estimation at Night**|Simon de Moreau et.al.|[2409.08031v1](http://arxiv.org/abs/2409.08031v1)|**[link](https://github.com/simondemoreau/led)**|
 |**2024-09-12**|**Real-time Multi-view Omnidirectional Depth Estimation System for Robots and Autonomous Driving on Real Scenes**|Ming Li et.al.|[2409.07843v1](http://arxiv.org/abs/2409.07843v1)|null|
@@ -317,7 +317,7 @@ layout: default
 |**2024-09-04**|**Plane2Depth: Hierarchical Adaptive Plane Guidance for Monocular Depth Estimation**|Li Liu et.al.|[2409.02494v1](http://arxiv.org/abs/2409.02494v1)|null|
 |**2024-09-04**|**Boosting Generalizability towards Zero-Shot Cross-Dataset Single-Image Indoor Depth by Meta-Initialization**|Cho-Ying Wu et.al.|[2409.02486v1](http://arxiv.org/abs/2409.02486v1)|null|
 |**2024-09-04**|**GGS: Generalizable Gaussian Splatting for Lane Switching in Autonomous Driving**|Huasong Han et.al.|[2409.02382v1](http://arxiv.org/abs/2409.02382v1)|null|
-|**2024-09-03**|**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**|Wenbo Hu et.al.|[2409.02095v1](http://arxiv.org/abs/2409.02095v1)|null|
+|**2024-09-03**|**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**|Wenbo Hu et.al.|[2409.02095v1](http://arxiv.org/abs/2409.02095v1)|**[link](https://github.com/Tencent/DepthCrafter)**|
 |**2024-09-03**|**Observing Context Improves Disparity Estimation when Race is Unobserved**|Kweku Kwegyir-Aggrey et.al.|[2409.01984v1](http://arxiv.org/abs/2409.01984v1)|null|
 |**2024-09-02**|**Large Language Models Can Understanding Depth from Monocular Images**|Zhongyi Xia et.al.|[2409.01133v1](http://arxiv.org/abs/2409.01133v1)|null|
 
