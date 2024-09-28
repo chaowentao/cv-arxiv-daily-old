@@ -1,4 +1,4 @@
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 
 ## Image Generation
 
@@ -83,9 +83,13 @@
 |**2022-03-04**|**OPAL: Occlusion Pattern Aware Loss for Unsupervised Light Field Disparity Estimation**|Peng Li et.al.|[2203.02231v3](http://arxiv.org/abs/2203.02231v3)|null|
 |**2022-03-03**|**Occlusion-Aware Cost Constructor for Light Field Depth Estimation**|Yingqian Wang et.al.|[2203.01576v1](http://arxiv.org/abs/2203.01576v1)|**[link](https://github.com/yingqianwang/oacc-net)**|
 |**2021-06-06**|**Occlusion-aware Unsupervised Learning of Depth from 4-D Light Fields**|Jing Jin et.al.|[2106.03043v2](http://arxiv.org/abs/2106.03043v2)|**[link](https://github.com/jingjin25/LFDE-OccUnNet)**|
+|**2021-04-13**|**Learning Multi-modal Information for Robust Light Field Depth Estimation**|Yongri Piao et.al.|[2104.05971v1](http://arxiv.org/abs/2104.05971v1)|**[link](https://github.com/OIPLab-DUT/Deep-Light-Field-Depth-Estimation)**|
+|**2021-04-13**|**Dynamic Fusion Network For Light Field Depth Estimation**|Yongri Piao et.al.|[2104.05969v1](http://arxiv.org/abs/2104.05969v1)|null|
 |**2020-09-09**|**View-consistent 4D Light Field Depth Estimation**|Numair Khan et.al.|[2009.04065v1](http://arxiv.org/abs/2009.04065v1)|**[link](https://github.com/brownvc/lightfielddepth)**|
+|**2020-07-09**|**EPI-based Oriented Relation Networks for Light Field Depth Estimation**|Kunyuan Li et.al.|[2007.04538v2](http://arxiv.org/abs/2007.04538v2)|**[link](https://github.com/lkyahpu/EPI_ORM)**|
 |**2019-09-19**|**Learning to Think Outside the Box: Wide-Baseline Light Field Depth Estimation with EPI-Shift**|Titus Leistner et.al.|[1909.09059v1](http://arxiv.org/abs/1909.09059v1)|null|
 |**2019-07-31**|**Rapid Light Field Depth Estimation with Semi-Global Matching**|Yuriy Anisimov et.al.|[1907.13449v1](http://arxiv.org/abs/1907.13449v1)|null|
+|**2018-04-06**|**EPINET: A Fully-Convolutional Neural Network Using Epipolar Geometry for Depth from Light Field Images**|Changha Shin et.al.|[1804.02379v1](http://arxiv.org/abs/1804.02379v1)|null|
 |**2017-08-07**|**Accurate Light Field Depth Estimation with Superpixel Regularization over Partially Occluded Regions**|Jie Chen et.al.|[1708.01964v1](http://arxiv.org/abs/1708.01964v1)|null|
 |**2016-08-15**|**Occlusion-Model Guided Anti-Occlusion Depth Estimation in Light Field**|Hao Zhu et.al.|[1608.04187v2](http://arxiv.org/abs/1608.04187v2)|null|
 
@@ -106,8 +110,12 @@
 |**2021-08-08**|**Efficient Light Field Reconstruction via Spatio-Angular Dense Network**|Zexi Hu et.al.|[2108.03635v1](http://arxiv.org/abs/2108.03635v1)|**[link](https://github.com/huzexi/SADenseNet)**|
 |**2021-06-04**|**Light Field Networks: Neural Scene Representations with Single-Evaluation Rendering**|Vincent Sitzmann et.al.|[2106.02634v2](http://arxiv.org/abs/2106.02634v2)|null|
 |**2021-03-24**|**Light Field Reconstruction Using Convolutional Network on EPI and Extended Applications**|Gaochang Wu et.al.|[2103.13043v1](http://arxiv.org/abs/2103.13043v1)|**[link](https://github.com/GaochangWu/lfepicnn)**|
+|**2021-02-14**|**Light Field Reconstruction via Deep Adaptive Fusion of Hybrid Lenses**|Jing Jin et.al.|[2102.07085v3](http://arxiv.org/abs/2102.07085v3)|**[link](https://github.com/jingjin25/LFhybridSR-Fusion)**|
+|**2020-12-03**|**Light-field view synthesis using convolutional block attention module**|M. Shahzeb Khan Gul et.al.|[2012.01900v2](http://arxiv.org/abs/2012.01900v2)|null|
 |**2020-09-07**|**Light Field View Synthesis via Aperture Disparity and Warping Confidence Map**|Nan Meng et.al.|[2009.02978v2](http://arxiv.org/abs/2009.02978v2)|null|
 |**2020-08-12**|**Self-supervised Light Field View Synthesis Using Cycle Consistency**|Yang Chen et.al.|[2008.05084v1](http://arxiv.org/abs/2008.05084v1)|null|
+|**2020-07-23**|**Deep Spatial-angular Regularization for Compressive Light Field Reconstruction over Coded Apertures**|Mantang Guo et.al.|[2007.11882v1](http://arxiv.org/abs/2007.11882v1)|**[link](https://github.com/angmt2008/LFCA)**|
+|**2020-07-05**|**Spatial-Angular Attention Network for Light Field Reconstruction**|Gaochang Wu et.al.|[2007.02252v2](http://arxiv.org/abs/2007.02252v2)|**[link](https://github.com/gaochangwu/saan)**|
 |**2020-05-13**|**A Generative Model for Generic Light Field Reconstruction**|Paramanand Chandramouli et.al.|[2005.06508v2](http://arxiv.org/abs/2005.06508v2)|null|
 |**2020-03-20**|**Self-Supervised Light Field Reconstruction Using Shearlet Transform and Cycle Consistency**|Yuan Gao et.al.|[2003.09294v1](http://arxiv.org/abs/2003.09294v1)|null|
 |**2020-03-19**|**DRST: Deep Residual Shearlet Transform for Densely Sampled Light Field Reconstruction**|Yuan Gao et.al.|[2003.08865v1](http://arxiv.org/abs/2003.08865v1)|null|
@@ -116,10 +124,9 @@
 |**2019-10-03**|**High-dimensional Dense Residual Convolutional Neural Network for Light Field Reconstruction**|Nan Meng et.al.|[1910.01426v4](http://arxiv.org/abs/1910.01426v4)|**[link](https://github.com/monaen/LightFieldReconstruction)**|
 |**2019-08-31**|**Deep Coarse-to-fine Dense Light Field Reconstruction with Flexible Sampling and Geometry-aware Fusion**|Jing Jin et.al.|[1909.01341v3](http://arxiv.org/abs/1909.01341v3)|**[link](https://github.com/jingjin25/LFASR-FS-GAF)**|
 |**2019-02-17**|**LapEPI-Net: A Laplacian Pyramid EPI structure for Learning-based Dense Light Field Reconstruction**|Gaochang Wu et.al.|[1902.06221v1](http://arxiv.org/abs/1902.06221v1)|null|
+|**2018-12-26**|**A Unified Learning Based Framework for Light Field Reconstruction from Coded Projections**|Anil Kumar Vadathya et.al.|[1812.10532v2](http://arxiv.org/abs/1812.10532v2)|null|
 |**2018-10-20**|**A System for Acquiring, Processing, and Rendering Panoramic Light Field Stills for Virtual Reality**|Ryan S. Overbeck et.al.|[1810.08860v1](http://arxiv.org/abs/1810.08860v1)|null|
-|**2018-01-20**|**Learning Light Field Reconstruction from a Single Coded Image**|Anil Kumar Vadathya et.al.|[1801.06710v2](http://arxiv.org/abs/1801.06710v2)|null|
-|**2017-05-27**|**Fast and High Quality Light Field Acquisition using Defocus Modulation**|Haichao Wang et.al.|[1705.09775v1](http://arxiv.org/abs/1705.09775v1)|null|
-|**2017-04-25**|**Towards a quality metric for dense light fields**|Vamsi Kiran Adhikarla et.al.|[1704.07576v1](http://arxiv.org/abs/1704.07576v1)|**[link](https://github.com/mantiuk/pwcmp)**|
+|**2018-06-14**|**Dense Light Field Reconstruction From Sparse Sampling Using Residual Network**|Mantang Guo et.al.|[1806.05506v2](http://arxiv.org/abs/1806.05506v2)|null|
 
 ## Light Field Other Applications
 
@@ -128,7 +135,9 @@
 |**2023-03-13**|**View Adaptive Light Field Deblurring Networks with Depth Perception**|Zeqi Shen et.al.|[2303.06860v1](http://arxiv.org/abs/2303.06860v1)|null|
 |**2022-04-28**|**Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection**|Mingtao Feng et.al.|[2204.13456v1](http://arxiv.org/abs/2204.13456v1)|**[link](https://github.com/olobbcode/noiself)**|
 |**2021-10-02**|**Light Field Saliency Detection with Dual Local Graph Learning andReciprocative Guidance**|Nian Liu et.al.|[2110.00698v1](http://arxiv.org/abs/2110.00698v1)|**[link](https://github.com/wangbo-zhao/2021iccv-dlglrg)**|
+|**2020-12-30**|**DUT-LFSaliency: Versatile Dataset and Light Field-to-RGB Saliency Detection**|Yongri Piao et.al.|[2012.15124v1](http://arxiv.org/abs/2012.15124v1)|null|
 |**2020-10-25**|**Fast and Accurate Light Field Saliency Detection through Deep Encoding**|Sahan Hemachandra et.al.|[2010.13073v2](http://arxiv.org/abs/2010.13073v2)|null|
+|**2019-06-19**|**Light Field Saliency Detection with Deep Convolutional Networks**|Jun Zhang et.al.|[1906.08331v2](http://arxiv.org/abs/1906.08331v2)|**[link](https://github.com/pencilzhang/MAC-light-field-saliency-net)**|
 |**2019-03-31**|**Fast and Full-Resolution Light Field Deblurring using a Deep Neural Network**|Jonathan Samuel Lumentut et.al.|[1904.00352v1](http://arxiv.org/abs/1904.00352v1)|null|
 |**2017-12-20**|**Light Field Segmentation From Super-pixel Graph Representation**|Xianqiang Lv et.al.|[1712.07394v1](http://arxiv.org/abs/1712.07394v1)|null|
 |**2017-11-29**|**Joint Blind Motion Deblurring and Depth Estimation of Light Field**|Dongwoo Lee et.al.|[1711.10918v2](http://arxiv.org/abs/1711.10918v2)|null|
@@ -313,7 +322,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-26**|**Neural Light Spheres for Implicit Image Stitching and View Synthesis**|Ilya Chugunov et.al.|[2409.17924v1](http://arxiv.org/abs/2409.17924v1)|null|
-|**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502v1](http://arxiv.org/abs/2409.16502v1)|null|
+|**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502v1](http://arxiv.org/abs/2409.16502v1)|**[link](https://github.com/haksorus/gsplatloc)**|
 |**2024-09-24**|**Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality**|Hannah Schieber et.al.|[2409.15959v1](http://arxiv.org/abs/2409.15959v1)|null|
 |**2024-09-24**|**Disentangled Generation and Aggregation for Robust Radiance Fields**|Shihe Shen et.al.|[2409.15715v1](http://arxiv.org/abs/2409.15715v1)|null|
 |**2024-09-23**|**AgriNeRF: Neural Radiance Fields for Agriculture in Challenging Lighting Conditions**|Samarth Chopra et.al.|[2409.15487v1](http://arxiv.org/abs/2409.15487v1)|null|
