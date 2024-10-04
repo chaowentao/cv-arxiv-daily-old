@@ -1,4 +1,4 @@
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 
 ## Image Generation
 
@@ -13,9 +13,9 @@
 |**2024-10-02**|**Edge-preserving noise for diffusion models**|Jente Vandersanden et.al.|[2410.01540v1](http://arxiv.org/abs/2410.01540v1)|null|
 |**2024-10-02**|**MiraGe: Editable 2D Images using Gaussian Splatting**|Joanna Waczyńska et.al.|[2410.01521v1](http://arxiv.org/abs/2410.01521v1)|**[link](https://github.com/waczjoan/mirage)**|
 |**2024-10-02**|**Aggregation of Multi Diffusion Models for Enhancing Learned Representations**|Conghan Yue et.al.|[2410.01262v1](http://arxiv.org/abs/2410.01262v1)|**[link](https://github.com/hammour-steak/amdm)**|
-|**2024-10-02**|**The SynCOM Flow Tracking Challenge**|Valmir Moraes Filho et.al.|[2410.01233v1](http://arxiv.org/abs/2410.01233v1)|null|
+|**2024-10-02**|**The SynCOM Flow Tracking Challenge**|Valmir Moraes Filho et.al.|[2410.01233v2](http://arxiv.org/abs/2410.01233v2)|null|
 |**2024-10-01**|**Removing Distributional Discrepancies in Captions Improves Image-Text Alignment**|Yuheng Li et.al.|[2410.00905v1](http://arxiv.org/abs/2410.00905v1)|null|
-|**2024-10-01**|**NECOMIMI: Neural-Cognitive Multimodal EEG-informed Image Generation with Diffusion Models**|Chi-Sheng Chen et.al.|[2410.00712v1](http://arxiv.org/abs/2410.00712v1)|null|
+|**2024-10-01**|**NECOMIMI: Neural-Cognitive Multimodal EEG-informed Image Generation with Diffusion Models**|Chi-Sheng Chen et.al.|[2410.00712v2](http://arxiv.org/abs/2410.00712v2)|null|
 |**2024-10-01**|**MCGM: Mask Conditional Text-to-Image Generative Model**|Rami Skaik et.al.|[2410.00483v1](http://arxiv.org/abs/2410.00483v1)|null|
 |**2024-10-01**|**Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation**|Yunnan Wang et.al.|[2410.00447v1](http://arxiv.org/abs/2410.00447v1)|null|
 |**2024-10-01**|**CusConcept: Customized Visual Concept Decomposition with Diffusion Models**|Zhi Xu et.al.|[2410.00398v1](http://arxiv.org/abs/2410.00398v1)|**[link](https://github.com/xzlcan/cusconcept)**|
@@ -205,7 +205,7 @@
 |**2024-09-25**|**Block Expanded DINORET: Adapting Natural Domain Foundation Models for Retinal Imaging Without Catastrophic Forgetting**|Jay Zoellin et.al.|[2409.17332v1](http://arxiv.org/abs/2409.17332v1)|null|
 |**2024-09-25**|**CROSS-GAiT: Cross-Attention-Based Multimodal Representation Fusion for Parametric Gait Adaptation in Complex Terrains**|Gershom Seneviratne et.al.|[2409.17262v2](http://arxiv.org/abs/2409.17262v2)|null|
 |**2024-09-25**|**PACE: marrying generalization in PArameter-efficient fine-tuning with Consistency rEgularization**|Yao Ni et.al.|[2409.17137v1](http://arxiv.org/abs/2409.17137v1)|null|
-|**2024-09-25**|**Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba**|Amin Malekmohammadi et.al.|[2409.17122v1](http://arxiv.org/abs/2409.17122v1)|**[link](https://github.com/swiman/mamba-medical-classification)**|
+|**2024-09-25**|**Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba**|Amin Malekmohammadi et.al.|[2409.17122v2](http://arxiv.org/abs/2409.17122v2)|**[link](https://github.com/swiman/mamba-medical-classification)**|
 |**2024-09-25**|**Going Beyond U-Net: Assessing Vision Transformers for Semantic Segmentation in Microscopy Image Analysis**|Illia Tsiporenko et.al.|[2409.16940v1](http://arxiv.org/abs/2409.16940v1)|null|
 |**2024-09-25**|**HVT: A Comprehensive Vision Framework for Learning in Non-Euclidean Space**|Jacob Fein-Ashley et.al.|[2409.16897v2](http://arxiv.org/abs/2409.16897v2)|**[link](https://github.com/hyperbolicvit/hyperbolicvit)**|
 |**2024-09-24**|**Lessons Learned from a Unifying Empirical Study of Parameter-Efficient Transfer Learning (PETL) in Visual Recognition**|Zheda Mai et.al.|[2409.16434v2](http://arxiv.org/abs/2409.16434v2)|null|
