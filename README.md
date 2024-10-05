@@ -14,7 +14,7 @@
 |**2024-10-03**|**Plug-and-Play Controllable Generation for Discrete Masked Models**|Wei Guo et.al.|[2410.02143v1](http://arxiv.org/abs/2410.02143v1)|null|
 |**2024-10-02**|**EC-DIT: Scaling Diffusion Transformers with Adaptive Expert-Choice Routing**|Haotian Sun et.al.|[2410.02098v1](http://arxiv.org/abs/2410.02098v1)|null|
 |**2024-10-02**|**DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation**|Jing He et.al.|[2410.02067v1](http://arxiv.org/abs/2410.02067v1)|null|
-|**2024-10-02**|**Normalizing Flow Based Metric for Image Generation**|Pranav Jeevan et.al.|[2410.02004v1](http://arxiv.org/abs/2410.02004v1)|null|
+|**2024-10-02**|**Normalizing Flow Based Metric for Image Generation**|Pranav Jeevan et.al.|[2410.02004v1](http://arxiv.org/abs/2410.02004v1)|**[link](https://github.com/pranavphoenix/FLD)**|
 |**2024-10-02**|**Run-time Observation Interventions Make Vision-Language-Action Models More Visually Robust**|Asher J. Hancock et.al.|[2410.01971v1](http://arxiv.org/abs/2410.01971v1)|null|
 |**2024-10-02**|**A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation**|Liang Chen et.al.|[2410.01912v1](http://arxiv.org/abs/2410.01912v1)|**[link](https://github.com/chenllliang/dnd-transformer)**|
 |**2024-10-02**|**Bellman Diffusion: Generative Modeling as Learning a Linear Operator in the Distribution Space**|Yangming Li et.al.|[2410.01796v1](http://arxiv.org/abs/2410.01796v1)|null|
