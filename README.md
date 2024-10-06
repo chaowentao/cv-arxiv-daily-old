@@ -63,12 +63,12 @@
 |**2022-08-06**|**RFID authentication protocol based on a novel EPC Gen2 PRNG**|Pino Caballero-Gil et.al.|[2208.05345v1](http://arxiv.org/abs/2208.05345v1)|null|
 |**2022-08-06**|**Weak Equivalents for Nonlinear Filtering Functions**|Amparo Fúster-Sabater et.al.|[2208.04734v1](http://arxiv.org/abs/2208.04734v1)|null|
 |**2022-07-31**|**Ordered Orthogonal Array Construction Using LFSR Sequences**|André Guerino Castoldi et.al.|[2208.00333v1](http://arxiv.org/abs/2208.00333v1)|null|
-|**2022-07-25**|**Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging**|Aupendu Kar et.al.|[2207.11894v2](http://arxiv.org/abs/2207.11894v2)|null|
 |**2022-06-09**|**A GPU-Accelerated Light-field Super-resolution Framework Based on Mixed Noise Model and Weighted Regularization**|Trung-Hieu Tran et.al.|[2206.05047v1](http://arxiv.org/abs/2206.05047v1)|null|
 |**2022-01-02**|**Detail-Preserving Transformer for Light Field Image Super-Resolution**|Shunzhou Wang et.al.|[2201.00346v1](http://arxiv.org/abs/2201.00346v1)|**[link](https://github.com/bitszwang/dpt)**|
 |**2021-11-07**|**Texture-enhanced Light Field Super-resolution with Spatio-Angular Decomposition Kernels**|Zexi Hu et.al.|[2111.04069v2](http://arxiv.org/abs/2111.04069v2)|null|
 |**2021-10-07**|**Shift-BNN: Highly-Efficient Probabilistic Bayesian Neural Network Training via Memory-Friendly Pattern Retrieving**|Qiyu Wan et.al.|[2110.03553v1](http://arxiv.org/abs/2110.03553v1)|null|
 |**2021-08-08**|**Efficient Light Field Reconstruction via Spatio-Angular Dense Network**|Zexi Hu et.al.|[2108.03635v1](http://arxiv.org/abs/2108.03635v1)|**[link](https://github.com/huzexi/SADenseNet)**|
+|**2020-11-17**|**New (k,l,m)-verifiable multi-secret sharing schemes based on XTR public key system**|Jing Yang et.al.|[2011.08648v1](http://arxiv.org/abs/2011.08648v1)|null|
 
 ## Light Field Depth Estimation
 
