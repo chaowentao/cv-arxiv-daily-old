@@ -80,6 +80,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-04**|**Iterative Occlusion-Aware Light Field Depth Estimation using 4D Geometrical Cues**|Rui Lourenço et.al.|[2403.02043v1](http://arxiv.org/abs/2403.02043v1)|null|
 |**2023-05-28**|**OccCasNet: Occlusion-aware Cascade Cost Volume for Light Field Depth Estimation**|Wentao Chao et.al.|[2305.17710v1](http://arxiv.org/abs/2305.17710v1)|**[link](https://github.com/chaowentao/occcasnet)**|
+|**2023-01-20**|**Unsupervised Light Field Depth Estimation via Multi-view Feature Matching with Occlusion Prediction**|Shansi Zhang et.al.|[2301.08433v2](http://arxiv.org/abs/2301.08433v2)|null|
 |**2022-08-20**|**Learning Sub-Pixel Disparity Distribution for Light Field Depth Estimation**|Wentao Chao et.al.|[2208.09688v3](http://arxiv.org/abs/2208.09688v3)|**[link](https://github.com/chaowentao/subfocal)**|
 |**2022-03-29**|**Light Field Depth Estimation via Stitched Epipolar Plane Images**|Ping Zhou et.al.|[2203.15201v3](http://arxiv.org/abs/2203.15201v3)|**[link](https://github.com/pingzhou-lf/light-field-depth-estimation-based-on-stitched-epis)**|
 |**2022-03-29**|**Self-Supervised Light Field Depth Estimation Using Epipolar Plane Images**|Kunyuan Li et.al.|[2203.15171v1](http://arxiv.org/abs/2203.15171v1)|null|
