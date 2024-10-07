@@ -1,4 +1,4 @@
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 
 ## Image Generation
 
@@ -9,7 +9,7 @@
 |**2024-10-03**|**ControlAR: Controllable Image Generation with Autoregressive Models**|Zongming Li et.al.|[2410.02705v1](http://arxiv.org/abs/2410.02705v1)|**[link](https://github.com/hustvl/controlar)**|
 |**2024-10-03**|**Grounded Answers for Multi-agent Decision-making Problem through Generative World Model**|Zeyang Liu et.al.|[2410.02664v1](http://arxiv.org/abs/2410.02664v1)|null|
 |**2024-10-03**|**Event-Customized Image Generation**|Zhen Wang et.al.|[2410.02483v1](http://arxiv.org/abs/2410.02483v1)|null|
-|**2024-10-03**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369v1](http://arxiv.org/abs/2410.02369v1)|null|
+|**2024-10-03**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369v2](http://arxiv.org/abs/2410.02369v2)|null|
 |**2024-10-03**|**SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration**|Jintao Zhang et.al.|[2410.02367v1](http://arxiv.org/abs/2410.02367v1)|**[link](https://github.com/thu-ml/SageAttention)**|
 |**2024-10-03**|**Plug-and-Play Controllable Generation for Discrete Masked Models**|Wei Guo et.al.|[2410.02143v1](http://arxiv.org/abs/2410.02143v1)|null|
 |**2024-10-02**|**EC-DIT: Scaling Diffusion Transformers with Adaptive Expert-Choice Routing**|Haotian Sun et.al.|[2410.02098v1](http://arxiv.org/abs/2410.02098v1)|null|
@@ -63,12 +63,12 @@
 |**2022-08-06**|**RFID authentication protocol based on a novel EPC Gen2 PRNG**|Pino Caballero-Gil et.al.|[2208.05345v1](http://arxiv.org/abs/2208.05345v1)|null|
 |**2022-08-06**|**Weak Equivalents for Nonlinear Filtering Functions**|Amparo Fúster-Sabater et.al.|[2208.04734v1](http://arxiv.org/abs/2208.04734v1)|null|
 |**2022-07-31**|**Ordered Orthogonal Array Construction Using LFSR Sequences**|André Guerino Castoldi et.al.|[2208.00333v1](http://arxiv.org/abs/2208.00333v1)|null|
+|**2022-07-25**|**Sub-Aperture Feature Adaptation in Single Image Super-resolution Model for Light Field Imaging**|Aupendu Kar et.al.|[2207.11894v2](http://arxiv.org/abs/2207.11894v2)|null|
 |**2022-06-09**|**A GPU-Accelerated Light-field Super-resolution Framework Based on Mixed Noise Model and Weighted Regularization**|Trung-Hieu Tran et.al.|[2206.05047v1](http://arxiv.org/abs/2206.05047v1)|null|
 |**2022-01-02**|**Detail-Preserving Transformer for Light Field Image Super-Resolution**|Shunzhou Wang et.al.|[2201.00346v1](http://arxiv.org/abs/2201.00346v1)|**[link](https://github.com/bitszwang/dpt)**|
 |**2021-11-07**|**Texture-enhanced Light Field Super-resolution with Spatio-Angular Decomposition Kernels**|Zexi Hu et.al.|[2111.04069v2](http://arxiv.org/abs/2111.04069v2)|null|
 |**2021-10-07**|**Shift-BNN: Highly-Efficient Probabilistic Bayesian Neural Network Training via Memory-Friendly Pattern Retrieving**|Qiyu Wan et.al.|[2110.03553v1](http://arxiv.org/abs/2110.03553v1)|null|
 |**2021-08-08**|**Efficient Light Field Reconstruction via Spatio-Angular Dense Network**|Zexi Hu et.al.|[2108.03635v1](http://arxiv.org/abs/2108.03635v1)|**[link](https://github.com/huzexi/SADenseNet)**|
-|**2020-11-17**|**New (k,l,m)-verifiable multi-secret sharing schemes based on XTR public key system**|Jing Yang et.al.|[2011.08648v1](http://arxiv.org/abs/2011.08648v1)|null|
 
 ## Light Field Depth Estimation
 
@@ -161,7 +161,7 @@
 |**2024-10-03**|**BEBOP VI. Enabling the detection of circumbinary planets orbiting double-lined binaries with the DOLBY method of radial-velocity extraction**|Lalitha Sairam et.al.|[2410.02573v1](http://arxiv.org/abs/2410.02573v1)|null|
 |**2024-10-03**|**NestedMorph: Enhancing Deformable Medical Image Registration with Nested Attention Mechanisms**|Gurucharan Marthi Krishna Kumar et.al.|[2410.02550v1](http://arxiv.org/abs/2410.02550v1)|null|
 |**2024-10-03**|**Local Flow Matching Generative Models**|Chen Xu et.al.|[2410.02548v1](http://arxiv.org/abs/2410.02548v1)|null|
-|**2024-10-03**|**Diffusion Models are Evolutionary Algorithms**|Yanbo Zhang et.al.|[2410.02543v1](http://arxiv.org/abs/2410.02543v1)|**[link](https://github.com/Zhangyanbo/diffusion-evolution)**|
+|**2024-10-03**|**Diffusion Models are Evolutionary Algorithms**|Yanbo Zhang et.al.|[2410.02543v2](http://arxiv.org/abs/2410.02543v2)|**[link](https://github.com/Zhangyanbo/diffusion-evolution)**|
 |**2024-10-03**|**SAFLEX: Self-Adaptive Augmentation via Feature Label Extrapolation**|Mucong Ding et.al.|[2410.02512v1](http://arxiv.org/abs/2410.02512v1)|null|
 |**2024-10-03**|**Lightweight Diffusion Models for Resource-Constrained Semantic Communication**|Giovanni Pignata et.al.|[2410.02491v1](http://arxiv.org/abs/2410.02491v1)|null|
 |**2024-10-03**|**Event-Customized Image Generation**|Zhen Wang et.al.|[2410.02483v1](http://arxiv.org/abs/2410.02483v1)|null|
@@ -169,13 +169,13 @@
 |**2024-10-03**|**Towards a Theoretical Understanding of Memorization in Diffusion Models**|Yunhao Chen et.al.|[2410.02467v1](http://arxiv.org/abs/2410.02467v1)|null|
 |**2024-10-03**|**Eliminating Oversaturation and Artifacts of High Guidance Scales in Diffusion Models**|Seyedmorteza Sadat et.al.|[2410.02416v1](http://arxiv.org/abs/2410.02416v1)|null|
 |**2024-10-03**|**Diffusion Meets Options: Hierarchical Generative Skill Composition for Temporally-Extended Tasks**|Zeyu Feng et.al.|[2410.02389v1](http://arxiv.org/abs/2410.02389v1)|null|
-|**2024-10-03**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369v1](http://arxiv.org/abs/2410.02369v1)|null|
+|**2024-10-03**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369v2](http://arxiv.org/abs/2410.02369v2)|null|
 |**2024-10-03**|**Simplicity bias and optimization threshold in two-layer ReLU networks**|Etienne Boursier et.al.|[2410.02348v1](http://arxiv.org/abs/2410.02348v1)|null|
 |**2024-10-03**|**eDIG-CHANGES III: the lagging eDIG revealed by multi-slit spectroscopy of NGC 891**|Li-Yuan Lu et.al.|[2410.02347v1](http://arxiv.org/abs/2410.02347v1)|null|
 |**2024-10-03**|**Convergence of Score-Based Discrete Diffusion Models: A Discrete-Time Analysis**|Zikun Zhang et.al.|[2410.02321v1](http://arxiv.org/abs/2410.02321v1)|null|
-|**2024-10-03**|**Decoupling Layout from Glyph in Online Chinese Handwriting Generation**|Ren-Min Si et.al.|[2410.02309v1](http://arxiv.org/abs/2410.02309v1)|null|
+|**2024-10-03**|**Decoupling Layout from Glyph in Online Chinese Handwriting Generation**|Min-Si Ren et.al.|[2410.02309v2](http://arxiv.org/abs/2410.02309v2)|null|
 |**2024-10-03**|**Subdiffusive dynamics in photonic random walks probed with classical light**|Stefano Longhi et.al.|[2410.02287v1](http://arxiv.org/abs/2410.02287v1)|null|
-|**2024-10-03**|**SCA: Highly Efficient Semantic-Consistent Unrestricted Adversarial Attack**|Zihao Pan et.al.|[2410.02240v1](http://arxiv.org/abs/2410.02240v1)|**[link](https://github.com/pan-zihao/sca)**|
+|**2024-10-03**|**SCA: Highly Efficient Semantic-Consistent Unrestricted Adversarial Attack**|Zihao Pan et.al.|[2410.02240v2](http://arxiv.org/abs/2410.02240v2)|**[link](https://github.com/pan-zihao/sca)**|
 
 ## Vision Transformer
 
@@ -217,7 +217,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103v1](http://arxiv.org/abs/2410.02103v1)|null|
-|**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804v1](http://arxiv.org/abs/2410.01804v1)|null|
+|**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804v2](http://arxiv.org/abs/2410.01804v2)|null|
 |**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647v1](http://arxiv.org/abs/2410.01647v1)|**[link](https://github.com/yangcaoai/3dgs-det)**|
 |**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614v1](http://arxiv.org/abs/2410.01614v1)|null|
 |**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404v1](http://arxiv.org/abs/2410.01404v1)|null|
@@ -325,7 +325,7 @@
 |**2024-10-03**|**GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering**|Hongze Chen et.al.|[2410.02619v1](http://arxiv.org/abs/2410.02619v1)|null|
 |**2024-10-03**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571v1](http://arxiv.org/abs/2410.02571v1)|null|
 |**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103v1](http://arxiv.org/abs/2410.02103v1)|null|
-|**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804v1](http://arxiv.org/abs/2410.01804v1)|null|
+|**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804v2](http://arxiv.org/abs/2410.01804v2)|null|
 |**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647v1](http://arxiv.org/abs/2410.01647v1)|**[link](https://github.com/yangcaoai/3dgs-det)**|
 |**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614v1](http://arxiv.org/abs/2410.01614v1)|null|
 |**2024-10-02**|**EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings**|Yingdong Hu et.al.|[2410.01425v1](http://arxiv.org/abs/2410.01425v1)|null|
@@ -336,7 +336,7 @@
 |**2024-09-29**|**RNG: Relightable Neural Gaussians**|Jiahui Fan et.al.|[2409.19702v2](http://arxiv.org/abs/2409.19702v2)|null|
 |**2024-09-28**|**GS-EVT: Cross-Modal Event Camera Tracking based on Gaussian Splatting**|Tao Liu et.al.|[2409.19228v1](http://arxiv.org/abs/2409.19228v1)|null|
 |**2024-09-27**|**Gaussian Heritage: 3D Digitization of Cultural Heritage with Integrated Object Segmentation**|Mahtab Dahaghin et.al.|[2409.19039v1](http://arxiv.org/abs/2409.19039v1)|null|
-|**2024-09-26**|**Neural Light Spheres for Implicit Image Stitching and View Synthesis**|Ilya Chugunov et.al.|[2409.17924v1](http://arxiv.org/abs/2409.17924v1)|**[link](https://github.com/ilya-muromets/pani)**|
+|**2024-09-26**|**Neural Light Spheres for Implicit Image Stitching and View Synthesis**|Ilya Chugunov et.al.|[2409.17924v2](http://arxiv.org/abs/2409.17924v2)|**[link](https://github.com/ilya-muromets/pani)**|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502v1](http://arxiv.org/abs/2409.16502v1)|**[link](https://github.com/haksorus/gsplatloc)**|
 |**2024-09-24**|**Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality**|Hannah Schieber et.al.|[2409.15959v1](http://arxiv.org/abs/2409.15959v1)|null|
 |**2024-09-24**|**Disentangled Generation and Aggregation for Robust Radiance Fields**|Shihe Shen et.al.|[2409.15715v1](http://arxiv.org/abs/2409.15715v1)|null|
