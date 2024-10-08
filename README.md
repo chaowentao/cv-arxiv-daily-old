@@ -1,4 +1,4 @@
-## Updated on 2024.10.07
+## Updated on 2024.10.08
 
 ## Image Generation
 
@@ -20,9 +20,9 @@
 |**2024-10-03**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369v2](http://arxiv.org/abs/2410.02369v2)|null|
 |**2024-10-03**|**SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration**|Jintao Zhang et.al.|[2410.02367v1](http://arxiv.org/abs/2410.02367v1)|**[link](https://github.com/thu-ml/SageAttention)**|
 |**2024-10-03**|**Plug-and-Play Controllable Generation for Discrete Masked Models**|Wei Guo et.al.|[2410.02143v1](http://arxiv.org/abs/2410.02143v1)|null|
-|**2024-10-02**|**EC-DIT: Scaling Diffusion Transformers with Adaptive Expert-Choice Routing**|Haotian Sun et.al.|[2410.02098v1](http://arxiv.org/abs/2410.02098v1)|null|
+|**2024-10-02**|**EC-DIT: Scaling Diffusion Transformers with Adaptive Expert-Choice Routing**|Haotian Sun et.al.|[2410.02098v2](http://arxiv.org/abs/2410.02098v2)|null|
 |**2024-10-02**|**DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation**|Jing He et.al.|[2410.02067v1](http://arxiv.org/abs/2410.02067v1)|null|
-|**2024-10-02**|**Normalizing Flow Based Metric for Image Generation**|Pranav Jeevan et.al.|[2410.02004v1](http://arxiv.org/abs/2410.02004v1)|**[link](https://github.com/pranavphoenix/FLD)**|
+|**2024-10-02**|**Normalizing Flow-Based Metric for Image Generation**|Pranav Jeevan et.al.|[2410.02004v2](http://arxiv.org/abs/2410.02004v2)|**[link](https://github.com/pranavphoenix/FLD)**|
 |**2024-10-02**|**Run-time Observation Interventions Make Vision-Language-Action Models More Visually Robust**|Asher J. Hancock et.al.|[2410.01971v1](http://arxiv.org/abs/2410.01971v1)|null|
 |**2024-10-02**|**A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation**|Liang Chen et.al.|[2410.01912v1](http://arxiv.org/abs/2410.01912v1)|**[link](https://github.com/chenllliang/dnd-transformer)**|
 |**2024-10-02**|**Bellman Diffusion: Generative Modeling as Learning a Linear Operator in the Distribution Space**|Yangming Li et.al.|[2410.01796v1](http://arxiv.org/abs/2410.01796v1)|null|
@@ -186,7 +186,7 @@
 |**2024-10-04**|**Mamba in Vision: A Comprehensive Survey of Techniques and Applications**|Md Maklachur Rahman et.al.|[2410.03105v1](http://arxiv.org/abs/2410.03105v1)|**[link](https://github.com/maklachur/mamba-in-computer-vision)**|
 |**2024-10-03**|**GABIC: Graph-based Attention Block for Image Compression**|Gabriele Spadaro et.al.|[2410.02981v1](http://arxiv.org/abs/2410.02981v1)|null|
 |**2024-10-03**|**HiFiSeg: High-Frequency Information Enhanced Polyp Segmentation with Global-Local Vision Transformer**|Jingjing Ren et.al.|[2410.02528v1](http://arxiv.org/abs/2410.02528v1)|null|
-|**2024-10-03**|**MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to Enhance Medical Image Segmentation**|Gurucharan Marthi Krishna Kumar et.al.|[2410.02458v1](http://arxiv.org/abs/2410.02458v1)|null|
+|**2024-10-03**|**MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to Enhance Medical Image Segmentation**|Gurucharan Marthi Krishna Kumar et.al.|[2410.02458v2](http://arxiv.org/abs/2410.02458v2)|null|
 |**2024-10-02**|**Depth Pro: Sharp Monocular Metric Depth in Less Than a Second**|Aleksei Bochkovskii et.al.|[2410.02073v1](http://arxiv.org/abs/2410.02073v1)|**[link](https://github.com/apple/ml-depth-pro)**|
 |**2024-10-02**|**Topological mapping for traversability-aware long-range navigation in off-road terrain**|Jean-François Tremblay et.al.|[2410.01925v1](http://arxiv.org/abs/2410.01925v1)|null|
 |**2024-10-02**|**shapiq: Shapley Interactions for Machine Learning**|Maximilian Muschalik et.al.|[2410.01649v1](http://arxiv.org/abs/2410.01649v1)|**[link](https://github.com/mmschlk/shapiq)**|
@@ -255,7 +255,7 @@
 |**2024-10-04**|**Atom Camera: Super-resolution scanning microscope of a light pattern with a single ultracold atom**|Takafumi Tomita et.al.|[2410.03241v1](http://arxiv.org/abs/2410.03241v1)|null|
 |**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021v1](http://arxiv.org/abs/2410.03021v1)|null|
 |**2024-10-03**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571v1](http://arxiv.org/abs/2410.02571v1)|null|
-|**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423v1](http://arxiv.org/abs/2410.02423v1)|null|
+|**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423v1](http://arxiv.org/abs/2410.02423v1)|**[link](https://github.com/annegnx/PnP-Flow)**|
 |**2024-10-03**|**Ultrathin BIC metasurfaces based on ultralow-loss Sb2Se3 phase-change material**|Zhaoyang Xie et.al.|[2410.02413v1](http://arxiv.org/abs/2410.02413v1)|null|
 |**2024-10-02**|**Stochastic Deep Restoration Priors for Imaging Inverse Problems**|Yuyang Hu et.al.|[2410.02057v1](http://arxiv.org/abs/2410.02057v1)|null|
 |**2024-10-01**|**Optimizing Drug Delivery in Smart Pharmacies: A Novel Framework of Multi-Stage Grasping Network Combined with Adaptive Robotics Mechanism**|Rui Tang et.al.|[2410.00753v1](http://arxiv.org/abs/2410.00753v1)|null|
@@ -290,7 +290,7 @@
 |**2024-10-02**|**Depth Pro: Sharp Monocular Metric Depth in Less Than a Second**|Aleksei Bochkovskii et.al.|[2410.02073v1](http://arxiv.org/abs/2410.02073v1)|**[link](https://github.com/apple/ml-depth-pro)**|
 |**2024-10-01**|**Towards Full-parameter and Parameter-efficient Self-learning For Endoscopic Camera Depth Estimation**|Shuting Zhao et.al.|[2410.00979v1](http://arxiv.org/abs/2410.00979v1)|null|
 |**2024-10-01**|**Radar Meets Vision: Robustifying Monocular Metric Depth Prediction for Mobile Robotics**|Marco Job et.al.|[2410.00736v1](http://arxiv.org/abs/2410.00736v1)|null|
-|**2024-10-01**|**Drone Stereo Vision for Radiata Pine Branch Detection and Distance Measurement: Utilizing Deep Learning and YOLO Integration**|Yida Lin et.al.|[2410.00503v1](http://arxiv.org/abs/2410.00503v1)|null|
+|**2024-10-01**|**Drone Stereo Vision for Radiata Pine Branch Detection and Distance Measurement: Utilizing Deep Learning and YOLO Integration**|Yida Lin et.al.|[2410.00503v2](http://arxiv.org/abs/2410.00503v2)|null|
 |**2024-10-01**|**Seamless Augmented Reality Integration in Arthroscopy: A Pipeline for Articular Reconstruction and Guidance**|Hongchao Shu et.al.|[2410.00386v1](http://arxiv.org/abs/2410.00386v1)|null|
 |**2024-09-30**|**ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning**|Jian Shi et.al.|[2410.00262v1](http://arxiv.org/abs/2410.00262v1)|null|
 |**2024-09-30**|**CCDepth: A Lightweight Self-supervised Depth Estimation Network with Enhanced Interpretability**|Xi Zhang et.al.|[2409.19933v1](http://arxiv.org/abs/2409.19933v1)|null|
