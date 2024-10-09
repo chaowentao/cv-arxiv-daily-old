@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.08
+## Updated on 2024.10.09
 
 ## Image Generation
 
@@ -177,7 +177,7 @@ layout: default
 |**2024-10-07**|**Artificial Barriers for stochastic differential equations and for construction of Boundary-preserving schemes**|Johan Ulander et.al.|[2410.04850v1](http://arxiv.org/abs/2410.04850v1)|null|
 |**2024-10-07**|**PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing**|Feng Tian et.al.|[2410.04844v1](http://arxiv.org/abs/2410.04844v1)|null|
 |**2024-10-07**|**Real-time cardiac cine MRI -- A comparison of a diffusion probabilistic model with alternative state-of-the-art image reconstruction techniques for undersampled spiral acquisitions**|Oliver Schad et.al.|[2410.04843v1](http://arxiv.org/abs/2410.04843v1)|null|
-|**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811v1](http://arxiv.org/abs/2410.04811v1)|null|
+|**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811v1](http://arxiv.org/abs/2410.04811v1)|**[link](https://github.com/ZHU-Zhiyu/FLUX-IR)**|
 |**2024-10-07**|**FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models**|Haokun Chen et.al.|[2410.04810v1](http://arxiv.org/abs/2410.04810v1)|null|
 |**2024-10-07**|**Data-driven Diffusion Models for Enhancing Safety in Autonomous Vehicle Traffic Simulations**|Jinxiong Lu et.al.|[2410.04809v1](http://arxiv.org/abs/2410.04809v1)|null|
 
