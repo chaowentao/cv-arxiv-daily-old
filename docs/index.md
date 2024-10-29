@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.28
+## Updated on 2024.10.29
 
 ## Image Generation
 
@@ -13,11 +13,11 @@ layout: default
 |**2024-10-24**|**Multi-Scale Diffusion: Enhancing Spatial Layout in High-Resolution Panoramic Image Generation**|Xiaoyu Zhang et.al.|[2410.18830v1](http://arxiv.org/abs/2410.18830v1)|null|
 |**2024-10-24**|**Towards Visual Text Design Transfer Across Languages**|Yejin Choi et.al.|[2410.18823v1](http://arxiv.org/abs/2410.18823v1)|null|
 |**2024-10-24**|**Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances**|Shilin Lu et.al.|[2410.18775v1](http://arxiv.org/abs/2410.18775v1)|**[link](https://github.com/shilin-lu/vine)**|
-|**2024-10-24**|**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing**|Haonan Lin et.al.|[2410.18756v2](http://arxiv.org/abs/2410.18756v2)|null|
+|**2024-10-24**|**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing**|Haonan Lin et.al.|[2410.18756v3](http://arxiv.org/abs/2410.18756v3)|null|
 |**2024-10-24**|**Ali-AUG: Innovative Approaches to Labeled Data Augmentation using One-Step Diffusion Model**|Ali Hamza et.al.|[2410.18678v1](http://arxiv.org/abs/2410.18678v1)|null|
 |**2024-10-24**|**FairQueue: Rethinking Prompt Learning for Fair Text-to-Image Generation**|Christopher T. H Teo et.al.|[2410.18615v1](http://arxiv.org/abs/2410.18615v1)|null|
 |**2024-10-24**|**FreCaS: Efficient Higher-Resolution Image Generation via Frequency-aware Cascaded Sampling**|Zhengqiang Zhang et.al.|[2410.18410v1](http://arxiv.org/abs/2410.18410v1)|**[link](https://github.com/xtudbxk/frecas)**|
-|**2024-10-23**|**Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing**|Dongliang Guo et.al.|[2410.18267v1](http://arxiv.org/abs/2410.18267v1)|null|
+|**2024-10-23**|**Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing**|Dongliang Guo et.al.|[2410.18267v2](http://arxiv.org/abs/2410.18267v2)|null|
 |**2024-10-23**|**Training Free Guided Flow Matching with Optimal Control**|Luran Wang et.al.|[2410.18070v1](http://arxiv.org/abs/2410.18070v1)|null|
 |**2024-10-23**|**Scalable Ranked Preference Optimization for Text-to-Image Generation**|Shyamgopal Karthik et.al.|[2410.18013v1](http://arxiv.org/abs/2410.18013v1)|null|
 |**2024-10-23**|**A Wavelet Diffusion GAN for Image Super-Resolution**|Lorenzo Aloisi et.al.|[2410.17966v1](http://arxiv.org/abs/2410.17966v1)|null|
@@ -161,10 +161,10 @@ layout: default
 |**2024-10-25**|**Nutation-orbit resonances: The origin of the chaotic rotation of Hyperion and the barrel instability**|Max Goldberg et.al.|[2410.19518v1](http://arxiv.org/abs/2410.19518v1)|null|
 |**2024-10-25**|**Physics-based inverse modeling of battery degradation with Bayesian methods**|Micha C. J. Philipp et.al.|[2410.19478v1](http://arxiv.org/abs/2410.19478v1)|null|
 |**2024-10-25**|**A new calculation method using pathlines for delayed neutron precursors in liquid nuclear fuels**|Mathis Caprais et.al.|[2410.19476v1](http://arxiv.org/abs/2410.19476v1)|null|
-|**2024-10-25**|**NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction**|Zixuan Gong et.al.|[2410.19452v1](http://arxiv.org/abs/2410.19452v1)|**[link](https://github.com/gongzix/neuroclips)**|
+|**2024-10-25**|**NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction**|Zixuan Gong et.al.|[2410.19452v2](http://arxiv.org/abs/2410.19452v2)|**[link](https://github.com/gongzix/neuroclips)**|
 |**2024-10-25**|**Learned Reference-based Diffusion Sampling for multi-modal distributions**|Maxence Noble et.al.|[2410.19449v1](http://arxiv.org/abs/2410.19449v1)|null|
 |**2024-10-25**|**Generative Diffusion Models for Sequential Recommendations**|Sharare Zolghadr et.al.|[2410.19429v1](http://arxiv.org/abs/2410.19429v1)|null|
-|**2024-10-25**|**KAHANI: Culturally-Nuanced Visual Storytelling Pipeline for Non-Western Cultures**|Hamna et.al.|[2410.19419v1](http://arxiv.org/abs/2410.19419v1)|null|
+|**2024-10-25**|**KAHANI: Culturally-Nuanced Visual Storytelling Pipeline for Non-Western Cultures**|Hamna et.al.|[2410.19419v2](http://arxiv.org/abs/2410.19419v2)|null|
 |**2024-10-25**|**A potpourri of results on molecular communication with active transport**|Phanindra Dewan et.al.|[2410.19411v1](http://arxiv.org/abs/2410.19411v1)|null|
 |**2024-10-25**|**A rigorous solution to the superluminal issue in the diffusion equation**|Xing-Jian Lv et.al.|[2410.19396v1](http://arxiv.org/abs/2410.19396v1)|null|
 |**2024-10-25**|**On low frequency inference for diffusions without the hot spots conjecture**|Giovanni S. Alberti et.al.|[2410.19393v1](http://arxiv.org/abs/2410.19393v1)|null|
@@ -222,7 +222,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-25**|**Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization**|Weihang Liu et.al.|[2410.19483v1](http://arxiv.org/abs/2410.19483v1)|**[link](https://github.com/weihangliu2024/content_aware_nerf)**|
 |**2024-10-25**|**Evaluation of strategies for efficient rate-distortion NeRF streaming**|Pedro Martin et.al.|[2410.19459v1](http://arxiv.org/abs/2410.19459v1)|null|
-|**2024-10-24**|**Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**|Liang Han et.al.|[2410.18822v1](http://arxiv.org/abs/2410.18822v1)|null|
+|**2024-10-24**|**Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**|Liang Han et.al.|[2410.18822v2](http://arxiv.org/abs/2410.18822v2)|null|
 |**2024-10-24**|**Real-time 3D-aware Portrait Video Relighting**|Ziqi Cai et.al.|[2410.18355v1](http://arxiv.org/abs/2410.18355v1)|**[link](https://github.com/GhostCai/PortraitRelighting)**|
 |**2024-10-22**|**Advancing Super-Resolution in Neural Radiance Fields via Variational Diffusion Strategies**|Shrey Vishen et.al.|[2410.18137v1](http://arxiv.org/abs/2410.18137v1)|**[link](https://github.com/shreyvish5678/advancing-super-resolution-in-neural-radiance-fields-via-variational-diffusion-strategies)**|
 |**2024-10-23**|**VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points**|Linus Franke et.al.|[2410.17932v1](http://arxiv.org/abs/2410.17932v1)|null|
@@ -327,7 +327,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-25**|**Evaluation of strategies for efficient rate-distortion NeRF streaming**|Pedro Martin et.al.|[2410.19459v1](http://arxiv.org/abs/2410.19459v1)|null|
 |**2024-10-24**|**Where Am I and What Will I See: An Auto-Regressive Model for Spatial Localization and View Prediction**|Junyi Chen et.al.|[2410.18962v1](http://arxiv.org/abs/2410.18962v1)|null|
-|**2024-10-24**|**Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**|Liang Han et.al.|[2410.18822v1](http://arxiv.org/abs/2410.18822v1)|null|
+|**2024-10-24**|**Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**|Liang Han et.al.|[2410.18822v2](http://arxiv.org/abs/2410.18822v2)|null|
 |**2024-10-23**|**FreeVS: Generative View Synthesis on Free Driving Trajectory**|Qitai Wang et.al.|[2410.18079v1](http://arxiv.org/abs/2410.18079v1)|null|
 |**2024-10-23**|**VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points**|Linus Franke et.al.|[2410.17932v1](http://arxiv.org/abs/2410.17932v1)|null|
 |**2024-10-23**|**Few-shot NeRF by Adaptive Rendering Loss Regularization**|Qingshan Xu et.al.|[2410.17839v1](http://arxiv.org/abs/2410.17839v1)|null|
