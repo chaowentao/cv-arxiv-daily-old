@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 
 ## Image Generation
 
@@ -156,7 +156,7 @@ layout: default
 |**2024-10-29**|**An alternating low-rank projection approach for partial differential equations with random inputs**|Guanjie Wang et.al.|[2410.22183v1](http://arxiv.org/abs/2410.22183v1)|null|
 |**2024-10-29**|**Capacity Control is an Effective Memorization Mitigation Mechanism in Text-Conditional Diffusion Models**|Raman Dutt et.al.|[2410.22149v1](http://arxiv.org/abs/2410.22149v1)|**[link](https://github.com/raman1121/diffusion_memorization_hpo)**|
 |**2024-10-29**|**Averaging principle for multiscale controlled jump diffusions and associated nonlocal HJB equations**|Qi Zhang et.al.|[2410.22141v1](http://arxiv.org/abs/2410.22141v1)|null|
-|**2024-10-29**|**Thermodynamic uncertainty relation for systems with active Ornstein--Uhlenbeck particles**|Hyeong-Tark Han et.al.|[2410.22126v1](http://arxiv.org/abs/2410.22126v1)|null|
+|**2024-10-29**|**Thermodynamic uncertainty relation for systems with active Ornstein-Uhlenbeck particles**|Hyeong-Tark Han et.al.|[2410.22126v2](http://arxiv.org/abs/2410.22126v2)|null|
 |**2024-10-29**|**TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds**|Yui Lo et.al.|[2410.22099v1](http://arxiv.org/abs/2410.22099v1)|null|
 |**2024-10-29**|**Generalized arcsine laws for a sluggish random walker with subdiffusive growth**|Giuseppe Del Vecchio Del Vecchio et.al.|[2410.22097v1](http://arxiv.org/abs/2410.22097v1)|null|
 |**2024-10-29**|**Variational inference for pile-up removal at hadron colliders with diffusion models**|Malte Algren et.al.|[2410.22074v1](http://arxiv.org/abs/2410.22074v1)|null|
@@ -172,12 +172,12 @@ layout: default
 |**2024-10-29**|**HairDiffusion: Vivid Multi-Colored Hair Editing via Latent Diffusion**|Yu Zeng et.al.|[2410.21789v1](http://arxiv.org/abs/2410.21789v1)|null|
 |**2024-10-29**|**Large deviation principle for slow-fast systems with infinite-dimensional mixed fractional Brownian motion**|Wenting Xu et.al.|[2410.21785v1](http://arxiv.org/abs/2410.21785v1)|null|
 |**2024-10-29**|**DiffusionVel: Multi-Information Integrated Velocity Inversion Using Generative Diffusion Models**|Hao Zhang et.al.|[2410.21776v1](http://arxiv.org/abs/2410.21776v1)|null|
-|**2024-10-29**|**IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models**|Hang Guo et.al.|[2410.21759v1](http://arxiv.org/abs/2410.21759v1)|null|
+|**2024-10-29**|**IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models**|Hang Guo et.al.|[2410.21759v2](http://arxiv.org/abs/2410.21759v2)|null|
 |**2024-10-29**|**DiffSTR: Controlled Diffusion Models for Scene Text Removal**|Sanhita Pathak et.al.|[2410.21721v1](http://arxiv.org/abs/2410.21721v1)|null|
 |**2024-10-29**|**Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation**|Ruihao Xia et.al.|[2410.21708v1](http://arxiv.org/abs/2410.21708v1)|**[link](https://github.com/xiarho/madm)**|
 |**2024-10-29**|**Investigating Memorization in Video Diffusion Models**|Chen Chen et.al.|[2410.21669v1](http://arxiv.org/abs/2410.21669v1)|null|
 |**2024-10-29**|**Exploring Local Memorization in Diffusion Models via Bright Ending Attention**|Chen Chen et.al.|[2410.21665v1](http://arxiv.org/abs/2410.21665v1)|null|
-|**2024-10-29**|**PACE: Physics Informed Uncertainty Aware Climate Emulator**|Hira Saleem et.al.|[2410.21657v1](http://arxiv.org/abs/2410.21657v1)|null|
+|**2024-10-29**|**PACER: Physics Informed Uncertainty Aware Climate Emulator**|Hira Saleem et.al.|[2410.21657v2](http://arxiv.org/abs/2410.21657v2)|null|
 |**2024-10-29**|**Applications of the Second-Order Esscher Pricing in Risk Management**|Tahir Choulli et.al.|[2410.21649v1](http://arxiv.org/abs/2410.21649v1)|null|
 |**2024-10-29**|**RDSinger: Reference-based Diffusion Network for Singing Voice Synthesis**|Kehan Sui et.al.|[2410.21641v1](http://arxiv.org/abs/2410.21641v1)|null|
 
@@ -196,7 +196,7 @@ layout: default
 |**2024-10-28**|**Explainability in AI Based Applications: A Framework for Comparing Different Techniques**|Arne Grobrugge et.al.|[2410.20873v1](http://arxiv.org/abs/2410.20873v1)|null|
 |**2024-10-28**|**ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives**|Wenyang Liu et.al.|[2410.20855v1](http://arxiv.org/abs/2410.20855v1)|null|
 |**2024-10-28**|**SparseTem: Boosting the Efficiency of CNN-Based Video Encoders by Exploiting Temporal Continuity**|Kunyun Wang et.al.|[2410.20790v1](http://arxiv.org/abs/2410.20790v1)|null|
-|**2024-10-28**|**Interpretable Image Classification with Adaptive Prototype-based Vision Transformers**|Chiyu Ma et.al.|[2410.20722v1](http://arxiv.org/abs/2410.20722v1)|null|
+|**2024-10-28**|**Interpretable Image Classification with Adaptive Prototype-based Vision Transformers**|Chiyu Ma et.al.|[2410.20722v1](http://arxiv.org/abs/2410.20722v1)|**[link](https://github.com/Henrymachiyu/ProtoViT)**|
 |**2024-10-27**|**PViT: Prior-augmented Vision Transformer for Out-of-distribution Detection**|Tianhao Zhang et.al.|[2410.20631v1](http://arxiv.org/abs/2410.20631v1)|null|
 |**2024-10-26**|**Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification**|Yue Su et.al.|[2410.20097v1](http://arxiv.org/abs/2410.20097v1)|null|
 |**2024-10-26**|**Transforming Precision: A Comparative Analysis of Vision Transformers, CNNs, and Traditional ML for Knee Osteoarthritis Severity Diagnosis**|Tasnim Sakib Apon et.al.|[2410.20062v1](http://arxiv.org/abs/2410.20062v1)|null|
@@ -257,9 +257,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-29**|**Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images**|Suhyun Ahn et.al.|[2410.21826v1](http://arxiv.org/abs/2410.21826v1)|**[link](https://github.com/Ahn-Ssu/VCM)**|
 |**2024-10-29**|**Fingerprints of Super Resolution Networks**|Jeremy Vonderfecht et.al.|[2410.21653v1](http://arxiv.org/abs/2410.21653v1)|null|
-|**2024-10-28**|**Super-resolution in disordered media using neural networks**|Alexander Christie et.al.|[2410.21556v1](http://arxiv.org/abs/2410.21556v1)|null|
+|**2024-10-28**|**Super-resolution in disordered media using neural networks**|Alexander Christie et.al.|[2410.21556v2](http://arxiv.org/abs/2410.21556v2)|null|
 |**2024-10-28**|**Super-resolution with dynamics in the loss**|Jacob Page et.al.|[2410.20884v1](http://arxiv.org/abs/2410.20884v1)|null|
-|**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546v1](http://arxiv.org/abs/2410.20546v1)|null|
+|**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546v1](http://arxiv.org/abs/2410.20546v1)|**[link](https://github.com/idiosyncracies/Sebica)**|
 |**2024-10-27**|**Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution**|Zhicheng Zhao et.al.|[2410.20466v1](http://arxiv.org/abs/2410.20466v1)|**[link](https://github.com/jocelyney/gdnet)**|
 |**2024-10-26**|**Super-resolved virtual staining of label-free tissue using diffusion models**|Yijie Zhang et.al.|[2410.20073v1](http://arxiv.org/abs/2410.20073v1)|null|
 |**2024-10-25**|**A Flow-based Truncated Denoising Diffusion Model for Super-resolution Magnetic Resonance Spectroscopic Imaging**|Siyuan Dong et.al.|[2410.19288v1](http://arxiv.org/abs/2410.19288v1)|null|
