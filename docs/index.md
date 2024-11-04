@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-31**|**In-Context LoRA for Diffusion Transformers**|Lianghua Huang et.al.|[2410.23775v1](http://arxiv.org/abs/2410.23775v1)|**[link](https://github.com/ali-vilab/In-Context-LoRA)**|
+|**2024-10-31**|**In-Context LoRA for Diffusion Transformers**|Lianghua Huang et.al.|[2410.23775v2](http://arxiv.org/abs/2410.23775v2)|**[link](https://github.com/ali-vilab/In-Context-LoRA)**|
 |**2024-10-31**|**Language-guided Hierarchical Fine-grained Image Forgery Detection and Localization**|Xiao Guo et.al.|[2410.23556v1](http://arxiv.org/abs/2410.23556v1)|null|
 |**2024-10-30**|**MoLE: Enhancing Human-centric Text-to-image Diffusion via Mixture of Low-rank Experts**|Jie Zhu et.al.|[2410.23332v1](http://arxiv.org/abs/2410.23332v1)|null|
 |**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280v1](http://arxiv.org/abs/2410.23280v1)|null|
@@ -34,7 +34,7 @@ layout: default
 |**2024-10-28**|**Murine AI excels at cats and cheese: Structural differences between human and mouse neurons and their implementation in generative AIs**|Rino Saiga et.al.|[2410.20735v1](http://arxiv.org/abs/2410.20735v1)|null|
 |**2024-10-28**|**CompGS: Unleashing 2D Compositionality for Compositional Text-to-3D via Dynamically Optimizing 3D Gaussians**|Chongjian Ge et.al.|[2410.20723v1](http://arxiv.org/abs/2410.20723v1)|null|
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587v1](http://arxiv.org/abs/2410.20587v1)|null|
-|**2024-10-27**|**GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation**|Phillip Y. Lee et.al.|[2410.20474v1](http://arxiv.org/abs/2410.20474v1)|null|
+|**2024-10-27**|**GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation**|Phillip Y. Lee et.al.|[2410.20474v2](http://arxiv.org/abs/2410.20474v2)|null|
 |**2024-10-26**|**Classification under strategic adversary manipulation using pessimistic bilevel optimisation**|David Benfield et.al.|[2410.20284v1](http://arxiv.org/abs/2410.20284v1)|null|
 |**2024-10-26**|**Copyright-Aware Incentive Scheme for Generative Art Models Using Hierarchical Reinforcement Learning**|Zhuan Shi et.al.|[2410.20180v1](http://arxiv.org/abs/2410.20180v1)|null|
 |**2024-10-26**|**Image Generation from Image Captioning -- Invertible Approach**|Nandakishore S Menon et.al.|[2410.20171v1](http://arxiv.org/abs/2410.20171v1)|null|
@@ -163,7 +163,7 @@ layout: default
 |**2024-10-31**|**TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation**|Sunjae Yoon et.al.|[2410.24037v1](http://arxiv.org/abs/2410.24037v1)|null|
 |**2024-10-31**|**Diffusion Twigs with Loop Guidance for Conditional Graph Generation**|Giangiacomo Mercatali et.al.|[2410.24012v1](http://arxiv.org/abs/2410.24012v1)|**[link](https://github.com/aalto-quml/diffusion_twigs)**|
 |**2024-10-31**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006v1](http://arxiv.org/abs/2410.24006v1)|null|
-|**2024-10-31**|**Breaking Determinism: Fuzzy Modeling of Sequential Recommendation Using Discrete State Space Diffusion Model**|Wenjia Xie et.al.|[2410.23994v1](http://arxiv.org/abs/2410.23994v1)|null|
+|**2024-10-31**|**Breaking Determinism: Fuzzy Modeling of Sequential Recommendation Using Discrete State Space Diffusion Model**|Wenjia Xie et.al.|[2410.23994v2](http://arxiv.org/abs/2410.23994v2)|null|
 |**2024-10-31**|**Stochastic Reconstruction of Gappy Lagrangian Turbulent Signals by Conditional Diffusion Models**|Tianyi Li et.al.|[2410.23971v1](http://arxiv.org/abs/2410.23971v1)|null|
 |**2024-10-31**|**Image Synthesis with Class-Aware Semantic Diffusion Models for Surgical Scene Segmentation**|Yihang Zhou et.al.|[2410.23962v1](http://arxiv.org/abs/2410.23962v1)|null|
 |**2024-10-31**|**A Derivative-Orthogonal Wavelet Multiscale Method for 1D Elliptic Equations with Rough Diffusion Coefficients**|Qiwei Feng et.al.|[2410.23945v1](http://arxiv.org/abs/2410.23945v1)|null|
@@ -177,7 +177,7 @@ layout: default
 |**2024-10-31**|**Disentangling Disentangled Representations: Towards Improved Latent Units via Diffusion Models**|Youngjun Jun et.al.|[2410.23820v1](http://arxiv.org/abs/2410.23820v1)|null|
 |**2024-10-31**|**SOAR: Self-Occluded Avatar Recovery from a Single Video In the Wild**|Zhuoyang Pan et.al.|[2410.23800v1](http://arxiv.org/abs/2410.23800v1)|null|
 |**2024-10-31**|**EDT: An Efficient Diffusion Transformer Framework Inspired by Human-like Sketching**|Xinwang Chen et.al.|[2410.23788v1](http://arxiv.org/abs/2410.23788v1)|**[link](https://github.com/xinwangchen/edt)**|
-|**2024-10-31**|**In-Context LoRA for Diffusion Transformers**|Lianghua Huang et.al.|[2410.23775v1](http://arxiv.org/abs/2410.23775v1)|**[link](https://github.com/ali-vilab/In-Context-LoRA)**|
+|**2024-10-31**|**In-Context LoRA for Diffusion Transformers**|Lianghua Huang et.al.|[2410.23775v2](http://arxiv.org/abs/2410.23775v2)|**[link](https://github.com/ali-vilab/In-Context-LoRA)**|
 |**2024-10-31**|**Quantum dynamics simulation of exciton-polariton transport**|Niclas Krupp et.al.|[2410.23739v1](http://arxiv.org/abs/2410.23739v1)|null|
 |**2024-10-31**|**Steady-state distributions of carrier concentration and recombination rates in a solar cell under operating conditions**|Isshin Sumiyoshi et.al.|[2410.23717v1](http://arxiv.org/abs/2410.23717v1)|null|
 
@@ -326,7 +326,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-31**|**No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**|Botao Ye et.al.|[2410.24207v1](http://arxiv.org/abs/2410.24207v1)|**[link](https://github.com/cvg/NoPoSplat)**|
-|**2024-10-31**|**GeoSplatting: Towards Geometry Guided Gaussian Splatting for Physically-based Inverse Rendering**|Kai Ye et.al.|[2410.24204v1](http://arxiv.org/abs/2410.24204v1)|null|
+|**2024-10-31**|**GeoSplatting: Towards Geometry Guided Gaussian Splatting for Physically-based Inverse Rendering**|Kai Ye et.al.|[2410.24204v2](http://arxiv.org/abs/2410.24204v2)|null|
 |**2024-10-31**|**GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting**|Xiufeng Huang et.al.|[2410.23718v1](http://arxiv.org/abs/2410.23718v1)|null|
 |**2024-10-30**|**Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis**|Zhiyuan Min et.al.|[2410.22817v2](http://arxiv.org/abs/2410.22817v2)|null|
 |**2024-10-29**|**PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**|Sunghwan Hong et.al.|[2410.22128v1](http://arxiv.org/abs/2410.22128v1)|**[link](https://github.com/cvlab-kaist/PF3plat)**|
