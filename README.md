@@ -1,4 +1,4 @@
-## Updated on 2024.11.04
+## Updated on 2024.11.05
 
 ## Image Generation
 
@@ -204,9 +204,9 @@
 |**2024-10-27**|**PViT: Prior-augmented Vision Transformer for Out-of-distribution Detection**|Tianhao Zhang et.al.|[2410.20631v1](http://arxiv.org/abs/2410.20631v1)|null|
 |**2024-10-26**|**Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification**|Yue Su et.al.|[2410.20097v1](http://arxiv.org/abs/2410.20097v1)|null|
 |**2024-10-26**|**Transforming Precision: A Comparative Analysis of Vision Transformers, CNNs, and Traditional ML for Knee Osteoarthritis Severity Diagnosis**|Tasnim Sakib Apon et.al.|[2410.20062v1](http://arxiv.org/abs/2410.20062v1)|null|
-|**2024-10-25**|**Multi-Class Abnormality Classification Task in Video Capsule Endoscopy**|Dev Rishi Verma et.al.|[2410.19973v1](http://arxiv.org/abs/2410.19973v1)|null|
+|**2024-10-25**|**Multi-Class Abnormality Classification Task in Video Capsule Endoscopy**|Dev Rishi Verma et.al.|[2410.19973v2](http://arxiv.org/abs/2410.19973v2)|null|
 |**2024-10-25**|**OReole-FM: successes and challenges toward billion-parameter foundation models for high-resolution satellite imagery**|Philipe Dias et.al.|[2410.19965v1](http://arxiv.org/abs/2410.19965v1)|null|
-|**2024-10-25**|**A Multimodal Approach For Endoscopic VCE Image Classification Using BiomedCLIP-PubMedBERT**|Nagarajan Ganapathy et.al.|[2410.19944v1](http://arxiv.org/abs/2410.19944v1)|null|
+|**2024-10-25**|**A Multimodal Approach For Endoscopic VCE Image Classification Using BiomedCLIP-PubMedBERT**|Nagarajan Ganapathy et.al.|[2410.19944v1](http://arxiv.org/abs/2410.19944v1)|**[link](https://github.com/Satyajithchary/MedInfoLab_Capsule_Vision_2024_Challenge)**|
 |**2024-10-25**|**Topology-aware Mamba for Crack Segmentation in Structures**|Xin Zuo et.al.|[2410.19894v1](http://arxiv.org/abs/2410.19894v1)|**[link](https://github.com/shengyu27/crackmamba)**|
 |**2024-10-25**|**Transductive Learning for Near-Duplicate Image Detection in Scanned Photo Collections**|Francesc Net et.al.|[2410.19437v1](http://arxiv.org/abs/2410.19437v1)|null|
 |**2024-10-24**|**DCT-HistoTransformer: Efficient Lightweight Vision Transformer with DCT Integration for histopathological image analysis**|Mahtab Ranjbar et.al.|[2410.19166v1](http://arxiv.org/abs/2410.19166v1)|null|
