@@ -258,7 +258,7 @@
 |**2024-11-05**|**Applications of Automatic Differentiation in Image Registration**|Warin Watson et.al.|[2411.02806v1](http://arxiv.org/abs/2411.02806v1)|**[link](https://github.com/wdwatson2/ImgRegPytorchProject)**|
 |**2024-11-05**|**Super-resolution generalized eigenvalue method with truly sub-Nyquist sampling**|Baoguo Liu et.al.|[2411.02700v1](http://arxiv.org/abs/2411.02700v1)|null|
 |**2024-11-01**|**Strongly Topology-preserving GNNs for Brain Graph Super-resolution**|Pragya Singh et.al.|[2411.02525v1](http://arxiv.org/abs/2411.02525v1)|null|
-|**2024-11-03**|**Super-Resolution without High-Resolution Labels for Black Hole Simulations**|Thomas Helfer et.al.|[2411.02453v1](http://arxiv.org/abs/2411.02453v1)|null|
+|**2024-11-03**|**Super-Resolution without High-Resolution Labels for Black Hole Simulations**|Thomas Helfer et.al.|[2411.02453v1](http://arxiv.org/abs/2411.02453v1)|**[link](https://github.com/thomashelfer/torchgrtl)**|
 |**2024-11-04**|**MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D**|Wei Cheng et.al.|[2411.02336v1](http://arxiv.org/abs/2411.02336v1)|null|
 |**2024-11-01**|**A Robust Super-Resolution Classifier by Nonlinear Optics**|Ishan Darji et.al.|[2411.00953v1](http://arxiv.org/abs/2411.00953v1)|**[link](https://github.com/idarji-stevens-edu/NL-Spade)**|
 |**2024-10-31**|**Blind Time-of-Flight Imaging: Sparse Deconvolution on the Continuum with Unknown Kernels**|Ruiming Guo et.al.|[2411.00893v1](http://arxiv.org/abs/2411.00893v1)|null|
