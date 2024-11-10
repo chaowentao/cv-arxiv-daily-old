@@ -1,4 +1,4 @@
-## Updated on 2024.11.09
+## Updated on 2024.11.10
 
 ## Image Generation
 
@@ -26,7 +26,7 @@
 |**2024-11-05**|**BrainBits: How Much of the Brain are Generative Reconstruction Methods Using?**|David Mayo et.al.|[2411.02783v1](http://arxiv.org/abs/2411.02783v1)|null|
 |**2024-11-04**|**TripletCLIP: Improving Compositional Reasoning of CLIP via Synthetic Vision-Language Negatives**|Maitreya Patel et.al.|[2411.02545v1](http://arxiv.org/abs/2411.02545v1)|null|
 |**2024-11-02**|**TypeScore: A Text Fidelity Metric for Text-to-Image Generative Models**|Georgia Gabriela Sampaio et.al.|[2411.02437v1](http://arxiv.org/abs/2411.02437v1)|null|
-|**2024-11-04**|**Training-free Regional Prompting for Diffusion Transformers**|Anthony Chen et.al.|[2411.02395v1](http://arxiv.org/abs/2411.02395v1)|**[link](https://github.com/antonioo-c/regional-prompting-flux)**|
+|**2024-11-04**|**Training-free Regional Prompting for Diffusion Transformers**|Anthony Chen et.al.|[2411.02395v1](http://arxiv.org/abs/2411.02395v1)|**[link](https://github.com/instantX-research/Regional-Prompting-FLUX)**|
 |**2024-11-04**|**Digi2Real: Bridging the Realism Gap in Synthetic Data Face Recognition via Foundation Models**|Anjith George et.al.|[2411.02188v3](http://arxiv.org/abs/2411.02188v3)|null|
 |**2024-11-04**|**DiffuMask-Editor: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing to Improve Segmentation Ability**|Bo Gao et.al.|[2411.01819v1](http://arxiv.org/abs/2411.01819v1)|null|
 |**2024-11-03**|**DreamPolish: Domain Score Distillation With Progressive Geometry Generation**|Yean Cheng et.al.|[2411.01602v1](http://arxiv.org/abs/2411.01602v1)|null|
