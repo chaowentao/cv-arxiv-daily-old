@@ -158,7 +158,7 @@ layout: default
 |**2024-11-07**|**Uncovering Hidden Subspaces in Video Diffusion Models Using Re-Identification**|Mischa Dombrowski et.al.|[2411.04956v1](http://arxiv.org/abs/2411.04956v1)|null|
 |**2024-11-07**|**DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion**|Wenqiang Sun et.al.|[2411.04928v1](http://arxiv.org/abs/2411.04928v1)|null|
 |**2024-11-07**|**MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views**|Yuedong Chen et.al.|[2411.04924v1](http://arxiv.org/abs/2411.04924v1)|**[link](https://github.com/donydchen/mvsplat360)**|
-|**2024-11-07**|**Stem-OB: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion**|Kaizhe Hu et.al.|[2411.04919v1](http://arxiv.org/abs/2411.04919v1)|null|
+|**2024-11-07**|**Stem-OB: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion**|Kaizhe Hu et.al.|[2411.04919v1](http://arxiv.org/abs/2411.04919v1)|**[link](https://github.com/hukz18/Stem-Ob)**|
 |**2024-11-07**|**Sharp extinction rates for positive solutions of fast diffusion equations**|Tobias König et.al.|[2411.04783v1](http://arxiv.org/abs/2411.04783v1)|null|
 |**2024-11-07**|**Taming Rectified Flow for Inversion and Editing**|Jiangshan Wang et.al.|[2411.04746v1](http://arxiv.org/abs/2411.04746v1)|**[link](https://github.com/wangjiangshan0725/rf-solver-edit)**|
 |**2024-11-07**|**Controlling Human Shape and Pose in Text-to-Image Diffusion Models via Domain Adaptation**|Benito Buchheim et.al.|[2411.04724v1](http://arxiv.org/abs/2411.04724v1)|null|
@@ -171,7 +171,7 @@ layout: default
 |**2024-11-07**|**Social EgoMesh Estimation**|Luca Scofano et.al.|[2411.04598v1](http://arxiv.org/abs/2411.04598v1)|**[link](https://github.com/l-scofano/seeme)**|
 |**2024-11-07**|**Singular stochastic delay equations driven by fractional Brownian motion: Dynamics, longtime behaviour, and pathwise stability**|Mazyar Ghani Varzaneh et.al.|[2411.04590v1](http://arxiv.org/abs/2411.04590v1)|null|
 |**2024-11-07**|**DomainGallery: Few-shot Domain-driven Image Generation by Attribute-centric Finetuning**|Yuxuan Duan et.al.|[2411.04571v1](http://arxiv.org/abs/2411.04571v1)|**[link](https://github.com/ldhlwh/domaingallery)**|
-|**2024-11-07**|**Hypercube Policy Regularization Framework for Offline Reinforcement Learning**|Yi Shen et.al.|[2411.04534v1](http://arxiv.org/abs/2411.04534v1)|null|
+|**2024-11-07**|**Hypercube Policy Regularization Framework for Offline Reinforcement Learning**|Yi Shen et.al.|[2411.04534v1](http://arxiv.org/abs/2411.04534v1)|**[link](https://github.com/lastTarnished/Hypyercud-Policy-Regularization)**|
 |**2024-11-07**|**Series-to-Series Diffusion Bridge Model**|Hao Yang et.al.|[2411.04491v1](http://arxiv.org/abs/2411.04491v1)|null|
 |**2024-11-07**|**MATI: A GPU-Accelerated Toolbox for Microstructural Diffusion MRI Simulation and Data Fitting with a User-Friendly GUI**|Junzhong Xu et.al.|[2411.04401v1](http://arxiv.org/abs/2411.04401v1)|null|
 |**2024-11-07**|**MegaPortrait: Revisiting Diffusion Control for High-fidelity Portrait Generation**|Han Yang et.al.|[2411.04357v1](http://arxiv.org/abs/2411.04357v1)|null|
@@ -187,7 +187,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-05**|**LASER: Attention with Exponential Transformation**|Sai Surya Duvvuri et.al.|[2411.03493v1](http://arxiv.org/abs/2411.03493v1)|null|
 |**2024-11-04**|**ViTally Consistent: Scaling Biological Representation Learning for Cell Microscopy**|Kian Kenyon-Dean et.al.|[2411.02572v1](http://arxiv.org/abs/2411.02572v1)|null|
-|**2024-10-30**|**NMformer: A Transformer for Noisy Modulation Classification in Wireless Communication**|Atik Faysal et.al.|[2411.02428v1](http://arxiv.org/abs/2411.02428v1)|null|
+|**2024-10-30**|**NMformer: A Transformer for Noisy Modulation Classification in Wireless Communication**|Atik Faysal et.al.|[2411.02428v1](http://arxiv.org/abs/2411.02428v1)|**[link](https://github.com/atik666/NMformer)**|
 |**2024-11-04**|**Encoding Multi-level Dynamics in Effect Heterogeneity Estimation**|Fucheng Warren Zhu et.al.|[2411.02134v1](http://arxiv.org/abs/2411.02134v1)|null|
 |**2024-11-04**|**UnSegMedGAT: Unsupervised Medical Image Segmentation using Graph Attention Networks Clustering**|A. Mudit Adityaja et.al.|[2411.01966v1](http://arxiv.org/abs/2411.01966v1)|**[link](https://github.com/mudit-adityaja/unsegmedgat)**|
 |**2024-11-04**|**V-CAS: A Realtime Vehicle Anti Collision System Using Vision Transformer on Multi-Camera Streams**|Muhammad Waqas Ashraf et.al.|[2411.01963v1](http://arxiv.org/abs/2411.01963v1)|null|
@@ -224,7 +224,7 @@ layout: default
 |**2024-11-07**|**GANESH: Generalizable NeRF for Lensless Imaging**|Rakesh Raj Madavan et.al.|[2411.04810v1](http://arxiv.org/abs/2411.04810v1)|null|
 |**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386v1](http://arxiv.org/abs/2411.04386v1)|null|
 |**2024-11-06**|**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**|Rui Peng et.al.|[2411.03637v1](http://arxiv.org/abs/2411.03637v1)|**[link](https://github.com/prstrive/scgaussian)**|
-|**2024-11-05**|**Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation**|Yichen Wang et.al.|[2411.03487v1](http://arxiv.org/abs/2411.03487v1)|null|
+|**2024-11-05**|**Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation**|Yichen Wang et.al.|[2411.03487v1](http://arxiv.org/abs/2411.03487v1)|**[link](https://github.com/IRMVLab/NUE-NeRF-nav)**|
 |**2024-11-05**|**CAD-NeRF: Learning NeRFs from Uncalibrated Few-view Images by CAD Model Retrieval**|Xin Wen et.al.|[2411.02979v1](http://arxiv.org/abs/2411.02979v1)|null|
 |**2024-11-05**|**Exploring Seasonal Variability in the Context of Neural Radiance Fields for 3D Reconstruction on Satellite Imagery**|Liv Kåreborn et.al.|[2411.02972v1](http://arxiv.org/abs/2411.02972v1)|null|
 |**2024-11-05**|**Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**|Xavier Timoneda et.al.|[2411.02969v1](http://arxiv.org/abs/2411.02969v1)|null|
@@ -264,7 +264,7 @@ layout: default
 |**2024-11-01**|**Strongly Topology-preserving GNNs for Brain Graph Super-resolution**|Pragya Singh et.al.|[2411.02525v1](http://arxiv.org/abs/2411.02525v1)|null|
 |**2024-11-03**|**Super-Resolution without High-Resolution Labels for Black Hole Simulations**|Thomas Helfer et.al.|[2411.02453v1](http://arxiv.org/abs/2411.02453v1)|null|
 |**2024-11-04**|**MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D**|Wei Cheng et.al.|[2411.02336v1](http://arxiv.org/abs/2411.02336v1)|null|
-|**2024-11-01**|**A Robust Super-Resolution Classifier by Nonlinear Optics**|Ishan Darji et.al.|[2411.00953v1](http://arxiv.org/abs/2411.00953v1)|null|
+|**2024-11-01**|**A Robust Super-Resolution Classifier by Nonlinear Optics**|Ishan Darji et.al.|[2411.00953v1](http://arxiv.org/abs/2411.00953v1)|**[link](https://github.com/idarji-stevens-edu/NL-Spade)**|
 |**2024-10-31**|**Blind Time-of-Flight Imaging: Sparse Deconvolution on the Continuum with Unknown Kernels**|Ruiming Guo et.al.|[2411.00893v1](http://arxiv.org/abs/2411.00893v1)|null|
 |**2024-11-01**|**Constrained Diffusion Implicit Models**|Vivek Jayaram et.al.|[2411.00359v1](http://arxiv.org/abs/2411.00359v1)|null|
 |**2024-10-31**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006v1](http://arxiv.org/abs/2410.24006v1)|null|
