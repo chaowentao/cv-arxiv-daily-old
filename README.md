@@ -1,4 +1,4 @@
-## Updated on 2024.11.14
+## Updated on 2024.11.15
 
 ## Image Generation
 
@@ -197,7 +197,7 @@
 |**2024-11-08**|**GCI-ViTAL: Gradual Confidence Improvement with Vision Transformers for Active Learning on Label Noise**|Moseli Mots'oehli et.al.|[2411.05939v1](http://arxiv.org/abs/2411.05939v1)|null|
 |**2024-11-08**|**ViT Enhanced Privacy-Preserving Secure Medical Data Sharing and Classification**|Al Amin et.al.|[2411.05901v1](http://arxiv.org/abs/2411.05901v1)|null|
 |**2024-11-06**|**Reducing catastrophic forgetting of incremental learning in the absence of rehearsal memory with task-specific token**|Young Jo Choi et.al.|[2411.05846v1](http://arxiv.org/abs/2411.05846v1)|null|
-|**2024-11-06**|**Prion-ViT: Prions-Inspired Vision Transformers for Temperature prediction with Specklegrams**|Abhishek Sebastian et.al.|[2411.05836v1](http://arxiv.org/abs/2411.05836v1)|null|
+|**2024-11-06**|**Prion-ViT: Prions-Inspired Vision Transformers for Temperature prediction with Specklegrams**|Abhishek Sebastian et.al.|[2411.05836v2](http://arxiv.org/abs/2411.05836v2)|null|
 |**2024-11-08**|**Image inpainting enhancement by replacing the original mask with a self-attended region from the input image**|Kourosh Kiani et.al.|[2411.05705v1](http://arxiv.org/abs/2411.05705v1)|null|
 |**2024-11-08**|**Online-LoRA: Task-free Online Continual Learning via Low Rank Adaptation**|Xiwen Wei et.al.|[2411.05663v1](http://arxiv.org/abs/2411.05663v1)|**[link](https://github.com/christina200/online-lora-official)**|
 |**2024-11-08**|**Open-set object detection: towards unified problem formulation and benchmarking**|Hejer Ammar et.al.|[2411.05564v1](http://arxiv.org/abs/2411.05564v1)|null|
