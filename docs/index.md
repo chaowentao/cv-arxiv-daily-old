@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 
 ## Image Generation
 
@@ -154,7 +154,7 @@ layout: default
 |**2024-11-14**|**Motion Before Action: Diffusing Object Motion as Manipulation Condition**|Yup Su et.al.|[2411.09658v1](http://arxiv.org/abs/2411.09658v1)|null|
 |**2024-11-14**|**The lowest-radiation environments in the Solar System: new opportunities for underground rare-event searches**|Xilin Zhang et.al.|[2411.09634v1](http://arxiv.org/abs/2411.09634v1)|null|
 |**2024-11-14**|**NEP-MB-pol: A unified machine-learned framework for fast and accurate prediction of water's thermodynamic and transport properties**|Ke Xu et.al.|[2411.09631v1](http://arxiv.org/abs/2411.09631v1)|null|
-|**2024-11-14**|**MICCAI-CDMRI 2023 QuantConn Challenge Findings on Achieving Robust Quantitative Connectivity through Harmonized Preprocessing of Diffusion MRI**|Nancy R. Newlin et.al.|[2411.09618v1](http://arxiv.org/abs/2411.09618v1)|null|
+|**2024-11-14**|**MICCAI-CDMRI 2023 QuantConn Challenge Findings on Achieving Robust Quantitative Connectivity through Harmonized Preprocessing of Diffusion MRI**|Nancy R. Newlin et.al.|[2411.09618v1](http://arxiv.org/abs/2411.09618v1)|**[link](https://github.com/nancynewlin-masi/QuantConn)**|
 |**2024-11-14**|**Carl Wirtz' article from 1924 in Astronomische Nachrichten on the radial motions of spiral nebulae**|Tom Richtler et.al.|[2411.09606v1](http://arxiv.org/abs/2411.09606v1)|null|
 |**2024-11-14**|**Numerical prediction of the steady-state distribution under stochastic resetting from measurements**|Ron Vatash et.al.|[2411.09563v1](http://arxiv.org/abs/2411.09563v1)|null|
 |**2024-11-14**|**FlowNav: Learning Efficient Navigation Policies via Conditional Flow Matching**|Samiran Gode et.al.|[2411.09524v1](http://arxiv.org/abs/2411.09524v1)|null|
@@ -163,7 +163,7 @@ layout: default
 |**2024-11-14**|**DiffRoad: Realistic and Diverse Road Scenario Generation for Autonomous Vehicle Testing**|Junjie Zhou et.al.|[2411.09451v1](http://arxiv.org/abs/2411.09451v1)|null|
 |**2024-11-14**|**Image Regeneration: Evaluating Text-to-Image Model via Generating Identical Image with Multimodal Large Language Models**|Chutian Meng et.al.|[2411.09449v1](http://arxiv.org/abs/2411.09449v1)|null|
 |**2024-11-14**|**Diffusive dynamics of charge regulated macro-ion solutions**|Bin Zheng et.al.|[2411.09448v1](http://arxiv.org/abs/2411.09448v1)|null|
-|**2024-11-14**|**A survey of probabilistic generative frameworks for molecular simulations**|Richard John et.al.|[2411.09388v1](http://arxiv.org/abs/2411.09388v1)|null|
+|**2024-11-14**|**A survey of probabilistic generative frameworks for molecular simulations**|Richard John et.al.|[2411.09388v1](http://arxiv.org/abs/2411.09388v1)|**[link](https://github.com/shams-mehdi/aib9_openmm)**|
 |**2024-11-14**|**Convergence to equilibrium for a degenerate triangular reaction-diffusion system**|Saumyajit Das et.al.|[2411.09382v1](http://arxiv.org/abs/2411.09382v1)|null|
 |**2024-11-14**|**Multi-scale Generative Modeling for Fast Sampling**|Xiongye Xiao et.al.|[2411.09356v1](http://arxiv.org/abs/2411.09356v1)|null|
 |**2024-11-14**|**Improving hp-Variational Physics-Informed Neural Networks for Steady-State Convection-Dominated Problems**|Thivin Anandh et.al.|[2411.09329v1](http://arxiv.org/abs/2411.09329v1)|null|
@@ -188,10 +188,10 @@ layout: default
 |**2024-11-14**|**On the Surprising Effectiveness of Attention Transfer for Vision Transformers**|Alexander C. Li et.al.|[2411.09702v1](http://arxiv.org/abs/2411.09702v1)|null|
 |**2024-11-14**|**Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images**|Bipasha Kundu et.al.|[2411.09598v1](http://arxiv.org/abs/2411.09598v1)|null|
 |**2024-11-14**|**SAG-ViT: A Scale-Aware, High-Fidelity Patching Approach with Graph Attention for Vision Transformers**|Shravan Venkatraman et.al.|[2411.09420v1](http://arxiv.org/abs/2411.09420v1)|null|
-|**2024-11-14**|**Heuristical Comparison of Vision Transformers Against Convolutional Neural Networks for Semantic Segmentation on Remote Sensing Imagery**|Ashim Dahal et.al.|[2411.09101v1](http://arxiv.org/abs/2411.09101v1)|null|
+|**2024-11-14**|**Heuristical Comparison of Vision Transformers Against Convolutional Neural Networks for Semantic Segmentation on Remote Sensing Imagery**|Ashim Dahal et.al.|[2411.09101v1](http://arxiv.org/abs/2411.09101v1)|**[link](https://github.com/ashimdahal/vit-vs-cnn-image-segmentation)**|
 |**2024-11-12**|**Explainable Deep Learning Framework for SERS Bio-quantification**|Jihan K. Zaki et.al.|[2411.08082v1](http://arxiv.org/abs/2411.08082v1)|null|
 |**2024-11-12**|**Towards Vision Mixture of Experts for Wildlife Monitoring on the Edge**|Emmanuel Azuh Mensah et.al.|[2411.07834v1](http://arxiv.org/abs/2411.07834v1)|null|
-|**2024-11-09**|**Community Research Earth Digital Intelligence Twin (CREDIT)**|John Schreck et.al.|[2411.07814v1](http://arxiv.org/abs/2411.07814v1)|null|
+|**2024-11-09**|**Community Research Earth Digital Intelligence Twin (CREDIT)**|John Schreck et.al.|[2411.07814v1](http://arxiv.org/abs/2411.07814v1)|**[link](https://github.com/ncar/credit-arxiv)**|
 |**2024-11-10**|**Feature Fusion Transferability Aware Transformer for Unsupervised Domain Adaptation**|Xiaowei Yu et.al.|[2411.07794v1](http://arxiv.org/abs/2411.07794v1)|null|
 |**2024-11-09**|**ViTOC: Vision Transformer and Object-aware Captioner**|Feiyang Huang et.al.|[2411.07265v2](http://arxiv.org/abs/2411.07265v2)|null|
 |**2024-11-08**|**Cascaded Dual Vision Transformer for Accurate Facial Landmark Detection**|Ziqiang Dang et.al.|[2411.07167v1](http://arxiv.org/abs/2411.07167v1)|null|
