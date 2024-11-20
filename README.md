@@ -1,4 +1,4 @@
-## Updated on 2024.11.19
+## Updated on 2024.11.20
 
 ## Image Generation
 
@@ -10,7 +10,7 @@
 |**2024-11-18**|**BeautyBank: Encoding Facial Makeup in Latent Space**|Qianwen Lu et.al.|[2411.11231v1](http://arxiv.org/abs/2411.11231v1)|null|
 |**2024-11-17**|**Enhanced Anime Image Generation Using USE-CMHSA-GAN**|J. Lu et.al.|[2411.11179v1](http://arxiv.org/abs/2411.11179v1)|null|
 |**2024-11-17**|**Oscillation Inversion: Understand the structure of Large Flow Model through the Lens of Inversion Method**|Yan Zheng et.al.|[2411.11135v1](http://arxiv.org/abs/2411.11135v1)|null|
-|**2024-11-17**|**Time Step Generating: A Universal Synthesized Deepfake Image Detector**|Ziyue Zeng et.al.|[2411.11016v1](http://arxiv.org/abs/2411.11016v1)|null|
+|**2024-11-17**|**Time Step Generating: A Universal Synthesized Deepfake Image Detector**|Ziyue Zeng et.al.|[2411.11016v1](http://arxiv.org/abs/2411.11016v1)|**[link](https://github.com/NuayHL/TimeStepGenerating)**|
 |**2024-11-17**|**SageAttention2 Technical Report: Accurate 4 Bit Attention for Plug-and-play Inference Acceleration**|Jintao Zhang et.al.|[2411.10958v1](http://arxiv.org/abs/2411.10958v1)|**[link](https://github.com/thu-ml/SageAttention)**|
 |**2024-11-15**|**SmoothCache: A Universal Inference Acceleration Technique for Diffusion Transformers**|Joseph Liu et.al.|[2411.10510v1](http://arxiv.org/abs/2411.10510v1)|**[link](https://github.com/roblox/smoothcache)**|
 |**2024-11-15**|**Boundary Attention Constrained Zero-Shot Layout-To-Image Generation**|Huancheng Chen et.al.|[2411.10495v1](http://arxiv.org/abs/2411.10495v1)|null|
