@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 
 ## Image Generation
 
@@ -17,7 +17,7 @@ layout: default
 |**2024-11-21**|**Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion**|Jinhong He et.al.|[2411.13961v1](http://arxiv.org/abs/2411.13961v1)|**[link](https://github.com/hejh8/joint-wavelet-and-fourier-priors-guided-diffusion)**|
 |**2024-11-21**|**iHQGAN: A Lightweight Invertible Hybrid Quantum-Classical Generative Adversarial Network for Unsupervised Image-to-Image Translation**|Xue Yang et.al.|[2411.13920v1](http://arxiv.org/abs/2411.13920v1)|null|
 |**2024-11-21**|**Dealing with Synthetic Data Contamination in Online Continual Learning**|Maorong Wang et.al.|[2411.13852v1](http://arxiv.org/abs/2411.13852v1)|**[link](https://github.com/maorong-wang/esrm)**|
-|**2024-11-21**|**Detecting Human Artifacts from Text-to-Image Models**|Kaihong Wang et.al.|[2411.13842v1](http://arxiv.org/abs/2411.13842v1)|null|
+|**2024-11-21**|**Detecting Human Artifacts from Text-to-Image Models**|Kaihong Wang et.al.|[2411.13842v1](http://arxiv.org/abs/2411.13842v1)|**[link](https://github.com/wangkaihong/hadm)**|
 |**2024-11-21**|**GalaxyEdit: Large-Scale Image Editing Dataset with Enhanced Diffusion Adapter**|Aniruddha Bala et.al.|[2411.13794v1](http://arxiv.org/abs/2411.13794v1)|null|
 |**2024-11-21**|**Edge-Cloud Routing for Text-to-Image Model with Token-Level Multi-Metric Prediction**|Zewei Xin et.al.|[2411.13787v1](http://arxiv.org/abs/2411.13787v1)|null|
 |**2024-11-20**|**VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models**|Ziqi Huang et.al.|[2411.13503v1](http://arxiv.org/abs/2411.13503v1)|**[link](https://github.com/vchitect/vbench)**|
@@ -179,7 +179,7 @@ layout: default
 |**2024-11-21**|**Nonlinear internal waves breaking in stellar radiation zones. Parametrisation for the transport of angular momentum: bridging geophysical to stellar fluid dynamics**|Stéphane Mathis et.al.|[2411.13925v1](http://arxiv.org/abs/2411.13925v1)|null|
 |**2024-11-21**|**Decoupled Sparse Priors Guided Diffusion Compression Model for Point Clouds**|Xiaoge Zhang et.al.|[2411.13860v1](http://arxiv.org/abs/2411.13860v1)|null|
 |**2024-11-21**|**Dealing with Synthetic Data Contamination in Online Continual Learning**|Maorong Wang et.al.|[2411.13852v1](http://arxiv.org/abs/2411.13852v1)|**[link](https://github.com/maorong-wang/esrm)**|
-|**2024-11-21**|**Detecting Human Artifacts from Text-to-Image Models**|Kaihong Wang et.al.|[2411.13842v1](http://arxiv.org/abs/2411.13842v1)|null|
+|**2024-11-21**|**Detecting Human Artifacts from Text-to-Image Models**|Kaihong Wang et.al.|[2411.13842v1](http://arxiv.org/abs/2411.13842v1)|**[link](https://github.com/wangkaihong/hadm)**|
 |**2024-11-21**|**CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation**|Lin Sun et.al.|[2411.13836v1](http://arxiv.org/abs/2411.13836v1)|**[link](https://github.com/linsun449/cliper.code)**|
 
 ## Vision Transformer
@@ -187,7 +187,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-21**|**Revisiting the Integration of Convolution and Attention for Vision Backbone**|Lei Zhu et.al.|[2411.14429v1](http://arxiv.org/abs/2411.14429v1)|**[link](https://github.com/rayleizhu/glmix)**|
-|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392v1](http://arxiv.org/abs/2411.14392v1)|null|
+|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392v1](http://arxiv.org/abs/2411.14392v1)|**[link](https://github.com/yash-10/cvt-cosmo-inference)**|
 |**2024-11-20**|**Quantum Attention for Vision Transformers in High Energy Physics**|Alessandro Tesi et.al.|[2411.13520v1](http://arxiv.org/abs/2411.13520v1)|null|
 |**2024-11-19**|**Residual Vision Transformer (ResViT) Based Self-Supervised Learning Model for Brain Tumor Classification**|Meryem Altin Karagoz et.al.|[2411.12874v1](http://arxiv.org/abs/2411.12874v1)|null|
 |**2024-11-19**|**Faster Multi-GPU Training with PPLL: A Pipeline Parallelism Framework Leveraging Local Learning**|Xiuyuan Guo et.al.|[2411.12780v1](http://arxiv.org/abs/2411.12780v1)|null|
