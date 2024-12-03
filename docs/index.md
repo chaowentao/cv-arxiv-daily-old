@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.02
+## Updated on 2024.12.03
 
 ## Image Generation
 
@@ -37,7 +37,7 @@ layout: default
 |**2024-11-26**|**Accelerating Vision Diffusion Transformers with Skip Branches**|Guanjie Chen et.al.|[2411.17616v2](http://arxiv.org/abs/2411.17616v2)|**[link](https://github.com/opensparsellms/skip-dit)**|
 |**2024-11-26**|**IMPROVE: Improving Medical Plausibility without Reliance on HumanValidation -- An Enhanced Prototype-Guided Diffusion Framework**|Anurag Shandilya et.al.|[2411.17535v1](http://arxiv.org/abs/2411.17535v1)|null|
 |**2024-11-26**|**Image Generation with Multimodule Semantic Feature-Aided Selection for Semantic Communications**|Chengyang Liang et.al.|[2411.17428v1](http://arxiv.org/abs/2411.17428v1)|null|
-|**2024-11-26**|**Cross-modal Medical Image Generation Based on Pyramid Convolutional Attention Network**|Fuyou Mao et.al.|[2411.17420v1](http://arxiv.org/abs/2411.17420v1)|null|
+|**2024-11-26**|**Cross-modal Medical Image Generation Based on Pyramid Convolutional Attention Network**|Fuyou Mao et.al.|[2411.17420v2](http://arxiv.org/abs/2411.17420v2)|null|
 
 ## Light Field Super Resolution
 
@@ -136,7 +136,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-21**|**Segment Anything in Light Fields for Real-Time Applications via Constrained Prompting**|Nikolai Goncharov et.al.|[2411.13840v1](http://arxiv.org/abs/2411.13840v1)|null|
+|**2024-11-21**|**Segment Anything in Light Fields for Real-Time Applications via Constrained Prompting**|Nikolai Goncharov et.al.|[2411.13840v1](http://arxiv.org/abs/2411.13840v1)|**[link](https://github.com/nagonch/LF_SAM_segmentation)**|
 |**2023-03-13**|**View Adaptive Light Field Deblurring Networks with Depth Perception**|Zeqi Shen et.al.|[2303.06860v1](http://arxiv.org/abs/2303.06860v1)|null|
 |**2022-04-28**|**Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection**|Mingtao Feng et.al.|[2204.13456v1](http://arxiv.org/abs/2204.13456v1)|**[link](https://github.com/olobbcode/noiself)**|
 |**2021-10-02**|**Light Field Saliency Detection with Dual Local Graph Learning andReciprocative Guidance**|Nian Liu et.al.|[2110.00698v1](http://arxiv.org/abs/2110.00698v1)|**[link](https://github.com/wangbo-zhao/2021iccv-dlglrg)**|
