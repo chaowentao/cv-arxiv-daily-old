@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.06
+## Updated on 2024.12.07
 
 ## Image Generation
 
@@ -17,7 +17,7 @@ layout: default
 |**2024-12-05**|**AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models**|Xinghui Li et.al.|[2412.04146v1](http://arxiv.org/abs/2412.04146v1)|null|
 |**2024-12-04**|**MRGen: Diffusion-based Controllable Data Engine for MRI Segmentation towards Unannotated Modalities**|Haoning Wu et.al.|[2412.04106v1](http://arxiv.org/abs/2412.04106v1)|null|
 |**2024-12-05**|**BodyMetric: Evaluating the Realism of HumanBodies in Text-to-Image Generation**|Nefeli Andreou et.al.|[2412.04086v1](http://arxiv.org/abs/2412.04086v1)|null|
-|**2024-12-05**|**ZipAR: Accelerating Autoregressive Image Generation through Spatial Locality**|Yefei He et.al.|[2412.04062v1](http://arxiv.org/abs/2412.04062v1)|null|
+|**2024-12-05**|**ZipAR: Accelerating Autoregressive Image Generation through Spatial Locality**|Yefei He et.al.|[2412.04062v1](http://arxiv.org/abs/2412.04062v1)|**[link](https://github.com/ThisisBillhe/ZipAR)**|
 |**2024-12-05**|**Blind Underwater Image Restoration using Co-Operational Regressor Networks**|Ozer Can Devecioglu et.al.|[2412.03995v1](http://arxiv.org/abs/2412.03995v1)|null|
 |**2024-12-05**|**Local Curvature Smoothing with Stein's Identity for Efficient Score Matching**|Genki Osada et.al.|[2412.03962v1](http://arxiv.org/abs/2412.03962v1)|null|
 |**2024-12-05**|**A Framework For Image Synthesis Using Supervised Contrastive Learning**|Yibin Liu et.al.|[2412.03957v1](http://arxiv.org/abs/2412.03957v1)|null|
