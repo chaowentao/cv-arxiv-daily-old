@@ -1,4 +1,4 @@
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 
 ## Image Generation
 
@@ -15,7 +15,7 @@
 |**2024-12-12**|**ViUniT: Visual Unit Tests for More Robust Visual Programming**|Artemis Panagopoulou et.al.|[2412.08859v1](http://arxiv.org/abs/2412.08859v1)|null|
 |**2024-12-11**|**$\texttt{UFig v1}$: The ultra-fast image generator**|Silvan Fischbacher et.al.|[2412.08716v1](http://arxiv.org/abs/2412.08716v1)|null|
 |**2024-12-11**|**Fast Prompt Alignment for Text-to-Image Generation**|Khalil Mrini et.al.|[2412.08639v1](http://arxiv.org/abs/2412.08639v1)|**[link](https://github.com/tiktok/fast_prompt_alignment)**|
-|**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635v1](http://arxiv.org/abs/2412.08635v1)|null|
+|**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635v1](http://arxiv.org/abs/2412.08635v1)|**[link](https://github.com/microsoft/unilm/tree/master/LatentLM)**|
 |**2024-12-11**|**LAION-SG: An Enhanced Large-Scale Dataset for Training Complex Image-Text Models with Structural Annotations**|Zejian Li et.al.|[2412.08580v1](http://arxiv.org/abs/2412.08580v1)|**[link](https://github.com/mengcye/LAION-SG)**|
 |**2024-12-11**|**Learning Flow Fields in Attention for Controllable Person Image Generation**|Zijian Zhou et.al.|[2412.08486v2](http://arxiv.org/abs/2412.08486v2)|**[link](https://github.com/franciszzj/leffa)**|
 |**2024-12-11**|**InvDiff: Invariant Guidance for Bias Mitigation in Diffusion Models**|Min Hou et.al.|[2412.08480v1](http://arxiv.org/abs/2412.08480v1)|**[link](https://github.com/hundredl/invdiff)**|
@@ -159,7 +159,7 @@
 |**2024-12-12**|**Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion**|Zexin He et.al.|[2412.09593v1](http://arxiv.org/abs/2412.09593v1)|null|
 |**2024-12-12**|**SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing**|Xueting Li et.al.|[2412.09545v1](http://arxiv.org/abs/2412.09545v1)|null|
 |**2024-12-12**|**OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs**|Yuanzhi Zhu et.al.|[2412.09465v1](http://arxiv.org/abs/2412.09465v1)|**[link](https://github.com/yuanzhi-zhu/oftsr)**|
-|**2024-12-12**|**Learned Compression for Compressed Learning**|Dan Jacobellis et.al.|[2412.09405v1](http://arxiv.org/abs/2412.09405v1)|null|
+|**2024-12-12**|**Learned Compression for Compressed Learning**|Dan Jacobellis et.al.|[2412.09405v1](http://arxiv.org/abs/2412.09405v1)|**[link](https://github.com/danjacobellis/LCCL)**|
 |**2024-12-12**|**High-Order Implicit Low-Rank Method with Spectral Deferred Correction for Matrix Differential Equations**|Shun Li et.al.|[2412.09400v1](http://arxiv.org/abs/2412.09400v1)|null|
 |**2024-12-12**|**UFO: Enhancing Diffusion-Based Video Generation with a Uniform Frame Organizer**|Delong Liu et.al.|[2412.09389v1](http://arxiv.org/abs/2412.09389v1)|**[link](https://github.com/delong-liu-bupt/ufo)**|
 |**2024-12-12**|**Diffusion Model with Representation Alignment for Protein Inverse Folding**|Chenglin Wang et.al.|[2412.09380v1](http://arxiv.org/abs/2412.09380v1)|null|
@@ -171,9 +171,9 @@
 |**2024-12-12**|**Auto-Regressive Moving Diffusion Models for Time Series Forecasting**|Jiaxin Gao et.al.|[2412.09328v1](http://arxiv.org/abs/2412.09328v1)|**[link](https://github.com/daxin007/armd)**|
 |**2024-12-12**|**Are Conditional Latent Diffusion Models Effective for Image Restoration?**|Yunchen Yuan et.al.|[2412.09324v1](http://arxiv.org/abs/2412.09324v1)|null|
 |**2024-12-12**|**Impact of Lipid Structural Variations on Bilayer Properties: A Coarse-Grained Molecular Dynamics Study**|Sonam Phuntsho et.al.|[2412.09312v1](http://arxiv.org/abs/2412.09312v1)|null|
-|**2024-12-12**|**GoHD: Gaze-oriented and Highly Disentangled Portrait Animation with Rhythmic Poses and Realistic Expression**|Ziqi Zhou et.al.|[2412.09296v1](http://arxiv.org/abs/2412.09296v1)|null|
+|**2024-12-12**|**GoHD: Gaze-oriented and Highly Disentangled Portrait Animation with Rhythmic Poses and Realistic Expression**|Ziqi Zhou et.al.|[2412.09296v1](http://arxiv.org/abs/2412.09296v1)|**[link](https://github.com/Jia1018/GoHD)**|
 |**2024-12-12**|**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**|Bofang Jia et.al.|[2412.09265v1](http://arxiv.org/abs/2412.09265v1)|null|
-|**2024-12-12**|**LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync**|Chunyu Li et.al.|[2412.09262v1](http://arxiv.org/abs/2412.09262v1)|null|
+|**2024-12-12**|**LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync**|Chunyu Li et.al.|[2412.09262v1](http://arxiv.org/abs/2412.09262v1)|**[link](https://github.com/bytedance/LatentSync)**|
 |**2024-12-12**|**Traveling waves to a logarithmic chemotaxis model with fast diffusion and singularities**|Li Xiaowen et.al.|[2412.09253v1](http://arxiv.org/abs/2412.09253v1)|null|
 |**2024-12-12**|**ExpRDiff: Short-exposure Guided Diffusion Model for Realistic Local Motion Deblurring**|Zhongbao Yang et.al.|[2412.09193v1](http://arxiv.org/abs/2412.09193v1)|null|
 |**2024-12-12**|**RAD: Region-Aware Diffusion Models for Image Inpainting**|Sora Kim et.al.|[2412.09191v1](http://arxiv.org/abs/2412.09191v1)|null|
@@ -322,7 +322,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-12**|**Representing Long Volumetric Video with Temporal Gaussian Hierarchy**|Zhen Xu et.al.|[2412.09608v1](http://arxiv.org/abs/2412.09608v1)|null|
+|**2024-12-12**|**Representing Long Volumetric Video with Temporal Gaussian Hierarchy**|Zhen Xu et.al.|[2412.09608v1](http://arxiv.org/abs/2412.09608v1)|**[link](https://github.com/dendenxu/fast-gaussian-rasterization)**|
 |**2024-12-12**|**Feat2GS: Probing Visual Foundation Models with Gaussian Splatting**|Yue Chen et.al.|[2412.09606v1](http://arxiv.org/abs/2412.09606v1)|null|
 |**2024-12-12**|**DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving**|Hao Lu et.al.|[2412.09043v1](http://arxiv.org/abs/2412.09043v1)|**[link](https://github.com/envision-research/driverecon)**|
 |**2024-12-11**|**Pragmatist: Multiview Conditional Diffusion Models for High-Fidelity 3D Reconstruction from Unposed Sparse Views**|Songchun Zhang et.al.|[2412.08412v2](http://arxiv.org/abs/2412.08412v2)|null|
