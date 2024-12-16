@@ -8,9 +8,9 @@
 |**2024-12-13**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316v1](http://arxiv.org/abs/2412.10316v1)|null|
 |**2024-12-13**|**Learning Complex Non-Rigid Image Edits from Multimodal Conditioning**|Nikolai Warner et.al.|[2412.10219v1](http://arxiv.org/abs/2412.10219v1)|null|
 |**2024-12-13**|**Simple Guidance Mechanisms for Discrete Diffusion Models**|Yair Schiff et.al.|[2412.10193v1](http://arxiv.org/abs/2412.10193v1)|**[link](https://github.com/kuleshov-group/discrete-diffusion-guidance)**|
-|**2024-12-13**|**Financial Fine-tuning a Large Time Series Model**|Xinghong Fu et.al.|[2412.09880v1](http://arxiv.org/abs/2412.09880v1)|null|
+|**2024-12-13**|**Financial Fine-tuning a Large Time Series Model**|Xinghong Fu et.al.|[2412.09880v1](http://arxiv.org/abs/2412.09880v1)|**[link](https://github.com/pfnet-research/timesfm_fin)**|
 |**2024-12-12**|**Human vs. AI: A Novel Benchmark and a Comparative Study on the Detection of Generated Images and the Impact of Prompts**|Philipp Moeßner et.al.|[2412.09715v1](http://arxiv.org/abs/2412.09715v1)|**[link](https://github.com/heikeadel/cocoxgen)**|
-|**2024-12-12**|**Diffusion-Enhanced Test-time Adaptation with Text and Image Augmentation**|Chun-Mei Feng et.al.|[2412.09706v1](http://arxiv.org/abs/2412.09706v1)|null|
+|**2024-12-12**|**Diffusion-Enhanced Test-time Adaptation with Text and Image Augmentation**|Chun-Mei Feng et.al.|[2412.09706v1](http://arxiv.org/abs/2412.09706v1)|**[link](https://github.com/chunmeifeng/difftpt)**|
 |**2024-12-12**|**Vision-Language Models Represent Darker-Skinned Black Individuals as More Homogeneous than Lighter-Skinned Black Individuals**|Messi H. J. Lee et.al.|[2412.09668v1](http://arxiv.org/abs/2412.09668v1)|null|
 |**2024-12-12**|**From Noise to Nuance: Advances in Deep Generative Image Models**|Benji Peng et.al.|[2412.09656v1](http://arxiv.org/abs/2412.09656v1)|null|
 |**2024-12-12**|**LoRACLR: Contrastive Adaptation for Customization of Diffusion Models**|Enis Simsar et.al.|[2412.09622v1](http://arxiv.org/abs/2412.09622v1)|null|
