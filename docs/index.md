@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 
 ## Image Generation
 
@@ -276,7 +276,7 @@ layout: default
 |**2024-12-09**|**MSCrackMamba: Leveraging Vision Mamba for Crack Detection in Fused Multispectral Imagery**|Qinfeng Zhu et.al.|[2412.06211v1](http://arxiv.org/abs/2412.06211v1)|null|
 |**2024-12-09**|**You KAN Do It in a Single Shot: Plug-and-Play Methods with Single-Instance Priors**|Yanqi Cheng et.al.|[2412.06204v1](http://arxiv.org/abs/2412.06204v1)|null|
 |**2024-12-07**|**Jointly RS Image Deblurring and Super-Resolution with Adjustable-Kernel and Multi-Domain Attention**|Yan Zhang et.al.|[2412.05696v1](http://arxiv.org/abs/2412.05696v1)|**[link](https://github.com/zpc456/akmd-net)**|
-|**2024-12-07**|**Test-time Cost-and-Quality Controllable Arbitrary-Scale Super-Resolution with Variable Fourier Components**|Kazutoshi Akita et.al.|[2412.05517v1](http://arxiv.org/abs/2412.05517v1)|null|
+|**2024-12-07**|**Test-time Cost-and-Quality Controllable Arbitrary-Scale Super-Resolution with Variable Fourier Components**|Kazutoshi Akita et.al.|[2412.05517v2](http://arxiv.org/abs/2412.05517v2)|null|
 |**2024-12-07**|**Enhancing Sample Generation of Diffusion Models using Noise Level Correction**|Abulikemu Abuduweili et.al.|[2412.05488v1](http://arxiv.org/abs/2412.05488v1)|null|
 |**2024-12-06**|**MSECG: Incorporating Mamba for Robust and Efficient ECG Super-Resolution**|Jie Lin et.al.|[2412.04861v1](http://arxiv.org/abs/2412.04861v1)|null|
 |**2024-12-05**|**2.5D Super-Resolution Approaches for X-ray Computed Tomography-based Inspection of Additively Manufactured Parts**|Haley Duba-Sullivan et.al.|[2412.04525v1](http://arxiv.org/abs/2412.04525v1)|null|
