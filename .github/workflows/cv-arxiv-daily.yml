@@ -7,7 +7,7 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "* 0/12 * * *"  #'*/60 * * * *'
+    - cron: "0 0 */5 * *"
   # Triggers the workflow on push or pull request events but only for the main branch
 #   push:
 #     branches:
@@ -27,22 +27,22 @@ jobs:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     
-    
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         
       - name: Set up Python Env
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.10        
-
+          python-version: '3.10'
+          #architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install arxiv
           pip install requests
+          pip install pyyaml
           
       - name: Run daily arxiv 
         run: |
@@ -53,7 +53,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update CV Arxiv Papers"
-          files: README.md cv-arxiv-daily.json docs/cv-arxiv-daily-web.json docs/index.md
+          files: README.md docs/cv-arxiv-daily.json docs/cv-arxiv-daily-web.json docs/index.md docs/cv-arxiv-daily-wechat.json docs/wechat.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
