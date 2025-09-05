@@ -1,19 +1,15 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-> Updated on 2022.12.02
+> Updated on 2025.09.05
+> Usage instructions: [here](./docs/README.md#usage)
 
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#SLAM>SLAM</a></li>
-    <li><a href=#SFM>SFM</a></li>
-    <li><a href=#Visual-Localization>Visual Localization</a></li>
-    <li><a href=#Keypoint-Detection>Keypoint Detection</a></li>
-    <li><a href=#Image-Matching>Image Matching</a></li>
-    <li><a href=#NeRF>NeRF</a></li>
+    <li><a href=#slam>SLAM</a></li>
+    <li><a href=#sfm>SFM</a></li>
+    <li><a href=#visual-localization>Visual Localization</a></li>
+    <li><a href=#keypoint-detection>Keypoint Detection</a></li>
+    <li><a href=#image-matching>Image Matching</a></li>
+    <li><a href=#nerf>NeRF</a></li>
   </ol>
 </details>
 
@@ -40,7 +36,7 @@
 - 2022-11-07, **Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**, Daniel Adolfsson et.al., Paper: [http://arxiv.org/abs/2211.02445v2](http://arxiv.org/abs/2211.02445v2), Code: **[https://github.com/dan11003/cfear_evaluation](https://github.com/dan11003/cfear_evaluation)**
 - 2022-11-03, **DyOb-SLAM : Dynamic Object Tracking SLAM System**, Rushmian Annoy Wadud et.al., Paper: [http://arxiv.org/abs/2211.01941v1](http://arxiv.org/abs/2211.01941v1)
 - 2022-11-03, **Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**, Yang Chen et.al., Paper: [http://arxiv.org/abs/2211.01749v1](http://arxiv.org/abs/2211.01749v1)
-- 2022-11-04, **$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**, Hao Xu et.al., Paper: [http://arxiv.org/abs/2211.01538v2](http://arxiv.org/abs/2211.01538v2)
+- 2022-11-04, **$D^2$ SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**, Hao Xu et.al., Paper: [http://arxiv.org/abs/2211.01538v2](http://arxiv.org/abs/2211.01538v2)
 - 2022-11-02, **Semantic SuperPoint: A Deep Semantic Descriptor**, Gabriel S. Gama et.al., Paper: [http://arxiv.org/abs/2211.01098v1](http://arxiv.org/abs/2211.01098v1), Code: **[https://github.com/gabriel-sgama/semantic-superpoint](https://github.com/gabriel-sgama/semantic-superpoint)**
 - 2022-11-02, **Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**, Myung-Hwan Jeon et.al., Paper: [http://arxiv.org/abs/2211.00960v1](http://arxiv.org/abs/2211.00960v1), Code: **[https://github.com/rpmsnu/prima6d](https://github.com/rpmsnu/prima6d)**
 - 2022-10-31, **Mapping Extended Landmarks for Radar SLAM**, Shuai Sun et.al., Paper: [http://arxiv.org/abs/2210.17207v1](http://arxiv.org/abs/2210.17207v1)
@@ -108,8 +104,8 @@
 - 2022-09-12, **Attitude-Guided Loop Closure for Cameras with Negative Plane**, Ze Wang et.al., Paper: [http://arxiv.org/abs/2209.05167v1](http://arxiv.org/abs/2209.05167v1), Code: **[https://github.com/flysoaryun/lf-vio-loop](https://github.com/flysoaryun/lf-vio-loop)**
 - 2022-09-09, **General Place Recognition Survey: Towards the Real-world Autonomy Age**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2209.04497v1](http://arxiv.org/abs/2209.04497v1), Code: **[https://github.com/MetaSLAM/GPRS](https://github.com/MetaSLAM/GPRS)**
 - 2022-09-08, **ExplORB-SLAM: Active Visual SLAM Exploiting the Pose-graph Topology**, Julio A. Placed et.al., Paper: [http://arxiv.org/abs/2209.03693v1](http://arxiv.org/abs/2209.03693v1), Code: **[https://github.com/julioplaced/explorb-slam](https://github.com/julioplaced/explorb-slam)**
-- 2022-09-08, **R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**, Jiarong Lin et.al., Paper: [http://arxiv.org/abs/2209.03666v1](http://arxiv.org/abs/2209.03666v1), Code: **[https://github.com/hku-mars/r3live](https://github.com/hku-mars/r3live)**
-- 2022-09-06, **Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**, Brendon Forsgren et.al., Paper: [http://arxiv.org/abs/2209.02658v1](http://arxiv.org/abs/2209.02658v1), Code: **[https://bitbucket.org/jmangelson/gkcm](https://bitbucket.org/jmangelson/gkcm)**
+- 2022-09-08, **R $^3$ LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**, Jiarong Lin et.al., Paper: [http://arxiv.org/abs/2209.03666v1](http://arxiv.org/abs/2209.03666v1), Code: **[https://github.com/hku-mars/r3live](https://github.com/hku-mars/r3live)**
+- 2022-09-06, **Group- $k$ Consistent Measurement Set Maximization for Robust Outlier Detection**, Brendon Forsgren et.al., Paper: [http://arxiv.org/abs/2209.02658v1](http://arxiv.org/abs/2209.02658v1), Code: **[https://bitbucket.org/jmangelson/gkcm](https://bitbucket.org/jmangelson/gkcm)**
 - 2022-09-05, **Neuromorphic Visual Odometry with Resonator Networks**, Alpha Renner et.al., Paper: [http://arxiv.org/abs/2209.02000v1](http://arxiv.org/abs/2209.02000v1)
 - 2022-09-05, **MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**, Pavel Karpyshev et.al., Paper: [http://arxiv.org/abs/2209.01936v1](http://arxiv.org/abs/2209.01936v1)
 - 2022-09-05, **ElasticROS: An Elastically Collaborative Robot Operation System for Fog and Cloud Robotics**, Boyi Liu et.al., Paper: [http://arxiv.org/abs/2209.01774v1](http://arxiv.org/abs/2209.01774v1)
@@ -180,7 +176,7 @@
 - 2022-06-07, **Robot Self-Calibration Using Actuated 3D Sensors**, Arne Peters et.al., Paper: [http://arxiv.org/abs/2206.03430v1](http://arxiv.org/abs/2206.03430v1)
 - 2022-06-07, **Object Scan Context: Object-centric Spatial Descriptor for Place Recognition within 3D Point Cloud Map**, Haodong Yuan et.al., Paper: [http://arxiv.org/abs/2206.03062v1](http://arxiv.org/abs/2206.03062v1)
 - 2022-06-05, **DarkSLAM: GAN-assisted Visual SLAM for Reliable Operation in Low-light Conditions**, Alena Savinykh et.al., Paper: [http://arxiv.org/abs/2206.02199v1](http://arxiv.org/abs/2206.02199v1)
-- 2022-06-04, **C$^3$Fusion: Consistent Contrastive Colon Fusion, Towards Deep SLAM in Colonoscopy**, Erez Posner et.al., Paper: [http://arxiv.org/abs/2206.01961v1](http://arxiv.org/abs/2206.01961v1)
+- 2022-06-04, **C $^3$ Fusion: Consistent Contrastive Colon Fusion, Towards Deep SLAM in Colonoscopy**, Erez Posner et.al., Paper: [http://arxiv.org/abs/2206.01961v1](http://arxiv.org/abs/2206.01961v1)
 - 2022-06-01, **PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry**, Dong-Uk Seo et.al., Paper: [http://arxiv.org/abs/2206.00266v1](http://arxiv.org/abs/2206.00266v1), Code: **[https://github.com/url-kaist/alterground-lego-loam](https://github.com/url-kaist/alterground-lego-loam)**
 - 2022-05-27, **A Look at Improving Robustness in Visual-inertial SLAM by Moment Matching**, Arno Solin et.al., Paper: [http://arxiv.org/abs/2205.13821v1](http://arxiv.org/abs/2205.13821v1)
 - 2022-05-31, **LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**, Yun Chang et.al., Paper: [http://arxiv.org/abs/2205.13135v2](http://arxiv.org/abs/2205.13135v2), Code: **[https://github.com/nebula-autonomy/nebula-multirobot-dataset](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**
@@ -292,14 +288,14 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20221202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 ## SFM
 
 - 2022-11-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v1](http://arxiv.org/abs/2211.15069v1)
 - 2022-11-24, **JigsawPlan: Room Layout Jigsaw Puzzle Extreme Structure from Motion using Diffusion Models**, Sepidehsadat Hosseini et.al., Paper: [http://arxiv.org/abs/2211.13785v1](http://arxiv.org/abs/2211.13785v1)
 - 2022-11-24, **SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks**, Sergio Izquierdo et.al., Paper: [http://arxiv.org/abs/2211.13551v1](http://arxiv.org/abs/2211.13551v1)
-- 2022-11-22, **Level-S$^2$fM: Structure from Motion on Neural Level Set of Implicit Surfaces**, Yuxi Xiao et.al., Paper: [http://arxiv.org/abs/2211.12018v1](http://arxiv.org/abs/2211.12018v1)
+- 2022-11-22, **Level-S $^2$ fM: Structure from Motion on Neural Level Set of Implicit Surfaces**, Yuxi Xiao et.al., Paper: [http://arxiv.org/abs/2211.12018v1](http://arxiv.org/abs/2211.12018v1)
 - 2022-11-21, **Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**, David Ramirez et.al., Paper: [http://arxiv.org/abs/2211.11836v1](http://arxiv.org/abs/2211.11836v1)
 - 2022-11-14, **Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**, René Haas et.al., Paper: [http://arxiv.org/abs/2211.07195v1](http://arxiv.org/abs/2211.07195v1)
 - 2022-10-13, **Quantifying and analyzing rock trait distributions of rocky fault scarps using a deep learning approach**, Zhiang Chen et.al., Paper: [http://arxiv.org/abs/2210.07349v1](http://arxiv.org/abs/2210.07349v1)
@@ -354,7 +350,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20221202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -464,7 +460,7 @@
 - 2022-08-17, **Visual Cross-View Metric Localization with Dense Uncertainty Estimates**, Zimin Xia et.al., Paper: [http://arxiv.org/abs/2208.08519v1](http://arxiv.org/abs/2208.08519v1), Code: **[https://github.com/tudelft-iv/crossviewmetriclocalization](https://github.com/tudelft-iv/crossviewmetriclocalization)**
 - 2022-08-17, **Understanding Attention for Vision-and-Language Tasks**, Feiqi Cao et.al., Paper: [http://arxiv.org/abs/2208.08104v1](http://arxiv.org/abs/2208.08104v1)
 - 2022-08-14, **Visual Localization via Few-Shot Scene Region Classification**, Siyan Dong et.al., Paper: [http://arxiv.org/abs/2208.06933v1](http://arxiv.org/abs/2208.06933v1), Code: **[https://github.com/siyandong/src](https://github.com/siyandong/src)**
-- 2022-08-14, **HyP$^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval**, Chengyin Xu et.al., Paper: [http://arxiv.org/abs/2208.06866v1](http://arxiv.org/abs/2208.06866v1), Code: **[https://github.com/jerryxu0129/hyp2-loss](https://github.com/jerryxu0129/hyp2-loss)**
+- 2022-08-14, **HyP $^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval**, Chengyin Xu et.al., Paper: [http://arxiv.org/abs/2208.06866v1](http://arxiv.org/abs/2208.06866v1), Code: **[https://github.com/jerryxu0129/hyp2-loss](https://github.com/jerryxu0129/hyp2-loss)**
 - 2022-08-13, **Finding Point with Image: An End-to-End Benchmark for Vision-based UAV Localization**, Ming Dai et.al., Paper: [http://arxiv.org/abs/2208.06561v1](http://arxiv.org/abs/2208.06561v1)
 - 2022-08-16, **Category-Level Pose Retrieval with Contrastive Features Learnt with Occlusion Augmentation**, Georgios Kouros et.al., Paper: [http://arxiv.org/abs/2208.06195v2](http://arxiv.org/abs/2208.06195v2), Code: **[https://github.com/gkouros/contrastive-pose-retrieval](https://github.com/gkouros/contrastive-pose-retrieval)**
 - 2022-08-12, **Instance Image Retrieval by Learning Purely From Within the Dataset**, Zhongyan Zhang et.al., Paper: [http://arxiv.org/abs/2208.06119v1](http://arxiv.org/abs/2208.06119v1)
@@ -608,7 +604,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20221202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -686,7 +682,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20221202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 ## Image Matching
 
@@ -761,7 +757,7 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20221202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 ## NeRF
 
@@ -825,7 +821,7 @@
 - 2022-10-13, **Multiplane NeRF-Supervised Disentanglement of Depth and Camera Pose from Videos**, Yang Fu et.al., Paper: [http://arxiv.org/abs/2210.07181v1](http://arxiv.org/abs/2210.07181v1)
 - 2022-10-12, **GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF**, Qiyu Dai et.al., Paper: [http://arxiv.org/abs/2210.06575v1](http://arxiv.org/abs/2210.06575v1)
 - 2022-10-12, **Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video**, Xuan Gao et.al., Paper: [http://arxiv.org/abs/2210.06108v1](http://arxiv.org/abs/2210.06108v1), Code: **[https://github.com/USTC3DV/NeRFBlendShape-code](https://github.com/USTC3DV/NeRFBlendShape-code)**
-- 2022-10-11, **X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360$^{\circ} $ Insufficient RGB-D Views**, Haoyi Zhu et.al., Paper: [http://arxiv.org/abs/2210.05135v1](http://arxiv.org/abs/2210.05135v1), Code: **[https://github.com/haoyizhu/xnerf](https://github.com/haoyizhu/xnerf)**
+- 2022-10-11, **X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360 $^{\circ}$ Insufficient RGB-D Views**, Haoyi Zhu et.al., Paper: [http://arxiv.org/abs/2210.05135v1](http://arxiv.org/abs/2210.05135v1), Code: **[https://github.com/haoyizhu/xnerf](https://github.com/haoyizhu/xnerf)**
 - 2022-10-10, **NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields**, Arunkumar Byravan et.al., Paper: [http://arxiv.org/abs/2210.04932v1](http://arxiv.org/abs/2210.04932v1)
 - 2022-10-10, **EVA3D: Compositional 3D Human Generation from 2D Image Collections**, Fangzhou Hong et.al., Paper: [http://arxiv.org/abs/2210.04888v1](http://arxiv.org/abs/2210.04888v1)
 - 2022-10-13, **NerfAcc: A General NeRF Acceleration Toolbox**, Ruilong Li et.al., Paper: [http://arxiv.org/abs/2210.04847v2](http://arxiv.org/abs/2210.04847v2), Code: **[https://github.com/kair-bair/nerfacc](https://github.com/kair-bair/nerfacc)**
@@ -884,7 +880,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20221202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
