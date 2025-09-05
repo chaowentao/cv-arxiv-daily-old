@@ -37,7 +37,7 @@ md_wechat_path: './docs/wechat.md'
 #                   "Line Segment Detection", "Local Feature Matching"]
 #     "NeRF":
 #         filters: ["NeRF"]
-
+# keywords to search
 keywords:
     "Image Generation": 
         filters: ["Text-to-Image", "Image Manipulation", "Image Editing", "Image Generation"]
