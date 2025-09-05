@@ -1,0 +1,76 @@
+# TODO: add papers by configuration file
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "Vincentqyw"
+repo_name: "cv-arxiv-daily"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 10
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+# file paths
+json_readme_path: './docs/cv-arxiv-daily.json'
+json_gitpage_path: './docs/cv-arxiv-daily-web.json'
+json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# keywords to search
+# keywords:
+#     "SLAM": 
+#         filters: ["SLAM", "Visual Odometry"]
+#     "SFM":
+#         filters: ["SFM", "Structure from Motion"]
+#     "Visual Localization":
+#         filters: ["Visual Localization","Camera Localization",
+#                   "Camera Re-localisation","Loop Closure Detection",
+#                   "visual place recognition","image retrieval"]
+#     "Keypoint Detection":
+#         filters: ["Keypoint Detection", "Feature Descriptor"]
+#     "Image Matching":
+#         filters: ["Image Matching", "Keypoint Matching", 
+#                   "Line Segment Detection", "Local Feature Matching"]
+#     "NeRF":
+#         filters: ["NeRF"]
+
+keywords:
+    "Image Generation": 
+        filters: ["Text-to-Image", "Image Manipulation", "Image Editing", "Image Generation"]
+    "Light Field Super Resolution":
+        filters: ["Light Field Image Super-Resolution", "Light Field Super Resolution", "Light Field Super-Resolution", "LFSR"]
+    "Light Field Depth Estimation":
+        filters: ["Light Field Depth Estimation", "Light Field Disparity Estimation"]
+    "Light Field View Synthesis":
+        filters: ["Light Field View Synthesis", "Light Field Angular Super Resolution", "Light Field Angular Reconstruction", "Light Field Reconstruction"]
+    "Light Field Other Applications":
+        filters: ["Light Field Deblurring", "Light Field Saliency Detection", "Light Field Segmentation"]
+    "Diffusion":
+        filters: ["Diffusion"]
+    "Vision Transformer":
+        filters: ["Vision Transformer"]
+    "NeRF":
+        filters: ["NeRF"]
+    "Super Resolution":
+        filters: ["Super Resolution"]
+    "Depth Estimation":
+        filters: ["Depth Estimation", "Disparity Estimation"]
+    "View Synthesis":
+        filters: ["View Synthesis"]
+    "Gaussian Splatting":
+        filters: ["Gaussian Splatting"]
+
+    
+
+# #     keywords["Diffusion"] = "\"Diffusion Super Resolution\"OR\"Diffusion Depth Estimation\"OR\"Diffusion Disparity Estimation\"OR\"Diffusion View Synthesis\""
+#     keywords["Vision Transformer"] = "\"Vision Transformer\""
+# #     keywords["Vision Transformer"]   = "\"Transformer Super Resolution\"OR\"Transformer Depth Estimation\"OR\"Transformer Disparity Estimation\"OR\"Transformer View Synthesis\""
+#     keywords["NeRF"] = "\"NeRF\""
+# #     keywords["NeRF"] = "\"NeRF Super Resolution\"OR\"NeRF Depth Estimation\"OR\"NeRF Disparity Estimation\"OR\"NeRF View Synthesis\""
+#     keywords["Super Resolution"] = "\"Super Resolution\""
+#     keywords["Depth Estimation"] = "\"Depth Estimation\"OR\"Disparity Estimation\""
+#     keywords["View Synthesis"]      = "\"View Synthesis\""
